@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2014-10-24;181
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,38 @@ Per quanto non espressamente previsto dal presente capitolato d'oneri si applica
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente Capitolato, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Codice», il decreto legislativo 12 aprile 2006, n. 163, recante il «Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Regolamento», il regolamento di cui all'articolo 5 del decreto legislativo n. 163 del 2006, adottato con decreto del Presidente della Repubblica 5 ottobre 2010, n. 207; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Legge di Contabilita' generale dello Stato», il regio decreto 18 novembre 1923, n. 2440, recante «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato"; 
+ d) «Organo tecnico», l'organo del Comando Generale della Guardia di finanza o dell'Ente amministrativo della Guardia di finanza competente in relazione alla specifica progettualita'; 
+ e) «Amministrazione», il Corpo della Guardia di finanza; 
+ f) «Gruppo Europeo di Interesse Economico (GEIE)», l'organismo di cooperazione transnazionale, di cui al Regolamento (CEE) n. 2137/85 del Consiglio del 25 luglio 1985 e al decreto legislativo 23 luglio 1991, n. 240, rivolto agli operatori economici europei appartenenti almeno a due Stati membri diversi e volto a facilitare e sviluppare le attivita' economiche dei suoi membri mettendo in comune risorse, attivita' ed esperienze; 
+ g) «Operatore economico», la persona fisica, la persona giuridica o l'ente senza personalita' giuridica - ivi compreso il gruppo europeo di interesse economico (GEIE) - che offre sul mercato la fornitura di beni ovvero la prestazione di servizi; 
+ h) «contraente», l'operatore economico che stipula un atto negoziale con l'Amministrazione; 
+ i) «organo di verifica», il direttore dell'esecuzione contrattuale o la commissione appositamente nominata per effettuare la verifica di conformita' dell'esecuzione; 
+ j) «documenti di gara», i documenti prodotti dall'Amministrazione utili per la selezione del contraente nell'ambito della procedura di gara.
+
 ## Art. 3. — Termini e loro computo
 
 I termini indicati nei contratti, sia per l'Amministrazione che per l'operatore economico, decorrono dal giorno successivo a quello in cui si sono verificati gli avvenimenti o prodotte le operazioni, da cui debbono avere inizio i termini stessi.
@@ -44,7 +76,99 @@ Quando l'ultimo giorno del termine cade di domenica o in giornata festiva il ter
 
 ## Art. 4. — Norme regolatrici dei rapporti contrattuali
 
+1.
+                    
+                        
+                            I rapporti contrattuali sono regolati: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal Codice e dal Regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalla «Legge di Contabilita' generale dello Stato» e dal relativo Regolamento di attuazione, di cui al Regio decreto 23 maggio 1924, n. 827, in quanto compatibili con le norme del Codice e del Regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle disposizioni del presente Capitolato, ove richiamato nel bando o nella lettera di invito; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dalle disposizioni previste dagli appositi disciplinari tecnici, ove richiamati nel bando o nella lettera di invito; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dalle clausole del contratto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dal Codice civile e dalle altre disposizioni normative gia' emanate o che saranno emanate in materia di contratti di diritto privato, per quanto non regolato dalle clausole e disposizioni degli atti sopra richiamati.
+
 ## Art. 5. — Determinazione a contrarre
+
+1.
+                    
+                        
+                            Prima dell'avvio delle procedure di affidamento degli appalti, con determinazione a contrarre, l'Amministrazione individua: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli elementi essenziali del contratto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la procedura di scelta del contraente e i criteri di selezione delle offerte; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di procedura negoziata, le ragioni che ne giustificano il ricorso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la motivazione circa la mancata suddivisione dell'appalto in lotti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la copertura finanziaria, con indicazione dei relativi capitoli di bilancio, e comunque delle fonti previste per l'intera esecuzione del contratto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il Responsabile Unico del Procedimento.
 
 ## Art. 6. — Definizione delle specifiche tecniche
 
@@ -65,6 +189,87 @@ In caso di eventuale contrasto tra le previsioni del bando e quelle contenute ne
 ## Art. 8. — Disciplinare di gara
 
 In caso di indizione di gare a procedura aperta o ristretta, di ricorso all'accordo quadro o al dialogo competitivo, l'Amministrazione puo' redigere il disciplinare di gara, nel quale sono indicate le disposizioni necessarie a fornire agli operatori economici gli elementi essenziali con cui sara' individuato il futuro contraente.
+
+2.
+                    
+                        
+                            In particolare, il disciplinare indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli atti di gara, le relative modalita' di svolgimento e la tempistica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le definizioni, relativamente alla terminologia utilizzata nel bando; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le norme di legge applicabili alla procedura; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'oggetto dell'appalto, con rinvio alle specifiche tecniche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i requisiti di idoneita' per l'ammissione e le relative modalita' di attestazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' e i termini di presentazione delle offerte e della documentazione amministrativa necessaria; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le cauzioni da prestare e i relativi termini; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i criteri di selezione delle offerte; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                nel caso di procedura con criterio di aggiudicazione dell'offerta economicamente piu' vantaggiosa, gli elementi di valutazione dell'offerta, il peso attribuito a ciascuno di essi, nonche' i criteri secondo cui la Commissione giudicatrice attribuisce i punteggi a ciascuna offerta, prevedendo, in relazione a tali criteri, idonee motivazioni analiticamente formulate in ordine all'oggetto dell'appalto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il procedimento di verifica delle offerte anormalmente basse; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                le modalita' di versamento delle spese contrattuali.
 
 ## Art. 9. — Forniture conformi a campioni
 
@@ -90,6 +295,31 @@ L'Amministrazione effettua le comunicazioni agli operatori economici mediante po
 
 Ferma restando l'applicazione della disciplina di cui all'articolo 20, relativa agli acquisti effettuati tramite Consip S.p.A. o altre centrali di committenza, l'Amministrazione adotta, per l'acquisizione di beni e servizi, le procedure indicate nel Codice e, in relazione a specifici comparti, nella relativa normativa di settore.
 
+2.
+                    
+                        
+                            Nel caso di ripetizione di servizi analoghi e consegne complementari, la scelta tra la procedura negoziata, ricorrendone i presupposti previsti dal Codice, e le altre procedure concorsuali tiene conto, altresi': 
+ 
+                        
+                        
+                            a)
+                            
+                                del grado di soddisfazione in ordine alle prestazioni ovvero alle forniture rese dall'originario aggiudicatario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della possibilita' di ottenere sul mercato condizioni piu' vantaggiose; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle evoluzioni eventualmente intervenute nell'ambito dei processi e dei prodotti oggetto del contratto.
+
 ## Art. 13. — Scelta del criterio di selezione delle offerte
 
 In caso di affidamento di servizi o forniture standardizzati per i quali sono gia' individuate le caratteristiche qualitative e le modalita' di esecuzione, si ricorre al criterio del prezzo piu' basso.
@@ -104,15 +334,108 @@ Ai fini dell'inserimento della clausola di cui al comma 1, l'Amministrazione tie
 
 Indipendentemente dalle disposizioni di cui ai commi 1 e 2, il bando di gara deve sempre prevedere che ove l'Amministrazione valuti le offerte non convenienti, cioe' non rispondenti alle sue esigenze in termini di economicita' o non idoneita' in relazione all'oggetto del contratto, puo' decidere, con provvedimento motivato, comunicato agli operatori economici interessati, di non procedere alla aggiudicazione di nessuna offerta.
 
+4.
+                    
+                        
+                            Nell'ambito della procedura ristretta, l'Amministrazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                indica nel bando e nel disciplinare di gara, quando predisposto, tutte le informazioni necessarie agli operatori economici per la presentazione della domanda di partecipazione e, in particolare, i requisiti di qualificazione richiesti e il termine per la sua presentazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica la regolarita' delle domande di partecipazione pervenute e invita tutti gli operatori economici in possesso dei requisiti di qualificazione. La lettera di invito contiene tutte le informazioni necessarie agli operatori economici per la presentazione dell'offerta.
+
 ## Art. 15. — Disposizioni relative alla procedura negoziata
+
+1.
+                    
+                        
+                            Ai fini del ricorso alla procedura negoziata previa pubblicazione di bando, le offerte si considerano: 
+ 
+                        
+                        
+                            a)
+                            
+                                irregolari, quando non rispondono ai requisiti di forma richiesti dal bando; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                inammissibili, quando non sono conformi alle caratteristiche tecniche e qualitative richieste dall'Amministrazione.
+
+2.
+                    
+                        
+                            Ai fini del ricorso alla procedura negoziata senza pubblicazione di bando: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'unicita' dell'operatore economico disponibile sul mercato e' attestata dall'Organo tecnico proponente e riscontrata mediante l'esperimento di apposita indagine di mercato ovvero attraverso elementi oggettivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'acquisto di forniture a condizioni particolarmente vantaggiose e' necessario che: 
+ - il prezzo sia inferiore al miglior prezzo di mercato e a parita' di condizioni tecniche; 
+ - la cessazione dell'attivita' sia rilevabile da un atto giuridico di fallimento, di messa in liquidazione, anche volontaria, di concordato preventivo o di amministrazione straordinaria.
 
 ## Art. 16. — Disposizioni relative al dialogo competitivo
 
 La fase del dialogo e' condotta in maniera riservata con ciascun operatore economico selezionato, discutendo gli aspetti relativi esclusivamente alle soluzioni proposte, senza entrare nel merito di quelle concorrenti.
 
+2.
+                    
+                        
+                            La fase del dialogo si conclude con esito: 
+ 
+                        
+                        
+                            a)
+                            
+                                positivo, quando l'Amministrazione individua soluzioni idonee alle proprie esigenze. In tal caso, l'Amministrazione invita i partecipanti a presentare le offerte finali, che contengono tutti gli elementi richiesti e necessari per l'esecuzione dell'appalto.
+L'aggiudicazione avviene con gara attraverso il criterio dell'offerta economicamente piu' vantaggiosa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                negativo, quando l'Amministrazione ritiene che nessuna delle soluzioni proposte soddisfa le proprie necessita'. In tal caso, con provvedimento motivato, l'Amministrazione informa tempestivamente i partecipanti, ai quali, ai sensi dell'articolo 58, comma 11, del Codice, non spetta alcun indennizzo o risarcimento.
+
 ## Art. 17. — Disposizioni relative all'accordo quadro
 
 L'accordo quadro puo' essere utilizzato qualora l'Amministrazione deve approvvigionarsi di beni o servizi per soddisfare fabbisogni di lungo periodo, non superiore a quattro anni, per quantita' da determinare nel corso del suddetto periodo.
+
+2.
+                    
+                        
+                            L'accordo quadro: 
+ 
+                        
+                        
+                            a)
+                            
+                                vincola il contraente all'esecuzione delle forniture di beni o delle prestazioni di servizi in favore dell'Amministrazione secondo le condizioni ivi stabilite; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non vincola l'Amministrazione all'acquisto delle quantita' di beni o servizi, presuntivamente stimate nell'ambito dell'accordo, se non ne ha necessita'.
 
 ## Art. 18. — Disposizioni relative al sistema dinamico di acquisizione e ad altre procedure di affidamento gestite interamente con strumenti elettronici
 
@@ -125,6 +448,38 @@ Il ricorso ad aste elettroniche o ad altri sistemi elettronici utili allo svolgi
 I servizi e le forniture in economia riguardano acquisizioni per valori sotto la soglia stabilita nell'articolo 125, comma 9, del Codice, adeguati in relazione alle modifiche delle soglie, secondo le procedure disciplinate dal Codice.
 
 Il Comandante dell'Ente amministrativo o altro soggetto individuato dall'Amministrazione titolare del potere di spesa autorizza il ricorso alla procedura in economia.
+
+3.
+                    
+                        
+                            L'atto che autorizza il ricorso alla procedura in economia indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'esigenza da soddisfare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i motivi per i quali e' adottata la procedura in economia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'importo presunto della spesa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ove possibile, il capitolo di imputazione della spesa.
 
 Il procedimento di acquisizione e' posto in atto dal funzionario individuato dall'Amministrazione, il quale adotta, nell'ambito della propria competenza, gli atti preparatori e quelli di spesa, anche a rilevanza esterna.
 
@@ -140,6 +495,24 @@ Fermi restando i casi di ricorso obbligatorio alle convenzioni di cui al comma 1
 Nelle procedure ristrette, nel dialogo competitivo, nelle procedure negoziate con pubblicazione del bando di gara, l'Amministrazione, mediante posta elettronica certificata, invita gli operatori economici che ne hanno fatto richiesta e che hanno superato la fase di prequalificazione, risultando in possesso dei requisiti di partecipazione previsti nel bando di gara, a presentare le offerte. 
  L'invito contiene gli elementi specificamente previsti dalle norme del Codice nonche' quelli ritenuti utili dall'Amministrazione.
 
+2.
+                    
+                        
+                            Con riferimento al dialogo competitivo, l'Amministrazione predispone due distinti inviti, con cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella prima fase della procedura, invita a partecipare al dialogo gli operatori economici che ne hanno fatto richiesta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella fase di gara successiva alla conclusione del dialogo, invita ciascun operatore economico a presentare la propria offerta.
+
 Nelle procedure negoziate senza pubblicazione del bando di gara, l'Amministrazione, mediante posta elettronica certificata, rende nota l'intenzione di aggiudicare un appalto e fissa l'insieme delle prescrizioni e delle regole per la partecipazione e lo svolgimento della fase di negoziazione. 
  L'invito contiene, ove previsto, il criterio di aggiudicazione nonche' gli elementi essenziali della prestazione richiesta, i requisiti di partecipazione, i termini e le modalita' per la presentazione delle offerte.
 
@@ -149,11 +522,61 @@ Gli operatori economici ammessi a partecipare alle procedure per l'affidamento d
 
 Salvo i casi in cui e' possibile l'utilizzo delle autocertificazioni, ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, gli operatori economici di cui al comma 1 si qualificano producendo, secondo le modalita' previste dalla normativa vigente, la documentazione idonea a comprovare il possesso dei requisiti richiesti dalla legge. Il bando di gara indica espressamente la documentazione che, ai sensi dell'articolo 3 del decreto del Presidente della Repubblica n. 445 del 2000 innanzi citato, deve essere resa mediante certificati o attestazioni rilasciati dalla competente autorita' dello Stato estero, corredati di traduzione in lingua italiana autenticata dall'Autorita' consolare italiana, che ne attesta la conformita' all'originale.
 
+3.
+                    
+                        
+                            Nel caso di raggruppamenti temporanei o consorzi ordinari di imprese, ferme restando le condizioni di partecipazione previste dalla legge, il bando di gara indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                i requisiti che devono essere posseduti a pena di esclusione dagli operatori economici partecipanti e quelli che e' sufficiente siano posseduti da una sola delle imprese raggruppate o consorziate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'ipotesi di raggruppamento temporaneo di imprese di tipo verticale, la prestazione principale e quella secondaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'obbligo per i concorrenti di specificare nelle proprie offerte il riparto in termini qualitativi e quantitativi delle prestazioni che saranno eseguite da ciascuna impresa.
+
 Nessuna eccezione relativa a vicende interne al raggruppamento temporaneo o al consorzio di imprese puo' essere sollevata nei confronti dell'Amministrazione al fine di ottenere esenzioni dal regime di responsabilita' per inadempimento.
 
 ## Art. 23. — La partecipazione alla gara: i requisiti
 
 Per l'esecuzione di pubblici appalti, i requisiti di ordine generale previsti dal Codice sono posseduti dagli operatori economici partecipanti sin dal momento della partecipazione alla gara e per tutta la durata del contratto, nonche' dai subappaltatori per tutta la durata del rapporto negoziale con il contraente.
+
+2.
+                    
+                        
+                            Nella valutazione in ordine alla gravita' dei reati di cui all'articolo 38, comma 1, lettera c), del Codice, l'Amministrazione tiene conto congiuntamente dei seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                i profili oggettivi e soggettivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il tempo in cui il reato e' commesso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la natura e misura della pena.
 
 ## Art. 24. — Il subappalto e la subfornitura
 
@@ -162,6 +585,24 @@ Il subappalto e' consentito alle condizioni e nei limiti previsti dal Codice e d
 Il contraente puo', altresi', avvalersi, nel rispetto delle condizioni previste dalla vigente normativa, di forniture di beni o prestazioni di servizi rese da altri operatori economici.
 
 Resta in ogni caso invariata la responsabilita' del contraente, il quale risponde direttamente del preciso adempimento di tutti gli obblighi contrattuali, tanto per fatto proprio quanto per fatto del subappaltatore o del subfornitore, fermo restando il diritto dell'Amministrazione alla risoluzione contrattuale e al risarcimento dei danni.
+
+4.
+                    
+                        
+                            Il contraente, nei contratti di subappalto e, ove stipulati in forma scritta, nei contratti di subfornitura, inserisce la clausola secondo cui il subcontraente assume tutti gli obblighi di tracciabilita' dei flussi finanziari e in particolare si impegna a: 
+ 
+                        
+                        
+                            a)
+                            
+                                comunicare allo stesso contraente, oltre che all'Amministrazione, entro sette giorni dalla loro accensione o destinazione, gli estremi identificativi dei conti correnti bancari o postali che utilizzera' per le operazioni finanziarie relative al contratto, nonche' le generalita' e il codice fiscale delle persone delegate a operare sugli stessi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettuare tutte le operazioni finanziarie relative al contratto con strumenti di incasso o pagamento idonei a consentirne la piena tracciabilita', riportando sugli stessi il Codice Identificativo Gara relativo al contratto e, ove previsto, il Codice Unico Progetto.
 
 Nel contratto di subappalto o subfornitura, ciascuna parte si impegna, altresi', a dare immediata comunicazione all'Amministrazione e alla Prefettura - Ufficio territoriale del Governo competente dell'eventuale inadempimento della controparte agli obblighi di cui al presente articolo.
 
@@ -188,15 +629,207 @@ Ai componenti delle Commissioni di cui ai commi 1 e 5 non spettano emolumenti, c
 Procedura di aggiudicazione con il criterio 
  del prezzo piu' basso
 
+1.
+                    
+                        
+                            Nell'ambito delle procedure di gara con criterio di aggiudicazione del prezzo piu' basso, nel giorno fissato dal bando la Commissione, ove nominata ai sensi dell'articolo 25, comma 5, ovvero il Responsabile unico del procedimento, in seduta pubblica, riceve la documentazione pervenuta e provvede a: 
+ 
+                        
+                        
+                            a)
+                            
+                                determinare l'irricevibilita' della documentazione pervenuta oltre i termini; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare che la documentazione e' stata trasmessa secondo i criteri previsti dal bando, provvedendo alla relativa autenticazione mediante apposizione di firma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                effettuare la verifica della documentazione amministrativa, deliberando l'ammissione o l'esclusione dei concorrenti, ovvero richiedendo, nei casi in cui la legge la ammetta, l'integrazione documentale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sorteggiare i concorrenti chiamati a comprovare i requisiti autocertificati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                rinviare a una successiva seduta l'apertura delle offerte, informando i concorrenti in merito alle modalita' di custodia delle stesse.
+
+2.
+                    
+                        
+                            Nel giorno stabilito, la Commissione ovvero il Responsabile unico del procedimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                rende pubbliche le risultanze dell'attivita' di verifica dei requisiti, determinando l'eventuale esclusione dei concorrenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                apre le offerte economiche, dando lettura del prezzo complessivo offerto da ciascun concorrente e del relativo ribasso percentuale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiara, in presenza di offerte che appaiono anormalmente basse, l'avvio del relativo procedimento di verifica, rinviando, in tal caso, a una successiva seduta pubblica le attivita' di cui alla lettera d); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                previa eventuale esclusione delle offerte risultate anomale, delibera l'aggiudicazione provvisoria a favore del miglior offerente.
+
 ## Art. 27.
 
 Procedura di aggiudicazione con il criterio dell'offerta economicamente piu' vantaggiosa
 
+1.
+                    
+                        
+                            Nell'ambito delle procedure di gara con criterio di aggiudicazione dell'offerta economicamente piu' vantaggiosa, il giorno fissato dal bando di gara, la Commissione, ove nominata ai sensi dell'articolo 25, comma 5, ovvero il Responsabile unico del procedimento riceve la documentazione pervenuta dai concorrenti e, in seduta pubblica: 
+ 
+                        
+                        
+                            a)
+                            
+                                determina l'irricevibilita' della documentazione pervenuta oltre i termini; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica che la documentazione e' stata trasmessa secondo i criteri previsti dal bando e provvede alla relativa autenticazione mediante apposizione di firma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                effettua la verifica della documentazione amministrativa, deliberando l'ammissione o l'esclusione dei concorrenti, ovvero richiedendo, nei casi in cui la legge la ammetta, l'integrazione documentale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sorteggia i concorrenti chiamati a comprovare i requisiti autocertificati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                rinvia a una successiva seduta pubblica l'apertura delle offerte tecniche, informando i concorrenti in merito alle modalita' di custodia delle stesse.
+
+2.
+                    
+                        
+                            Nel giorno stabilito, la Commissione ovvero il Responsabile Unico del Procedimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                rende pubbliche le risultanze dell'attivita' di verifica dei requisiti, determinando l'eventuale esclusione dei concorrenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                apre le offerte tecniche, per constatarne la regolarita' formale e determinarne l'autenticazione mediante apposizione di firma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rinvia a una successiva seduta pubblica l'apertura delle offerte economiche, informando i concorrenti in merito alle modalita' di custodia delle stesse.
+
 Le attivita' di valutazione dell'offerta tecnica sono svolte dalla Commissione giudicatrice di cui all'articolo 25, comma 1, in seduta riservata.
+
+4.
+                    
+                        
+                            Nel giorno stabilito, la Commissione giudicatrice ovvero il Responsabile Unico del Procedimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                rende pubbliche le risultanze dell'attivita' di valutazione delle offerte tecniche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                apre le offerte economiche, dando lettura del prezzo complessivo offerto da ciascun concorrente e del relativo ribasso percentuale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attribuisce i punteggi all'offerta economica; qualora complessa, questa attivita' puo' essere rinviata a una successiva seduta riservata. In tal caso, la Commissione giudicatrice rinvia a una successiva seduta pubblica la comunicazione dei punteggi complessivi totalizzati dai concorrenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dichiara, in presenza di offerte che appaiono anormalmente basse, l'avvio del relativo procedimento di verifica, rinviando, in tal caso, a una successiva seduta pubblica le attivita' di cui alla lettera e); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                previa eventuale esclusione delle offerte risultate anomale, delibera l'aggiudicazione provvisoria a favore dell'offerente che ha totalizzato il punteggio complessivo piu' alto.
 
 ## Art. 28.
 
 Le formalita' nella presentazione dei documenti
+
+1.
+                    
+                        
+                            Il bando di gara indica i termini e le modalita' di presentazione delle offerte e della documentazione amministrativa, specificando: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di trasmissione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli obblighi di intestazione e sottoscrizione dei documenti.
 
 Sono escluse le offerte ritenute non conformi alle richieste specificate dall'Amministrazione e non presentate in forma chiara e univoca con riguardo al ribasso e al prezzo offerto nonche' alla quantita' e natura dei beni o servizi oggetto di offerta.
 
@@ -208,6 +841,24 @@ Le offerte economiche indicano, a pena di nullita', il ribasso rispetto al prezz
 
 In caso di discordanza tra il prezzo indicato in cifre e quello indicato in lettere, prevale l'importo piu' favorevole all'Amministrazione.
 
+7.
+                    
+                        
+                            Nell'ipotesi di gara con aggiudicazione secondo il criterio del prezzo piu' basso, in presenza di due o piu' offerte economiche equivalenti, la Commissione invita gli operatori economici interessati: 
+ 
+                        
+                        
+                            a)
+                            
+                                ove tutti presenti alla seduta pubblica, a riformulare l'offerta nella stessa sede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ove non tutti presenti alla seduta pubblica, a riformulare l'offerta, stabilendo modalita' e termini della ripresentazione.
+
 Le offerte presentate non possono essere ritirate, modificate o integrate e restano valide per tutto il periodo di durata della procedura di gara, ovvero per il periodo indicato nel bando di gara o nella lettera d'invito.
 
 Non sono accettate le offerte vincolate da clausole nonche' quelle recanti modifiche o restrizioni alle disposizioni del presente capitolato oppure a quelle contemplate nella documentazione ufficiale di gara.
@@ -218,6 +869,38 @@ La pubblicita' delle operazioni di gara
 
 Lo svolgimento delle sedute, tenute sia in forma pubblica che riservata, e' documentato mediante verbale redatto a cura del membro della Commissione che svolge anche le funzioni di segretario.
 
+2.
+                    
+                        
+                            Il verbale, sottoscritto da tutti i componenti la Commissione nonche' dall'Ufficiale rogante, ove presente, reca: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione dei soggetti partecipanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli elementi identificativi della procedura di gara in corso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione delle operazioni compiute durante la seduta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli eventuali rilievi e le osservazioni effettuati dai soggetti presenti.
+
 ## Art. 30. — Adempimenti preliminari alla stipula
 
 L'Amministrazione non procede ad alcuna forma di rinegoziazione dell'offerta presentata dall'aggiudicatario.
@@ -225,6 +908,116 @@ L'Amministrazione non procede ad alcuna forma di rinegoziazione dell'offerta pre
 Prima di procedere alla stipula del contratto, l'Amministrazione verifica l'eventuale presenza di una sostanziale differenza del prezzo o delle qualita' tecniche del servizio o della fornitura oggetto della migliore offerta rispetto ai valori presenti nel mercato di riferimento.
 
 ## Art. 31. — La sottoscrizione del contratto
+
+1.
+                    
+                        
+                            In ciascun contratto le parti stipulanti sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Corpo della Guardia di finanza che e' indicato con il termine "Amministrazione" ed e' rappresentato nei modi prescritti dalle norme in vigore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il fornitore di beni ovvero il prestatore dei servizi contraente, che e' indicato con il termine "operatore economico" ed e' rappresentato da persona legalmente abilitata a impegnarla e della quale sono specificate la qualifica e le generalita'. La relativa documentazione e' allegata al contratto.
+
+2.
+                    
+                        
+                            L'operatore economico, sia nazionale che straniero, elegge domicilio legale: 
+ 
+                        
+                        
+                            a)
+                            
+                                in Roma, per i contratti accentrati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel luogo ove ha sede l'Ente amministrativo, per i contratti decentrati.
+
+3.
+                    
+                        
+                            Il contratto contiene i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                il numero di repertorio, la data e il luogo di stipulazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'oggetto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in caso di raggruppamento temporaneo di imprese, la suddivisione delle quote di esecuzione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                una premessa che ripercorre le fasi di individuazione del contraente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le parti stipulanti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il prezzo globale del contratto, con specifica indicazione delle singole componenti e degli oneri fiscali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli estremi della garanzia definitiva; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli estremi identificativi dei conti correnti dedicati, anche non in via esclusiva, le generalita' ed il codice fiscale delle persone delegate ad operare su di essi, nonche' l'assunzione, da parte del contraente, degli obblighi di tracciabilita' dei flussi finanziari, di cui all'articolo 3 della legge 13 agosto 2010, n. 136; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il Codice Identificativo Gara e, ove previsto, il Codice Unico Progetto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                le clausole che il contraente deve obbligatoriamente inserire negli eventuali contratti di subappalto o di subfornitura in tema di tracciabilita' dei flussi finanziari.
 
 ## Art. 32. — Le spese contrattuali e gli oneri fiscali
 
@@ -247,6 +1040,52 @@ L'eventuale consegna dei materiali dell'Amministrazione, da impiegarsi nelle lav
 Il contratto vincola il contraente dal momento della stipulazione e diviene obbligatorio per l'Amministrazione dopo che e' stato approvato nei modi di legge ed il relativo decreto di approvazione e' stato registrato, ove previsto, presso gli organi di controllo.
 
 Fino alla verifica di tali condizioni non si procede all'avvio dell'esecuzione contrattuale, salvi i casi previsti dal Regolamento.
+
+3.
+                    
+                        
+                            Il decreto che approva il contratto contiene i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli estremi della determinazione a contrarre; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli estremi del verbale di aggiudicazione provvisoria e del decreto di aggiudicazione definitiva, ove previsti in relazione alla procedura utilizzata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dati relativi al contraente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le specifiche della garanzia prestata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero di repertorio e la data di stipulazione del contratto, la prestazione contrattuale ed il relativo importo al netto dell'imposta sul valore aggiunto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il dispositivo, contenente l'approvazione del contratto nonche' il relativo impegno contabile, con indicazione, ove possibile, del capitolo di bilancio su cui imputare la relativa spesa.
 
 In caso di mancata approvazione del contratto, l'esecutore ha diritto soltanto al rimborso delle somme versate per le spese contrattuali, aumentate degli interessi legali decorrenti dalla data di versamento, salvo quanto previsto dall'articolo 36, comma 3.
 
@@ -275,6 +1114,66 @@ In caso di mancata registrazione del decreto di approvazione del contratto o, ov
 Il direttore dell'esecuzione e' il soggetto nominato dall'Amministrazione ed incaricato di svolgere la vigilanza e il controllo dell'esecuzione delle prestazioni contrattuali.
 
 Per esigenze organizzative, il direttore dell'esecuzione puo' avvalersi, in ciascuna fase del procedimento, di assistenti cui affidare, sotto la propria vigilanza, alcune delle attivita' di propria competenza. Detti assistenti, nominati con provvedimento dell'Amministrazione, sono individuati nell'ambito degli organi tecnici ovvero di quelli fruitori dei servizi.
+
+3.
+                    
+                        
+                            Il direttore dell'esecuzione: 
+ 
+                        
+                        
+                            a)
+                            
+                                comunica all'operatore economico l'avvio dell'esecuzione, ai sensi dell'articolo 35; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dirige e coordina l'insieme delle attivita' connesse all'esecuzione del contratto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                provvede al controllo tecnico-contabile delle prestazioni oggetto del contratto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ordina, se necessario, la sospensione dell'esecuzione e dei termini contrattuali in presenza di particolari circostanze che ne impediscono il regolare svolgimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                redige il verbale di sospensione e di ripresa dell'esecuzione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                verifica se i materiali utilizzati presentano i requisiti richiesti, ordinandone, in caso contrario, la sostituzione. In tali casi il contraente non ha diritto a supplemento del prezzo o indennita' alcuna, ne' ha titolo per chiedere una proroga del termine di approntamento alla verifica di conformita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                attesta, ad avvenuto approntamento alla verifica di conformita', l'effettiva ultimazione della prestazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                svolge la verifica di conformita' delle prestazioni, se non e' stata nominata un'apposita commissione.
 
 ## Art. 38. — I controlli
 
@@ -419,6 +1318,24 @@ L'Amministrazione acquisisce la proprieta' dei beni oggetto di fornitura solo do
 
 Resta a carico del contraente il rischio di perdite e danni ai beni durante il trasporto e la sosta nei luoghi in cui e' svolta la verifica di conformita', a eccezione delle perdite e danni imputabili all'Amministrazione.
 
+5.
+                    
+                        
+                            Tali rischi sono assunti dall'Amministrazione soltanto dopo la data: 
+ 
+                        
+                        
+                            a)
+                            
+                                di favorevole verifica di conformita', se le relative operazioni si svolgono in luoghi di pertinenza dell'Amministrazione o di terzi da questa indicati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di consegna nei luoghi indicati dal contratto, se le operazioni di verifica di conformita' si svolgono nei luoghi di pertinenza del contraente.
+
 Sono altresi' a carico del contraente le spese di qualsiasi natura connesse alla consegna dei beni effettuata nei luoghi in cui hanno sede gli uffici o i magazzini indicati nel contratto, entro i termini stabiliti e nelle ore in cui gli stessi sono aperti.
 
 Possono essere previste consegne comprensive di installazione; in tal caso, il termine si intende osservato con la posa in opera dei prodotti, secondo i criteri stabiliti nei contratti o nei capitolati d'oneri speciali.
@@ -466,6 +1383,57 @@ Il contraente comunica immediatamente all'Amministrazione eventuali pretese di t
 
 ## Art. 52. — Inadempimenti
 
+1.
+                    
+                        
+                            Il direttore dell'esecuzione, nell'ambito delle proprie competenze, comunica all'Amministrazione l'eventuale inadempimento degli obblighi contrattuali da parte del contraente.
+L'Amministrazione, assegna al contraente un termine non inferiore a quindici giorni per presentare le proprie giustificazioni. Trascorso detto periodo, o in caso di giustificazioni ritenute non soddisfacenti, l'Amministrazione, in ragione della gravita' dell'inadempimento puo': 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarare risolto il contratto, incamerando la cauzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvedere all'esecuzione in danno del contratto o della parte di esso non eseguita, affidando a terzi, ai prezzi e alle condizioni di mercato, le forniture e le prestazioni non eseguite, ricorrendo anche alle procedure in economia, laddove possibile, ovvero rivolgersi fino al quinto classificato che ha presentato offerta valida. In tali casi si provvede all'incameramento della cauzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                consentire l'ulteriore esecuzione del contratto, applicando le penalita' previste dall'articolo 53, se l'inadempimento e' tale da non determinare il venir meno dell'interesse dell'Amministrazione alla prosecuzione del rapporto contrattuale.
+
+2.
+                    
+                        
+                            Fermo restando quanto previsto dagli articoli 135 e 136 del Codice, in ogni caso, per l'Amministrazione costituisce grave inadempimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                il grave ritardo nell'esecuzione che arreca gravi danni all'Amministrazione, congruamente motivati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il mancato rinnovo o proroga della cauzione definitiva fino alla perfetta esecuzione di tutte le prestazioni contrattuali, suscettibili di arrecare gravi danni all'Amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ogni circostanza che comporta l'applicabilita' di penalita' per un importo superiore al dieci per cento del valore complessivo del contratto.
+
 Nelle ipotesi previste dalle lettere a) e b) del comma 1, al contraente e' liquidato esclusivamente l'importo corrispondente alla quota parte di fornitura o delle prestazioni gia' regolarmente verificate, accettate e consegnate, salva la facolta' dell'Amministrazione di restituire, ove possibile, le forniture, ripetendo i pagamenti, qualora gia' effettuati.
 
 Nell'ipotesi prevista dalla lettera b) del comma 1, l'avvenuta stipula del nuovo atto negoziale viene notificata al contraente inadempiente, con specificazione dei termini di esecuzione e del relativo importo.
@@ -479,6 +1447,39 @@ L'Amministrazione effettua le debite segnalazioni all'Autorita' nazionale antico
 Penalita'
 
 Fermo restando quanto previsto dall'articolo 298 del Regolamento, il contratto stabilisce i criteri per la determinazione dell'importo delle penalita' da applicare, in relazione alle inadempienze accertate, sulla base del valore delle forniture o prestazioni non correttamente eseguite.
+
+2.
+                    
+                        
+                            In ogni caso, salvo diverse prescrizioni contrattuali, l'Amministrazione applica al contraente una penalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                pari al tre per cento dell'ammontare del prezzo netto della prestazione o della porzione di prestazione in tutto o in parte difforme rispetto alle previsioni contrattuali o alle specifiche tecniche, salva la risarcibilita' del danno ulteriore ai sensi dell'articolo 1382 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                pari all'uno per mille del valore della prestazione per ogni giorno di ritardo, rispetto ai termini contrattualmente previsti, nell'effettuazione: 
+ 1) dell'approntamento alla verifica di conformita' o della consegna dei beni; 
+ 2) del ritiro dei beni rifiutati o dichiarati rivedibili in sede di verifica di conformita'; 
+ 3) della ripresentazione dei beni rifiutati o dichiarati rivedibili in sede di verifica di conformita'; 
+ 4) della manutenzione, sostituzione o riparazione di beni nell'ambito della garanzia contrattualmente prevista; 
+ 5) di ogni altro adempimento stabilito nell'atto negoziale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                pari all'uno per mille del valore contrattuale nei casi concernenti: 
+ 1) il mancato rispetto delle prescrizioni contrattuali in materia di presentazione e conservazione della documentazione tecnica o delle certificazioni inerenti alla tutela della salute e sicurezza sul lavoro, alla previdenza ed all'antinfortunistica nonche' alle subforniture; 
+ 2) l'omissione della comunicazione di ogni variazione soggettiva del contraente prevista dall'articolo 116 del Codice; 
+ 3) ogni altro inadempimento rispetto alle prescrizioni contrattuali, fuori dai casi di cui alla lettera a), salva la risarcibilita' del danno ulteriore ai sensi dell'articolo 1382 del codice civile;
 
 L'importo delle penalita', singolarmente e cumulativamente considerato, non puo' essere superiore al dieci per cento dell'ammontare complessivo del contratto, pena la risoluzione del contratto stesso per inadempimento, ai sensi dall'articolo 52.
 
@@ -508,7 +1509,58 @@ I pagamenti sono eseguiti dopo la verifica di conformita', accettazione e conseg
 
 Il prezzo indicato nel contratto come prezzo globale e' comprensivo di oneri fiscali e di ogni altro onere dovuto al contraente in relazione all'esecuzione del contratto, ivi comprese le spese di confezionamento, imballaggio e trasporto fino al luogo indicato per la consegna.
 
+3.
+                    
+                        
+                            Fatta salva ogni diversa previsione contrattuale, il pagamento del corrispettivo, dedotte le eventuali penalita' applicate al contraente, viene effettuato: 
+ 
+                        
+                        
+                            a)
+                            
+                                in unica soluzione, quando la consegna dei beni o la prestazione dei servizi e' stabilita in unico lotto, ovvero quando tale operazione si completa con la messa in opera di tutte le parti componenti la fornitura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ciascun lotto, quando la consegna dei beni o dei servizi e' frazionata in lotti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in conto per singole porzioni di beni o servizi, quando la consegna e' relativa ad ordinazioni parziali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                a epoche stabilite, quando le consegne hanno carattere di somministrazione periodica e regolare o di stato di avanzamento lavori ovvero nei casi di noleggio di beni.
+
 Nei casi di cui alle lettere a), b) e c) del comma 3, i contratti possono prevedere che su ogni pagamento sia trattenuto un decimo dell'importo contrattuale, da corrispondersi al termine del periodo di garanzia.
+
+5.
+                    
+                        
+                            Il pagamento e' subordinato all'esito positivo delle seguenti verifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                regolarita' contributiva e retributiva previste dalla legge.
+Se da tali verifiche risulta una situazione di irregolarita' del contraente, l'Amministrazione esercita l'intervento sostitutivo di cui agli articoli 4 e 5 del Regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mancanza di inadempienze di cui all'articolo 48-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sempreche' ricorra l'obbligo di procedere alla verifica prevista.
 
 Se all'esecutore sono stati contestati inadempimenti contrattuali, ferma restando l'applicazione di eventuali penali, l'Amministrazione puo' sospendere, in tutto o in parte, i pagamenti dovuti anche per altri contratti. Il relativo provvedimento e' comunicato al contraente ovvero all'esecutore nella forma prevista dall'articolo 11.
 

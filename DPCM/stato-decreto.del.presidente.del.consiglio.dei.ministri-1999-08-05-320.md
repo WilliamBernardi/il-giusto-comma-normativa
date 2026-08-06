@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2006-06-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -51,6 +51,56 @@ Per la fornitura di libri agli alunni delle scuole elementari seguita ad applica
 ## Art. 2. — Criteri per la determinazione della situazione economica equivalente
 
 La valutazione della situazione economica equivalente del richiedente e' determinata con riferimento al nucleo familiare composto dal richiedente medesimo, dai soggetti con i quali convive e da quelli considerati a suo carico ai fini IRPEF.
+
+2.
+                    
+                        
+                            La situazione economica equivalente del nucleo familiare si ottiene sommando: 
+ 
+                        
+                        
+                            a)
+                            
+                                tutti i redditi netti dei diversi componenti il nucleo familiare quali risultanti dalle dichiarazioni dei redditi o, in mancanza di obbligo di presentazione della dichiarazione dei redditi, dall'ultimo certificato sostitutivo rilasciato dai datori di lavoro o da enti previdenziali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il reddito delle attivita' finanziarie.
+
+3.
+                    
+                        
+                            Dalla cifra risultante a norma del comma 2 si detraggono: 
+ 
+                        
+                        
+                            a)
+                            
+                                L. 2.500.000 qualora il nucleo familiare risieda in abitazioni in locazione e non possegga altri immobili adibiti ad uso abitativo o residenziale nel comune di residenza; tale importo e' elevato a L. 3.500.000 qualora i membri del nucleo familiare non posseggano altri immobili adibiti ad uso abitativo o residenziale in altri comuni; non puo' essere detratta alcuna cifra nel caso in cui il canone di locazione e' corrisposto a societa' le cui quote sono intestate in tutto o in parte a membri del nucleo familiare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                L. 1.000.000 per il secondo figlio, L. 1.500.000 per il terzo figlio e L. 2.000.000 per ciascuno dei figli successivi al terzo, ove i figli siano a carico del richiedente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                L. 2.000.000 per ciascun ulteriore componente del nucleo familiare (( esclusi il coniuge ed i figli, )), che sia a carico del richiedente; detta cifra e' aumentata a L. 3.000.000 nel caso si tratti di invalido totale; ((2))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                L. 2.000.000, aggiuntivi alla cifra di cui alla lettera b) per ciascun figlio riconosciuto con handicap grave a norma dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, o con invalidita' superiore al 66%. La stessa cifra si aggiunge nel caso uno dei genitori dell'alunno versi nella stessa situazione di handicap o di invalidita' che determini impossibilita' di produrre reddito.
 
 Il richiedente attesta la situazione economica equivalente del nucleo familiare con dichiarazione sostitutiva a norma della legge 4 gennaio l968, n. 15, resa su modello conforme all'allegato B.
 

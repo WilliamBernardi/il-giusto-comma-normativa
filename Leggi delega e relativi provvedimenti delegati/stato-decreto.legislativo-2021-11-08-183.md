@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-08;183
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,59 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Su proposta del Presidente del Consiglio dei ministri e del Ministro dello sviluppo economico, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dell'economia e delle finanze e per l'innovazione tecnologica e la transizione digitale;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «mezzi di identificazione elettronica», mezzi di identificazione elettronica quali definiti all'articolo 3, paragrafo 1, punto 2, del regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio del 23 luglio 2014; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «regime di identificazione elettronica», il regime di identificazione elettronica di cui all'articolo 3, paragrafo1, punto 4, del regolamento (UE) n. 910/2014, contenuto nella notifica alla Commissione europea eseguita ai sensi dell'articolo 9 del medesimo regolamento e pubblicata nella Gazzetta ufficiale dell'Unione europea del 2 maggio 2019 - 2019/C 150/06; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «costituzione», l'intero processo di costituzione di una societa', compresa la stesura dell'atto costitutivo di una societa' e tutte le misure necessarie per l'iscrizione di una societa' nel registro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «registrazione di una sede secondaria», il processo che conduce alla divulgazione dei documenti e delle informazioni relativi ad una sede secondaria di nuova apertura in uno Stato membro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «modello», un modello per l'atto costitutivo di una societa' che puo' essere utilizzato per la costituzione online di una societa' secondo la disciplina dettata dal presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «BRIS», il sistema di interconnessione dei registri delle imprese di cui all'articolo 22 della direttiva (UE) 2017/1132 del Parlamento europeo e del Consiglio del 14 giugno 2017; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «EUID», il codice identificativo unico europeo delle imprese volto a facilitare l'avvio di un sistema europeo di interconnessione tra i registri delle imprese.
 
 ## Art. 2.
 
@@ -74,6 +127,24 @@ La sottoscrizione delle istanze di iscrizione o deposito di atti o dati nel regi
 Modifiche alle norme del codice civile 
  in materia di societa'
 
+1.
+                    
+                        
+                            All'articolo 2475 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma e' aggiunto, in fine, il seguente periodo: «Si applica l'articolo 2382.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, dopo le parole «si applicano il» e' aggiunta la seguente: «primo,».
+
 All'articolo 2383 del codice civile, primo comma, e' aggiunto, in fine, il seguente periodo: «La nomina e' in ogni caso preceduta dalla presentazione, da parte dell'interessato, di una dichiarazione circa l'inesistenza, a suo carico, delle cause di ineleggibilita' previste dall'articolo 2382 e di interdizioni dall'ufficio di amministratore adottate nei suoi confronti in uno Stato membro dell'Unione europea.».
 
 Dopo l'articolo 2508 del codice civile e' inserito il seguente: 
@@ -123,6 +194,89 @@ I dati personali delle persone di cui al comma 1 sono trattati conformemente al 
 Le autorita', le persone o gli organismi incaricati di trattare lo svolgimento delle procedure telematiche previste dal presente decreto conservano i dati personali trasmessi ai fini del presente articolo per il tempo strettamente necessario all'evasione della richiesta di informazioni.
 
 ## Art. 8. — Consultazione gratuita degli atti e dati tramite il BRIS - e parametri applicabili per determinare i diritti di consultazione
+
+1.
+                    
+                        
+                            I seguenti atti e dati concernenti le societa' di capitali sono resi disponibili gratuitamente per il tramite del BRIS: 
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione della societa'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                forma legale della societa'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sede legale della societa'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Stato Membro di iscrizione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                numero di iscrizione della societa'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                EUID della societa'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                stato della societa': 
+ 1) scioglimento; 
+ 2) liquidazione; 
+ 3) cancellazione; 
+ 4) attiva; 
+ 5) inattiva; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                oggetto sociale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                legali rappresentanti, con specificazione se congiuntamente o disgiuntamente; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                sedi secondarie aperte dalla societa' in altri Stati membri, e piu' precisamente: 
+ 1) nome della sede secondaria, ove esistente; 
+ 2) numero di iscrizione nel registro locale; 
+ 3) EUID della sede secondaria; 
+ 4) Stato membro in cui la sede secondaria e' registrata.
 
 Lo scambio di informazioni tra registri delle imprese attraverso il BRIS e' gratuito.
 

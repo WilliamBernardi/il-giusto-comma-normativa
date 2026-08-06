@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -65,6 +65,25 @@ COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2001, N. 478.
 
 ((2))
 
+2.
+                    
+                        
+                            La persona di cui al comma 1 deve essere, alternativamente:
+ 
+                        
+                        
+                            a)
+                            
+                                amministratore unico, ovvero membro del consiglio di amministrazione, per le persone giuridiche pubbliche, per le persone giuridiche private e, salvo il disposto della lettera b), per ogni altro tipo di ente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                socio illimitatamente responsabile per le societa' di persone; c)titolare dell'impresa individuale o familiare o collaboratore dell'impresa familiare;
+ d)persona, legata da rapporto di lavoro subordinato, alla quale le relative attribuzioni sono state espressamente conferite.
+
 ((2-bis. La persona di cui al comma 1 dirige l'attivita' di trasporto di una sola impresa.))
 
 ((2))
@@ -95,6 +114,91 @@ I requisiti di cui ai commi 1 e 3 devono permanere per il periodo di iscrizione 
 
 ## Art. 5. — Onorabilita'
 
+1.
+                    
+                        
+                            Per le imprese di cui all'articolo 1, commi 2 e 3, il requisito dell'onorabilita' e' sussistente se esso e' posseduto, oltre che dalla persona di cui all'articolo 3, comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                dall'amministratore unico, ovvero dai membri del consiglio di amministrazione, per le persone giuridiche pubbliche, per le persone giuridiche private e, salvo il disposto della lettera b), per ogni altro tipo di ente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dai soci illimitatamente responsabili per le societa' di persone; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal titolare dell'impresa individuale o familiare. (2)
+
+2.
+                    
+                        
+                            Non sussiste, o cessa di sussistere, il requisito dell'onorabilita' in capo alla persona che: 
+ 
+                        
+                        
+                            a)
+                            
+                                sia stata dichiarata delinquente abituale, professionale o per tendenza, oppure sia sottoposta a misure di sicurezza personali o a misure di prevenzione previste dalla legge 27 dicembre 1956, n. 1423, e dalla legge 31 maggio 1965, n. 575; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia sottoposto, con sentenza definitiva, ad una delle pene accessorie previste dall'articolo 19, comma f, numeri 2 e 4 dei codice penale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                abbia riportato, con sentenza definitiva, una o piu' condanne, per reato non colposo, a pena detentiva complessivamente superiore a due anni e sei mesi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                abbia riportato, con sentenza definitiva, una condanna a pena detentiva per uno dei delitti di cui al capo I del titolo II o ai capi II e III del titolo VII del libro secondo del codice penale o per uno dei delitti di cui agli articoli, 416, 416-bis, 513-bis, 589, comma 2, 624, 628, 629, 630, 640, 641, 644, 648, 648-bis e 648-ter del codice penale; per uno dei delitti di cui all'articolo 3 della legge 20 febbraio 1958, n. 75; per uno dei delitti di cui alla legge 2 ottobre 1967, n. 895; per uno dei delitti di cui agli articoli 73, comma 1, e 74 del d.p.r. 9 ottobre 1990, n. 309; per il delitto di cui all'articolo 189, comma 6 e comma 7, del decreto legislativo 30 aprile 1992, n. 285; per uno dei delitti di cui all'articolo 12 del decreto legislativo 25 luglio 1998, n. 286; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                abbia riportato, con sentenza definitiva, una condanna per il delitto di cui all'articolo 282 del d.p.r. 23 gennaio 1973, n. 43; per il delitto di cui all'articolo 18, comma 3 della legge 18 aprile 1975, n. 110; per la contravvenzione di cui all'articolo 186, comma 2, anche in combinato disposto con l'articolo 187, comma 4, del decreto legislativo 285/1992; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                abbia subito, in via definitiva, l'applicazione della sanzione amministrativa di cui all'articolo 26 della legge n. 298 del 1974, o di qualunque sanzione amministrativa per l'esercizio abusivo della professione di cui all'articolo 1, commi 2 o 3, ovvero, per cinque volte nel corso dell'ultimo quinquennio, cumulativamente, abbia subito la sanzione amministrativa accessoria della sospensione della patente di guida o sia stato effettuato nei suoi confronti l'accertamento di cui all'articolo 167, comma 10 del decreto legislativo n. 285 del 1992; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                abbia subito, in qualita' di datore di lavoro, condanna penale definitiva per fatti che costituiscono violazione degli obblighi sussistenti in materia previdenziale ed assistenziale; (2) 
+
+                            
+                        
+                        
+                            h)
+                            
+                                sia stata dichiarata fallita, salvo che sia intervenuta riabilitatone a norma degli articoli 142 e seguenti del regio decreto 16 marzo 1942, n. 267.
+
 Nei casi in cui il comma 2 contempla la condanna a pena detentiva, essa si considera tale anche se risulta commutata una sanzione sostitutiva della pena detentiva medesima.
 
 Per gli effetti del presente articolo, si considera condanna anche l'applicazione della pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale.
@@ -107,6 +211,31 @@ Le imprese di cui all'articolo 1, commi 2 e 3, devono essere iscritte nei ruoli 
 
 La sussistenza del requisito dell'onorabilita' cessa, di diritto, come conseguenza del verificarsi dei presupposti previsti dai commi che precedono.
 
+9.
+                    
+                        
+                            Fermi restando gli effetti degli articoli 166 e 167 dei codice penale e 445 del codice di procedura penale, e di ogni disposizione che comunque prevede l'estinzione del reato, il requisito dell'onorabilita' e' riacquistato: 
+ 
+                        
+                        
+                            a)
+                            
+                                a seguito di concessione della riabilitazione di cui all'articolo 178 del codice penale, sempreche' non intervenga la revoca di cui all'articolo 180 del medesimo codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di cessazione delle misure di sicurezza o di prevenzione applicate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le ipotesi di cui alla lettera f) del comma 2, decorsi sei mesi dalla data del provvedimento che costituisce presupposto per la perdita del requisito. (2)
+
 ---------------
                         AGGIORNAMENTO (2)
                         
@@ -115,6 +244,24 @@ La sussistenza del requisito dell'onorabilita' cessa, di diritto, come conseguen
 ## Art. 6. — Requisito della capacita' finanziaria
 
 ((
+
+1.
+                    
+                        
+                            Per le imprese di cui all'articolo 1, commi 2 e 3, il requisito della capacita' finanziaria e' sussistente se vi e' la disponibilita' di risorse finanziarie in misura non inferiore a:
+ 
+                        
+                        
+                            a)
+                            
+                                cinquantamila euro, qualora l'impresa abbia la disponibilita', a qualunque titolo, fra quelli consentiti dalla normativa vigente, di un autoveicolo adibito all'attivita' di trasportatore su strada;
+
+                            
+                        
+                        
+                            b)
+                            
+                                cinquemila euro, per ogni autoveicolo supplementare.
 
 Ai fini dell'accertamento della sussistenza della capacita' finanziaria l'autorita' competente di cui all'articolo 3, comma 1, valuta: i conti annuali dell'impresa interessata, ove esistano; i fondi disponibili, comprese le liquidita' bancarie e le possibilita' di scoperti e prestiti; tutti gli attivi, comprese le proprieta' disponibili come garanzia per l'impresa interessata; i costi, compreso il prezzo di acquisto o i pagamenti iniziali per veicoli, edifici, impianti, attrezzature e installazioni; il capitale di esercizio.
 
@@ -142,6 +289,24 @@ Le persone che intendono svolgere la direzione dell'attivita' nell'interesse di 
 
 ((2))
 
+5.
+                    
+                        
+                            Per gli effetti del comma 4 l'esperienza pratica ivi contemplata:
+ 
+                        
+                        
+                            a)
+                            
+                                si considera continuativa se la direzione dell'attivita' e' stata svolta senza alcuna interruzione ovvero con una o piu' interruzioni singolarmente considerate, non superiori a sei mesi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                si considera attuale se, alla data di presentazione della domanda per l'ammissione alla prova d'esame di controllo, la direzione dell'attivita' e' in corso di svolgimento ovvero e' cessata o interrotta da non piu' di sei mesi.
+
 ((5-bis. Con decreto del Ministero delle infrastrutture e dei trasporti, previa consultazione della Commissione europea, sono stabiliti criteri e modalita' per sottoporre, con oneri a carico del soggetto richiedente, ad esame supplementare, riguardante conoscenze specifiche relative agli aspetti nazionali della professione di trasportatore su strada, le persone fisiche con residenza normale in Italia che, senza aver ottenuto precedentemente alcun attestato di capacita' professionale in uno degli Stati membri, hanno conseguito, dopo il 1 ottobre 1999, un attestato di idoneita' professionale rilasciato dall'autorita' competente di altro Stato membro, qualora intendano utilizzare tale attestato per dirigere l'attivita' di trasporto ai sensi dell'articolo 3. Con lo stesso decreto, sentito il Ministero dell'economia e delle finanze, sono stabilite le tariffe per la copertura delle spese relative all'esame supplementare.))
 
 ((2))
@@ -151,6 +316,24 @@ Le persone che intendono svolgere la direzione dell'attivita' nell'interesse di 
                          Il D.Lgs. 28 dicembre 2001, n. 478 ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 8. — Esame di idoneita' professionale
+
+1.
+                    
+                        
+                            Le prove scritte che costituiscono l'esame di cui all'articolo 7, commi 2, 3 e 4, consistono in: 
+ 
+                        
+                        
+                            a)
+                            
+                                sessanta domande con risposta a scelta fra quattro risposte alternative; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una esercitazione su un caso pratico. (2)
 
 Per l'esecuzione di ciascuna delle prove di cui al comma 1, lettere a) e b), il candidato dispone di due ore; per la valutazione della prova di cui al comma 1, lettera a), sono attribuibili al massimo sessanta punti; per la valutazione della prova di cui al comma 1, lettera b), sono attribuibili al massimo quaranta punti.
 
@@ -271,7 +454,25 @@ Gli atti di cui ai commi 1 e 2 sono riconosciuti se prodotti entro sei mesi dall
 ## Art. 15. — Riconoscimento reciproco di atti
  in materia di capacita' finanziaria
 
+1.
+                    
+                        
+                            Per gli effetti dell'articolo 6, e' dato riconoscimento:
+ 
+                        
+                        
+                            a)
+                            
+                                all'attestazione rilasciata, per gli stessi effetti da imprese autorizzate all'esercizio del credito, ovvero da altri soggetti designati a tale rilascio, dallo Stato dell'Unione Europea, o aderente all'accordo sullo Spazio Economico Europeo, in cui il soggetto in capo al quale il requisito della capacita' finanziaria deve sussistere e' stabilito;
 
+                            
+                        
+                        
+                            b)
+                            
+                                all'attestazione rilasciata, per gli stessi effetti, dalla competente autorita' amministrativa dello Stato di cui alla lettera a).
+
+((2. Gli attestati di cui al comma 1 sono riconosciuti a condizione che siano rilasciati nel rispetto dell'articolo 6, commi 1 e 2.))
 
 ((2))
 

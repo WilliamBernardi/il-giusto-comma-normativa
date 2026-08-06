@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2025-08-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -30,6 +30,104 @@ Sulla proposta del Comitato interministeriale per la sicurezza della Repubblica;
 ## - Capo I Disposizioni generali
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    decreto-legge, il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    perimetro, il perimetro di sicurezza nazionale cibernetica istituito ai sensi dell'articolo 1, comma 1, del decreto-legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soggetti inclusi nel perimetro, i soggetti di cui all'articolo 1, comma 2-bis, del decreto-legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    CISR, il Comitato interministeriale per la sicurezza della Repubblica di cui all'articolo 5 della legge 3 agosto 2007, n. 124; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rete, sistema informativo: 
+ 1) una rete di comunicazione elettronica ai sensi dell'articolo 1, comma 1, lettera dd), del decreto legislativo 1° agosto 2003, n. 259; 
+ 2) qualsiasi dispositivo o gruppo di dispositivi interconnessi o collegati, uno o piu' dei quali eseguono, in base ad un programma, un trattamento automatico di dati digitali, ivi inclusi i sistemi di controllo industriale; 
+ 3) i dati digitali conservati, trattati, estratti o trasmessi per mezzo di reti o dispositivi di cui ai numeri 1) e 2), per il loro funzionamento, uso, protezione e manutenzione, compresi i programmi di cui al numero 2); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servizio informatico, un servizio consistente interamente o prevalentemente nel trattamento di informazioni, per mezzo della rete e dei sistemi informativi, ivi incluso quello di cloud computing di cui all'articolo 3, comma 1, lettera aa), del decreto legislativo n. 65 del 2018; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    bene ICT (information and communication technology), un insieme di reti, sistemi informativi e servizi informatici, o parti di essi, incluso nell'elenco di cui all'articolo 1, comma 2, lettera b), del decreto-legge; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    incidente, ogni evento di natura accidentale o intenzionale che determina il malfunzionamento, l'interruzione, anche parziali, ovvero l'utilizzo improprio delle reti, dei sistemi informativi o dei servizi informatici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    impatto sul bene ICT, limitazione della operativita' del bene ICT, ovvero compromissione della disponibilita', integrita', o riservatezza dei dati e delle informazioni da esso trattati, ai fini dello svolgimento della funzione o del servizio essenziali; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    DIS, il Dipartimento delle informazioni per la sicurezza della Presidenza del Consiglio dei ministri, di cui all'articolo 4 della legge n. 124 del 2007; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    CISR tecnico, l'organismo tecnico di supporto al CISR, di cui all'articolo 4, comma 5, del regolamento adottato con decreto del Presidente del Consiglio dei ministri 3 aprile 2020, n. 2, che definisce l'ordinamento e l'organizzazione del DIS; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    CSIRT italiano, il Computer security incident response team istituito presso il DIS ai sensi dell'articolo 8 del decreto legislativo n. 65 del 2018; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    indicatori di compromissione (IOC), indicatori tecnici impiegati per la rilevazione di una minaccia o compromissione nota e generalmente riconducibili a indirizzi IP, elementi identificativi e moduli software afferenti agli strumenti tecnici impiegati da attori malevoli.
 
 ## - Capo II Notifiche di incidente
 
@@ -73,6 +171,31 @@ I soggetti inclusi nel perimetro assicurano che dell'avvenuta notifica sia forni
 
 ## Art. 5. — Trasmissione delle notifiche
 
+1.
+                        
+                            
+                                Il DIS inoltra le notifiche ricevute dal CSIRT italiano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'organo del Ministero dell'interno per la sicurezza e la regolarita' dei servizi di telecomunicazione di cui all'articolo 7-bis del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla struttura della Presidenza del Consiglio dei ministri competente per la innovazione tecnologica e la digitalizzazione, qualora le notifiche provengano da un soggetto pubblico o da un soggetto di cui all'articolo 29 del decreto legislativo 7 marzo 2005, n. 82, fatta eccezione per quelle concernenti i beni ICT in relazione ai quali per le attivita' di ispezione e verifica sono competenti le strutture specializzate di cui all'articolo 1, comma 6, lettera c), terzo periodo, del decreto-legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al Ministero dello sviluppo economico, qualora le notifiche provengano da un soggetto privato.
+
 Le notifiche volontarie, di cui all'articolo 4, sono trasmesse solo nel caso in cui siano state trattate.
 
 Il CSIRT italiano, ai sensi dell'articolo 1, comma 8, lettera b), del decreto-legge, inoltra le notifiche ricevute dai soggetti inclusi nel perimetro, che siano identificati anche quali soggetti di cui agli articoli 12 e 14 del decreto legislativo n. 65 del 2018, all'autorita' competente NIS indicata ai sensi dell'articolo 3, comma 5.
@@ -94,15 +217,83 @@ Le misure di sicurezza, articolate in funzioni, categorie, sottocategorie, punti
 Modalita' e termini di adozione 
  delle misure di sicurezza
 
+1.
+                        
+                            
+                                I soggetti inclusi nel perimetro adottano, per ciascun bene ICT di rispettiva pertinenza, le misure di sicurezza di cui all'allegato B nei seguenti termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le misure di sicurezza appartenenti alla categoria A di cui all'appendice n. 2 dell'allegato B, entro sei mesi dalla data di trasmissione degli elenchi dei beni ICT effettuata ai sensi dell'articolo 1, comma 2, lettera b), del decreto-legge, ovvero, qualora la trasmissione sia avvenuta in una data antecedente a quella di entrata in vigore del presente regolamento, entro sei mesi da quest'ultima data; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le misure di sicurezza appartenenti alla categoria B di cui all'appendice n. 2 dell'allegato B, entro trenta mesi dalla data di trasmissione degli elenchi dei beni ICT effettuata ai sensi dell'articolo 1, comma 2, lettera b), del decreto-legge, ovvero, qualora la trasmissione sia avvenuta in una data antecedente a quella di entrata in vigore del presente regolamento, entro trenta mesi da quest'ultima data.
+
 I soggetti di cui al comma 1, dopo l'avvenuta adozione delle misure di sicurezza di cui all'allegato B, ne danno tempestivamente comunicazione al DIS, descrivendo le relative modalita', mediante la piattaforma digitale costituita presso il DIS ai sensi dell'articolo 9, comma 1, del regolamento adottato con DPCM n. 131 del 2020.
 
 Ai fini della comunicazione di cui al comma 2, il DIS predispone un apposito modello di cui da' informazione ai soggetti di cui al comma 1.
+
+4.
+                        
+                            
+                                Qualora un soggetto incluso nel perimetro proceda, ai sensi degli articoli 7 e 9 del regolamento adottato con il DPCM n. 131 del 2020, all'aggiornamento dell'elenco dei beni ICT, valuta contestualmente se e' necessario procedere all'adeguamento delle misure di sicurezza adottate ai sensi del presente articolo. Nel caso in cui sia necessario procedere all'adeguamento, vi provvede e ne comunica le relative modalita', con il modello di cui al comma 1, nei seguenti termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le misure di sicurezza di cui alla categoria A dell'appendice n. 2 dell'allegato B, entro sei mesi dall'aggiornamento dell'elenco dei beni ICT; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le misure di sicurezza di cui alla categoria B dell'appendice n. 2 dell'allegato B, entro trenta mesi dall'aggiornamento dell'elenco dei beni ICT.
 
 In ogni altro caso in cui un soggetto incluso nel perimetro abbia proceduto ad adeguare le misure di sicurezza adottate ai sensi del presente articolo, ne comunica, entro sei mesi, le relative modalita' con il modello di cui al comma 1.
 
 Il DIS rende tempestivamente disponibili le comunicazioni ricevute ai sensi dei commi 1, 2 e 3 alla struttura della Presidenza del Consiglio dei ministri competente per la innovazione tecnologica e la digitalizzazione e al Ministero dello sviluppo economico ai fini dello svolgimento delle rispettive attivita' di verifica e ispezione, fatta eccezione per quelle comunicazioni concernenti i beni ICT in relazione ai quali per le attivita' di ispezione e verifica sono competenti le strutture specializzate di cui all'articolo 1, comma 6, lettera c), terzo periodo, del decreto-legge.
 
 ## Art. 9. — Tutela delle informazioni
+
+1.
+                        
+                            
+                                Le misure minime di sicurezza individuate nell'allegato C al presente regolamento, e corrispondenti agli ambiti di cui all'articolo 1, comma 3, lettera b), numeri 3 e 4, del decreto-legge, si applicano alle informazioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'elencazione dei soggetti di cui all'articolo 1, comma 2-bis, del decreto-legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli elenchi di cui all'articolo 1, comma 2, lettera b), del decreto-legge, comprensivi della descrizione dell'architettura e della componentistica, nonche' dell'analisi del rischio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli elementi delle notifiche effettuate ai sensi dell'articolo 3, ivi compresa la relazione di cui all'articolo 3, comma 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al modello di cui all'articolo 8, comma 1, e alla documentazione predisposta in attuazione delle misure di sicurezza di cui all'allegato B.
 
 Le misure di sicurezza di cui all'allegato C si applicano entro sessanta giorni dalla data di entrata in vigore del presente regolamento.
 

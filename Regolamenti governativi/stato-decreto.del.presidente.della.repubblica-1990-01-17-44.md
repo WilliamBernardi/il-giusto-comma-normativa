@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,10 +36,198 @@ Nell'intento di perseguire l'ottimizzazione dell'erogazione dei servizi, le part
 
 A tale scopo, le amministrazioni devono approntare adeguati strumenti per la tutela degli interessi degli utenti, anche attraverso l'istituzione di appositi uffici di pubbliche relazioni, abilitati anche a ricevere eventuali reclami e suggerimenti degli utenti ai fini del miglioramento dei servizi.
 
+3.
+                    
+                        
+                            In tale quadro le amministrazioni predispongono, sentite le organizzazioni e le confederazioni sindacali di cui all'art. 2 del decreto del Ministro per la funzione pubblica in data 27 aprile 1989, pubblicato nella Gazzetta Ufficiale della Repubblica n. 109 del 2 maggio 1989, appositi progetti - da realizzare nel periodo di vigenza dell'accordo recepito dal presente regolamento - finalizzati in particolare ad assicurare condizioni di massima trasparenza, di dialogo e di sicurezza nel rapporto con gli utenti, ivi compresa la riconoscibilita' degli addetti ai servizi, mediante interventi diretti ad assicurare, secondo la natura degli adempimenti istituzionali:
+ 
+                        
+                        
+                            a)
+                            
+                                la semplificazione della modulistica e la riduzione, ove possibile, della documentazione a corredo delle domande di prestazioni, ferma restando l'applicazione delle norme sull'autocertificazione di cui alla legge 4 gennaio 1968, n. 15, e l'ottemperanza alle istruzioni contenute nella circolare del Ministro per la funzione pubblica in data 20 dicembre 1988, pubblicata nella Gazzetta Ufficiale n. 7 del 10 gennaio 1989;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ampliamento degli orari di apertura degli uffici per garantire, laddove le amministrazioni ne ravvisino la necessita' per le esigenze degli utenti, anche l'accesso degli utenti stessi in almeno due pomeriggi alla settimana; in tale caso le modalita' attuative saranno definite in sede di negoziazione decentrata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegamento tra amministrazioni e l'unificazione di adempimenti che valgano ad agevolare il rapporto con gli utenti, anche attraverso l'istituzione di "sportelli polivalenti";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il miglioramento della logistica relativamente ai locali adibiti al ricevimento degli utenti, con l'obiettivo di ridurre al minimo l'attesa ed i disagi ad essa connessi, anche abbattendo le barriere architettoniche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                una formazione professionale del personale addetto al ricevimento degli utenti, da attuare attraverso piani da definire in sede di negoziazione decentrata, specificamente rivolta ad assicurare completezza e trasparenza delle informazioni fornite, anche con l'ausilio di adeguate apparecchiature elettroniche.
+
 Entro un anno dalla data di entrata in vigore del presente regolamento ed, in prosieguo, con cadenza annuale, le amministrazioni promuovono apposite conferenze con le organizzazioni e confederazioni sindacali, di cui all'art. 2 del decreto del Ministro per la funzione pubblica in data 27 aprile 1989, ed i rappresentanti delle associazioni maggiormente rappresentative degli utenti, per esaminare l'andamento dei rapporti con l'utenza ed in particolare i risultati ottenuti e gli impedimenti riscontrati nell'ottimizzazione del processo di erogazione dei servizi, allo scopo di consentire la promozione di adeguate iniziative per la rimozione dei predetti ostacoli e per il miglioramento delle relazioni con l'utenza.
 
 ## Art. 3. — Norme di garanzia del funzionamento dei servizi
  pubblici essenziali - Servizi pubblici essenziali
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 10 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, i servizi da considerare essenziali nel comparto del personale dipendente dai Ministeri sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                servizio elettorale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizio doganale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                igiene, sanita' ed attivita' assistenziali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' di tutela della liberta' della persona e della sicurezza pubblica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                produzione e distribuzione di energia e beni di prima necessita', nonche' la gestione e la manutenzione dei relativi impianti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                trasporti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'erogazione di assegni e di indennita' con funzione di sostentamento.
+
+2.
+                    
+                        
+                            Nell'ambito dei servizi essenziali di cui al comma 1 e' garantita, con le modalita' di cui all'art. 4, la continuita' delle seguenti prestazioni indispensabili per assicurare il rispetto dei valori e dei diritti costituzionalmente tutelati:
+ 
+                        
+                        
+                            a)
+                            
+                                sicurezza e funzionamento degli impianti a ciclo continuo: custodia del patrimonio artistico, archeologico e monumentale, dei natanti, dei depositi munizioni e carburanti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' giudiziaria - Ministero di grazia e giustizia e Ministero della difesa: limitatamente all'assistenza alle udienze nei processi con rito direttissimo o con imputati detenuti, alle scarcerazioni ed alla liberta' provvisoria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ordine pubblico, sicurezza e relazioni internazionali - Ministero di grazia e giustizia e istituti di pena: limitatamente alla custodia dei detenuti ed alla confezione e distribuzione dei pasti; Ministero dell'interno: limitatamente all'ufficio di gabinetto del prefetto, al cifrario ed all'archivio generale della questura;
+Ministero degli affari esteri: limitatamente al centro cifra e telecomunicazioni, in Italia e all'estero, ed ai servizi essenziali di tutela della integrita' ed incolumita' dei connazionali all'estero nell'ambito dell'unita' di crisi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' sanitaria - Ministero della sanita': limitatamente alla sanita' marittima ed al servizio veterinario di confine per gli animali vivi e merci rapidamente deperibili e non conservabili in frigorifero; Ministero di grazia e giustizia: limitatamente all'assistenza ai detenuti; Ministero della difesa - Enti della sanita' militare: limitatamente al servizio di pronto soccorso e pronto intervento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' di sdoganamento: limitatamente alla merce rapidamente deperibile e non conservabile in frigorifero, ai medicinali salvavita ed agli animali vivi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                attivita' di sorveglianza idraulica dei fiumi e degli altri corsi d'acqua e dei bacini idrici: limitatamente al periodo di preallarme e di piena;
+
+                            
+                        
+                        
+                            g)
+                            
+                                attivita' di segnalazione costiera, marittima, terrestre ed area;
+
+                            
+                        
+                        
+                            h)
+                            
+                                attivita' di sorveglianza forestale: limitatamente al servizio antincendi;
+
+                            
+                        
+                        
+                            i)
+                            
+                                servizio elettorale: limitatamente alle attivita' indispensabili nei giorni di scadenza dei termini previsti dalla normativa vigente, per assicurare il regolare svolgimento delle consultazioni elettorali;
+
+                            
+                        
+                        
+                            l)
+                            
+                                le informazioni e le notizie per il servizio meteorologico, per gli avvisi ai naviganti e per la viabilita', anche ai fini del soccorso aereo, marittimo e stradale;
+
+                            
+                        
+                        
+                            m)
+                            
+                                servizio attinente alla protezione civile: prestazioni ridotte anche con il personale in reperibilita';
+
+                            
+                        
+                        
+                            n)
+                            
+                                servizio di trasporto aereo limitatamente alla esigenza di assistenza per i voli di Stato, sia nazionali che esteri, di emergenza ed ai collegamenti con le isole;
+
+                            
+                        
+                        
+                            o)
+                            
+                                il pagamento degli stipendi, delle pensioni, delle indennita' sociali e l'adeguamento delle rendite previdenziali, per il periodo di tempo strettamente necessario in base all'organizzazione delle singole amministrazioni.
 
 ## Art. 4. — Norme di garanzia del funzionamento dei servizi pubblici essenziali
  Prestazioni indispensabili e contingenti di personale per il funzionamento dei servizi pubblici essenziali.
@@ -90,6 +278,56 @@ Per le amministrazioni dello Stato si procede, in relazione alle modifiche ed in
 
 Il fondo di incentivazione di cui all'art. 50 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266, resta disciplinato dalla stessa disposizione fino al 30 giugno 1990.
 
+2.
+                    
+                        
+                            Per le finalita' di cui all'art. 7, a decorrere dal 1' luglio 1990 e' costituito, presso ciascuna amministrazione, un fondo annuo denominato "Fondo per il miglioramento dell'efficienza dei servizi" che e' alimentato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dall'importo di cui al comma 5 dell'art. 49 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266, incrementato dal corrispettivo di quindici ore annue pro-capite di lavoro straordinario negli importi al 31 dicembre 1989; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalle somme stanziate per il compenso incentivante la produttivita' di cui al decreto del Presidente del Consiglio dei Ministri 13 aprile 1984, pubblicato nella Gazzetta Ufficiale della Repubblica n. 149 del 31 maggio 1984; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle somme stanziate per i progetti finalizzati di cui agli articoli 11 e 12, primo comma, del decreto del Presidente della Repubblica 25 giugno 1983, n. 344; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dalla quota del monte salari annuo relativo a ciascuna amministrazione di cui all'art. 50 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266, incrementato di una quota pari allo 0,65% dello stesso monte salari. ((2))
+
+3.
+                    
+                        
+                            Il fondo di cui al comma 2 e' integrato, in presenza di effetti finanziari positivi conseguenti all'intensificazione dell'attivita' svolta dalle amministrazioni, di una quota: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle maggiori entrate derivanti dalla eventuale istituzione od adeguamento, secondo la normativa vigente, di corrispettivi finalizzati alla erogazione di servizi piu' qualificati a favore dell'utenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di economie di gestione conseguenti a riduzioni di spese di funzionamento eventualmente realizzate dalle amministrazioni, a parita' di quantita' e qualita' di servizi resi per effetto dell'ottimale utilizzazione dei fattori di produzione, con esclusione comunque delle spese per manutenzione, acquisto e rinnovo di attrezzature. (1)
+
 La riduzione delle spese di cui alla lettera b) del comma 3 e' determinata ponendo a raffronto le risultanze complessive del bilancio consuntivo, al netto degli incrementi stabiliti sulla base dei dati ISTAT sul costo della vita, con quelle del bilancio consuntivo dell'anno 1988, preso a riferimento per il periodo di vigenza del presente regolamento. (1)
 
 Le quote di incremento di cui al comma 3 sono definite in sede di contrattazione decentrata a livello nazionale e confluiscono nel fondo di cui al comma 2 con decreto del Ministro interessato. (1)
@@ -110,6 +348,38 @@ AGGIORNAMENT0 (1)
  per il miglioramento dell'efficienza dei servizi
 
 Il fondo di cui all'art. 6 e' destinato alla erogazione di compensi al personale, escluso quello con qualifiche dirigenziali ed equiparate, secondo le disposizioni del presente articolo, per la realizzazione di piani, progetti e altre iniziative, individuate con la contrattazione decentrata a livello nazionale, volti ad ottenere il miglioramento dell'efficienza e dell'efficacia dei servizi istituzionali.
+
+2.
+                    
+                        
+                            In rapporto alle esigenze peculiari di ciascuna amministrazione, il fondo e' finalizzato:
+ 
+                        
+                        
+                            a)
+                            
+                                in via prioritaria, all'erogazione di compensi incentivanti la produttivita'. La misura dei compensi e' determinata in rapporto al superamento di standards sperimentali di produttivita' di base ed ai diversi livelli di incremento degli stessi, entrambi definiti con la negoziazione decentrata a livello nazionale, attivando le risorse necessarie anche in termini di formazione e di mobilita' per la realizzazione di obiettivi di produzione programmati; a tal fine si tiene conto delle disposizioni dell'art. 12 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13. Per le amministrazioni e per i settori di attivita' non regolati da standards, sono definite con la negoziazione decentrata a livello nazionale le modalita' per correlare la misura dei compensi ai risultati conseguiti rispetto agli obiettivi fissati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a remunerare gravose articolazioni dell'orario di lavoro, connesse, anche, all'apertura pomeridiana, per le esigenze degli utenti, degli uffici e delle strutture ed al funzionamento delle attrezzature informatiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'attribuzione di compensi per l'esercizio di compiti che comportano specifiche responsabilita', ovvero oneri, rischi o disagi particolarmente rilevanti, nonche' alla reperibilita' collegata alla particolare natura dei servizi che richiedono interventi di urgenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                a corrispondere specifici compensi ai dipendenti che abbiano conseguito un particolare arricchimento professionale a seguito del superamento di appositi corsi di formazione correlati all'evoluzione del sistema organizzativo o tecnologico e che siano stati conseguentemente adibiti ai compiti propri della specializzazione acquisita.
 
 I criteri per l'attuazione, le modalita' e la periodicita' di erogazione dei compensi ed indennita' di cui al comma 2 sono definiti in sede di negoziazione decentrata a livello nazionale. Resta in ogni caso garantita la corresponsione nelle amministrazioni cui competono, con periodicita' mensile e per undici mesi ad anno, di tutti gli importi pari alle misure previste per ciascuna qualifica funzionale dal decreto del Presidente del Consiglio dei Ministri 13 aprile 1984, pubblicato nella Gazzetta Ufficiale della Repubblica n. 149 del 31 maggio 1984, e successive modificazioni ed integrazioni; il compenso base di cui al predetto decreto e' corrisposto agli stessi destinatari e con le stesse modalita' ivi previste ed e' elevato di un importo, pari al venti per cento, non utile ai fini delle maggiorazioni che restano ferme negli attuali importi, salvi aumenti o diminuzioni da definirsi in sede di negoziazione decentrata nazionale in relazione alle esigenze di funzionalita' delle singole amministrazioni.
 
@@ -214,6 +484,59 @@ Le misure intere lorde dell'indennita' di cui all'art. 5, comma 2, del decreto d
  qualifiche funzionali quinta, sesta, settima, ottava e nona: L. 39.600;
  qualifiche funzionali prima, seconda, terza e quarta: L. 28.800.
 
+2.
+                    
+                        
+                            Le particolari categorie di dipendenti di cui all'art. 5, comma 7, del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nel personale inviato in missione fuori della ordinaria sede di servizio per:
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' di protezione civile nelle situazioni di prima urgenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'opera di intervento svolto dalle squadre per lo spegnimento di incendi boschivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' su fari ed impianti di segnalazione marittima, installazioni radar e telecomunicazioni ed altri enti, stabilimenti e postazioni militari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' di escavazione porti su imbarcazioni con strumenti effossori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' che comportino imbarchi brevi su unita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                attivita' di controllo, di rilevazione, di collaudo, di vigilanza, di verifica ed ispettiva in materia fiscale, valutaria, finanziaria, giudiziaria, sanitaria, di tutela del lavoro, di tutela dell'ambiente, del territorio e del patrimonio culturale, di tutela della salute, di motorizzazione civile, di repressione frodi e similari;
+
+                            
+                        
+                        
+                            g)
+                            
+                                attivita' di assistenza sociale, di assistenza giudiziaria e di vigilanza nelle traduzioni delle detenute.
+
 Per il personale indicato nel comma 2, le particolarissime condizioni di cui al comma 7 dell'art. 5 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nella impossibilita' della fruizione del pasto per mancanza di strutture e servizi di ristorazione; in tale circostanza viene corrisposto un compenso forfettario giornaliero di lire ventimila nette in luogo dell'importo corrispondente al costo del pasto.
 
 ## Art. 14. — Negoziazione decentrata
@@ -269,6 +592,31 @@ Gli importi liquidati dalle societa' assicuratrici in base alle polizze stipulat
 
 ## Art. 17. — Diritto allo studio
 
+1.
+                    
+                        
+                            I permessi di cui all'art. 3 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, qualora le richieste superino il tre per cento delle unita' in servizio presso ciascuna amministrazione all'inizio dell'anno, sono concessi nel seguente ordine:
+ 
+                        
+                        
+                            a)
+                            
+                                ai dipendenti che frequentano l'ultimo anno del corso di studi e, se studenti universitari o post-universitari, abbiano superato gli esami degli anni precedenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai dipendenti che frequentino l'anno di corso che precede l'ultimo e, successivamente, quelli che, nell'ordine, frequentino gli anni ancora anteriori, escluso il primo, ferma restando per gli studenti universitari e post-universitari la condizione di cui alla lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai dipendenti ammessi a frequentare attivita' didattiche, che non si trovino nelle condizioni di cui alle lettere a) e b).
+
 Nell'ambito di ciascuna delle fattispecie di cui al comma 1, la precedenza e' accordata, nell'ordine, ai dipendenti che frequentino corsi di studi della scuola media inferiore, della scuola media superiore, universitari o post-universitari.
 
 A parita' di condizioni, i permessi sono accordati ai dipendenti che non abbiano mai usufruito dei permessi medesimi per lo stesso corso di studi e, in caso di ulteriore parita', secondo l'ordine decrescente di eta'.
@@ -281,7 +629,39 @@ Le graduatorie dei richiedenti possono essere predisposte anche per ambiti terri
 
 ## Art. 18. — Tutela dei dipendenti in particolari condizioni psico-fisiche
 
+1.
+                    
+                        
+                            In attuazione dell'art. 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, allo scopo di favorire la riabilitazione ed il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, la condizione di portatore di handicaps o di soggetto ad effetti di tossicodipendenza, alcolismo cronico o grave debilitazione psico-fisica e che si impegnino a sottoporsi ad un progetto terapeutico di recupero e di riabilitazione predisposto dalle strutture medesime, sono stabilite le seguenti misure di sostegno secondo le modalita' di esecuzione del progetto: 
+ 
+                        
+                        
+                            a)
+                            
+                                concessione dell'aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima dell'aspettativa con retribuzione intera compete la retribuzione ridotta alla meta' per l'intera durata del ricovero; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                concessione di permessi giornalieri orari retribuiti, nel limite massimo di due ore, per la durata del progetto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto a tempo parziale, limitatamente alla durata del progetto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzazione del dipendente in mansioni della stessa qualifica diverse da quelle abituali, quando tale misura sia individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
+((2. I dipendenti, i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di recupero e di riabilitazione, hanno titolo ad essere collocati in aspettativa per motivi di famiglia per l'intera durata del progetto medesimo.))
 
 ((1))
 
@@ -301,6 +681,31 @@ Le organizzazioni e le confederazioni sindacali di cui al decreto del Ministro p
 I comitati per le pari opportunita', di cui all'art. 41 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266, ove non ancora costituiti, devono essere insediati entro sessanta giorni dalla data di entrata in vigore del presente regolamento; ove in sede di negoziazione decentrata ne sia ravvisata l'esigenza, possono costituirsi comitati per le pari opportunita' in strutture territoriali di particolare consistenza. Le amministrazioni garantiscono tutti gli strumenti idonei per il loro funzionamento.
 
 I comitati, presieduti da un rappresentante dell'amministrazione, sono composti da un componente designato da ognuna delle organizzazioni e delle confederazioni sindacali maggiormente rappresentative di cui all'art. 2 del decreto del Ministro per la funzione pubblica in data 27 aprile 1989, e da un pari numero di funzionari in rappresentanza della amministrazione.
+
+3.
+                    
+                        
+                            In sede di negoziazione decentrata nazionale e territoriale, anche tenendo conto delle proposte formulate dai comitati per le pari opportunita', sono concordate le misure per favorire effettive pari opportunita' nelle condizioni di lavoro e di sviluppo professionale, che tengano conto anche della posizione delle lavoratrici in seno alla famiglia, con particolare riferimento a:
+ 
+                        
+                        
+                            a)
+                            
+                                accesso e modalita' di svolgimento dei corsi di formazione professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                flessibilita' degli orari di lavoro in rapporto a quelli dei servizi sociali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                perseguimento di un effettivo equilibrio di posizioni funzionali, a parita' di requisiti professionali, di cui si dovra' tener conto anche nell'attribuzione di incarichi o funzioni piu' qualificate, nell'ambito delle misure rivolte a superare, per la generalita' dei dipendenti, l'assegnazione in via permanente di mansioni estremamente parcellizzate e prive di ogni possibilita' di evoluzione professionale.
 
 Gli effetti delle iniziative assunte dalle amministrazioni a norma del comma 3 formano oggetto di valutazione nella relazione annuale del comitato di cui all'art. 41, comma 2, del decreto del Presidente della Repubblica 8 maggio 1987, n. 266.
 
@@ -325,6 +730,24 @@ Restano confermate ove non modificate o sostituite dal presente regolamento le d
 ## Art. 24. — Copertura finanziaria
 
 Gli oneri derivanti dall'applicazione del presente regolamento sono valutati per il periodo 1988-1990 in lire 1.438 miliardi, ivi comprese lire 424 miliardi per arretrati relativi agli anni 1988 e 1989, ed in lire 1.234 miliardi a decorrere dal 1991.
+
+2.
+                    
+                        
+                            Ai suddetti oneri che - al netto delle quote da coprire con le minori spese derivanti dalla legge 29 dicembre 1988, n. 554, nonche' dall'art. 6 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13 e dall'art. 12 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395 - si riducono per il periodo 1988-1990 a lire 1.218 miliardi ed a decorrere dal 1991 a lire 1.014 miliardi, si provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a lire 528 miliardi per l'anno 1990, mediante utilizzo di quota parte delle somme conservate in conto residui - ai sensi dell'art. 3, comma 4, della legge 10 novembre 1989, n. 367 - sul cap. 6868 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1990;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a lire 690 miliardi per l'anno 1990 ed a lire 1.014 miliardi a decorrere dal 1991, mediante corrispondente riduzione dello stanziamento iscritto al cap. 6868 del suddetto stato di previsione per gli anni finanziari 1990 e successivi.
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

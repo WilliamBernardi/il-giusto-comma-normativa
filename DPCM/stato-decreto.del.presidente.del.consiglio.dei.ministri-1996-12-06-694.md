@@ -8,8 +8,8 @@ codice_redazionale: 097G0036
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -63,6 +63,52 @@ Gli atti e documenti destinati alla riproduzione sostitutiva sono oggetto di car
 
 La cartellinatura consiste nella preparazione degli atti e documenti da riprodurre e nell'approntamento di idonei strumenti di consultazione, eventualmente integrati da codificazioni per l'elaborazione elettronica, che in base alle indicazioni apposte sui singoli atti e documenti ed a quelle inserite sul corrispondente supporto tecnico utilizzato per la riproduzione, consentono di rilevare la stretta connessione degli atti e documenti riprodotti con il loro raggruppamento (unita', serie o altro livello di aggregazione) e di reperire prontamente gli atti o i documenti da consultare o duplicare.
 
+3.
+                    
+                        
+                            In particolare, dopo la individuazione della categoria dei documenti da riprodurre, si osservano le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                le unita' archivistiche sono numerate progressivamente nell'interno di ciascuna serie (o di altro livello di aggregazione), la cui indicazione va riportata sul frontespizio delle unita' stesse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli atti e i documenti compresi in ciascuna unita' archivistica sono ordinati e numerati, ed eventualmente codificati, secondo l'ordine cronologico ad iniziare dal documento meno recente, salvo che per quegli atti e documenti che per esigenze organizzative sono ordinati diversamente o sono legati in volume o riportati nel registro gia' numerati progressivamente, per i quali resta fermo il relativo ordine;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le pagine di cui si compone ciascun documento compreso nell'unita' archivistica, o la medesima unita' archivistica se questa e' composta di un unico documento, sono numerate progressivamente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione della serie di appartenenza di ciascun atto o documento viene individuata da qualsiasi sistema di individuazione purche' rispondente ai criteri dettati dal comma 2. Per l'indicazione degli altri livelli di aggregazione archivistica eventualmente previsti sono adottati criteri analoghi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la numerazione puo' essere effettuata manualmente o meccanicamente. Eventuali errori sono corretti annullando l'indicazione errata e ripetendo a fianco quella esatta;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ciascuna unita' archivistica e' descritta in un registro di serie, nel quale sono riportate le indicazioni atte ad identificarla (cioe' denominazione del soggetto o ente tenuto a conservare l'archivio, denominazione della categoria dei documenti, denominazione ed estremi cronologici della serie o di altro livello di aggregazione, numero dell'unita' archivistica, quantita' dei documenti o delle pagine che la compongono) e quelle atte ad identificare le corrispondenti unita' di riproduzione (numero di bobina o di altro complesso fotografico, numero iniziale e finale dei fotogrammi riproducenti la singola unita' archivistica). Le indicazioni relative alle unita' di riproduzione vanno previste anche per gli eventuali rifacimenti di cui all'articolo 7.
+
 I registri di serie, prima dell'uso sono numerati progressivamente per ogni pagina e vidimati ai sensi e con le modalita' previste dall'articolo 2215 del codice civile; contengono altresi', per ogni blocco di unita' di riproduzione autenticate, le dichiarazioni del pubblico ufficiale di cui al comma 5 dell'articolo 8, complete della qualifica e delle generalita' dello stesso.
 
 Le predette indicazioni sono, in presenza di particolari tipologie documentarie, integrate con tutti gli altri dati eventualmente utili all'individuazione delle singole unita' archivistiche.
@@ -82,6 +128,52 @@ Il processo fotografico e' effettuato a regola d'arte.
 Le pellicole impressionate sono custodite in modo da garantirne la leggibilita' e la stabilita' in condizioni normali di conservazione.
 
 ## Art. 6. — Indicazioni da apporre nel negativo sostitutivo
+
+1.
+                    
+                        
+                            La pellicola e' impressionata con le indicazioni sottospecificate:
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione del soggetto o ente tenuto a conservare l'archivio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                denominazione della categoria dei documenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                denominazione ed estremi cronologici della serie o di altro livello di aggregazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                numero o codice dell'unita' di riproduzione, data dell'impressione, denominazione del laboratorio cui e' affidato il procedimento di impressione.
+
+                            
+                        
+                        
+                            e)
+                            
+                                numero dell'unita' archivistica e quantita' dei documenti o delle pagine che la compongono;
+
+                            
+                        
+                        
+                            f)
+                            
+                                quantita' e numero di documenti o di pagine mancanti, nonche' di fogli bianchi o danneggiati.
 
 Gli estremi di cui alle lettere a), b), c) e d) di cui al comma 1 costituiscono lo schedone generale di serie. Tale schedone e' riprodotto sia sul secondo che sul penultimo fotogramma di ciascuna unita' di riproduzione mentre sul primo e sull'ultimo fotogramma sono riprodotti i simboli internazionali di "inizio" e "fine" pellicola;
 

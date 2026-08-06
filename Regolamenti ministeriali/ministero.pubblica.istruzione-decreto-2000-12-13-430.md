@@ -8,8 +8,8 @@ codice_redazionale: 001G0031
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -21,6 +21,31 @@ Udito il parere del Consiglio di Stato, espresso nella sezione consultiva per gl
 
 ## Art. 1. — Disponibilita' di posti e tipologia di supplenze
 
+1.
+                    
+                        
+                            Ai sensi dell'articolo 4, commi 1, 2, 3 e 11 della legge 3 maggio 1999, n. 124, di seguito denominata "legge", nei casi in cui non sia stato possibile assegnare sulle disponibilita' di posti di personale amministrativo, tecnico e ausiliario, personale soprannumerario in utilizzazione o, a qualsiasi titolo, personale con contratto a tempo indeterminato, si dispone con:
+ 
+                        
+                        
+                            a)
+                            
+                                supplenze annuali, per la copertura dei posti vacanti, disponibili entro la data del 31 dicembre, e che rimangano presumibilmente tali per tutto l'anno scolastico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                supplenze temporanee sino al termine delle attivita' didattiche, per la copertura di posti non vacanti, di fatto disponibili entro la data del 31 dicembre e fino al termine dell'anno scolastico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                supplenze temporanee, per ogni altra necessita' di supplenza diversa dai casi precedenti, secondo quanto specificato all'articolo 6.
+
 Il presente regolamento non si applica al personale appartenente al profilo professionale dei direttori dei servizi generali e amministrativi che, in caso di assenza, sono sostituiti secondo i criteri e le modalita' stabiliti dalle norme contrattuali vigenti.
 
 Per l'attribuzione delle supplenze annuali e delle supplenze temporanee fino al termine delle attivita' didattiche, si utilizzano le graduatorie di cui all'arti-colo 2; per l'attribuzione delle supplenze temporanee si utilizzano le graduatorie di circolo e di istituto di cui all'articolo 5.
@@ -28,6 +53,31 @@ Per l'attribuzione delle supplenze annuali e delle supplenze temporanee fino al 
 In caso di esaurimento delle graduatorie di cui all'articolo 2 di tutti i profili professionali, ad esclusione dei collaboratori scolastici, o, comunque, in carenza di aspiranti interessati, le relative supplenze annuali e temporanee fino al termine delle attivita' didattiche vengono conferite utilizzando appositi elenchi provinciali, compilati con l'inserimento di aspiranti inseriti nelle previgenti graduatorie provinciali per il conferimento delle supplenze e che abbiano prestato servizio per almeno trenta giorni nelle scuole statali; negli stessi elenchi provinciali sono inclusi gli aspiranti non inseriti nelle suddette graduatorie purche' abbiano prestato servizio a tempo determinato nelle istituzioni scolastiche anche con rapporto di lavoro alle dipendenze degli enti locali per almeno trenta giorni. Per il conferimento di supplenze nel profilo professionale di collaboratore scolastico, in caso di esaurimento delle graduatorie di cui all'articolo 2, ivi comprese le graduatorie provinciali ad esaurimento di cui all'articolo 587 del decreto legislativo 16 aprile 1994, n. 297, i dirigenti delle scuole ove si verifica la disponibilita' procedono all'assunzione, ai sensi del citato articolo 587, comma 1.
 
 L'individuazione del destinatario della supplenza e' operata dal dirigente dell'amministrazione scolastica competente per territorio, nel caso di utilizzazione delle graduatorie di cui all'articolo 2, comma 1; dal dirigente scolastico nel caso di utilizzazione delle graduatorie di cui all'articolo 5.
+
+6.
+                    
+                        
+                            Il conferimento delle supplenze si attua mediante la stipula di contratti di lavoro a tempo determinato, sottoscritti dal dirigente scolastico e dall'interessato, che hanno effetti esclusivi dal giorno dell'assunzione in servizio e termine:
+ 
+                        
+                        
+                            a)
+                            
+                                per le supplenze annuali il 31 agosto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le supplenze temporanee fino al termine delle attivita' didattiche il giorno annualmente indicato dal relativo calendario scolastico quale termine delle attivita' didattiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le supplenze temporanee l'ultimo giorno di effettiva permanenza delle esigenze di servizio.
 
 Le supplenze temporanee fino al termine delle attivita' didattiche possono essere prorogate oltre tale termine, per il periodo strettamente necessario allo svolgimento delle relative attivita', nelle scuole interessate ad esami di stato e di abilitazione all'insegnamento nelle scuole di grado preparatorio, qualora non sia possibile consentire lo svolgimento di dette attivita' mediante l'impiego del personale a tempo indeterminato o supplente annuale in servizio presso la scuola interessata, e, comunque, nei casi in cui siano presenti situazioni che possano pregiudicare l'effettivo svolgimento dei servizi di istituto.
 
@@ -42,6 +92,31 @@ Nei confronti del personale che sia gia' titolare di contratto a tempo indetermi
 Nello scorrimento delle graduatorie di cui al comma 1, ai fini dell'attribuzione delle supplenze, non vengono presi in considerazione i candidati inclusi le cui posizioni non siano utili a norma dei commi 2 e 3.
 
 ## Art. 3. — Conferimento delle supplenze a livello provinciale
+
+1.
+                    
+                        
+                            Al fine di garantire il regolare inizio delle lezioni, le operazioni di conferimento delle supplenze sono annualmente disposte mediante un piano di individuazione dei destinatari delle proposte di assunzione che, nel rispetto delle posizioni di graduatoria, tenga conto dell'ordine di priorita' indicato dagli aspiranti complessivamente per tutte le graduatorie in cui figurano utilmente inclusi relativamente ai seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                rilevanza economica del contratto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sede;
+
+                            
+                        
+                        
+                            c)
+                            
+                                graduatorie preferenziali.
 
 Gli aspiranti hanno facolta', ogni triennio scolastico, di variare l'ordine di priorita' di cui al comma 1. Nel primo triennio di applicazione del presente regolamento tale facolta' puo' essere esercitata annualmente. I candidati utilmente inclusi nelle graduatorie di cui all'articolo 2, in relazione al numero dei posti disponibili sono destinatari di una proposta di assunzione con contratto a tempo determinato coerente con la posizione in graduatoria e con l'ordine di priorita' indicato.
 
@@ -85,6 +160,38 @@ L'aspirante a supplenze puo', per tutte le graduatorie di circolo e di istituto 
 Per coloro che figurano nelle graduatorie provinciali di cui all'articolo 2, la provincia di inclusione in graduatorie di circolo e di istituto coincide con quella di inclusione nelle suddette graduatorie provinciali.
 
 Durante il periodo di validita' delle graduatorie di circolo e di istituto, per ogni anno scolastico successivo al primo, ciascuna scuola puo' acquisire ulteriori domande di supplenza da parte di aspiranti che hanno titolo a essere inseriti in una delle fasce di cui al comma 3, salvo il disposto dei commi 10, 11 e 12.
+
+10.
+                    
+                        
+                            Le domande di cui al comma 9 possono essere presentate, per una sola provincia e sempre nel limite massimo complessivo di cui al comma 7 da:
+ 
+                        
+                        
+                            a)
+                            
+                                coloro che gia' figurano nelle graduatorie della medesima provincia e che intendono integrare le precedenti domande fino al massimo di scuole previste;
+
+                            
+                        
+                        
+                            b)
+                            
+                                coloro che gia' figurano nelle graduatorie della medesima provincia e che intendono sostituire, fino ad un massimo di tre scuole per ciascun anno scolastico, alcune opzioni precedentemente espresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coloro che gia' figurano in graduatorie di altra provincia con conseguente cancellazione da tutte le graduatorie della provincia di provenienza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                coloro che non risultino inclusi in graduatorie di supplenza in alcuna provincia, ad esclusione degli aspiranti a supplenze di collaboratore scolastico.
 
 Il personale di cui al comma 10 si inserisce, in ciascun anno scolastico, nelle graduatorie di circolo e di istituto in coda all'ultimo incluso della fascia cui ha titolo secondo i requisiti posseduti, ai sensi di quanto previsto al comma 3.
 

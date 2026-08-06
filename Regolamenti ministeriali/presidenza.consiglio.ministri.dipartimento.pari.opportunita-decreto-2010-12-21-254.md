@@ -8,8 +8,8 @@ codice_redazionale: 011G0027
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,4 +24,22 @@ Ritenuta la necessita' di provvedere all'aggiornamento del regolamento adottato 
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 25 novembre 2010;
 
 ## Art. 1. — Modifiche al decreto ministeriale 30 ottobre 2007, n. 240
+
+1.
+                    
+                        
+                            Al regolamento di cui al decreto ministeriale 30 ottobre 2007, n. 240 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli articoli 1, 2, comma 2, 3, 4 e 5, le espressioni «Ministro delle politiche per la famiglia», «Dipartimento per le politiche della famiglia» e «Capo del Dipartimento per le politiche della famiglia» sono rispettivamente sostituite da «Ministro per le pari opportunita'», «Dipartimento per le pari opportunita'» e «Capo del Dipartimento per le pari opportunita'»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 dell'articolo 2 e' sostituito dal seguente: «l'Osservatorio opera presso il Dipartimento per le pari opportunita', e' presieduto dal Capo del Dipartimento per le pari opportunita' ed e' composto da cinque componenti designati dal Ministro per le pari opportunita', di cui uno con funzioni di coordinatore tecnico scientifico, da un componente designato dal Ministro o Sottosegretario di Stato presso la Presidenza del Consiglio dei Ministri con delega per le politiche della famiglia, da tre componenti designati rispettivamente dal Capo della Polizia e dai Comandanti Generali dell'Arma dei Carabinieri e della Guardia di Finanza nonche' da tre componenti designati dalle associazioni nazionali maggiormente rappresentative nel settore della lotta al fenomeno dell'abuso e dello sfruttamento sessuale in danno dei minori».
 

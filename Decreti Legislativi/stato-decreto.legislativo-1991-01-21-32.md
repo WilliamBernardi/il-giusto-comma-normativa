@@ -8,8 +8,8 @@ codice_redazionale: 091G0045
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -75,6 +75,24 @@ Per il personale di cui al comma 1, il collegio di conciliazione ed arbitrato pr
 Le funzioni di competenza compartimentale per l'amministrazione del personale in servizio nella provincia di Bolzano sono esercitate dall'ente mediante una struttura decentrata avente sede in Bolzano e direttamente dipendente dalla Direzione generale. A detta struttura e' preposto un dirigente.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            L'ente riferisce al Ministro dei trasporti ed al presidente della giunta provinciale in ordine all'applicazione del presente decreto ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                alle eventuali divergenze non risolte dal comitato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle assunzioni effettuate ai sensi dell'art. 2, comma 1.
 
 Le divergenze di cui al comma 1, lettera a), sono risolte dal Ministro dei trasporti con proprio decreto non soggetto a registrazione. Parimenti il Ministro dei trasporti dichiara, con proprio decreto, la nullita' delle assunzioni effettuate in violazione dell'art. 2.
 

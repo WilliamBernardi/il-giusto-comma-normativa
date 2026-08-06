@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2017-02-14;34
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,11 +34,75 @@ Il presente decreto disciplina le modalita' di costituzione delle camere arbitra
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «consiglio dell'ordine»: il consiglio dell'ordine circondariale degli avvocati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «camera arbitrale e di conciliazione»: l'organismo di cui all'articolo 29, comma 1, lettera n), della legge 31 dicembre 2012, n. 247; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «segreteria»: la segreteria della camera arbitrale e di conciliazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «regolamento»: il regolamento della camera arbitrale e di conciliazione.
+
 ## - Capo II CAMERA ARBITRALE E DI CONCILIAZIONE
 
 ## Art. 3. — Istituzione della camera arbitrale e di conciliazione
 
 I consigli dell'ordine possono, anche d'intesa con altri ordini appartenenti allo stesso distretto, deliberare la costituzione di camere arbitrali e di conciliazione per l'amministrazione di procedure arbitrali, di conciliazione e di altri strumenti di risoluzione alternativa delle controversie.
+
+2.
+                        
+                            
+                                La costituzione avviene con delibera del consiglio dell'ordine contenente l'atto costitutivo e lo statuto che dovra' indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione della struttura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo scopo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sede; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per l'adozione del regolamento recante le norme relative al funzionamento della camera arbitrale e di conciliazione e ai relativi costi.
 
 La delibera di cui al comma 2 e' pubblicata sul sito internet del consiglio dell'ordine.
 
@@ -63,7 +127,82 @@ La camera si avvale del personale dipendente del consiglio dell'ordine.
 
 La camera arbitrale e di conciliazione e' amministrata da un consiglio direttivo.
 
+2.
+                        
+                            
+                                Il consiglio direttivo e' composto da un numero di componenti, nominati con delibera dal consiglio dell'ordine e individuati tra soggetti dotati di specifica e comprovata competenza, non superiore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a tre, qualora l'ordine conti sino a duecento iscritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a cinque, qualora l'ordine conti sino a mille iscritti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a sette, qualora l'ordine conti oltre mille iscritti.
+
 Il numero massimo dei componenti e' stabilito dal consiglio dell'ordine, che potra' determinarlo in considerazione del numero degli iscritti.
+
+4.
+                        
+                            
+                                I componenti del consiglio direttivo sono individuati tra soggetti che hanno i seguenti requisiti di onorabilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    non aver riportato condanne definitive per delitti non colposi o a pena detentiva non sospesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere incorsi nell'interdizione perpetua o temporanea dai pubblici uffici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere stati sottoposti a misure di prevenzione o di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non aver riportato sanzioni disciplinari definitive.
+
+5.
+                        
+                            
+                                Ferma la necessita' che almeno due e non piu' di due terzi dei componenti siano avvocati iscritti all'albo, possono essere nominati componenti del consiglio direttivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli iscritti da almeno cinque anni all'albo del consiglio dell'ordine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i docenti universitari in materie giuridiche.
 
 Il consiglio direttivo dura in carica un triennio e, comunque, resta in carica sino alla nomina, ai sensi del comma 2, del nuovo consiglio direttivo.
 
@@ -122,6 +261,59 @@ Il consiglio direttivo pubblica annualmente nel sito internet del consiglio dell
 
 La segreteria della camera arbitrale e di conciliazione svolge le funzioni amministrative di supporto connesse all'attivita' della stessa camera.
 
+2.
+                        
+                            
+                                La segreteria svolge altresi' le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tiene un registro informatico per ogni procedimento della camera arbitrale e di conciliazione, con le annotazioni relative al numero d'ordine progressivo, all'oggetto del conflitto, ai dati identificativi delle parti, agli arbitri o al conciliatore, alla durata del procedimento e al relativo esito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica la conformita' della domanda di arbitrato e di conciliazione ai requisiti formali previsti dal regolamento della camera arbitrale e di conciliazione e la annota nel registro di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede alla riscossione delle spese e di ogni altro compenso dovuto in relazione ai procedimenti svolti presso la camera arbitrale e di conciliazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    forma e conserva i fascicoli di tutte le procedure; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolge le funzioni di segreteria del consiglio direttivo, degli arbitri e dei conciliatori, curando la verbalizzazione delle sedute, e provvedendo alle relative comunicazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvede alle comunicazioni richieste dal consiglio direttivo, dagli arbitri e dal conciliatore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rilascia alle parti, a loro richiesta, copia degli atti e dei documenti.
+
 ## Art. 11. — Obbligo di riservatezza
 
 I membri del consiglio direttivo, gli arbitri, i conciliatori e il personale dipendente e ogni altro soggetto coinvolto, in qualsiasi qualita', nelle attivita' della camera arbitrale e di conciliazione, sono tenuti a mantenere riservata qualsiasi informazione riguardante lo svolgimento e l'esito dei procedimenti.
@@ -134,6 +326,38 @@ Per finalita' di studio, e in ogni caso previo assenso delle parti, la camera ar
 
 Incompatibilita'
 
+1.
+                        
+                            
+                                Non possono essere nominati arbitri e conciliatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i membri e i revisori appartenenti al consiglio dell'ordine presso cui e' istituita la camera arbitrale e di conciliazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i membri del consiglio direttivo e della segreteria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dipendenti della camera arbitrale e di conciliazione e della segreteria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soci, gli associati, i dipendenti di studio, gli avvocati che esercitano negli stessi locali, nonche' il coniuge, la persona unita civilmente, il convivente, il parente in linea retta e tutti coloro che hanno stabili rapporti di collaborazione con le persone indicate alle lettere a), b) e c).
+
 Gli arbitri e i conciliatori devono essere al momento della nomina, e restare per tutta la durata del procedimento, indipendenti dalle parti, dai loro difensori e dagli altri componenti della camera arbitrale e di conciliazione.
 
 In ogni caso, l'arbitro e il conciliatore non puo' considerarsi imparziale se egli stesso, ovvero un altro professionista di lui socio, con lui associato o che eserciti nei suoi stessi locali abbia assistito, anche in via stragiudiziale, una delle parti del procedimento nei tre anni precedenti.
@@ -143,6 +367,38 @@ Nel corso del procedimento l'arbitro e il conciliatore sono tenuti a comunicare 
 ## Art. 13.
 
 Requisiti di onorabilita'
+
+1.
+                        
+                            
+                                I requisiti di onorabilita' degli arbitri e dei conciliatori sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non aver riportato condanne definitive per delitti non colposi o a pena detentiva non sospesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere stati oggetto di interdizione perpetua o temporanea dai pubblici uffici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere stati sottoposti a misure di prevenzione o di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non aver riportato sanzioni disciplinari definitive piu' gravi dell'avvertimento.
 
 ## - Capo V ALTRI STRUMENTI DI RISOLUZIONE ALTERNATIVA DELLE CONTROVERSIE
 

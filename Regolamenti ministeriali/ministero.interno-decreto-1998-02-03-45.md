@@ -8,8 +8,8 @@ codice_redazionale: 098G0090
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,7 +27,87 @@ Data comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'artico
 
 ## Art. 1. — Accesso al ruolo degli ispettori
 
+1.
+                    
+                        
+                            La nomina alla qualifica iniziale del ruolo degli ispettori si consegue:
+ 
+                        
+                        
+                            a)
+                            
+                                nel limite del cinquanta per cento dei posti disponibili, mediante pubblico concorso, comprendente una prova scritta ed un colloquio e successivo corso di formazione tecnicoprofessionale della durata di diciotto mesi, con esami finali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel limite del restante cinquanta per cento dei posti disponibili, mediante concorso interno per titoli di servizio ed esame consistente in una prova scritta ed un colloquio e successivo corso di formazione di durata non inferiore a sei mesi, con esami finali.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Concorso pubblico - Bando di concorso
+
+1.
+                    
+                        
+                            Il concorso pubblico e' indetto, su base nazionale, con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, nel quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso ed, eventualmente, la distribuzione degli stessi nelle diverse regioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero dei posti riservati da leggi a favore di determinate categorie ed i titoli che danno luogo a precedenza o a preferenza a parita' di punteggio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i documenti prescritti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il termine e le modalita' di presentazione delle domande di ammissione al concorso e dei documenti di cui alla precedente lettera d);
+
+                            
+                        
+                        
+                            f)
+                            
+                                il programma delle prove d'esame ed il diario della prova scritta;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la votazione minima da conseguire nelle prove d'esame;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
 
 Per particolari esigenze possono essere banditi concorsi per una o piu' regioni.
 
@@ -39,6 +119,80 @@ Tale pubblicazione ha valore di notifica a tutti gli effetti.
 Le domande di partecipazione al concorso, redatte su carta libera oppure, nei casi in cui l'amministrazione lo ritenga opportuno, compilate su modelli da essa predisposti e conformi a quello allegato al bando di concorso, devono essere presentate alla questura della provincia ove il candidato risiede entro il termine perentorio di giorni trenta, che decorre dalla data di pubblicazione del bando di concorso nella Gazzetta Ufficiale della Repubblica italiana.
 
 Le domande si considerano prodotte in tempo utile anche se spedite alla questura a mezzo di raccomandata con avviso di ricevimento entro lo stesso termine di cui al comma precedente. A tal fine fa fede il timbro a data dell'ufficio postale accettante.
+
+3.
+                    
+                        
+                            Gli aspiranti devono dichiarare nella domanda:
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome ed il nome;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data e il luogo di nascita;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il possesso della cittadinanza italiana;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comune ove sono iscritti nelle liste elettorali ovvero il motivo della non iscrizione o della cancellazione dalle liste medesime;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'immunita' da condanne penali o eventualmente le condanne penali riportate e i procedimenti penali pendenti a loro carico;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il titolo di studio, con l'indicazione dell'istituto che lo ha rilasciato e della data in cui e' stato conseguito;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la lingua straniera, a scelta fra inglese, francese e tedesco, nella quale intendono eventualmente sostenere la prova di esame facoltativa;
+
+                            
+                        
+                        
+                            h)
+                            
+                                i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la posizione nei riguardi degli obblighi di leva, con la specificazione, ove occorra, di non essere stati ammessi a prestare servizio militare non armato o servizio sostitutivo civile;
+
+                            
+                        
+                        
+                            l)
+                            
+                                ogni altra indicazione specificamente richiesta dal bando di concorso.
 
 Le domande devono inoltre contenere la precisa indicazione del recapito al quale vanno fatte le comunicazioni relative al concorso e l'impegno di far conoscere le successive eventuali variazioni del recapito stesso.
 
@@ -139,6 +293,66 @@ I vincitori del concorso sono nominati allievi vice ispettori della Polizia di S
 
 ## Art. 14. — Concorso interno - Bando di concorso
 
+1.
+                    
+                        
+                            Il concorso interno, riservato al personale della Polizia di Stato che espleta funzioni di polizia in possesso di un'anzianita' di servizio non inferiore a sette anni, e' indetto con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti complessivi messi a concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero dei posti riservati agli appartenenti al ruolo dei sovrintendenti anche se privi del titolo di studio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la data di svolgimento della prova scritta e le materie oggetto delle prove d'esame;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la votazione minima da conseguire nella prova scritta e nel colloquio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
+
 ## Art. 15. — Possesso dei requisiti
  ed esclusione dal concorso interno
 
@@ -177,6 +391,60 @@ Al colloquio sono ammessi i candidati che abbiano riportato nella prova scritta 
 Il colloquio non si intende superato se il candidato non abbia riportato la votazione di almeno trenta cinquantesimi.
 
 ## Art. 19. — Titoli di servizio
+
+1.
+                    
+                        
+                            Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' delle mansioni svolte - con particolare riferimento alla competenza professionale ed al grado di responsabilita' assunta, fino a punti 12.
+ Il Capo della Polizia - Direttore generale della pubblica sicurezza, con proprio decreto avente natura di atto di indirizzo per tutti i concorsi interni, individua, anche per fasce, i punteggi attribuibili a ciascuna tipologia di incarichi in relazione al rilievo degli stessi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incarichi e servizi speciali conferiti con specifico provvedimento dell'amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                            
+                        
+                        
+                            d)
+                            
+                                titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati, fino a punti 4;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciali incarichi conferitigli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi giuridici, amministrativi o tecnici ovvero su questioni di particolare rilievo attinenti ai servizi dell'amministrazione, fino a punti 4;
+
+                            
+                        
+                        
+                            f)
+                            
+                                speciali riconoscimenti, fino a punti 6;
+
+                            
+                        
+                        
+                            g)
+                            
+                                anzianita' complessiva di servizio, fino a punti 6.
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi. Predetermina, altresi' in modo omogeneo i punteggi da attribuire ai giudizi complessivi presi in considerazione.
 

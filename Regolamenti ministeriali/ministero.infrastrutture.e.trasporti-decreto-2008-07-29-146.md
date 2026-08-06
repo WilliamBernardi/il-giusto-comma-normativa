@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-10-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,80 @@ Le disposizioni del presente regolamento riguardano le procedure amministrative 
 ## Art. 1-bis. — (( (Definizioni). ))
 
 ((
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "area SAR nazionale": zona marittima, individuata ai sensi del decreto del Presidente della Repubblica 28 settembre 1994, n. 662, dichiarata dalla Repubblica italiana come area marittima di propria competenza per le operazioni di ricerca e soccorso, ai sensi della Convenzione internazionale di Amburgo sulla ricerca e il salvataggio marittimo (1979) e della Convenzione delle Nazioni Unite sul diritto del mare (UNCLOS 1982); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "ATCN": Archivio telematico centrale delle unita' da diporto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "autorita' della navigazione interna": Direzioni generali territoriali e Uffici motorizzazione civile del Ministero delle infrastrutture e dei trasporti, secondo le competenze attribuite dal decreto del Presidente del Consiglio dei ministri 23 dicembre 2020, n. 190 e dal decreto del Ministro delle infrastrutture e dei trasporti 4 agosto 2014, n. 346; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "autorita' marittima": capitanerie di porto e uffici circondariali marittimi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "CED": Centro elaborazione dati della Direzione generale per la motorizzazione, per i servizi ai cittadini e alle imprese in materia di trasporti e navigazione del Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "codice": il codice della nautica da diporto di cui al decreto legislativo 18 luglio 2005, n. 171; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "DCI": dichiarazione di costruzione o importazione di cui all'articolo 1, comma 2, lettera c), del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "STED": Sportello telematico del diportista; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "UCON": Ufficio di conservatoria centrale delle unita' da diporto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "UMC": uffici motorizzazione civile.
 
 ))
 
@@ -134,6 +208,45 @@ Per le imbarcazioni da diporto ((e per le navi da diporto minori di cui all'arti
 ## Art. 11. — Documenti per la pubblicita'
 
 La pubblicita' e' richiesta ((all'UCON, tramite uno STED,)) presentando, unitamente alla nota di trascrizione in doppio originale ed alla licenza di navigazione, gli atti di cui all'articolo 10 del presente regolamento nelle forme indicate dall'articolo 2658 del codice civile e, in caso di acquisto a causa di morte, il certificato di morte del precedente proprietario.
+
+2.
+                        
+                            
+                                La nota di trascrizione contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo, data di nascita e nazionalita', codice fiscale e regime patrimoniale delle parti, se coniugate, ovvero denominazione o ragione sociale, sede e numero di codice fiscale delle persone giuridiche, delle societa' e delle associazioni non riconosciute, con l'indicazione per queste ultime e per le societa' semplici, anche delle generalita' delle persone che le rappresentano secondo l'atto costitutivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicazione del titolo del quale si chiede la pubblicita' e data del medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nome del pubblico ufficiale che ha ricevuto l'atto o che ha autenticato le firme o che l'ha in deposito, ovvero nome di altro soggetto che ha autenticato le firme ai sensi dell'articolo 7 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, ovvero l'indicazione dell'autorita' giudiziaria che ha pronunciato la sentenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di individuazione dell'unita' da diporto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indicazione dell'eventuale termine o condizione a cui e' sottoposto l'atto.
 
 In caso di acquisto a causa di morte, la nota di trascrizione contiene anche l'indicazione della data di morte del precedente proprietario.
 
@@ -275,6 +388,24 @@ Nel caso di iscrizione provvisoria di cui all'articolo 20 del codice, qualora si
 
 ((
 
+1.
+                        
+                            
+                                Nei casi previsti dall'articolo 24, comma 1, del codice, per il rinnovo della licenza di navigazione per imbarcazioni e navi da diporto il proprietario presenta all'UCON, tramite uno STED, i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la licenza di cui si chiede il rinnovo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attestazione di idoneita' rilasciata da un organismo tecnico notificato ai sensi del decreto legislativo 11 gennaio 2016, n. 5 oppure autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104.
+
 In caso di furto, smarrimento, deterioramento o distruzione della licenza di navigazione, a seguito di domanda del proprietario o dell'utilizzatore dell'unita' da diporto in locazione finanziaria, in nome e per conto del proprietario, lo STED, acquisiti l'originale o la copia conforme della denuncia presentata all'autorita' competente e l'eventuale licenza di navigazione deteriorata, previa validazione dell'UCON, rilascia il duplicato. L'UCON comunica al proprietario il rilascio del duplicato della licenza di navigazione.
 
 ))
@@ -282,6 +413,24 @@ In caso di furto, smarrimento, deterioramento o distruzione della licenza di nav
 ## Art. 17-bis. — (( (Rinnovo della licenza per navi destinate esclusivamente al noleggio per finalita' turistiche di cui all'articolo 3 della legge 8 luglio 2003, n. 172). ))
 
 ((
+
+1.
+                        
+                            
+                                Nei casi previsti dall'articolo 24, comma 1, del codice, per il rinnovo della licenza per navi destinate esclusivamente al noleggio per finalita' turistiche il proprietario presenta all'autorita' marittima di iscrizione i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la licenza di cui si chiede il rinnovo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione ai fini del noleggio di cui all'articolo 5, comma 3, del decreto del Ministero delle infrastrutture e dei trasporti 4 aprile 2005, n. 95, rilasciata da un organismo tecnico autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104.
 
 In caso di furto, smarrimento, deterioramento o distruzione della licenza, l'autorita' marittima di iscrizione della nave rilascia, su richiesta del proprietario o dell'armatore, il duplicato, acquisendo l'originale o la copia conforme della denuncia presentata all'autorita' competente e l'eventuale licenza deteriorata.
 
@@ -363,6 +512,31 @@ L'armatore puo' chiedere all'INPS l'autorizzazione a tenere un'unica posizione c
 
 Ai fini delle annotazioni di cui all'articolo 2, comma 2, del codice, il proprietario, l'utilizzatore in locazione finanziaria o l'armatore presenta domanda a uno STED.
 
+2.
+                        
+                            
+                                La domanda di cui al comma 1 e' corredata dai seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato di iscrizione nel registro delle imprese della camera di commercio industria artigianato e agricoltura o dichiarazione sostitutiva di certificazione ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, da cui risulti che l'impresa individuale o la societa' richiedente ha nell'oggetto sociale le attivita' commerciali di cui all'articolo 2, comma 1, del codice che si intendono esercitare e gli estremi dell'iscrizione nel suddetto registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    licenza di navigazione dell'imbarcazione o della nave da diporto che si intende adibire a uso commerciale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di cui all'articolo 2, comma 1, lettera b), del codice, l'autorizzazione rilasciata dalla provincia, citta' metropolitana o provincia autonoma competente o copia della segnalazione certificata di inizio attivita' di cui all'articolo 49-septies, comma 3, del codice.
+
 In caso di mutamento di uno o piu' dei soggetti di cui al comma 1, l'interessato presenta a uno STED domanda di cancellazione dell'annotazione precedentemente eseguita o nuova domanda di annotazione dell'uso commerciale che si intende svolgere.
 
 ))
@@ -397,6 +571,24 @@ Per condotta di un'unita' da diporto si intende la sola direzione del timone del
 
 ## Art. 25. — Patenti di categoria A
 
+1.
+                        
+                            
+                                Le patenti di categoria A abilitano al comando e alla condotta dei natanti e delle imbarcazioni da diporto per le seguenti specie di navigazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    entro dodici miglia dalla costa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    senza alcun limite dalla costa.
+
 Le patenti di cui al comma 1 abilitano al comando ed alla condotta delle unita' a motore, di quelle a vela e di quelle a propulsione mista.
 
 A richiesta dell'interessato, le patenti di cui al comma 1 possono essere rilasciate per il comando e la condotta delle sole unita' a motore. Sono considerate a motore quelle unita' in cui il rapporto tra la superficie velica in metri quadrati di tutte le vele che possono essere bordate contemporaneamente in navigazione su idonee attrezzature fisse, compresi l'eventuale fiocco genoa e le vele di strallo, escluso lo spinnaker, e la potenza del motore in cavalli o in kilowatt e' inferiore, rispettivamente, a 1 o a 1,36.
@@ -419,6 +611,24 @@ Le patenti di cui al comma 1 sono assoggettate alla disciplina prevista per le p
 
 ((
 
+1.
+                        
+                            
+                                Le patenti nautiche di categoria D sono abilitazioni speciali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il comando e la condotta di natanti e imbarcazioni da diporto, nonche' di moto d'acqua, se di tipo D1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il comando e la condotta di natanti e imbarcazioni da diporto, se di tipo D2.
+
 Le patenti nautiche di categoria D, tipo D1, sono rilasciate a soggetti in possesso dei requisiti psichici e fisici di cui all'allegato I, paragrafi 1, 2 e 5, che abbiano compiuto il sedicesimo anno di eta'. L'abilitazione e' limitata alla navigazione esclusivamente diurna con natanti o imbarcazioni da diporto aventi scafi di lunghezza massima di dodici metri, misurata secondo la norma armonizzata UNI/EN/ISO/8666, nelle acque interne e nelle acque marittime entro sei miglia di distanza dalla costa, oppure con moto d'acqua entro un miglio di distanza dalla costa.
 
 A bordo delle unita' di cui al comma 1 puo' essere installato un motore di cilindrata non superiore a 1900 cc, se a carburazione o a iniezione diretta a due tempi fuoribordo o a 2400 cc, se a carburazione o a iniezione a quattro tempi fuoribordo non sovralimentato o a 1500 cc, se a carburazione o a iniezione a quattro tempi fuoribordo sovralimentato o a 1700 cc, se a carburazione o a iniezione a quattro tempi entrobordo non sovralimentato o a 1200 cc, se a carburazione o a iniezione a quattro tempi entrobordo sovralimentato o a 2400 cc, se a ciclo diesel entrobordo non sovralimentato o a 2000 cc, se a ciclo diesel entrobordo sovralimentato oppure in caso di moto d'acqua, a 1000 cc a due tempi o a 1700 cc se a quattro tempi non sovralimentato o a 1200 cc se a quattro tempi sovralimentato, e comunque in tutti i casi con potenza non superiore a 85 Kw o a 115,6 CV.
@@ -432,6 +642,38 @@ Le patenti nautiche di categoria D, tipo D2, sono assoggettate alle procedure pr
 ))
 
 ## Art. 28. — Autorita' competenti al rilascio delle patenti
+
+1.
+                        
+                            
+                                Sono competenti al rilascio delle patenti nautiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le capitanerie di porto, gli uffici circondariali marittimi e gli uffici motorizzazione civile delle Direzioni generali territoriali del Dipartimento ((per i trasporti e la navigazione)), per le patenti nautiche che abilitano alla navigazione entro dodici miglia dalla costa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le capitanerie di porto e gli uffici circondariali marittimi, per le patenti nautiche che abilitano alla navigazione senza alcun limite dalla costa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le capitanerie di porto, per le patenti che abilitano al comando di navi da diporto. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le Capitanerie di porto, gli Uffici circondariali marittimi e gli UMC delle Direzioni generali territoriali del Dipartimento per i trasporti e la navigazione per le patenti nautiche di categoria D, tipo D1.
 
 Le patenti nautiche sono conformi al modello approvato dal Ministero delle infrastrutture e dei trasporti.
 
@@ -448,6 +690,24 @@ Le patenti nautiche non conformi al modello vigente di cui al comma 2 sono sosti
 Le prove di esame per il conseguimento delle patenti nautiche possono essere sostenute decorsi trenta giorni dalla data di presentazione della domanda di ammissione all'esame.
 
 La prova teorica per il conseguimento delle patenti nautiche di categoria A, C e D, tipo D2, che abilitano alla navigazione entro dodici miglia di distanza dalla costa, e' sostenuta innanzi a un esaminatore nominato, per la giurisdizione di competenza, dal capo del circondario marittimo, scelto tra gli ufficiali del Corpo delle capitanerie di porto in servizio permanente effettivo, gli ufficiali superiori del Corpo di stato maggiore e delle capitanerie di porto in congedo, i docenti degli istituti tecnici del settore tecnologico, indirizzo trasporti e logistica, articolazione conduzione del mezzo, opzioni conduzione del mezzo navale e di impianti e apparati marittimi che hanno svolto attivita' didattica presso i medesimi istituti tecnici per almeno cinque anni in materie pertinenti alla navigazione e alla struttura e costruzione del mezzo, il personale della gente di mare in possesso dell'abilitazione non inferiore a quella di ufficiale di coperta di cui all'articolo 5 del decreto del Ministro delle infrastrutture e dei trasporti 25 luglio 2016, pubblicato nella Gazzetta Ufficiale n. 183 del 6 agosto 2016, o a quella di ufficiale di navigazione del diporto di cui all'articolo 5 del decreto del Ministro delle infrastrutture e dei trasporti 10 maggio 2005, n. 121, gli ufficiali di navigazione del diporto di 2ª classe di cui all'articolo 36-bis, comma 1, del codice, ovvero innanzi a un esaminatore nominato, per la giurisdizione di competenza, dal direttore dell'UMC, scelto tra i medesimi soggetti nonche' tra i funzionari, anche in posizione di quiescenza, del Ministero delle infrastrutture e dei trasporti, abilitati a norma della legge 1° dicembre 1986, n. 870. Le funzioni di esaminatore possono essere svolte anche dal capo del circondario marittimo o dal direttore dell'UMC.
+
+3.
+                        
+                            
+                                La prova teorica per il conseguimento delle patenti nautiche di categoria A, C e D, tipo D2, che abilitano alla navigazione senza alcun limite di distanza dalla costa, e' sostenuta innanzi a una commissione nominata dal capo del circondario marittimo e costituita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal presidente, scelto tra: gli ufficiali superiori del Corpo di stato maggiore o gli ufficiali di grado non inferiore a tenente di vascello del Corpo delle capitanerie di porto in servizio permanente effettivo o in congedo; i docenti degli istituti tecnici del settore tecnologico, indirizzo trasporti e logistica, articolazione conduzione del mezzo, opzioni conduzione del mezzo navale e di impianti e apparati marittimi che hanno svolto attivita' didattica presso i medesimi istituti tecnici per almeno cinque anni in materie pertinenti alla navigazione e alla struttura e costruzione del mezzo; il personale della gente di mare in possesso di abilitazione non inferiore a quella di comandante su navi di stazza pari o superiore a 3000 GT di cui all'articolo 8 del citato decreto 25 luglio 2016, o di comandante del diporto di cui all'articolo 7 del richiamato decreto n. 121 del 2005. Le funzioni di presidente possono essere svolte anche dal capo del circondario marittimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un membro, scelto tra: gli ufficiali del Corpo delle capitanerie di porto in possesso del titolo professionale di capitano di lungo corso o di aspirante capitano di lungo corso; gli ufficiali e i sottufficiali del Corpo delle capitanerie di porto abilitati alla condotta delle motovedette d'altura del Corpo; i comandanti su navi di stazza pari o superiore a 3000 GT o compresa tra 500 e 3000 GT di cui, rispettivamente, agli articoli 8 e 9 del citato decreto 25 luglio 2016 o i capitani del diporto di cui all'articolo 6 del richiamato decreto n. 121 del 2005.
 
 La prova teorica per il conseguimento delle patenti nautiche di categoria B che abilitano al comando delle navi da diporto e' sostenuta innanzi a una commissione nominata dal capo del compartimento marittimo con le modalita' indicate al comma 3, lettere a) e b).
 
@@ -479,6 +739,52 @@ In alternativa al corso formativo, la patente nautica di categoria D, tipo D1, e
 
 Alle modalita' di svolgimento della prova di idoneita' finale si applica, in relazione ai candidati con disturbi specifici dell'apprendimento (DSA), il disposto di cui all'articolo 29, comma 11.
 
+5.
+                        
+                            
+                                Con decreto del Ministro delle infrastrutture e dei trasporti sono disciplinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le materie e le modalita' di svolgimento del corso formativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'oggetto e le modalita' di svolgimento delle esercitazioni pratiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i quiz e le modalita' di svolgimento della prova di idoneita' finale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il modello di attestato di svolgimento delle esercitazioni pratiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il modello di attestato di superamento della prova di idoneita' finale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di vigilanza e di svolgimento dei controlli da parte degli uffici competenti.
+
 ))
 
 ## Art. 30. — Estensione dell'abilitazione
@@ -506,6 +812,168 @@ La ricevuta di avvenuta presentazione della domanda di cui al comma 1, accompagn
 ## Art. 32. — (( (Rilascio delle patenti nautiche senza esami).))
 
 ((
+
+1.
+                        
+                            
+                                Le abilitazioni e i brevetti di cui all'articolo 39-ter del codice validi per il rilascio senza esami della patente nautica di categoria A per la navigazione senza alcun limite di distanza dalla costa sulle unita' esclusivamente a motore sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    brevetto di abilitazione alla condotta di mezzi navali della Marina militare senza alcun limite dalla costa o dall'unita' madre rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    brevetto di abilitazione per la condotta di unita' navali ausiliarie minori della Marina militare in navigazione d'altura, di galleggianti a motore d'uso locale e di mezzi speciali, esclusi i rimorchiatori, rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    brevetto di abilitazione per la condotta dei mezzi speciali della Marina militare adibiti al rimorchio costiero e d'altura rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abilitazione alla condotta di galleggianti della Marina militare adibiti alla navigazione oltre sei miglia dalla costa rilasciata dalla Marina militare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    brevetto di abilitazione al comando di motovedette del Corpo delle capitanerie di porto - Guardia costiera entro venti miglia dalla costa o dall'unita' madre; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    brevetto di abilitazione al comando di unita' navali del Corpo delle capitanerie di porto - Guardia costiera senza limiti dalla costa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    brevetto di specializzazione di comandante di unita' navale rilasciato dai comandi o dalle scuole nautiche della Guardia di finanza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    brevetto di abilitazione alla condotta di unita' navali d'altura rilasciato dai comandi e dalle scuole nautiche della Guardia di finanza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    patentino di abilitazione al comando di unita' navali della Guardia di finanza per ufficiali rilasciato dai comandi o dalle scuole nautiche della Guardia di finanza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    patentino di abilitazione al comando di unita' navali rilasciato dai comandi o dalle scuole nautiche della Guardia di finanza; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    abilitazione al comando di unita' navali d'altura dell'Arma dei Carabinieri rilasciata dalla Marina militare; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    abilitazione al comando di unita' navali in navigazione costiera dell'Arma dei Carabinieri rilasciata dalla Marina militare; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    abilitazione al comando o condotta di mezzi dell'Esercito italiano in navigazione entro venti miglia dalla costa rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    abilitazione al comando o condotta di unita' o mezzi navali dell'Aeronautica militare in navigazione entro venti miglia dalla costa rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    abilitazione al comando o condotta di unita' o mezzi navali dell'Aeronautica militare in navigazione oltre venti miglia dalla costa rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    brevetto di abilitazione al comando di unita' navale in navigazione costiera conseguito da personale del Corpo della Polizia penitenziaria presso scuole della Marina militare.
+
+2.
+                        
+                            
+                                I titoli e i brevetti di cui all'articolo 39-quater del codice validi per il rilascio senza esami delle patenti nautiche di categoria A per la navigazione entro dodici miglia di distanza dalla costa sulle unita' esclusivamente a motore sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    brevetto di abilitazione per la condotta di mezzi navali della Marina militare entro dodici miglia dalla costa o dall'unita' madre rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione alla condotta di galleggianti della Marina militare adibiti alla navigazione entro sei miglia dalla costa rilasciata dalla Marina militare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    brevetto abilitante alla condotta di "motoscafi da corsa M.M." rilasciato dalla Marina militare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    brevetto di abilitazione alla condotta di mezzi navali del Corpo delle capitanerie di porto - Guardia costiera entro dodici miglia dalla costa o dall'unita' madre; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    abilitazione alla condotta di mezzi navali in navigazione entro dodici miglia dalla costa o dall'unita' madre rilasciata dai comandi o dalle scuole nautiche della Guardia di finanza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    abilitazione al comando o condotta di mezzi navali dell'Esercito italiano in navigazione entro sei miglia dalla costa rilasciata dalla Marina militare.
 
 Con decreto del Ministero delle infrastrutture e dei trasporti si procede all'aggiornamento delle abilitazioni e dei brevetti che danno diritto al rilascio delle patenti nautiche senza esami, in base alle variazioni comunicate periodicamente dalla Marina militare o dalla Guardia di finanza.
 
@@ -537,6 +1005,31 @@ Nei casi di cui ai commi 1, 2 e 3, la residenza all'estero e' dimostrata a cura 
 
 ((
 
+1.
+                        
+                            
+                                Sono ammessi agli esami o alla prova di idoneita' finale di cui all'articolo 29-bis per il conseguimento delle patenti nautiche coloro che al momento della presentazione della domanda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le patenti nautiche di categoria D, tipo D1, hanno compiuto il sedicesimo anno di eta' e sono in possesso dell'attestato di frequenza disciplinato dal decreto di cui all'articolo 29-bis, comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le patenti nautiche di categoria A, C, e D, tipo D2, hanno compiuto il diciottesimo anno di eta' e sono in possesso dell'attestato di svolgimento delle esercitazioni pratiche disciplinato dal decreto di cui all'articolo 29, comma 10; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le patenti nautiche di categoria B, hanno compiuto il ventunesimo anno d'eta' e sono in possesso della patente nautica di categoria A senza alcun limite di distanza dalla costa, almeno con abilitazione per la navigazione a motore, conseguita da almeno un triennio.
+
 Nella domanda di ammissione agli esami per il conseguimento delle patenti nautiche di categoria A, C e D, tipo D2, il candidato dichiara l'eventuale richiesta di limitazione dell'abilitazione alle sole unita' a motore.
 
 ## Art. 36. — (( (Giudizio di idoneita').))
@@ -556,6 +1049,24 @@ L'accertamento puo' essere effettuato dai medici di cui al comma 4 anche dopo av
 Gli accertamenti sono effettuati presso la struttura pubblica nella quale il medico presta servizio oppure presso gabinetti medici, anche allestiti nelle sedi delle scuole nautiche o dei consorzi per l'attivita' di scuola nautica, che rispettino idonei requisiti igienico-sanitari e siano accessibili e fruibili dalle persone con disabilita', a condizione che le visite siano svolte dai medici di cui ai commi 4 e 5 in possesso del codice di identificazione previsto dal richiamato decreto ministeriale 31 gennaio 2011. Nel caso in cui la visita di accertamento si svolga in un gabinetto medico allestito presso scuole nautiche o consorzi tra scuole nautiche, il certificato di idoneita' reca l'indicazione dell'esercizio presso il quale il gabinetto medico e' allestito oltre al codice identificativo del medico.
 
 Per i cittadini italiani residenti all'estero il giudizio di idoneita' psichica e fisica puo' essere espresso anche da un medico, di qualsiasi cittadinanza, riconosciuto idoneo dal consolato italiano del Paese di residenza.
+
+8.
+                        
+                            
+                                Il giudizio di idoneita' psichica e fisica e' effettuato dalla commissione medica locale, competente per territorio, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presenza di malattie o minorazioni anatomiche o funzionali indicate nell'allegato I, paragrafo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in tutti i casi in cui il medico accertatore lo ritenga opportuno.
 
 La commissione medica locale, composta da medici di cui ai commi 4 e 5, comunica, nel rispetto delle norme unionali e nazionali in materia di protezione delle persone fisiche con riguardo al trattamento dei dati personali, il giudizio di temporanea o permanente inidoneita' alla convalida della patente nautica all'autorita' marittima o all'UMC competente, che adotta il provvedimento di sospensione o di revoca ai sensi, rispettivamente, degli articoli 40 e 41 e lo trasmette all'anagrafe nazionale delle patenti nautiche.
 
@@ -714,6 +1225,24 @@ Della distruzione delle patenti nautiche di cui al comma 1 e' redatto verbale di
 
 La presente sezione stabilisce le condizioni per il rilascio del certificato di sicurezza ed individua i mezzi di salvataggio nonche' le dotazioni di sicurezza minime che devono essere tenute a bordo delle unita' da diporto di cui al comma 2 in relazione alla navigazione effettivamente svolta. E' responsabilita' del comandante dotare l'unita' degli ulteriori mezzi e delle attrezzature di sicurezza e marinaresche necessarie in relazione alle condizioni meteo-marine e alla distanza da porti sicuri per la navigazione che intende intraprendere ((, anche avvalendosi delle dotazioni raccomandate di cui all'allegato V-bis)).
 
+2.
+                        
+                            
+                                La disciplina della presente sezione si applica alla navigazione intrapresa nelle acque marittime ed interne dalle unita' da diporto di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    unita' con scafo di lunghezza compresa tra i 2,5 e i 24 metri, munite di marcatura CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    imbarcazioni e natanti privi di marcatura CE.
+
 Per i natanti da diporto ((e le moto d'acqua)), le disposizioni della presente sezione si applicano limitatamente a quanto stabilito per i mezzi di salvataggio e le dotazioni di sicurezza, per il numero delle persone trasportabili, per il motore ausiliario, nonche' per l'identificativo di cui all'articolo 49 ((e per la sostituzione dei tubolari delle unita' pneumatiche)).
 
 ## Art. 49. — Identificativo SAR per i natanti da diporto
@@ -729,6 +1258,25 @@ Il Ministro delle infrastrutture e dei trasporti disciplina, secondo criteri di 
 ## Art. 50. — Certificato di sicurezza
 
 Il certificato di sicurezza, conforme all'allegato IV al presente regolamento, e' il documento che attesta la rispondenza dell'unita' da diporto alle disposizioni della presente sezione.
+
+2.
+                        
+                            
+                                
+                                    ((Il certificato di sicurezza e' rilasciato dallo STED, all'atto della prima iscrizione nell'ATCN, previa validazione dell'UCON)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le unita' di cui all'articolo 48, comma 2, lettera a), del presente regolamento, sulla base della documentazione tecnica prevista, ai fini dell'iscrizione, dagli articoli 19 e 20 del codice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le unita' di cui all'articolo 48, comma 2, lettera b), del presente regolamento, sulla base di una attestazione di idoneita' rilasciata, per i fini e con le modalita' indicate all'articolo 57 del presente regolamento, da un organismo tecnico notificato ai sensi ((del decreto legislativo 11 gennaio 2016, n. 5 ovvero autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104, scelto dal proprietario dell'unita' o dall'eventuale utilizzatore in locazione finanziaria)).
 
 Per le unita' usate di cui all'articolo 48, comma 2, lettera a), del presente regolamento, il certificato di sicurezza e' rilasciato sulla base della documentazione tecnica richiesta per l'iscrizione ((nell'ATCN)) ed in tal caso il certificato di sicurezza ha validita' limitata al periodo residuo rispetto a quello indicato all'articolo 51 del presente regolamento. Per le unita' usate di cui all'articolo 48, comma 2, lettera b), del presente regolamento, provenienti da Paesi dell'Unione europea ((o dello Spazio economico europeo)), la documentazione tecnica e' valida solo se equivalente a quella nazionale.
 
@@ -747,6 +1295,24 @@ Alla convalida del certificato di sicurezza provvede uno STED oppure, per le uni
 ))
 
 ## Art. 51. — Validita' del certificato di sicurezza
+
+1.
+                        
+                            
+                                Il certificato di sicurezza delle unita' da diporto, in caso di primo rilascio, ha le seguenti validita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    otto anni ((dalla registrazione nell'ATCN)) per le unita' appartenenti alle categorie di progettazione A e B e per le unita' di cui all'articolo 22, comma 3, lettera a), n. 1), del codice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dieci anni ((dalla registrazione nell'ATCN)) per le unita' appartenenti alle categorie di progettazione C e D e per le unita' di cui all'articolo 22, comma 3, lettera a), n. 2), del codice.
 
 In caso di rinnovo, la validita' del certificato di sicurezza decorre dalla data di rilascio dell'attestazione di idoneita'.
 
@@ -847,6 +1413,52 @@ Le unita' di cui al comma 1 del presente articolo sono dotate dei fanali e degli
 
 ## Art. 60. — Persone trasportabili su natanti non omologati ed omologati
 
+1.
+                        
+                            
+                                Il numero delle persone trasportabili dai natanti prototipi non omologati privi della marcatura CE e' determinato come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre persone per unita' di lunghezza fuoritutto fino a metri 3,50; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro persone per unita' di lunghezza fuoritutto superiore a metri 3,50 e fino a metri 4,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cinque persone per unita' di lunghezza fuoritutto superiore a metri 4,50 e fino a metri 6,00; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sei persone per unita' di lunghezza fuoritutto superiore a metri 6,00 e fino a metri 7,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sette persone per unita' di lunghezza fuoritutto superiore a metri 7,50 e fino a metri 8,50; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nove persone per unita' di lunghezza fuoritutto superiore a metri 8,50.
+
 Per i natanti prodotti in serie, il numero delle persone trasportabili e' determinato dalla certificazione di omologazione che, unitamente alla dichiarazione di conformita', e' ((tenuta)) a bordo quando il numero delle persone imbarcate e' superiore a quello indicato al comma 1.
 
 Quando sono trasportate attrezzature sportive subacquee, il numero delle persone trasportabili e' ridotto in ragione di una persona per ogni 75 kg di materiale imbarcato.
@@ -870,6 +1482,31 @@ La disciplina della presente sezione si applica alla navigazione intrapresa nell
 ## Art. 62. — (( (Tipi di visite).))
 
 ((
+
+1.
+                        
+                            
+                                Le navi da diporto sono sottoposte alle seguenti visite di sicurezza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iniziale, prima dell'entrata in esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    periodiche, alla scadenza del periodo di validita' del certificato di sicurezza di cui all'articolo 70; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    occasionali, quando se ne verifichi la necessita'.
 
 Le visite sono disposte dall'autorita' marittima o della navigazione interna, nella cui giurisdizione l'unita' da diporto si trova, su richiesta presentata dal proprietario o dall'eventuale utilizzatore in locazione finanziaria tramite uno STED.
 
@@ -941,6 +1578,24 @@ Il certificato di sicurezza, i cui estremi vengono annotati sulla licenza di nav
 
 ## Art. 71. — Validita' del certificato di sicurezza
 
+1.
+                        
+                            
+                                Il certificato di sicurezza ha la validita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    otto anni dall'immatricolazione, in caso di primo rilascio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cinque anni dalla data di rilascio della dichiarazione ai fini delle annotazioni di sicurezza, in caso di rinnovo ((o di nave proveniente da altri registri)).
+
 Nel caso in cui la nave abbia subito gravi avarie o siano state apportate innovazioni o abbia subito mutamenti alle caratteristiche tecniche di costruzione non essenziali, il certificato di sicurezza e' sottoposto a convalida previa visita occasionale di cui all'articolo 65. Qualora le innovazioni apportate all'apparato di propulsione o alle altre caratteristiche tecniche della nave siano tali da far venire meno i requisiti essenziali in base ai quali e' stato rilasciato il certificato di sicurezza, lo stesso perde di validita' e il proprietario ((o l'eventuale utilizzatore in locazione finanziaria, previa comunicazione al proprietario,)) ne richiede il nuovo rilascio, unitamente alla nuova licenza di navigazione.
 
 ## Art. 72. — Apparato motore, impianti ed allestimento
@@ -995,6 +1650,139 @@ Il proprietario o l'eventuale utilizzatore in locazione finanziaria o l'armatore
 
 ## Art. 75. — Dotazioni di sicurezza
 
+1.
+                        
+                            
+                                Le dotazioni richieste per le navi da diporto sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una bussola e relativa tabella delle deviazioni ((oppure una bussola elettronica)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un orologio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un barometro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un binocolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uno scandaglio elettronico o a mano munito di cima lunga almeno 25 metri; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le carte nautiche ed i relativi strumenti da carteggio necessari in relazione alla navigazione che si intende intraprendere; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    strumento di radioposizionamento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((tre)) fuochi a mano a luce rossa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((tre)) razzi a paracadute a luce rossa; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((due)) boette fumogene; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ancora con catena o cavo, e cavi di ormeggio conformi al regolamento tecnico dell'organismo tecnico ((autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104)); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    una cassetta contenente materiale di pronto soccorso, come indicato nella tabella A annessa al decreto ((del Ministro della sanita')) 25 maggio 1988, n. 279; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    fanali e apparecchi di segnalazione sonora conformi alla Convenzione internazionale per prevenire gli abbordi in mare, firmata a Londra il 20 ottobre 1972; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    estintori portatili come da allegato V, tabella 1, lettera B), del presente regolamento; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    un riflettore radar; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    radio telefono ad onde ettometriche ((conforme al decreto legislativo 22 giugno 2016, n. 128 o al decreto del Presidente della Repubblica 20 dicembre 2017, n. 239)); 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    n. 1 E.P.I.R.B. ((funzionante sulle frequenze 406 MHz e 121,5 MHz e conforme al decreto legislativo 22 giugno 2016, n. 128 o al decreto del Presidente della Repubblica 20 dicembre 2017, n. 239)); 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    dispositivo di esaurimento della sentina.
+
 In sostituzione delle dotazioni di cui al comma 1, lettera f), del presente articolo, e' consentito l'uso di cartografia elettronica conforme al decreto del Comandante generale del Corpo delle capitanerie di porto 10 luglio 2002 pubblicato nella Gazzetta Ufficiale, Serie generale, n. 193 del 19 agosto 2002.
 
 ((
@@ -1004,6 +1792,31 @@ Le navi da diporto che navigano entro l'area di ricerca e soccorso nazionale pos
 ))
 
 ## Art. 76. — Requisiti e caratteristiche dei mezzi di salvataggio, dei segnali di soccorso e delle bussole
+
+1.
+                        
+                            
+                                Con decreto del Ministro delle infrastrutture dei trasporti sono stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche, i requisiti dei mezzi di salvataggio, nonche' le modalita' e la periodicita' delle revisioni delle zattere di salvataggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche, i requisiti e la scadenza dei segnali di soccorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le caratteristiche, le modalita' per l'installazione a bordo e le verifiche periodiche delle bussole.
 
 Il Ministero delle infrastrutture e dei trasporti verifica presso il costruttore, il rivenditore o l'importatore, secondo i tempi e i modi ritenuti piu' idonei, che i mezzi di salvataggio, i segnali di soccorso e le bussole commercializzati in Italia siano efficienti e conformi alle prescrizioni ministeriali di cui al comma 1 ((, anche sulla base dell'archivio nazionale dei prodotti delle unita' da diporto di cui all'articolo 60, comma 3-bis, del codice)).
 
@@ -1023,11 +1836,54 @@ Le disposizioni del presente capo si applicano alle unita' da diporto impiegate 
 ((Fermo restando quanto stabilito dall'articolo 89-ter, alle unita')) da diporto impiegate in attivita' di noleggio che trasportino piu' di dodici passeggeri, escluso l'equipaggio, si applicano le disposizioni del decreto legislativo 4 febbraio 2000, n. 
 45, e successive modificazioni, se in navigazione nazionale, oppure le pertinenti norme per navi da passeggeri dettate dalla Convenzione internazionale per la salvaguardia della vita umana in mare, firmata a Londra il 1° novembre 1974, e successivi emendamenti, se in navigazione internazionale.
 
+3.
+                        
+                            
+                                Ai fini dell'applicazione del presente Capo, per passeggero si intende qualsiasi persona imbarcata sull'unita' che non sia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comandante o un membro dell'equipaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un bambino di eta' inferiore ad un anno.
+
 ## Art. 79. — Tipi di navigazione
 
 Ai fini dell'applicazione del presente capo, i tipi di navigazione delle unita' da diporto impiegate in attivita' di noleggio sono quelli previsti dagli articoli 22 e 27 del codice.
 
 ## Art. 80. — Tipi di visite
+
+1.
+                        
+                            
+                                Le unita' da diporto impiegate in attivita' di noleggio sono sottoposte alle seguenti visite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    visita iniziale, prima dell'impiego nell'attivita' di noleggio, ad esclusione delle unita' immesse per la prima volta in servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    visite periodiche, alla scadenza del periodo di validita' del certificato di idoneita' al noleggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    visite occasionali, quando se ne verifichi la necessita'.
 
 ((
 
@@ -1042,6 +1898,24 @@ A seguito dell'esito positivo delle visite, gli organismi tecnici notificati ((d
 La dichiarazione di idoneita' per le unita' con scafo di lunghezza superiore a 24 metri e' rilasciata esclusivamente da un organismo tecnico ((autorizzato)).
 
 ## Art. 82. — Certificato di idoneita'
+
+1.
+                        
+                            
+                                Il certificato di idoneita' al noleggio, conforme ((all'allegato VII per le imbarcazioni e le navi da diporto e VII-bis per i natanti da diporto)), e' rilasciato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le imbarcazioni e le navi da diporto, ((dallo STED all'atto dell'annotazione dell'utilizzo in attivita' di noleggio prevista dall'articolo 24, previa presentazione della DCI aggiornata, sulla base della dichiarazione di idoneita' e a seguito di convalida dell'UCON)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i natanti da diporto, all'atto dell'impiego nell'attivita' di noleggio, dall'autorita' ((marittima o della navigazione interna)) avente giurisdizione sul luogo in cui l'unita' abitualmente staziona.
 
 Il certificato fa parte dei documenti di bordo dell'unita' e sostituisce il certificato di sicurezza di cui all'articolo 26 del codice.
 
@@ -1164,6 +2038,46 @@ La concessione delle esenzioni e' limitata nella misura consentita dalle convenz
 
 ## Art. 90. — Mezzi di salvataggio e dotazioni di sicurezza
 
+1.
+                        
+                            
+                                Le unita' da diporto impiegate come unita' appoggio per le immersioni subacquee a scopo sportivo o ricreativo, oltre ai mezzi di salvataggio individuali e collettivi e alle dotazioni di sicurezza indicati nell'allegato V, ((issano in un punto ben visibile una bandiera rossa con striscia diagonale bianca, visibile ad una distanza non inferiore a trecento metri, di dimensioni non inferiori a 45 centimetri di altezza e 70 centimetri di lunghezza, permanentemente spiegata e)) devono avere a bordo le seguenti dotazioni supplementari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una bombola di riserva da almeno 10 litri ogni cinque subacquei imbarcati, contenente gas respirabile e dotata di due erogatori e, in caso di immersione notturna, di una luce subacquea stroboscopica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di immersioni che prevedono soste di decompressione obbligate, in sostituzione della bombola di riserva di cui alla lettera a), e' richiesta una stazione di decompressione. La stazione e' dotata di un sistema di erogazione di gas respirabile in grado di garantire l'esecuzione delle ultime due tappe di decompressione ad ogni subacqueo impegnato in tale tipo di immersione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((un'unita')) per la somministrazione di ossigeno con caratteristiche conformi alla norma ((UNI EN ISO 24803:2018)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una cassetta di pronto soccorso conforme alla tabella A allegata al decreto del Ministero della sanita' 25 maggio 1988, n. 279, e una maschera di insufflazione, indipendentemente dalla navigazione effettivamente svolta; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un apparato ricetrasmittente ad onde metriche (VHF), anche portatile, indipendentemente dalla navigazione effettivamente svolta.
+
 Le immersioni subacquee a scopo sportivo o ricreativo richiedono la presenza di una persona abilitata al primo soccorso subacqueo.
 
 ## Art. 91. — Segnalazione
@@ -1198,6 +2112,24 @@ Nelle acque marittime, e' fatto divieto alle unita' da diporto in transito, in s
 
 ((
 
+1.
+                        
+                            
+                                Nell'adozione delle ordinanze sui limiti di navigazione e di distanza dalla costa, il capo di compartimento o l'autorita' della navigazione interna competente mira a garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'incolumita' dei bagnanti e dei subacquei, tenendo in considerazione le ordinanze degli enti locali per le materie di propria competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ancoraggio delle unita' da diporto in sicurezza, anche in relazione all'incolumita' delle persone a bordo, con riguardo alle localita' che presentano particolari caratteristiche morfologiche della costa, scarsita' di ripari o fondali superiori a 10 metri.
+
 ))
 
 ## Art. 91-quater. — (( (Caratteristiche degli strumenti omologati da impiegare negli accertamenti relativi alla violazione dei limiti di velocita' in mare e nelle acque interne).))
@@ -1219,7 +2151,167 @@ per imbarcazioni e natanti da diporto in mare))
 
 ((
 
+1.
+                        
+                            
+                                La comunicazione di inizio attivita' prevista dall'articolo 49-duodecies, comma 2, del codice, e' presentata alla Capitaneria di porto competente per territorio, in carta semplice o con modalita' telematiche, dalle ditte individuali o dalle societa' che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno la disponibilita' giuridica di almeno un'unita' da diporto iscritta nell'ATCN, dotata del certificato di idoneita' di cui all'articolo 91-septies e con l'annotazione sulla licenza di navigazione dell'utilizzo a fini commerciali per il servizio di assistenza e traino di imbarcazioni e natanti da diporto in mare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno stipulato una polizza assicurativa per responsabilita' civile verso i terzi che include la copertura dei danni arrecati a persone o a cose durante lo svolgimento del servizio di assistenza e traino.
+
 La presentazione della comunicazione di cui al comma 1 consente l'immediato avvio dell'attivita'.
+
+3.
+                        
+                            
+                                Nella comunicazione di inizio attivita' sono contenuti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione o la ragione sociale dell'impresa, con l'indicazione della sede legale e delle sedi operative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati anagrafici e gli estremi fiscali del titolare dell'impresa, per le ditte individuali, dei soci amministratori per le societa' in nome collettivo, dei soci accomandatari per le societa' in accomandita semplice o le societa' in accomandita per azioni, del legale rappresentante per ogni altro tipo di societa' e per le cooperative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'autocertificazione del possesso dei requisiti di cui al comma 5 e della mancanza delle cause ostative di cui al comma 6, ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli estremi dell'iscrizione dell'impresa alla Camera di commercio industria artigianato e agricoltura con oggetto sociale "servizio di assistenza e traino per imbarcazioni e natanti da diporto in mare"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i contatti di reperibilita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli estremi di individuazione delle unita' da diporto adibite al servizio.
+
+4.
+                        
+                            
+                                La comunicazione e' inoltre presentata in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasferimento della sede legale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasferimento delle sedi operative nella giurisdizione di una diversa Capitaneria di porto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modifica, sospensione, ripresa o cessazione dell'attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    variazioni della proprieta' o dell'assetto societario o cooperativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    variazione delle unita' da diporto adibite al servizio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    variazione dei contatti di reperibilita'.
+
+5.
+                        
+                            
+                                La comunicazione di inizio attivita' puo' essere presentata dai soggetti di cui al comma 3, lettera b), che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno compiuto gli anni diciotto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono cittadini italiani o di un altro Stato membro dell'Unione europea o di uno Stato membro dello Spazio economico europeo oppure sono cittadini di Stati terzi in regola con le disposizioni in materia di soggiorno e di lavoro nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono in possesso di diploma di istruzione secondaria di secondo grado o di titolo di studio estero riconosciuto o dichiarato equipollente dalle competenti autorita' italiane; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se cittadini stranieri, possiedono un livello di competenza nella conoscenza della lingua italiana pari almeno al livello B1 (intermedio) del quadro comune europeo di riferimento per la conoscenza delle lingue (QCER). Il requisito della conoscenza della lingua italiana si intende soddisfatto se l'interessato ha conseguito in Italia il diploma di cui alla lettera c) oppure e' in possesso della certificazione della conoscenza della lingua italiana come lingua straniera rilasciata da un ente certificatore (CLIQ).
+
+6.
+                        
+                            
+                                La comunicazione di inizio attivita' non puo' essere presentata da coloro che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non sono in possesso dei requisiti morali per il conseguimento delle patenti nautiche di cui all'articolo 37; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati dichiarati interdetti o inabilitati o falliti, ovvero hanno in corso un procedimento per dichiarazione di fallimento.
 
 Il servizio e' esercitato da coloro che hanno i requisiti di cui al comma 5 in maniera diretta e non puo' essere affidato ad altre imprese.
 
@@ -1244,6 +2336,45 @@ Possono svolgere le operazioni tecniche di traino coloro che hanno effettuato, s
 ## Art. 91-septies. — (( (Requisiti dell'unita' da diporto).))
 
 ((
+
+1.
+                        
+                            
+                                L'unita' da diporto adibita al servizio di assistenza e traino deve avere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrizione nell'ATCN; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    annotazione sulla licenza di navigazione del seguente uso commerciale: "imbarcazione utilizzata a fini commerciali per il servizio di assistenza e traino di imbarcazioni e natanti da diporto in mare"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    equipaggiamento con i mezzi di salvataggio e le dotazioni di sicurezza previste dall'articolo 54; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    certificato di idoneita' al servizio di assistenza e traino di imbarcazioni e natanti in mare rilasciato da un organismo notificato di cui al decreto legislativo 11 gennaio 2016, n. 5, oppure autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    copertura assicurativa per responsabilita' civile verso terzi, con clausola specifica per il servizio di assistenza e traino.
 
 Il certificato di idoneita' di cui al comma 1, lettera d) e' rilasciato dallo STED dopo l'effettuazione, con esito favorevole, di una visita a cura di un organismo tecnico notificato di cui al decreto legislativo 11 gennaio 2016, n. 5 o autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104, volta a verificare l'idoneita' al servizio dell'unita' da diporto, la corretta installazione a bordo e la funzionalita' delle attrezzature necessarie all'aggancio e al traino nonche' i limiti di trazione del sistema di traino. Al termine della visita, l'organismo tecnico rilascia apposita dichiarazione di idoneita'.
 
@@ -1272,6 +2403,33 @@ Il servizio di assistenza e traino deve iniziare nella zona marittima di giurisd
 Le unita' da diporto a controllo remoto sono iscritte nell'ATCN.
 
 La navigazione delle unita' da diporto a controllo remoto e' consentita per l'assistenza all'ormeggio presso le strutture dedicate alla nautica da diporto e per l'assistenza e il traino dei natanti e delle imbarcazioni da diporto in mare, nonche' per la verifica di parti o attrezzature di unita' da diporto in fase di costruzione o riparazione.
+
+3.
+                        
+                            
+                                La navigazione delle unita' da diporto a controllo remoto e' suddivisa nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "libera": navigazione con unita' condotta a vista per la quale non e' prevista comunicazione o autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "controllata": navigazione con unita' condotta non a vista, distinta in: 
+ 1) tipo A: navigazione per la quale e' richiesta la preventiva comunicazione, anche per via telematica, all'autorita' competente in base al luogo in cui avviene la navigazione; 
+ 2) tipo B: navigazione per la quale e' richiesta la preventiva autorizzazione dell'autorita' competente in base al luogo in cui avviene la navigazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "certificata": navigazione per la quale, oltre a quanto stabilito per la navigazione di categoria controllata di tipo B, sono previste ulteriori specifiche attestazioni o prescrizioni relative al sistema dell'unita' da diporto a controllo remoto o all'equipaggio remoto.
 
 L'autorita' competente di cui al comma 3 puo' esonerare la navigazione di categoria controllata di tipo A dall'obbligo di comunicazione o autorizzare quella di tipo B per un periodo di tempo non superiore a tre anni.
 

@@ -8,8 +8,8 @@ codice_redazionale: 001G0028
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -62,6 +62,54 @@ Nella citata legge n. 317 del 1986, dopo l'articolo 1, e' inserito il seguente:
 
 ## Art. 4. — Modificazioni all'articolo 5 della legge n. 317 del 1986
 
+1.
+                    
+                        
+                            L'articolo 5 della citata legge n. 317 del 1986 e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 sono inseriti i seguenti:
+ "1-bis. Se la Commissione europea o gli organismi europei di normalizzazione comunicano l'intenzione di trattare a livello europeo e secondo le procedure definite dagli organismi europei di normalizzazione, un soggetto compreso nel programma annuale di normalizzazione degli organismi italiani di normalizzazione, questi ultimi non si oppongono a tale iniziativa e non intraprendono alcuna azione che possa pregiudicare una decisione in merito;
+ 1-ter. Durante l'elaborazione o dopo l'approvazione di una norma europea per la quale la Commissione europea abbia conferito agli organismi europei di normalizzazione un mandato con un termine determinato, gli organismi italiani di normalizzazione non intraprendono alcuna azione che possa recare pregiudizio all'armonizzazione comunitaria, e in particolare nel settore in questione non pubblicano una norma nazionale nuova o riveduta che non sia interamente conforme ad una norma europea gia' esistente;
+ 1-quater. Le disposizioni di cui al comma 1-ter non si applicano se, tramite l'Ispettorato tecnico, un'amministrazione pubblica ha presentato ad un organismo italiano di normalizzazione la richiesta di elaborare una specifica tecnica o una norma relativa a determinati prodotti in vista dell'emanazione di una regola tecnica concernente i medesimi prodotti. In questo caso l'Ispettorato tecnico comunica alla Commissione europea la richiesta di elaborazione della specifica tecnica o della norma con la stessa procedura prevista per la comunicazione dei progetti di regole tecniche, indicando i motivi che ne giustificano la formulazione;
+ 1-quinquies. Una norma adottata da un organismo italiano di normalizzazione senza attuare le procedure previste ai commi 1 o 1-quater, ovvero in violazione delle disposizioni di cui ai commi 1-bis o 1-ter non puo' essere assunta come riferimento per l'adozione di atti di riconoscimento, omologazione o utilizzazione.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 sono inseriti i seguenti:
+ "2-bis. I progetti di regole tecniche rientranti nel campo d'applicazione della presente legge, nonche' ogni modifica importante degli stessi che ne altera la portata, ne abbrevia il calendario di applicazione iniziale o aggiunge o rende piu' rigorosi le specifiche o i requisiti, sono trasmessi all'Ispettorato tecnico dai soggetti competenti alla loro adozione; se il progetto di regola tecnica concerne il semplice recepimento integrale di una norma internazionale o europea, si puo' omettere dalla trasmissione il testo della norma recepita, indicando un semplice riferimento alla norma stessa.
+ Ogni progetto deve essere corredato dalla documentazione seguente:
+ a) apposita relazione recante l'enunciazione dei motivi che rendono necessaria la sua adozione;
+ b) nei casi di cui al comma 5, la documentazione ivi prevista;
+ c) eventuale motivata richiesta di riservatezza alla quale l'Ispettorato tecnico si conforma nell'esplicare la procedura d'informazione della presente legge;
+ d) testo delle disposizioni legislative e regolamentari fondamentali, essenzialmente e direttamente in questione, se la loro conoscenza e' necessaria per valutare la portata del progetto di regola tecnica, se tale testo e' stato gia' trasmesso in relazione a comunicazioni precedenti e' sufficiente indicare gli estremi di dette comunicazioni;
+ e) nei casi di urgenza indicati nell'articolo 9, comma 6, la richiesta di procedura d'urgenza accompagnata da un'esauriente relazione sui motivi che la giustificano;
+ 2-ter. Per i progetti di regole tecniche contenuti in provvedimenti, anche con valore o forza di legge, ovvero di iniziativa legislativa, di competenza del Consiglio dei Ministri, gli adempimenti di cui al comma 2-bis sono effettuati a cura del Ministero proponente con competenza istituzionale prevalente per la materia;
+ 2-quater. Per i progetti di regole tecniche contenuti in proposte di legge d'iniziativa parlamentare gli adempimenti di cui al comma 2-bis sono effettuati, subito dopo la pubblicazione negli atti parlamentari, a cura del Ministero con competenza istituzionale prevalente per la materia.
+ 2-quinquies. L'Ispettorato tecnico trasmette i progetti di regole tecniche, completi della relativa documentazione, alla Commissione europea ed espleta gli adempimenti previsti dall'articolo 9-bis.
+ 2-sexies. Nel preambolo o nel testo di un progetto di regola tecnica rientrante nel campo d'applicazione della presente legge deve essere indicato un riferimento alla direttiva 98/34/CE.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ "3. L'Ispettorato tecnico, anche su richiesta dei soggetti che presentano i progetti di regole tecniche o che esprimono osservazioni o pareri sui progetti di regole tecniche presentati da altri Stati membri dell'Unione europea, puo' chiedere, nei casi in cui il progetto di regola tecnica presenta aspetti che interessano piu' soggetti, di indire presso il Dipartimento per le politiche comunitarie della Presidenza del Consiglio dei Ministri riunioni di coordinamento per la verifica della completezza delle comunicazioni da trasmettere alla Commissione europea.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 6 e' soppresso.
+
 ## Art. 5. — Modificazioni all'articolo 6 della legge n. 317 del 1986
 
 Il comma 2 dell'articolo 6 della citata legge n. 317 del 1986 e' sostituito dal seguente:
@@ -71,6 +119,31 @@ Il comma 2 dell'articolo 6 della citata legge n. 317 del 1986 e' sostituito dal 
 
 L'articolo 9 della citata legge n. 317 del 1986 e' sostituito dal seguente:
  "Art. 9 (Differimento della messa in vigore di regole tecniche). - 1. La regola tecnica non puo' essere messa in vigore prima della data di scadenza del termine di tre mesi a decorrere dalla data comunicata dalla Commissione europea quale data di ricevimento del progetto di regola tecnica, corredato della documentazione prescritta ai sensi dell'articolo 5, di seguito "data di notifica .
+
+2.
+                    
+                        
+                            Se nel periodo di cui al comma 1 la Commissione europea o uno Stato membro dell'Unione europea emette un parere circostanziato secondo il quale il progetto di regola tecnica presenta aspetti suscettibili di creare ostacoli alla libera circolazione delle merci o alla libera circolazione dei servizi o alla liberta' di stabilimento degli operatori di servizi nell'ambito del mercato interno, la regola tecnica non puo' essere messa in vigore prima dei seguenti termini a decorrere dalla data di notifica:
+ 
+                        
+                        
+                            a)
+                            
+                                quattro mesi, nel caso di regole di cui all'articolo 1, comma 1, lettera m), numero 2);
+
+                            
+                        
+                        
+                            b)
+                            
+                                fatti salvi i commi 3 e 4 del presente articolo, sei mesi, nei casi diversi da quello di cui alla lettera a) e da altre regole relative ai servizi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fatto salvo il comma 4 del presente articolo, quattro mesi, nel caso di progetto di regola relativa ai servizi; ai fini dell'applicazione della presente lettera il parere circostanziato deve avere un contenuto conforme a quello indicato all'articolo 6, comma 2.
 
 Nel caso di un progetto di regola tecnica diversa da una regola relativa ai servizi, se nel periodo di cui al comma 1, del presente articolo, la Commissione europea notifica la sua intenzione di proporre o di adottare una direttiva, un regolamento o una decisione in materia conformemente all'articolo 249 del Trattato, la regola tecnica puo' essere messa in vigore solamente dopo un periodo di sospensione di dodici mesi dalla data di notifica, prolungato a diciotto mesi se durante la sospensione il Consiglio dell'Unione europea adotta una posizione comune.
 
@@ -107,7 +180,93 @@ L'Agenzia per le normative ed i controlli tecnici subentra, ai sensi dell'artico
 
 ## Art. 9. — Aggiunta di allegati alla legge n. 317 del 1986
 
+2.
+                    
+                        
+                            Alla citata legge n. 317 del 1986 sono aggiunti, in fine, i seguenti allegati:
+ "Allegato I Elenco indicativo dei servizi di cui all'articolo 1-bis, comma 2, lettera a)
+ 1. Servizi non forniti "a distanza .
+ Servizi forniti in presenza del prestatario e del destinatario, anche se mediante dispositivi elettronici:
+ 
+                        
+                        
+                            a)
+                            
+                                esame o trattamento in un gabinetto medico mediante attrezzature elettroniche, ma con la presenza del paziente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                consultazione di un catalogo elettronico in un negozio in presenza del cliente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                prenotazione di biglietti aerei attraverso una rete informatica in un'agenzia viaggi in presenza del cliente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                giochi elettronici messi a disposizione di un giocatore presente in una sala giochi.
+ 2. Servizi non forniti "per via elettronica .
+ 2.1. Servizi a contenuto materiale anche se implicano l'utilizzazione di dispositivi elettronici:
+ a) distributori automatici di biglietti (banconote, biglietti ferroviari);
+ b) accesso a reti stradali, parcheggi, ecc. a pagamento, anche se all'entrata e/o all'uscita intervengono dispositivi elettronici per controllare l'accesso e/o garantire il corretto pagamento.
+ 2.2. Servizi non in linea: distribuzione di cd-rom e di software su dischetti.
+ 2.3. Servizi non forniti attraverso sistemi elettronici di archiviazione/trattamento di dati:
+ a) servizi di telefonia vocale;
+ b) servizi telefax/telex;
+ c) servizi forniti mediante telefonia vocale o telefax;
+ d) consulto medico per telefono/telefax;
+ e) consulenza legale per telefono/telefax;
+ f) marketing diretto per telefono/telefax.
+3. Servizi non forniti "a richiesta individuale di un destinatario di servizi .
+ Servizi forniti mediante invio di dati senza una richiesta individuale e destinati alla ricezione simultanea da parte di un numero illimitato di destinatari (trasmissione da punto a multipunto):
+ a) servizi di radiodiffusione televisiva [compresi i servizi near-video on-demand (N-Vod)] di cui all'articolo 1, lettera a), della direttiva 89/552/CEE;
+ b) servizi di radiodiffusione sonora;
+ c) teletesto (televisivo).
+
+ Allegato II Elenco indicativo dei servizi finanziari di cui all'articolo 1-bis, comma 2, lettera e).
+ 1. Servizi d'investimento.
+ 2. Operazioni di assicurazione e riassicurazione.
+
 Servizi bancari.
 
 Operazioni relative ai fondi di pensione.
+
+5.
+                    
+                        
+                            Servizi concernenti operazioni a termine o in opzione.
+ Tali servizi comprendono in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                i servizi di investimento di cui all'allegato della direttiva 93/22/CEE, i servizi di organismi di investimento collettivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi concernenti attivita' che beneficiano del riconoscimento reciproco, di cui all'allegato della direttiva 89/646/CEE;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le operazioni che riguardano attivita' di assicurazione e riassicurazione di cui:
+ all'articolo 1 della direttiva 73/239/CEE;
+ all'allegato della direttiva 79/267/CEE;
+ alla direttiva 64/225/CEE;
+ alle direttive 92/49/CEE e 92/96/CEE.".
 

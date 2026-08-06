@@ -8,8 +8,8 @@ codice_redazionale: 099G0315
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,7 +33,57 @@ Udito il parere del Consiglio di Stato, espresso nella adunanza della sezione co
 
 ## Art. 1. — Criteri generali
 
+1.
+                    
+                        
+                            La quota del Fondo unico dello spettacolo destinata alle fondazioni liricosinfoniche, di seguito definita "il fondo", ai sensi dell'articolo 24 del decreto legisiativo 29 giugno 1996, n. 367, di seguito indicato come "decreto", e' attribuita sulla base dei seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                determinazione della quota del fondo da erogare in considerazione della misura dei contributi ricevuti in passato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                determinazione della quota del fondo da erogare in considerazione delle caratteristiche dei progetti e dei programmi di attivita', con proiezione triennale, sulla base di indicatori di rilevazione della produzione e del giudizio di qualita' della medesima;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determinazione della quota del fondo da erogare in considerazione dei costi degli organici funzionali, con esclusivo riferimento a quelli derivanti dal contratto collettivo nazionale di lavoro.
+
 ## Art. 2. — Percentuali di ripartizione
+
+1.
+                    
+                        
+                            Le percentuali di ripartizione di cui all'articolo 1, sono cosi' determinate:
+ 
+                        
+                        
+                            a)
+                            
+                                in relazione alla lettera a), la quota e' determinata nel 60 per cento del fondo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in relazione alla lettera b), la quota e' determinata nel 20 per cento del fondo, ripartita in due quote, rispettivamente del 10 per cento con riferimento alla rilevazione della produzione, e del 10 per cento da attribuire in considerazione della qualita' artistica dei programmi e dei progetti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                in relazione alla lettera c), la quota e' determinata nel 20 per cento del fondo.
 
 ## Art. 3. — Indicatori di rilevazione della produzione
 
@@ -83,6 +133,24 @@ Il mancato rispetto, riferito a singolo spettacolo, ed a ciascun ordine di posti
 Le somme di cui al comma 1, sono recuperate, nel caso in cui vi sia gia' stata completa erogazione del contributo annuale, a valere sul contributo statale dell'anno immediatamente successivo.
 
 In caso di ulteriore violazione, oltre quanto previsto dal comma 1, nel medesimo o in successivo esercizio, non si fa luogo ad erogazione del contributo spettante alla fondazione per l'anno successivo a quello in cui l'evento si e' verificato.
+
+4.
+                    
+                        
+                            Il Ministero per i beni e le attivita' culturali, di seguito indicato come "Ministero" controlla il rispetto di quanto previsto al comma 1, mediante:
+ 
+                        
+                        
+                            a)
+                            
+                                esame di quanto specificamente attestato in merito dal collegio dei revisori della fondazione nella relazione di cui all'articolo 14 del decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifiche ispettive, svolte in contraddittorio con l'amministrazione.
 
 Nel caso di cui alla lettera b), del comma 4, il verbale costituisce atto di definitivo accertamento della violazione; nel caso di cui alla lettera a), del comma 4, il Ministero contesta la violazione entro sessanta giorni dal ricevimento della documentazione e provvede nei successivi sessanta giorni. La fondazione puo' presentare proprie controdeduzioni entro venti giorni dalla contestazione.
 

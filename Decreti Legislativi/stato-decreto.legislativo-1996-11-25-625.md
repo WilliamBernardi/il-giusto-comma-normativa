@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,38 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ind
 ## - TITOLO I CAPO I Disposizioni generali
 
 ## Art. 1. — (Definizioni)
+
+1.
+                        
+                            
+                                Ai sensi del presente decreto, si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    autorita' competente al conferimento dei titoli minerari per prospezione, ricerca, coltivazione e stoccaggio di idrocarburi: il Ministero dell'industria, del commercio e dell'artigianato, di seguito denominato Ministero, che si avvale, per l'istruttoria e per il controllo sull'esercizio delle attivita', della Direzione Generale delle Miniere - Ufficio nazionale minerario per gli idrocarburi e la geotermia, di seguito denominato UNMIG;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ente: persona fisica o giuridica, pubblica o privata, o associazione di tali persone che richiedono o sono titolari di un permesso di prospezione o di ricerca o di una concessione di coltivazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Comitato: il Comitato tecnico per gli idrocarburi e la geotermia, di cui all'articolo 41 della legge 11 gennaio 1957, n. 6, e successive modifiche, di seguito denominata legge n.6 del 1957;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    BUIG: il Bollettino ufficiale degli idrocarburi e della geotermia, di cui all'articolo 43 della legge n.6 del 1957.
 
 ## Art. 2. — (Disposizioni generali)
 
@@ -60,6 +92,38 @@ Nonostante l'avvio del procedimento di conferimento, resta ferma la facolta' di 
 Il decreto di conferimento e' pubblicato nel BUIG, riportando, per estratto, il programma dei lavori approvato e le motivazioni adottate, e comunicato alla regione o provincia autonoma territorialmente interessata.
 
 ## Art. 5. — (Criteri di selezione tra domande concorrenti)
+
+1.
+                        
+                            
+                                Nei casi di cui all'articolo 4, la selezione tra domande di permesso di ricerca concorrenti e' effettuata dal Ministero, sentito il Comitato, in base ai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    interesse, fondatezza e novita' degli obiettivi minerari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    completezza e razionalita' del programma dei lavori proposto per l'esplorazione, con particolare riferimento agli studi geologici, alle indagini geochimiche e geofisiche, nonche' alle perforazioni previste;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tempi programmati per l'esecuzione dei lavori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    modalita' di svolgimento dei lavori, anche riferite alla sicurezza e alla salvaguardia ambientale, nonche' al ripristino dei luoghi.
 
 Il Ministero, nella selezione, tiene altresi' conto sia dell'affidabilita' tecnica ed economica posseduta dai richiedenti per l'esecuzione del programma sia delle carenze o inefficienze dimostrate dai richiedenti in altri permessi di ricerca.
 
@@ -196,6 +260,72 @@ Armonizzazione delle disposizioni in materia di canoni e di aliquote di prodotto
 
 ## Art. 18. — (Armonizzazione delle disposizioni sui canoni)
 
+1.
+                        
+                            
+                                A decorrere dal 1° gennaio 1997, i canoni annui per i permessi di prospezione e di ricerca e per le concessioni di coltivazione e di stoccaggio nella terraferma, nel mare territoriale e nella piattaforma continentale italiana, sono cosi determinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    permesso di prospezione: 5000 lire per chilometro quadrato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    permesso di ricerca: 10000 lire per chilometro quadrato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    permesso di ricerca in prima proroga: 20000 lire per chilometro 
+ quadrato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    permesso di ricerca in seconda proroga: 40000 lire per 
+ chilometro quadrato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    concessione di coltivazione: 80000 lire per chilometro 
+ quadrato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    concessione di coltivazione in proroga: 120000 lire per 
+ chilometro quadrato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    concessione di stoccaggio insistente sulla relativa concessione 
+ di coltivazione: 20000 lire per chilometro quadrato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    concessione di stoccaggio in assenza di relativa concessione di 
+ coltivazione: 80000 lire per chilometro quadrato. ((12))
+
 Nel caso di titoli minerari ricadenti nel territorio delle regioni a statuto speciale o delle province autonome di Trento e Bolzano i canoni di cui al comma 1 sono dovuti alla regione o provincia autonoma.
 
 I canoni di cui al comma 1 sono aggiornati con decreto del Ministro delle finanze di concerto con i Ministri dell'industria, del commercio e dell'artigianato e del tesoro.
@@ -225,6 +355,23 @@ Per ciascuna concessione sono esenti dal pagamento dell'aliquota, al netto delle
 Per ciascuna concessione di coltivazione il rappresentante unico comunica mensilmente all'UNMIG e alla Sezione competente i quantitativi degli idrocarburi prodotti e di quelli avviati al consumo per ciascuno dei titolari. Il rappresentante unico e' responsabile della corretta misurazione delle quantita' prodotte e avviate al consumo, ferma restando la facolta' dell'UNMIG e delle sue Sezioni di disporre accertamenti sulle produzioni effettuate. Entro il 31 marzo dell'anno successivo a quello cui si riferiscono le aliquote il rappresentante unico comunica all'UNMIG ed alle Sezioni competenti i quantitativi di idrocarburi prodotti e avviati al consumo nell'anno precedente per ciascuna concessione e ciascun contitolare. Le comunicazioni di cui al presente comma sono sottoscritte dal legale rappresentante o un suo delegato, che attesta esplicitamente la esattezza dei dati in esse contenuti.
 
 I valori unitari dell'aliquota per ogni concessione di coltivazione sono determinati, per ciascun titolare in essa presente, come media ponderale dei prezzi di vendita da esso fatturati nell'anno di riferimento.
+
+5-bis.
+                        
+                            
+                                Per le produzioni ottenute a decorrere dal 1° gennaio 2002 i valori unitari dell'aliquota di coltivazione sono determinati: 
+
+                            
+                            
+                                a)
+                                
+                                    per l'olio, per ciascuna concessione e per ciascun titolare in essa presente, come media ponderale dei prezzi di vendita da esso fatturati nell'anno di riferimento. Nel caso di utilizzo diretto dell'olio da parte del concessionario, il valore dell'aliquota e' determinato dallo stesso concessionario sulla base dei prezzi sul mercato internazionale di greggi di riferimento con caratteristiche similari, tenuto conto del differenziale delle rese di produzione; 
+                                
+                            
+                            
+                                b)
+                                
+                                    per il gas, per tutte le concessioni e per tutti i titolari, in base alla media aritmetica relativa all'anno di riferimento dell'indice QE, quota energetica del costo della materia prima gas, espresso in euro per MJ, determinato dall'Autorita' per l'energia elettrica e il gas ai sensi della deliberazione 22 aprile 1999, n. 52/99, pubblicata nella Gazzetta Ufficiale n. 100 del 30 aprile 1999, e successive modificazioni, assumendo fissa l'equivalenza 1 Smc m= 38,52 MJ. A decorrere dal 1° gennaio 2003, l'aggiornamento di tale indice, ai soli fini del presente articolo, e' effettuato dall'Autorita' per l'energia elettrica e il gas sulla base dei parametri di cui alla stessa deliberazione.
 
 Il valore unitario dell'aliquota di cui al comma 5 e' ridotto per l'anno 1997 di 30 lire per Smc per le produzioni di gas in terraferma e di 20 lire per Smc per le produzioni di gas in mare, e di 30000 lire per tonnellata per le produzioni di olio in terraferma e di 60000 lire per tonnellata per le produzioni di olio in mare, per tenere conto di qualunque onere, compresi gli oneri relativi al trattamento e trasporto. In terraferma, nel caso di vettoriamento il valore unitario e' ulteriormente ridotto dei costi fatturati di vettoriamento fino al punto di riconsegna, mentre nel caso di trasporto mediante sistema di proprieta' del concessionario la riduzione e' pari a 1 lira per ogni 5 km di condotta, a partire dalla centrale di raccolta e trattamento, con esclusione dei primi 30 km e con un massimo di 30 lire per Smc di gas o per chilogrammo di olio.
 Per produzioni di idrocarburi con caratteristiche di marginalita' economica causata da speciali trattamenti necessari per portare tali produzioni a specifiche di commerciabilita', ai concessionari puo' essere riconosciuta dal Ministero, su documentata istanza, sentita la Commissione di cui al comma 7, una ulteriore detrazione, in ogni caso non superiore ai costi aggiuntivi sostenuti; tale detrazione puo' essere altresi' riconosciuta per i costi sostenuti per il flussaggio di olii pesanti.
@@ -307,6 +454,31 @@ Nei casi non previsti dal comma 2, decide il Ministero, sentita la Commissione d
 
 ## Art. 23. — (Cessazione dei regimi di esclusiva)
 
+1.
+                        
+                            
+                                A decorrere dal 1o gennaio 1997 cessano i seguenti regimi di esclusiva previsti in favore dell'Ente nazionale idrocarburi S.p.A., di seguito denominato ENI, nelle zone delimitate nella tabella A ed annessa cartina allegate alla legge n.136 del 1953:
+ 
+                            
+                            
+                                a)
+                                
+                                    ricerca e coltivazione di idrocarburi, di cui all'articolo 2, comma 1, numero 1, della legge n.136 del 1953;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costruzione ed esercizio delle condotte per il trasporto degli idrocarburi minerali nazionali, di cui all'articolo 2, comma 1, numero 2, della legge n. 136 del 1953;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stoccaggio sotterraneo di gas naturale nei giacimenti di idrocarburi, di cui all'articolo 2 della legge 26 aprile 1974, n.170.
+
 Le autorizzazioni rilasciate fino alla data di entrata in vigore del presente decreto e il diritto alla prosecuzione delle attivita' di prospezione, ricerca, coltivazione e stoccaggio in corso al 31 dicembre 1996 restano validi fino al completamento dei relativi procedimenti di attribuzione dei titoli minerari di cui all'articolo 24.
 
 ## Art. 24. — (Attribuzione di titoli minerari)
@@ -336,6 +508,37 @@ La relazione ed i dati di cui al comma 2 sono messi a disposizione di tutti gli 
 I permessi di ricerca sono attribuiti con provvedimento del Ministero su aree per le quali l'attivita' svolta o in corso e gli investimenti effettuati ne giustifichino l'attribuzione.
 
 Le domande di permesso, corredate della necessaria documentazione, sono presentate entro tre mesi dalla data di entrata in vigore del presente decreto; trascorso tale termine le domande sono dichiarate irricevibili.
+
+3.
+                        
+                            
+                                I permessi sono attribuiti su aree per le quali risulti comprovato che l'attivita' di ricerca alla data di entrata in vigore del presente decreto e' almeno in una delle seguenti fasi:
+ 
+                            
+                            
+                                a)
+                                
+                                    perforazione per la quale e stata presentata istanza ai sensi del decreto del Presidente deva Repubblica 18 aprile 1994, n.526;
+                                
+                            
+                            
+                                b)
+                                
+                                    perforazione autorizzata o in corso, o ultimata successivamente al 31 dicembre 1995;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilevamento sismico autorizzato, in corso o ultimato in data non anteriore all'1 gennaio 1994;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rielaborazione sismica ultimata in data non anteriore al 1o gennaio 1994, comprovata da idonea documentazione.
 
 L'entita' dei rilevamenti sismici e delle rielaborazioni deve essere tale da giustificare l'estensione dell'area richiesta.
 
@@ -419,6 +622,58 @@ La concessione di stoccaggio e' accordata in base alle disposizioni della legge 
 
 ## Art. 37. — (Comitato tecnico per gli idrocarburi e la geotermia)
 
+1.
+                        
+                            
+                                Al fine di adeguarne la composizione alle esigenze del presente decreto, il Comitato tecnico per gli idrocarburi e la geotermia, di cui all'articolo 41 della legge n.6 del 1957, e successive modifiche, e' costituito da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un presidente scelto tra persone dotate di alta e riconosciuta professionalita' e competenza, prive di interessi diretti o indiretti nelle imprese operanti nel settore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il direttore generale delle miniere, con funzioni di vicepresidente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore dell'Ufficio nazionale minerario per gli idrocarburi e la geotermia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il direttore generale delle fonti di energia e delle industrie di base;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il direttore del Servizio chimico, o un suo delegato;
+ i) il direttore del Servizio geologico d'Italia, o un suo delegato;
+ g) un avvocato dello Stato;
+ h) tre dirigenti della Direzione generale delle miniere;
+ i) un dirigente del Ministero degli esteri;
+ l) un dirigente del Ministero dell'ambiente - Servizio per la valutazione dell'impatto ambientale, l'informazione ai cittadini e per la relazione sullo stato dell'ambiente;
+ m) un dirigente del Ministero dei trasporti e della navigazione;
+ n) un dirigente del Ministero delle finanze - Dipartimento del territorio;
+ o) un dirigente del Ministero delle risorse agricole, alimentari e forestali;
+ p) un titolare di cattedra in geologia;
+ q) un titolare di cattedra in materie geofisiche applicate al settore minerario;
+ r) un titolare di cattedra in materia di coltivazione di idrocarburi;
+ s) un titolare di cattedra nelle discipline della ricerca e coltivazione di risorse geotermiche;
+ t) il direttore dell'Istituto internazionale per le ricerche geotermiche del Consiglio nazionale delle ricerche, o un suo delegato.
+
 Il presidente e i componenti del Comitato sono nominati con decreto del Ministro dell'industria, del commercio e dell'artigianato; i componenti di cui ai punti g), i), l), m), n), o), p), q) r), ed s) sono designati dalle Amministrazioni interessate.
 
 Entro sei mesi dalla data di entrata in vigore del presente decreto il Ministro dell'industria, del commercio e dell'artigianato provvede alla nomina del nuovo Comitato.
@@ -466,4 +721,22 @@ L'aggiornamento, sottoscritto dal legale rappresentante del concessionario o da 
 (( COMMA ABROGATO DALLA L. 23 AGOSTO 2004, N. 239 )).
 
 ## Art. 41. — (Norme abrogate)
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 3, comma secondo, 5, commi secondo, quinto e sesto, 6, 26, 37, 38, commi primo, terzo e quinto, e 55 della legge n. 613 del 1967 e successive modifiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 106 del T.U. degli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1987, n. 218.
 

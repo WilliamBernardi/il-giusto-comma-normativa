@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2009-08-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,31 @@ L'Osservatorio predispone ogni due anni il piano nazionale di azione di interven
 
 Ai fini della elaborazione del piano di cui al comma 2 le amministrazioni centrali dello Stato, le regioni e gli enti locali si coordinano con l'Osservatorio affinche' venga adottata ogni misura volta a qualificare l'impegno finanziario per perseguire le priorita' e le azioni previste dal piano stesso.
 
+4.
+                    
+                        
+                            Le regioni, in accordo con le amministrazioni provinciali e le province autonome di Trento e di Bolzano, adottano idonee misure di coordinamento degli interventi locali di raccolta e di elaborazione di tutti i dati relativi alla condizione dell'infanzia e dell'adolescenza in ambito regionale. In particolare, entro il 30 aprile di ciascun anno, sono acquisiti i dati relativi a:
+ 
+                        
+                        
+                            a)
+                            
+                                la condizione sociale, culturale, economica, sanitaria e psicologica dell'infanzia e dell'adolescenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le risorse finanziarie e la loro destinazione per aree di intervento nel settore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la mappa dei servizi territoriali e le risorse attivate dai privati.
+
 Il piano e' proposto dal Ministro della solidarieta' sociale e dal Ministro delle politiche per la famiglia, sentita la Commissione parlamentare per l'infanzia di cui all'articolo 1 della legge 23 dicembre 1997, n. 451, che si esprime entro sessanta giorni dalla presentazione. Esso e' adottato con decreto del Presidente della Repubblica, previo parere della Conferenza unificata e previa deliberazione del Consiglio dei Ministri, entro i trenta giorni successivi alla scadenza del termine anzidetto. ((1))
 
 L'Osservatorio predispone ogni due anni, avvalendosi del Centro nazionale di documentazione e analisi, la relazione biennale sulla condizione dell'infanzia e dell'adolescenza in Italia, nonche' lo schema del rapporto previsto dall'articolo 44 della citata Convenzione di New York.
@@ -50,6 +75,170 @@ Al fine di rafforzare, ai sensi del comma 2, la cooperazione per lo sviluppo del
 
 ## Art. 2. — Composizione dell'Osservatorio per l'infanzia e l'adolescenza
 
+1.
+                    
+                        
+                            L'Osservatorio, presieduto dal Ministro delle politiche per la famiglia e dal Ministro della solidarieta' sociale, e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante per ciascuna delle seguenti amministrazioni:
+ 1) Presidenza del Consiglio - Dipartimento per le politiche
+della famiglia;
+ 2) Presidenza del Consiglio - Dipartimento per le politiche giovanili;
+ 3) Presidenza del Consiglio - Dipartimento per le pari opportunita';
+ 4) Ministero della solidarieta' sociale;
+ 5) Ministero della pubblica istruzione;
+ 6) Ministero della salute;
+ 7) Ministero degli affari esteri;
+ 8) Ministero dell'interno;
+ 9) Ministero della giustizia;
+ 10) Ministero del lavoro e della previdenza sociale;
+ 11) Ministero dell'economia e delle finanze;
+ 12) Ministero delle comunicazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante dell'Istituto degli Innocenti di Firenze;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante dell'Istituto nazionale di statistica (ISTAT);
+
+                            
+                        
+                        
+                            d)
+                            
+                                sei rappresentanti indicati dalla Conferenza dei presidenti delle regioni e delle province autonome di Trento e di Bolzano;
+
+                            
+                        
+                        
+                            e)
+                            
+                                tre rappresentanti indicati dall'Associazione nazionale comuni d'Italia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante dell'Unione province italiane;
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante dell'Unione nazionale delle comunita' montane;
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante del Comitato italiano UNICEF;
+
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante della Societa' italiana di pediatria;
+
+                            
+                        
+                        
+                            l)
+                            
+                                un rappresentante per ciascuna delle confederazioni sindacali CGIL, CISL e UIL;
+
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante dell'Associazione giudici per i minorenni;
+
+                            
+                        
+                        
+                            n)
+                            
+                                un rappresentante del Sindacato unitario nazionale delle assistenti sociali (SUNAS);
+
+                            
+                        
+                        
+                            o)
+                            
+                                un rappresentante dell'Ordine nazionale degli assistenti sociali;
+
+                            
+                        
+                        
+                            p)
+                            
+                                un rappresentante dell'Ordine nazionale degli psicologi;
+
+                            
+                        
+                        
+                            q)
+                            
+                                un rappresentante dell'Associazione nazionale degli avvocati per la famiglia e i minori;
+
+                            
+                        
+                        
+                            r)
+                            
+                                un rappresentante dell'Ordine nazionale dei giornalisti;
+
+                            
+                        
+                        
+                            s)
+                            
+                                un rappresentante dell'Associazione nazionale dei pedagogisti;
+
+                            
+                        
+                        
+                            t)
+                            
+                                un rappresentante dell'Associazione nazionale degli educatori professionali;
+
+                            
+                        
+                        
+                            u)
+                            
+                                rappresentanti di organizzazioni del volontariato e del terzo settore che operano nel settore dell'infanzia e dell'adolescenza, individuati con decreto del Ministro della solidarieta' sociale e del Ministro delle politiche per la famiglia, fino ad un massimo di otto;
+                            
+                        
+                        
+                            v)
+                            
+                                esperti individuati con decreto del Ministro della
+solidarieta' sociale e del Ministro delle politiche per la famiglia, fino ad un massimo di otto;
+
+                            
+                        
+                        
+                            z)
+                            
+                                il responsabile del Centro nazionale di documentazione e di analisi per l'infanzia di cui all'articolo 3, di seguito denominato: "Centro di documentazione e analisi", ed il coordinatore delle attivita' scientifiche di cui all'articolo 7.
+
 Alle attivita' di segreteria connesse con il funzionamento dell'Osservatorio si provvede con le ordinarie risorse umane e strumentali del Dipartimento delle politiche per la famiglia e del Ministero della solidarieta' sociale.
 
 Ai componenti dell'Osservatorio spetta esclusivamente il rimborso delle spese di viaggio e di soggiorno. Per i componenti estranei alla pubblica amministrazione il predetto rimborso e' equiparato a quello dei dirigenti di seconda fascia dello Stato.
@@ -57,6 +246,59 @@ Ai componenti dell'Osservatorio spetta esclusivamente il rimborso delle spese di
 ## Art. 3. — Centro nazionale di documentazione e di analisi per l'infanzia e l'adolescenza
 
 L'Osservatorio di cui all'articolo 1 si avvale di un Centro nazionale di documentazione e di analisi per l'infanzia e l'adolescenza. Per lo svolgimento delle funzioni del Centro, il Ministro delle politiche per la famiglia e il Ministro della solidarieta' sociale possono stipulare convenzioni, anche di durata pluriennale, con enti di ricerca pubblici o privati che abbiano particolare qualificazione nel campo dell'infanzia e dell'adolescenza. L'Osservatorio annualmente elabora il programma di attivita' del Centro e ne definisce le priorita'.
+
+2.
+                    
+                        
+                            Il Centro ha i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                raccogliere e rendere pubblici normative statali, regionali, dell'Unione europea ed internazionali; progetti di legge statali e regionali; dati statistici, disaggregati per genere e per eta', anche in raccordo con l'Istituto nazionale di statistica (ISTAT); pubblicazioni scientifiche, anche periodiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                realizzare, sulla base delle indicazioni che pervengono dalle regioni, la mappa annualmente aggiornata dei servizi pubblici, privati e del privato sociale, compresi quelli assistenziali e sanitari, e delle risorse destinate all'infanzia a livello nazionale, regionale e locale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                analizzare le condizioni dell'infanzia, ivi comprese quelle relative ai soggetti in eta' evolutiva provenienti, permanentemente o per periodi determinati, da altri Paesi, anche attraverso l'integrazione dei dati e la valutazione dell'attuazione dell'effettivita' e dell'impatto della legislazione, anche non direttamente destinata ai minori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                predisporre, sulla base delle direttive dell'Osservatorio, lo schema della relazione biennale e del rapporto di cui, rispettivamente, all'articolo 1, commi 6 e 7, evidenziando gli indicatori sociali e le diverse variabili che incidono sul benessere dell'infanzia in Italia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                formulare proposte, anche su richiesta delle istituzioni locali, per la elaborazione di progetti-pilota intesi a migliorare le condizioni di vita dei soggetti in eta' evolutiva nonche' di interventi per l'assistenza alla madre nel periodo perinatale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuovere la conoscenza degli interventi delle amministrazioni pubbliche, collaborando anche con gli organismi titolari di competenze in materia di infanzia, in particolare con istituti e associazioni operanti per la tutela e lo sviluppo dei soggetti in eta' evolutiva;
+
+                            
+                        
+                        
+                            g)
+                            
+                                raccogliere e pubblicare regolarmente il bollettino di tutte le ricerche e le pubblicazioni, anche periodiche, che interessano il mondo minorile.
 
 Nello svolgimento dei compiti previsti dal presente regolamento il Centro intrattiene rapporti di scambio, di studio e di ricerca con organismi europei ed internazionali, garantendo ogni opportuno raccordo ed, in particolare, con il Centro di studi e ricerche per l'assistenza all'infanzia previsto dall'Accordo tra il Governo della Repubblica italiana e il Fondo delle Nazioni unite per l'infanzia, firmato a New York il 23 settembre 1986, reso esecutivo con legge 19 luglio 1988, n. 312.
 
@@ -109,6 +351,31 @@ L'Osservatorio e il Centro di documentazione e analisi per l'infanzia e l'adoles
 Tre mesi prima della scadenza del termine di durata, l'Osservatorio e il Centro di documentazione presentano una relazione sull'attivita' svolta ai Ministri delle politiche per la famiglia e della solidarieta' sociale, che le trasmettono alla Presidenza del Consiglio dei Ministri, ai sensi di quanto disposto dall'articolo 29, comma 2-bis, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, ai fini della valutazione congiunta della perdurante utilita' degli organismi e della eventuale proroga della durata, comunque non superiore a tre anni, da adottarsi con decreto del Presidente del Consiglio dei Ministri, su proposta dei Ministri delle politiche per la famiglia e della solidarieta' sociale. Gli eventuali successivi decreti di proroga sono adottati secondo la medesima procedura. I componenti dell'Osservatorio e quelli del Comitato tecnico-scientifico del Centro di documentazione restano in carica fino alla scadenza del termine di durata dei rispettivi organismi e possono essere confermati nel caso di proroga della durata degli organismi.
 
 ## Art. 11. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente regolamento sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 2, 3, 4, 5 della legge 23 dicembre 1997, n. 451;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Presidente della Repubblica 5 ottobre 1998, n. 369;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto del Presidente della Repubblica 12 ottobre 2004, n. 284.
 
 ## Art. 12. — Copertura finanziaria e spese di funzionamento
 

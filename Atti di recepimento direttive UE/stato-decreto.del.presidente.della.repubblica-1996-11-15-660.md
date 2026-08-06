@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2011-03-23
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,7 +32,137 @@ Nell'ambito delle azioni di promozione dell'efficienza energetica, il presente r
 
 ## Art. 2. — (Definizioni)
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento s'intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                caldaia: l'unita' centrale scambiatore termico-bruciatore destinata a trasmettere all'acqua il calore prodotto dalla combustione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                apparecchio:
+ 1) lo scambiatore termico destinato ad essere munito di un bruciatore;
+ 2) il bruciatore destinato ad essere installato sullo scambiatore termico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                potenza nominale utile espressa in chilowatt: la potenza termica massima fissata e garantita dal costruttore come potenza che puo' essere trasferita all'acqua in regime di funzionamento continuo rispettando i rendimenti utili indicati dal costruttore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                rendimento utile, espresso in percento: il rapporto tra la potenza termica trasmessa all'acqua della caldaia e il prodotto del potere termico inferiore, a pressione costante, del combustibile, moltiplicato per il consumo espresso in quantita' di combustibile per unita' di tempo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                carico parziale, espresso in percento: il rapporto tra la potenza utile di una caldaia funzionante in regime discontinuo, oppure ad una potenza inferiore alla potenza utile nominale, e la stessa potenza utile nominale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                temperatura media dell'acqua della caldaia la media delle tem- perature dell'acqua all'entrata e all'uscita della caldaia;
+
+                            
+                        
+                        
+                            g)
+                            
+                                caldaia standard: caldaia per la quale la temperatura media di funzionamento puo' essere limitata in sede di progettazione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                back boiler: caldaia progettata per alimentare un impianto di riscaldamento centrale ed essere installata nel focolare di un camino come elemento di un'unita' caldaia retrostante con focolare a gas;
+
+                            
+                        
+                        
+                            i)
+                            
+                                caldaia a bassa temperatura: caldaia che puo' funzionare in re- gime continuo, in cui la temperatura dell'acqua di alimentazione e' compresa tra 35 e 40 gradi centigradi e che, in certi casi, puo' dare luogo a condensazione. Sono comprese le caldaie a condensazione che utilizzano combustibili liquidi;
+
+                            
+                        
+                        
+                            l)
+                            
+                                caldaia a gas a condensazione: caldaia progettata per poter condensare in permanenza una parte considerevole del vapore acqueo contenuto nei gas di combustione;
+
+                            
+                        
+                        
+                            m)
+                            
+                                caldaia da installare in un ambiente abitato: caldaia con potenza nominale utile inferiore a 37 kW, progettata per riscaldare, mediante il calore emesso dall'involucro, l'ambiente abitato in cui e' installata, provvista di vaso di espansione aperto che provvede all'alimentazione con acqua calda mediante circolazione naturale per gravita'.
+ Sull'involucro della caldaia e' indicato che l'istallazione e' specifica per ambiente abitato.
+
 ## Art. 3. — (Esclusioni)
+
+1.
+                    
+                        
+                            Sono esclusi dal presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                le caldaie ad acqua calda che possono essere alimentate anche con combustibili solidi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli impianti di erogazione istantanea di acqua calda per usi igienici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le caldaie progettate per essere alimentate con combustibili diversi da quelli liquidi o gassosi aventi caratteristiche non comparabili a quelli normalmente in commercio quali: gas residui industriali, biogas e residui di origine vegetale di cui all'articolo 8, comma 1, del decreto del Presidente del Consiglio dei Ministri 2 ottobre 1995, pubblicato nella Gazzetta Ufficiale della Repubblica italiana - Serie generale -, n. 276, del 25 novembre 1995;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le termocucine e gli apparecchi progettati per riscaldare principalmente il vano in cui sono installati e che forniscono anche, ma a titolo accessorio, acqua calda per riscaldamento centrale e usi igienici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli apparecchi con potenza utile inferiore a 6 kW progettati unicamente per alimentare un impianto di accumulazione di acqua calda per usi igienici circolante per gravita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                ogni caldaia prodotta in unico esemplare.
 
 Nei casi di caldaie a doppia funzione, riscaldamento dei locali e fornitura di acqua calda per usi igienici, i requisiti di rendimento di cui all'articolo 4, comma 1, si riferiscono soltanto alla funzione riscaldamento.
 

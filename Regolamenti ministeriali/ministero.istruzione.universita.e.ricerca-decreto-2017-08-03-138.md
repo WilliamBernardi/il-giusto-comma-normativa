@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-12-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -63,7 +63,134 @@ Il presente regolamento e' emanato in attuazione dell'articolo 29, comma 1, del 
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Ministero», il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Ministro», il Ministro dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «USR», gli Uffici scolastici regionali di cui all'articolo 75 del decreto legislativo 30 luglio 1999, n.300 recante riforma dell'organizzazione del Governo, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Bando», ciascun bando di concorso adottato in attuazione del presente regolamento. 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «Testo Unico», il testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con decreto legislativo 16 aprile 1994, n. 297. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Legge», la legge 13 luglio 2015, n. 107 recante riforma del sistema nazionale di istruzione e formazione e delega per il riordino delle disposizioni legislative vigenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «Decreto-legge», il decreto-legge 12 settembre 2013, n. 104, convertito con modificazioni dalla legge 8 novembre 2013, n. 128 recante misure urgenti in materia di istruzione, universita' e ricerca; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «CEF», il Common European Framework of References for Languages come definito dal Consiglio Europeo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Commissione del concorso», la Commissione esaminatrice dei candidati al concorso di ammissione al corso di formazione dirigenziale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «Sotto-commissione del concorso», ciascuna delle Sotto-commissioni esaminatrici dei candidati al concorso di ammissione al corso di formazione dirigenziale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «Commissione del corso», ciascuna delle Commissioni esaminatrici dei partecipanti al corso di formazione dirigenziale e tirocinio; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «Direttore generale», il Direttore generale preposto alla direzione competente per gli indirizzi generali relativi alla disciplina giuridica ed economica del personale scolastico; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «CRUI», la Conferenza dei Rettori delle Universita' Italiane; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «Semiesonero», esenzione al cinquanta percento dai normali obblighi di servizio, ferma restando la validita' a tutti gli effetti della quota di servizio non prestato come servizio di istituto nella scuola.
+
 ## Art. 3. — Articolazione in fasi del corso-concorso
+
+1.
+                        
+                            
+                                I corsi-concorso banditi ai sensi del presente regolamento si articolano nelle seguenti fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eventuale prova pre-selettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorso di ammissione al corso di formazione dirigenziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    corso di formazione dirigenziale e tirocinio;
 
 ## Art. 4. — Determinazione del contingente dei posti del concorso 
  e del corso di formazione
@@ -83,6 +210,66 @@ L'eventuale frazione di posto e' arrotondata all'unita' intera superiore.
 
 ## Art. 5. — Bando di concorso per l'ammissione al corso 
  di formazione dirigenziale
+
+1.
+                        
+                            
+                                Il Bando specifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti generali di ammissione al concorso di accesso al corso di formazione dirigenziale, ai sensi dell'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i termini, il contenuto e le modalita' di presentazione delle istanze di partecipazione al concorso di accesso al corso di formazione dirigenziale, ai sensi dell'articolo 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero dei candidati ammessi alla frequenza del corso di formazione dirigenziale ai sensi dell'articolo 4, comma 5, nonche' dei posti messi a concorso ai sensi dell'articolo 4, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di svolgimento dell'eventuale prova preselettiva e di quelle selettive, ai sensi degli articoli da 8 a 12; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di svolgimento del corso di formazione dirigenziale e del tirocinio, ai sensi dell'articolo 17; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di versamento, direttamente nei pertinenti capitoli del bilancio dello Stato, del contributo posto a carico dei candidati per far parzialmente fronte alle spese della procedura concorsuale, individuato in un importo pari a 10 euro, ai sensi dell'articolo 4, comma 3-septies, del decreto-legge 31 agosto 2013, n. 101; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di informazione e di comunicazione ai candidati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i documenti richiesti per l'assunzione.
 
 ## Art. 6. — Requisiti di ammissione
 
@@ -122,6 +309,73 @@ Le prove di esame del concorso pubblico per l'ammissione al corso di formazione 
 
 La prova scritta consiste in cinque quesiti a risposta aperta e in due quesiti in lingua straniera di cui al comma 3.
 
+2.
+                        
+                            
+                                I cinque quesiti a risposta aperta vertono sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    normativa riferita al sistema educativo di istruzione e di formazione e agli ordinamenti degli studi in Italia con particolare attenzione ai processi di riforma in atto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modalita' di conduzione delle organizzazioni complesse, con particolare riferimento alla realta' delle istituzioni scolastiche ed educative statali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    processi di programmazione, gestione e valutazione delle istituzioni scolastiche, con particolare riferimento alla predisposizione e gestione del Piano Triennale dell'Offerta Formativa, all'elaborazione del Rapporto di Autovalutazione e del Piano di Miglioramento, nel quadro dell'autonomia delle istituzioni scolastiche e in rapporto alle esigenze formative del territorio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    organizzazione degli ambienti di apprendimento, con particolare riferimento all'inclusione scolastica, all'innovazione digitale e ai processi di innovazione nella didattica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    organizzazione del lavoro e gestione del personale, con particolare riferimento alla realta' del personale scolastico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    valutazione ed autovalutazione del personale, degli apprendimenti e dei sistemi e dei processi scolastici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    elementi di diritto civile e amministrativo, con particolare riferimento alle obbligazioni giuridiche e alle responsabilita' tipiche del dirigente scolastico, nonche' di diritto penale con particolare riferimento ai delitti contro la Pubblica Amministrazione e in danno di minorenni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contabilita' di Stato, con particolare riferimento alla programmazione e gestione finanziaria presso le istituzioni scolastiche ed educative statali e relative aziende speciali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sistemi educativi dei Paesi dell'Unione Europea.
+
 Ciascuno dei due quesiti in lingua straniera e' articolato in cinque domande a risposta chiusa, volte a verificare la comprensione di un testo nella lingua prescelta dal candidato tra inglese, francese, tedesco e spagnolo. Detti quesiti, che vertono sulle materie di cui al comma 2, lettere d) o i), sono formulati e svolti dal candidato nella lingua straniera prescelta, al fine della verifica della relativa conoscenza al livello B2 del CEF.
 
 Sono ammessi alla prova orale i candidati che conseguono nella prova scritta il punteggio minimo previsto dall'articolo 12, comma 2, ultimo periodo.
@@ -147,6 +401,31 @@ La Commissione del concorso determina il punteggio da riconoscere ai titoli solt
 I candidati che superano le prove scritta ed orale sono inseriti nella graduatoria generale di merito per l'accesso al corso di formazione dirigenziale, col punteggio dato dalla somma dei punteggi di cui ai commi 2, 3 e 4.
 
 ## Art. 13. — Predisposizione delle prove
+
+1.
+                        
+                            
+                                Con decreto del Ministro e' istituito un Comitato tecnico-scientifico per la redazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei quesiti a risposta multipla della prova preselettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei quesiti a risposta aperta e a risposta chiusa in lingua straniera della prova scritta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei quadri di riferimento in base ai quali sono costruite e valutate tutte le prove di cui al presente articolo, incluse quelle di cui ai commi 6 e 7 dell'articolo 17.
 
 Il Comitato tecnico-scientifico di cui al comma 1 e' nominato per ogni tornata concorsuale ed e' composto da soggetti di comprovata qualificazione nelle materie oggetto del concorso, scelti tra docenti universitari, avvocati di Stato, magistrati della Corte dei conti, dirigenti scolastici, dirigenti amministrativi di ruolo e dirigenti tecnici di ruolo. Il Comitato puo' comprendere anche soggetti collocati in quiescenza da non piu' di tre anni dalla data di pubblicazione del Bando. Al Comitato sono aggregati componenti esperti per ciascuna delle lingue straniere prescelte dai candidati, designati tra docenti universitari, docenti di ruolo abilitati all'insegnamento per le classi di concorso della relativa lingua.
 
@@ -188,6 +467,70 @@ La composizione delle commissioni e' tale da garantire la presenza di entrambi i
 Per i compensi dei componenti delle commissioni, delle sottocommissioni e del personale addetto alla vigilanza di concorso si applicano il decreto del Presidente del Consiglio dei ministri 23 marzo 1995 e il decreto interministeriale del 12 marzo 2012, fermo restando quanto previsto dall'articolo 6, comma 3, del decreto-legge 31 maggio 2010, n. 78, convertito in legge, con modificazioni, dall'articolo 1, comma 1, della legge 30 luglio 2010, n. 122.
 
 ## Art. 16. — Condizioni personali ostative all'incarico di presidente e componente della Commissione e delle sottocommissioni del concorso
+
+1.
+                        
+                            
+                                Sono condizioni ostative all'incarico di presidente, componente e componente aggregato della Commissione e delle sottocommissioni del concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    avere riportato condanne penali o avere in corso procedimenti penali per i quali sia stata formalmente iniziata l'azione penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere in corso procedimenti disciplinari ai sensi delle norme disciplinari dei rispettivi ordinamenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere incorsi nelle sanzioni disciplinari previste nei rispettivi ordinamenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere stati collocati a riposo da piu' di tre anni dalla data di pubblicazione del Bando e, se in quiescenza, non aver superato il settantesimo anno d'eta' alla medesima data.
+
+2.
+                        
+                            
+                                I presidenti, i componenti e i componenti aggregati della Commissione e delle sottocommissioni del concorso, inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non possono essere componenti dell'organo di direzione politica dell'amministrazione, ricoprire cariche politiche e essere rappresentanti sindacali, anche presso le Rappresentanze sindacali unitarie, o essere designati dalle confederazioni ed organizzazioni sindacali o dalle associazioni professionali; ne' esserlo stati nell'anno antecedente alla data di indizione del concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non debbono essere parenti o affini entro il quarto grado con un concorrente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non debbono svolgere, o aver svolto nell'anno antecedente alla data di indizione del concorso, attivita' o corsi di preparazione ai concorsi per il reclutamento dei dirigenti scolastici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non debbono essere stati destituiti o licenziati dall'impiego per motivi disciplinari, per ragioni di salute o per decadenza dall'impiego comunque determinata.
 
 ## - Parte III CORSO DI FORMAZIONE DIRIGENZIALE E TIROCINIO
 

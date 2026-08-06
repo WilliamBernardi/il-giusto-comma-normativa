@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-09-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -47,6 +47,201 @@ Il presente decreto non si applica alle varieta' geneticamente modificate.
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «accessione»: insieme di individui geneticamente uniformi, derivati per moltiplicazione agamica di un singolo individuo caratterizzato da stato sanitario differente da quello di altri individui appartenenti alla stessa varieta' cultivar o popolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «avente causa»: persona fisica o giuridica alla quale e' stato trasmesso o che ha acquisito le prerogative sulla varieta' prima spettanti al costitutore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «analisi»: l'esame diverso dall'ispezione visiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «candidata pianta madre di categoria "Pre-Base"»: una pianta madre che il fornitore intende far accettare come pianta madre di categoria «Pre-Base»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «categoria»: i materiali di «Pre-Base», «Base», «Certificato» o i materiali « Conformitas Agraria Communitatis (CAC)»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «clone»: una discendenza vegetativa geneticamente uniforme di una singola pianta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «codice accessione»: il codice alfa-numerico che identifica le piante madri da cui inizia il processo di produzione di materiali di moltiplicazione certificati, ai fini della tracciabilita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Comitato Fitosanitario Nazionale»: organismo di cui al decreto legislativo recante norme per la protezione delle piante dagli organismi nocivi in attuazione dell'articolo 11 della legge 4 ottobre 2019, n. 117; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «commercializzazione»: la vendita, la conservazione a fini di vendita, l'offerta in vendita e qualsiasi collocamento, fornitura o trasferimento di materiali di moltiplicazione o piante a terzi, mirante allo sfruttamento commerciale con o senza compenso; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «costitutore»: la persona fisica o giuridica che ha creato oppure scoperto e sviluppato la varieta' ovvero il suo avente causa, responsabile della conservazione in purezza della varieta' che effettua direttamente o affida ad un responsabile della conservazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «crioconservazione»: la conservazione di materiale vegetale mediante raffreddamento a temperature criogeniche al fine di preservarne la vitalita'; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «dichiarazione ufficiale»: la dichiarazione rilasciata dall'organismo ufficiale responsabile o sotto la sua responsabilita'; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «disciplinare di produzione»: una raccolta di norme tecniche e requisiti specifici per la produzione e la commercializzazione di materiali di moltiplicazione certificati, riguardante una singola specie o gruppi di specie simili ed adottato con provvedimento amministrativo; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «fornitore»: qualsiasi persona fisica o giuridica che esercita professionalmente almeno una delle seguenti attivita' riguardanti i materiali di moltiplicazione o le piante da frutto: riproduzione, produzione, protezione ovvero trattamento, importazione e commercializzazione; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «gemma»: organo vegetativo che rappresenta il primordio di un nuovo asse vegetativo, da cui possono avere origine foglie, rami o fiori; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «ispezione ufficiale»: l'ispezione effettuata dall'organismo ufficiale responsabile o sotto la sua responsabilita'; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «ispezione visiva»: l'esame di piante o di parti di piante a occhio nudo, con lenti, stereoscopio o microscopio; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «lotto»: un certo numero di elementi di un prodotto unico, che puo' essere identificato grazie all'omogeneita' della sua composizione e della sua origine; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «marza»: porzione di ramo proveniente dalla pianta madre utilizzata per l'operazione di innesto; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «materiali di moltiplicazione»: le sementi, le parti di piante e tutti i materiali di piante destinati alla moltiplicazione e alla produzione di piante, compresi i portainnesto; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «micropropagazione»: la moltiplicazione di materiale vegetale al fine di produrre un elevato numero di piante, utilizzando la coltura in vitro di gemme differenziate o di meristemi vegetativi differenziati ottenuti da una pianta; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «moltiplicazione»: la riproduzione vegetativa di piante madri al fine di ottenere un numero sufficiente di piante madri della stessa categoria; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «partita»: un certo numero di elementi di un prodotto unico, che puo' essere identificato grazie all'omogeneita' della sua composizione e della sua origine; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «piantine»: le parti di piante e le piante intere, comprese, per le piante innestate, le marze, destinate ad essere piantate per la produzione di piante ortive; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «pianta da frutto»: una pianta che e' destinata, dopo la commercializzazione, ad essere piantata o trapiantata"; 
+ ee) «pianta in fruttificazione» una pianta moltiplicata da una pianta madre e coltivata per la produzione di frutta, al fine di consentire la verifica dell'identita' varietale di tale pianta madre"; 
+ ff) «pianta madre di categoria "Base"»: una pianta madre destinata alla produzione di materiali di categoria «Base»; 
+ gg) «pianta madre di categoria "Certificato"»: una pianta madre destinata alla produzione di materiali di categoria «Certificato»; 
+ hh) «pianta madre di categoria "Pre-Base"»: una pianta madre destinata alla produzione di materiali di categoria «Pre-Base»; 
+ ii) «pianta madre»: una pianta identificata destinata alla propagazione; 
+ ll) «portinnesto»: porzione di pianta sui cui e' posta a sviluppare una marza o una gemma isolata; 
+ mm) «praticamente esente da organismi nocivi»: quando la misura in cui gli organismi nocivi sono presenti sui materiali di moltiplicazione o sulle piante da frutto e' sufficientemente ridotta da garantire qualita' e utilita' accettabili dei materiali di moltiplicazione; 
+ nn) «praticamente priva di alterazioni»: quando le alterazioni che possono compromettere la qualita' e l'utilita' dei materiali di moltiplicazione o delle piante da frutto sono presenti ad un livello pari o inferiore al livello che dovrebbe risultare dalle buone pratiche di coltivazione e di gestione e che tale livello e' coerente con le buone pratiche di coltivazione e di gestione; 
+ oo) «rinnovo di una pianta madre»: la sostituzione di una pianta madre con una pianta da essa riprodotta per via vegetativa; 
+ pp) «Servizio Fitosanitario Nazionale»: l'organismo di cui al decreto legislativo recante norme per la protezione delle piante dagli organismi nocivi in attuazione dell'articolo 11 della legge 4 ottobre 2019, n. 117, articolato nel Servizio Fitosanitario Centrale e nei Servizi fitosanitari regionali e delle province autonome; 
+ qq) «sezione incrementale»: procedimento attuabile, in qualsiasi fase della certificazione, per effettuare moltiplicazioni rapide di materiali carenti in quantita'; 
+ rr) «talea»: porzione di pianta capace di emettere radici e di rigenerare un nuovo individuo; 
+ ss) «varieta'»: un insieme di vegetali nell'ambito di un unico taxon botanico del piu' basso grado conosciuto, il quale puo' essere: 
+ 1) definito mediante l'espressione delle caratteristiche risultanti da un dato genotipo o da una data combinazione di genotipi; 
+ 2) distinto da qualsiasi altro insieme vegetale mediante l'espressione di almeno una delle suddette caratteristiche; 
+ 3) considerato come un'unita' in relazione alla sua idoneita' a essere moltiplicato invariato.
+
 ## Art. 3.
 
 Autorita' nazionale
@@ -55,9 +250,101 @@ Il Ministero delle politiche agricole alimentari e forestali, di seguito denomin
 
 ## Art. 4. — Competenze del Servizio fitosanitario centrale
 
+1.
+                        
+                            
+                                Il Servizio fitosanitario centrale rappresenta l'autorita' unica a livello nazionale responsabile per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coordinamento delle attivita' tecnico-amministrative e tecnico-scientifiche relative all'attuazione delle direttive dell'Unione in materia di qualita', etichettatura e commercializzazione dei materiali di moltiplicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il coordinamento nazionale nella materia oggetto del presente decreto, ai fini della tutela della qualita' dei materiali di moltiplicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il coordinamento delle prove ufficiali di campo per accertare i requisiti di distinguibilita', omogeneita' e stabilita' (DUS) di cui all'articolo 11 ai fini dell'iscrizione al Registro nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la predisposizione delle modalita' di attuazione dei controlli e le procedure documentate di controllo, nelle diverse fasi della certificazione, sentito il parere del Gruppo di lavoro permanente per la protezione delle piante - sezione materiali di moltiplicazione dei fruttiferi, delle ortive e delle ornamentali, istituito con decreto del Ministro delle politiche agricole alimentari e forestali ministeriale il 30 giugno 2016, n. 17713, di seguito «Gruppo di lavoro permanente»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la tenuta e l'aggiornamento del Registro nazionale delle varieta'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le funzioni di cui all'articolo 67.
+
 Il Ministro delle politiche agricole alimentari e forestali, con proprio decreto, puo' delegare l'esercizio di determinate attivita' di cui al comma 1, lettera c), ad enti scientifici o di ricerca nazionali che, per statuto o regolamento, si propongono di promuovere il progresso della produzione vivaistica e in possesso di adeguata esperienza nella effettuazione di prove ufficiali DUS in applicazione del Titolo II del presente decreto.
 
 ## Art. 5. — Competenze dei Servizi fitosanitari regionali
+
+1.
+                        
+                            
+                                I Servizi fitosanitari regionali ai fini del presente decreto sono le autorita' competenti per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' di sorveglianza e controllo degli operatori professionali, ivi compresa la verifica del possesso dei requisiti previsti nel presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la raccolta, la tenuta e l'elaborazione dei dati delle domande di certificazione dei materiali di moltiplicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i controlli ufficiali finalizzati alla certificazione dei materiali di moltiplicazione, presso le strutture e i campi di produzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sorveglianza delle attivita' di etichettatura e commercializzazione dei materiali di moltiplicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le funzioni di cui all'articolo 68; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'irrogazione di sanzioni amministrative di cui all'articolo 81.
 
 ## - Titolo II Registro delle varietà
 
@@ -69,6 +356,24 @@ Al fine di identificare le varieta' delle piante da frutto e dei relativi portin
 
 Il Registro, e' pubblicato e reso consultabile nell'ambito del Sistema informativo agricolo nazionale (SIAN), di cui all'articolo 15 della legge 4 giugno 1984, n. 194, ed e' suddiviso per generi e specie secondo quanto riportato dall'Allegato I.
 
+2.
+                        
+                            
+                                Il Registro e' articolato nelle sezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    varieta' di piante da frutto dei relativi portinnesti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    varieta' di portinnesti di piante ortive.
+
 Il Registro, in aggiunta ai generi e alle specie indicati nell'Allegato I, puo' contenere anche altri generi e specie ritenuti di particolare importanza per la frutticoltura e l'orticoltura nazionale identificati con provvedimento del Ministro delle politiche agricole alimentari e forestali.
 
 La sezione del Registro di cui al comma 2, lettera a), contiene un apposito elenco dei Centri di conservazione per la premoltiplicazione di cui all'articolo 21 riconosciuti idonei.
@@ -78,6 +383,122 @@ La sezione del Registro di cui al comma 2, lettera b), contiene le varieta' di p
 Sono iscritte al Registro le varieta' riconosciute dal Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale, di cui al decreto del Ministro delle politiche agricole alimentari, forestali e del turismo 19 marzo 2019, pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana, n. 119 del 23 maggio 2019.
 
 ## Art. 8. — Informazioni contenute nel Registro
+
+1.
+                        
+                            
+                                Il Registro comprende le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la specie di appartenenza della varieta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la denominazione della varieta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali marchi commerciali registrati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuali sinonimi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il costitutore, l'eventuale avente causa, l'eventuale rappresentante designato o altro richiedente l'iscrizione, per la sezione di cui all'articolo 7, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il soggetto responsabile della conservazione in purezza della varieta' per la sezione di cui all'articolo 7, comma 2, lettera b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione «descrizione ufficiale» o «descrizione ufficialmente riconosciuta» o «in corso di registrazione»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'utilizzo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la data di registrazione e del rinnovo della registrazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la data di scadenza della registrazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'eventuale codice della privativa nazionale o comunitaria per ritrovati vegetali o numero della domanda; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la data di rilascio della privativa nazionale o comunitaria per ritrovati vegetali o della domanda; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'eventuale clone sanitario; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'eventuale codice identificativo dell'accessione, se si tratta di varieta' iscritta nel Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'eventuale indicazione dei Centri di conservazione per la premoltiplicazione in cui e' conservata l'accessione di cui alla lettera n); 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    eventuali annotazioni ed altre informazioni utili.
 
 Il Ministero provvede ad istituire un fascicolo per ogni varieta' che registra, che contiene una descrizione della varieta' e una sintesi di tutti i fatti pertinenti alla registrazione della varieta'.
 
@@ -91,11 +512,148 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali, da ado
 
 La domanda di iscrizione deve essere trasmessa entro il 30 giugno e il 31 dicembre di ciascun anno rispettivamente per le varieta' ad impianto autunnale e a impianto primaverile per cui e' necessaria l'esecuzione delle prove di coltivazione.
 
+4.
+                        
+                            
+                                La domanda d'iscrizione deve contenere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tipo di utilizzo come pianta da frutto o portinnesto di fruttiferi o portinnesto di ortive e specie botanica cui appartiene la varieta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione proposta per la varieta', ai sensi dell'articolo 63 del regolamento (CE) 2100/94 del Consiglio, del 27 luglio 1994; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni indicanti se la varieta' e' ufficialmente registrata in un altro Stato membro o e' protetta da privativa vegetale nazionale, ai sensi del decreto legislativo 10 febbraio 2005, n. 30, o da una privativa comunitaria, ai sensi del regolamento (CE) 2100/94, oppure la dichiarazione circa la presentazione di una domanda per l'iscrizione nel Registro di un altro Stato membro o per il rilascio di una privativa nazionale o comunitaria, indicando l'esito di tale domanda se disponibile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione del costitutore, o dell'avente causa quando diverso dal costitutore, dell'eventuale rappresentante designato con sede in Italia e del responsabile della conservazione dei materiali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il soggetto responsabile della conservazione in purezza della varieta' e l'azienda dove la varieta' e' mantenuta con stato sanitario noto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    metodo di ottenimento della varieta' e origine della stessa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    eventuali indicazioni di caratteristiche speciali ed ogni altra informazione complementare per la determinazione dei caratteri distintivi della varieta', areale o areali particolarmente adatti alla coltivazione della varieta'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    eventuale indicazione dell'epoca di impianto idonea all'effettuazione delle prove di coltivazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elenco degli allegati.
+
+5.
+                        
+                            
+                                La domanda deve essere corredata dei seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'atto di designazione di un rappresentante con sede legale in Italia, ove il costitutore o l'avente causa sia di nazionalita' estera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la documentazione attestante i diritti acquisiti sulla varieta', nel caso in cui la domanda sia presentata da un avente causa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un questionario tecnico debitamente compilato e definito sulla base dei protocolli dell'Ufficio comunitario delle varieta' vegetali (CPVO), dell'Unione internazionale per la protezione delle nuove varieta' vegetali (UPOV) o in assenza di essi dai protocolli nazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la scheda descrittiva ufficiale della varieta' redatta da un organismo ufficiale, qualora la varieta' sia gia' ufficialmente iscritta nel Registro di uno Stato membro o protetta da privativa nazionale, ai sensi del decreto legislativo 10 febbraio 2005, n. 30, o da una privativa comunitaria, ai sensi del regolamento (CE) 2100/94; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la riproduzione fotografica della pianta, di parti di pianta e dei frutti che servono all'identificazione della varieta', nonche' ogni altra informazione e documentazione ritenuta utile ai fini dell'esame della domanda, con particolare riferimento alla scheda descrittiva della varieta', sono raccomandate, ma non obbligatorie;
+
 Se la documentazione di cui al comma 5, lettere a), b), c) e d) e' redatta in lingua straniera dovra' essere integrata con traduzione asseverata in lingua italiana, che fara' fede ai fini della valutazione della descrizione.
 
 ## Art. 10.
 
 Requisiti delle varieta'
+
+1.
+                        
+                            
+                                Una varieta' puo' essere iscritta al Registro se in possesso di uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' giuridicamente protetta da una privativa per ritrovati vegetali conformemente alle disposizioni sulla protezione di nuove varieta' vegetali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' comunemente nota. Una varieta' e' considerata comunemente nota se: 
+ 1) e' stata registrata ufficialmente in uno Stato membro; 
+ 2) e' oggetto di domanda di registrazione ufficiale in uno Stato membro o di domanda di privativa di cui alla lettera a); 
+ 3) e' stata commercializzata prima del 30 settembre 2012 sul territorio nazionale o di un altro Stato membro, purche' abbia una descrizione ufficialmente riconosciuta dal Servizio fitosanitario centrale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' distinguibile, omogenea e stabile a seguito di prove di coltivazione ufficiali di cui all'articolo 11. Una varieta' e' considerata: 
+ 1) «distinguibile» se puo' essere chiaramente distinta, in riferimento all'espressione delle caratteristiche risultanti da un particolare genotipo o da una particolare combinazione di genotipi, da qualsiasi altra varieta' comunemente nota alla data di presentazione della domanda di cui all'articolo 9; 
+ 2) «omogenea» se, fatta salva la variazione prevedibile in base alle particolarita' della sua propagazione, e' sufficientemente omogenea nell'espressione delle caratteristiche comprese nell'esame della distinguibilita', nonche' di qualsiasi altra caratteristica utilizzata per la descrizione della varieta'; 
+ 3) «stabile» se l'espressione delle caratteristiche comprese nell'esame della distinguibilita', nonche' di qualsiasi altra caratteristica utilizzata per la descrizione della varieta', rimane invariata dopo ripetute moltiplicazioni oppure, in caso di micropropagazione, alla fine di ogni ciclo.
 
 Ogni varieta' deve avere la stessa denominazione in tutti gli Stati membri conformemente alle linee direttrici internazionali accettate.
 
@@ -148,6 +706,45 @@ La domanda di cui al comma 2 e' corredata di elementi di prova attestanti che si
 
 Nel caso di assenza di domanda il Ministero, con propria iniziativa o su richiesta di soggetti pubblici o privati, puo' disporre il rinnovo della registrazione di una varieta', qualora questa rivesta particolare interesse per la frutticoltura e l'orticoltura nazionale, per preservare la diversita' genetica e la produzione sostenibile, nonche' per qualunque altro interesse generale.
 
+5.
+                        
+                            
+                                Una varieta' e' cancellata dal Registro nazionale delle varieta' di piante da frutto qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in sede di esame o di ulteriori controlli ufficiali, risulti che detta varieta' non e' piu' distinta, stabile o sufficientemente omogenea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'atto della presentazione della domanda di registrazione o nel corso della procedura di esame, siano state fornite indicazioni false in merito ai fatti in base ai quali la varieta' e' stata registrata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il richiedente ne faccia richiesta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risulti, dopo l'iscrizione, la mancata osservanza delle disposizioni legislative, regolamentari o amministrative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la validita' dell'iscrizione sia giunta a scadenza senza che sia stata presentata alcuna domanda di rinnovo.
+
 In caso di ritiro o rigetto della domanda di rilascio di privativa vegetale, o di domanda di iscrizione al registro di un altro Stato membro, il richiedente lo comunica al Ministero, per via telematica utilizzando l'indirizzo PEC dell'ufficio competente che provvede alla cancellazione della varieta' dal Registro.
 
 ## Art. 15. — Notifiche
@@ -170,6 +767,92 @@ Con provvedimento del Ministro delle politiche agricole alimentari e forestali, 
 
 Nel caso di reiterazione di grave infrazione delle norme contenute nel presente decreto o di cessata attivita' e' disposta la revoca della registrazione di cui al presente articolo.
 
+4.
+                        
+                            
+                                Il fornitore registrato deve: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rendersi personalmente disponibile o designare un'altra persona, tecnicamente competente in materia di produzione vegetale e questioni fitosanitarie, per mantenere i contatti con il Servizio fitosanitario regionale competente per territorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere ad ispezioni visive o ad accertamenti analitici secondo quanto previsto all'Allegato II, oppure secondo le indicazioni fornite dal Servizio fitosanitario regionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire agli incaricati del Servizio fitosanitario regionale competente per territorio l'accesso per l'esecuzione di ispezioni o prelievi di campioni e per il controllo dei registri di cui alla lettera f) nonche' dei relativi documenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere in possesso di copia di una scheda descrittiva, di cui all'articolo 23, comma 5, di ogni varieta' per cui si richiede l'esecuzione delle prove di verifica ai fini della certificazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predisporre durante la produzione dei materiali di moltiplicazione e delle piante da frutto, un piano appropriato per i generi o le specie pertinenti, inteso a individuare e tenere sotto controllo i punti critici del processo di produzione. Tale piano, che deve essere mantenuto a disposizione del Servizio fitosanitario regionale competente per territorio, riguarda almeno i seguenti elementi: 
+ 1) la categoria e la tipologia dei materiali di moltiplicazione e delle piante utilizzati per iniziare il processo di produzione; 
+ 2) la semina, il trapianto, l'invasatura ed il collocamento a dimora dei materiali di moltiplicazione e delle piante; 
+ 3) l'ubicazione e il numero di piante; 
+ 4) il piano e il metodo di coltivazione; 
+ 5) le cure colturali generali e di protezione fitosanitaria; 
+ 6) le operazioni di raccolta; 
+ 7) le operazioni di condizionamento, imballaggio, immagazzinamento e trasporto; 
+ 8) l'igiene; 
+ 9) l'amministrazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mettere in atto un sistema di tracciabilita', conformemente al regolamento (UE) 2016/2031, che consenta per un periodo minimo di tre anni, la registrazione di tutte le informazioni sulle attivita' di controllo dei punti critici previsti alla lettera e) e, se necessario, le informazioni riguardanti: 
+ 1) le piante o altri materiali acquistati per essere conservati o trapiantati in loco, in fase di produzione, o ceduti a terzi; 
+ 2) gli eventuali prelievi di campioni per le analisi di laboratorio ed i relativi risultati; 
+ 3) altri dati la cui registrazione venga prescritta dal Servizio fitosanitario regionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    conservare le registrazioni relative alle ispezioni in campo, al campionamento e all'analisi fino a quando i rispettivi materiali di moltiplicazione e piante da frutto sono sotto il suo controllo e per un periodo di almeno tre anni dalla rimozione o dalla commercializzazione di tali materiali di moltiplicazione e piante da frutto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    collaborare in ogni altro modo con il Servizio fitosanitario regionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dare attuazione a tutte le misure prescritte dal Servizio fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    garantire che, durante la produzione, i lotti di materiali di moltiplicazione rimangano identificabili separatamente.
+
 Le informazioni relative alla tracciabilita' devono essere aggiornate almeno ogni mese per i materiali ceduti ad altri fornitori o a persone professionalmente impegnate nella produzione di vegetali.
 Per i materiali ceduti a soggetti diversi da fornitori o da persone professionalmente impegnate nella produzione di vegetali, e' possibile effettuare una registrazione cumulativa al termine della campagna di commercializzazione. Eventuali correzioni devono essere effettuate tenendo traccia di quanto scritto in precedenza.
 
@@ -181,6 +864,104 @@ Il fornitore che cede a terzi a qualsiasi titolo materiale di propagazione o pia
 
 I soggetti che producono o commercializzano piantine di piante ortive e materiali di moltiplicazione di piante ortive, ad eccezione delle sementi, cosi' come definiti all'articolo 2, comma 1, lettera v), devono essere registrati nel RUOP in applicazione degli articoli 65 e 66 del regolamento (UE) 2016/2031.
 
+2.
+                        
+                            
+                                I soggetti di cui al comma 1 devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rendersi personalmente disponibili o designare un'altra persona, tecnicamente competente in materia di produzione vegetale e questioni fitosanitarie, per mantenere i contatti con il Servizio fitosanitario regionale competente per territorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere ad ispezioni visive ogni qualvolta sia necessario, oppure secondo le indicazioni fornite dal Servizio fitosanitario regionale competente per territorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire agli incaricati del Servizio fitosanitario regionale competente per territorio il libero accesso a tutti i locali dell'azienda e degli stabilimenti, per l'esecuzione di ispezioni o prelievi di campioni, e per il controllo dei registri di cui alla lettera i), nonche' dei relativi documenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuare e tenere sotto controllo almeno i seguenti punti critici dei propri processi di produzione che influenzano la qualita' delle piantine di piante ortive e dei relativi materiali di moltiplicazione: 
+ 1) la qualita' dei materiali di moltiplicazione e delle piante utilizzati per iniziare il processo di produzione; 
+ 2) la semina, il trapianto, l'invasettamento ed il collocamento a dimora dei materiali di moltiplicazione e delle piante; 
+ 3) il piano ed il metodo di coltivazione; 
+ 4) le cure colturali generali; 
+ 5) le operazioni di moltiplicazione; 
+ 6) le operazioni di raccolta; 
+ 7) l'igiene; 
+ 8) i trattamenti; 
+ 9) l'imballaggio; 
+ 10) l'immagazzinamento; 
+ 11) il trasporto; 
+ 12) l'amministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mettere in atto un sistema di tracciabilita' che consenta la registrazione delle seguenti informazioni: 
+ 1) le informazioni sul controllo di cui alla lettera d); 
+ 2) le piante o altri materiali acquistati per essere conservati o trapiantati in loco, in fase di produzione, ceduti a terzi; 
+ 3) tutte le manifestazioni di organismi nocivi e tutte le misure prese a tale proposito compresi eventuali trattamenti chimici effettuati sulle piante; 
+ 4) gli eventuali prelievi di campioni per le analisi di laboratorio ed i relativi risultati; 
+ 5) altri dati la cui registrazione venga prescritta dall'organismo ufficiale responsabile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prelevare campioni, con frequenza corrispondente al verificarsi di uno dei punti critici dei cicli produttivi, per eventuali analisi da far effettuare presso un laboratorio ritenuto idoneo dal Servizio fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    garantire che, durante la produzione, i lotti di materiali di moltiplicazione rimangano identificabili separatamente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dare attuazione a tutte le misure prescritte dal Servizio fitosanitario regionale competente per territorio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    registrare e conservare per almeno tre anni tutte le informazioni di cui alle lettere a), b), c) ed e), nonche' quelle relative alle vendite e agli acquisti, quando vengono commercializzati piantine di piante ortive e materiali di moltiplicazione di piante ortive, ad eccezione delle sementi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    concedere il libero accesso a tutti i locali dell'azienda e degli stabilimenti ai soggetti incaricati delle verifiche; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    collaborare in ogni altro modo con il Servizio fitosanitario nazionale.
+
 Le informazioni relative alla tracciabilita' devono essere aggiornate almeno ogni mese per i materiali ceduti ad altri fornitori o a persone professionalmente impegnate nella produzione dei vegetali. Per i materiali ceduti ad altre categorie e' possibile effettuare una registrazione cumulativa al termine della campagna di commercializzazione. Eventuali correzioni devono essere effettuate tenendo traccia di quanto scritto in precedenza.
 
 Il fornitore la cui attivita' in questo campo si limita alla semplice distribuzione di materiali prodotti ed imballati al di fuori del suo stabilimento, deve garantire la tracciabilita' delle operazioni di acquisto, di vendita o di consegna di tali prodotti, da esibire su richiesta del Servizio fitosanitario regionale competente per territorio.
@@ -190,6 +971,56 @@ Il fornitore la cui attivita' in questo campo si limita alla semplice distribuzi
 
 Il Servizio fitosanitario regionale competente per territorio effettua regolarmente, almeno una volta all'anno e comunque nel momento idoneo per la verifica della presenza degli organismi nocivi, la sorveglianza e il controllo dei fornitori e dei loro centri aziendali e dei campi di produzione al fine di verificare che siano osservate le prescrizioni previste dal presente decreto.
 
+2.
+                        
+                            
+                                Il Servizio fitosanitario regionale competente per territorio accerta il rispetto degli obblighi di cui all'articolo 18, con particolare riferimento alla verifica della sussistenza dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disponibilita' ed impiego di metodi per il controllo di ciascuno dei punti critici di cui all'articolo 18, comma 2, lettera d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affidabilita' dei metodi di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    competenza del personale del fornitore ad effettuare i controlli.
+
+3.
+                        
+                            
+                                Nel caso in cui il fornitore durante il processo produttivo debba effettuare delle analisi presso laboratori ritenuti idonei, il Servizio fitosanitario regionale competente per territorio effettua i controlli necessari per accertare, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i campioni siano stati prelevati durante le idonee fasi del processo di produzione e secondo la frequenza di cui all'articolo 18, comma 2, lettera f); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i campioni vengano prelevati in modo tecnicamente corretto e secondo un procedimento statisticamente attendibile, tenendo conto del tipo di analisi da effettuare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i campioni vengano prelevati da persone competenti.
+
 Il Servizio fitosanitario regionale competente per territorio provvede affinche' i materiali siano oggetto, durante le fasi di produzione e di commercializzazione, di controlli ufficiali effettuati per sondaggio per verificare che sono state rispettate le prescrizioni e le condizioni fissate dal presente decreto.
 
 Gli oneri per le attivita' di controllo di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
@@ -198,6 +1029,43 @@ Gli oneri per le attivita' di controllo di cui al presente articolo sono a caric
 
 ## Art. 20. — Disposizioni generali per la certificazione 
  dei materiali di moltiplicazione e delle piante
+
+1.
+                        
+                            
+                                I materiali di moltiplicazione e le piante da frutto appartenenti ai generi e alle specie elencati nell'Allegato I, sezione A, devono essere conformi, durante la produzione e la commercializzazione, alle prescrizioni del presente decreto ed appartenere ad una delle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    materiali di categoria «Pre-Base» e come tali: 
+ 1) prodotti, secondo metodi generalmente considerati idonei, per la conservazione dell'identita' della varieta', comprese le caratteristiche pomologiche, nonche' per la prevenzione dagli organismi nocivi; 
+ 2) destinati alla produzione di materiali di categoria «Base» o «Certificato» diversi dalle piante da frutto; 
+ 3) rispondenti ai requisiti specifici per i materiali «Pre-Base», adottati ai sensi dell'articolo 25; 
+ 4) ritenuti conformi, all'atto di un'ispezione ufficiale, alle condizioni di cui alla presente lettera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    materiali di categoria «Base» e come tali: 
+ 1) ottenuti direttamente o in un numero limitato di fasi per via vegetativa da materiali iniziali, secondo metodi generalmente ritenuti idonei, per la conservazione dell'identita' della varieta', comprese le caratteristiche pomologiche pertinenti, nonche' per la prevenzione dagli organismi nocivi; 
+ 2) destinati alla produzione di materiali di categoria «Certificato»; 
+ 3) rispondenti ai requisiti specifici per i materiali di categoria «Base», adottati ai sensi dell'articolo 36; 
+ 4) ritenuti conformi, all'atto di un'ispezione ufficiale, alle condizioni di cui alla presente lettera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    materiali di categoria «Certificato»: 
+ 1) ottenuti direttamente per via vegetativa da materiali di categoria «Base» o da materiali «Pre-Base» o, se destinati alla produzione di portainnesto, da sementi certificate di materiali di categoria «Base» o «Certificato» di portainnesto; 
+ 2) destinati alla produzione di piante da frutto; 
+ 3) rispondenti ai requisiti specifici per i materiali di categoria «Certificato», adottati ai sensi dell'articolo 42; 
+ 4) ritenuti conformi, all'atto di un'ispezione ufficiale, alle condizioni di cui alla presente lettera.
 
 I materiali di moltiplicazione e le piante da frutto, di cui al comma 1, sono prodotti nel rispetto anche dei requisiti relativi al sito di produzione, al luogo di produzione o alla zona di cui all'Allegato II, parte 4, al fine di limitare la presenza degli organismi nocivi regolamentati non da quarantena (ORNQ) elencati in tale Allegato per il genere o la specie in questione.
 
@@ -214,6 +1082,31 @@ Tutti gli oneri derivanti dalle attivita' di certificazione dei materiali di mol
 
 La conservazione e la certificazione dei materiali di categoria «Pre-Base» si attuano presso centri di conservazione per la premoltiplicazione (CCP) pubblici. Tale fase puo' avvenire anche presso organismi privati riconosciuti per l'alta professionalita' e le specifiche competenze in materia. Sia gli organismi pubblici che quelli privati devono essere riconosciuti idonei dal Servizio fitosanitario centrale, sentito il parere del Gruppo di lavoro permanente, e devono essere in possesso dei requisiti e delle autorizzazioni previste dalla normativa fitosanitaria vigente.
 
+2.
+                        
+                            
+                                Scopi della fase di conservazione per la premoltiplicazione sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la conservazione in ambiente protetto di piante madri di categoria «Pre-Base»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la produzione, in ambiente protetto, di materiale di propagazione di categoria «Pre-Base»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la produzione e l'allevamento delle piante da frutto moltiplicate a partire dalle piante madri di categoria «Pre-Base», come previsto all'articolo 23, comma 8.
+
 La conservazione per la premoltiplicazione e' organizzata per specie o gruppi di specie.
 
 Gli organismi che intendono essere riconosciuti come CCP devono presentare richiesta al Servizio fitosanitario centrale per il tramite del Servizio fitosanitario regionale competente per territorio ed essere in possesso dei requisiti di cui all'Allegato III. Con decreto del Ministro delle politiche agricole alimentari e forestali, da adottare entro centottanta giorni dalla data di entrata in vigore del presente decreto legislativo, sono stabilite le modalita' di presentazione della domanda di riconoscimento.
@@ -227,12 +1120,159 @@ Gli oneri finanziari per la conservazione e produzione di materiale di moltiplic
 ## Art. 22. — Obblighi dei Centri di Conservazione 
  per la Premoltiplicazione
 
+1.
+                        
+                            
+                                I Centri di Conservazione per la Premoltiplicazione (CCP): 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono dotati delle strutture e dei mezzi necessari alla conservazione e alla produzione in vivo ed in vitro dei materiali di categoria "Pre-Base" rispondenti ai requisiti tecnici di cui all'Allegato III; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispongono delle mappe relative all'esatta collocazione delle accessioni presenti ed un registro di conduzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmettono, entro il 31 gennaio di ogni anno, una relazione sulla conduzione e sull'attivita' svolta nell'anno precedente, comprensiva delle relative mappe, al Servizio fitosanitario regionale competente per territorio e al Servizio fitosanitario centrale.
+
+2.
+                        
+                            
+                                Il Servizio fitosanitario centrale revoca l'idoneita' se il CCP: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risulta privo o perde taluno dei requisiti di cui all'Allegato III o taluno dei requisiti e delle autorizzazioni previste dalla normativa fitosanitaria vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non adempie agli obblighi di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non rispetta le prescrizioni impartite dal Servizio fitosanitario nazionale.
+
 ## Art. 23. — Requisiti per l'accettazione di una pianta madre 
  di categoria «Pre-Base»
 
 Per chiedere l'accettazione di una pianta come pianta madre di categoria «Pre-Base» il costitutore o suo avente causa presenta specifica richiesta al Servizio fitosanitario centrale secondo le modalita' stabilite dal decreto di cui all'articolo 21, comma 4.
 
+2.
+                        
+                            
+                                La domanda contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale del costitutore o avente causa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo della sede legale del costitutore o dell'avente causa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recapito di posta elettronica e telefonico del costitutore o avente causa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione del centro di conservazione per la premoltiplicazione (CCP), riconosciuto dal Ministero, in cui si richiede sia conservata la candidata pianta madre di categoria «Pre-Base»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riferimento alla varieta'.
+
+3.
+                        
+                            
+                                La domanda e' corredata della seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    documentazione attestante l'assenza dagli organismi nocivi elencati nell'Allegato II, per quanto riguarda il genere o la specie in questione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione relativa al luogo, alle modalita' di conservazione in condizioni di sanita' della candidata pianta madre di categoria «Pre-Base» e al soggetto responsabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le accessioni di cultivar soggette a vincoli di moltiplicazione, copia della documentazione sulla privativa (domanda e rilascio, ove presente) con eventuale elenco dei beneficiari;
+
 Il Servizio fitosanitario centrale accetta una pianta come pianta madre di categoria «Pre-Base» se essa e' conforme agli articoli 27, 28, 29, 30 e 31, se la corrispondenza alla descrizione della sua varieta' e' stabilita conformemente ai commi 5, 7 e 8 del presente articolo. Tale accettazione avviene in base ad un controllo ufficiale nonche' ai risultati delle analisi, alle registrazioni e alle procedure a norma dell'articolo 54.
+
+5.
+                        
+                            
+                                Il Servizio fitosanitario regionale competente per territorio stabilisce la corrispondenza della pianta madre di categoria «Pre-Base» alla descrizione della sua varieta' mediante l'osservazione dell'espressione delle caratteristiche della varieta'.
+Tale osservazione e' basata su uno dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la descrizione ufficiale per le varieta' iscritte in uno o piu' dei registri nazionali e per le varieta' giuridicamente protette da una privativa per ritrovati vegetali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione che accompagna la domanda per le varieta' oggetto di una domanda di registrazione in un qualsiasi Stato membro, secondo quanto previsto dall'articolo 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione che accompagna la domanda per le varieta' oggetto di una domanda di registrazione di una privativa per ritrovati vegetali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione ufficialmente riconosciuta, se la varieta' oggetto di tale descrizione e' iscritta in un Registro nazionale.
 
 La pianta madre accettata e' posta in un sito di conservazione di cui all'articolo 21.
 
@@ -260,11 +1300,142 @@ Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente artico
 
 I materiali di moltiplicazione di una varieta' iscritta al Registro delle varieta', diversi dalle piante madri e dai portinnesti non appartenenti a una varieta', sono certificati ufficialmente come materiali di categoria «Pre-Base» presentando specifica richiesta al Servizio fitosanitario regionale competente per territorio secondo le modalita' stabilite dal decreto di cui all'articolo 21, comma 4.
 
+2.
+                        
+                            
+                                La domanda deve contenere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale del richiedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo della sede legale del richiedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recapito di posta elettronica certificata e telefonico del richiedente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riferimento della varieta'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indicazione del centro di conservazione per la premoltiplicazione (CCP), riconosciuto dal Ministero, in cui e' conservata la pianta madre di categoria «Pre-Base»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tipologia e quantita' dei materiali da certificare.
+
+3.
+                        
+                            
+                                I materiali di categoria «Pre-Base» sono certificati se e' stato accertato che soddisfano i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono moltiplicati, in conformita' alle previsioni di cui agli articoli 32 o 33, direttamente a partire da una pianta madre, che sia accettata in conformita' all'articolo 23 ovvero sia stata ottenuta mediante moltiplicazione in conformita' all'articolo 32, ovvero mediante micropropagazione conformemente all'articolo 33; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono corrispondenti alla descrizione della loro varieta' e la corrispondenza alla descrizione della varieta' e' verificata a norma dell'articolo 27; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono conservati a norma dell'articolo 28; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono conformi ai requisiti fitosanitari di cui all'articolo 30; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono conformi all'articolo 31 per quanto riguarda le alterazioni.
+
 Qualora una pianta madre di categoria «Pre-Base» o i materiali di categoria «Pre-Base» non soddisfino piu' i requisiti di cui agli articoli 27, 28, 29, 30 e 31, il fornitore li rimuove dal sito che ospita le altre piante madri di categoria «Pre-Base» e gli altri materiali di categoria «Pre-Base». La pianta madre o i materiali cosi' rimossi possono essere utilizzati come materiali di categoria «Base», «Certificato» o materiali CAC, purche' soddisfino i requisiti stabiliti dal presente decreto per le rispettive categorie. Il fornitore non rimuove la pianta madre o tali materiali se adotta misure adeguate a garantire che la pianta madre o i materiali siano nuovamente conformi ai requisiti di cui agli articoli 27, 28, 29, 30 e 31.
 
 ## Art. 26.
 
 Requisiti per la certificazione come materiali di categoria «Pre-Base» di portinnesti non appartenenti a una varieta'
+
+1.
+                        
+                            
+                                Un portinnesto non appartenente a una varieta' e' certificato ufficialmente, presentando specifica richiesta, come disposto all'articolo 25 commi 1, 2 e 3, come materiale di categoria «Pre-Base» se e' stato accertato che soddisfa i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' moltiplicato direttamente da una pianta madre mediante riproduzione gamica o agamica; in caso di riproduzione gamica gli alberi impollinatori sono prodotti direttamente da una pianta madre mediante riproduzione vegetativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' corrispondente alla descrizione della sua specie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' conservato a norma dell'articolo 28; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' conforme ai requisiti fitosanitari di cui all'articolo 30; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' conforme all'articolo 31 per quanto riguarda le alterazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la pianta madre di cui alla lettera a), e' stata accettata in conformita' all'articolo 24 o e' stata ottenuta mediante moltiplicazione in conformita' all'articolo 32 o mediante micropropagazione conformemente all'articolo 33.
 
 Qualora un portinnesto che e' una pianta madre di categoria «Pre-Base» o un materiale di categoria «Pre-Base» non soddisfi piu' i requisiti di cui agli articoli 28, 29, 30 e 31 il fornitore lo rimuove dal sito che ospita le altre piante madri di categoria «Pre-Base» e gli altri materiali di categoria «Pre-Base». Il portinnesto cosi' rimosso puo' essere utilizzato come materiale di categoria «Base», «Certificato» o materiale CAC, purche' soddisfi i requisiti stabiliti dal presente decreto per le rispettive categorie.
 Il fornitore non rimuove tale portainnesto se adotta misure adeguate per garantire che esso sia nuovamente conforme ai requisiti di cui agli articoli 28, 29, 30 e 31.
@@ -328,6 +1499,24 @@ Le misure volte a garantire il rispetto dei requisiti di cui al comma 1 figurano
 
 ((
 
+8.
+                        
+                            
+                                Il comma 1 non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle piante madri di «Pre-Base» e ai materiali di «Pre-Base» durante la crioconservazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai materiali di «Pre-Base», qualora tali materiali siano stati prodotti in zone notoriamente indenni, o riconosciute indenni, dagli organismi nocivi in questione conformemente alle pertinenti norme internazionali per le misure fitosanitarie [Requirements for the establishment of pest free areas. ISPM n. 4 (1995), Roma, IPPC, FAO 2017].
+
 ))
 
 ## Art. 31.
@@ -365,6 +1554,24 @@ La conservazione delle piante madri di categoria «Base» e la certificazione di
 
 Il numero e la dislocazione dei CP devono essere strettamente funzionali alla necessita' di premoltiplicazione dei materiali di categoria «Base».
 
+3.
+                        
+                            
+                                Nella fase di premoltiplicazione si svolgono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la coltivazione in ambiente protetto di piante categoria «Base»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la produzione in ambiente protetto di materiale di moltiplicazione di categoria «Base».
+
 In deroga al comma 3, il Servizio fitosanitario centrale, sentito il parere del Gruppo di lavoro permanente, in casi di necessita', puo' autorizzare i CP a coltivare in pieno campo piante e materiali di categoria «Base», fatte salve le condizioni di cui all'Allegato II, parte 4, per il genere e la specie in questione.
 
 La premoltiplicazione e' organizzata per specie o gruppi di specie.
@@ -379,11 +1586,157 @@ Gli oneri finanziari per la conservazione e produzione di materiale di moltiplic
 
 ## Art. 35. — Obblighi dei centri di premoltiplicazione
 
+1.
+                        
+                            
+                                I centri di premoltiplicazione (CP) devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rispettare i requisiti di cui all'Allegato III per quanto riguarda l'idoneita' delle strutture, dei mezzi e del personale atto al mantenimento e alla produzione in vivo ed in vitro dei materiali di categoria «Base», nonche' la loro ubicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre delle mappe relative all'esatta collocazione delle accessioni presenti ed un registro di conduzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmettere, entro il 31 gennaio di ogni anno, una relazione sulla conduzione e sull'attivita' svolta nell'anno precedente, comprensiva delle relative mappe, al Servizio fitosanitario regionale competente per territorio e al Servizio fitosanitario centrale.
+
+2.
+                        
+                            
+                                Il Servizio fitosanitario centrale revoca l'idoneita' se il CP: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risulta privo o perde taluno dei requisiti di cui all'Allegato III o taluno dei requisiti e delle autorizzazioni previste dalla normativa fitosanitaria vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non adempie agli obblighi di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non rispetta le prescrizioni impartite dal Servizio fitosanitario nazionale.
+
 ## Art. 36. — Requisiti per la certificazione dei materiali di categoria «Base»
 
 I materiali di moltiplicazione di categoria «Base» e i portinnesti non appartenenti a una varieta' sono certificati ufficialmente come materiali di categoria «Base», presentando specifica richiesta al Servizio fitosanitario regionale secondo le modalita' stabilite dal decreto di cui all'articolo 21, comma 4.
 
+2.
+                        
+                            
+                                La domanda deve contenere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale del richiedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo della sede legale del richiedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recapito di posta elettronica certificata e telefonico del richiedente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riferimento della varieta'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indicazione del centro di premoltiplicazione (CP), riconosciuto dal Ministero, in cui e' conservata la pianta madre di categoria «Base»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tipologia e quantita' dei materiali da certificare.
+
+3.
+                        
+                            
+                                I materiali di moltiplicazione sono ottenuti a partire da una pianta madre di categoria «Base» o «Pre-Base». Una pianta madre di categoria «Base» soddisfa uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere ottenuta a partire da materiali di categoria «Pre-Base»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere prodotta mediante moltiplicazione a partire da una pianta madre di categoria «Base» conformemente all'articolo 40.
+
 I materiali di moltiplicazione soddisfano i requisiti di cui agli articoli 27, 28 e 31.
+
+5.
+                        
+                            
+                                I materiali di moltiplicazione soddisfano i seguenti requisiti supplementari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    requisiti fitosanitari, come disposto dall'articolo 37; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti relativi al terreno, come disposto dall'articolo 38; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti relativi alla conservazione delle piante madri di categoria «Base» e dei materiali di categoria «Base», come disposto dall'articolo 39; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    requisiti relativi alle condizioni specifiche per la moltiplicazione, come disposto dall'articolo 40.
 
 Un portinnesto non appartenente a una varieta' e' certificato ufficialmente come materiale di categoria «Base», presentando specifica richiesta, come disposto ai commi 1 e 2, se e' corrispondente alla descrizione della sua specie e se soddisfa i requisiti di cui all'articolo 28, commi 2 e 6, e i requisiti supplementari di cui agli articoli 31, 37, 38, 39 e 40.
 
@@ -410,6 +1763,22 @@ In caso di risultato positivo a un'analisi per rilevare la presenza di uno quals
 Le misure volte a garantire il rispetto dei requisiti di cui al comma 1 figurano nell'Allegato II, parte 4, per quanto riguarda il genere o la specie in questione e la categoria.
 
 ((
+
+8.
+                        
+                            
+                                Il comma 1 non si applica: 
+                            
+                            
+                                a)
+                                
+                                    alle piante madri di «Base» e ai materiali di «Base» durante la crioconservazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    ai materiali di «Base», qualora tali materiali siano stati prodotti in zone notoriamente indenni, o riconosciute indenni, dagli organismi nocivi in questione conformemente alle pertinenti norme internazionali per le misure fitosanitarie [Requirements for the establishment of pest free areas. ISPM n. 4 (1995), Roma, IPPC, FAO 2017].
 
 ))
 
@@ -449,7 +1818,50 @@ I materiali di moltiplicazione di generazioni diverse sono tenuti separati.
 
 La produzione e la certificazione di materiale di categoria «Certificato», si attuano in campi di piante madri, in laboratori di micropropagazione e in vivai sotto la responsabilita' di vivaisti singoli o associati. I campi di piante madri, i laboratori di micropropagazione ed i vivai, sono riconosciuti dai Servizi fitosanitari regionali se soddisfano i requisiti previsti dai protocolli dell'Organizzazione europea e mediterranea per la protezione delle piante (EPPO) o altri protocolli riconosciuti a livello internazionale. Se tali protocolli, per l'organismo nocivo in esame, non sono disponibili, il Servizio fitosanitario regionale competente per territorio applica i protocolli validati scientificamente a livello nazionale.
 
+2.
+                        
+                            
+                                Scopi della fase di cui al comma 1 sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coltivazione delle piante madri nel rispetto dei protocolli di cui al comma 1 previsti per ciascuna specie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la produzione di piante da frutto e di materiale di moltiplicazione di categoria «Certificato».
+
 La moltiplicazione e' organizzata per specie o gruppi di specie.
+
+4.
+                        
+                            
+                                I centri di moltiplicazione (CM) che intendono ottenere il riconoscimento dai Servizi fitosanitari regionali devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disporre di un responsabile tecnico, in possesso di specifiche competenze documentate, incaricato di interloquire con gli organismi di controllo e certificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre di campi e strutture atte a consentire le operazioni di lavorazione e conservazione delle specifiche produzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre di attrezzature meccaniche per la lavorazione, la conservazione e il trasporto da utilizzare esclusivamente per le attivita' della struttura.
 
 Le domande per ottenere il riconoscimento di centro di moltiplicazione e le domande per ottenere la certificazione genetico-sanitaria del materiale vivaistico prodotto devono essere presentate al Servizio fitosanitario regionale competente per territorio secondo le modalita' stabilite dal decreto di cui all'articolo 21, comma 4.
 
@@ -459,6 +1871,86 @@ I CM e le aziende vivaistiche devono operare conformemente alle normative vigent
  di categoria «Certificato»
 
 I materiali di moltiplicazione e le piante da frutto sono certificati ufficialmente come materiali di categoria «Certificato» dietro specifica domanda dell'interessato al Servizio fitosanitario regionale competente per territorio secondo le modalita' stabilite dal decreto di cui all'articolo 21, comma 4.
+
+2.
+                        
+                            
+                                La domanda deve contenere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale del richiedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo della sede legale del richiedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recapito di posta elettronica certificata e telefonico del richiedente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riferimento della varieta'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indicazione del centro di moltiplicazione (CM), riconosciuto dal Servizio fitosanitario regionale, in cui e' conservata la pianta madre di categoria «Certificato»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    tipologia e quantita' dei materiali da certificare; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per le varieta' e i portinnesti giuridicamente protetti da una privativa per ritrovati vegetali e' necessario corredare la domanda con la liberatoria per l'utilizzo di detti materiali.
+
+3.
+                        
+                            
+                                I materiali di moltiplicazione e le piante da frutto sono certificati come materiali di categoria «Certificato» se soddisfano i requisiti di cui agli articoli 27, 28, comma 6, 31, 43 e 44, nonche' i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i materiali di moltiplicazione e le piante da frutto sono moltiplicati a partire da una pianta madre di categoria «Certificato» o di categoria superiore che soddisfa uno dei seguenti requisiti: 
+ 1) essere ottenuta a partire da materiali di categoria «Pre-Base»; 
+ 2) essere ottenuta a partire da materiali di categoria «Base»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le piante madri certificate sono numerate progressivamente in modo stabile, in sito, al momento dell'impianto e conservate in modo da garantire la loro identificazione univoca e la tracciabilita' durante tutto il processo di produzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i materiali di moltiplicazione e le piante da frutto sono moltiplicati a partire da una pianta madre di categoria «Certificato» o di categoria superiore che soddisfa i requisiti relativi al terreno di cui all'articolo 44.
 
 Un portinnesto non appartenente a una varieta' e' certificato ufficialmente come materiale di categoria «Certificato», presentando specifica domanda, come disposto ai commi 1 e 2, se e' corrispondente alla descrizione della sua specie e se soddisfa i requisiti di cui all'articolo 28, comma 6, e i requisiti supplementari di cui agli articoli 31, 43 e 44.
 
@@ -488,6 +1980,24 @@ In caso di risultato positivo a un'analisi per uno qualsiasi degli ORNQ elencati
 Le misure volte a garantire il rispetto dei requisiti di cui al comma 1 figurano nell'Allegato II, parte 4, per quanto riguarda il genere o la specie in questione e la categoria.
 
 ((
+
+8.
+                        
+                            
+                                Il comma 1 non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle piante madri certificate e ai materiali certificati durante la crioconservazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai materiali certificati, qualora tali materiali siano stati prodotti in zone notoriamente indenni, o riconosciute indenni, dagli organismi nocivi in questione conformemente alle pertinenti norme internazionali per le misure fitosanitarie [Requirements for the establishment of pest free areas. ISPM n. 4 (1995), Roma, IPPC, FAO 2017].
 
 ))
 
@@ -520,23 +2030,183 @@ Gli oneri derivanti dalle attivita' di controllo di cui al presente articolo son
 ## Art. 46. — Requisiti dei materiali di moltiplicazione 
  e delle piante da frutto CAC
 
+1.
+                        
+                            
+                                I materiali di moltiplicazione e le piante da frutto sono qualificati di categoria Conformitas Agraria Communitatis (CAC) se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno identita' varietale e adeguata purezza varietale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono destinati: 
+ 1) alla produzione di materiali di moltiplicazione; 
+ 2) alla produzione di piante da frutto; 
+ 3) alla produzione di frutti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soddisfano i requisiti specifici per i materiali CAC stabiliti in conformita' degli articoli 47 e 48; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    soddisfano requisiti relativi al sito di produzione, al luogo di produzione o alla zona di cui all'Allegato II, parte 4, al fine di limitare la presenza degli ORNQ elencati in tale Allegato per il genere o la specie in questione.
+
 ## Art. 47.
 
 Condizioni per i materiali CAC diversi dai portinnesti 
  non appartenenti a una varieta'
 
+1.
+                        
+                            
+                                I materiali CAC diversi dai portinnesti non appartenenti a una varieta' possono essere commercializzati solo se e' accertato che soddisfano i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono moltiplicati a partire da una fonte identificata di materiali registrati dal fornitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono corrispondenti alla descrizione della varieta' a norma dell'articolo 49; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono conformi ai requisiti fitosanitari di cui all'articolo 50; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono conformi ai requisiti di cui all'articolo 51 per quanto riguarda le alterazioni.
+
 Le azioni necessarie per conformarsi al comma 1 sono effettuate dal fornitore.
+
+3.
+                        
+                            
+                                Nel caso in cui i materiali CAC non siano piu' conformi al comma 1, il fornitore effettua una delle seguenti azioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rimuove tali materiali dal sito che ospita gli altri materiali CAC; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta misure adeguate al fine di garantire che tali materiali siano nuovamente conformi ai requisiti di cui al comma 1.
 
 ## Art. 48.
 
 Condizioni per i materiali CAC nel caso dei portinnesti 
  non appartenenti a una varieta'
 
+1.
+                        
+                            
+                                Nel caso dei portinnesti non appartenenti a una varieta' i materiali CAC devono essere conformi ai seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    corrispondenti alla descrizione della loro specie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conformi ai requisiti fitosanitari di cui all'articolo 49; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conformi ai requisiti di cui all'articolo 51 per quanto riguarda le alterazioni.
+
 Le azioni necessarie per conformarsi al comma 1 sono effettuate dal fornitore.
+
+3.
+                        
+                            
+                                Nel caso in cui i materiali CAC non siano piu' conformi ai requisiti di cui al comma 1, il fornitore effettua una delle seguenti azioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rimuove tali materiali dal sito che ospita gli altri materiali CAC; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta misure adeguate al fine di garantire che tali materiali siano nuovamente conformi ai requisiti di cui al comma 1.
 
 ## Art. 49.
 
 Corrispondenza alla descrizione della varieta'
+
+1.
+                        
+                            
+                                La corrispondenza dei materiali CAC alla descrizione della loro varieta' e' stabilita mediante l'osservazione dell'espressione delle caratteristiche della varieta'. Tale osservazione e' basata su uno dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la descrizione ufficiale per le varieta' registrate, come indicato nel Titolo II, e per le varieta' giuridicamente protette da una privativa per ritrovati vegetali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione che accompagna la domanda per le varieta' oggetto di una richiesta di registrazione in un qualsiasi Stato membro, come indicato nel Titolo II; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione che accompagna la domanda di privativa per ritrovati vegetali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione ufficialmente riconosciuta di una varieta' di cui all'articolo 10.
 
 La corrispondenza dei materiali CAC alla descrizione della loro varieta' e' verificata, in autocontrollo o dai servizi fitosanitari, periodicamente mediante l'osservazione dell'espressione delle caratteristiche della varieta' nei materiali CAC in questione.
 
@@ -553,6 +2223,24 @@ I materiali di moltiplicazione CAC e le piante da frutto CAC in lotti, dopo la f
 Il fornitore registrato adotta le misure volte a garantire il rispetto dei requisiti di cui al comma 1 conformemente all'Allegato II, parte 4, per quanto riguarda il genere o la specie in questione e la categoria.
 
 ((
+
+6.
+                        
+                            
+                                Il comma 1 non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai materiali CAC durante la crioconservazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai materiali CAC, qualora tali materiali siano stati prodotti in zone notoriamente indenni, o riconosciute indenni, dagli organismi nocivi in questione conformemente alle pertinenti norme internazionali per le misure fitosanitarie [Requirements for the establishment of pest free areas. ISPM n. 4 (1995), Roma, IPPC, FAO 2017].
 
 ))
 
@@ -587,6 +2275,24 @@ Il Servizio fitosanitario regionale competente per territorio effettua controlli
 
 I controlli ufficiali di cui al comma 1 consistono in ispezioni visive e, se del caso, nel campionamento e nell'analisi.
 
+3.
+                        
+                            
+                                Nell'effettuazione dei controlli ufficiali il Servizio fitosanitario regionale competente per territorio verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'idoneita' dei metodi utilizzati dal fornitore, e il loro impiego effettivo, al fine di verificare i punti critici del proprio processo di produzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la competenza generale del personale impiegato dal fornitore per svolgere le attivita'.
+
 Il Servizio fitosanitario regionale competente per territorio conserva le registrazioni dei risultati e delle date in relazione a tutte le ispezioni in campo e al campionamento e all'analisi da esso effettuati.
 
 Qualora, in occasione della sorveglianza e dei controlli di cui al comma 1 o di altri tipi di verifiche, si constati che i materiali non sono conformi alle prescrizioni previste dal presente decreto, il Servizio fitosanitario regionale competente adotta tutte le misure necessarie per assicurare la loro conformita' alle prescrizioni precitate, oppure, se cio' non e' possibile, ne vieta la commercializzazione nell'Unione europea.
@@ -607,7 +2313,50 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali, da ado
 
 I materiali per la moltiplicazione delle piante da frutto e le piante da frutto dei generi e delle specie di cui all'allegato I sono commercializzati unicamente se la varieta' a cui appartengono e' iscritta al Registro delle varieta' di cui all'articolo 6 o equivalente registro di uno Stato membro.
 
+2.
+                        
+                            
+                                Fatte salve le norme vigenti in materia fitosanitaria, i materiali di moltiplicazione e le piante da frutto devono soddisfare i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i materiali di moltiplicazione sono stati ufficialmente certificati come materiali di categoria «Pre-Base», «Base» o «Certificato» o rispondono alle condizioni ed ai requisiti per essere qualificati come materiali CAC; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le piante da frutto sono state ufficialmente certificate come materiali di categoria «Certificato» o rispondono alle condizioni ed ai requisiti per essere qualificate come materiali CAC.
+
 Qualora i prodotti ottenuti da piante da frutto o materiali di moltiplicazione siano destinati ad essere utilizzati in qualita' di alimenti o in alimenti rientranti nell'ambito di applicazione dell'articolo 3 del regolamento (CE) n. 1829/2003 o in qualita' di mangime o in un mangime rientrante nell'ambito di applicazione dell'articolo 15 dello stesso regolamento (CE) n. 1829/2003, il materiale di moltiplicazione e le piante da frutto interessati sono commercializzati solo se l'alimento o il mangime derivati da tale materiale sono stati autorizzati a norma del suddetto regolamento.
+
+4.
+                        
+                            
+                                In deroga al disposto di cui al comma 1 puo' essere autorizzato dal Ministero il commercio di quantitativi appropriati di materiali di moltiplicazione e di piante da frutto destinati a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prove o a scopi scientifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori di selezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contribuire alla conservazione della diversita' genetica.
 
 Con decreto del Ministro delle politiche agricole alimentari e forestali, da adottare entro centottanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' per l'applicazione della deroga ((di cui al comma 4)).
 
@@ -625,9 +2374,129 @@ I materiali di moltiplicazione e le piante da frutto che si qualificano come mat
 
 I materiali di categoria «Pre-Base», «Base» o «Certificato» sono commercializzati come materiali di moltiplicazione o piante da frutto solo se provvisti di un'etichetta conforme ai commi da 2 a 5. Il Servizio fitosanitario regionale competente per territorio controlla che il fornitore redige e appone tale etichetta. La forma grafica dell'etichetta, di cui all'allegato IV, e' stabilita dal Servizio fitosanitario nazionale conformemente ai commi 2, 3 e 4. I materiali di moltiplicazione o le piante da frutto che fanno parte dello stesso lotto possono essere commercializzati con un'etichetta unica laddove tali materiali o tali piante siano parte dello stesso imballaggio, mazzo o contenitore, e tale etichetta sia apposta in conformita' al comma 5. Le piante da frutto di un anno o piu' sono etichettate individualmente. In tal caso l'etichettatura puo' essere effettuata nel campo prima, durante o successivamente all'estirpazione. Se l'etichettatura e' effettuata successivamente, le piante dello stesso lotto sono estirpate insieme e tenute separate dagli altri lotti, in contenitori etichettati, fino a quando tali piante non sono etichettate.
 
+2.
+                        
+                            
+                                L'etichetta riporta le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la dicitura «norme e regole UE»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo Stato membro di etichettatura o il relativo codice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Servizio fitosanitario regionale competente per territorio o il relativo codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il nome del fornitore o il suo numero o codice di registrazione rilasciato dal Servizio fitosanitario regionale competente per territorio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero di serie individuale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la denominazione botanica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la categoria, e per i materiali di categoria «Base» anche il numero di generazione di cui all'allegato II, parte 4; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la denominazione della varieta' e, se del caso, del clone. Nel caso dei portinnesti non appartenenti a una varieta', il nome della specie o dell'ibrido interspecifico in questione. Riguardo alle piante da frutto innestate, tali informazioni sono fornite per il portinnesto e per il nesto. Riguardo alle varieta' per le quali una domanda di registrazione ufficiale o una privativa per ritrovati vegetali e' ancora in sospeso, si indica: «denominazione proposta» e «domanda in sospeso». In caso di varieta' oggetto di privativa vegetale l'indicazione «PVR» (plant variety rights) subito dopo il nome; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la dicitura «DUR» (varieta' avente una descrizione ufficialmente riconosciuta), se del caso; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la quantita'; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il paese di produzione e il relativo codice, se diverso dallo Stato membro di etichettatura; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'anno di emissione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    nel caso in cui l'etichetta originale sia sostituita da un'altra etichetta, l'anno di emissione dell'etichetta originale.
+
 L'etichetta, facilmente visibile e leggibile, e' stampata con inchiostro indelebile in lingua italiana e unificata con il passaporto delle piante conformemente al regolamento di esecuzione (UE) 2017/2313 della Commissione, del 13 dicembre 2017.
 
 Per i materiali di moltiplicazione e le piante da frutto commercializzate al di fuori del territorio nazionale, l'etichetta puo' essere redatta in una delle lingue ufficiali dell'Unione.
+
+5.
+                        
+                            
+                                Il colore dell'etichetta e': 
+ 
+                            
+                            
+                                a)
+                                
+                                    bianco con un tratto diagonale violetto per i materiali di categoria «Pre-Base»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    bianco per i materiali di categoria «Base»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    blu per i materiali di categoria «Certificato».
 
 L'etichetta e' apposta sulle piante o sulle parti di piante da commercializzare come materiali di moltiplicazione o piante da frutto. Se tali piante o parti di piante sono da commercializzare in un imballaggio, in un mazzo o in un contenitore, l'etichetta e' apposta su tale imballaggio, mazzo o contenitore. Qualora, a norma del comma 1, i materiali di moltiplicazione o le piante da frutto siano commercializzati con un'etichetta unica, essa e' apposta sull'imballaggio, sul mazzo o sul contenitore formato da tali materiali di moltiplicazione o piante da frutto.
 
@@ -638,11 +2507,82 @@ Con decreto del Ministro delle politiche agricole alimentari e forestali sono de
 
 Per la commercializzazione congiunta di materiali di categoria «Pre-Base», «Base» o «Certificato» di varieta' o di categorie diverse, e' necessario un documento di accompagnamento redatto dal fornitore interessato sotto la supervisione del Servizio fitosanitario regionale competente per territorio, ad integrazione dell'etichetta di cui all'articolo 58.
 
+2.
+                        
+                            
+                                Il documento di accompagnamento soddisfa le seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comprende le informazioni di cui all'articolo 58, comma 2, e quelle indicate sulla relativa etichetta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' redatto in una delle lingue ufficiali dell'Unione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' consegnato almeno in duplice copia (fornitore e destinatario); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accompagna i materiali dalla sede del fornitore alla sede del destinatario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riporta il nome e l'indirizzo del destinatario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indica la data di rilascio del documento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    comprende, se del caso, informazioni supplementari pertinenti per i lotti in questione.
+
 Il documento di trasporto o la fattura accompagnatoria dei materiali di moltiplicazione o delle piante da frutto, se soddisfa le prescrizioni di cui al comma 2, e' equivalente al documento di accompagnamento di cui al comma 1.
 
 Qualora le informazioni contenute nel documento di accompagnamento siano in contraddizione con le informazioni riportate sull'etichetta di cui all'articolo 58, prevalgono le informazioni riportate su tale etichetta.
 
 ## Art. 60. — Prescrizioni in materia di chiusura e imballaggio per i materiali di categoria «Pre-Base», «Base» e «Certificato»
+
+1.
+                        
+                            
+                                I materiali di categoria «Pre-Base», «Base» e «Certificato» se sono commercializzati in lotti di due o piu' piante o parti di piante, devono essere sufficientemente omogenei. Le piante o le parti di piante che compongono tali lotti soddisfano una delle seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le piante o le parti di piante si trovano in un imballaggio o in un contenitore chiuso come definito al comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le piante o le parti di piante formano parte di un mazzo chiuso come definito al comma 2.
 
 Ai fini del presente decreto, per «chiusura» si intende che un imballaggio o un contenitore e' chiuso in modo tale da non poter essere aperto senza danneggiare la chiusura e che un mazzo e' legato in modo tale che le piante o le parti di piante che lo compongono non possano essere separate senza danneggiare i legacci. L'imballaggio, il contenitore o il mazzo sono etichettati in modo tale che la rimozione dell'etichetta ne pregiudichi l'integrita' rendendola non conforme alle prescrizioni in materia di etichettatura, chiusura e imballaggio.
 
@@ -651,6 +2591,73 @@ Ai fini del presente decreto, per «chiusura» si intende che un imballaggio o u
 I materiali CAC sono commercializzati corredati di un documento redatto dal fornitore in conformita' ai commi 2, 3 e 4, di seguito «documento del fornitore».
 
 Il documento del fornitore non deve essere simile al documento di accompagnamento di cui all'articolo 59, in modo da evitare ogni possibile confusione tra tali documenti.
+
+3.
+                        
+                            
+                                Il documento del fornitore contiene almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la dicitura «norme e regole UE»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome dello Stato membro in cui il documento e' stato redatto o il relativo codice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'organismo ufficiale responsabile o il relativo codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il nome del fornitore o il suo numero o codice di registrazione rilasciato dall'organismo ufficiale responsabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero di serie individuale, il numero della settimana o il numero della partita; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la denominazione botanica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la dicitura «materiali CAC»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la denominazione della varieta' e, se del caso, del clone. Nel caso dei portainnesti non appartenenti a una varieta': il nome della specie o dell'ibrido interspecifico in questione. Riguardo alle piante da frutto innestate, tali informazioni sono fornite per il portainnesto e per il nesto. Riguardo alle varieta' per le quali una domanda di registrazione ufficiale o di privativa per ritrovati vegetali e' ancora in sospeso, si indica: «denominazione proposta» e «domanda in sospeso»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la data di emissione del documento.
 
 Qualora sia apposto ai materiali CAC, il documento del fornitore e' di colore giallo.
 
@@ -662,9 +2669,84 @@ I materiali di moltiplicazione delle piante da frutto e le piante da frutto qual
 
 ## Art. 62. — Condizioni generali per la commercializzazione
 
+1.
+                        
+                            
+                                Fatte salve le norme nazionali e dell'Unione vigenti in materia fitosanitaria, le piantine di piante ortive ed i materiali di moltiplicazione di piante ortive, ad eccezione delle sementi, possono essere commercializzati soltanto da fornitori riconosciuti e se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono esenti dagli organismi nocivi riportati nell'allegato II, parte 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono accompagnati da un documento di commercializzazione, rilasciato dal fornitore, che riporta le informazioni previste nell'allegato IV; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fanno riferimento alla denominazione di una varieta' ufficialmente iscritta appartenente ai generi ed alle specie di cui all'allegato I sezione B, oppure ad una varieta' ufficialmente iscritta in almeno uno Stato membro, se appartenente a generi o specie diversi da quelli di cui all'allegato I, sezione B.
+
 Se sul documento di commercializzazione, di cui al comma 1, lettera b), figura una dichiarazione ufficiale, questa dovra' essere chiaramente distinta da tutti gli altri elementi in esso contenuti.
 
+3.
+                        
+                            
+                                Nel caso di fornitura al dettaglio ad un consumatore finale non professionista, in alternativa al documento di commercializzazione i materiali devono essere corredati almeno dalle seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione dell'azienda fornitrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione botanica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    varieta'.
+
 Qualora i prodotti ottenuti dalle piantine di piante ortive o dai materiali di moltiplicazione di piante ortive, diversi dalle sementi, siano destinati ad essere utilizzati in qualita' di alimenti o in alimenti rientranti nell'ambito di applicazione dell'articolo 3 o in qualita' di mangime in un mangime rientrante nell'ambito di applicazione dell'articolo 15 del regolamento (CE) n. 1829/2003, il materiale di moltiplicazione e le piante da frutto interessati sono immessi sul mercato solo se l'alimento o il mangime derivati da tale materiale sono stati autorizzati a norma del suddetto regolamento.
+
+5.
+                        
+                            
+                                In deroga al disposto di cui al comma 1, fatte salve le norme in materia fitosanitaria, puo' essere autorizzata dal Ministero l'immissione sul mercato di quantitativi appropriati di materiali di moltiplicazione e di piantine di piante ortive destinati a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prove o a scopi scientifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori di selezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contribuire alla conservazione della diversita' genetica.
 
 Con provvedimento del Ministro delle politiche agricole alimentari e forestali, da adottare entro centottanta giorni dalla data di entrata in vigore del presente provvedimento, sono definite le modalita' di applicazione della deroga di cui al comma 5.
 
@@ -693,6 +2775,31 @@ E' istituito presso il Ministero delle politiche agricole alimentari e forestali
 
 Il Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale effettua il coordinamento delle attivita' tecnico-amministrative e tecnico-scientifiche relative alla qualificazione del materiale di propagazione vegetale con requisiti supplementari rispetto a quanto previsto dal Titolo IV, Capi I, II e III.
 
+3.
+                        
+                            
+                                Il Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale e' costituito da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Servizio fitosanitario centrale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Servizi fitosanitari regionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Soggetto Gestore.
+
 Possono essere oggetto di qualificazione nazionale le specie di interesse agrario che rivestono particolare interesse economico per l'agricoltura professionale nazionale, nonche' ogni altra specie di rilevante interesse generale.
 
 Possono essere oggetto di qualificazione nazionale esclusivamente i materiali di moltiplicazione di varieta' iscritte al Registro nazionale delle varieta' di cui all'articolo 6 o equivalente registro di un Paese membro dell'Unione europea, rispondenti ai requisiti di cui al presente decreto per le specie e le categorie in questione, nonche' di altre specie non regolamentate di cui si ritiene opportuno avviare uno schema di qualificazione volontaria.
@@ -703,9 +2810,115 @@ Il Sistema nazionale volontario di qualificazione del materiale di propagazione 
 
 Attivita' del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
 
+1.
+                        
+                            
+                                Il Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce i disciplinari di produzione per la qualificazione nazionale delle singole specie o gruppi di specie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce i criteri per il riconoscimento dei Centri per la conservazione per la premoltiplicazione e dei Centri per la premoltiplicazione che possono operare nell'ambito del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    predispone le verifiche ispettive sull'idoneita' dei centri di conservazione e dei centri di premoltiplicazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valuta l'eventuale equivalenza di schemi di certificazione di altri Paesi ai fini dello scambio di materiali di moltiplicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    definisce le modalita' di presentazione delle domande relative alle attivita' del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    definisce le modalita' di esecuzione delle attivita' di controllo nel processo di qualificazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    definisce i criteri e le modalita' per la realizzazione di programmi di formazione e di aggiornamento del personale che opera nel Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    definisce le modalita' per l'esecuzione degli accertamenti dei requisiti dei materiali di moltiplicazione per la qualificazione nazionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    determina il costo delle etichette di qualificazione del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale e la ripartizione dei proventi derivanti dalla vendita delle stesse tra le diverse attivita'; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    definisce le misure da adottare nei confronti dei soggetti operanti nell'ambito del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale che non rispettano le prescrizioni del presente Titolo.
+
 I criteri e le modalita' di esecuzione delle attivita' di cui al comma 1 sono adottati con provvedimento del Ministro delle politiche agricole alimentari e forestali, acquisito il parere del Gruppo di lavoro permanente.
 
 ## Art. 67. — Funzioni del Servizio fitosanitario centrale
+
+1.
+                        
+                            
+                                Al Servizio fitosanitario centrale compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coordinamento delle attivita' inerenti al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riconoscimento, con specifico provvedimento, delle accessioni di varieta', dei cloni e delle selezioni certificabili e l'aggiornamento del Registro delle varieta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione dei provvedimenti necessari a regolare le attivita' del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sorveglianza delle attivita' del Soggetto Gestore.
 
 Il Servizio fitosanitario centrale puo' avvalersi del Soggetto Gestore per lo svolgimento delle attivita' di cui al comma 1, lettere a) e b).
 
@@ -713,11 +2926,107 @@ Il Servizio fitosanitario centrale e' l'autorita' competente unica per il coordi
 
 ## Art. 68. — Funzioni dei Servizi fitosanitari regionali
 
+1.
+                        
+                            
+                                Ai Servizi fitosanitari regionali competono le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la ricezione delle istanze per la qualificazione nazionale dei materiali di cui agli articoli 72, 74, 75, 76, e 77; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la verifica dell'idoneita' dei fornitori (CCP, CP, CM e vivaio); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo svolgimento delle attivita' ispettive e di controllo su tutte le fasi del processo di qualificazione nazionale, secondo quanto stabilito dai disciplinari di produzione per le singole specie o gruppi di specie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'invio al Soggetto Gestore dei dati necessari per l'implementazione della banca dati del sistema informatico di cui all'articolo 70, comma 1, lettera d).
+
 I Servizi fitosanitari regionali predispongono una relazione, da inviare al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale al termine di ogni campagna di certificazione, sull'attivita' di controllo e qualificazione.
 
 Per lo svolgimento delle attivita' di cui al comma 1, i Servizi fitosanitari regionali possono avvalersi di personale tecnico specializzato, addestrato ed aggiornato attraverso corsi di formazione obbligatori, aderente al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale.
 
 ## Art. 69. — Soggetto Gestore
+
+1.
+                        
+                            
+                                Possono essere riconosciuti quale «Soggetto Gestore», soggetti privati, organizzati in forma collettiva, societaria o associata o consorziata, in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coinvolgimento in tutte le fasi della filiera produttiva ortofrutticola; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rappresentativita' a livello nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esperienza nel coordinamento e nella gestione della certificazione dei materiali di moltiplicazione delle piante da frutto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il possesso di un regolamento per garantire l'applicazione delle disposizioni di cui al presente Titolo.
+
+2.
+                        
+                            
+                                I soggetti in possesso dei requisiti di cui al comma 1 presentano istanza al Ministero corredata della seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia dell'atto costitutivo e dello Statuto del Soggetto richiedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organigramma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    libro soci; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    documentazione attestante il possesso di adeguata esperienza nel coordinamento e nella gestione della certificazione dei materiali di moltiplicazione.
 
 La qualita' di Soggetto Gestore e' attribuita con decreto del Ministero previo parere vincolante del Gruppo di lavoro permanente, di cui all'articolo 3, che esamina l'istanza, il regolamento di cui al comma 1, lettera d) e ogni altra documentazione allegata.
 
@@ -725,7 +3034,106 @@ Il riconoscimento e' revocato, con la medesima procedura di cui al comma 3 o in 
 
 ## Art. 70. — Funzioni del Soggetto Gestore
 
+1.
+                        
+                            
+                                Al Soggetto Gestore compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la collaborazione con il Servizio fitosanitario nazionale per assicurare il buon funzionamento e il raggiungimento della qualificazione nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo svolgimento delle attivita' assegnate dal Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la stampa e la distribuzione delle etichette della qualificazione nazionale del materiale di propagazione vegetale d'intesa con il Servizio fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la predisposizione e l'aggiornamento di un sistema informatico che assicuri l'applicazione del presente decreto, compresa la tracciabilita' dei materiali prodotti nell'ambito del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale e che sia fruibile da tutti gli operatori del settore, secondo le indicazioni del Comitato fitosanitario nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la programmazione, l'organizzazione e la realizzazione di attivita' promozionali del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la realizzazione di attivita' finalizzate alla predisposizione di protocolli d'intesa per il riconoscimento reciproco di schemi di qualificazione volontaria del materiale di propagazione vegetale di altri Paesi dell'Unione europea o terzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'elaborazione di una relazione annuale da inviare al Servizio fitosanitario centrale, in via preventiva e consuntiva, sulle attivita' svolte; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la riscossione dei proventi derivanti dalla vendita delle etichette di qualificazione.
+
 ## Art. 71. — Adesione del fornitore al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
+
+1.
+                        
+                            
+                                Il fornitore che intende aderire al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale invia al Servizio fitosanitario regionale competente per territorio la domanda, che comprende almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo della sede legale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recapiti telefonici e di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elenco e indirizzo di tutte le strutture coinvolte nella filiera produttiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    numero di registrazione al RUOP.
 
 La domanda di cui al comma 1 e' corredata dell'impegno sottoscritto a rispettare le prescrizioni riportate nel presente decreto.
 
@@ -744,6 +3152,24 @@ Il Servizio fitosanitario centrale riconosce idonee le piante madri di «Pre-Bas
 ## Art. 73. — Controlli del Sistema nazionale volontario 
  di qualificazione del materiale di propagazione vegetale
 
+1.
+                        
+                            
+                                I controlli del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale sono finalizzati ad accertare che tutti i materiali di moltiplicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono ottenuti da materiale «Pre-Base» esente dagli organismi nocivi di cui all'allegato V per la specie e i generi in questione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono conservati, prodotti e sottoposti alle verifiche periodiche conformemente all'allegato V.
+
 I controlli finalizzati alla verifica dei requisiti di cui agli articoli 74, 75, 76 e 77 si basano su ispezioni visive, su indagini di laboratorio e su controlli documentali.
 
 Il Servizio fitosanitario regionale competente per territorio procede alle verifiche secondo il piano dei controlli di cui all'allegato V e accerta altresi' l'origine dei materiali di propagazione e la loro tracciabilita'.
@@ -758,9 +3184,102 @@ Il Servizio fitosanitario regionale competente per territorio qualora, in occasi
 
 Le strutture che intendono operare nelle fasi di conservazione per la premoltiplicazione (CCP) e premoltiplicazione (CP), compresi i laboratori di micropropagazione, devono essere gia' riconosciute idonee ai sensi del Titolo IV ed essere in grado di ottemperare ai disciplinari di cui all'allegato V in funzione delle specie o gruppi di specie interessate.
 
+2.
+                        
+                            
+                                Ai fini del riconoscimento dell'idoneita' di cui al comma 1 le strutture inviano una richiesta di riconoscimento di idoneita' all'indirizzo PEC del Servizio fitosanitario centrale. Tale richiesta comprende almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo della sede legale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recapiti telefonici e di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le specie o i gruppi di specie per le quali si chiede il riconoscimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'elenco e l'indirizzo di tutte le strutture coinvolte nella filiera produttiva; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il riferimento al provvedimento di riconoscimento di idoneita' ai sensi del Titolo IV.
+
 Il Servizio fitosanitario centrale, verificata l'idoneita' delle strutture candidate, anche mediante visite ispettive, e, sentito il parere del Gruppo di lavoro permanente, le autorizza con proprio provvedimento.
 
 Le strutture che intendono operare nelle fasi di moltiplicazione (CM), compresi i laboratori di micropropagazione, devono essere gia' riconosciute idonee ai sensi del Titolo IV e devono essere in grado di ottemperare alle prescrizioni di cui all'allegato V, per le specie o i gruppi di specie in questione.
+
+5.
+                        
+                            
+                                Ai fini del riconoscimento di cui al comma 4 le strutture inviano una richiesta di riconoscimento di idoneita' all'indirizzo PEC del Servizio fitosanitario regionale competente per territorio.
+Tale richiesta comprende almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo della sede legale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recapiti telefonici e di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le specie o i gruppi di specie per le quali si chiede il riconoscimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elenco e indirizzo di tutte le strutture coinvolte nella filiera produttiva; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    riferimento al provvedimento di riconoscimento di idoneita' ai sensi del Titolo IV.
 
 Il Servizio fitosanitario regionale competente per territorio, verificata l'idoneita' delle strutture candidate, anche mediante visite ispettive, le autorizza con proprio provvedimento.
 
@@ -808,11 +3327,53 @@ La produzione in vitro dei materiali di categoria «Pre-Base» e «Base» e' ese
 
 I laboratori di cui al comma 1 che intendono conseguire il riconoscimento di idoneita' per la produzione in vitro dei materiali di categoria «Pre-Base» e «Base» inviano una domanda al Servizio fitosanitario centrale.
 
+3.
+                        
+                            
+                                I laboratori di cui comma 1 devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere in possesso di adeguati locali: 
+ 1) sala o area separata per la preparazione dei substrati di coltura; 
+ 2) sala per i trapianti, debitamente attrezzata, climatizzata ed illuminata; 
+ 3) camera di crescita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispettare le norme che regolano l'attivita' di micropropagazione di cui all'allegato V per i generi e le specie in questione.
+
 Il Ministro delle politiche agricole alimentari e forestali riconosce con proprio provvedimento, sentito il parere del Gruppo di lavoro permanente, i laboratori di micropropagazione idonei per la produzione in vitro dei materiali di categoria «Pre-Base» e «Base».
 
 Per la produzione in vitro dei materiali di categoria «Pre-Base» e «Base» i CCP e i CP possono, altresi', avvalersi di uno o piu' laboratori di micropropagazione terzi, di cui al comma 1, attraverso specifiche convenzioni autorizzate dal Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale.
 
 I laboratori di micropropagazione che intendono conseguire il riconoscimento di idoneita' per la produzione in vitro dei materiali di categoria «Certificato», inviano una domanda al Servizio fitosanitario competente per territorio.
+
+7.
+                        
+                            
+                                I laboratori di micropropagazione di cui al comma 6, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere in possesso di adeguati locali: 
+ 1) sala o area separata per la preparazione dei substrati di coltura; 
+ 2) sala per i trapianti, debitamente attrezzata, climatizzata ed illuminata; 
+ 3) camera di crescita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispettare le norme che regolano l'attivita' di micropropagazione di cui all'allegato V per i generi e le specie in questione.
 
 Il Servizio fitosanitario regionale competente per territorio, con proprio provvedimento, riconosce i laboratori di micropropagazione per la produzione in vitro dei materiali di categoria «Certificato» idonei.
 
@@ -963,4 +3524,78 @@ Le strutture gia' riconosciute idonee come CCP, CP e CM, ai sensi del decreto de
 Le strutture gia' individuate per le prove di coltivazione delle varieta' di piante da frutto ai fini dell'iscrizione nel Registro nazionale e al rilascio di titoli di protezione per nuove varieta' ((...)), ai sensi del decreto del Ministro delle politiche agricole alimentari, forestali e del turismo 23 maggio 2019, mantengono il riconoscimento di idoneita'.
 
 ## Art. 87. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Ministro dell'agricoltura e delle foreste 2 luglio 1991, n. 289, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 209 del 6 giugno 1991; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Ministro per il coordinamento delle politiche agricole, alimentari e forestali 29 ottobre 1993, recante «Norme tecniche per la produzione di materiale di propagazione vegetale certificato degli agrumi», pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 265 dell'11 novembre 1993; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministro per il coordinamento delle politiche agricole, alimentari e forestali 29 ottobre 1993, recante «Norme tecniche per la produzione di materiale di propagazione vegetale certificato delle Pomoidee», pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 265 dell'11 novembre 1993; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro per il coordinamento delle politiche agricole, alimentari e forestali 29 ottobre 1993, recante «Norme tecniche per la produzione di materiale di propagazione vegetale certificato del noce», pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 265 dell'11 novembre 1993; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro delle risorse agricole alimentari e forestali 14 aprile 1997, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 126 del 2 giugno 1997; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto legislativo 25 giugno 2010, n. 124, ad eccezione dell'articolo 4, commi 2, 3 e 4, dell'articolo 6, comma 6 e dell'articolo 8; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto legislativo 7 luglio 2011, n. 124 ad eccezione dell'articoli 8, commi 2 e 3 e dell'articolo 10; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto del Ministro delle politiche agricole alimentari e forestali 4 marzo 2016, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 85 del 12 aprile 2016; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto del Ministero delle politiche agricole alimentari e forestali 6 dicembre 2016, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 14 del 18 gennaio 2017, ad eccezione degli articoli 5, comma 1, lettera c), e 12, comma 3, lettera g); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto del Ministro delle politiche agricole alimentari, forestali e del turismo 19 marzo 2019, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 119 del 23 maggio 2019.
 

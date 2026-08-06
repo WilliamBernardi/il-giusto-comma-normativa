@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2013-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,108 @@ Al sangue umano ed ai suoi componenti che vengano raccolti e controllati per ess
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «sangue»: il sangue intero prelevato da un donatore e trattato per la trasfusione o per l'elaborazione di prodotti derivati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «componenti del sangue» o «emocomponenti»: i componenti del sangue (globuli rossi, globuli bianchi, piastrine, plasma) che possono essere preparati a fini terapeutici con vari metodi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «prodotto del sangue»: qualunque prodotto terapeutico derivato dal sangue o dal plasma umano;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «trasfusione autologa»: la trasfusione di sangue o di emocomponenti ottenuta attraverso predeposito, in cui il donatore e il ricevente sono la stessa persona;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «servizio trasfusionale»: le strutture e le relative articolazioni organizzative, comprese quelle per le attivita' di raccolta, previste dalla normativa vigente secondo i modelli organizzativi regionali, che sono responsabili sotto qualsiasi aspetto della raccolta e del controllo del sangue umano e dei suoi componenti, quale ne sia la destinazione, nonche' della lavorazione, conservazione, distribuzione e assegnazione quando gli stessi sono destinati alla trasfusione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «unita' di raccolta»: strutture incaricate della raccolta, previa autorizzazione delle regioni o province autonome competenti, gestite dalle associazioni dei donatori volontari di sangue convenzionate e costituite ai sensi della normativa vigente; le unita' di raccolta, gestite singolarmente o in forma aggregata dalle predette associazioni, operano sotto la responsabilita' tecnica del servizio trasfusionale di riferimento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «incidente grave»: qualunque evento negativo collegato alla raccolta, al controllo, alla lavorazione, alla conservazione, alla distribuzione e alla assegnazione di sangue e di emocomponenti, che puo' provocare la morte o determinare condizioni suscettibili di mettere in pericolo la vita o di produrre invalidita' o incapacita' del donatore o del paziente o che ne determina o prolunga l'ospedalizzazione o la morbilita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                «reazione indesiderata grave»: la risposta inattesa del donatore o del paziente, connessa con la raccolta o la trasfusione di sangue e di emocomponenti, che provoca la morte o mette in pericolo la vita o produce invalidita' o incapacita' del donatore o del paziente ovvero determina o prolunga l'ospedalizzazione o la morbilita';
+
+                            
+                        
+                        
+                            i)
+                            
+                                «rilascio di emocomponenti»: l'operazione che consente di liberare dalla quarantena componenti del sangue mediante sistemi e procedure idonei ad assicurare che il prodotto finito soddisfi le condizioni previste per il rilascio;
+
+                            
+                        
+                        
+                            l)
+                            
+                                «esclusione»: la sospensione dell'idoneita' di una persona a donare sangue o emocomponenti; tale sospensione puo' essere definitiva o temporanea;
+
+                            
+                        
+                        
+                            m)
+                            
+                                «distribuzione»: la cessione di sangue o di emocomponenti ad altri servizi trasfusionali e a produttori di derivati del sangue e del plasma. E' esclusa dalla distribuzione l'assegnazione del sangue o dei suoi componenti a scopo di trasfusione;
+
+                            
+                        
+                        
+                            n)
+                            
+                                «assegnazione»: attribuzione al paziente di determinate, specifiche unita' di sangue o di emocomponenti per l'uso trasfusionale;
+
+                            
+                        
+                        
+                            o)
+                            
+                                «emovigilanza»: insieme delle procedure di sorveglianza organizzate relative agli incidenti o alle reazioni indesiderate gravi o inaspettate dei donatori o dei riceventi, nonche' al controllo epidemiologico dei donatori;
+
+                            
+                        
+                        
+                            p)
+                            
+                                «ispezione»: controllo ufficiale e obiettivo, effettuato in conformita' a norme esistenti al fine di valutare il rispetto del presente decreto e di altre normative pertinenti e volto anche all'individuazione di problemi.
+
 ## Art. 3. — (( (Applicazione) ))
 
 ((
@@ -70,11 +172,61 @@ Le regioni e le province autonome, in attuazione della normativa vigente in mate
 
 Le ispezioni o misure di controllo di cui al comma 1 sono eseguite a intervalli di tempo regolari a distanza non superiore a due anni.
 
+3.
+                    
+                        
+                            Il personale incaricato dalle autorita' competenti di effettuare tali ispezioni e misure di controllo ha il potere di:
+ 
+                        
+                        
+                            a)
+                            
+                                ispezionare nel proprio territorio i servizi trasfusionali e le unita' di raccolta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                prelevare campioni a fini di esame ed analisi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esaminare qualunque documento riguardante l'oggetto dell'ispezione, nel rispetto delle disposizioni vigenti che pongano limiti a tale potere per quanto riguarda le descrizioni dei metodi di preparazione.
+
 Le regioni e le province autonome organizzano ispezioni e altre misure di controllo adeguate in caso di incidenti gravi o reazioni indesiderate gravi o sospetti in tale senso conformemente all'articolo 12.
 
 Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
 ## Art. 6. — Persona responsabile
+
+1.
+                    
+                        
+                            L'ente cui afferisce il servizio trasfusionale ne designa la persona responsabile, come tale tenuta ad esercitare i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                garantire che ciascuna unita' di sangue o di emocomponenti, a qualunque uso destinata, sia raccolta e controllata e, se destinata alla trasfusione, sia lavorata, conservata, distribuita e assegnata conformemente alle norme vigenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornire le informazioni necessarie per le procedure di autorizzazione e accreditamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicurare che il servizio trasfusionale soddisfi i requisiti di cui agli articoli 7, 8, 9, 10 e 11;
 
 La persona responsabile di cui al comma 1, possiede diploma di laurea in medicina e chirurgia ed i requisiti previsti dalla normativa vigente per l'accesso alla direzione di struttura complessa nella disciplina di medicina trasfusionale.
 
@@ -174,6 +326,31 @@ L'attivita' di formazione nel settore ispettivo, anche allo scopo di promuovere 
 ## Art. 22. — Protezione dei dati e tutela della riservatezza
 
 Tutti i dati, comprese le informazioni di carattere genetico, raccolti ai sensi del presente decreto e delle disposizioni vigenti, a cui hanno accesso terzi, sono resi anonimi, in modo tale che il donatore non sia piu' identificabile.
+
+2.
+                    
+                        
+                            A tale fine e' garantito che:
+ 
+                        
+                        
+                            a)
+                            
+                                sono adottate misure di protezione dei dati e misure di salvaguardia per prevenire aggiunte, soppressioni o modifiche non autorizzate negli archivi riguardanti i donatori o nei registri di donatori esclusi, o trasferimenti indebiti di informazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono poste in essere procedure volte a risolvere le divergenze tra i dati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non avviene alcuna divulgazione indebita di tali informazioni, garantendo al tempo stesso la tracciabilita' delle donazioni.
 
 ## Art. 23. — Relazioni
 

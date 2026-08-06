@@ -8,8 +8,8 @@ codice_redazionale: 009G0039
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -57,6 +57,31 @@ Gli interessati presentano apposita richiesta su modulistica predisposta dalla S
 
 I contrassegni sono rilasciati entro dieci giorni dalla ricezione della richiesta degli interessati.
 
+3.
+                    
+                        
+                            Il rilascio del contrassegno puo' essere differito per un massimo di trenta giorni dalla ricezione della richiesta quando ricorrano i seguenti motivi:
+ 
+                        
+                        
+                            a)
+                            
+                                necessita' di verificare, in presenza di seri indizi, circostanze ed elementi rilevanti ai fini dell'apposizione del contrassegno e del regolare assolvimento dei diritti relativi alle opere dell'ingegno in Italia o all'estero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                peculiari e specifiche esigenze segnalate espressamente dal richiedente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                intese espressamente raggiunte con il richiedente.
+
 La SIAE puo' comunque sospendere il rilascio dei contrassegni per il mancato pagamento dei relativi oneri.
 
 Quando si renda necessario differire o sospendere le operazioni di rilascio dei contrassegni, la SIAE da' comunicazione all'interessato nei dieci giorni dalla ricezione della richiesta indicando le ragioni della sospensione o del differimento. La SIAE puo', altresi', rifiutare il rilascio dei contrassegni per mancanza o incompletezza di uno degli elementi della richiesta indicati al comma 2, nonche' per la mancata indicazione degli elementi contenuti nella attestazione prevista dal comma 2 dell'articolo 181-bis della legge 22 aprile 1941, n. 633. Nel caso di richieste di quantitativi particolarmente elevati di contrassegni il rilascio dei medesimi puo' avvenire oltre il termine indicato sulla base di scaglioni definiti tra la SIAE e i soggetti richiedenti.
@@ -68,13 +93,130 @@ L'importatore richiede il rilascio dei contrassegni ai sensi del comma 2 e comun
 
 ## Art. 5. — Supporti contenenti programmi per elaboratore ovvero multimediali
 
+1.
+                    
+                        
+                            Ai fini dell'applicazione del comma 1 dell'articolo 181-bis della legge 22 aprile 1941, n. 633, come introdotto dall'articolo 10 della legge 10 agosto 2000, n. 248, per supporti contenenti programmi per elaboratore ovvero multimediali si intendono i supporti comunque confezionati contenenti programmi destinati ad essere posti in commercio o ceduti in uso a qualunque titolo a fini di lucro ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                i programmi aventi carattere di sistema operativo, applicazione o archivio di contenuti multimediali prodotti in serie sui supporti di cui alla alinea del presente articolo, fruibili mediante collegamento e lettura diretta dei supporti, quali dischetti magnetici (floppy disk), CD ROM, schede di memoria (memory card), chiavi usb, microchip, schede SD o attraverso installazione mediante il medesimo supporto su altra memoria di massa destinata alla fruizione diretta mediante personal computer;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i programmi destinati alla lettura ed alla fruizione su apparecchi specifici per videogiochi, quali playstation o consolle, comunque denominati, ed altre applicazioni multimediali quali player audio o video, nonche' i programmi destinati alla fruizione mediante apparecchi di telefonia mobile e lettori di Mp3.
+
 Sono comunque ricompresi nell'ambito di applicazione del presente regolamento i programmi per elaboratore ovvero multimediali contenenti applicazioni di tipo videogioco, enciclopedia ovvero dizionario, destinati a qualsivoglia forma di intrattenimento o per fruizione da parte di singoli utilizzatori o di gruppi in ambito privato, scolastico o accademico.
+
+3.
+                    
+                        
+                            Sono esclusi dall'ambito di applicazione dell'articolo 181-bis della legge 22 aprile 1941, n. 633, e quindi non soggetti ad obbligo di vidimazione o invio della dichiarazione identificativa sostitutiva, i supporti contenenti programmi per elaboratore aventi carattere di sistema operativo:
+ 
+                        
+                        
+                            a)
+                            
+                                accessoriamente distribuiti nell'ambito della vendita di contratti di licenza d'uso multipli sulla base di accordi preventivamente conclusi con la SIAE;
+
+                            
+                        
+                        
+                            b)
+                            
+                                distribuiti gratuitamente con il consenso del titolare dei diritti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                distribuiti mediante scaricamento diretto (download) e conseguente installazione sul personal computer dell'utente attraverso server o siti Internet se detti programmi non vengano registrati a scopo di profitto in supporti diversi dall'elaboratore personale dell'utente, salva la copia privata (back-up);
+
+                            
+                        
+                        
+                            d)
+                            
+                                distribuiti esclusivamente al fine di far funzionare o per gestire specifiche periferiche o interfacce (driver) oppure destinate all'aggiornamento del sistema o alla risoluzione di conflitti software ed hardware se derivanti da software gia' installato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                destinati esclusivamente al funzionamento di apparati o sistemi di telecomunicazione quali modem o terminali, sistemi GPRS (General Pocket Radio Service) o inclusi in apparati audio/video e destinati al funzionamento degli stessi o inclusi in apparati radiomobili cellulari, se con i medesimi confezionati e distribuiti in quanto destinati esclusivamente al funzionamento degli stessi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                inclusi in apparati di produzione industriale, di governo di sistemi di trasporto e mobilita', di impianti di movimentazione e trasporto merci o in apparati destinati al controllo ovvero alla programmazione del funzionamento di elettrodomestici, se con i medesimi confezionati e distribuiti in quanto destinati esclusivamente al funzionamento degli stessi;
+
+                            
+                        
+                        
+                            g)
+                            
+                                inclusi in apparati di analisi biologica o chimica ovvero di gestione di apparati di tipo medico, o sanitario, di misurazione ed analisi se con i medesimi prodotti e distribuiti in quanto destinati esclusivamente al funzionamento degli stessi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                destinati esclusivamente alla funzione di ausilio o supporto per le persone disabili ai sensi della legge 5 febbraio 1992, n. 104;
+
+                            
+                        
+                        
+                            i)
+                            
+                                aventi carattere di sistema operativo, applicazione o distribuzione di servizi informatici (server) destinati ad essere preinstallati su di un elaboratore elettronico e distribuiti all'utente finale insieme ad esso.
 
 ## Art. 6. — Dichiarazione identificativa sostitutiva del contrassegno
 
 Nei casi indicati dal comma 3 dell'articolo 181-bis della legge 22 aprile 1941, n. 633, l'autore ovvero il titolare dei diritti, o un suo delegato, puo' rendere alla SIAE, in sostituzione del contrassegno, l'apposita dichiarazione identificativa. Tale dichiarazione non comporta oneri per il richiedente.
 
 Nei casi previsti dal comma 1, il titolare dei diritti o un suo delegato invia alla SIAE la dichiarazione identificativa, sostitutiva del contrassegno, anche in via cumulativa con riferimento a determinate tipologie di supporti preventivamente indicati. Tale dichiarazione comprova la legittimita' dei supporti stessi anche ai fini della tutela penale di cui all'articolo 171-bis della legge 22 aprile 1941, n. 633, come modificata dall'articolo 13 della legge 18 agosto 2000, n. 248.
+
+3.
+                    
+                        
+                            La dichiarazione identificativa autocertifica la conformita' della tipologia dei supporti alle previsioni di cui al terzo comma dell'art. 181-bis della legge 22 aprile 1941, n. 633, e di cui al presente regolamento, e, a tal fine, contiene le seguenti informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                titolo del prodotto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nome e indirizzo del titolare del diritto o del suo delegato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                codice identificativo del prodotto, se disponibile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attestazione di assolvimento di tutti gli obblighi sanciti dalla legge sul diritto d'autore, qualora i programmi contengano opere dell'ingegno tutelate dalla legge 22 aprile 1941, n. 633, o loro brani o parti.
 
 La dichiarazione identificativa puo' essere effettuata anche cumulativamente per piu' versioni di prodotti informatici. A tal fine e' sufficiente indicare il titolo del prodotto base, senza necessita' di indicare separatamente le diverse versioni del medesimo prodotto, fra cui, in particolare, le diverse versioni linguistiche, gli aggiornamenti, le versioni distinte per canale di distribuzione o per utente finale.
 

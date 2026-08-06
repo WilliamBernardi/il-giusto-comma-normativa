@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1998-10-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -65,9 +65,73 @@ Le prove consistono in test di domande a risposte multiple, riguardanti anche la
 
 La Commissione dispone di 150 punti, (uno per ogni risposta esatta) per la valutazione delle prove teoriche e pratiche. Il numero totale delle risposte esatte (150) puo' non coincidere con quello dei test in quanto, accanto ai test a risposte multiple (di cui, in genere, una sola esatta) possono coesistere casi pratici simulati organizzati in gruppi di risposte multiple (ognuno dei quali ne prevede, in genere, una esatta).
 
+3.
+                        
+                            
+                                I test sono articolati come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    test sulla preparazione specifica nella disciplina oggetto d'esame per un minimo del 60% del punteggio disponibile (compresi i casi pratici simulati);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    test sulla preparazione generale nella disciplina oggetto d'esame sino ad un massimo del 20% del punteggio disponibile;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    test sulle capacita' organizzative e direzionali nella disciplina oggetto d'esame per un punteggio di norma corrispondente al 20% del punteggio disponibile (compresi eventuali casi pratici simulati).
+
 I test, compresi i casi pratici simulati, possono essere formulati in modo che la risposta prescelta debba essere motivata; in tal caso il candidato deve non solo indicare la risposta esatta, ma anche esplicitare, nell'apposito spazio del questionario, le ragioni per le quali ha dato la risposta; la risposta data, anche se esatta, si considera comunque errata in caso di mancata, insufficiente o inesatta motivazione.
 
 ## Art. 5. — Curriculum professionale
+
+1.
+                        
+                            
+                                Nel curriculum professionale sono valutate distintamente le attivita' professionali, di studio, direzionali-organizzative, rela- tive all'ultimo quinquennio antecedente alla data del bando di esame, formalmente documentate con riferimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla tipologia delle istituzioni in cui sono allocate le strutture presso le quali il candidato ha svolto la sua attivita' e alla tipologia delle prestazioni erogate dalle strutture medesime;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla posizione funzionale del candidato nelle strutture ed alle sue competenze con indicazione di eventuali specifici ambiti di autonomia professionale con funzioni di direzione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla tipologia quali-quantitativa delle prestazioni effettuate dal candidato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai soggiorni di studio o di addestramento professionale per attivita' attinenti alla disciplina in rilevanti strutture italiane o estere di durata non inferiore a tre mesi con esclusione dei tirocini obbligatori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla attivita' didattica presso Scuole universitarie per il conseguimento di diploma universitario, laurea e/o specializzazione o presso Scuole per la formazione di personale sanitario con indicazione delle ore annue di insegnamento.
 
 Nel curriculum e' valutata, altresi', la produzione scientifica strettamente pertinente alla disciplina d'esame, edita su riviste italiane e straniere. Al curriculum, oltre all'elenco cronologico delle pubblicazioni, possono essere allegate le pubblicazioni ritenute piu' significative fino ad un massimo di cinque.
 
@@ -288,8 +352,83 @@ Le idoneita' elencate all'art. 14 e contrassegnate con l'asterisco sono di norma
 
 ## Art. 16. — Requisiti di ammissione per le categorie professionali dei medici, veterinari, farmacisti, odontoiatri, biologi, chimici, fisici e psicologi.
 
+1.
+                        
+                            
+                                I requisiti di ammissione per le categorie professionali dei medici, dei veterinari, dei farmacisti, degli odontoiatri, dei biologi, dei chimici e degli psicologi sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrizione all'albo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio di sette anni di cui almeno cinque nella disciplina oggetto dell'esame o in disciplina equipollente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione nella disciplina oggetto dell'esame o in disciplina equipollente.
+
+2.
+                        
+                            
+                                I requisiti di ammissione per la categoria professionale dei fisici sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea in fisica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio di sette anni di cui almeno cinque nella disciplina oggetto dell'esame o in disciplina equipollente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione nella disciplina oggetto dell'esame o in disciplina equipollente.
+
 ## Art. 17. — Requisiti di ammissione per la disciplina
  di direzione sanitaria della unita' sanitaria locale
+
+1.
+                        
+                            
+                                Per la disciplina di direzione sanitaria della unita' sanitaria locale i requisiti di ammissione sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrizione all'albo dei medici chirurghi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio di sette anni in qualsiasi disciplina;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specializzazione nelle discipline indicate nella tabella B per la direzione sanitaria di USL.
 
 ## Art. 18. — Requisiti di ammissione per la disciplina
  di direzione sanitaria ospedaliera
@@ -312,6 +451,30 @@ Le commissioni esaminatrici sono cosi' composte:
  Segretario:
  un dipendente del Ministero della sanita' di qualifica funzionale non inferiore alla VII.
 
+2.
+                        
+                            
+                                Ove siano previste idoneita' con accesso riservato a piu' categorie professionali, le commissioni esaminatrici sono cosi' composte:
+ Presidente:
+ un dirigente del Ministero della sanita';
+ Componenti:
+ dirigenti di secondo livello sorteggiati dagli elenchi prefissati dal Ministero della sanita' ai sensi dell'art. 12 del presente decreto, garantendo la presenza:
+ 
+                            
+                            
+                                a)
+                                
+                                    di un membro per ciascuna categoria professionale cui e' consentito l'accesso all'idoneita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ove il numero complessivo dei componenti la commissione risulti pari e' sorteggiato un ulteriore membro fra gli aventi diritto di tutte le categorie professionali per le quali e' previsto l'accesso all'esame di idoneita'.
+ Segretario:
+ un dipendente del Ministero della sanita' di qualifica funzionale non inferiore alla VII.
+
 Limitatamente alla prima sessione degli esami di idoneita' per le discipline di direzione sanitaria ospedaliera e di direzione sanitaria della unita' sanitaria locale sono componenti delle commissioni esaminatrici due dirigenti di ruolo di secondo livello rispettivamente nella disciplina di igiene e organizzazione dei servizi ospedalieri e nelle discipline di igiene e organizzazione dei servizi ospedalieri, igiene, epidemiologia e sanita' pubblica, organizzazione dei servizi sanitari di base, sorteggiati dagli elenchi di cui al decreto ministeriale 2 settembre 1993.
 
 Resta fermo quanto disposto dall'art. 12, comma 9.
@@ -322,12 +485,102 @@ Ai componenti delle commissioni esaminatrici e al personale addetto alla sorvegl
 
 ## Art. 21. — Disposizioni generali
 
+1.
+                        
+                            
+                                Nei certificati di servizio devono essere indicate le posizioni funzionali o le qualifiche attribuite, le discipline nelle quali i servizi sono stati prestati, nonche' le date iniziali e terminali dei relativi periodi di attivita'. Per le posizioni e gli ambiti di autonomia di cui all'art. 5, comma 1, lettera b), devono essere indicati gli estremi dei provvedimenti deliberativi. Le certificazioni relative ai punti 
+                            
+                            
+                                a)
+                                
+                                    e c) del comma 1, art. 5, devono essere rilasciate dal direttore sanitario dell'azienda.
+
 Ai fini della valutazione del servizio prestato dal candidato e della specializzazione posseduta dallo stesso si fa riferimento rispettivamente alle tabelle A e B allegate al presente decreto. Le tabelle sono modificate con decreto ministeriale.
 
 L'anzianita' di servizio utile per l'ammissione agli esami di idoneita' deve essere maturata presso amministrazioni pubbliche, istituti di ricovero e cura a carattere scientifico, istituti o cliniche universitarie e Istituti zooprofilattici sperimentali salvo quanto previsto dai successivi articoli. E' valutato il servizio non di ruolo a titolo di incarico, di supplenza o in qualita' di straordinario, ad esclusione di quello prestato con qualifiche di volontariato, di precario, di borsista o similari, ed il servizio di cui al settimo comma dell'articolo unico del decreto legge 23 dicembre 1978, n. 817, convertito in legge il 19 febbraio 1979, n. 54. Il triennio di formazione di cui all'art. 17 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, e' valutato con riferimento al servizio effettivamente prestato nelle singole disci- pline.
 
 ## Art. 22. — Criteri di equiparazione dei servizi prestati
  presso enti o strutture sanitarie
+
+1.
+                        
+                            
+                                I servizi prestati nelle amministrazioni pubbliche, negli enti, settori e presidi di seguito indicati sono equiparati alle discipline e ai servizi come segue:
+ 1) Consorzi provinciali antitubercolari: malattie dell'apparato respiratorio.
+ 2) Ospedali psichiatrici e centri di igiene mentale: psichiatria.
+ 3) Presidi multizonali di prevenzione e laboratori di igiene e profilassi in relazione al settore di attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    Microbiologia e virologia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Igiene, epidemiologia e sanita' pubblica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Biochimica clinica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Chimica analitica;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Igiene degli alimenti e della nutrizione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Fisica sanitaria.
+ 4) Istituzioni provinciali di assistenza all'infanzia: pediatria.
+ 5) Ufficiale sanitario di ruolo in posto specifico o medico igienista: igiene, epidemiologia e sanita' pubblica.
+ 6) Medico condotto: organizzazione dei servizi sanitari di base.
+ 7) Funzionario medico del Ministero della sanita', delle regioni, delle provincie autonome di Trento e Bolzano, dell'agenzia per i servizi sanitari regionali:
+ a) igiene, epidemiologia e sanita' pubblica;
+ b) direzione sanitaria di USL;
+ c) direzione sanitaria ospedaliera;
+ d) organizzazione dei servizi sanitari di base.
+ 8) Medico del lavoro o ispettore medico del lavoro: medicina del lavoro e sicurezza degli ambienti di lavoro.
+ 9) Medico scolastico: organizzazione dei servizi sanitari di base.
+ 10) Funzionari medici degli ex enti mutualistici:
+ a) organizzazione dei servizi sanitari di base;
+ b) medicina legale.
+ 11) Funzionari medici dell'INAIL e dell'INPS: medicina legale.
+ 12) Funzionario veterinario del Ministero della sanita', delle regioni, delle provincie autonome di Trento e Bolzano, dell'agenzia per i servizi sanitari regionali, degli istituti zooprofilattici sperimentali di strutture gia' di pertinenza di comuni, provincie o loro consorzi:
+ a) sanita' animale;
+ b) igiene della produzione, trasformazione, commercializzazione, conservazione e trasporto degli alimenti di origine animale e loro derivati;
+ c) igiene degli allevamenti e delle produzioni zootecniche.
+ 13) Funzionario chimico del Ministero della sanita', delle regioni, delle provincie autonome di Trento e Bolzano, dell'agenzia per i servizi sanitari regionali, di strutture gia' di pertinenza di provincie, di comuni o loro consorzi, di presidi multizonali di prevenzione:
+ a) igiene degli alimenti e della nutrizione.
+ 14) Funzionario farmacista del Ministero della sanita', delle regioni, delle provincie autonome di Trento e Bolzano, dell'agenzia per i servizi sanitari regionali o di Ente pubblico o come farmacista presso farmacie di ente pubblico:
+ a) farmacia ospedaliera;
+ b) farmaceutica territoriale.
+ 15) Funzionario fisico del Ministero della sanita', delle regioni, delle provincie autonome di Trento e Bolzano, dell'agenzia per i servizi sanitari regionali:
+ a) fisica sanitaria.
+ 16) Funzionario biologo del Ministero della sanita', delle regioni, delle provincie autonome di Trento e Bolzano, dell'agenzia per i servizi sanitari regionali:
+ a) igiene degli alimenti e della nutrizione.
+ 17) Biologi dei centri trasfusionali limitatamente alle attivita' di analisi immunoematologiche:
+ a) patologia diagnostica clinica.
+ 18) Funzionario psicologo del Ministero della sanita', delle regioni, delle provincie autonome di Trento e Bolzano, dell'agenzia per i servizi sanitari regionali:
+ a) psicologia.
 
 ## Art. 23. — Criteri di equiparazione dei servizi prestati
  presso istituti o enti con ordinamenti particolari
@@ -388,6 +641,45 @@ Le idoneita' conseguite in base alla pregressa normativa e non piu' ricomprese f
 ## Art. 27. — Deroghe transitorie
 
 Coloro che abbiano maturato un'anzianita' di servizio di dieci anni nella disciplina oggetto dell'esame alla data di scadenza del primo bando degli esami di idoneita' nazionale all'esercizio delle funzioni di direzione, possono partecipare agli esami stessi, limitatamente alle prime tre sessioni, a prescindere dal possesso del diploma di specializzazione.
+
+2.
+                        
+                            
+                                La specializzazione e' comunque richiesta per le seguenti dis- cipline:
+ 
+                            
+                            
+                                a)
+                                
+                                    anestesia e rianimazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medicina nucleare;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    radiodiagnostica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    radioterapia;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    neuroradiologia.
 
 In luogo della specializzazione in neuroradiologia sono ammesse le specializzazioni in radiologia diagnostica diagnostica, radiodiagnostica, radiologia e radiologia medica.
 

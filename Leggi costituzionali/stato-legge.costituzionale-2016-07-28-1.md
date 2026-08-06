@@ -7,8 +7,8 @@ urn: urn:nir:stato:legge.costituzionale:2016-07-28;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -70,6 +70,25 @@ L'articolo 59 della legge costituzionale n. 1 del 1963 e' sostituito dal seguent
 Al numero 2) del primo comma dell'articolo 62 della legge costituzionale n. 1 del 1963, le parole: «, delle Province e dei Comuni» sono sostituite dalle seguenti: «e dei Comuni, anche nella forma di Citta' metropolitane,».
 
 ## Art. 11. — Modifiche all'articolo 66 della legge costituzionale n. 1 del 1963
+
+1.
+                    
+                        
+                            All'articolo 66 della legge costituzionale n. 1 del 1963 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il terzo comma e' sostituito dal seguente: 
+ «La Regione decentra in detto circondario i suoi uffici»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il quarto comma e' abrogato.
 
 ## Art. 12. — Disposizioni transitorie
 

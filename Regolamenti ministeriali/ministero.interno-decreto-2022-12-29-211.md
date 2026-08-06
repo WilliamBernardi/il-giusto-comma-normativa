@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2022-12-29;211
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,6 +45,24 @@ Il programma e' elaborato dalla Scuola nazionale dell'amministrazione (di seguit
 Nel periodo del corso di formazione iniziale, i profili amministrativo-gestionali dei consiglieri sono curati dalla Direzione centrale, attraverso i propri uffici della sede didattico-residenziale.
 
 ## Art. 3. — Formazione teorico-pratica
+
+1.
+                    
+                        
+                            Il semestre di formazione teorico-pratica si articola in: 
+ 
+                        
+                        
+                            a)
+                            
+                                un periodo di attivita' didattica, della durata di tre mesi, di regola presso la sede didattico-residenziale, con prove di valutazione a cura della SNA; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un periodo di applicazione pratica, della durata di tre mesi, presso gli uffici centrali dell'Amministrazione dell'interno.
 
 Nel perseguimento degli obiettivi formativi di cui all'articolo 2, comma 1, l'attivita' didattica e' diretta a favorire l'analisi e la soluzione di problemi operativi. Nel programma del corso una parte dell'attivita' didattica e' destinata a specifici moduli per il perfezionamento di una o piu' lingue straniere, con particolare attenzione alla terminologia utilizzata nelle aree tematiche di interesse dell'Amministrazione dell'interno, nonche' per l'approfondimento delle competenze informatiche.
 

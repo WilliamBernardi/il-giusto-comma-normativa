@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -54,9 +54,98 @@ Nei casi in cui la legge prevede che il colpevole sia punito a richiesta del Min
 
 ## Art. 5. — Responsabilita' dell'ente
 
+1.
+                        
+                            
+                                L'ente e' responsabile per i reati commessi nel suo interesse o a suo vantaggio:
+ 
+                            
+                            
+                                a)
+                                
+                                    da persone che rivestono funzioni di rappresentanza, di amministrazione o di direzione dell'ente o di una sua unita' organizzativa dotata di autonomia finanziaria e funzionale nonche' da persone che esercitano, anche di fatto, la gestione e il controllo dello stesso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da persone sottoposte alla direzione o alla vigilanza di uno dei soggetti di cui alla lettera a).
+
 L'ente non risponde se le persone indicate nel comma 1 hanno agito nell'interesse esclusivo proprio o di terzi.
 
 ## Art. 6. — Soggetti in posizione apicale e modelli di organizzazione dell'ente
+
+1.
+                        
+                            
+                                Se il reato e' stato commesso dalle persone indicate nell'articolo 5, comma 1, lettera a), l'ente non risponde se prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'organo dirigente ha adottato ed efficacemente attuato, prima della commissione del fatto, modelli di organizzazione e di gestione idonei a prevenire reati della specie di quello verificatosi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il compito di vigilare sul funzionamento e l'osservanza dei modelli di curare il loro aggiornamento e' stato affidato a un organismo dell'ente dotato di autonomi poteri di iniziativa e di controllo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le persone hanno commesso il reato eludendo fraudolentemente i modelli di organizzazione e di gestione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non vi e' stata omessa o insufficiente vigilanza da parte dell'organismo di cui alla lettera b).
+
+2.
+                        
+                            
+                                In relazione all'estensione dei poteri delegati e al rischio di commissione dei reati, i modelli di cui alla lettera a), del comma 1, devono rispondere alle seguenti esigenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuare le attivita' nel cui ambito possono essere commessi reati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevedere specifici protocolli diretti a programmare la formazione e l'attuazione delle decisioni dell'ente in relazione ai reati da prevenire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuare modalita' di gestione delle risorse finanziarie idonee ad impedire la commissione dei reati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere obblighi di informazione nei confronti dell'organismo deputato a vigilare sul funzionamento e l'osservanza dei modelli; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    introdurre un sistema disciplinare idoneo a sanzionare il mancato rispetto delle misure indicate nel modello.
 
 I modelli di cui al comma 1, lettera a), prevedono, ai sensi del decreto legislativo attuativo della direttiva (UE) 2019/1937 del Parlamento europeo e del Consiglio del 23 ottobre 2019, i canali di segnalazione interna, il divieto di ritorsione e il sistema disciplinare, adottato ai sensi del comma 2, lettera e). (48)
 
@@ -89,7 +178,43 @@ In ogni caso, e' esclusa l'inosservanza degli obblighi di direzione o vigilanza 
 
 Il modello prevede, in relazione alla natura e alla dimensione dell'organizzazione nonche' al tipo di attivita' svolta, misure idonee a garantire lo svolgimento dell'attivita' nel rispetto della legge e a scoprire ed eliminare tempestivamente situazioni di rischio.
 
+4.
+                        
+                            
+                                L'efficace attuazione del modello richiede:
+ 
+                            
+                            
+                                a)
+                                
+                                    una verifica periodica e l'eventuale modifica dello stesso quando sono scoperte significative violazioni delle prescrizioni ovvero quando intervengono mutamenti nell'organizzazione o nell'attivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un sistema disciplinare idoneo a sanzionare il mancato rispetto delle misure indicate nel modello.
+
 ## Art. 8. — Autonomia delle responsabilita' dell'ente
+
+1.
+                        
+                            
+                                La responsabilita' dell'ente sussiste anche quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autore del reato non e' stato identificato o non e' imputabile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il reato si estingue per una causa diversa dall'amnistia.
 
 Salvo che la legge disponga diversamente, non si procede nei confronti dell'ente quando e' concessa amnistia per un reato in relazione al quale e' prevista la sua responsabilita' e l'imputato ha rinunciato alla sua applicazione.
 
@@ -98,6 +223,77 @@ L'ente puo' rinunciare all'amnistia.
 ## - SEZIONE II Sanzioni in generale
 
 ## Art. 9. — Sanzioni amministrative
+
+1.
+                        
+                            
+                                Le sanzioni per gli illeciti amministrativi dipendenti da reato sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    la sanzione pecuniaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sanzioni interdittive;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la confisca;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la pubblicazione della sentenza.
+
+2.
+                        
+                            
+                                Le sanzioni interdittive sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'interdizione dall'esercizio dell'attivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sospensione o la revoca delle autorizzazioni, licenze o concessioni funzionali alla commissione dell'illecito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il divieto di contrattare con la pubblica amministrazione, salvo che per ottenere le prestazioni di un pubblico servizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esclusione da agevolazioni, finanziamenti, contributi o sussidi e l'eventuale revoca di quelli gia' concessi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il divieto di pubblicizzare beni o servizi.
 
 ## Art. 10. — Sanzione amministrativa pecuniaria
 
@@ -121,11 +317,65 @@ Nei casi previsti dall'articolo 12, comma 1, l'importo della quota e' sempre di 
 
 ## Art. 12. — Casi di riduzione della sanzione pecuniaria
 
+1.
+                        
+                            
+                                La sanzione pecuniaria e' ridotta della meta' e non puo' comunque essere superiore a lire duecento milioni se:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autore del reato ha commesso il fatto nel prevalente interesse proprio o di terzi e l'ente non ne ha ricavato vantaggio o ne ha ricavato un vantaggio minimo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il danno patrimoniale cagionato e' di particolare tenuita';
+
+2.
+                        
+                            
+                                La sanzione e' ridotta da un terzo alla meta' se, prima della dichiarazione di apertura del dibattimento di primo grado:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ente ha risarcito integralmente il danno e ha eliminato le conseguenze dannose o pericolose del reato ovvero si e' comunque efficacemente adoperato in tal senso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' stato adottato e reso operativo un modello organizzativo idoneo a prevenire reati della specie di quello verificatosi.
+
 Nel caso in cui concorrono entrambe le condizioni previste dalle lettere del precedente comma, la sanzione e' ridotta dalla meta' ai due terzi.
 
 In ogni caso, la sanzione pecuniaria non puo' essere inferiore a lire venti milioni.
 
 ## Art. 13. — Sanzioni interdittive
+
+1.
+                        
+                            
+                                Le sanzioni interdittive si applicano in relazione ai reati per i quali sono espressamente previste, quando ricorre almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ente ha tratto dal reato un profitto di rilevante entita' e il reato e' stato commesso da soggetti in posizione apicale ovvero da soggetti sottoposti all'altrui direzione quando, in questo caso, la commissione del reato e' stata determinata o agevolata da gravi carenze organizzative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di reiterazione degli illeciti.
 
 Fermo restando quanto previsto ((dagli articoli 25, comma 5 e 25-octies.2, comma 3)), le sanzioni interdittive hanno una durata non inferiore a tre mesi e non superiore a due anni.
 
@@ -142,6 +392,32 @@ Se necessario, le sanzioni interdittive possono essere applicate congiuntamente.
 L'interdizione dall'esercizio dell'attivita' si applica soltanto quando l'irrogazione di altre sanzioni interdittive risulta inadeguata.
 
 ## Art. 15. — Commissario giudiziale
+
+1.
+                        
+                            
+                                Se sussistono i presupposti per l'applicazione di una sanzione interdittiva che determina l'interruzione dell'attivita' dell'ente, il giudice, in luogo dell'applicazione della sanzione, dispone la prosecuzione dell'attivita' dell'ente da parte di un commissario per un periodo pari alla durata della pena interdittiva che sarebbe stata applicata, quando ricorre almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ente svolge un pubblico servizio o un servizio di pubblica necessita' la cui interruzione puo' provocare un grave pregiudizio alla collettivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'interruzione dell'attivita' dell'ente puo' provocare, tenuto conto delle sue dimensioni e delle condizioni economiche del territorio in cui e' situato, rilevanti ripercussioni sull'occupazione. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    l'attivita' e' svolta in stabilimenti industriali o parti di essi dichiarati di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231.
+In caso di imprese che dopo il verificarsi dei reati che danno luogo all'applicazione della sanzione sono state ammesse all'amministrazione straordinaria, anche in via temporanea ai sensi dell'articolo 1 del decreto-legge 5 dicembre 2022, n. 187, la prosecuzione dell'attivita' e' affidata al commissario gia' nominato nell'ambito della procedura di amministrazione straordinaria.
 
 Con la sentenza che dispone la prosecuzione dell'attivita', il giudice indica i compiti ed i poteri del commissario, tenendo conto della specifica attivita' in cui e' stato posto in essere l'illecito da parte dell'ente.
 
@@ -160,6 +436,31 @@ Il giudice puo' applicare all'ente, in via definitiva, la sanzione del divieto d
 Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione di reati in relazione ai quali e' prevista la sua responsabilita' e' sempre disposta l'interdizione definitiva dall'esercizio dell'attivita' e non si applicano le disposizioni previste dall'articolo 17.
 
 ## Art. 17. — Riparazione delle conseguenze del reato
+
+1.
+                        
+                            
+                                Ferma l'applicazione delle sanzioni pecuniarie, le sanzioni interdittive non si applicano quando, prima della dichiarazione di apertura del dibattimento di primo grado, concorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ente ha risarcito integralmente il danno e ha eliminato le conseguenze dannose o pericolose del reato ovvero si e' comunque efficacemente adoperato in tal senso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ente ha eliminato le carenze organizzative che hanno determinato il reato mediante l'adozione e l'attuazione di modelli organizzativi idonei a prevenire reati della specie di quello verificatosi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ente ha messo a disposizione il profitto conseguito ai fini della confisca.
 
 ((
 
@@ -273,13 +574,213 @@ Se prima della sentenza di primo grado l'ente si e' efficacemente adoperato per 
 
 ## Art. 25-bis. — (((Falsita' in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento). ))
 
+1.
+                        
+                            
+                                In relazione alla commissione dei delitti previsti dal codice penale in materia di falsita' in monete, in carte di pubblico credito ((, in valori di bollo e in strumenti o segni di riconoscimento)), si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il delitto di cui all'articolo 453 la sanzione pecuniaria da trecento a ottocento quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i delitti di cui agli articoli 454, 460 e 461 la sanzione pecuniaria fino a cinquecento quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il delitto di cui all'articolo 455 le sanzioni pecuniarie stabilite dalla lettera a), in relazione all'articolo 453, e dalla lettera b), in relazione all'articolo 454, ridotte da un terzo alla meta'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i delitti di cui agli articoli 457 e 464, secondo comma, le sanzioni pecuniarie fino a duecento quote; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per il delitto di cui all'articolo 459 le sanzioni pecuniarie previste dalle lettere a), c) e d) ridotte di un terzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per il delitto di cui all'articolo 464, primo comma, la sanzione pecuniaria fino a trecento quote.
+
 Nei casi di condanna per uno dei delitti di cui agli articoli 453, 454, 455, 459, 460 ((, 461, 473 e 474)) del codice penale, si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore ad un anno.
 
 ## Art. 25-bis.1. — (Delitti contro l'industria e il commercio).
 
+1.
+                        
+                            
+                                In relazione alla commissione dei delitti contro l'industria e il commercio previsti dal codice penale, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i delitti di cui agli articoli 513, 515, 516, 517, 517-ter ((, 517-quater e 517-octies, quarto comma,)) la sanzione pecuniaria fino a cinquecento quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i delitti di cui agli articoli 513-bis e 514 la sanzione pecuniaria fino a ottocento quote.
+
 Nel caso di condanna per i delitti di cui alla lettera b) del comma 1 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2.
 
 ## Art. 25-ter. — (Reati societari).
+
+1.
+                        
+                            
+                                In relazione ai reati in materia societaria previsti dal codice civile ((o da altre leggi speciali)), si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il delitto di false comunicazioni sociali previsto dall'articolo 2621 del codice civile, la sanzione pecuniaria da duecento a quattrocento quote; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    per il delitto di false comunicazioni sociali previsto dall'articolo 2621-bis del codice civile, la sanzione pecuniaria da cento a duecento quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il delitto di false comunicazioni sociali previsto dall'articolo 2622 del codice civile, la sanzione pecuniaria da quattrocento a seicento quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DALLA L. 27 MAGGIO 2015, N. 69; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la contravvenzione di falso in prospetto, prevista dall'articolo 2623, primo comma, del codice civile, la sanzione pecuniaria da cento a centotrenta quote; (9) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per il delitto di falso in prospetto, previsto dall'articolo 2623, secondo comma, del codice civile, la sanzione pecuniaria da duecento a trecentotrenta quote; (9) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per la contravvenzione di falsita' nelle relazioni o nelle comunicazioni delle societa' di revisione, prevista dall'articolo 2624, primo comma, del codice civile, la sanzione pecuniaria da cento a centotrenta quote; (9) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per il delitto di falsita' nelle relazioni o nelle comunicazioni delle societa' di revisione, previsto dall'articolo 2624, secondo comma, del codice civile, la sanzione pecuniaria da duecento a quattrocento quote; (9) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per il delitto di impedito controllo, previsto dall'articolo 2625, secondo comma, del codice civile, la sanzione pecuniaria da cento a centottanta quote; (9) 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per il delitto di formazione fittizia del capitale, previsto dall'articolo 2632 del codice civile, la sanzione pecuniaria da cento a centottanta quote; (9) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per il delitto di indebita restituzione dei conferimenti, previsto dall'articolo 2626 del codice civile, la sanzione pecuniaria da cento a centottanta quote; (9) 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    per la contravvenzione di illegale ripartizione degli utili e delle riserve, prevista dall'articolo 2627 del codice civile, la sanzione pecuniaria da cento a centotrenta quote; (9) 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    per il delitto di illecite operazioni sulle azioni o quote sociali o della societa' controllante, previsto dall'articolo 2628 del codice civile, la sanzione pecuniaria da cento a centottanta quote; (9) 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    per il delitto di operazioni in pregiudizio dei creditori, previsto dall'articolo 2629 del codice civile, la sanzione pecuniaria da centocinquanta a trecentotrenta quote; (9) 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    per il delitto di indebita ripartizione dei beni sociali da parte dei liquidatori, previsto dall'articolo 2633 del codice civile, la sanzione pecuniaria da centocinquanta a trecentotrenta quote; (9) 
+                                
+                            
+                            
+                                q)
+                                
+                                    per il delitto di illecita influenza sull'assemblea, previsto dall'articolo 2636 del codice civile, la sanzione pecuniaria da centocinquanta a trecentotrenta quote; (9) 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    per il delitto di aggiotaggio, previsto dall'articolo 2637 del codice civile e per il delitto di omessa comunicazione del conflitto d'interessi previsto dall'articolo 2629-bis del codice civile, la sanzione pecuniaria da duecento a cinquecento quote; (9) 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    per i delitti di ostacolo all'esercizio delle funzioni delle autorita' pubbliche di vigilanza, previsti dall'articolo 2638, primo e secondo comma, del codice civile, la sanzione pecuniaria da duecento a quattrocento quote; (9) 
+
+                                
+                            
+                            
+                                s-bis)
+                                
+                                    per il delitto di corruzione tra privati, nei casi previsti dal terzo comma dell'articolo 2635 del codice civile, la sanzione pecuniaria da quattrocento a seicento quote e, nei casi di istigazione di cui al primo comma dell'articolo 2635-bis del codice civile, la sanzione pecuniaria da duecento a quattrocento quote. Si applicano altresi' le sanzioni interdittive previste dall'articolo 9, comma 2((;))
 
 -------------
                             AGGIORNAMENTO (9)
@@ -289,6 +790,24 @@ Nel caso di condanna per i delitti di cui alla lettera b) del comma 1 si applica
 ## Art. 25-quater. — (( (Delitti con finalita' di terrorismo o di eversione dell'ordine democratico). ))
 
 ((
+
+1.
+                        
+                            
+                                In relazione alla commissione dei delitti aventi finalita' di terrorismo o di eversione dell'ordine democratico, previsti dal codice penale e dalle leggi speciali, si applicano all'ente le seguenti sanzioni pecuniarie: 
+
+                            
+                            
+                                a)
+                                
+                                    se il delitto e' punito con la pena della reclusione inferiore a dieci anni, la sanzione pecuniaria da duecento a settecento quote;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il delitto e' punito con la pena della reclusione non inferiore a dieci anni o con l'ergastolo, la sanzione pecuniaria da quattrocento a mille quote.
 
 Nei casi di condanna per uno dei delitti indicati nel comma 1, si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore ad un anno.
 
@@ -309,6 +828,39 @@ Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo
 ))
 
 ## Art. 25-quinquies. — (Delitti contro la personalita' individuale).
+
+1.
+                        
+                            
+                                In relazione alla commissione dei delitti previsti dalla sezione I del capo III del titolo XII del libro II del codice penale si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i delitti di cui agli articoli 600, 601, 602 e 603-bis, la sanzione pecuniaria da quattrocento a mille quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i delitti di cui agli articoli 600-bis, primo comma, 600-ter, primo e secondo comma, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, e 600-quinquies, la sanzione pecuniaria da trecento a ottocento quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i delitti di cui agli articoli 600-bis, secondo comma, 600-ter, terzo e quarto comma, e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, nonche' per il delitto di cui all'articolo 609-undecies la sanzione pecuniaria da duecento a settecento quote. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((per il delitto di cui all'articolo 601.1 la sanzione pecuniaria da cento a seicento quote.))
 
 Nei casi di condanna per uno dei delitti indicati nel comma 1, lettere a) e b), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore ad un anno ((; nei casi di condanna per il delitto indicato nel comma 1, lettera c-bis), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore a sei mesi)).
 
@@ -350,13 +902,70 @@ In relazione agli illeciti di cui ai commi 1 e 2, il Ministero della giustizia, 
 
 
 
+1.
+                        
+                            
+                                In relazione alla commissione dei delitti previsti dal codice penale in materia di strumenti di pagamento diversi dai contanti, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il delitto di cui all'articolo 493-ter, la sanzione pecuniaria da 300 a 800 quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il delitto di cui all'articolo 493-quater e per il delitto di cui all'articolo 640-ter, nell'ipotesi aggravata dalla realizzazione di un trasferimento di denaro, di valore monetario o di valuta virtuale, la sanzione pecuniaria sino a 500 quote.
+
+2.
+                        
+                            
+                                Salvo che il fatto integri altro illecito amministrativo sanzionato piu' gravemente, in relazione alla commissione di ogni altro delitto contro la fede pubblica, contro il patrimonio o che comunque offende il patrimonio previsto dal codice penale, quando ha ad oggetto strumenti di pagamento diversi dai contanti, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il delitto e' punito con la pena della reclusione inferiore ai dieci anni, la sanzione pecuniaria sino a 500 quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il delitto e' punito con la pena non inferiore ai dieci anni di reclusione, la sanzione pecuniaria da 300 a 800 quote.
+
 ((2-bis. In relazione alla commissione del delitto di cui all'articolo 512-bis del codice penale, si applica all'ente la sanzione pecuniaria da 250 a 600 quote))
 
 Nei casi di condanna per uno dei delitti di cui ai ((commi 1, 2 e 2-bis)) si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2.
 
 ## Art. 25-octies.2. — (( (Reati in materia di violazione di misure restrittive dell'Unione europea). ))
 
+1.
+                        
+                            
+                                
+                                    ((In relazione alla commissione dei delitti previsti dal codice penale contro la politica estera e la sicurezza comune dell'Unione europea, si applicano:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((per la violazione degli articoli 275-bis, primo, secondo, e quinto comma, e 275-quater, primo comma, del codice penale, nonche' dell'articolo 12, comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286, la sanzione pecuniaria della percentuale dall'1 per cento al 5 per cento del fatturato globale dell'ente nell'esercizio finanziario precedente quello in cui e' stato commesso il reato o, se inferiore, nell'esercizio finanziario precedente l'applicazione della sanzione pecuniaria;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((per la violazione dell'articolo 275-ter, primo e secondo comma, del codice penale, la sanzione pecuniaria della percentuale dallo 0,5 per cento all'1 per cento del fatturato globale dell'ente nell'esercizio finanziario precedente quello in cui e' stato commesso il reato o, se inferiore, nell'esercizio finanziario precedente l'applicazione della sanzione pecuniaria.))
 
+((Quando non e' possibile stabilire il fatturato globale annuo dell'ente, si applica all'ente, rispettivamente, la sanzione pecuniaria da euro 3 milioni a euro 40 milioni in relazione ai reati di cui di cui agli articoli 275-bis, primo, secondo, e quinto comma, e 275-quater, primo comma del codice penale, e al reato di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286 e la sanzione pecuniaria da euro 1 milione sino a euro 8 milioni in relazione ai reati di cui all'articolo 275-ter, primo e secondo comma, del codice penale.))
 
 ((Nei casi di condanna per uno dei reati di cui al comma 1, lettere a) e b), si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2 per una durata non inferiore a due anni e non superiore a sei anni, se il reato e' stato commesso da uno dei soggetti di cui all'articolo 5, comma 1, lettera a), e per una durata non inferiore a un anno e non superiore a tre anni se il reato e' stato commesso da uno dei soggetti di cui all'articolo 5, comma 1, lettera b).))
 
@@ -384,6 +993,80 @@ Nei casi di condanna per uno dei delitti di cui ai ((commi 1, 2 e 2-bis)) si app
 
 ## Art. 25-undecies. — (Reati ambientali)
 
+1.
+                        
+                            
+                                In relazione alla commissione dei reati previsti dal codice penale, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la violazione ((degli articoli 452-bis e 452-bis.1,)), la sanzione pecuniaria da quattrocento a seicento quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la violazione dell'articolo 452-quater, la sanzione pecuniaria da seicento a ((milleduecento)) quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la violazione dell'articolo 452-quinquies, la sanzione pecuniaria da duecento a cinquecento quote; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i delitti associativi aggravati ai sensi dell'articolo 452-octies, la sanzione pecuniaria da quattrocentocinquanta a mille quote; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per la violazione dell'articolo 452-sexies, la sanzione pecuniaria da cinquecento a novecento quote per il caso previsto dal primo comma e da seicento a milleduecento quote per i casi previsti dal secondo comma; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    per la violazione dell'articolo 452-septies, la sanzione pecuniaria fino a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    per la violazione dell'articolo 452-terdecies, la sanzione pecuniaria da quattrocento a ottocento quote; 
+
+                                
+                            
+                            
+                                e-quater)
+                                
+                                    per la violazione dell'articolo 452-quaterdecies, la sanzione pecuniaria da quattrocento a seicento quote, nel caso previsto dal primo comma, da quattrocentocinquanta a settecentocinquanta quote nel caso previsto dal secondo comma e da cinquecento a mille quote nei casi previsti dal terzo comma; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per la violazione dell'articolo 727-bis, la sanzione pecuniaria fino a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per la violazione dell'articolo 733-bis, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote.
+
 Nei casi di condanna per i delitti indicati al comma 1, lettere a), b), d), e) ed e-quater), del presente articolo, si applicano, oltre alle sanzioni pecuniarie ivi previste, le sanzioni interdittive previste dall'articolo 9.
 
 ((In relazione alla commissione dei reati previsti dal decreto legislativo attuativo dell'articolo 9 della legge 13 giugno 2025, n. 91, per la violazione degli articoli 4 e 5, si applica all'ente la sanzione pecuniaria da quattrocento a ottocento quote.))
@@ -391,9 +1074,160 @@ Nei casi di condanna per i delitti indicati al comma 1, lettere a), b), d), e) e
 ((Per i delitti aggravati ai sensi degli articoli 452-bis, secondo, terzo e quarto comma, 452-bis.1, secondo, terzo e quarto comma, e 452-quater, terzo comma, del codice penale, le sanzioni pecuniarie previste dal comma 1 sono aumentate di un terzo.
 Il medesimo aumento si applica per i delitti aggravati ai sensi dell'articolo 452-sexiesdecies, primo comma, n. 1, del codice penale)).
 
+2.
+                        
+                            
+                                In relazione alla commissione dei reati previsti dal decreto legislativo 3 aprile 2006, n. 152, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i reati di cui all'articolo 137: 
+ 1) per la violazione dei commi 3, 5, primo periodo, e 13, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote; 
+ 2) per la violazione dei commi 2, 5, secondo periodo, e 11, la sanzione pecuniaria da duecento a trecento quote. 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    per il reato di cui all'articolo 255-bis, la sanzione pecuniaria da trecentocinquanta a quattrocentocinquanta quote; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    per il reato di cui all'articolo 255-ter: 
+ 1) per la violazione del comma 1, la sanzione pecuniaria da quattrocento a cinquecentocinquanta quote; 
+ 2) per la violazione del comma 2, la sanzione pecuniaria da cinquecento a seicentocinquanta quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i reati di cui all'articolo 256: 
+ 1) per la violazione del comma 1, primo periodo, la sanzione pecuniaria da trecento a quattrocentocinquanta quote; 
+ 2) per la violazione dei commi 1, secondo periodo, e 3, primo periodo, la sanzione pecuniaria da quattrocento a seicento quote; 
+ 3) per la violazione del comma 3, secondo periodo, la sanzione pecuniaria da quattrocentocinquanta a settecentocinquanta quote; 
+ 3-bis) per la violazione dei commi 1-bis, primo periodo, e 3-bis, primo periodo, la sanzione pecuniaria da cinquecento a mille quote; 
+ 3-ter) per la violazione dei commi 1-bis, secondo periodo, e 3-bis, secondo periodo, la sanzione pecuniaria da seicento a milleduecento quote; 
+ 3-quater) per la violazione dei commi 5 e 6, primo periodo, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    per il reato di cui all'articolo 256-bis: 
+ 1) per la violazione del comma 1, primo periodo, la sanzione pecuniaria da duecento a quattrocentocinquanta quote; 
+ 2) per la violazione del comma 1, secondo periodo, la sanzione pecuniaria da trecento a seicento quote; 
+ 3) per la violazione del comma 3-bis, primo periodo, la sanzione pecuniaria da quattrocento a ottocento quote; 
+ 4) per la violazione del comma 3-bis, secondo periodo, la sanzione pecuniaria da cinquecento a mille quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i reati di cui all'articolo 257: 
+ 1) per la violazione del comma 1, la sanzione pecuniaria fino a duecentocinquanta quote; 
+ 2) per la violazione del comma 2, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la violazione dell'articolo 258, comma 4, secondo periodo, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per la violazione dell'articolo 259, comma 1, la sanzione pecuniaria da trecento a quattrocentocinquanta quote; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DAL D.L. 8 AGOSTO 2025, N. 116; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per la violazione dell'articolo 260-bis, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote nel caso previsto dai commi 6, 7, secondo e terzo periodo, e 8, primo periodo, e la sanzione pecuniaria da duecento a trecento quote nel caso previsto dal comma 8, secondo periodo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per la violazione dell'articolo 279, comma 5, la sanzione pecuniaria fino a duecentocinquanta quote.
+
 Quando ricorre l'ipotesi di cui all'articolo 259-ter del decreto legislativo 2 aprile 2006, n. 152, le sanzioni previste dal comma 2, lettere a-bis), a-ter), b) ed e), sono diminuite da un terzo a due terzi.
 
+3.
+                        
+                            
+                                In relazione alla commissione dei reati previsti dalla legge 7 febbraio 1992, n. 150, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la violazione degli articoli 1, comma 1, 2, commi 1 e 2, e 6, comma 4, la sanzione pecuniaria fino a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la violazione dell'articolo 1, comma 2, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i reati del codice penale richiamati dall'articolo 3-bis, comma 1, della medesima legge n. 150 del 1992, rispettivamente: 
+ 1) la sanzione pecuniaria fino a duecentocinquanta quote, in caso di commissione di reati per cui e' prevista la pena non superiore nel massimo ad un anno di reclusione; 
+ 2) la sanzione pecuniaria da centocinquanta a duecentocinquanta quote, in caso di commissione di reati per cui e' prevista la pena non superiore nel massimo a due anni di reclusione; 
+ 3) la sanzione pecuniaria da duecento a trecento quote, in caso di commissione di reati per cui e' prevista la pena non superiore nel massimo a tre anni di reclusione; 
+ 4) la sanzione pecuniaria da trecento a cinquecento quote, in caso di commissione di reati per cui e' prevista la pena superiore nel massimo a tre anni di reclusione.
+
 In relazione alla commissione dei reati previsti dall'articolo 3, comma 6, della legge 28 dicembre 1993, n. 549, si applica all'ente la sanzione pecuniaria da centocinquanta a duecentocinquanta quote.
+
+5.
+                        
+                            
+                                In relazione alla commissione dei reati previsti dal decreto legislativo 6 novembre 2007, n. 202, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il reato di cui all'articolo 9, comma 1, la sanzione pecuniaria fino a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i reati di cui agli articoli 8, comma 1, e 9, comma 2, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il reato di cui all'articolo 8, comma 2, la sanzione pecuniaria da duecento a trecento quote.
 
 Le sanzioni previste dal comma 2, lettera b), sono ridotte della meta' nel caso di commissione del reato previsto dall'articolo 256, comma 4, del decreto legislativo 3 aprile 2006, n. 152.
 
@@ -427,9 +1261,105 @@ Nei casi di condanna per i delitti di cui al comma 1 si applicano all'ente le sa
 
 ((
 
+1.
+                        
+                            
+                                In relazione alla commissione dei reati di cui agli articoli 1 e 4 della legge 13 dicembre 1989, n. 401, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i delitti, la sanzione pecuniaria fino a cinquecento quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le contravvenzioni, la sanzione pecuniaria fino a duecentosessanta quote.
+
 2. Nei casi di condanna per uno dei delitti indicati nel comma 1, lettera a), del presente articolo, si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore a un anno))
 
 ## Art. 25-quinquiesdecies. — (Reati tributari)
+
+1.
+                        
+                            
+                                In relazione alla commissione dei delitti previsti dal decreto legislativo 10 marzo 2000, n. 74, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il delitto di dichiarazione fraudolenta mediante uso di fatture o altri documenti per operazioni inesistenti previsto dall'articolo 2, comma 1, la sanzione pecuniaria fino a cinquecento quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il delitto di dichiarazione fraudolenta mediante uso di fatture o altri documenti per operazioni inesistenti, previsto dall'articolo 2, comma 2-bis, la sanzione pecuniaria fino a quattrocento quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il delitto di dichiarazione fraudolenta mediante altri artifici, previsto dall'articolo 3, la sanzione pecuniaria fino a cinquecento quote; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per il delitto di emissione di fatture o altri documenti per operazioni inesistenti, previsto dall'articolo 8, comma 1, la sanzione pecuniaria fino a cinquecento quote; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per il delitto di emissione di fatture o altri documenti per operazioni inesistenti, previsto dall'articolo 8, comma 2-bis, la sanzione pecuniaria fino a quattrocento quote; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per il delitto di occultamento o distruzione di documenti contabili, previsto dall'articolo 10, la sanzione pecuniaria fino a quattrocento quote; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per il delitto di sottrazione fraudolenta al pagamento di imposte, previsto dall'articolo 11, la sanzione pecuniaria fino a quattrocento quote.
+
+1-bis.
+                        
+                            
+                                In relazione alla commissione dei delitti previsti dal decreto legislativo 10 marzo 2000, n. 74, ((quando sono commessi al fine di evadere l'imposta sul valore aggiunto nell'ambito di sistemi fraudolenti transfrontalieri connessi al territorio di almeno un altro Stato membro dell'Unione europea, da cui consegua o possa conseguire un danno complessivo pari o superiore)) a dieci milioni di euro, si applicano all'ente le seguenti sanzioni pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il delitto di dichiarazione infedele previsto dall'articolo 4, la sanzione pecuniaria fino a trecento quote; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il delitto di omessa dichiarazione previsto dall'articolo 5, la sanzione pecuniaria fino a quattrocento quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il delitto di indebita compensazione previsto dall'articolo 10-quater, la sanzione pecuniaria fino a quattrocento quote.
 
 Se, in seguito alla commissione dei delitti indicati ai commi 1 e 1-bis, l'ente ha conseguito un profitto di rilevante entita', la sanzione pecuniaria e' aumentata di un terzo.
 
@@ -566,9 +1496,66 @@ Non si procede all'accertamento dell'illecito amministrativo dell'ente quando l'
 
 Il procedimento per l'illecito amministrativo dell'ente e' riunito al procedimento penale instaurato nei confronti dell'autore del reato da cui l'illecito dipende.
 
+2.
+                        
+                            
+                                Si procede separatamente per l'illecito amministrativo dell'ente soltanto quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' stata ordinata la sospensione del procedimento ai sensi dell'articolo 71 del codice di procedura penale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il procedimento e' stato definito con il giudizio abbreviato o con l'applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale, ovvero e' stato emesso il decreto penale di condanna;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'osservanza delle disposizioni processuali lo rende necessario.
+
 ## Art. 39. — Rappresentanza dell'ente
 
 L'ente partecipa al procedimento penale con il proprio rappresentante legale, salvo che questi sia imputato del reato da cui dipende l'illecito amministrativo.
+
+2.
+                        
+                            
+                                L'ente che intende partecipare al procedimento si costituisce depositando nella cancelleria dell'autorita' giudiziaria procedente una dichiarazione contenente a pena di inammissibilita':
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione dell'ente e le generalita' del suo legale rappresentante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome ed il cognome del difensore e l'indicazione della procura;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sottoscrizione del difensore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la dichiarazione o l'elezione di domicilio.
 
 La procura, conferita nelle forme previste dall'articolo 100, comma 1, del codice di procedura penale, e' depositata nella segreteria del pubblico ministero o nella cancelleria del giudice ovvero e' presentata in udienza unitamente alla dichiarazione di cui al comma 2.
 
@@ -600,6 +1587,24 @@ Qualora le ricerche non diano esito positivo, il giudice, su richiesta del pubbl
 ## - SEZIONE III Prove
 
 ## Art. 44. — Incompatibilita' con l'ufficio di testimone
+
+1.
+                        
+                            
+                                Non puo' essere assunta come testimone:
+ 
+                            
+                            
+                                a)
+                                
+                                    la persona imputata del reato da cui dipende l'illecito amministrativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la persona che rappresenta l'ente indicata nella dichiarazione di cui all'articolo 39, comma 2, e che rivestiva tale funzione anche al momento della commissione del reato.
 
 Nel caso di incompatibilita' la persona che rappresenta l'ente puo' essere interrogata ed esaminata nelle forme, con i limiti e con gli effetti previsti per l'interrogatorio e per l'esame della persona imputata in un procedimento connesso.
 
@@ -806,6 +1811,38 @@ Alle sentenze pronunciate nei confronti dell'ente si applicano, in quanto compat
 
 Competente a conoscere dell'esecuzione delle sanzioni amministrative dipendenti da reato e' il giudice indicato nell'articolo 665 del codice di procedura penale.
 
+2.
+                        
+                            
+                                Il giudice indicato nel comma 1 e' pure competente per i provvedimenti relativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla cessazione dell'esecuzione delle sanzioni nei casi previsti dall'articolo 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla cessazione dell'esecuzione nei casi di estinzione del reato per amnistia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla determinazione della sanzione amministrativa applicabile nei casi previsti dall'articolo 21, commi 1 e 2;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla confisca e alla restituzione delle cose sequestrate.
+
 Nel procedimento di esecuzione si osservano le disposizioni di cui all'articolo 666 del codice di procedura penale, in quanto applicabili. Nei casi previsti dal comma 2, lettere b) e d) si osservano le disposizioni di cui all'articolo 667, comma 4, del codice di procedura penale.
 
 Quando e' applicata l'interdizione dall'esercizio dell'attivita', il giudice, su richiesta dell'ente, puo' autorizzare il compimento di atti di gestione ordinaria che non comportino la prosecuzione dell'attivita' interdetta. Si osservano le disposizioni di cui all'articolo 667, comma 4, del codice di procedura penale.
@@ -869,6 +1906,32 @@ Se, in conseguenza dell'illecito, all'ente e' stata gia' applicata una sanzione 
 Il provvedimento che applica misure cautelari interdittive e la sentenza irrevocabile di condanna sono comunicati, a cura della cancelleria del giudice che li ha emessi, alle autorita' che esercitano il controllo o la vigilanza sull'ente.
 
 ## Art. 85. — Disposizioni regolamentari
+
+1.
+                        
+                            
+                                Con regolamento emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro sessanta giorni dalla data di pubblicazione del presente decreto legislativo, il Ministro della giustizia adotta le disposizioni regolamentari relative al procedimento di accertamento dell'illecito amministrativo che concernono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di formazione e tenuta dei fascicoli degli uffici giudiziari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.P.R. 14 NOVEMBRE 2002, N. 313 ));
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le altre attivita' necessarie per l'attuazione del presente decreto legislativo.
 
 Il parere del Consiglio di Stato sul regolamento previsto dal comma 1 e' reso entro trenta giorni dalla richiesta.
 

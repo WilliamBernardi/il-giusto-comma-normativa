@@ -8,8 +8,8 @@ codice_redazionale: 097G0431
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,7 +35,82 @@ La direzione dei corsi speciali di insegnamento, istituiti ai sensi dell'articol
 
 ## Art. 2. — Compiti della scuola
 
+1.
+                    
+                        
+                            La scuola forma e aggiorna nel restauro dei beni culturali mediante corsi a carattere teoricopratico. I corsi sono finalizzati all'insegnamento:
+ 
+                        
+                        
+                            a)
+                            
+                                dei principi e delle cause dei processi di deterioramento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della caratterizzazione dei materiali costitutivi, naturali ed artificiali, dei manufatti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle metodologie di indagine diagnostica, di intervento, di controllo e di documentazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dei valori materici, storici e formali da rispettare negli interventi.
+
+2.
+                    
+                        
+                            E' restauratore dei beni culturali un operatore professionalmente qualificato capace di una:
+ 
+                        
+                        
+                            a)
+                            
+                                analisi e interpretazione dei dati obiettivi sullo stato di conservazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                abilita' manuale di intervento, coerente con gli insegnamenti impartiti, adeguata ad una valutazione critica degli effetti dell'intervento stesso.
+
 ## Art. 3. — Organi della scuola
+
+1.
+                    
+                        
+                            Sono organi della scuola:
+ 
+                        
+                        
+                            a)
+                            
+                                il direttore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il vice direttore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio didattico.
 
 ## Art. 4. — Direttore e vice direttore
 
@@ -50,6 +125,38 @@ Il vice direttore propone, sentito il consiglio didattico, le iniziative riguard
 ## Art. 5. — Consiglio didattico
 
 Il consiglio didattico e' presieduto dal direttore ed e' composto dai vice direttori e da tutti i docenti. Si articola in sezioni composte dai docenti dei singoli anni di corso.
+
+2.
+                    
+                        
+                            Il consiglio didattico:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime pareri e formula proposte sulle questoni di carattere generale sottoposte dal direttore o dai vice direttori, in particolare sui programmi, piani di studio e modalita' di svolgimento dei corsi, con riferimento anche alle sedi e all'organizzazione didattica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula proposte in ordine al numero dei posti da mettere annualmente a concorso per ciascuna area e sulla designazione dei membri delle commissioni d'esame di cui agli articoli 10 e 14 del presente regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determina le modalita' per il conferimento delle borse di studio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera in materia disciplinare nei riguardi degli studenti.
 
 Il consiglio didattico si riunisce, di norma, ogni tre mesi e comunque ogni sei mesi, nonche', in casi di motivata necessita' o urgenza, su richiesta del direttore, di un vice direttore o di almeno un quinto dei componenti.
 
@@ -74,6 +181,45 @@ Le materie di insegnamento e il numero delle ore sono determinati nell'allegato 
 
 Alla scuola si accede mediante concorso pubblico per esami e titoli, indetto dal Ministero per i beni culturali e ambientali, di norma, entro il mese di ottobre dell'anno precedente a quello di inizio dei corsi. Il bando e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
+2.
+                    
+                        
+                            I requisiti per l'ammissione al concorso sono:
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore ai 18 e non superiore ai 30 anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di istruzione secondaria superiore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cittadinanza italiana o comunitaria. Sono ammessi, alle stesse condizioni, anche cittadini di altri Stati, purche' in possesso dei requisiti e del titolo di studio equiparato a quello richiesto per i cttadini italiani;
+
+                            
+                        
+                        
+                            d)
+                            
+                                idoneita' fisica alle attivita' che il settore di studi prescelto comporta;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non aver riportato condanne penali ne' avere procedimenti penali pendenti a proprio carico.
+
 Le pratiche per l'ammissione al concorso dei cittadini non comunitari devono essere svolte tramite le rappresentanze diplomatiche o consolari italiane che hanno sede nel Paese di residenza del candidato.
 
 I requisiti devono essere posseduti dal candidato alla data di scadenza dei termini di presentazione della domanda. I vincitori dovranno certificarne il possesso prima dell'inizio dei corsi.
@@ -82,6 +228,31 @@ I requisiti devono essere posseduti dal candidato alla data di scadenza dei term
 
 Il numero dei posti messi annualmente a concorso e' determinato nel bando. I posti sono distinti per aree articolate in piu' settori.
 
+2.
+                    
+                        
+                            Le aree sono:
+ 
+                        
+                        
+                            a)
+                            
+                                dipinti murali, stucchi, sculture lapidee, dipinti su tela, dipinti su tavola, su tessuto, su cuoio, su carta e sculture lignee policrome, superfici e materiali dell'architettura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                metalli, ceramica, vetro, smalti, oreficerie, avorio, osso, ambra e oggetti di scavo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                mosaico, materiali lapidei, naturali e artificiali.
+
 Le aree possono essere modificate o ampliate su proposta del consiglio didattico, sentiti i competenti comitati di settore del Consiglio nazionale per i beni culturali e ambientali.
 
 Il numero dei posti non puo' essere inferiore complessivamente a diciotto.
@@ -89,6 +260,38 @@ Il numero dei posti non puo' essere inferiore complessivamente a diciotto.
 ## Art. 10. — Commissione giudicatrice
 
 La commissione giudicatrice e' nominata con decreto del Ministro per i beni culturali e ambientali.
+
+2.
+                    
+                        
+                            La commissione e' cosi' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                dal direttore con funzione di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal vice direttore della scuola;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da due funzionari tecnicoscientifici di cui uno designato tra quelli in servizio presso l'Istituto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da tre restauratori di cui almeno uno designato tra quelli in servizio presso l'Istituto.
 
 (Non ammesso al "Visto" della Corte dei conti).
 
@@ -99,6 +302,31 @@ I componenti di cui alle lettere c) e d) del comma 2 (seguivano alcune parole no
 Svolge le funzioni di segretario un funzionario amministrativo del Ministero per i beni culturali e ambientali, con qualifica funzionale non inferiore alla settima.
 
 ## Art. 11. — Prove per l'ammissione ai corsi
+
+1.
+                    
+                        
+                            L'esame di ammissione consta delle seguenti prove:
+ 
+                        
+                        
+                            a)
+                            
+                                attitudinale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pratica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                orale.
 
 Nella prova attitudinale i candidati devono dimostrare la propria capacita' manuale di rappresentazione grafica di un manufatto di interesse storico o artistico.
 
@@ -156,6 +384,84 @@ Il diploma di restauratore dei beni culturali, rilasciato dall'Istituto, costitu
 Nel conferimento degli incarichi di cui agli articoli 5, 10 e 14 del presente regolamento trovano applicazione le disposizioni di cui all'articolo 10 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni.
 
 ## Art. 16. — Doveri dello studente e sanzioni disciplinari
+
+1.
+                    
+                        
+                            Lo studente deve in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                partecipare con diligenza alle attivita' didattiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                rispettare l'orario dei corsi e non assentarsi senza autorizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                durante l'orario dei corsi mantenere nei rapporti interpersonali una condotta corretta;
+
+                            
+                        
+                        
+                            d)
+                            
+                                avere cura dei locali, mobili, oggetti, macchinari, attrezzi e strumenti a lui affidati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non valersi di quanto e' di proprieta' dell'Istituto per fini personali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                in caso di malattia dare tempestiva comunicazione alla scuola, salvo comprovato impedimento.
+
+2.
+                    
+                        
+                            Le violazioni da parte degli studenti dei doveri di cui al comma 1 danno luogo, secondo la gravita' dell'infrazione, all'applicazione delle seguenti sanzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                ammonizione verbale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospensione dal corso sino ad un massimo di dieci giorni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interdizione temporanea dal corso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                espulsione dalla scuola.
 
 Le sanzioni disciplinari di cui alle lettere a), b), c) e d) del comma 2 sono applicate secondo la gravita' dell'infrazione e, con esclusione dell'ammonizione, previa contestazione scritta e sentito lo studente.
 

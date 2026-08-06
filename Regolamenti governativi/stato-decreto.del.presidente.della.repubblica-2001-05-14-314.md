@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2025-01-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,38 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 ## Art. 1. — (( (Ricorsi in materia di applicazione delle tariffe dei premi assicurativi).))
 
 ((
+
+1.
+                    
+                        
+                            Il datore di lavoro puo' ricorrere alla direzione regionale, alla sede regionale di Aosta, alla direzione provinciale di Trento o alla direzione provinciale di Bolzano dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), in relazione alla loro competenza per territorio, contro i provvedimenti emessi dalle sedi territoriali dell'Istituto in materia di applicazione delle tariffe dei premi assicurativi per gli infortuni sul lavoro e le malattie professionali approvate ai sensi dell'articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38, riguardanti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la classificazione delle lavorazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'oscillazione del tasso medio di tariffa per prevenzione degli infortuni ed igiene dei luoghi di lavoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la decorrenza dell'inquadramento nelle gestioni tariffarie; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'inquadramento nelle gestioni tariffarie effettuato direttamente dall'INAIL per i datori di lavoro non soggetti alla classificazione prevista dall'articolo 49 della legge 9 marzo 1989, n. 88.
 
 2. I ricorsi di cui al comma 1 sono decisi dai responsabili delle strutture competenti))
 

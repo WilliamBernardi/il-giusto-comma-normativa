@@ -8,8 +8,8 @@ codice_redazionale: 099G0207
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,11 +33,89 @@ Il presente regolamento determina i criteri generali ed i requisiti di idoneita'
 
 I corsi di dottorato di ricerca sono istituiti da singole universita', da universita' tra loro consorziate o da universita' convenzionate con soggetti pubblici e privati in possesso di requisiti di elevata qualificazione culturale e scientifica e di personale, nonche' di strutture e attrezzature idonee.
 
+3.
+                    
+                        
+                            Agli effetti del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per regolamenti universitari i regolamenti emanati dalle universita' ai sensi dell'articolo 4, comma 2, della legge 3 luglio 1998, n. 210; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Ministro, il Ministro dell'universita' e della ricerca scientifica e tecnologica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica (MURST); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per rettore dell'universita', il rettore della singola universita' o dell'universita' sede amministrativa del consorzio di cui al comma 2 ovvero ancora dell'universita' convenzionata con i soggetti pubblici e privati di cui al predetto comma 2.
+
 ## Art. 2. — Istituzione e requisiti di idoneita'
 
 Il rettore dell'universita' istituisce con proprio decreto i corsi di dottorato di ricerca, su proposta dei consigli di dipartimento o delle competenti strutture di coordinamento della ricerca universitaria determinate dagli statuti, previa delibera degli organi statutariamente competenti per la didattica e il governo dell'ateneo, verificando la coerenza del corso con la programmazione formativa, la disponibilita' di risorse umane e finanziarie necessarie all'attivazione, nonche', previa valutazione del nucleo di valutazione interna, della sussistenza dei requisiti di idoneita' di cui al comma 3.
 
 Il numero minimo di ammessi a ciascun corso di dottorato non puo' essere inferiore a tre. Le tematiche scientifiche e le relative denominazioni devono essere sufficientemente ampie e riferirsi al contenuto di un settore scientificodisciplinare o di un'aggregazione di piu' settori.
+
+3.
+                    
+                        
+                            Sono requisiti di idoneita' delle sedi:
+ 
+                        
+                        
+                            a)
+                            
+                                la presenza nel collegio dei docenti di un congruo numero di professori e ricercatori dell'area scientifica di riferimento del corso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la disponibilita' di adeguate risorse finanziarie e di specifiche strutture operative e scientifiche per il corso e per l'attivita' di studio e di ricerca dei dottorandi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la previsione di un coordinatore responsabile dell'organizzazione del corso, di un collegio di docenti e di tutori in numero proporzionato ai dottorandi e con documentata produzione scientifica nell'ultimo quinquennio nell'area di riferimento del corso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la possibilita' di documentata collaborazione con soggetti pubblici o privati, italiani o stranieri, che consenta ai dottorandi lo svolgimento di esperienze in un contesto di attivita' lavorative;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la previsione di percorsi formativi orientati all'esercizio di attivita' di ricerca di alta qualificazione presso universita', enti pubblici o soggetti privati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'attivazione di sistemi di valutazione relativi alla permanenza dei requisiti di cui al presente comma, alla rispondenza del corso agli obiettivi formativi di cui all'articolo 3, anche in relazione agli sbocchi professionali, al livello di formazione dei dottorandi.
 
 L'istituzione dei corsi e' comunicata tempestivamente dal Rettore dell'universita' al Ministero che ne cura la diffusione.
 
@@ -60,6 +138,38 @@ Nel caso di convenzioni o intese con piccole e medie imprese, imprese artigiane,
 Possono accedere al dottorato di ricerca, senza limitazioni di eta' e cittadinanza, coloro che sono in possesso di laurea o di analogo titolo accademico conseguito all'estero, preventivamente riconosciuto dalle autorita' accademiche, anche nell'ambito di accordi interuniversitari di cooperazione e mobilita'.
 
 Le universita' disciplinano le prove di ammissione assicurando un'idonea valutazione comparativa dei candidati, tempi ristretti per l'espletamento, nonche' la pubblicita' degli atti.
+
+3.
+                    
+                        
+                            Il bando di concorso per l'ammissione e' emanato dal rettore dell'universita', che ne cura la pubblicita', compresa la pubblicazione nella Gazzetta Ufficiale della Repubblica italiana. Il rettore ne invia tempestivamente comunicazione al MURST per la diffusione a livello nazionale anche tramite mezzi informatici. Il bando di concorso comunque indica:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero complessivo dei laureati da ammettere al dottorato di ricerca;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero e l'ammontare delle borse di studio da determinare e conferire ai sensi dell'articolo 7;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i contributi a carico dei dottorandi e la disciplina degli esoneri ai sensi dell'articolo 7;
+
+                            
+                        
+                        
+                            d)
+                            
+                                modalita' di svolgimento delle prove di ammissione.
 
 Il rettore, sentito il collegio dei docenti, nomina con proprio decreto la commissione incaricata della valutazione comparativa dei candidati, composta da tre membri scelti tra professori e ricercatori universitari di ruolo, cui possono essere aggiunti non piu' di due esperti, anche stranieri, scelti nell'ambito degli enti e delle strutture pubbliche e private di ricerca; la nomina di tali esperti e' obbligatoria qualora si realizzino le condizioni di cui al comma 3 dell'articolo 4.
 
@@ -93,6 +203,73 @@ Successivamente al rilascio del titolo, l'universita' medesima cura il deposito 
 Gli accordi di cooperazione interuniversitaria internazionale possono prevedere specifiche procedure per il conseguimento del titolo.
 
 ## Art. 7. — Borse e contributi
+
+1.
+                    
+                        
+                            Le universita' definiscono i contributi per l'accesso e la frequenza ai corsi, nonche' conferiscono borse di studio in conformita' ai seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                i contributi sono graduati secondo i criteri e i parametri di cui al decreto del Presidente del Consiglio dei Ministri 30 aprile 1997, pubblicato nella Gazzetta Ufficiale n. 116 del 9 giugno 1997;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'importo delle borse di studio non puo' essere inferiore a quello determinato ai sensi dell'articolo 1, comma 1, lettera a), della legge 3 agosto 1998, n. 315, e successive modificazioni e integrazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dottorandi titolari di borse di studio conferite dalle universita' su fondi ripartiti dai decreti del Ministro di cui all'articolo 4, comma 3, della legge 3 luglio 1998, n. 210, sono esonerati preventivamente dai contributi per l'accesso e la frequenza dei corsi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le borse di studio sono assegnate previa valutazione comparativa del merito e secondo l'ordine definito nella relativa graduatoria. A parita' di merito prevale la valutazione della situazione economica determinata ai sensi del decreto di cui alla lettera a);
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero di borse di studio conferite dalle universita', comprensivo di quelle conferite su fondi ripartiti dai decreti del Ministro di cui all'articolo 4, comma 3 della legge 3 luglio 1998, n. 210, e' non inferiore alla meta' dei dottorandi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli oneri per il finanziamento delle borse di studio, comprensive dei contributi per l'accesso e la frequenza ai corsi, non coperti dai fondi ripartiti dai decreti del Ministro di cui all'articolo 4, comma 3, della legge 3 luglio 1998, n. 210, possono essere coperti dall'universita' anche mediante convenzione con soggetti estranei all'amministrazione universitaria, da stipulare in data antecedente all'emanazione del bando, anche in applicazione dell'articolo 5, comma 1, lettera b), della legge 27 dicembre 1997, n. 449, e successive modificazioni e integrazioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la durata dell'erogazione della borsa di studio e' pari all'intera durata del corso;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la cadenza di pagamento della borsa di studio e' non superiore al bimestre;
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'importo della borsa di studio e' aumentato per l'eventuale periodo di soggiorno all'estero nella misura non inferiore del 50 per cento.
 
 ## Art. 8. — Norma finale
 

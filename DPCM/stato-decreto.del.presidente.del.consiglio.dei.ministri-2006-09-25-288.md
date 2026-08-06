@@ -8,8 +8,8 @@ codice_redazionale: 006G0308
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -30,6 +30,38 @@ Sulla proposta del Ministro dell'istruzione;
 Il presente decreto disciplina la composizione, le modalita' di nomina ed il funzionamento della Commissione scolastica regionale per l'istruzione in lingua slovena, di seguito denominata «Commissione», istituita ai sensi dell'articolo 13, comma 3, della legge 23 febbraio 2001, n. 38.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            La Commissione e' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                da due dirigenti scolastici, di cui uno della scuola primaria o secondaria di primo grado e uno della scuola secondaria di secondo grado, e da quattro insegnanti, di cui uno della scuola primaria, uno della scuola secondaria di primo grado, uno della scuola secondaria di secondo grado e uno della scuola primaria bilingue, eletti tra il personale delle scuole con insegnamento in lingua slovena o bilingue sloveno-italiano delle province di Trieste, Gorizia e Udine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un rappresentante eletto dal personale amministrativo, tecnico ed ausiliario delle scuole con insegnamento in. lingua slovena o bilingue slovenoitaliano delle province di Trieste, Gorizia e Udine;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da tre rappresentanti, uno per ciascuna provincia, designato dai genitori, eletti nei consigli di circolo e di istituto delle scuole con insegnamento in lingua slovena o bilingue sloveno-italiano delle province di Trieste, Gorizia e Udine;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da tre rappresentanti, uno per ciascuna delle province di Trieste, Gorizia e Udine, designati dagli alunni, eletti nei consigli di istituto delle scuole secondarie di secondo grado con insegnamento in lingua slovena o bilingue sloveno-italiano, ove esistenti.
 
 E' membro di diritto della Commissione il rappresentante delle scuole con insegnamento in lingua slovena eletto nel Consiglio Nazionale dell'Istruzione.
 

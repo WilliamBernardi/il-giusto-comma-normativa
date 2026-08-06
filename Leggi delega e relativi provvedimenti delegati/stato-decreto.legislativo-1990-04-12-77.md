@@ -8,8 +8,8 @@ codice_redazionale: 090G0116
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -22,6 +22,31 @@ Entrata in vigore del decreto: 19/4/1990
 Sulla proposta del Ministro di grazia e giustizia;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'art. 242 del decreto legislativo 28 luglio 1989, n. 271, recante norme di attuazione, di coordinamento e transitorie del codice di procedura penale, e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, sono soppresse le parole "di sei mesi ovvero, quando si tratta dei reati indicati nell'art. 407 comma 2 lettera a) del codice,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole "dei termini di sei o dodici mesi previsti" sono sostituite dalle seguenti: "del termine di dodici mesi previsto";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole "sei mesi" sono sostituite dalle seguenti: "dodici mesi".
 
 ## Art. 2.
 

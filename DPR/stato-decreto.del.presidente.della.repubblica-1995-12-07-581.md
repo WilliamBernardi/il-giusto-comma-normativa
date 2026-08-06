@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2000-12-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,7 +28,111 @@ Sulla proposta del Ministro dell'industria, del commercio e dell'artigianato e d
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento l'espressione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "Ministro" e "Ministero dell'industria" indicano rispettivamente il Ministro e il Ministero dell'industria, del commercio e dell'artigianato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "camera di commercio" indica la camera di commercio, industria, artigianato e agricoltura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "legge n. 580" indica la legge 29 dicembre 1993, n. 580; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "ufficio" indica l'ufficio del registro delle imprese; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "modello" indica il modello obbligatorio anche informatico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((IL D.P.R. 14 DICEMBRE 1999, N. 588 HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA)). 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((IL D.P.R. 14 DICEMBRE 1999, N. 588 HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA)). 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "REA" indica il repertorio delle notizie economiche e 
+ amministrative.
+
 ## Art. 2. — Compiti dell'ufficio
+
+1.
+                        
+                            
+                                L'ufficio esercita i compiti ad esso demandati dalla legge ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede, secondo tecniche informatiche nel rispetto delle norme vigenti, alla predisposizione, tenuta, conservazione e gestione del registro delle imprese, nonche' alla conservazione ed esibizione dei documenti e atti soggetti a deposito o iscrizione o annotazione nel registro delle imprese;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((IL D.P.R. 14 DICEMBRE 1999, N. 588 HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA.))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((IL D.P.R. 14 DICEMBRE 1999, N. 588 HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA.))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    provvede al rilascio, anche per corrispondenza e per via telematica, a chiunque ne faccia richiesta, di certificati di iscrizione o annotazione nel registro delle imprese o di certificati attestanti il deposito di atti a tal fine richiesti o la mancanza di iscrizione; provvede inoltre al rilascio di copia integrale o parziale di ogni atto per il quale sono previsti il deposito o l'iscrizione nel registro delle imprese, in conformita' alle norme vigenti. Il costo delle copie non puo' eccedere il costo amministrativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provvede alla bollatura e alla numerazione dei libri e delle scritture contabili a norma degli articoli 2215 e seguenti del codice civile e di altre leggi.
 
 L'ufficio provvede, altresi', sotto la vigilanza del Ministero dell'industria, alla tenuta del REA, nonche' al rilascio di visure e certificati inerenti alle iscrizioni e alle annotazioni nel registro delle ditte.
 
@@ -48,7 +152,32 @@ In caso di accorpamento delle circoscrizioni territoriali di piu' camere di comm
 
 ## Art. 5. — Strumenti
 
+1.
+                        
+                            
+                                L'ufficio tiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    il protocollo;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    il registro delle imprese;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'archivio degli atti e dei documenti.
+
+((IL D.P.R. 14 DICEMBRE 1999, N. 588 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
 ## Art. 6. — Protocollo
 
@@ -58,6 +187,33 @@ Numero progressivo e data di protocollazione devono essere riportati sulla doman
 ## Art. 7. — Registro delle imprese
 
 Il registro delle imprese, tenuto secondo il modello approvato con decreto del Ministero dell'industria, e' unico e comprende le sezioni speciali.
+
+2.
+                        
+                            
+                                Nel registro delle imprese sono iscritti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti previsti dalla legge e in particolare:
+ 1) gli imprenditori di cui all'art. 2195 del codice civile;
+ 2) le societa' di cui all'art. 2200 del codice civile;
+ 3) i consorzi di cui all'art. 2612 del codice civile e le societa' consortili di cui all'art. 2615-ter del codice civile;
+ 4) i gruppi europei di interesse economico di cui al decreto legislativo 23 luglio 1991, n. 240;
+ 5) gli enti pubblici che hanno per oggetto esclusivo o principale un'attivita' commerciale, di cui all'art. 2201 del codice civile;
+ 6) le societa' che sono soggette alla legge italiana ai sensi dell'art. 25 della legge 31 maggio 1995, n. 218;
+ 7) gli imprenditori agricoli di cui all'art. 2135 del codice civile;
+ 8) i piccoli imprenditori di cui all'art. 2083 del codice civile;
+ 9) le societa' semplici di cui all'art. 2251 del codice civile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti previsti dalla legge.
 
 (( COMMA ABROGATO DAL D.P.R. 14 DICEMBRE 1999, N. 588 )).
 
@@ -77,6 +233,24 @@ La conformita' all'originale dell'immagine archiviata e' attestata dal responsab
 ## Art. 9. — Repertorio delle notizie economiche e amministrative
 
 In attuazione dell'art. 8, comma 8, lettera d), della legge n. 580, presso l'ufficio e' istituito il repertorio delle notizie economiche ed amministrative (REA).
+
+2.
+                        
+                            
+                                Sono obbligati alla denuncia al REA:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli esercenti tutte le attivita' economiche e professionali la cui denuncia alla camera di commercio sia prevista dalle norme vigenti, purche' non obbligati all'iscrizione in albi tenuti da ordini o collegi professionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli imprenditori con sede principale all'estero che aprono nel territorio nazionale unita' locali.
 
 Il REA contiene le notizie economiche ed amministrative per le quali e' prevista la denuncia alla camera di commercio e la relativa utilizzazione del regio decreto 20 settembre 1934, n. 2011, dal regio decreto 4 gennaio 1925, n. 29, dall'art. 29 del decreto-legge 28 febbraio 1983, n. 55, convertito, con modificazioni, dalla legge 26 aprile 1983, n. 131, e da altre leggi, con esclusione di quelle gia' iscritte o annotate nel registro delle imprese e nelle sue sezioni speciali. Con decreto del Ministro, d'intesa con il Ministro delle risorse agricole, alimentari e forestali per la parte riguardante le imprese agricole, sono indicate le notizie di carattere economico, statistico, amministrativo che l'ufficio puo' acquisire, invece che dai privati, direttamente dagli archivi di pubbliche amministrazioni e dei concessionari di pubblici servizi secondo le norme vigenti, nonche' dall'archivio statistico delle imprese attive costituito a norma del regolamento CEE n. 2186 del 22 luglio 1993, purche' non coperte dal segreto statistico. Con lo stesso decreto sono stabilite modalita' semplificate per la denuncia delle notizie di carattere economico ed amministrativo da parte dei soggetti iscritti o annotati nelle sezioni speciali.
 
@@ -106,6 +280,45 @@ L'atto da iscrivere e' depositato in originale, con sottoscrizione autenticata, 
 
 Il numero di protocollo e i dati previsti dall'art. 8 della legge 7 agosto 1990, n. 241, sono comunicati, per iscritto, al richiedente al momento della presentazione della domanda.
 
+6.
+                        
+                            
+                                Prima di procedere all'iscrizione, l'ufficio accerta:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autenticita' della sottoscrizione della domanda;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la regolarita' della compilazione del modello di domanda;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la corrispondenza dell'atto o del fatto del quale si chiede l'iscrizione a quello previsto dalla legge;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'allegazione dei documenti dei quali la legge prescrive la presentazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il concorso delle altre condizioni richieste dalla legge per l'iscrizione.
+
 Per il controllo delle condizioni richieste dalla legge, si applicano le disposizioni dell'art. 6, comma 1, lettera b), della legge 7 agosto 1990, n. 241.
 
 L'iscrizione e' eseguita senza indugio e comunque entro il termine di dieci giorni dalla data di protocollazione della domanda.
@@ -125,7 +338,53 @@ Avvalendosi dell'interconnessione di cui all'art. 24, comma 5, del presente rego
 
 ## Art. 12. — Procedimento di iscrizione degli enti pubblici
 
+1.
+                        
+                            
+                                Per gli enti pubblici la domanda di iscrizione deve essere presentata dal rappresentante legale entro trenta giorni dall'inizio dell'attivita' di impresa e deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione dell'ente;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale dell'ente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data di costituzione dell'ente e dell'inizio dell'attivita' di impresa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'oggetto dell'attivita' commerciale, con la specificazione che l'attivita' commerciale dell'ente ha natura esclusiva o principale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il nome dei soggetti titolari del potere di rappresentanza dell'ente;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il nome dei componenti degli organi amministrativi deliberanti e di quello di controllo.
+
+(( COMMA ABROGATO DALLA LEGGE 24 NOVEMBRE 2000, N. 340 )).
 
 Se l'ente pubblico non e' costituito con atto avente forza di
 legge o con altro atto pubblicato nella Gazzetta Ufficiale della Repubblica della quale la domanda deve indicare serie, numero e data, l'atto da iscrivere e' depositato in copia autentica.
@@ -145,6 +404,31 @@ L'omologazione e' richiesta con ricorso presentato, a norma degli articoli 737 e
 
 La domanda di iscrizione e' accompagnata da una copia autentica del decreto con il quale e' ordinata l'iscrizione e dagli altri documenti richiesti dalla legge.
 
+4.
+                        
+                            
+                                Prima di procedere all'iscrizione, l'ufficio accerta:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autenticita' della sottoscrizione della domanda;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la regolarita' della compilazione del modello di domanda;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la regolarita' formale di tutti i documenti dei quali e' prescritta la presentazione.
+
 Per quanto non previsto si applicano le disposizioni dei commi 1, 2, 3, 4, 5, 8, 9 dell'art. 11 del presente regolamento.
 
 ## Art. 14. — Procedimento di deposito
@@ -159,6 +443,38 @@ Il numero e la data del protocollo, nonche' i dati previsti dall'art. 8 della le
 
 Nell'ipotesi di cui all'art. 2436 del codice civile, il richiedente presenta all'ufficio una domanda unica di iscrizione della delibera di modifica dell'atto costitutivo e di deposito del testo dell'atto modificato nella sua redazione aggiornata.
 L'iscrizione e il deposito sono eseguiti secondo le norme dettate rispettivamente per il procedimento di iscrizione e di deposito.
+
+6.
+                        
+                            
+                                L'ufficio accerta:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autenticita' della sottoscrizione della domanda, se la stessa non e' gia' autenticata nei modi di legge;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la regolarita' della compilazione del modello di domanda;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la corrispondenza dell'atto di cui si chiede il deposito, all'atto per il quale il deposito e' prescritto dalla legge;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la presentazione degli altri documenti richiesti dalla legge.
 
 L'ufficio, verificato l'adempimento delle condizioni di cui al comma 6, accetta l'atto soggetto a deposito e procede secondo tecniche informatiche all'archiviazione dello stesso e di tutti i documenti allegati, nonche' alla memorizzazione degli estremi dell'atto nel registro delle imprese, a fini di mera ricognizione dell'avvenuto deposito.
 
@@ -195,7 +511,106 @@ Il decreto del tribunale che ordina la cancellazione o il decreto del giudice de
 
 Per la iscrizione nelle sezioni speciali del registro delle imprese, il richiedente deve presentare, entro trenta giorni dall'inizio dell'attivita' di impresa o dalla conclusione del contratto sociale, all'ufficio della camera di commercio della provincia nella quale l'imprenditore ha sede, una domanda, recante la data e la sottoscrizione, redatta secondo il modello approvato con decreto del Ministro e accompagnata dai documenti richiesti dallo stesso.
 
+2.
+                        
+                            
+                                La domanda di iscrizione dell'imprenditore individuale deve comprendere le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome e il nome, il luogo e la data di nascita, la cittadinanza, la residenza anagrafica, il codice fiscale e la partita I.V.A. dell'imprenditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la ditta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' dell'impresa, specificando, se trattasi di impresa commerciale, il capitale investito e il numero dei dipendenti e dei componenti la famiglia e, se trattasi di impresa agricola, i principali allevamenti e coltivazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sede dell'impresa.
+
 L'imprenditore individuale deve richiedere l'iscrizione delle modificazioni relative agli elementi sopra indicati e della cessazione dell'attivita' della impresa entro trenta giorni da quello in cui le modificazioni o la cessazione si verificano.
+
+4.
+                        
+                            
+                                La domanda di iscrizione delle societa' semplici e' presentata dagli amministratori, corredata del contratto sociale, e deve comprendere le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome e il nome, il luogo e la data di nascita, la cittadinanza, la residenza anagrafica e il numero di codice fiscale dei soci;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la ragione sociale e il codice fiscale della societa';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i soci che hanno l'amministrazione e la rappresentanza della societa';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sede della societa' e le eventuali sedi secondarie;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'oggetto sociale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i conferimenti di ciascun socio ed il relativo valore;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le prestazioni alle quali sono obbligati i soci d'opera;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le norme secondo le quali gli utili devono essere ripartiti e la quota di ciascun socio negli utili e nelle perdite;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la durata della societa'.
 
 Gli amministratori della societa' semplice devono richiedere l'iscrizione delle modificazioni del contratto sociale e dello scioglimento della societa' con l'indicazione delle generalita' degli eventuali liquidatori, entro trenta giorni dalle modificazioni e dallo scioglimento.
 

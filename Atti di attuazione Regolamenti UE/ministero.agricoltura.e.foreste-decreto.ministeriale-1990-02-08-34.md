@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 vigenza_date: 1994-09-15
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO MINISTERIALE
@@ -163,6 +163,66 @@ Qualora la parte risultata in eccesso superi il 10% delle unita' dichiarate o le
 L'obbligo di restituire la parte di premio relativa alle unita' eccedenti, con l'eventuale maggiorazione di cui ai precedenti commi 2 e 3, non si applica qualora il beneficiario dimostri che la differenza non e' a lui imputabile a titolo di dolo o di colpa. In tale caso, per gli anni successivi al premio viene comunque corrisposto per le sole unita' accertate.
 
 Parimenti, nel caso previsto al precedente comma 4, in assenza di dolo o colpa, il beneficiario, pur decadendo dal regime, non e' tenuto alla restituzione di quanto gia' percepito.
+
+7.
+                    
+                        
+                            Viene altresi' pronunziata la decadenza dal regime di aiuti, con le conseguenze di cui ai precedenti commi 4 e 6: 
+ 
+                        
+                        
+                            a)
+                            
+                                se il beneficiario vieta l'accesso all'azienda agli organi di controllo e rifiuta di collaborare, anche attraverso un proprio incaricato, alle relative operazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se si accerta che il beneficiario non possedeva o non possiede i requisiti soggettivi per accedere all'aiuto, di cui all'art. 2 del decreto ministeriale 8 febbraio 1990, n. 34; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se si accerta che la produzione aziendale non e' ricompresa tra quelle ammesse al regime, di cui all'art. 3 del citato decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                se si accerta che l'estensivizzazione e' stata ottenuta mediante sottrazione dalla produzione di superfici ammesse al regime di ritiro dei seminativi dalla produzione (art. 1 del regolamento CEE n. 2328/91) od ammesse a beneficiare del premio per l'abbandono definitivo delle superfici viticole (regolamento CEE n. 1442/88); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nel caso di colture consociate, se si accerta che la superficie utilizzata per il prodotto oggetto di estensivizzazione e' inferiore al 60% della superficie totale interessata dalla consociazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                nel caso di ampliamento della superficie aziendale nel corso dell'impegno, se si accerta che il beneficiario aumenta la produzione oggetto di estensivizzazione utilizzando le superfici aggiunte; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                se si accerta che gli strumenti di produzione di un'azienda zootecnica, resi liberi in conseguenza dell'estensivizzazione, vengono utilizzati dal beneficiario o da terzi per incrementare le produzioni oggetto del regime o la produzione suinicola o avicola; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                se si accerta che le superfici foraggere di aziende zootecniche estensivizzate vengono in tutto o in parte utilizzate al di fuori dell'azienda stessa.
 
 Qualora le cause di decadenza previste alle lettere b), c) e d) del comma precedente si verifichino rispetto a non piu' del 10% del dichiarato, fino ad un massimo di 2 unita' estensivizzate, la decadenza dall'aiuto e' limitata alle sole unita' risultate irregolari, con le conseguenze previste al precedente comma 3.
 

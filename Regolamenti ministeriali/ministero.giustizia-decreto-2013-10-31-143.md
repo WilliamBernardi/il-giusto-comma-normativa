@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2013-10-31;143
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,38 @@ Nel rispetto di quanto previsto dall'articolo 9, ultimo periodo, del decreto-leg
 
 ## Art. 2. — Parametri generali per la determinazione del compenso
 
+1.
+                    
+                        
+                            Per la determinazione del compenso si applicano i seguenti parametri: 
+ 
+                        
+                        
+                            a)
+                            
+                                parametro «V», dato dal costo delle singole categorie componenti l'opera; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                parametro «G», relativo alla complessita' della prestazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                parametro «Q», relativo alla specificita' della prestazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                parametro base «P», che si applica al costo economico delle singole categorie componenti l'opera.
+
 ## Art. 3. — Identificazione e determinazione dei parametri
 
 Il parametro "V" definito quale costo delle singole categorie componenti l'opera, e' individuato sulla base del preventivo di progetto, o sulla base del consuntivo lordo nelle fasi di direzione esecutiva e collaudo e, ove applicabili, sulla base dei criteri di cui alla tavola Z-1 allegata facente parte integrante del presente regolamento; per le prestazioni relative ad opere esistenti tale costo e' corrispondente all'importo complessivo delle opere, esistenti e nuove, oggetto della prestazione;
@@ -73,6 +105,31 @@ L'importo delle spese e degli oneri accessori e' stabilito in maniera forfettari
 Altre attivita'
 
 Per la determinazione del corrispettivo a base di gara per prestazioni complementari non ricomprese nelle tavole allegate al presente decreto, si fa ricorso al criterio di analogia con le prestazioni comprese nelle tavole allegate.
+
+2.
+                    
+                        
+                            Per determinare i corrispettivi a base di gara per altre prestazioni non determinabili ai sensi del comma 1, si tiene conto dell'impegno del professionista e dell'importanza della prestazione, nonche' del tempo impiegato, con riferimento ai seguenti valori: 
+ 
+                        
+                        
+                            a)
+                            
+                                professionista incaricato €/ora (da 50,00 a 75,00); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aiuto iscritto €/ora (da 37,00 a 50,00); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                aiuto di concetto €/ora (da 30,00 a 37,00).
 
 ## Art. 7. — Specificazione delle prestazioni
 

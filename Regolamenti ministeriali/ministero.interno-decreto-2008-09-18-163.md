@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2021-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -58,6 +58,24 @@ Il punteggio della prova preselettiva non concorre alla formazione del voto fina
 ((
 
 Gli esami sono costituiti da tre prove motorio-attitudinali, ciascuna delle quali puo' essere composta da piu' moduli. Tali prove sono seguite dalla valutazione dei titoli.
+
+2.
+                    
+                        
+                            Per la valutazione delle prove di esame e dei titoli sono fissati i seguenti punteggi massimi attribuiti a ciascun elemento di valutazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                ciascuna prova motorio-attitudinale: 30 punti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                titoli: 5 punti.
 
 Le prove motorio-attitudinali sono dirette ad accertare il possesso dell'efficienza fisica e la predisposizione all'esercizio delle funzioni del ruolo dei vigili del fuoco, anche eventualmente con riferimento all'utilizzo di attrezzature e mezzi operativi e sono finalizzate ad accertare la capacita' di forza, di resistenza, di equilibrio, di coordinazione, di reazione motoria, di acquaticita', nonche' l'attitudine a svolgere l'attivita' di vigile del fuoco. La tipologia e le modalita' di svolgimento delle prove sono indicate nel bando di concorso.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-06-06;13
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,6 +51,38 @@ Ai fini del presente regolamento si applicano le definizioni di «stabilimento»
  che lavora nello stabilimento
 
 Il gestore consulta il personale che lavora nello stabilimento tramite i rappresentanti dei lavoratori per la sicurezza, di cui all'articolo 47 del decreto legislativo 9 aprile 2008, n. 81.
+
+2.
+                    
+                        
+                            Ai fini della consultazione, il gestore mette a disposizione dei rappresentanti dei lavoratori per la sicurezza, almeno quindici giorni prima dell'incontro di cui al comma 3, le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli elementi dell'analisi dei rischi utilizzati per la predisposizione del PEI; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la versione in bozza del PEI; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le azioni previste per la formazione specifica di tutto il personale coinvolto nella pianificazione dell'emergenza che lavora nello stabilimento, compreso il personale interessato di imprese subappaltatrici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ogni altro elemento utile alla comprensione del PEI e, comunque, ogni documento rilevante.
 
 Prima di adottare, rivedere o aggiornare il PEI, il gestore o i suoi rappresentanti incontrano i rappresentanti dei lavoratori per la sicurezza. Dell'incontro e' redatto apposito verbale, che e' parte integrante del PEI, ed e' depositato presso lo stabilimento a disposizione delle autorita' competenti di cui agli articoli 10 e 27 del decreto legislativo 26 giugno 2015, n. 105.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2020-05-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,53 @@ Nell'articolo 1 del decreto del Presidente della Repubblica 22 luglio 1998, n. 3
 
 ## Art. 2. — Termine per la presentazione della dichiarazione
  in materia di imposte sui redditi e di I.R.A.P.
+
+1.
+                        
+                            
+                                All'articolo 2 del decreto del Presidente della Repubblica n. 322 del 1998 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 1, 2 e 3 sono sostituiti dai seguenti:
+ "1. Le persone fisiche e le societa' o le associazioni di cui all'articolo 6 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, presentano la dichiarazione secondo le disposizioni di cui all'articolo 3, per il tramite di una banca o di un ufficio della Poste italiane S.p.a. tra il 1 maggio ed il 31 luglio ovvero in via telematica entro il 31 ottobre dell'anno successivo a quello di chiusura del periodo di imposta.
+ 2. I soggetti all'imposta sul reddito delle persone giuridiche, presentano la dichiarazione secondo le disposizioni di cui all'articolo 3:
+ a) per il tramite di una banca o di un ufficio della Poste italiane S.p.a., ad eccezione dei soggetti di cui all'articolo 3, comma 2, entro l'ultimo giorno del settimo mese successivo a quello di chiusura del periodo di imposta;
+ b) in via telematica, entro l'ultimo giorno del decimo mese successivo a quello di chiusura del periodo di imposta.
+ 3. I soggetti non tenuti alla presentazione della dichiarazione dei redditi presentano la dichiarazione ai fini dell'imposta regionale sulle attivita' produttive entro i termini previsti dal comma 2 e secondo le disposizioni di cui all'articolo 3.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 4, 4-bis e 5 sono abrogati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 8 e' sostituito dal seguente:
+ "8. Salva l'applicazione delle sanzioni, le dichiarazioni dei redditi, dell'imposta regionale sulle attivita' produttive e dei sostituti d'imposta possono essere integrate per correggere errori od omissioni mediante successiva dichiarazione da presentare, secondo le disposizioni di cui all'articolo 3, utilizzando modelli conformi a quelli approvati per il periodo d'imposta cui si riferisce la dichiarazione, non oltre i termini stabiliti dall'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 8 e' inserito il seguente:
+ "8-bis. Le dichiarazioni dei redditi, dell'imposta regionale sulle attivita' produttive e dei sostituti di imposta possono essere integrate dai contribuenti per correggere errori od omissioni che abbiano determinato l'indicazione di un maggior reddito o, comunque, di un maggior debito d'imposta o di un minor credito, mediante dichiarazione da presentare, secondo le disposizioni di cui all'articolo 3, utilizzando modelli conformi a quelli approvati per il periodo d'imposta cui si riferisce la dichiarazione, non oltre il termine prescritto per la presentazione della dichiarazione relativa al periodo d'imposta successivo. L'eventuale credito risultante dalle predette dichiarazioni puo' essere utilizzato in compensazione ai sensi dell'articolo 17 del decreto legislativo n. 241 del 1997.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 9 e' sostituito dal seguente:
+ "9. I termini di presentazione della dichiarazione che scadono di sabato sono prorogati d'ufficio al primo giorno feriale successivo.".
 
 ## Art. 3. — Presentazione delle dichiarazioni in materia
  di imposte sui redditi e di I.R.A.P.
@@ -73,7 +120,78 @@ L'Amministrazione finanziaria puo' chiedere l'esibizione della dichiarazione e d
 
 ## Art. 4. — Dichiarazione dei sostituti d'imposta
 
+1.
+                        
+                            
+                                All'articolo 4 del decreto del Presidente della Repubblica n. 322 del 1998 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 1 e 2 sono sostituiti dai seguenti:
+ "1. Salvo quanto previsto per la dichiarazione unificata dall'articolo 3, comma 1, i soggetti indicati nel titolo III del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, obbligati ad operare ritenute alla fonte, che corrispondono compensi, sotto qualsiasi forma, soggetti a ritenute alla fonte secondo le disposizioni dello stesso titolo, nonche' gli intermediari e gli altri soggetti che intervengono in operazioni fiscalmente rilevanti tenuti alla comunicazione di dati ai sensi di specifiche disposizioni normative, presentano annualmente una dichiarazione unica, anche ai fini dei contributi dovuti all'Istituto nazionale per la previdenza sociale (I.N.P.S.) e dei premi dovuti all'Istituto nazionale per le assicurazioni contro gli infortuni sul lavoro (I.N.A.I.L.), relativa a tutti i percipienti, redatta in conformita' ai modelli approvati con i provvedimenti di cui all'articolo 1, comma 1.
+ 2. La dichiarazione indica i dati e gli elementi necessari per l'individuazione del sostituto d'imposta, dell'intermediario e degli altri soggetti di cui al precedente comma, per la determinazione dell'ammontare dei compensi e proventi, sotto qualsiasi forma corrisposti, delle ritenute, dei contributi e dei premi, nonche' per l'effettuazione dei controlli e gli altri elementi richiesti nel modello di dichiarazione, esclusi quelli che l'Agenzia delle entrate, l'I.N.P.S. e l'I.N.A.I.L. sono in grado di acquisire direttamente e sostituisce le dichiarazioni previste ai fini contributivi e assicurativi.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 e' inserito il seguente:
+ "3-bis. I sostituti d'imposta, comprese le Amministrazioni dello Stato, anche con ordinamento autonomo, di cui al primo comma dell'articolo 29 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che effettuano le ritenute sui redditi a norma degli articoli 23, 24, 25, 25-bis e 29 del citato decreto n. 600 del 1973, tenuti al rilascio della certificazione di cui all'articolo 7-bis del medesimo decreto, trasmettono in via telematica, direttamente o tramite gli incaricati di cui all'articolo 3, commi 2-bis e 3, all'Agenzia delle entrate i dati fiscali e contributivi contenuti nella predetta certificazione, nonche' gli ulteriori dati necessari per l'attivita' di liquidazione e controllo dell'Amministrazione finanziaria e degli enti previdenziali e assicurativi, entro il 30 giugno dell'anno successivo a quello di erogazione. Entro la stessa data sono, altresi', trasmessi in via telematica i dati contenuti nelle certificazioni rilasciate ai soli fini contributivi e assicurativi nonche' quelli relativi alle operazioni di conguaglio effettuate a seguito dell'assistenza fiscale prestata ai sensi del decreto legislativo 9 luglio 1997, n. 241, e successive modificazioni. Le trasmissioni in via telematica effettuate ai sensi del presente comma sono equiparate, a tutti gli effetti, alla esposizione dei medesimi dati nella dichiarazione di cui al comma 1.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 4 e' inserito seguente:
+ "4-bis. Salvo quanto previsto dal comma 3-bis, i sostituti di imposta, comprese le Amministrazioni dello Stato, anche con ordinamento autonomo, gli intermediari e gli altri soggetti di cui al comma 1 presentano in via telematica, secondo le disposizioni di cui all'articolo 3, commi 2, 2-bis, 2-ter e 3, la dichiarazione di cui al comma 1, relativa all'anno solare precedente, entro il 31 ottobre di ciascun anno.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 6 e' soppresso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 6-bis e' sostituito dal seguente:
+ "6-bis. I soggetti indicati nell'articolo 29, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che corrispondono compensi, sotto qualsiasi forma, soggetti a ritenuta alla fonte comunicano all'Agenzia delle entrate mediante appositi elenchi i dati fiscali dei percipienti. Con provvedimento del direttore dell'Agenzia delle entrate sono stabiliti il contenuto, i termini e le modalita' delle comunicazioni, previa intesa con le rispettive Presidenze delle Camere e della Corte costituzionale, con il segretario generale della Presidenza della Repubblica, e, nel caso delle regioni a statuto speciale, con i Presidenti dei rispettivi organi legislativi. Nel medesimo provvedimento puo' essere previsto anche l'obbligo di indicare i dati relativi ai contributi dovuti agli enti e casse previdenziali.".
+
 ## Art. 5. — Dichiarazione nei casi di liquidazione
+
+1.
+                        
+                            
+                                All'articolo 5 del decreto del Presidente della Repubblica n. 322 del 1998 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente:
+ "1. In caso di liquidazione di societa' o enti soggetti all'imposta sul reddito delle persone giuridiche, di societa' o associazioni di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e di imprese individuali, il liquidatore o, in mancanza, il rappresentante legale, presenta, secondo le disposizioni di cui all'articolo 3, la dichiarazione relativa al periodo compreso tra l'inizio del periodo d'imposta e la data in cui ha effetto la deliberazione di messa in liquidazione entro l'ultimo giorno del settimo mese successivo a tale data, per il tramite di una banca o un ufficio postale, ovvero entro l'ultimo giorno del decimo mese successivo in via telematica. Lo stesso liquidatore presenta la dichiarazione relativa al risultato finale delle operazioni di liquidazione entro sette mesi successivi alla chiusura della liquidazione stessa o al deposito del bilancio finale, se prescritto, per il tramite di una banca o di un ufficio postale ovvero entro l'ultimo giorno del decimo mese successivo, in via telematica.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 e' sostituito dal seguente:
+ "4. Nei casi di fallimento o di liquidazione coatta amministrativa, le dichiarazioni di cui al comma 1 sono presentate, anche se si tratta di imprese individuali, dal curatore o dal commissario liquidatore, in via telematica, avvalendosi del servizio telematico Entratel, direttamente o tramite i soggetti incaricati di cui all'articolo 3, comma 3, entro l'ultimo giorno del decimo mese successivo a quello, rispettivamente, della nomina del curatore e del commissario liquidatore, e della chiusura del fallimento e della liquidazione; le dichiarazioni di cui al comma 3 sono presentate, con le medesime modalita', esclusivamente ai fini dell'imposta regionale sulle attivita' produttive e soltanto se vi e' stato esercizio provvisorio.".
 
 ## Art. 6. — Dichiarazione nei casi di trasformazione
  di fusione e di scissione
@@ -91,6 +209,35 @@ Gli articoli 6 e 7 del decreto del Presidente della Repubblica n. 322 del 1998 s
 
 ## Art. 8. — Dichiarazione annuale in materia
  di imposta sul valore aggiunto
+
+1.
+                        
+                            
+                                All'articolo 8 del decreto del Presidente della Repubblica n. 322 del 1998 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 1 e 2 sono sostituiti dai seguenti:
+ "1. Salvo quanto previsto relativamente alla dichiarazione unificata, il contribuente presenta, secondo le disposizioni di cui all'articolo 3, tra il 1 febbraio e il 31 luglio ovvero, in caso di presentazione in via telematica, entro il 31 ottobre di ciascun anno, la dichiarazione relativa all'imposta sul valore aggiunto dovuta per l'anno solare precedente, redatta in conformita' al modello approvato entro il 15 gennaio dell'anno in cui e' utilizzato con provvedimento amministrativo da pubblicare nella Gazzetta Ufficiale. La trasmissione della dichiarazione in via telematica e' effettuata entro il mese di novembre da parte dei soggetti indicati nel comma 11 del medesimo articolo 3. La dichiarazione annuale e' presentata anche dai contribuenti che non hanno effettuato operazioni imponibili. Sono esonerati dall'obbligo di presentazione della dichiarazione i contribuenti che nell'anno solare precedente hanno registrato esclusivamente operazioni esenti dall'imposta di cui all'articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, salvo che siano tenuti alle rettifiche delle detrazioni di cui all'articolo 19-bis2 del medesimo decreto, ovvero abbiano registrato operazioni intracomunitarie, nonche' i contribuenti esonerati ai sensi di specifiche disposizioni normative.
+ 2. Nella dichiarazione sono indicati i dati e gli elementi necessari per l'individuazione del contribuente, per la determinazione dell'ammontare delle operazioni e dell'imposta e per l'effettuazione dei controlli, nonche' gli altri elementi richiesti nel modello di dichiarazione, esclusi quelli che l'Agenzia delle entrate e' in grado di acquisire direttamente.".
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' sostituito dal seguente:
+ "4. In caso di fallimento o di liquidazione coatta amministrativa, la dichiarazione relativa all'imposta dovuta per l'anno solare precedente, sempreche' i relativi termini di presentazione non siano ancora scaduti, e' presentata dai curatori o dai commissari liquidatori con le modalita' e i termini ordinari di cui al comma 1 ovvero entro quattro mesi dalla nomina se quest'ultimo termine scade successivamente al termine ordinario. Con le medesime modalita' e nei termini ordinari, i curatori o i commissari liquidatori presentano la dichiarazione per le operazioni registrate nell'anno solare in cui e' dichiarato il fallimento ovvero la liquidazione coatta amministrativa. Per le operazioni registrate nella parte dell'anno solare anteriore alla dichiarazione di fallimento o di liquidazione coatta amministrativa e' anche presentata, entro quattro mesi dalla nomina, apposita dichiarazione al competente ufficio dell'Agenzia delle entrate ai fini della eventuale insinuazione al passivo della procedura concorsuale.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 6 e' sostituito dal seguente:
+ "6. Per la sottoscrizione, la presentazione e la conservazione della dichiarazione relativa all'imposta sul valore aggiunto si applicano le disposizioni di cui all'articolo 1, commi 2, 3 e 4, all'articolo 2, commi 7, 8, 8-bis e 9, e all'articolo 3.".
 
 ## Art. 9. — Comunicazione dati I.V.A.
 
@@ -114,6 +261,34 @@ I contribuenti che si avvalgono della facolta' di acquistare o importare beni e 
  soppressione dell'obbligo delle
  dichiarazioni periodiche I.V.A.
 
+1.
+                        
+                            
+                                Nell'articolo 1 del decreto del Presidente della Repubblica 23 marzo 1998, n. 100, e successive modificazioni, riguardante il regolamento recante norme per la semplificazione e la razionalizzazione di alcuni adempimenti contabili in materia di imposta sul valore aggiunto, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dai seguenti:
+ "1. Entro il giorno 16 di ciascun mese, il contribuente determina la differenza tra l'ammontare complessivo dell'imposta sul valore aggiunto esigibile nel mese precedente, risultante dalle annotazioni eseguite o da eseguire nei registri relativi alle fatture emesse o ai corrispettivi delle operazioni imponibili, e quello dell'imposta, risultante dalle annotazioni eseguite, nei registri relativi ai beni ed ai servizi acquistati, sulla base dei documenti di acquisto di cui e' in possesso e per i quali il diritto alla detrazione viene esercitato nello stesso mese ai sensi dell'articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. Il contribuente, qualora richiesto dagli organi dell'Amministrazione finanziaria, fornisce gli elementi in base ai quali ha operato la liquidazione periodica.
+ 1-bis. Le disposizioni di cui al comma 1, ultimo periodo, si applicano anche ai soggetti di cui all'articolo 7 del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542.
+ 1-ter. Resta ferma la possibilita' per gli aventi diritto di presentare istanza di rimborso infrannuale.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 2, 2-bis e 2-ter sono abrogati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4 sono soppresse le seguenti parole: ", e annota sul registro gli estremi della relativa attestazione".
+
 Nell'articolo 30, secondo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono soppresse le parole: "annotandolo nel registro indicato nell'articolo 25".
 
 Nell'articolo 1, comma 1, del decreto del Presidente della Repubblica 10 novembre 1997, n. 443, sono soppresse le parole: ", previa annotazione nel registro di cui all'articolo 25 del citato decreto n. 633 del 1972.".
@@ -132,6 +307,24 @@ Nel decreto del Presidente della Repubblica 14 ottobre 1999, n. 542, e successiv
 ## Art. 12. — Semplificazione in materia di tenuta
  di registri contabili
 
+1.
+                        
+                            
+                                I soggetti di cui all'articolo 13, comma primo, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che tengono i libri di cui all'articolo 2214, primo comma, del codice civile, hanno facolta' di non tenere i registri prescritti ai fini dell'imposta sul valore aggiunto di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ed il registro dei beni ammortizzabili di cui all'articolo 16 del medesimo decreto del Presidente della Repubblica 29 settembre 1973, n. 600, a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    le registrazioni siano effettuate nel libro giornale nei termini previsti dalla disciplina dell'imposta sul valore aggiunto per i relativi registri e nel termine stabilito per la presentazione della dichiarazione per il registro dei beni ammortizzabili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta dell'Amministrazione finanziaria, siano forniti, in forma sistematica, gli stessi dati che sarebbe stato necessario annotare nei registri per i quali ci si avvale della facolta' di cui al presente articolo.
+
 Le annotazioni nei registri contabili di cui all'articolo 2214 del codice civile sono equiparate a tutti gli effetti a quelle previste nei registri prescritti ai fini dell'imposta sul valore aggiunto e nel registro dei beni ammortizzabili.
 
 ## Art. 13. — Semplificazioni in materia di registrazione
@@ -149,6 +342,24 @@ La fornitura di tali dati e' equiparata, a tutti gli effetti, alla annotazione d
 I soggetti di cui all'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, possono non tenere il registro dei beni ammortizzabili qualora, a seguito di richiesta dell'Amministrazione finanziaria, forniscano, ordinati in forma sistematica, gli stessi dati previsti dall'articolo 16, primo, secondo e terzo comma, del decreto del Presidente della Repubblica n. 600 del 1973.
 
 La fornitura di tali dati e' equiparata, a tutti gli effetti, all'annotazione dei medesimi nel registro dei beni ammortizzabili.
+
+3.
+                        
+                            
+                                I soggetti di cui al comma 1 che abbiano optato per il regime di contabilita' ordinaria prevista dall'articolo 3, comma 2, decreto del Presidente della Repubblica 9 dicembre 1996, n. 695, hanno facolta' di non tenere i registri prescritti ai fini dell'imposta sul valore aggiunto di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ed il registro dei beni ammortizzabili di cui all'articolo 16 del medesimo decreto del Presidente della Repubblica 29 settembre 1973, n. 600, a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    le registrazioni siano effettuate nel registro cronologico di cui all'articolo 3, comma 2, lettera a), del decreto Presidente della Repubblica 9 dicembre 1996, n. 695, nei termini previsti dalla disciplina dell'imposta sul valore aggiunto per i relativi registri e nel termine stabilito per la presentazione della dichiarazione per il registro dei beni ammortizzabili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta dell'Amministrazione finanziaria, siano forniti, in forma sistematica, gli stessi dati che sarebbe stato necessario annotare nei registri per i quali ci si avvale della facolta' di cui al presente articolo.
 
 Le annotazioni nel registro cronologico sono equiparate a tutti gli effetti a quelle previste nei registri prescritti ai fini dell'imposta sul valore aggiunto e nel registro dei beni ammortizzabili.
 
@@ -171,6 +382,25 @@ Il versamento del saldo dovuto con riferimento alla dichiarazione dei redditi ed
 Il versamento del saldo dovuto in base alla dichiarazione relativa all'imposta sul reddito delle persone giuridiche ed a quella dell'imposta regionale sulle attivita' produttive e' effettuato entro l'ultimo giorno del sesto mese successivo a quello di chiusura del periodo d'imposta. I soggetti che in base a disposizioni di legge approvano il bilancio oltre il termine di quattro mesi dalla chiusura dell'esercizio, versano il saldo dovuto in base alla dichiarazione relativa all'imposta sul reddito delle persone giuridiche ed a quella dell'imposta regionale sulle attivita' produttive entro l'ultimo giorno del mese successivo a quello di approvazione del bilancio. Se il bilancio non e' approvato nel termine stabilito, in base alle disposizioni di legge di cui al precedente periodo, il versamento e' comunque effettuato entro l'ultimo giorno del mese successivo a quello di scadenza del termine stesso. (2) (4)
 
 I versamenti di cui al comma 1 possono essere effettuati entro il trentesimo giorno successivo ai termini ivi previsti, maggiorando le somme da versare dello 0,40 per cento a titolo di interesse corrispettivo.
+
+3.
+                        
+                            
+                                I versamenti di acconto dell'imposta sul reddito delle persone fisiche e dell'imposta sul reddito delle persone giuridiche dovuti ai sensi della legge 23 marzo 1977, n. 97, e successive modificazioni, nonche' quelli relativi all'imposta regionale sulle attivita' produttive, sono effettuati in due rate salvo che il versamento da effettuare alla scadenza della prima rata non superi euro 103. Il quaranta per cento dell'acconto dovuto e' versato alla scadenza della prima rata e il residuo importo alla scadenza della seconda. Il versamento dell'acconto e' effettuato, rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la prima rata, nel termine previsto per il versamento del saldo dovuto in base alla dichiarazione relativa all'anno d'imposta precedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la seconda rata, nel mese di novembre, ad eccezione di quella dovuta dai soggetti all'imposta sul reddito delle persone giuridiche e all'imposta regionale sulle attivita' produttive il cui periodo d'imposta non coincide con l'anno solare, che effettuano il versamento di tale rata entro l'ultimo giorno dell'undicesimo mese dello stesso periodo d'imposta. ((7)) 
+ (5)
 
 ---------------
                             AGGIORNAMENTO (2)
@@ -207,6 +437,24 @@ I riferimenti alle disposizioni indicate nell'articolo 11 del decreto del Presid
 Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002. Gli effetti delle disposizioni di cui all'articolo 9 decorrono dal 1 gennaio 2003.
 
 Le disposizioni di cui all'articolo 17 hanno effetto a decorrere dal 1 gennaio 2002.
+
+6.
+                        
+                            
+                                Ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, dal 1 gennaio 2002 si intendono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma dell'articolo 2 della legge 23 marzo 1977, n. 97;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 dell'articolo 4 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154.
 
 Ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, si intende abrogato l'articolo 1, comma 3, del decreto-legge 29 dicembre 1983, n. 746, convertito, con modificazioni, dalla legge 27 febbraio 1984, n. 17.
 

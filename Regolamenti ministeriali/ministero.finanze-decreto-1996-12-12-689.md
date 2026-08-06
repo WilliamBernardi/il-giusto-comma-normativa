@@ -8,8 +8,8 @@ codice_redazionale: 097G0018
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,66 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 26 se
 ## Art. 1. — Campo d'applicazione
 
 Il rimborso dell'accisa afferente ai prodotti immessi in consumo in territorio nazionale e successivamente destinati al consumo in altro Paese comunitario od all'esportazione, previsto dall'articolo 14, comma 3, primo periodo, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con decreto legislativo 26 ottobre 1995, n. 504, d'ora in avanti denominato "testo unico", e' concesso, a norma del comma 4 del medesimo articolo 14, anche mediante accredito, da utilizzare per il pagamento dell'accisa dovuta per l'immissione in consumo di prodotti soggetti alla medesima imposizione.
+
+2.
+                    
+                        
+                            Con le medesime modalita' di cui al comma 1 viene concesso il rimborso:
+ 
+                        
+                        
+                            a)
+                            
+                                ai sensi dell'articolo 24, comma 2, del testo unico, in caso d'impiego di oli minerali in usi esenti o assoggettati ad aliquota d'imposta ridotta, quando non e' prevista una specifica, diversa disposizione legislativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai sensi dell'articolo 27, commi 4 e 6 del testo unico, in caso d'impiego di alcole o di bevande alcoliche in usi esenti o assoggettati ad aliquota d'imposta ridotta, o quando i suddetti prodotti sono ritirati dal commercio perche' divenuti non idonei al consumo umano;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai sensi dell'articolo 6, comma 6, del testo unico, nel caso di reimmissione in deposito fiscale di prodotti assoggettati ad accisa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai sensi dell'articolo 61, comma 2, del testo unico, quando i prodotti sottoposti alle imposte di cui all'articolo 62 del testo unico medesimo, d'ora in avanti denominate "accise non armonizzate", sono immessi in consumo in altro Paese comunitario, esportati od impiegati in usi agevolati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai sensi dell'articolo 56, comma 7, del testo unico, quando si rende dovuto il rimborso dell'imposta di consumo sull'energia elettrica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ai sensi dell'articolo 7, comma 1, lettera e) del testo unico, quando, in caso di irregolarita' nella circolazione, sorge il diritto al rimborso in conseguenza dell'individuazione, in un altro Paese comunitario, del luogo in cui l'irregolarita' medesima e' stata commessa;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ai sensi dell'articolo 14, comma 3, secondo periodo, del testo unico, nel caso in cui vengano autorizzate operazioni di miscelazione dalle quali si ottiene un prodotto per il quale e' dovuta un'accisa di ammontare inferiore a quella pagata sui singoli componenti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ai sensi dell'articolo 14, comma 2, del testo unico, in qualsiasi altro caso in cui l'imposta sia stata indebitamente corrisposta.
 
 ## Art. 2. — Immissione in consumo in altri Paesi comunitari
  di prodotti assoggettati ad accisa
@@ -47,6 +107,38 @@ A trasferimento effettuato, lo speditore presenta all'UTF domanda di rimborso, n
 Per ottenere il rimborso previsto dall'articolo 1, comma 1, in caso di esportazione di prodotti sottoposti ad accisa armonizzata, e dall'articolo 1, comma 2, lettera d), in caso di esportazione di prodotti sottoposti ad accisa non armonizzata, il soggetto interessato presenta all'UTF domanda di rimborso allegando, a prova del buon esito dell'operazione, l'esemplare in suo possesso della bolletta di esportazione nella quale e' indicato l'importo dell'imposta di cui si chiede la restituzione, munito delle attestazioni di avvenuta esportazione apposte dalla dogana dopo l'effettuazione degli opportuni riscontri.
 
 ## Art. 5. — Altri casi di rimborso
+
+1.
+                    
+                        
+                            Per consentire l'effettuazione del rimborso nei casi previsti dall'articolo 1, comma 2, si seguono, in particolare, le procedure previste:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'impiego di oli minerali negli usi esenti di cui alla tabella A, punto 1, allegata al testo unico, dall'articolo 3, comma 7, del decreto del Ministro delle finanze 17 maggio 1995, n. 322, pubblicato nella Gazzetta Ufficiale n. 180 del 3 agosto 1995, che regolamenta l'impiego dei prodotti petroliferi in usi diversi dalla carburazione e dalla combustione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'impiego di alcole o di bevande alcoliche in usi esenti o assoggettati ad aliquota d'imposta ridotta, o quando i suddetti prodotti sono ritirati dal commercio perche' divenuti non idonei al consumo umano, dall'articolo 10, commmi 1 e 2, del decreto del Ministro delle finanze 9 luglio 1996, n. 524, pubblicato nella Gazzetta Ufficiale n. 237 del 9 ottobre 1996, che regolamenta l'impiego dell'alcole e delle bevande alcoliche in usi esenti da accisa o assoggettati ad aliquota ridotta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di reimmissione in deposito fiscale di prodotti assoggettati ad accisa, dall'articolo 17, comma 2, del decreto del Ministro delle finanze 25 marzo 1996, n. 210, pubblicato nel supplemento ordinario n. 70 della Gazzetta Ufficiale n. 97 del 26 aprile 1996, recante norme per estendere alla circolazione interna le disposizioni relative alla circolazione intracomunitaria dei prodotti sottoposti al regime delle accise;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i prodotti sottoposti ad accise non armonizzate, impiegati in usi agevolati, dall'articolo 7, comma 8, del decreto del Ministro delle finanze 17 settembre 1996, n. 557, pubblicato nella Gazzetta Ufficiale n. 252 del 26 ottobre 1996, recante norme per disciplinare l'applicazione dell'imposta di consumo sugli oli lubrificanti e sui bitumi.
 
 Per i rimborsi dell'imposta erariale di consumo sull'energia elettrica, per quelli conseguenti all'individuazione, in altro Paese comunitario, del luogo in cui e' stata commessa irregolarita' nella circolazione, o conseguenti a miscelazioni dalle quali si ottenga un prodotto per il quale e' dovuta un'accisa di ammontare inferiore a quella pagata sui singoli componenti o, infine, per qualsiasi altro caso in cui il rimborso sia conseguente ad una indebita corresponsione dell'imposta o ad un impiego agevolato, e per il quale non sia prevista una diversa, specifica normativa, si seguono le modalita' operative stabilite dal Dipartimento delle dogane e delle imposte indirette. In ogni caso viene presentata all'UTF competente per territorio documentata domanda di rimborso.
 

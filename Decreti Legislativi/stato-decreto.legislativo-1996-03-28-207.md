@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -59,6 +59,49 @@ Il presente decreto legislativo, in attuazione della delega conferita dall'art. 
 
 ## Art. 2. — Requisiti e condizioni
 
+1.
+                    
+                        
+                            L'indennizzo previsto dall'art. 1 spetta ai soggetti che, nel periodo compreso tra il 1 gennaio 1996 e il 31 dicembre 1998, siano in possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                piu' di 62 anni di eta', se uomini, ovvero piu' di 57 anni di eta', se donne;
+
+                            
+                        
+                        
+                            b)
+                            
+                                iscrizione, al momento della cessazione dell'attivita', per almeno 5 anni, in qualita' di titolari o coadiutori, nella Gestione dei contributi e delle prestazioni previdenziali degli esercenti attivita' commerciali presso l'Istituto nazionale della previdenza sociale (INPS).
+
+2.
+                    
+                        
+                            L'erogazione dell'indennizzo e' subordinata, nel periodo indicato dal comma 1, alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                cessazione definitiva dell'attivita' commerciale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                riconsegna dell'autorizzazione per l'esercizio dell'attivita' commerciale e dell'autorizzazione per l'attivita' di somministrazione al pubblico di alimenti e bevande, nel caso in cui quest'ultima sia esercitata congiuntamente all'attivita' di commercio al minuto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cancellazione del soggetto titolare dell'attivita' dal registro degli esercenti il commercio e dal registro delle imprese presso la camera di commercio, industria, artigianato e agricoltura.
+
 ## Art. 3. — Misura, durata e modalita' di erogazione
 
 L'indennizzo di cui all'art. 1 e' pari all'importo del trattamento minimo di pensione previsto per gli iscritti alla Gestione dei contributi e delle prestazioni degli esercenti attivita' commerciali dell'INPS.
@@ -84,6 +127,24 @@ Per le finalita' di cui al presente decreto e' istituito presso l'INPS il "Fondo
 Per il periodo compreso tra il 1 gennaio 1996 e il 31 dicembre 2000, gli iscritti alla Gestione di cui al comma 1 sono tenuti al versamento di un'aliquota contributiva aggiuntiva nella misura dello 0,09 per cento. Tale contribuzione e' riscossa unitamente a quella prevista dalla legge 2 agosto 1990, n. 233, e successive modificazioni ed integrazioni.((9))
 
 Per l'anno 1996 il pagamento di cui al comma 2 deve essere effettuato in unica soluzione entro il 20 ottobre 1996 con le modalita' stabilite dall'INPS.
+
+4.
+                    
+                        
+                            La contribuzione aggiuntiva di cui al comma 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la quota pari allo 0,07 per cento e' destinata al finanziamento del Fondo di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la restante quota pari allo 0,02 per cento e' devoluta alla Gestione dei contributi e delle prestazioni previdenziali degli esercenti attivita' commerciali.
 
 Le somme non utilizzate o impegnate dal Fondo di cui al comma 1 a copertura degli oneri derivanti dalla concessione dell'indennizzo vengono devolute alla Gestione dei contributi e delle prestazioni previdenziali degli esercenti attivita' commerciali, ove potranno essere utilizzate a copertura delle prestazioni che fanno carico alla Gestione medesima. 
  

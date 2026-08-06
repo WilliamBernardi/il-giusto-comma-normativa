@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-08-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,35 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 ## Art. 1. — Requisiti di onorabilita'
 
+1.
+                    
+                        
+                            Non possono essere iscritti all'Albo unico dei promotori finanziari, di cui all'articolo 31, comma 4, del decreto legislativo 24 febbraio 1998, n. 58 (di seguito "Albo"), coloro che: 
+ 
+                        
+                        
+                            a)
+                            
+                                si trovano in una delle condizioni di ineleggibilita' o decadenza previste dall'articolo 2382 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento; 
+ 2) alla reclusione per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto del 16 marzo 1942, n. 267; 
+ 3) alla reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria; 
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo.
+
 Non possono essere iscritti all'Albo coloro ai quali sia stata applicata su richiesta delle parti una delle pene previste dal comma 1, lettera c), salvi gli effetti della riabilitazione ed il caso dell'estinzione del reato. Le pene previste dal comma 1, lettera c), n. 1) e n. 2) non rilevano se inferiori a un anno.
 
 Con riferimento alle fattispecie disciplinate in tutto o in parte da ordinamenti stranieri, la verifica dell'insussistenza delle condizioni previste dai commi 1 e 2 e' effettuata sulla base di una valutazione di equivalenza sostanziale a cura dell'Organismo per la tenuta dell'Albo dei promotori finanziari (di seguito "Organismo") .  ((3))
@@ -42,6 +71,56 @@ Con riferimento alle fattispecie disciplinate in tutto o in parte da ordinamenti
 ## Art. 2. — ( (Situazioni impeditive
 
 
+
+1.
+                    
+                        
+                            Non possono essere iscritti all'Albo coloro che per almeno i due esercizi precedenti l'adozione dei relativi provvedimenti hanno svolto funzioni di amministrazione, direzione o controllo: 
+ 
+                        
+                        
+                            a)
+                            
+                                in imprese sottoposte a fallimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in imprese operanti nel settore creditizio, finanziario, mobiliare o assicurativo sottoposte alla procedura di amministrazione straordinaria o di liquidazione coatta amministrativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in intermediari finanziari nei cui confronti sia stata disposta la cancellazione dall'elenco generale o da quello speciale ai sensi dell'articolo 111, comma 1 , lettera c), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                in imprese nei cui confronti sono state irrogate, in relazione a reati da loro commessi, le sanzioni interdittive indicate nell'articolo 9, comma 2, lettere a) e b), del decreto legislativo 8 giugno 2001, n. 231.
+
+2.
+                    
+                        
+                            Non possono altresi' essere iscritti all'Albo: 
+ 
+                        
+                        
+                            a)
+                            
+                                coloro che nell'esercizio della professione di agente di cambio non hanno fatto fronte agli impegni previsti dalla legge o si trovano in stato di esclusione dalle negoziazioni in un mercato regolamentato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i consulenti finanziari radiati dal relativo albo ai sensi dell'articolo 18-bis del decreto legislativo 24 febbraio 1998, n. 58.
 
 Ai fini del comma 1, le frazioni di un esercizio superiori a sei mesi equivalgono a un esercizio intero.
 
@@ -67,6 +146,31 @@ Ai fini dell'iscrizione all'Albo occorre, altresi', superare una prova valutativ
 Sono esonerati dal superamento della prova di cui al comma 2 coloro che risultano in possesso dei requisiti di professionalita' accertati ((dall'Organismo)) sulla base dei criteri valutativi individuati dall'articolo 4.
 
 ## Art. 4. — Criteri valutativi della esperienza professionale
+
+1.
+                    
+                        
+                            L'accesso all'Albo dei promotori finanziari e' consentito a coloro che hanno acquistato una specifica esperienza professionale avendo svolto una delle sottoindicate attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                agente di cambio, iscritto al ruolo unico nazionale o al ruolo speciale tenuti dal ((Ministero dell'economia e delle finanze)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                negoziatore, abilitato ai sensi dell'articolo 7, comma 2, della legge 2 gennaio 1991, n. l; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                funzionario di banca addetto ad uno dei ((servizi e attivita' di investimento)) previsti dal decreto legislativo 24 febbraio 1998, n. 58, o al settore della commercializzazione di prodotti finanziari della banca, ovvero personale preposto ad una dipendenza o ad un'altra unita' operativa, o comunque responsabile della stessa, addetto ad uno dei predetti ((servizi e attivita' di investimento)), ovvero responsabile del controllo interno;
 
 Le attivita' di cui alle lettere c) e d) del comma 1, devono essere state svolte per uno o piu' periodi di tempo complessivamente pari ad almeno tre anni.
 

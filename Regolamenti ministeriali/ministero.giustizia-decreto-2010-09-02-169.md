@@ -8,8 +8,8 @@ codice_redazionale: 010G0191
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ La presente tariffa stabilisce i criteri e le modalita' per la determinazione e 
 Ai fini della presente tariffa il termine «professionista» indica sia il dottore commercialista, sia il ragioniere commercialista, sia l'esperto contabile.
 
 ## Art. 2. — Classificazione dei compensi
+
+1.
+                        
+                            
+                                Oltre al rimborso delle anticipazioni effettuate in nome e per conto del cliente, al professionista, in relazione a ciascuna pratica svolta, spettano i compensi per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rimborsi di spese, di cui al titolo II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita', di cui al titolo III; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    onorari, di cui al titolo IV.
 
 I compensi per rimborsi di spese e per indennita' sono cumulabili in ogni caso tra di loro e, se non e' prevista un'espressa deroga, con gli onorari.
 
@@ -123,6 +148,31 @@ Al professionista e' dovuto un compenso forfettario a fronte delle spese general
 
 Al professionista, che per l'adempimento dell'incarico si rechi fuori dalla sede dello studio, spetta un compenso per il rimborso delle spese di viaggio e di soggiorno.
 
+2.
+                        
+                            
+                                Le spese di viaggio sono determinate in misura pari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al costo del biglietto di prima classe in caso di trasporto ferroviario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al costo del biglietto di business class in caso di tratte intercontinentali e al costo del biglietto della economy class in caso di tratte nazionali e continentali del trasporto aereo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al costo chilometrico risultante dalle tariffe ACI del mezzo privato utilizzato.
+
 Le spese di soggiorno (pernottamento e vitto) sono determinate in misura pari alla tariffa d'albergo a quattro stelle.
 
 E' inoltre dovuta una maggiorazione non superiore al 30% dei compensi per il rimborso delle spese di viaggio e di soggiorno non contemplate al comma 2 del presente articolo.
@@ -131,9 +181,68 @@ E' inoltre dovuta una maggiorazione non superiore al 30% dei compensi per il rim
 
 ## Art. 19. — Indennita'
 
+1.
+                        
+                            
+                                Al professionista spettano le seguenti indennita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'assenza dallo studio, di cui sia dimostrata la necessita': 
+ 1) del professionista: € 77,48 per ora o frazione di ora, € 619,76 per l'intera giornata; 
+ 2) dei collaboratori e sostituti del professionista: € 27,12 per ora o frazione di ora, € 209,16 per l'intera giornata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la rubricazione e la formazione dei fascicoli: € 77,48; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la predisposizione, su richiesta del cliente, di copie di documenti di lavoro dichiarate conformi all'originale: € 3,87 per ogni facciata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la domiciliazione del cliente presso lo studio, esclusa la domiciliazione ai fini del contenzioso tributario: da € 23,24 a € 154,94 mensili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per il deposito presso lo studio di libri, documenti, plichi, valori e simili: l'ammontare delle indennita' e' definita nella misura concordata con il cliente.
+
 ## - Titolo IV ONORARI     Capo I     Principi generali
 
 ## Art. 20. — Classificazione degli onorari
+
+1.
+                        
+                            
+                                Gli onorari si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    onorari specifici: determinati unitariamente in relazione all'esecuzione dell'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    onorari graduali: determinati con riferimento al costo delle singole prestazioni svolte per l'adempimento dell'incarico.
 
 ## Art. 21. — Cumulabilita' degli onorari graduali
 
@@ -184,6 +293,40 @@ Gli onorari previsti dal presente articolo si applicano anche nel caso previsto 
 
 ## Art. 28. — Amministrazione di patrimoni e di beni
 
+1.
+                        
+                            
+                                Per l'amministrazione ordinaria dei beni la cui gestione sia produttiva di redditi, quali immobili civili e industriali condotti in locazione, fondi rustici e aziende concesse in affitto, valori mobiliari e beni mobili, gli onorari annui sono determinati secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    immobili civili ed industriali concessi in locazione: 
+ 1) un compenso, fisso per ogni locatario, di € 38,73; 
+ 2) una quota dei proventi lordi cosi' determinata: fino a € 7.746,86: il 5%; per il di piu': il 4%; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fondi rustici affittati: gli stessi onorari della lettera a) ridotti del 30%; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aziende concesse in affitto: gli stessi onorari della lettera a) ridotti del 50%; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    beni mobili ed altri valori mobiliari: una quota dei proventi lordi determinata in misura pari al 3%.
+
 In tutti i casi in cui i beni di cui alle lettere a) e b) del comma 1 non producano redditi monetari, ed in particolare nel caso che siano usati direttamente da parte dei proprietari, i compensi fissi sono determinati in funzione del numero dei proprietari e i compensi variabili sono determinati con riferimento ai proventi lordi teorici determinati in misura pari al 5% del valore patrimoniale dei beni.
 
 Qualora sia affidata al professionista, nel quadro dell'amministrazione dei beni di cui alle lettere a) e b) del comma 1, siano essi locati, affittati o usati direttamente dal proprietario, anche la cura dell'esecuzione di spese straordinarie, allo stesso spetta un ulteriore compenso pari al 5% dell'ammontare delle spese straordinarie sostenute.
@@ -201,6 +344,33 @@ In caso di sequestro, gli onorari suddetti sono determinati con una maggiorazion
 Onorario annuo minimo € 154,94.
 
 ## Art. 30. — Liquidazione di aziende
+
+1.
+                        
+                            
+                                Per la liquidazione di aziende individuali e collettive, compresi in essa la valutazione della azienda, la redazione di inventari e di bilanci straordinari, il realizzo delle attivita', l'estinzione delle passivita' ed il conseguente riparto agli aventi diritto, al professionista spettano i seguenti onorari: 
+ qualora il professionista assuma la carica di liquidatore, ai sensi degli articoli 2275, 2309, 2487 del codice civile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento alle attivita' realizzate un compenso cosi' determinato: 
+ fino a € 77.468,54 il 5%; 
+ per il di piu' fino a € 387.342,68 il 4%; 
+ per il di piu' fino a € 774.685,35 il 3%; 
+ per il di piu' fino a € 3.873.426,75 il 2%; 
+ per il di piu' oltre € 3.873.426,75 l'1%; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un compenso pari allo 0,75% delle passivita' definitivamente accertate. 
+ Onorario minimo € 2.324,06; 
+ qualora l'incarico, pur con gli stessi contenuti, consista nell'assistenza al liquidatore o all'imprenditore nella fase della cessazione, agli onorari di cui alle precedenti lettere a) e b) e' applicata una riduzione compresa tra il 20% ed il 50%. 
+ Onorario minimo € 1.549,37.
 
 Nel caso di assegnazione di beni in natura ai soci o di apporto in altre societa' od aziende, agli onorari di cui sopra e' applicata una riduzione compresa tra il 5% ed il 20%.
 
@@ -220,6 +390,54 @@ Per le perizie, per i motivati pareri e per le consulenze tecniche di parte, anc
  per il di piu' oltre € 3.873.426,75 lo 0,5%. 
  Onorario minimo € 774,69.
 
+2.
+                        
+                            
+                                Per la valutazione di singoli beni, di diritti, di aziende o rami di azienda, di patrimoni, di partecipazioni sociali non quotate e relazioni di stima previste dalla legge, gli onorari sono determinati come segue: 
+
+                            
+                            
+                                a)
+                                
+                                    valutazione di singoli beni e diritti: 
+ Sull'ammontare dei valori: 
+ fino a € 77.468,53 l'1,50%; 
+ per il di piu' fino a € 387.342,67 l'1%; 
+ per il di piu' fino a € 774.685,35 lo 0,5%; 
+ per il di piu' fino a € 3.873.426,75 lo 0,2%; 
+ per il di piu' fino a € 7.746.853,48 lo 0,1%; 
+ per il di piu' oltre € 7.746.853,48 lo 0,05%. 
+ Onorario minimo € 581,01; 
+                                
+                            
+                            
+                                b)
+                                
+                                    valutazione di aziende, rami di azienda e patrimoni: 
+ sull'ammontare complessivo delle attivita' e delle passivita', che non siano poste rettificative dell'attivo: 
+ fino a € 387.342,67 l'1%; 
+ per il di piu' fino a € 1.549.370,70 lo 0,5%; 
+ per il di piu' fino a € 3.873.426, 75 lo 0,25%; 
+ per il di piu' fino a € 15.493.706,97 lo 0,1%; 
+ per il di piu' fino a € 38.734.267,42 lo 0,05%; 
+ per il di piu' oltre € 38.734.267,42 lo 0,025%. 
+ Onorario minimo € 1.936,71. 
+ Qualora per procedere alla valutazione si debba preliminarmente procedere alla individuazione dei beni, dei diritti e delle passivita' che concorrono a formare, insieme con l'eventuale avviamento, le aziende o i complessi di beni oggetto di valutazione, agli onorari e' applicata una maggiorazione compresa tra il 20% ed il 50%; 
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione di partecipazioni sociali non quotate: 
+ si applicano gli onorari di cui alla lettera b) con riferimento alle quote percentuali sottoposte a valutazione. 
+                                
+                            
+                            
+                                d)
+                                
+                                    relazioni di stima di cui agli articoli 2343, 2343-bis, 2465, 2473 e 2501-sexies del codice civile o relazioni richieste da altre disposizioni di legge. 
+ Si applicano, a seconda dei casi, gli onorari di cui alle lettere a), b) e c) con separato riferimento, per le relazioni di congruita' del rapporto di cambio di cui all'articolo 2501-sexies del codice civile, a ciascuna delle situazioni patrimoniali utilizzate a tal fine. Con riferimento alla relazione di cui all'articolo 2501-sexies del codice civile, qualora il professionista non redige l'attestazione richiesta dal quarto comma dell'articolo 2501-bis del codice civile, si applica una riduzione del 20%. Qualora invece il professionista redige esclusivamente l'attestazione richiesta dall'articolo 2501-bis, si applica un onorario determinato ai sensi della lettera b), ridotto del 30% fino al massimo del 50% sull'ammontare del debito residuo contratto per acquisire il controllo.
+
 Agli onorari previsti nei precedenti commi 1 e 2 e' applicata una riduzione compresa tra il 30% ed il 50% se le prestazioni effettuate rientrano in altre piu' ampie previste da altri articoli della presente tariffa.
 
 Agli onorari di cui alla lettera d) e' applicata una riduzione compresa tra il 20% ed il 60% se le relazioni di stima sono relative ad aziende, rami di azienda o patrimoni configurati in situazioni contabili fornite dal cliente determinate sulla base di rilevazioni contabili regolarmente tenute e redatte secondo i criteri previsti dal codice civile.
@@ -236,11 +454,87 @@ Per lo svolgimento della funzione di revisione legale sulle societa', prevista d
 
 Per l'organizzazione e l'impianto di contabilita' e per altri adempimenti contabili o amministrativi connessi richiesti dalla legge, competono onorari determinati in base al tempo impiegato, secondo quanto stabilito dall'articolo 24 tenuto conto delle difficolta', complessita' ed importanza dell'incarico.
 
+2.
+                        
+                            
+                                Per gli incarichi di tenuta di contabilita', compreso il controllo formale delle imputazioni di prima nota, qualora non siano stati preconcordati, al professionista competono i seguenti onorari: 
+Contabilita' ordinaria. 
+ In alternativa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per ciascuna rilevazione che comporti un addebito ed un accredito sul libro giornale: da € 2,33 a € 4,65; 
+ per le rilevazioni che comportino piu' di un addebito ed un accredito, per ciascun importo addebitato o accreditato sul libro giornale: da € 1,16 a € 2,72; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a 500 rilevazioni contabili annue: da € 1.394,43 a € 3.098,75; 
+ da 501 a 2.000 rilevazioni contabili annue: da € 3.098,75 a € 6.972,17; 
+ oltre le 2.000 rilevazioni contabili annue un aumento sul compenso precedente da € 154,94 a € 271,14 ogni 100 rilevazioni. 
+ Ai fini degli onorari di cui alla presente lettera b) si definisce rilevazione contabile ogni registrazione che comporti un massimo di quattro addebiti e/o accrediti sul libro giornale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un compenso determinato in percentuale sul volume d'affari realizzato nel periodo, calcolato come segue su base annuale: 
+ fino a € 232.405,61 tra l'1,5% ed il 2,5%; 
+ per il di piu' fino a € 464.811,21 tra lo 0,75% e l'1,5%; 
+ per il di piu' fino a € 929.622,42 tra lo 0,25% e lo 0,75%; 
+ per il di piu' fino a € 3.873.426,75 tra lo 0,075% e lo 0,25%;  per il di piu' oltre € 3.873.426,75 tra lo 0,025% e lo 0,075%. 
+ Agli onorari di cui alle lettere a), b) e c) e' applicata una maggiorazione compresa tra il 20% ed il 50% nel caso in cui il professionista debba rilevare i dati, oltre che dalla prima nota, anche da documenti forniti dal cliente. 
+Contabilita' semplificata. 
+ Fino a 100 fatture e/o rilevazioni annue sui registri o schede da € 929,63 a € 1.394,43; 
+ da 101 a 300 fatture e/o rilevazioni annue sui registri o schede da € 1.239,50 a € 2.324,06; 
+ da 301 a 600 fatture e/o rilevazioni annue sui registri o schede da € 1.859,25 a € 3.098,75; 
+ oltre le 600 fatture e/o rilevazioni annue sui registri o schede un aumento sul compenso precedente da € 232,41 a € 387,35 ogni 100 fatture e/o rilevazioni.
+
 Per la compilazione, su richiesta del cliente, di significative situazioni contabili periodiche, competono onorari determinati in misura compresa tra € 154,93 e € 464,80 per ciascuna situazione contabile per ogni tipo di contabilita'.
 
 Per i rendiconti periodici richiesti da imprese controllanti, che comportano la rielaborazione di dati aziendali non fondate soltanto su elementi contabili e l'elaborazione di statistiche aziendali, competono gli onorari da € 200,00 a € 1.000,00.
 
 ## Art. 34. — Bilancio
+
+1.
+                        
+                            
+                                Gli onorari per la formazione del bilancio, redatto a norma di legge e accompagnato da una relazione tecnica illustrativa, che contenga tutti gli elementi necessari per la redazione degli altri documenti accompagnatori previsti da disposizioni legislative o regolamentari, sono determinati nel modo seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sul totale delle attivita', al lordo delle poste rettificative, nonche' delle partite di giro e conti d'ordine, al netto delle perdite: 
+ fino a € 193.671,33 lo 0,5%; 
+ per il di piu' fino a € 387.342,67 lo 0,25%; 
+ per il di piu' fino a € 774.685,35 lo 0,125%; 
+ per il di piu' fino a € 1.936.713,37 lo 0,075%; 
+ per il di piu' fino a € 3.873.426,75 lo 0,04%; 
+ per il di piu' fino a € 7.746.853,48 lo 0,025%; 
+ per il di piu' fino a € 19.367.133,72 lo 0,0125%; 
+ per il di piu' fino a € 38.734.267,42 lo 0,006%; 
+ per il di piu' oltre € 38.734.267,42 lo 0,005%; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sul totale dei componenti positivi di reddito lordi: 
+ fino a € 774.685,35 lo 0,15%; 
+ per il di piu' fino a € 1.936.713,37 lo 0,075%; 
+ per il di piu' fino a € 3.873.426,75 lo 0,04%; 
+ per il di piu' fino a € 7.746.853,48 lo 0,02%; 
+ per il di piu' fino a € 19.367.133,72 lo 0,0125%; 
+ per il di piu' fino a € 38.734.267,42 lo 0,0075%; 
+ per il di piu' oltre € 38.734.267,42 lo 0,005%. 
+ Onorario minimo € 774,69.
 
 Agli onorari previsti nel comma 1 e' applicata una riduzione compresa tra il 20% ed il 50% se la formazione del bilancio riguarda societa', enti od imprese che non svolgono alcuna attivita' commerciale od industriale o la cui attivita' sia limitata alla pura e semplice amministrazione di beni immobili o al solo godimento di redditi patrimoniali.
 
@@ -279,6 +573,31 @@ Per la perizia o la consulenza tecnica in materia di avarie particolari spettano
 
 ## Art. 37. — Funzioni di sindaco
 
+1.
+                        
+                            
+                                Al professionista che svolge le funzioni di sindaco di societa', oltre ai compensi per i rimborsi di spese di cui al titolo II, spettano onorari specifici per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' di cui agli articoli 2403, primo comma, e 2404 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la redazione della relazione al bilancio dell'esercizio precedente, di cui all'articolo 2429 del codice civile, oltre che per il rilascio di valutazioni, pareri o relazioni poste dalla legge a carico del sindaco di societa'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la partecipazione a ciascuna riunione del consiglio di amministrazione o dell'assemblea, che non porti all'ordine del giorno l'approvazione del bilancio annuale di esercizio, e del comitato esecutivo, nonche' per la partecipazione a ciascuna riunione del collegio sindacale, ad eccezione di quelle indette per le riunioni periodiche, finalizzata al controllo delle operazioni sociali straordinarie, all'esame delle denunzie ai sensi dell'articolo 2408 del codice civile o comunque richiesta da un componente l'organo amministrativo, o da altri organi della societa', o da altri enti o autorita'.
+
 L'onorario di cui alla lettera a) del comma 1 e' commisurato sull'ammontare complessivo dei componenti positivi di reddito lordi risultanti dal conto economico dell'esercizio in cui sono svolte le riunioni periodiche ovvero, nel caso di cessazione dell'incarico nel corso dell'esercizio, a quelli dell'esercizio precedente. Ad ogni valore dei componenti positivi di reddito lordi corrisponde un solo onorario di riferimento, determinato, ad eccezione del primo scaglione, in relazione alla posizione dei componenti positivi di reddito lordi all'interno dello scaglione, come segue: 
  fino a € 258.228,44: € 929,63; 
  da € 258.228,45 a € 2.582.284,49: da € 929,64 a € 1.859,25; 
@@ -309,6 +628,31 @@ Per qualsiasi ulteriore adempimento posto a carico del Presidente o dei componen
 Al professionista designato a comporre il consiglio di sorveglianza nel sistema di amministrazione dualistico, per le attivita' di cui alla lettera c) dell'articolo 2409 terdecies del codice civile spettano gli onorari determinati ai sensi dei commi 2 e 3 del presente articolo.
 
 ## Art. 38. — Funzione di revisore in enti pubblici
+
+1.
+                        
+                            
+                                Al professionista, revisore in enti pubblici, per i quali non sia prevista un'apposita tariffa, spettano gli onorari previsti all'articolo precedente per i sindaci di societa', commisurati rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle entrate degli enti anziche' ai componenti positivi di reddito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al fondo di dotazione anziche' al patrimonio netto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al fondo di dotazione anziche' al capitale sociale.
 
 Qualora l'incarico comporti particolari difficolta', o nel caso di unico revisore, agli onorari massimi di cui ai commi 2 e 3 dell'articolo 37 puo' essere applicata una maggiorazione non superiore al 100%.
 
@@ -372,6 +716,29 @@ Se l'onorario non e' preconcordato, si applicano gli onorari a tempo come previs
 
 ## Art. 43. — Componimenti amichevoli
 
+1.
+                        
+                            
+                                Al professionista, per le prestazioni svolte ed in relazione al risultato raggiunto, per il concordato stragiudiziale, la cessione dei beni e in genere tutte le sistemazioni liberatorie del debitore, ferme restando le disposizioni di cui all'articolo 3 della presente tariffa, sono dovuti i seguenti onorari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un compenso fisso di € 11,63 per ciascun creditore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento al passivo definitivamente accertato, un compenso cosi' determinato: 
+ fino a € 387.342,67 dal 3% al 4%; 
+ per il di piu' fino a € 774.685,35 dal 2% al 3%; 
+ per il di piu' fino a € 3.873.426,75 dall'1,5% al 2%; 
+ per il di piu' fino a € 7.746.853,48 dall'1% all'1,5%; 
+ per il di piu' oltre € 7.746.853,48 dallo 0,5% all'1%.
+
 Se provvede anche al realizzo delle attivita', al professionista competono, altresi', gli onorari previsti all'articolo 30, lettera a), della presente tariffa, applicando ad essi una riduzione del 50%.
 
 Competono, altresi', gli onorari relativi ad altre diverse specifiche prestazioni eventualmente svolte.
@@ -389,6 +756,24 @@ Onorario minimo € 1.549,37.
 ## - Sezione IX Procedure concorsuali
 
 ## Art. 44. — Assistenza in procedure concorsuali
+
+1.
+                        
+                            
+                                Per le prestazioni svolte per l'assistenza del debitore, che non rientrino in quelle previste dall'articolo 43 e che siano effettuate nel periodo preconcorsuale oppure nel corso delle diverse procedure concorsuali, gli onorari spettanti al professionista sono determinati come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui dette procedure si concludano con esito concordatario o comunque favorevole, competono gli onorari stabiliti dall'articolo 43 applicando ad essi una riduzione compresa tra il 30% ed il 40% per il concordato preventivo. Per le procedure di amministrazione controllata non ancora concluse alla data di entrata in vigore del presente regolamento si applica una riduzione compresa tra il 40% ed il 50%; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui dette procedure non vengano concluse con esito concordatario o comunque favorevole, competono gli onorari stabiliti dall'articolo 43 applicando ad essi una riduzione compresa tra il 50% ed il 70%. Tale quantificazione non puo' essere inferiore a quella ottenuta con l'applicazione degli onorari graduali di cui all'articolo 26.
 
 Per le prestazioni svolte per l'assistenza del debitore nella proposizione della procedura fallimentare competono gli onorari previsti dall'articolo 43 applicando una riduzione compresa tra il 60% e l'80%; tale quantificazione non puo' mai essere inferiore a quella ottenuta con l'applicazione degli onorari graduali di cui all'articolo 26.
 
@@ -458,6 +843,59 @@ Gli onorari specifici sono determinati in funzione della complessita' dell'atto 
 
 Gli onorari graduali, da cumulare con i suddetti onorari specifici, sono determinati in funzione del valore della pratica come risulta dalla tabella 3 allegata al presente regolamento.
 
+3.
+                        
+                            
+                                Il valore della pratica e' determinato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le dichiarazioni dei redditi propri: in base all'importo complessivo delle entrate lorde, dei ricavi e/o profitti che concorrono alla determinazione dei redditi o delle perdite dichiarate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le dichiarazioni dei redditi di terzi: in base all'importo complessivo delle ritenute operate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le dichiarazioni IVA: in base alla sommatoria dei valori imponibili, non imponibili ed esenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le dichiarazioni di successione, le dichiarazioni fiscali di ogni altra natura, le domande di contributi o di agevolazioni: in base al valore dichiarato dei beni, dei contributi o delle agevolazioni richiesti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le certificazioni tributarie: in base ai valori determinati in conformita' alle lettere che precedono; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per i ricorsi, appelli, memorie alle commissioni tributarie: in base all'importo delle imposte, tasse, contributi, sanzioni, interessi che sarebbero dovuti sulla base dell'atto impugnato o in contestazione oppure dei quali e' richiesto il rimborso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per le comunicazioni, denunce, esposti, istanze, memorie, risposte a questionari indirizzati ad uffici finanziari: in analogia con i criteri previsti per gli atti sopra elencati.
+
 Per la concreta determinazione degli onorari graduali si ha riguardo al concreto posizionamento all'interno degli scaglioni del valore della pratica ma anche, in particolar modo per i ricorsi, appelli e memorie alle commissioni tributarie, alla complessita' e originalita' di diritto o di merito della questione trattata.
 
 ## Art. 48. — Rappresentanza tributaria
@@ -503,6 +941,45 @@ Per le sistemazioni di interessi tra familiari, allorquando non soccorra l'appli
 
 ## Art. 53. — Consulenza economico - finanziaria
 
+1.
+                        
+                            
+                                Al professionista spettano onorari determinati tra lo 0,50% ed il 2% del valore dei capitali oggetto di ciascuna delle prestazioni, tenendo conto del tempo impiegato e delle specifiche prestazioni relative alla struttura finanziaria delle aziende, quali per esempio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    studi relativi al rapporto tra il capitale proprio e di terzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    studi relativi alla scelta delle diverse forme tecniche di finanziamento: mutui, prestiti obbligazionari, altri titoli o forme di finanziamento o di partecipazione, debiti bancari, leasing, factoring, etc.; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    studi e adempimenti per la collocazione di titoli sul mercato, predisposizione di studi e ricerche di analisi finanziaria aventi ad oggetto titoli di emittenti quotate che contengono previsioni sull'andamento futuro e che esplicitamente o implicitamente forniscono suggerimenti in materia di investimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di valutazione tecnica dell'iniziativa di impresa e di predisposizione dei business plan per l'accesso a finanziamenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra prestazione di carattere economico-finanziario.
+
 ## Art. 54. — Consulenze aziendali particolari
 
 Per le diagnosi aziendali (analisi di bilanci; indici e flussi; analisi del profilo strategico; diagnosi organizzative); per le diagnosi sulla corretta osservanza delle disposizioni legislative anche in materia tributaria; per gli impianti di sistemi direzionali (calcolo dei costi di prodotto; calcoli di convenienza di breve termine; analisi della redditivita' dei prodotti; scelta del tipo: acquistare o produrre, etc.; razionalizzazione di metodi o procedure organizzative; assistenza nelle scelte relative alla configurazione di nuovi sistemi di elaborazione elettronica); per gli impianti per la programmazione ed il controllo economico-finanziario delle aziende (bilanci di previsione economici, finanziari e degli investimenti); per la valutazione della convenienza economico-finanziaria ad effettuare investimenti, ristrutturazioni degli assetti societari, aziendali, organizzativi o produttivi; per l'attivita' di consulenza nella programmazione economica negli enti locali; per il monitoraggio ed il tutoraggio dell'utilizzo dei finanziamenti pubblici erogati alle imprese; per la redazione delle informative ambientali, sociali e di sostenibilita' delle imprese e degli enti pubblici e privati; per la predisposizione dei rendiconti degli investimenti ambientali ai fini delle agevolazioni previste dalle normative vigenti; per l'assistenza ed ogni altra prestazione in materia di lavoro e per ogni altra consulenza particolare; al professionista competono onorari determinati tra lo 0,50% ed il 2% del valore di ciascuna delle pratiche qui elencate, stabilito a norma dell'articolo 4, con opportuno riguardo alla natura ed alla importanza dell'azienda, nonche' ai criteri indicati all'articolo 3 della presente tariffa.
@@ -517,5 +994,41 @@ Per la consulenza aziendale continuativa e generica al professionista competono 
 
 ## Art. 56. — Disposizioni transitorie
 
+1.
+                        
+                            
+                                Per le prestazioni in corso al momento dell'entrata in vigore della presente tariffa i compensi sono determinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli onorari specifici secondo le norme previste nella presente tariffa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli onorari graduali, per i rimborsi di spese di cui al titolo II e per le indennita' di cui al titolo III, secondo le norme previste dalla tariffa in vigore nel momento in cui si e' verificato il presupposto per la loro applicabilita'.
+
 ## Art. 57. — Abrogazioni ed entrata in vigore
+
+1.
+                        
+                            
+                                A far data dall'entrata in vigore del presente regolamento e salvo quanto previsto dall'articolo 56, sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 10 ottobre 1994, n. 645; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 6 marzo 1997, n. 100.
 

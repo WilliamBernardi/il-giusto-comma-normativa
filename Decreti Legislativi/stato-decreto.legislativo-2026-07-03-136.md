@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-07-03;136
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,24 @@ Al fine di garantire che la riduzione delle emissioni di gas a effetto serra der
 
 Il sistema nazionale di certificazione della sostenibilita', istituito ai sensi dell'articolo 42, comma 16, del decreto legislativo n. 199 del 2021 e' aggiornato, secondo le modalita' ivi previste, al fine di estenderne l'ambito di applicazione ai combustibili a basse emissioni di carbonio e in conformita' alle disposizioni di cui al presente articolo.
 
+4.
+                        
+                            
+                                Gli operatori economici appartenenti alla filiera aderiscono al sistema nazionale di certificazione al fine di garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'affidabilita' delle informazioni che gli operatori economici stessi forniscono in merito al rispetto della soglia di riduzione delle emissioni di gas a effetto serra del 70 per cento, di cui al comma 2, e della metodologia di riduzione delle emissioni di gas a effetto serra, di cui al comma 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un livello adeguato di verifica indipendente di parte terza delle informazioni fornite e per accertare che i sistemi utilizzati dagli operatori economici siano precisi, affidabili e a prova di frode.
+
 Gli operatori economici sono tenuti a mettere a disposizione delle autorita' competenti, su richiesta, i dati utilizzati per fornire le informazioni di cui al comma 4.
 
 Gli obblighi di cui al presente articolo si applicano a prescindere dal fatto che i combustibili a basse emissioni di carbonio siano prodotti nell'Unione europea o importati. Le informazioni sull'origine geografica e sul tipo di materie prime dei combustibili a basse emissioni di carbonio o dell'idrogeno a basse emissioni di carbonio sono messe a disposizione dei consumatori sui siti internet degli operatori, dei fornitori e del Gestore dei servizi energetici (GSE) e aggiornate su base annuale.
@@ -62,6 +80,98 @@ Gli operatori economici sono tenuti a inserire nella banca dati dell'Unione euro
 ## Art. 3. — Diritti contrattuali di base
 
 Tutti i clienti hanno il diritto di essere riforniti di gas naturale e idrogeno da un fornitore di loro scelta, ove questi lo accetti, a prescindere dallo Stato membro in cui il fornitore e' registrato, a condizione che il fornitore rispetti le norme applicabili in materia di scambi e bilanciamento e fatti salvi i requisiti in materia di sicurezza degli approvvigionamenti. I clienti finali hanno altresi' il diritto di avere piu' di un contratto di fornitura di gas naturale o di idrogeno allo stesso tempo, purche' siano stabiliti i punti di connessione e misurazione richiesti.
+
+2.
+                        
+                            
+                                I clienti finali, ferma restando la normativa vigente relativa alla tutela dei consumatori, beneficiano dei diritti contrattuali previsti dai commi da 3 a 12, hanno il diritto a che i contratti di fornitura di gas naturale e di idrogeno indichino, in maniera chiara e agevolmente comprensibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identita', l'indirizzo di posta elettronica, l'indirizzo del fornitore e i contatti dell'assistenza ai consumatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i servizi forniti, le loro caratteristiche principali, i livelli di qualita' dei servizi forniti e la data di allacciamento iniziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i servizi di manutenzione offerti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i mezzi disponibili per ottenere informazioni aggiornate sulle tariffe vigenti, gli addebiti per i servizi di manutenzione e i prodotti o servizi a pacchetto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la durata-base del contratto, le condizioni di rinnovo e di cessazione degli effetti del contratto e dei singoli servizi da questo previsti, ivi compresi i prodotti o i servizi a pacchetto, nonche' l'eventuale facolta', per il cliente, di risolvere in anticipo il contratto senza oneri; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indennizzo e le modalita' di rimborso applicabili nel caso in cui i livelli di qualita' previsti dal contratto non siano raggiunti, ivi compresi i casi di fatturazione imprecisa o tardiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nel caso in cui l'oggetto del contratto includa prestazioni ambientali, comprese le emissioni di biossido di carbonio se applicabili, impegni chiari, oggettivi, accessibili e verificabili apportati dal fornitore e, nel caso di fornitura di gas rinnovabile e di gas a basse emissioni di carbonio, la certificazione del gas rinnovabile e del gas a basse emissioni di carbonio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le forme di risoluzione stragiudiziale delle controversie e le relative modalita' procedimentali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le informazioni sui diritti spettanti al cliente, ivi incluse le informazioni sulla gestione dei reclami e su tutti gli altri aspetti di cui al presente comma, le quali devono essere chiaramente indicate anche sulla fattura e sul sito internet del fornitore; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le informazioni sul fornitore e sul prezzo degli eventuali prodotti o servizi legati o abbinati alla fornitura di gas naturale o idrogeno, se applicabili.
+
+3.
+                        
+                            
+                                Le condizioni contrattuali applicate ai clienti finali sono eque e comunicate in modo chiaro e comprensibile prima della conclusione del contratto anche qualora il contratto medesimo sia stipulato per il tramite di intermediari. Prima della conclusione del contratto, il cliente finale ha altresi' diritto a ricevere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni sul fornitore di prodotti o servizi e sul prezzo di tali prodotti o servizi che sono legati o abbinati alla fornitura di gas; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un documento informativo di sintesi, delle principali condizioni contrattuali e delle ulteriori condizioni contrattuali, in maniera evidenziata e con un linguaggio semplice e conciso.
 
 La violazione del comma 3, ad opera del fornitore, e' causa di nullita' del contratto di fornitura. La nullita' opera soltanto in favore del cliente finale e puo' essere rilevata anche d'ufficio dal giudice.
 
@@ -99,9 +209,119 @@ L'ARERA, con propri provvedimenti, assicura l'attuazione delle disposizioni del 
 
 ## Art. 5. — Diritti e tutela dei consumatori in relazione alla graduale eliminazione del gas naturale
 
+1.
+                        
+                            
+                                Nel caso di disconnessione degli utenti dalla rete in relazione alla graduale eliminazione del gas naturale per garantire il rispetto dell'attuazione dell'obiettivo della neutralita' climatica, l'ARERA, con uno o piu' provvedimenti, provvede affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli utenti della rete, i clienti finali e i soggetti interessati siano informati con adeguato anticipo della data prevista per la disconnessione, delle fasi previste e del relativo calendario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i clienti finali ricevano informazioni sulle opzioni di riscaldamento sostenibili, abbiano accesso a un'adeguata consulenza e siano informati sui meccanismi di sostegno disponibili attraverso lo Sportello per il consumatore energia e ambiente e gli sportelli unici di cui all'articolo 22, comma 6, del decreto legislativo 23 maggio 2000, n. 164; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali trasferimenti finanziari tra servizi regolamentati siano conformi alle disposizioni di cui all'articolo 5 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024 e siano non discriminatori tra categorie di clienti e tra vettori energetici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel pianificare e realizzare la graduale eliminazione del gas naturale, si tenga debitamente conto delle esigenze specifiche dei clienti vulnerabili e dei clienti in condizioni di poverta' energetica.
+
 ## Art. 6. — Clienti attivi sul mercato del gas naturale
 
 I clienti finali di gas naturale, ivi inclusi i clienti appartenenti al settore agricolo e al settore pubblico, hanno diritto di agire in qualita' di clienti attivi senza essere soggetti a procedure o oneri discriminatori o sproporzionati, ne' a oneri di rete non commisurati ai costi effettivi. Essi mantengono tutti i diritti riconosciuti ai clienti finali.
+
+2.
+                        
+                            
+                                I clienti attivi di gas naturale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possono operare individualmente sul mercato o in forma consorziata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno il diritto di vendere sul mercato il gas rinnovabile autoprodotto attraverso il sistema del gas naturale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    hanno il diritto di partecipare a meccanismi di efficienza energetica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possono delegare a un soggetto terzo la gestione degli impianti necessari per la loro attivita', ivi compresi l'installazione, il funzionamento, il trattamento dei dati e la manutenzione, senza che tali soggetti terzi debbano a loro volta considerarsi clienti attivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono soggetti a oneri di rete idonei a rispettare i costi, trasparenti e non discriminatori, cosi' da garantire un contributo adeguato ed equilibrato alla ripartizione globale dei costi di sistema; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sono responsabili dal punto di vista finanziario degli squilibri che apportano al sistema del gas naturale ovvero delegano a un soggetto responsabile del bilanciamento, in conformita' dell'articolo 3, lettera e), del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024.
+
+3.
+                        
+                            
+                                I clienti attivi proprietari di impianti di stoccaggio del gas naturale rinnovabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno diritto alla connessione alla rete entro un termine ragionevole dalla richiesta, purche' siano soddisfatte le condizioni necessarie, ivi inclusa la responsabilita' del bilanciamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non possono essere assoggettati a una duplicita' di oneri, ivi compresi gli oneri di rete, per il gas immagazzinato che rimane nella loro disponibilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non possono essere assoggettati a requisiti od oneri sproporzionati per il rilascio di atti di autorizzazione o provvedimenti a contenuto equivalente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono autorizzati a fornire diversi servizi contemporaneamente, se tecnicamente possibile.
 
 ## Art. 7. — Bollette e informazioni di fatturazione
 
@@ -121,7 +341,78 @@ L'ARERA, con uno o piu' atti regolatori adottati entro sei mesi dalla data di en
 
 L'introduzione di sistemi di misurazione intelligenti e' effettuata solo dopo una valutazione costi-benefici, sulla base di criteri individuati dall'ARERA in conformita' dei principi di cui all'allegato II al presente decreto, che individui i benefici netti per i clienti derivanti dall'uso dei contatori intelligenti e dalla sottoscrizione di offerte basate sui contatori intelligenti. Qualora la valutazione costi-benefici abbia esito negativo, la stessa e' riesaminata in caso di mutamenti significativi delle condizioni di base o degli sviluppi tecnologici e di mercato.
 
+2.
+                        
+                            
+                                L'ARERA fissa i requisiti funzionali e tecnici minimi dei sistemi di misurazione intelligenti, assicurandone la piena interoperabilita', in particolare con i sistemi di gestione dell'energia dei clienti finali e con le reti intelligenti, nonche' la capacita' di fornire informazioni per i sistemi di gestione energetica dei clienti finali. Tali requisiti si conformano alle pertinenti norme tecniche europee, anche in tema di interoperabilita', e alle migliori prassi e, comunque, rispettano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il consumo effettivo di gas naturale deve essere accuratamente misurato e devono essere fornite ai clienti informazioni sul tempo effettivo inclusi dati sui consumi storici convalidati, resi accessibili e visualizzabili facilmente e in modo sicuro ai clienti finali, su richiesta e senza costi aggiuntivi, nonche' i piu' recenti dati disponibili sui consumi non convalidati, anch'essi resi accessibili facilmente e in modo sicuro ai clienti finali, senza costi aggiuntivi e attraverso un'interfaccia standardizzata o mediante l'accesso a distanza, a sostegno dei programmi di efficienza energetica automatizzata e di altri servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sicurezza dei sistemi di misurazione intelligenti e della comunicazione dei dati e' conforme alla pertinente normativa europea, tenendo conto delle migliori tecniche disponibili per garantire il piu' alto livello di cyber-sicurezza, d'intesa con l'Agenzia per la cybersicurezza nazionale per gli aspetti di competenza, e dei costi, alla luce del principio di proporzionalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la riservatezza dei clienti finali e la protezione dei loro dati devono risultare conformi alla normativa nazionale ed europea sulla protezione e il trattamento dei dati personali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se il cliente finale lo richiede, i dati sul consumo del gas naturale sono messi a disposizione, in conformita' agli atti di esecuzione emessi dalla Commissione europea ai sensi dell'articolo 23 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024, attraverso un'interfaccia di comunicazione standardizzata ovvero mediante l'accesso a distanza, oppure sono comunicati a un soggetto terzo che rappresenta il cliente. I dati sono messi a disposizione in un formato facilmente comprensibile, cosi' da consentire il raffronto tra offerte comparabili. Il cliente finale ha diritto alla portabilita' dei suoi dati personali, estraendoli dal contatore e trasmettendoli a terzi senza costi aggiuntivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'operatore, prima ovvero, al piu' tardi, al momento dell'installazione del contatore intelligente, fornisce al cliente una consulenza e informazioni adeguate, con particolare riferimento al pieno potenziale del dispositivo in termini di gestione della lettura e di monitoraggio del consumo di energia nonche' alla raccolta e al trattamento dei suoi dati personali a norma della pertinente normativa in materia di protezione dei dati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i sistemi di misurazione intelligenti consentono la rilevazione dei consumi e la fatturazione dei clienti finali con una risoluzione temporale almeno pari al piu' breve periodo di regolazione previsto nel mercato nazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'accesso ai dati di misurazione e di consumo dei clienti finali da parte dei soggetti ammessi e per le finalita' consentite dalla legge e dai provvedimenti dell'ARERA avviene in maniera non discriminatoria.
+
 L'ARERA stabilisce altresi' le modalita' di contribuzione dei clienti finali ai costi connessi all'introduzione di sistemi di misurazione intelligenti conformi ai requisiti indicati al comma 2, in modo trasparente e non discriminatorio, nonche' tenendo conto dei benefici a lungo termine per l'intera filiera. La medesima Autorita' verifica con cadenza regolare gli eventuali benefici conseguiti dai clienti finali a seguito dell'introduzione dei descritti sistemi di misurazione intelligenti.
+
+4.
+                        
+                            
+                                Nel caso di installazione di misuratori intelligenti, i clienti ricevono informazioni chiare e comprensibili in merito ai benefici dei contatori intelligenti, anche attraverso gli sportelli unici di cui all'articolo 22, comma 6 del decreto legislativo 23 maggio 2000, n. 164. Tali informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    includono consigli su come utilizzare i sistemi di misurazione intelligenti per migliorare la propria efficienza energetica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispondono alle esigenze specifiche dei clienti in condizioni di poverta' energetica o dei clienti vulnerabili.
 
 Le disposizioni, le norme tecniche e i requisiti di cui al comma 2 si applicano unicamente agli impianti futuri e a quelli che sostituiscono gli impianti esistenti. I sistemi di misurazione intelligenti gia' installati o i cui lavori siano stati avviati prima del 4 agosto 2024 restano in funzione per l'intera durata del loro ciclo di vita. Ferma restando l'analisi costi benefici di cui al comma 1, i sistemi che non soddisfano i requisiti di cui al comma 2 e all'allegato II al presente decreto, restano operativi entro e non oltre la data del 5 agosto 2036. L'avvio dei lavori coincide con la data di inizio dei lavori di costruzione richiesti dall'investimento ovvero, se antecedente, con la data del primo fermo impegno a ordinare le attrezzature necessarie ovvero ancora con la data in cui sia stato assunto qualsiasi altro impegno tale da rendere irreversibile l'investimento. In caso di acquisizione, l'avvio dei lavori coincide con la data di acquisizione degli attivi direttamente collegati allo stabilimento acquistato. L'acquisto di un terreno e le attivita' preparatorie, quali la richiesta di permessi o autorizzazioni e la realizzazione di studi di fattibilita' non integrano l'avvio dei lavori.
 
@@ -144,11 +435,209 @@ Nel caso in cui l'introduzione dei sistemi di misurazione intelligenti per l'idr
 
 ## Art. 10. — Modifiche all'articolo 1 del decreto legislativo 23 maggio 2000, n. 164
 
+1.
+                        
+                            
+                                All'articolo 1 del decreto legislativo 23 maggio 2000, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2-bis: 
+ 1) dopo le parole: «si applicano in modo non discriminatorio anche» sono inserite le seguenti: «al gas rinnovabile, al gas a basse emissioni di carbonio, al biometano» e dopo le parole: «ordine tecnico o di sicurezza» sono aggiunte le seguenti: «, al fine di realizzare mercati del gas concorrenziali, sicuri e sostenibili dal punto di vista ambientale»; 
+ 2) dopo il primo periodo e' aggiunto il seguente: «Non sono ammesse discriminazioni tra le imprese riguardo ai loro diritti o obblighi.». 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2-bis e' aggiunto il seguente: 
+ «2-ter. Al fine di favorire la decarbonizzazione, e' sempre ammessa la stipulazione di contratti a lungo termine per i gas rinnovabili e i gas a basse emissioni di carbonio che siano pur sempre conformi alle norme sulla concorrenza dell'Unione europea. E' ammessa la stipulazione di contratti a lungo termine per la fornitura di gas di origine fossile non soggetto ad abbattimento purche' la durata non si protragga oltre il 31 dicembre 2049.».
+
 ## Art. 11. — Modifiche all'articolo 2 del decreto legislativo 23 maggio 2000, n. 164
+
+1.
+                        
+                            
+                                All'articolo 2, comma 1, del decreto legislativo 23 maggio 2000, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera a), dopo le parole: «gas naturale» sono inserite le seguenti: «o idrogeno»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera b), dopo le parole: «gas naturale» sono inserite le seguenti: «o idrogeno»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla lettera d), dopo le parole: «gas naturale», ovunque ricorrono, sono inserite le seguenti: «o idrogeno»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla lettera n), dopo le parole: «consegna ai clienti» sono aggiunte le seguenti: «, a esclusione della fornitura»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla lettera o) dopo le parole: «liquefatto (GNL),» sono inserite le seguenti: «o di idrogeno, anche sotto forma di vettori di idrogeno organico liquido o idrogeno liquido e di derivati dell'idrogeno tra cui l'ammoniaca o il metanolo,»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la lettera r) e' abrogata; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la lettera v) e' sostituita dalla seguente: 
+ «v) impresa verticalmente integrata: un'impresa di gas naturale o un gruppo di imprese di gas naturale o un'impresa di idrogeno o un gruppo di imprese di idrogeno in cui la stessa persona o le stesse persone hanno, direttamente o indirettamente, il potere di esercitare un controllo e in cui l'impresa o il gruppo di imprese svolge almeno una delle funzioni di trasporto del gas naturale, trasporto dell'idrogeno, distribuzione del gas naturale, distribuzione dell'idrogeno, gestione di terminali dell'idrogeno, rigassificazione di GNL o stoccaggio di gas naturale o di idrogeno, e almeno una delle funzioni di produzione o fornitura di gas naturale o di idrogeno;»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla lettera ee), dopo la parola: «sistema» sono inserite le seguenti: «del gas naturale»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alla lettera jj), dopo le parole: «la persona fisica o giuridica che rifornisce» sono inserite le seguenti: «di gas naturale o idrogeno il sistema»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alla lettera kk-ter), dopo le parole: «all'articolo 33, paragrafo 1 della medesima direttiva,» sono inserite le seguenti: «ai sensi dell'articolo 2, punto 12), della direttiva 2013/34/UE del Parlamento europeo e del Consiglio»; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    alla lettera kk-terdecies), dopo le parole: «gas naturale» sono inserite le seguenti: «o idrogeno»; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    alla lettera kk-quaterdecies), dopo le parole: «gas naturale» sono inserite le seguenti: «o idrogeno»; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    alla lettera kk-sexiesdecies), dopo le parole: «gas naturale» sono inserite le seguenti: «o di idrogeno»; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    dopo la lettera kk-septiesdecies) sono aggiunte le seguenti: 
+ «kk-duodevicies) gas naturale: gas costituito principalmente di metano, incluso biometano, o altri tipi di gas, che puo' essere iniettato nel sistema del gas naturale e trasportato attraverso tale sistema senza porre problemi di ordine tecnico o di sicurezza; 
+ kk-undevicies) gas rinnovabile: combustibile gassoso prodotto dalle biomasse, incluso il biogas che e' stato trasformato in biometano e i combustibili rinnovabili di origine non biologica ai sensi dell'articolo 2, comma 1, lettera ll) del decreto legislativo 8 novembre 2021, n. 199; 
+ kk-vicies) gas a basse emissioni di carbonio: la parte di combustibili gassosi nei carburanti derivanti da carbonio riciclato ai sensi dell'articolo 2, punto 35), della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, l'idrogeno a basse emissioni di carbonio e i combustibili sintetici gassosi il cui contenuto energetico deriva da idrogeno a basse emissioni di carbonio che rispettano una soglia di riduzione delle emissioni di gas a effetto serra pari al 70 per cento rispetto al carburante fossile di riferimento per i combustibili rinnovabili di origine non biologica di cui alla metodologia adottata a norma dell'articolo 29-bis, paragrafo 3, della medesima direttiva (UE) 2018/2001; 
+ kk-vicies semel) combustibili a basse emissioni di carbonio: i carburanti derivanti da carbonio riciclato ai sensi dell'articolo 2, punto 35), della direttiva (UE) 2018/2001, l'idrogeno a basse emissioni di carbonio e i combustibili sintetici liquidi e gassosi il cui contenuto energetico deriva da idrogeno a basse emissioni di carbonio che rispettano una soglia di riduzione delle emissioni di gas a effetto serra pari al 70 per cento rispetto al carburante fossile di riferimento per i combustibili rinnovabili di origine non biologica di cui alla metodologia adottata a norma dell'articolo 29-bis, paragrafo 3, della medesima direttiva (UE) 2018/2001; 
+ kk-vicies bis) fornitore di ultima istanza: l'esercente designato che assicura la fornitura di gas naturale ai clienti finali che rimangono senza fornitore; 
+ kk-vicies ter) impresa di gas naturale integrata: l'impresa integrata verticalmente o orizzontalmente; 
+ kk-vicies quater) contratto a lungo termine: il contratto di fornitura di gas di durata superiore a un anno; 
+ kk-vicies quinquies) sistema di entrata-uscita: un modello di accesso per il gas naturale o l'idrogeno in cui gli utenti del sistema prenotano diritti di capacita' in modo indipendente ai punti di entrata e di uscita, che include il sistema di trasporto e puo' includere l'intero sistema di distribuzione o parte di esso, o le reti dell'idrogeno; 
+ kk-vicies sexies) zona di bilanciamento: il sistema al quale si applica un dato regime di bilanciamento, che include il sistema di trasporto e puo' includere gli interi sistemi di distribuzione o parte di essi; 
+ kk-vicies septies) punto di scambio virtuale: il punto commerciale non fisico all'interno di un sistema di entrata-uscita presso il quale il gas naturale o l'idrogeno sono scambiati tra venditore e acquirente senza bisogno di prenotare capacita'; 
+ kk-duodetricies) utente della rete: il cliente o il potenziale cliente del gestore del sistema o lo stesso gestore del sistema, nella misura in cui per tale gestore sia necessario svolgere le sue funzioni in relazione al trasporto di gas naturale o idrogeno; 
+ kk-undetricies) punto di entrata: il punto soggetto a procedure di prenotazione da parte degli utenti della rete che da' accesso al sistema di entrata-uscita; 
+ kk-tricies) punto di uscita: il punto soggetto a procedure di prenotazione da parte degli utenti della rete che consente il flusso di gas in uscita dal sistema di entrata-uscita; 
+ kk-tricies semel) punto di interconnessione: il punto fisico o virtuale che collega sistemi di entrata-uscita adiacenti o che collega un sistema di entrata-uscita con un interconnettore, nella misura in cui tale punto e' soggetto a procedure di prenotazione da parte degli utenti della rete; 
+ kk-tricies bis) punto di interconnessione virtuale: due o piu' punti di interconnessione che collegano gli stessi due sistemi adiacenti di entrata-uscita integrati tra loro al fine di fornire un unico servizio di capacita'; 
+ kk-tricies ter) partecipante al mercato: la persona fisica o giuridica che acquista, vende o produce gas naturale o idrogeno o che gestisce servizi di stoccaggio, anche attraverso la trasmissione di ordini di compravendita su uno o piu' mercati del gas naturale o dell'idrogeno, compresi i mercati di bilanciamento; 
+ kk-tricies quater) oneri di risoluzione del contratto: qualsiasi onere o penale imposti ai clienti dai fornitori o dai partecipanti al mercato per risolvere un contratto di fornitura di gas o di servizi attinenti; 
+ kk-tricies quinquies) oneri per cambio di fornitore: qualsiasi onere o penale imposti ai clienti dai fornitori, dai partecipanti al mercato o dai gestori di sistemi, direttamente o indirettamente, in caso di cambiamento di fornitore o di partecipante al mercato, compresi gli oneri di risoluzione del contratto; 
+ kk-tricies sexies) informazioni di fatturazione: le informazioni fornite nella fattura al cliente finale, esclusa la richiesta di pagamento; 
+ kk-tricies septies) contatore convenzionale: il contatore analogico o elettronico sprovvisto della capacita' di trasmettere e ricevere dati; 
+ kk-duodequadragies) interoperabilita': nel contesto dei sistemi di misurazione intelligenti, la capacita' di due o piu' reti, sistemi, dispositivi, applicazioni o componenti nei settori dell'energia o delle comunicazioni di interagire e di scambiare e utilizzare informazioni per svolgere le funzioni richieste; 
+ kk-undequadragies) piu' recenti disponibili: nel contesto dei sistemi di misurazione intelligenti, dati forniti in un lasso di tempo che corrisponde al piu' breve periodo di regolazione nel mercato nazionale; 
+ kk-quadragies) migliori tecniche disponibili: nel contesto della protezione e della sicurezza dei dati in un ambiente di misurazione intelligente, le tecniche piu' efficaci, avanzate e idonee dal punto di vista pratico a fornire in via di principio le condizioni per il rispetto delle norme dell'Unione europea sulla protezione dei dati e sulla sicurezza; 
+ kk-quadragies semel) poverta' energetica: la poverta' energetica ai sensi dell'articolo 2, punto 52), della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023; 
+ kk-quadragies bis) cliente attivo: il cliente finale di gas naturale o il gruppo di clienti finali consorziati di gas naturale che: 
+ 1) consuma o immagazzina il gas rinnovabile prodotto nei propri locali situati all'interno di un'area delimitata; 
+ 2) purche' le attivita' non costituiscano la principale attivita' commerciale o professionale del cliente finale e siano conformi al diritto applicabile alla produzione di gas rinnovabile, in particolare per quanto riguarda le emissioni di gas a effetto serra, alternativamente: 
+ 2.1) vende il gas rinnovabile autoprodotto attraverso il sistema del gas naturale; 
+ 2.2) partecipa a meccanismi di flessibilita' o di efficienza energetica; 
+ kk-quadragies ter) efficienza energetica al primo posto: il principio "l'efficienza energetica al primo posto" ai sensi dell'articolo 2, punto 18), del regolamento (UE) 2018/1999 del Parlamento europeo e del Consiglio dell'11 dicembre 2018; 
+ kk-quadragies quater) riconversione: la riconversione ai sensi dell'articolo 2, punto 18), del regolamento (UE) 2022/869 del Parlamento europeo e del Consiglio, del 30 maggio 2022.».
 
 ## Art. 12. — Modifiche all'articolo 6 del decreto legislativo 23 maggio 2000, n. 164
 
+1.
+                        
+                            
+                                All'articolo 6 del decreto legislativo 23 maggio 2000, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 4, al secondo e al terzo periodo, le parole: «direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE» sono sostituite dalle seguenti: «direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 5 e' aggiunto il seguente: 
+ «5-bis. Le misure relative all'accesso sono notificate alla Commissione europea.».
+
 ## Art. 13. — Modifiche all'articolo 14 del decreto legislativo 23 maggio 2000, n. 164
+
+1.
+                        
+                            
+                                All'articolo 14 del decreto legislativo 23 maggio 2000, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1: 
+ 1) dopo il primo periodo e' inserito il seguente: «I gestori del sistema di distribuzione sono responsabili nell'assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di distribuzione di gas naturale, ivi incluso per l'iniezione del biometano, e di gestire, mantenere e sviluppare o dismettere nella sua area, a condizioni economiche accettabili, un sistema sicuro, affidabile ed efficiente, nel dovuto rispetto dell'ambiente, degli obblighi stabiliti nel regolamento (UE) 2024/1787 del Parlamento europeo e del Consiglio, del 13 giugno 2024 e dell'efficienza energetica.»; 
+ 2) e' aggiunto, in fine, il seguente periodo: «Il contratto tipo deve prevedere la responsabilita' del gestore del sistema di distribuzione di assicurare una gestione efficiente della qualita' del gas nei suoi sistemi, in linea con le norme applicabili in materia di qualita' del gas, ove cio' sia necessario per la gestione del sistema a motivo dell'iniezione di gas rinnovabile e di gas a basse emissioni di carbonio.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 10 sono aggiunti i seguenti: 
+ «10-bis. Con deliberazione dell'Autorita' di regolazione per energia reti e ambiente (ARERA) sono definiti e classificati come sistema di distribuzione chiuso i sistemi che distribuiscono gas naturale all'interno di un sito industriale, commerciale o di servizi condivisi geograficamente limitato e che, fatto salvo i casi di uso accidentale da un numero limitato di clienti civili, non rifornisce i clienti civili, purche' alternativamente: 
+ a) per specifiche ragioni tecniche o di sicurezza, le operazioni o il processo di produzione degli utenti di tale sistema siano integrati; 
+ b) il sistema distribuisca gas naturale principalmente al proprietario o al gestore del sistema o a imprese ad essi collegate. 
+ 10-ter. L'ARERA provvede a esentare i gestori di sistemi di distribuzione chiusi del gas naturale dall'obbligo che le tariffe o le relative metodologie di calcolo siano approvate prima della loro entrata in vigore. In tali casi di esenzione concessa da ARERA le tariffe applicabili o le relative metodologie di calcolo sono rivedute e approvate conformemente all'articolo 78 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024, su richiesta di un utente del sistema di distribuzione chiuso del gas naturale. Il riconoscimento della esenzione concessa dall'ARERA non subisce pregiudizi nei casi di uso accidentale da parte di un numero limitato di clienti civili assunti dal proprietario del sistema di distribuzione, o legati a quest'ultimo da un vincolo simile, e situati nell'area servita da un sistema di distribuzione chiuso. I sistemi di distribuzione chiusi sono considerati sistemi di distribuzione.».
 
 ## Art. 14. — Modifiche all'articolo 16 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -175,13 +664,137 @@ All'articolo 20, comma 5-bis, del decreto legislativo 23 maggio 2000, n. 164, so
 
 ## Art. 18. — Modifiche all'articolo 22 del decreto legislativo 23 maggio 2000, n. 164
 
+1.
+                        
+                            
+                                All'articolo 22 del decreto legislativo 23 maggio 2000, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 1 e 3 sono abrogati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, la lettera a) e' abrogata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 6, dopo le parole: «di cui dispongono» sono aggiunte le seguenti: «gli strumenti di confronto, le misure di sostegno disponibili, ivi comprese quelle destinate ai clienti vulnerabili e in poverta' energetica»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 7 e' sostituito dal seguente: 
+ «7. Con decreto del Ministro dell'ambiente e della sicurezza energetica, su proposta dell'ARERA, sono individuati i criteri e le modalita' per la fornitura, da parte di esercenti selezionati dalla societa' Acquirente unico S.p.A. all'esito di procedure a evidenza pubblica, di gas naturale nell'ambito del servizio di ultima istanza, a condizioni che incentivino la ricerca di un nuovo fornitore sul mercato, per i clienti di cui al comma 2, nonche' nelle aree geografiche nelle quali non si e' ancora sviluppato un mercato concorrenziale nell'offerta di gas naturale.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 7 sono aggiunti i seguenti: 
+ «7-bis. I clienti finali trasferiti a un fornitore di ultima istanza conservano tutti i diritti riconosciuti in qualita' di clienti finali. I fornitori comunicano ai clienti, a mezzo posta elettronica certificata o, in mancanza, a mezzo raccomandata con avviso di ricevimento, i termini e le condizioni del servizio di ultima istanza e garantiscono loro la continuita' del servizio medesimo per il periodo necessario alla scelta di un nuovo fornitore e per almeno sei mesi. 
+ 7-ter. L'ARERA assicura, nell'ambito della disciplina della gestione della morosita' dei clienti finali, la tutela dei clienti vulnerabili e in condizioni di poverta' energetica dal rischio di interruzione della fornitura.».
+
 ## Art. 19. — Modifiche all'articolo 24 del decreto legislativo 23 maggio 2000, n. 164
 
+1.
+                        
+                            
+                                All'articolo 24 del decreto legislativo 23 maggio 2000, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2 e' aggiunto, in fine, il seguente periodo: «I gestori dei sistemi di trasporto o i gestori dei sistemi di distribuzione che rifiutano l'accesso o la connessione al sistema del gas naturale per mancanza di capacita' o di connessione sono tenuti ad apportare i miglioramenti del caso, ove economicamente giustificabile o qualora un cliente potenziale sia disposto a sostenerne il costo.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' inserito il seguente: 
+ «2-bis. Per il gas rinnovabile e il gas a basse emissioni di carbonio l'accesso al sistema puo' essere rifiutato solo fatti salvi gli articoli 20 e 36 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ «3. Il rifiuto e l'eventuale disconnessione sono manifestati con dichiarazione motivata ed e' comunicato immediatamente all'ARERA e all'Autorita' garante della concorrenza e del mercato, nonche' al Ministero dell'ambiente e della sicurezza energetica.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 5 sono aggiunti, in fine, i seguenti periodi: «L'ARERA provvede affinche' i gestori dei sistemi di trasporto e i gestori dei sistemi di distribuzione siano autorizzati a rifiutare l'accesso o la connessione degli utenti alla rete del gas naturale, o a interrompere la fornitura, specie per garantire il rispetto dell'attuazione dell'obiettivo della neutralita' climatica di cui all'articolo 2, paragrafo 1, del regolamento (UE) 2021/1119 del Parlamento europeo e del Consiglio, del 30 giugno 2021, a condizione che: 
+ a) il piano di sviluppo della rete istituito a norma dell'articolo 55 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024 preveda la dismissione del sistema di trasporto o di parti pertinenti dello stesso; 
+ b) la stessa ARERA abbia approvato il piano di dismissione della rete a norma dell'articolo 57, paragrafo 3 della direttiva (UE) 2024/1788; 
+ c) il pertinente gestore della rete di distribuzione, esentato dall'obbligo di presentare un piano di dismissione della rete, a norma dell'articolo 57, paragrafo 5, della direttiva (UE) 2024/1788, abbia informato l'ARERA della dismissione della rete di distribuzione o di parti pertinenti della stessa. Nei casi indicati al periodo precedente, con delibera dell'ARERA sono indicate le modalita' per il rifiuto dell'accesso o della connessione, o per la disconnessione, basato su criteri obiettivi, trasparenti e non discriminatori, tenuto conto degli interessi in causa, dei requisiti esistenti volti alla riduzione o all'abbandono del consumo di gas di origine fossile e dei pertinenti piani locali di riscaldamento e raffrescamento stabiliti a norma dell'articolo 25, paragrafo 6, della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023. Sono altresi' adottate le misure adeguate per proteggere gli utenti della rete, a norma dell'articolo 13 della direttiva (UE) 2024/1788 allorche' autorizzano la disconnessione.».
+
 ## Art. 20. — Modifiche all'articolo 27 del decreto legislativo 23 maggio 2000, n. 164
+
+1.
+                        
+                            
+                                All'articolo 27 del decreto legislativo 23 maggio 2000, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, e' aggiunto, in fine, il seguente periodo: «Il decreto di cui al primo periodo e' aggiornato in conformita' alle prescrizioni di cui all'articolo 10 paragrafo 1 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024 sui criteri tecnici di sicurezza e le relative norme tecniche aggiornate necessarie.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 e' inserito il seguente: 
+ «1-bis. I gestori dei sistemi di trasporto, dei sistemi di distribuzione e i gestori delle reti dell'idrogeno sono tenuti a pubblicare le norme tecniche in conformita' del presente articolo, in particolare riguardo alle norme di connessione alla rete, comprendenti requisiti in materia di qualita', odorizzazione e pressione del gas. I gestori dei sistemi di trasporto e di distribuzione sono altresi' tenuti a pubblicare gli oneri per la connessione del gas da fonti rinnovabili sulla base di criteri oggettivi, trasparenti e non discriminatori.».
 
 ## - Capo IV Modifiche al decreto legislativo 8 novembre 2021, n. 210
 
 ## Art. 21. — Modifiche all'articolo 10 del decreto legislativo 8 novembre 2021, n. 210
+
+1.
+                        
+                            
+                                All'articolo 10, comma 1, del decreto legislativo 8 novembre 2021, n. 210, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'alinea, dopo le parole: «dell'energia elettrica» sono inserite le seguenti: «e del gas naturale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera a), dopo la parola: «elettriche» sono inserite le seguenti: «e del gas naturale»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo la lettera h), e' aggiunta la seguente: 
+ «h-bis) indicazione chiara se il prezzo e' fisso o variabile e in merito alla durata del contratto.».
 
 ## - Capo V Modifiche al decreto legislativo 1° giugno 2011, n. 93
 
@@ -191,13 +804,104 @@ All'articolo 4, comma 1, del decreto legislativo 1° giugno 2011, n. 93, dopo la
 
 ## Art. 23. — Modifiche all'articolo 9 del decreto legislativo 1° giugno 2011, n. 93
 
+1.
+                        
+                            
+                                All'articolo 9 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «di cui all'articolo 9 della direttiva 2009/73/CE» sono sostituite dalle seguenti: «sulla separazione dei sistemi di trasporto e dei gestori dei sistemi di trasporto di cui all'articolo 60 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024. La certificazione avviene in conformita' ai paragrafi 4, 5 e 6 dell'articolo 71 della direttiva (UE) 2024/1788 e all'articolo 14 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio del 13 giugno 2024 ed e' anteriore alla approvazione e designazione come gestore di sistema di trasporto»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, lettera b), le parole: «articolo 9 della direttiva 2009/73/CE» sono sostituite dalle seguenti: «articolo 60 della direttiva (UE) 2024/1788»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 5, le parole: «articolo 3 del regolamento (CE) n. 715/2009 del Parlamento europeo e del Consiglio del 13 luglio 2009» sono sostituite dalle seguenti: «articolo 14 del regolamento (UE) 2024/1789.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 8 le parole «articolo 9 della direttiva 2009/73/CE» sono sostituite dalle seguenti: 
+ «articolo 60 della direttiva (UE) 2024/1788»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 10, e' aggiunto il seguente: 
+ «10-bis. Nei casi di cui al comma 10, qualora la certificazione sia richiesta da un proprietario del sistema di trasporto o da un gestore del sistema di trasporto che sia controllato da una persona di un paese terzo, l'Autorita' di regolazione per energia reti e ambiente (ARERA) lo notifica alla Commissione europea, unitamente a qualsiasi altra circostanza che abbia tale medesimo effetto. Il gestore del sistema di trasporto notifica all'ARERA qualsiasi circostanza che abbia come risultato l'acquisizione del controllo del sistema di trasporto, del gestore del sistema di trasporto, della rete di trasporto dell'idrogeno o del gestore della rete di trasporto dell'idrogeno da parte di un soggetto di un paese terzo. 
+ L'ARERA adotta un progetto di decisione relativa alla certificazione del gestore del sistema di trasporto o del gestore della rete di trasporto dell'idrogeno entro cento giorni lavorativi a decorrere dalla data della notifica effettuata dal gestore stesso.
+Essa rifiuta la certificazione se non e' stato dimostrato: 
+ a) che l'interessato ottempera agli obblighi di cui all'articolo 60 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024 e 
+ b) che il rilascio della certificazione non mettera' a rischio la sicurezza dell'approvvigionamento energetico o gli interessi essenziali nazionali e dell'Unione europea in materia di sicurezza; nell'esaminare la questione l'ARERA, sentito il Ministero dell'ambiente e della sicurezza energetica, tiene conto: 
+ 1) dei diritti e obblighi dell'Unione europea in relazione a tali paesi terzi che discendono dal diritto internazionale, incluso un accordo concluso con uno o piu' paesi terzi di cui l'Unione europea e' parte e che tratta le questioni della sicurezza dell'approvvigionamento energetico; 
+ 2) dei diritti e obblighi in relazione a tale paese terzo che discendono da accordi conclusi con esso, nella misura in cui sono conformi al diritto dell'Unione europea; 
+ 3) della proprieta', della fornitura o di altri rapporti commerciali che potrebbero incidere negativamente sugli incentivi e sulla capacita' del proprietario del sistema di trasporto, del gestore del sistema di trasporto di consegnare gas naturale al Paese o all'Unione europea; 
+ 4) di altri fatti e circostanze specifici del caso e del paese interessato. 
+ L'ARERA notifica tempestivamente la propria decisione preliminare alla Commissione europea, unitamente a tutte le informazioni rilevanti ai fini della decisione stessa. La decisione relativa alla certificazione e' subordinata al previo parere della Commissione europea se l'entita' interessata ottemperi alle prescrizioni di cui all'articolo 60 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024 e se il rilascio della certificazione metta a rischio la sicurezza dell'approvvigionamento energetico dell'Unione europea. L'ARERA dispone di un termine di cinquanta giorni lavorativi dalla scadenza del periodo di rilascio del parere della Commissione per adottare la decisione definitiva relativa alla certificazione. La decisione definitiva tiene nella massima considerazione il parere della Commissione. E' fatto salvo il diritto di rifiutare il rilascio della certificazione se questo mette a rischio la sicurezza del suo approvvigionamento energetico o la sicurezza dell'approvvigionamento energetico di un altro Stato membro. La decisione definitiva e' pubblicata dall'ARERA sul proprio sito internet istituzionale unitamente al parere della Commissione.
+Qualora la decisione definitiva differisca dal parere della Commissione, la motivazione della stessa e' resa altresi' pubblica.».
+
 ## Art. 24. — Modifica all'articolo 11 del decreto legislativo 1° giugno 2011, n. 93
 
 All'articolo 11, comma 3, del decreto legislativo 1° giugno 2011, n. 93, le parole: «articolo 1 della direttiva 68/151/CEE del Consiglio» sono sostituite dalle seguenti: «allegato II della direttiva (UE) 2017/1132 del Parlamento europeo e del Consiglio del 14 giugno 2017».
 
 ## Art. 25. — Modifiche all'articolo 12 del decreto legislativo 1° giugno 2011, n. 93
 
+1.
+                        
+                            
+                                All'articolo 12 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 10: 
+ 1) le parole «Ministero dello sviluppo economico» sono sostituite dalle seguenti: «Ministero dell'ambiente e della sicurezza energetica»; 
+ 2) le parole «10 della direttiva 2009/73/CE» sono sostituite dalle seguenti: «71 della direttiva (UE) 2024/1788»; 
+ 3) le parole: «11 della direttiva 2009/73/CE» sono sostituite dalle seguenti: «72 della direttiva (UE) 2024/1788»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 10 e' aggiunto il seguente: 
+ «10-bis. Il gestore del sistema di trasporto rende pubbliche informazioni dettagliate riguardanti la qualita' del gas naturale trasportato nelle sue reti, sulla base degli articoli 16 e 17 del regolamento (UE) 2015/703 della Commissione.».
+
 ## Art. 26. — Modifiche all'articolo 15 del decreto legislativo 1° giugno 2011, n. 93
+
+1.
+                        
+                            
+                                All'articolo 15 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 8, lettera a), le parole: «regolamento (CE) n. 715/2009» sono sostituite dalle seguenti: «regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 9, le parole: «articolo 16 della direttiva 2009/73/CE» sono sostituite dalle seguenti: «articolo 40 della direttiva (UE) n. 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024».
 
 ## Art. 27. — Modifiche all'articolo 16 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -261,12 +965,57 @@ Tali piani sono elaborati in stretta cooperazione con i gestori delle reti di di
 
 ## Art. 28. — Modifiche all'articolo 17 del decreto legislativo 1° giugno 2011, n. 93
 
+1.
+                        
+                            
+                                All'articolo 17 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, alla lettera d), le parole: «(CE) n. 715/2009» sono sostituite dalle seguenti: «(UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024» e dopo la parola: «europeo» sono inserite le seguenti: «e regionale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3 sono inseriti, all'inizio, i seguenti periodi: «Le imprese che sono state certificate dall'ARERA in quanto conformi alle disposizioni di cui all'articolo 72 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024 e al comma 2 del presente articolo sono approvate e designate come gestori di sistemi indipendenti. Si applica il procedimento di certificazione di cui all'articolo 71 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024 e all'articolo 14 del regolamento (UE) 2024/1789 o all'articolo 72 della direttiva (UE) 2024/1788.».
+
 ## Art. 29. — Modifica all'articolo 18 del decreto legislativo 1° giugno 2011, n. 93
 
 All'articolo 18 del decreto legislativo 1° giugno 2011, n. 93, dopo il comma 1, e' inserito il seguente: 
  «1-bis. I proprietari del sistema di trasporto e della rete di trasporto dell'idrogeno, qualora sia stato nominato un gestore di sistema indipendente o un gestore della rete di trasporto dell'idrogeno indipendente, e i gestori del sistema di stoccaggio del gas naturale o dell'impianto di stoccaggio dell'idrogeno, che fanno parte di un'impresa verticalmente integrata, devono essere indipendenti, quantomeno sotto il profilo della forma giuridica, dell'organizzazione e del potere decisionale, dalle altre attivita' non connesse al trasporto, alla distribuzione e allo stoccaggio di gas naturale e di idrogeno.».
 
 ## Art. 30. — Modifiche all'articolo 21 del decreto legislativo 1° giugno 2011, n. 93
+
+1.
+                        
+                            
+                                All'articolo 21 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, alla lettera a), dopo la parola: «sviluppare» sono inserite le seguenti: «o dismettere» e dopo la parola: «ambiente» sono inserite le seguenti: «e del clima e degli obblighi stabiliti nel regolamento (UE) 2024/1787 del Parlamento europeo e del Consiglio, del 13 giugno 2024»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 e' inserito il seguente: 
+ «1-bis. I gestori dei sistemi di trasporto cooperano con i gestori dei sistemi di distribuzione per garantire la partecipazione effettiva dei partecipanti al mercato collegati alla rete nei mercati al dettaglio, all'ingrosso e di bilanciamento. I gestori dei sistemi di trasporto assicurano una gestione efficiente della qualita' del gas nei propri impianti, in linea con le norme applicabili in materia di qualita' del gas.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 6 e' inserito il seguente: 
+ «6-bis. I gestori dei sistemi di trasporto e stoccaggio del gas naturale e GNL cooperano, all'interno del Paese e a livello regionale, per garantire l'uso piu' efficiente delle capacita' degli impianti e le sinergie tra questi ultimi, tenendo conto dell'integrita' e del funzionamento dei sistemi ed evitando di creare vincoli per il funzionamento degli impianti GNL e di stoccaggio del gas naturale.».
 
 ## Art. 31. — Modifiche all'articolo 23 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -279,6 +1028,19 @@ All'articolo 23 del decreto legislativo 1° giugno 2011, n. 93, dopo il comma 4,
 All'articolo 25 del decreto legislativo 1° giugno 2011, n. 93, al comma 1, le parole: «31 della direttiva 2009/73/CE» sono sostituite dalle seguenti: «75 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024».
 
 ## Art. 33. — Modifiche all'articolo 26 del decreto legislativo 1° giugno 2011, n. 93
+
+1.
+                        
+                            
+                                All'articolo 26 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1: 
+ 1) le parole: «dell'articolo 30 della direttiva 2009/73/CE» sono sostituite dalle seguenti: «di cui agli articoli 74 e 75 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024»; 
+ 2) dopo il primo periodo e' aggiunto, in fine, il seguente: «La divulgazione di tali informazioni e' consentita solo qualora cio' sia necessario per consentire alle autorita' competenti di svolgere le proprie funzioni.».
 
 ## Art. 34. — Inserimento del titolo II-bis al decreto legislativo 1° giugno 2011, n. 93
 
@@ -550,7 +1312,145 @@ Il presente decreto lascia impregiudicata, per i gestori dei sistemi di trasport
 
 ## Art. 35. — Modifiche all'articolo 42 del decreto legislativo 1° giugno 2011, n. 93
 
+1.
+                        
+                            
+                                All'articolo 42, comma 1, del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'alinea, dopo le parole: «dalla legge 14 novembre 1995, n. 481» sono aggiunte le seguenti: «, in stretta consultazione con le altre autorita' nazionali competenti, inclusa l'Autorita' garante della concorrenza e del mercato e, se del caso, le pertinenti autorita' degli Stati membri limitrofi e dei paesi limitrofi, fatte salve le rispettive competenze»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera a) e' sostituita dalla seguente: 
+ «a) promuovere, in stretta cooperazione con l'Agenzia per la cooperazione fra i regolatori nazionali dell'energia - ACER, con le autorita' di regolamentazione degli altri Stati membri e con la Commissione europea, mercati interni dell'energia elettrica e del gas naturale, dei gas rinnovabili, dei gas a basse emissioni di carbonio e dell'idrogeno concorrenziali, flessibili, sicuri e ecologicamente sostenibili nell'Unione europea, nonche' l'efficace apertura del mercato per tutti i clienti e i fornitori dell'Unione europea, oltre a garantire condizioni appropriate per il funzionamento efficace e affidabile delle reti del gas naturale e dell'idrogeno e far avanzare l'integrazione del sistema energetico, tenendo conto degli obiettivi a lungo termine e contribuendo in tal modo all'applicazione coerente, efficiente ed efficace del diritto dell'Unione europea al fine di conseguire gli obiettivi dell'Unione europea in materia di clima ed energia;»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera a-ter) e' sostituita dalla seguente: 
+ «a-ter) eliminare le restrizioni agli scambi di energia elettrica, gas naturale e idrogeno tra gli Stati membri, gas naturale e idrogeno e sviluppare adeguate capacita' di trasmissione transfrontaliere, per soddisfare la domanda e migliorare l'integrazione dei mercati nazionali, nonche' al fine di agevolare la circolazione dell'energia elettrica all'interno dell'Unione europea;»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la lettera c) e' sostituita dalla seguente: 
+ «c) contribuire a conseguire, nel modo piu' efficace sotto il profilo dei costi e tenendo conto del principio "l'efficienza energetica al primo posto", lo sviluppo di sistemi non discriminatori sicuri, affidabili ed efficienti orientati al consumatore e promuovere l'adeguatezza dei sistemi e, in linea con agli obiettivi generali in materia di politica energetica e climatica, l'efficienza energetica nonche' l'integrazione della produzione su larga scala e su scala ridotta di energia elettrica e di gas da fonti rinnovabili e la produzione decentrata nelle reti di trasporto, di trasmissione e distribuzione, agevolandone il funzionamento in relazione ad altre reti energetiche dell'energia elettrica e del riscaldamento;»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la lettera d) e' sostituita dalla seguente: 
+ «d) agevolare la connessione e l'accesso alla rete di nuove capacita' di produzione e di generazione, in particolare eliminando gli ostacoli che potrebbero impedire la connessione e l'accesso di nuovi operatori nei mercati e l'immissione dell'energia elettrica e del gas e idrogeno da fonti di rinnovabili;»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla lettera d-bis), dopo le parole: «di trasmissione dell'energia elettrica» sono inserite le seguenti: «, del gas e idrogeno da fonti rinnovabili»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alla lettera e), dopo le parole: «tutela dei consumatori» sono aggiunte le seguenti: «in stretto coordinamento con le pertinenti autorita' di tutela dei consumatori e in consultazione con i pertinenti organismi dei consumatori».
+
 ## Art. 36. — Modifiche all'articolo 43 del decreto legislativo 1° giugno 2011, n. 93
+
+1.
+                        
+                            
+                                All'articolo 43 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2: 
+ 1) alla lettera a), le parole: «delle direttive 2009/72/CE e 2009/73/CE» sono sostituite dalle seguenti: «alla direttiva 2009/72/CE e alla direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024, in particolare, valutando l'esistenza di ostacoli che impediscano ai clienti di esercitare i loro diritti, quali il cambio di fornitore, la risoluzione del contratto e l'accesso a meccanismi di risoluzione extragiudiziale delle controversie»; 
+ 2) alla lettera b), le parole «delle direttive 2009/72/CE e 2009/73/CE» sono sostituite dalle seguenti: «alla direttiva 2009/72/CE e alla direttiva (UE) 2024/1788»; 
+ 3) la lettera c) e' sostituita dalla seguente: 
+ «c) garantisce che i gestori dei sistemi di trasmissione e i gestori dei sistemi di distribuzione e, se necessario, i proprietari dei rispettivi sistemi e i gestori delle reti dell'idrogeno, nonche' qualsiasi impresa elettrica o di gas naturale o altro partecipante al mercato dell'energia, ottemperino agli obblighi che ad essi incombono ai sensi della normativa nazionale vigente, dei regolamenti (UE) 2024/1789 e 2019/943 e del regolamento (CE) n. 715/2009/, dei codici di rete e degli orientamenti adottati a norma degli articoli 58, 60 e 61 del regolamento (UE) 2019/943 e degli articoli 70, 71 e 72 del regolamento (UE) 2024/1789, del regolamento (UE) 2017/1938, nonche' di tutte le altre disposizioni di diritto dell'Unione europea, anche per quanto riguarda le questioni transfrontaliere, nonche' in forza delle decisioni dell'Agenzia per la cooperazione tra i regolatori nazionali dell'energia (ACER);»; 
+ 4) la lettera c-ter) e' sostituita dalla seguente: 
+ «c-ter) in stretto coordinamento con le altre autorita' di regolazione nazionali, garantisce che la rete europea dei gestori dei sistemi di trasmissione per l'energia elettrica (ENTSO-E), il gas (ENTSO-G), l'idrogeno (ENNOH) e l'ente europeo dei gestori dei sistemi di distribuzione dell'UE (EU DSO) ottemperino agli obblighi che ad essi incombono alla stregua della normativa nazionale vigente, del regolamento (UE) 2024/1789, dei codici di rete e degli orientamenti adottati a norma degli articoli da 70 a 74 del regolamento (UE) 2024/1789 e delle pertinenti disposizioni di diritto dell'Unione europea, anche per quanto riguarda le questioni transfrontaliere, nonche' in forza delle decisioni assunte dall'ACER;»; 
+ 5) la lettera c-quater) e' sostituita dalla seguente: 
+ «c-quater) individua congiuntamente alle altre autorita' di regolazione europee l'inadempimento, da parte dell'ENTSO-E, di ENTSOG, dell'EU DSO e dell'ENNOH, dei rispettivi obblighi, tenuto conto che se le autorita' di regolazione non sono in grado di raggiungere un accordo entro un termine di quattro mesi dall'inizio delle consultazioni al fine di individuare congiuntamente l'inadempimento, la questione e' deferita all'ACER per una decisione, a norma dell'articolo 6, paragrafo 10, del regolamento (UE) 2019/942;»; 
+ 6) alla lettera c-quinquies), le parole: «58, 60 e 61 del regolamento (UE) 2019/943» sono sostituite dalle seguenti: «70 a 74 del regolamento (UE) 2024/1789»; 
+ 7) la lettera c-duodecies) e' sostituita dalla seguente: 
+ «c-duodecies) assicura che ai gestori dei sistemi, compresi i gestori delle reti dell'idrogeno, e agli utenti del sistema siano offerti incentivi adeguati per migliorare l'efficienza energetica delle prestazioni del sistema e promuovere l'integrazione del mercato e la sicurezza dell'approvvigionamento e sostenere le attivita' di ricerca correlate;»; 
+ 8) dopo la lettera c-terdecies) sono aggiunte le seguenti: 
+ «c-quaterdecies) garantisce un processo aperto, trasparente, efficace ed inclusivo per predisporre il piano nazionale di sviluppo della rete in linea con le prescrizioni dell'articolo 55 della direttiva (UE) 2027/1788 il piano di sviluppo della rete di distribuzione dell'idrogeno in linea con le prescrizioni dell'articolo 56 e, se del caso, il piano di dismissione della rete in linea con le prescrizioni dell'articolo 57 della medesima direttiva; 
+ c-quinquiesdecies) approva e modifica i piani di sviluppo della rete di cui all'articolo 55 e, se del caso, all'articolo 57 della direttiva (UE) 2024/1788; 
+ c-sexiesdecies) procede all'esame e, se del caso, chiede modifiche del piano di sviluppo della rete di distribuzione dell'idrogeno di cui all'articolo 56, paragrafo 4, della direttiva (UE) 2024/1788; 
+ c-septiesdecies) definisce gli orientamenti di cui all'articolo 57, paragrafo 6, della direttiva (UE) 2024/1788 che forniscono criteri e metodologie per un approccio strutturale alla dismissione di parti della rete di distribuzione del gas naturale, tenendo conto dei costi di dismissione e del caso specifico degli attivi che potrebbero comportare la dismissione prima della fine del loro ciclo di vita originariamente previsto, nonche' fornire orientamenti per quanto riguarda la fissazione delle tariffe in tali casi; 
+ c-duodevicies) monitora l'eliminazione degli ostacoli e delle restrizioni ingiustificati allo sviluppo del consumo di gas naturale rinnovabile autoprodotto; 
+ c-undevicies) svolge qualsiasi altro compito conferito a norma della direttiva (UE) 2024/1788 e del regolamento (UE) 2024/1789; 
+ c-vicies) esercita i poteri seguenti: 
+ 1) fissa e approva, con sufficiente anticipo rispetto alla loro entrata in vigore, quantomeno le metodologie usate per calcolare o stabilire le condizioni per la prestazione di servizi di bilanciamento, che devono essere svolti nel modo piu' economico, fornisce incentivi adeguati agli utenti della rete per bilanciare l'immissione e il prelievo di energia, in modo equo e non discriminatorio, e basarsi su criteri obiettivi; 
+ 2) approva e monitora gli oneri specifici ai sensi dell'articolo 5 del regolamento (UE) 2024/1789; 
+ c-vicies semel) controlla la gestione della congestione all'interno delle reti di trasporto e delle reti di trasporto dell'idrogeno nazionali, compresi gli interconnettori e gli interconnettori di idrogeno, e l'attuazione delle norme di gestione della congestione. A tal fine, i gestori dei sistemi di trasporto, i gestori delle reti di trasporto dell'idrogeno o gli operatori di mercato presentano all'autorita' le loro procedure di gestione della congestione, inclusa l'allocazione della capacita', che se del caso puo' chiedere la modifica di tali regole.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2-bis e' inserito il seguente: 
+ «2-ter. L'Autorita' approva gli scenari comuni per il piano decennale comune di sviluppo della rete del gas e dell'idrogeno conformemente all'articolo 55, paragrafo 2, lettera f), della direttiva (UE) 2024/1788.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3: 
+ 1) alla lettera a), dopo le parole: «sistemi di trasporto» sono aggiunte le seguenti: «e dei gestori delle reti di trasporto dell'idrogeno, e fornisce, nella relazione annuale, un'analisi dei programmi di investimento dei gestori dei sistemi di trasporto e dei gestori delle reti di trasporto dell'idrogeno sotto il profilo della loro conformita' con i piani di sviluppo della rete a livello dell'Unione europea di cui agli articoli 32 e 60 del regolamento (UE) 2024/1789, comprendente le raccomandazioni per la modifica di tali programmi di investimento»; 
+ 2) dopo la lettera c) e' aggiunta la seguente: 
+ «c-bis) sul tempo impiegato dai gestori dei sistemi di trasporto e distribuzione del gas naturale o dai gestori delle reti dell'idrogeno per effettuare connessioni e riparazioni, comprese le richieste di connessione alla rete da parte degli impianti di produzione di biometano.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 4: 
+ 1) la lettera a) e' sostituita dalla seguente: 
+ «a) il grado e l'efficacia di apertura dei mercati all'ingrosso e al dettaglio, compresi le borse dell'energia elettrica e del gas naturale e dell'idrogeno, i prezzi fatturati ai clienti civili inclusi i sistemi di prepagamento e gli anticipi, la percentuale dei clienti che cambiano fornitore, la percentuale delle disattivazioni, le spese per i servizi di manutenzione e per la loro esecuzione; la trasparenza delle offerte, le impennate dei prezzi e il loro impatto sui prezzi al dettaglio e al consumo, il rapporto tra i prezzi per i clienti civili e i prezzi all'ingrosso, i reclami dei clienti civili e le eventuali distorsioni o restrizioni della concorrenza, comunicando in particolare ogni informazione pertinente all'attenzione delle autorita' garanti della concorrenza e deferendo alle stesse tutti i casi che essa ritenga di loro competenza, in particolare per quanto riguarda i clienti vulnerabili e i clienti in condizioni di poverta' energetica;»; 
+ 2) alla lettera b) sono aggiunte, in fine, le seguenti parole: «, e, se del caso, informare l'Autorita' garante della concorrenza e del mercato (AGCM) in merito a tali pratiche»; 
+ 3) dopo la lettera c) sono aggiunte le seguenti: 
+ «c-bis) l'evoluzione della qualita' del gas e della relativa gestione a opera dei gestori dei sistemi di trasporto e, se del caso, dei gestori dei sistemi di distribuzione, ivi compreso il monitoraggio dell'andamento dei costi connessi alla gestione della qualita' del gas a opera dei gestori dei sistemi e gli sviluppi legati alla miscelazione e alla demiscelazione di idrogeno nel sistema del gas naturale a opera dei gestori dei sistemi di stoccaggio del gas naturale e dei gestori degli impianti GNL; 
+ c-ter) l'evoluzione della qualita' dell'idrogeno e della relativa gestione a opera dei gestori delle reti dell'idrogeno, se del caso, come previsto all'articolo 50, ivi compreso il monitoraggio dell'andamento dei costi connessi alla gestione della qualita' dell'idrogeno; 
+ c-quater) affinche' sia rispettata la liberta' contrattuale per quanto concerne i contratti a lungo termine, a condizione che siano conformi al diritto dell'Unione europea, siano coerenti con le politiche dell'Unione europea e contribuiscano al conseguimento degli obiettivi di decarbonizzazione, purche' per la fornitura di gas di origine fossile non soggetto ad abbattimento non siano stipulati contratti a lungo termine la cui durata si protragga oltre il 31 dicembre 2049; 
+ c-quinquies) sul livello di trasparenza, anche dei prezzi all'ingrosso, e garantisce l'osservanza, da parte delle imprese di gas naturale e di idrogeno, degli obblighi in materia di trasparenza.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 4-bis e' inserito il seguente: 
+ «4-ter. L'ARERA provvede affinche' siano esclusi i sussidi incrociati fra attivita' di trasporto, distribuzione, trasporto dell'idrogeno, stoccaggio di gas naturale e idrogeno, terminali di idrogeno e GNL e fornitura di gas naturale e idrogeno, fermo restando l'articolo 5, paragrafo 2, del regolamento (UE) 2024/1789»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 5, le parole: «Autorita' per l'energia elettrica e il gas puo' effettuare indagini sul funzionamento dei mercati dell'energia elettrica e del gas naturale» sono sostituite dalle seguenti: «ARERA puo' effettuare indagini sul funzionamento dei mercati dell'energia elettrica, del gas naturale e dell'idrogeno».
 
 ## Art. 37. — Modifiche all'articolo 44 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -563,7 +1463,59 @@ All'articolo 45, comma 1, del decreto legislativo 1° giugno 2011, n. 93, all'al
 
 ## Art. 39. — Modifiche all'articolo 46 del decreto legislativo 1° giugno 2011, n. 93
 
+1.
+                        
+                            
+                                All'articolo 46 del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole: «dei mercati dell'energia elettrica e del gas naturale» sono aggiunte le seguenti: «e dell'idrogeno»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, e' aggiunto, in fine, il seguente periodo: «L'autorita' che riceve le informazioni garantisce ad esse lo stesso grado di riservatezza prescritto dall'autorita' che le comunica.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 6, dopo la lettera c) e' aggiunta la seguente: 
+ «c-bis) assicurare l'osservanza della normativa da parte dei soggetti giuridici che espletano i compiti dei gestori di trasporto e dei gestori delle reti a livello transfrontaliero o regionale.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 7-bis e' sostituito dal seguente: 
+ «7-bis. L'Autorita' di regolazione per energia reti e ambiente puo' consultare le pertinenti autorita' dei paesi terzi, segnatamente quelle delle parti contraenti della Comunita' dell'energia, dopo aver consultato le autorita' di regolazione degli altri Stati membri interessati, e cooperare con esse relativamente all'esercizio dell'infrastruttura del gas e dell'idrogeno da e verso i paesi terzi al fine di garantire, per quanto concerne l'infrastruttura interessata, la coerente applicazione della direttiva (UE) 2024/1788, nel territorio e nelle acque territoriali italiane.».
+
 ## Art. 40. — Modifiche all'articolo 46-quater del decreto legislativo 1° giugno 2011, n. 93
+
+1.
+                        
+                            
+                                All'articolo 46-quater del decreto legislativo 1° giugno 2011, n. 93, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, le parole: «direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE» sono sostituite dalle seguenti: «direttiva (UE) 2024/1788» e le parole: «di cui all'articolo 49-ter, paragrafi da 3 a 10 della direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE» sono sostituite dalle seguenti: «di cui all'articolo 89, paragrafi da 3 a 15, della direttiva (UE) 2024/1788»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, le parole: «di cui ai paragrafi 12 e 13 dell'articolo 49-ter della direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE,» sono sostituite dalle seguenti: «di cui all'articolo 89 della direttiva (UE) 2024/1788,».
 
 ## - Capo VI Modifiche al decreto legislativo 3 marzo 2011, n. 28
 

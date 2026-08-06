@@ -8,8 +8,8 @@ codice_redazionale: 002G0119
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,70 @@ Per l'anno 2001 dette risorse, gia' integrate dalle somme di cui al decreto di i
 La parte residua del fondo e' destinata a programmi di recupero di coloro che sono riconosciuti responsabili dei delitti di cui agli articoli 600-bis, secondo comma, 600-ter, terzo comma, e 600-quater del codice penale.
 
 ## Art. 2. — Programmi di intervento
+
+1.
+                    
+                        
+                            Le regioni e le province autonome di Trento e di Bolzano, anche alla luce di quanto previsto nel progetto-obiettivo materno-infantile adottato con decreto del Ministro della sanita' 24 aprile 2000, in tema di maltrattamenti, di abuso e di sfruttamento sessuale dei minori, sulla base delle risorse assegnate, predispongono programmi di intervento finalizzati alla realizzazione di progetti specifici concernenti:
+ 
+                        
+                        
+                            a)
+                            
+                                azioni di prevenzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                azioni di presa in carico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                azioni formative e informative, anche rivolte alle vittime e agli autori di reato.
+
+2.
+                    
+                        
+                            I programmi indicano in linea generale:
+ 
+                        
+                        
+                            a)
+                            
+                                le azioni prioritarie da promuovere da parte delle amministrazioni competenti e i risultati attesi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti responsabili dell'iniziativa e dell'attuazione degli interventi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' della collaborazione tra enti pubblici e soggetti privati operanti nel settore della tutela dei minori dagli abusi, con particolare riguardo alla collaborazione tra comuni, aziende unita' sanitarie locali e i centri di giustizia minorile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i criteri di ripartizione del fondo sul territorio interessato e per ogni azione prioritaria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' per l'utilizzazione dei finanziamenti e per l'eventuale revoca.
 
 Ai sensi dell'articolo 17 della legge n. 269 del 1998 e dell'articolo 45 del decreto legislativo n. 300 del 1999 e sue successive modifiche, l'attivita' di monitoraggio dei programmi di intervento e' svolta dal Ministero del lavoro e delle politiche sociali, in collaborazione con le amministrazioni statali interessate e con le regioni e le province autonome di Trento e di Bolzano. Nello svolgimento dell'attivita' di monitoraggio, il Ministero del lavoro e delle politiche sociali si avvale dell'Osservatorio nazionale per l'infanzia e l'adolescenza e del Centro nazionale di documentazione ed analisi per l'infanzia e l'adolescenza di cui alla legge n. 451 del 1997.
 

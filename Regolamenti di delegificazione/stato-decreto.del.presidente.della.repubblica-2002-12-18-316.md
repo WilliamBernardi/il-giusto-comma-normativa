@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2016-01-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -47,6 +47,70 @@ L'arruolamento degli allievi finanzieri da destinare ai gruppi sportivi "Fiamme 
 Nel corso dell'anno sono sempre aperti i termini per la presentazione delle domande di arruolamento. Sono avviati, annualmente, alla procedura selettiva gli aspiranti al reclutamento che abbiano presentato la domanda entro il 30 giugno dell'anno di riferimento. In relazione a particolari necessita', sono, altresi', avviati alla procedura selettiva straordinaria gli aspiranti al reclutamento che abbiano presentato la domanda entro il 31 ottobre dell'anno di riferimento. A tali date si fa riferimento quale termine per il possesso del requisito dell'eta' previsto dall'articolo 6, comma 1, lettera b), del decreto legislativo 12 maggio 1995, n. 199.
 
 Il numero dei posti disponibili, distinto per il contingente ordinario e il contingente di mare, e' annualmente stabilito con determinazione del Comandante generale della Guardia di finanza.
+
+4.
+                    
+                        
+                            La procedura di selezione di cui al comma 1 e' articolata nelle seguenti fasi:
+ 
+                        
+                        
+                            a)
+                            
+                                visita medica preliminare, comprensiva di esami specialistici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                eventuale visita medica di revisione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accertamento dell'idoneita' attitudinale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutazione dei titoli posseduti dai candidati.
+
+5.
+                    
+                        
+                            Allo svolgimento delle operazioni di selezione e' deputata una Commissione giudicatrice, nominata con determinazione del Comandante generale della Guardia di finanza, presieduta da un ufficiale generale e ripartita nelle seguenti sottocommissioni:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'accertamento dei requisiti, la valutazione dei titoli e la redazione della graduatoria unica di merito;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la visita medica preliminare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la visita medica di revisione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per l'accertamento dell'idoneita' attitudine.
 
 Ciascuna sottocommissione e' presieduta da un ufficiale della Guardia di finanza di grado non inferiore a colonnello e puo' avvalersi, per i lavori di competenza, dell'ausilio di personale specializzato e tecnico.
 

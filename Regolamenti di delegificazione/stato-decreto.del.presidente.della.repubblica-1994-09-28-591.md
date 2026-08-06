@@ -8,8 +8,8 @@ codice_redazionale: 094G0627
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -59,6 +59,31 @@ Le somme di cui ai commi 1 e 2, al netto delle commissioni spettanti, vanno vers
 ## Art. 6. — Controlli degli uffici
 
 Gli uffici tributari, entro trenta giorni dalla ricezione delle domande, provvedono a trasmettere alla commissione tributaria competente la copia della domanda stessa, corredata della documentazione di cui all'art. 3, comma 3.
+
+2.
+                    
+                        
+                            Gli uffici procedono, entro e non oltre il 31 dicembre 1996, all'esame delle domande presentate dai contribuenti al fine di verificare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammissibilita' della domanda stessa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esatta liquidazione delle somme dovute;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'assolvimento dell'obbligo di pagamento.
 
 Qualora dai controlli effettuati risulti che non sussistono i presupposti per la definizione della lite, gli uffici provvedono a darne comunicazione alla commissione tributaria competente entro e non oltre il 28 febbraio 1997.
 

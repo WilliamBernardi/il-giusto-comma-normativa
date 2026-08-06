@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2023-04-17;73
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,24 @@ Il presente regolamento disciplina per il Ministero dell'interno, di seguito «M
 
 ## Art. 2. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente regolamento si applica, salvi i casi di cui all'articolo 113, comma 2, secondo periodo, del codice, ai contratti di: 
+ 
+                        
+                        
+                            a)
+                            
+                                lavori, inclusi quelli di manutenzione straordinaria, nonche' quelli di manutenzione ordinaria qualora questi ultimi risultino di particolare complessita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizi e forniture, nel caso in cui, anche nel corso dell'esecuzione, ne sia nominato il direttore, sempreche' tale nomina sia prevista da disposizioni di legge e sia effettuata nel rispetto di criteri attuativi adottati dalle autorita' competenti.
+
 I lavori di manutenzione ordinaria di cui al comma 1, lettera a), sono individuati, anche per sopravvenute esigenze purche' nei limiti di cui all'articolo 106, comma 12, del codice, dal dirigente o, in mancanza, dal responsabile di servizio preposto alla struttura che opera come stazione appaltante.
 
 In caso di contratti misti, si applicano le disposizioni relative al tipo di appalto che caratterizza l'oggetto principale del contratto.
@@ -56,6 +74,70 @@ Le risorse da destinare al fondo di cui al comma 1 sono individuate con provvedi
 L'ottanta per cento del fondo e' destinato agli incentivi per le funzioni tecniche svolte dal personale dipendente di livello non dirigenziale, appartenente ai diversi ruoli, delle articolazioni centrali e periferiche dell'amministrazione ed e' ripartito, per ciascuna opera o lavoro, servizio o fornitura, sulla base di quanto disposto dal presente regolamento e con le modalita' e i criteri previsti, in sede di contrattazione decentrata integrativa del personale, tra il responsabile unico del procedimento (di seguito RUP) e il personale che svolge le suddette funzioni tecniche nonche' tra i loro collaboratori, esclusivamente per le attivita' di cui all'articolo 113, comma 2, del codice. Ai sensi dell'articolo 113, comma 3, secondo periodo, del codice, gli importi sono comprensivi degli oneri previdenziali e assistenziali a carico dell'amministrazione. Il restante venti per cento del fondo, ad esclusione di risorse derivanti da finanziamenti europei o da altri finanziamenti a destinazione vincolata, e' destinato alle finalita' di cui all'articolo 113, comma 4, del codice.
 
 In caso di accordo quadro, le risorse da destinare al fondo sono individuate in relazione all'importo del singolo contratto attuativo affidato per mezzo dell'accordo quadro in questione.
+
+5.
+                    
+                        
+                            Nel caso di appalti di lavori, come definiti dall'articolo 3, comma 1, lettera nn), del codice, la percentuale di risorse finanziarie da destinare al fondo, calcolata, ai sensi dell'articolo 113, comma 2, del codice, sull'importo posto a base di gara oppure del contratto nel caso di procedure comparative senza gara, al netto dell'IVA e compresi gli oneri per la sicurezza, e' modulata, in ragione dell'entita' dei lavori, come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                2 per cento per importo fino alla soglia comunitaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,90 per cento per importo superiore alla soglia comunitaria e fino a euro 10.000.000; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                1,80 per cento per importo superiore a euro 10.000.000 e fino a euro 25.000.000; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                1,70 per cento per importo superiore a euro 25.000.000.
+
+6.
+                    
+                        
+                            Nel caso di appalti per servizi e forniture, come definiti, rispettivamente, dall'articolo 3, comma 1, lettera ss) e lettera tt), del codice, la percentuale di risorse finanziarie da destinare al fondo, calcolata, ai sensi dell'articolo 113, comma 2, del codice, sull'importo posto a base di gara oppure del contratto nel caso di procedure comparative senza gara, al netto dell'IVA e compresi gli oneri per la sicurezza, e' modulata, in ragione dell'entita' dei servizi e delle forniture, come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                2 per cento per importo fino alla soglia comunitaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,90 per cento per importo superiore alla soglia comunitaria e fino a euro 1.000.000; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                1,80 per cento per importo superiore a euro 1.000.000 e fino a euro 5.000.000; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                1,70 per cento per importo superiore a euro 5.000.000.
 
 Le percentuali si applicano sull'importo per scaglioni, mediante l'applicazione della relativa aliquota ad ogni quota parte dell'importo di gara, oppure del contratto nel caso di procedure comparative senza gara, che ricade all'interno del singolo scaglione.
 
@@ -102,6 +184,126 @@ Le quote parti dell'incentivo corrispondenti a prestazioni non svolte dai medesi
  della corresponsione dell'incentivo
 
 La corresponsione dell'incentivo e' disposta, secondo le modalita' indicate dal dirigente o, in mancanza, dal responsabile di servizio preposto alla struttura che opera come stazione appaltante, previo accertamento delle specifiche attivita' svolte, sulla base di motivata proposta del RUP, che, a tal fine, redige apposita relazione in cui, attesta che le prestazioni affidate sono state correttamente rese.
+
+2.
+                    
+                        
+                            Le prestazioni sono da considerarsi rese: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il RUP, con l'approvazione del certificato di collaudo, del certificato di verifica di conformita' o di regolare esecuzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la programmazione della spesa per investimenti, con l'adozione del relativo atto previsionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la valutazione preventiva dei progetti, con l'invio al RUP della relazione finale di valutazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per la predisposizione e il controllo delle procedure di gara, con la stipula del contratto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per la direzione lavori, con l'emissione del certificato di collaudo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per la direzione dell'esecuzione dei contratti di forniture e servizi, con l'emissione del certificato di verifica di conformita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per il collaudo tecnico amministrativo dei lavori e per la verifica di conformita' di servizi e forniture, con l'emissione del relativo certificato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per il collaudo statico, con l'emissione del relativo certificato; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per gli adempimenti relativi alla sicurezza sul lavoro, con la certificazione di regolare esecuzione del contratto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per l'attivita' di progettazione, con la redazione del Documento di indirizzo alla progettazione o con la consegna dei relativi elaborati progettuali; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per l'attivita' di coordinamento della sicurezza in fase di progettazione, con la redazione del Piano di sicurezza e coordinamento (PSC) e del fascicolo contenente le informazioni utili per la prevenzione e la protezione dei rischi cui sono esposti i lavoratori; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                per l'attivita' di coordinamento della sicurezza in fase di esecuzione, con il certificato di collaudo; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                per l'attivita' di verifica preventiva della progettazione, con il relativo verbale.
+
+3.
+                    
+                        
+                            L'incentivo e' liquidato: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai dipendenti ai quali e' stata affidata l'attivita' di programmazione della spesa per investimenti, di valutazione preventiva dei progetti, di predisposizione e controllo delle procedure di gara, al coordinatore per la sicurezza in fase di progettazione e al responsabile della verifica preventiva della progettazione e ai rispettivi collaboratori, nella misura dell'80 per cento dopo la predisposizione degli atti di gara o affidamento del contratto e per il rimanente 20 per cento dopo l'approvazione del certificato di collaudo, del certificato di verifica di conformita' o di regolare esecuzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al RUP e ai suoi collaboratori per il 50 per cento dopo la predisposizione degli atti di gara o affidamento del contratto e per il rimanente 50 per cento dopo l'approvazione del certificato di collaudo, o del certificato di verifica di conformita' o di regolare esecuzione; al progettista e ai suoi collaboratori, per il 50 per cento dopo la consegna dei documenti di cui al comma 2, lettera l), e per il rimanente 50 per cento dopo l'approvazione del RUP o del dirigente del servizio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al direttore dei lavori, al direttore dell'esecuzione, agli incaricati del collaudo tecnico-amministrativo o statico e della verifica di conformita', al coordinatore della sicurezza in fase di esecuzione ed ai rispettivi collaboratori, per il 50 per cento allo stato di avanzamento che superi la meta' dell'importo contrattuale e per il restante 50 per cento a saldo dopo l'approvazione del certificato di collaudo, o del certificato di verifica di conformita' o di regolare esecuzione.
 
 Qualora successivamente all'avvio della procedura di affidamento il relativo procedimento si arresti per ragioni non dipendenti dal personale incaricato delle funzioni tecniche, con provvedimento motivato, il dirigente, o in mancanza, il responsabile del servizio, sentito il RUP, determina la quota di incentivo spettante al dipendente in relazione alle attivita' effettivamente svolte.
 

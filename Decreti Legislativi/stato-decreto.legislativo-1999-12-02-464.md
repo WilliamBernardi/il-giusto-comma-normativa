@@ -8,8 +8,8 @@ codice_redazionale: 099G0541
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,24 @@ apparecchi da divertimento e intrattenimento
 Fino al 31 dicembre 2000, agli apparecchi da divertimento e intrattenimento previsti dall'articolo 14-bis, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, inserito dall'articolo 9 del decreto legislativo 26 febbraio 1999, n. 60, non muniti di schede magnetiche a deconto o strumenti similari, continuano ad applicarsi gli imponibili forfetari medi annuali stabiliti con decreto del Ministro delle finanze.
 
 ## Art. 2. — Disposizioni di coordinamento normativo
+
+1.
+                    
+                        
+                            Al decreto legislativo 26 febbraio 1999, n. 60, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 20, comma 3, le parole: "h-ter", sono sostituite dalle seguenti: "h-quater";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 21, comma 2, le parole: "dalla legge 22 dicembre 1951, n. 1379", sono sostituite dalle seguenti: "dall'articolo 4, comma 1, lettera a), del decreto legislativo 23 dicembre 1998, n. 504".
 
 ## Art. 3. — Entrata in vigore
 

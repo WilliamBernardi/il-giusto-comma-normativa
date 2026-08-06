@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2020-03-31;85
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,6 +56,45 @@ Soggetti gia' iscritti a FONDINPS
 
 Entro sessanta giorni dalla data di entrata in vigore del presente decreto, il Commissario liquidatore di FONDINPS adotta, d'intesa con il Fondo COMETA, un apposito piano di attivita' per il passaggio a quest'ultimo Fondo delle posizioni individuali dei soggetti che risultano gia' iscritti a FONDINPS alla data di chiusura del Fondo alle nuove adesioni, ai sensi dell'articolo 2, comma 1.
 
+2.
+                    
+                        
+                            Nel piano di attivita' sono definiti i seguenti profili: 
+ 
+                        
+                        
+                            a)
+                            
+                                le tempistiche per la trasmissione delle anagrafiche inerenti ai datori di lavoro e agli iscritti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le tempistiche e le modalita' per il trasferimento delle posizioni individuali degli iscritti e per la destinazione dei nuovi flussi contributivi relativi ai medesimi soggetti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le informative da attivarsi nei riguardi dei datori di lavoro e degli iscritti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i flussi informativi finalizzati ad assicurare la corretta operativita', senza soluzione di continuita', tra le due forme pensionistiche complementari; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il termine per il completamento delle attivita' indicate nel piano, che non puo' essere superiore a sei mesi dalla data di entrata in vigore del presente decreto.
+
 Il piano di attivita', redatto anche in conformita' alle disposizioni di cui all'articolo 4, e' trasmesso con immediatezza alla COVIP prima che inizi la sua attuazione.
 
 Ai soggetti gia' iscritti a FONDINPS e trasferiti al Fondo COMETA e' riconosciuto il diritto di trasferimento della posizione individuale ad altra forma pensionistica complementare da esercitarsi, in assenza di oneri, entro i sei mesi successivi alla ricezione di entrambe le informative di cui all'articolo 4, comma 1, lettere b) e d).
@@ -63,6 +102,45 @@ Ai soggetti gia' iscritti a FONDINPS e trasferiti al Fondo COMETA e' riconosciut
 ## Art. 4.
 
 Disposizioni per la tutela dei soggetti gia' iscritti a FONDINPS
+
+1.
+                    
+                        
+                            Al fine di assicurare un'adeguata tutela dei soggetti gia' iscritti a FONDINPS, nonche' la piena conoscenza dei meccanismi di funzionamento del Fondo COMETA e dei diritti e degli obblighi connessi all'adesione allo stesso, in sede di trasferimento delle relative posizioni individuali al Fondo COMETA trovano applicazione le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le posizioni in essere sono trasferite in un comparto che presenti le caratteristiche di cui all'articolo 8, comma 9, del decreto legislativo n. 252 del 2005; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' fornita un'informativa ai datori di lavoro e agli iscritti a FONDINPS che contempli una sintetica descrizione delle disposizioni che hanno determinato la chiusura di FONDINPS e che fornisca gli elementi identificativi del Fondo COMETA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                agli iscritti e' comunicato il comparto di destinazione delle posizioni individuali e dei flussi contributivi futuri, unitamente a una descrizione delle relative caratteristiche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli iscritti sono informati in merito al diritto di trasferimento di cui all'articolo 3, comma 4; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono messi a disposizione degli iscritti i documenti e le informazioni previste dalle disposizioni COVIP relativamente alle adesioni che conseguono al conferimento tacito del TFR.
 
 ## Art. 5. — Ulteriori disposizioni
 

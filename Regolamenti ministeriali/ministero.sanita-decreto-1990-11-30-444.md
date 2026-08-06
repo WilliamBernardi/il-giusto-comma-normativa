@@ -8,8 +8,8 @@ codice_redazionale: 091G0050
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -109,6 +109,31 @@ Le UU.SS.LL. assicurano anche, nell'ambito delle convenzioni di cui all'art. 94,
 
 Le UU.SS.LL. assicurano altresi' il coordinamento stabile dei SERT con i consultori familiari, con le strutture per l'AIDS e per le patologie infettive, con i servizi medico-legali, con i laboratori di analisi di riferimento, anche convenzionati, con i servizi di igiene mentale, con gli altri SERT eventualmente istituiti nonche', ove esistenti, con altri servizi sanitari e sociali che comunque svolgono attivita' nel settore delle tossicodipendenze.
 
+4.
+                    
+                        
+                            Le UU.SS.LL. si avvalgono dei SERT per le seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                collaborazione con i Provveditorati agli studi per la realizzazione degli interventi di cui agli articoli 86 e 87;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collaborazione con le autorita' militari esistenti nel territorio per l'attuazione di quanto disposto agli articoli 89- bis, 89- ter e 89-quater;
+
+                            
+                        
+                        
+                            c)
+                            
+                                collaborazione con il servizio sanitario penitenziario ai fini degli interventi di cura e riabilitazione a favore dei detenuti tossicodipendenti, nell'ambito dei programmi concordati dalle UU.SS.LL. stesse con gli istituti di pena, ai sensi degli articoli 84 e 101 della legge 22 dicembre 1975, n. 685.
+
 Ai fini del trattamento di cui agli articoli 72 e 72- bis su richiesta del prefetto e dell'autorita' giudiziaria competente i SERT predispongono e curano l'attuazione del programma terapeutico dei soggetti loro inviati; forniscono altresi' all'autorita' giudiziaria le certificazioni di cui all'art. 82- ter, comma 2.
 
 I SERT assicurano la loro collaborazione ai medici di fiducia delle persone assistite, ai sensi dell'art. 95, comma 4, e dell'art. 97, comma 3.
@@ -118,6 +143,73 @@ I SERT assicurano la loro collaborazione ai medici di fiducia delle persone assi
 I SERT costituiscono le strutture di riferimento delle UU.SS.LL. per i tossicodipendenti e per le loro famiglie e garantiscono agli interessati la riservatezza degli interventi e, ove richiesto, l'anonimato.
 
 I SERT devono assicurare in ogni caso la disponibilita' dei principali trattamenti di carattere psicologico, socio-riabilitativo e medico-farmacologico. I relativi interventi, nonche' quelli di carattere preventivo, quando obiettive circostanze lo rendano opportuno, sono effettuati domiciliarmente o in altre idonee strutture. Il trattamento psicologico e socio-riabilitativo viene attuato anche tramite le apposite convenzioni di cui all'art. 94.
+
+3.
+                    
+                        
+                            I SERT, fatte salve le ulteriori funzioni eventualmente loro attribuite dalle regioni ai sensi dell'art. 90, nell'ambito delle proprie competenze, provvedono a:
+ 
+                        
+                        
+                            a)
+                            
+                                attuare interventi di primo sostegno ed orientamento per i tossicodipendenti e le loro famiglie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attuare interventi di informazione e prevenzione particolarmente nei confronti delle fasce giovanili di popolazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accertare lo stato di salute psicofisica del soggetto anche con riferimento alle condizioni sociali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificare lo stato di tossicodipendenza ove richiesto dagli interessati o per le finalita' di cui alla legge n. 162 del 1990;
+
+                            
+                        
+                        
+                            e)
+                            
+                                definire i programmi terapeutici individuali compresi gli interventi socio-riabilitativi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                realizzare direttamente o in convenzione con le strutture di recupero sociale di cui agli articoli 91, 92 e 93 il programma terapeutico e socio-riabilitativo;
+
+                            
+                        
+                        
+                            g)
+                            
+                                attuare, come indicato al comma 4 del precedente art. 3, gli interventi di prevenzione della diffusione delle infezioni da HIV e delle altre patologie correlate alla tossicodipendenza, sia nei confronti dei soggetti in trattamento presso i SERT che nei confronti di quelli in trattamento presso le strutture convenzionate ai sensi dell'art. 94 e presso altre strutture di riabilitazione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                valutare periodicamente l'andamento e i risultati del trattamento e dei programmi di intervento sui singoli tossicodipendenti in riferimento agli aspetti di carattere clinico, psicologico, sociale, noche' in termini di cessazione di assunzione di sostanze stupefacenti;
+
+                            
+                        
+                        
+                            i)
+                            
+                                rilevare i dati statistici ed epidemiologici relativi alla propria attivita' e al territorio di competenza.
 
 I SERT, avvalendosi anche delle strutture di recupero sociale di cui al comma 2 del precedente art. 2, attuano periodicamente sui tossicodipendenti in trattamento i seguenti interventi relativi alla prevenzione delle infezioni da HIV e delle altre patologie correlate alla tossicodipendenza:
  individuazione dei comportamenti a rischio;

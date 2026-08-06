@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-12-07;202
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,45 @@ All'articolo 44, comma 5, del decreto legislativo 15 giugno 2015, n. 81, e' aggi
  del cinema e dell'audiovisivo
 
 Entro centottanta giorni dalla data di entrata in vigore del presente decreto, con regolamento emanato, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, su proposta del Ministro dei beni e delle attivita' culturali e del turismo, di concerto con il Ministro del lavoro e delle politiche sociali, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano di cui all'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni, e sentite le organizzazioni maggiormente rappresentative dei lavoratori e degli operatori nel settore, sono stabiliti criteri validi su tutto il territorio nazionale finalizzati a definire una classificazione settoriale uniforme per le professioni artistiche e le professioni tecniche del settore cinematografico e audiovisivo.
+
+2.
+                    
+                        
+                            La classificazione di cui al comma 1 e' definita tenuto conto del decreto del Ministro del lavoro e delle politiche sociali adottato in attuazione degli articoli 3 e 8 del decreto legislativo 16 gennaio 2013, n. 13, nonche' delle qualificazioni professionali e dei percorsi dell'istruzione professionale esistenti nel settore, al fine di riconoscere tutte le competenze e professionalita' operanti nell'ambito del cinema e dell'audiovisivo. In particolare, detta classificazione e' adottata, secondo quanto previsto dalla normativa vigente, con riferimento a ciascuna delle seguenti fasi di attivita' del settore cinematografico e audiovisivo, individuate dalla legge n. 220 del 2016 e dai relativi decreti attuativi, e di seguito riportate: 
+ 
+                        
+                        
+                            a)
+                            
+                                sviluppo e pre-produzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                produzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                post-produzione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                distribuzione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esercizio.
 
 ## Art. 4. — Clausola di invarianza finanziaria
 

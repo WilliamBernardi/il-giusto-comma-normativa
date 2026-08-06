@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1989-10-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -88,6 +88,24 @@ I ricorsi presentati dagli interessati alle commissioni sanitarie regionali, pen
 Nell'ipotesi di cui al primo comma, il termine per la comunicazione agli interessati della decisione del Ministro dell'interno decorre dalla data in cui il ricorso stesso sia pervenuto dalla commissione sanitaria regionale.
 
 ## Art. 7.
+
+1.
+                    
+                        
+                            Il servizio di segreteria delle commissioni mediche periferiche per le pensioni di guerra e d'invalidita' civile - di cui agli articoli 12 della legge 6 ottobre 1986, n. 656, e 3 della legge 26 luglio 1988, n. 291 - e' assicurato: 
+ 
+                        
+                        
+                            a)
+                            
+                                da personale dipendente dal Ministero del tesoro e dal Ministero della difesa oppure comandato da altre amministrazioni dello Stato, comprese quelle ad ordinamento autonomo, come stabilito dall'ultimo comma dell'art. 105 del decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, modificato dall'art. 19 del decreto del Presidente della Repubblica 30 dicembre 1981, n. 834; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da personale delle unita' sanitarie locali, all'uopo comandato presso le suddette commissioni mediche periferiche con le medesime qualifiche e funzioni ricoperte presso le unita' sanitarie locali di appartenenza purche' alla data di entrata in vigore della legge 26 luglio 1988, n. 291, svolgessero attivita' amministrative, come stabilito dal comma 7 dell'art. 3 della citata legge n. 291. All'uopo il personale interessato puo' presentare domanda al Ministero del tesoro - Direzione generale delle pensioni di guerra e dei servizi vari, e alla unita' sanitaria locale di appartenenza per essere comandato presso la coesistente commissione medica periferica per le pensioni di guerra e di invalidita' civile. In attesa del perfezionamento della relativa procedura, l'impiegato puo' essere autorizzato ad assumere immediato servizio presso la commissione medica, ove lo richiedano esigenze di lavoro.
 
 ## Art. 8.
 

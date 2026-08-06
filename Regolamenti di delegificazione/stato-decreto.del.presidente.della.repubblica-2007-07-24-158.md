@@ -8,8 +8,8 @@ codice_redazionale: 007G0173
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -49,7 +49,99 @@ All'esito della positiva valutazione dei programmi di intervento il Dipartimento
 
 ## Art. 4. — Contenuti dei programmi di intervento
 
+1.
+                    
+                        
+                            Ciascun programma d'intervento individua i contenuti e le articolazioni delle attivita' e definisce compiutamente i seguenti elementi, che devono essere indicati nella domanda di finanziamento:
+ 
+                        
+                        
+                            a)
+                            
+                                soggetti presentatori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contenuti e obiettivi del programma, sia a livello generale che a carattere specifico per ciascuna regione e provincia autonoma co-presentatrice;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ambiti territoriali entro cui sono previsti gli interventi e nei quali si prevedono effetti indotti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tipologia degli interventi ricompresi nel programma, connessione agli obiettivi del programma stesso ed alle finalita' turistiche e livello di progettazione esistente delle eventuali opere infrastrutturali (preliminare, definitivo, esecutivo);
+
+                            
+                        
+                        
+                            e)
+                            
+                                piano finanziario con evidenziazione delle quote di finanziamento regionale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                programma delle azioni previste;
+
+                            
+                        
+                        
+                            g)
+                            
+                                modalita' e strumenti previsti per la prosecuzione delle politiche di valorizzazione turistica dell'area interessata al Programma nelle fasi successive alla sua realizzazione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                esplicitazione di eventuali interventi suppletivi organici ai programmi;
+
+                            
+                        
+                        
+                            i)
+                            
+                                scheda riassuntiva degli investimenti con l'indicazione delle specifiche destinazioni dei contributi.
+
 ## Art. 5. — Interventi ammissibili
+
+1.
+                    
+                        
+                            Possono essere ammessi a finanziamento, fino ad massimo del 90 per cento della spesa, programmi relativi a:
+ 
+                        
+                        
+                            a)
+                            
+                                interventi strutturali, infrastrutturali e di creazione di servizi, con esclusione comunque della manutenzione ordinaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                interventi di qualificazione e riqualificazione delle risorse professionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interventi integrati a favore dello sviluppo competitivo del settore e della promozione del prodotto turistico.
 
 ## Art. 6. — Durata dei programmi di intervento
 
@@ -65,6 +157,31 @@ Eventuali proroghe del termine dei lavori, purche' non comportino oneri aggiunti
 La regione o la provincia autonoma capofila, entro il periodo di tempo intercorrente tra il decreto di assegnazione delle risorse e l'inizio dei lavori relativi al programma, invia al Dipartimento per lo sviluppo e la competitivita' del turismo il progetto esecutivo del programma stesso, corredato dalla definizione delle modalita' di attuazione e dalla descrizione delle modalita' di partecipazione di altri enti pubblici e soggetti privati all'iniziativa progettuale.
 
 ## Art. 8. — Modalita' di erogazione
+
+1.
+                    
+                        
+                            Previa richiesta di ciascuna regione e provincia autonoma interessata, per ciascun programma il Dipartimento per lo sviluppo e la competitivita' del turismo provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                al trasferimento del 20 per cento a titolo di anticipazione contestualmente all'adozione del decreto di assegnazione delle risorse di cui all'articolo 3, comma 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al trasferimento del 60 per cento in correlazione alla data di comunicazione dell'inizio lavori;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al trasferimento del residuo 20 per cento successivamente alla data di positiva ultimazione dei lavori, da accertarsi da parte del Dipartimento per lo sviluppo e la competitivita' del turismo.
 
 ## Art. 9. — Clausola di salvaguardia
 

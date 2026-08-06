@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -31,7 +31,71 @@ Il presente decreto ha per oggetto il recepimento della direttiva 2007/33/CE del
 
 Il presente decreto stabilisce i provvedimenti di natura fitosanitaria da adottare sul territorio della Repubblica italiana per la lotta obbligatoria contro la Globodera pallida (Stone) Behrens (popolazioni europee) e Globodera rostochiensis (Wollenweber) Behrens (popolazioni europee), di seguito denominate: «nematodi a cisti della patata».
 
+3.
+                        
+                            
+                                La lotta contro i nematodi a cisti della patata, consiste nell'attuazione di interventi atti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    localizzarne la presenza e determinarne la distribuzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevenirne la diffusione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora vengano individuati, combatterli.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ufficiale o ufficialmente: stabilito, autorizzato o realizzato dal Servizio fitosanitario competente, come definito all'articolo 2, paragrafo 1, lettera g), della direttiva 2000/29/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    varieta' di patata resistente: una varieta' la cui coltivazione controlla in modo significativo lo sviluppo di una particolare popolazione di nematodi a cisti della patata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esame: un metodo procedurale volto a determinare la presenza di nematodi a cisti della patata in una parcella; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indagine: un metodo procedurale applicato per un periodo di tempo definito per accertare la distribuzione dei nematodi a cisti della patata nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    parcella: un appezzamento di terreno condotto dal medesimo coltivatore, delimitato da confini identificabili (strade, capezzagne, canali, scoline ecc.), soggetto al medesimo avvicendamento e nel quale siano impiegate le medesime attrezzature e tecniche colturali.
 
 ## - Capo II INDIVIDUAZIONE
 
@@ -42,6 +106,31 @@ I Servizi fitosanitari regionali dispongono che sia effettuato un esame ufficial
 L'esame ufficiale di cui al comma 1 e' svolto nel periodo compreso tra l'ultimo raccolto effettuato nella parcella e l'impianto delle piante o dei tuberi-seme di cui al comma 1. Esso puo' essere svolto in un momento anteriore; in tale caso sono disponibili prove documentali dei risultati dell'esame attestanti che non e' stata rilevata la presenza di nematodi a cisti della patata e che le patate o altre piante ospiti di cui al punto 1 dell'allegato I non erano presenti al momento dell'esame, ne' sono state coltivate successivamente all'esame.
 
 I risultati di esami ufficiali diversi da quelli di cui al comma 1, eseguiti prima del 1° luglio 2010, possono essere considerati prove documentali ai fini di cui al comma 2.
+
+4.
+                        
+                            
+                                I Servizi fitosanitari regionali competenti, ove non esista rischio di diffusione dei nematodi a cisti della patata, possono stabilire che l'esame ufficiale di cui al comma 1 non e' necessario per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la messa a dimora delle piante di cui all'allegato I, destinate alla produzione di vegetali per l'impianto da utilizzare nello stesso luogo di produzione situato in una zona ufficialmente definita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la messa a dimora di tuberi-seme di patata, destinati alla produzione di tuberi-seme da utilizzare nello stesso luogo di produzione situato in una zona ufficialmente definita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la messa a dimora delle piante di cui al punto 2 dell'allegato I, destinate alla produzione di vegetali destinati all'impianto qualora il raccolto sia soggetto alle misure approvate ufficialmente di cui alla sezione III, punto 1, dell'allegato III.
 
 ## Art. 4. — Modalita' d'esame
 
@@ -73,6 +162,24 @@ Le patate o le piante di cui all'allegato I provenienti da una parcella che da u
 
 ## Art. 8. — Programma ufficiale di lotta
 
+1.
+                        
+                            
+                                I servizi fitosanitari competenti dispongono che in una parcella che, dal registro ufficiale di cui all'articolo 6, risulta infestata da nematodi a cisti della patata non e' possibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    piantare patate destinate alla produzione di tuberi-seme di patata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impiantare o immagazzinare piante di cui all'allegato I destinate al reimpianto.
+
 Possono tuttavia esservi impiantate le piante di cui al punto 2 dell'allegato I, purche' siano soggette alle misure approvate ufficialmente di cui alla sezione III, punto 1, dell'allegato III, in modo da garantire che non sussista rischio identificabile di diffusione dei nematodi a cisti della patata.
 
 I Servizi fitosanitari regionali competenti per territorio dispongono che le parcelle destinate alla coltivazione di patate diverse da quelle destinate alla produzione di tuberi-seme di patata, che risultano infestate da nematodi a cisti della patate dal registro ufficiale di cui all'articolo 6, siano oggetto di un programma ufficiale di lotta ai nematodi a cisti della patata che miri almeno a debellarli.
@@ -82,6 +189,31 @@ Il programma di cui al comma 3 tiene conto del particolare sistema di produzione
 Il contenuto del programma di cui al comma 3 e' trasmesso al Servizio fitosanitario centrale che provvedera' a notificarlo alla Commissione europea ed agli altri Stati membri. Il grado di resistenza delle varieta' di patate diverse da quelle gia' notificate a norma dell'articolo 10, paragrafo 1, della direttiva 69/465/CEE e' quantificato in base alla scala di punteggio di cui alla sezione I dell'allegato IV del presente decreto. Il test di resistenza e' effettuato in base al protocollo di cui alla sezione II dell'allegato IV.
 
 ## Art. 9. — Misure fitosanitarie
+
+1.
+                        
+                            
+                                I Servizi fitosanitari regionali competenti per territorio dispongono quanto segue per le patate o le piante di cui all'allegato I dichiarate contaminate ai sensi dell'articolo 6: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i tuberi-seme di patata e le piante ospiti di cui al punto 1 dell'allegato I non sono impiantati prima di essere stati disinfestati sotto la supervisione dei Servizi fitosanitari regionali competenti utilizzando un metodo adeguato adottato dalla Commissione UE, basato sulla dimostrazione scientifica dell'inesistenza di un rischio di diffusione dei nematodi a cisti della patata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le patate destinate alla trasformazione o alla selezione industriale sono oggetto delle misure approvate ufficialmente di cui alla sezione III, punto 2, dell'allegato III; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le piante di cui al punto 2 dell'allegato I non sono messe a dimora prima di essere state disinfestate tramite le misure approvate ufficialmente di cui alla sezione III, punto 1, dell'allegato III.
 
 ## Art. 10. — Esami particolari
 

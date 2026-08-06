@@ -8,8 +8,8 @@ codice_redazionale: 093G0031
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,38 @@ E' fatto divieto di cessione o trasferimento a qualsiasi titolo di azioni o quot
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            L'autorizzazione del Ministro delle finanze, prevista dall'art. 7, comma 1-septies, della legge n. 66/1992, viene concessa alle societa' di cui all'art. 1, comma 1, previa presentazione al Dipartimento delle dogane e delle imposte indirette della seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                atto costitutivo della societa' con indicazione dei soci, corredata dagli estremi della patente con validita' illimitata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                statuto della societa', predisposto secondo il modello approvato in allegato al presente decreto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato di iscrizione della societa' alla camera di commercio, industria, artigianato e agricoltura;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificazione del consiglio compartimentale competente da cui risulti che tutti i soci sono iscritti all'albo professionale da almeno tre anni e che esercitano l'attivita' professionale non vincolati a rapporto di lavoro subordinato e che per i medesimi non ricorre nessuna delle ipotesi da cui possa derivare la sospensione o la revoca della patente a termine dell'art. 53 o 54 del testo unico delle leggi doganali, approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43.
 
 Deve inoltre essere presentata una documentazione rilasciata dalla circoscrizione doganale competente sul territorio ove sono ubicati gli uffici del centro di assistenza doganale da cui risulti, a seguito di apposito sopralluogo, l'effettiva esistenza di una struttura, con appositi locali ed attrezzature, per lo svolgimento dell'attivita' di assistenza doganale, dotata di sistema di registrazione contabile e presso la quale verranno conservati gli atti. Ogni struttura destinata successivamente all'attivita' del centro di assistenza doganale dovra' ugualmente essere comunicata alla competente circoscrizione doganale ai fini del prescritto sopralluogo.
 
@@ -71,6 +103,45 @@ In caso di dubbi sulla regolarita' formale o sulla veridicita' dei dati o delle 
 
 ## Art. 6.
 
+1.
+                    
+                        
+                            I centri di assistenza doganale di cui all'art. 1, comma 1, possono provvedere, su richiesta degli operatori interessati, a rilasciare le merci oggetto di operazione doganale assegnandole alla destinazione doganale dichiarata, sempre che venga presentata la documentazione prevista per il compimento della specifica operazione, con l'osservanza delle seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                i documenti doganali, di trasporto, commerciali relativi alle merci stesse devono essere iscritti negli appositi registri, previamente muniti del visto dell'autorita' doganale, all'atto dell'effettuazione dell'operazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                deve essere prestata apposita cauzione a garanzia dei diritti e tributi ai quali le merci sono sottoposte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro due giorni lavorativi i documenti di trasporto e commerciali che accompagnano le merci devono essere consegnati all'ufficio doganale unitamente all'originale del documento emesso e devono essere versati i diritti doganali percepiti o garantiti, con l'osservanza delle modalita' di cui all'art. 77 del testo unico delle leggi doganali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                deve essere previamente e con congruo anticipo informato l'ufficio doganale, nei casi in cui l'operazione doganale debba essere effettuata presso la sede, lo stabilimento, aree o locali dell'operatore richiedente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                devono essere altresi' consegnate tutte le documentazioni, originali, in base alle quali e' stata consentita la specifica operazione doganale.
+
 Qualora nel compimento dell'operazione sorgano dubbi sull'esatta natura della merce, sulla regolarita' dei documenti che l'accompagnano, sulla sua quantita' e valore rispetto ai documenti doganali, di trasporto o commerciali presentati, l'operazione e' sospesa e viene immediatamente informato l'ufficio doganale competente.
 
 L'ufficio doganale provvede alla assunzione in carico nei propri registri dei documenti emessi ed alle relative iscrizioni contabili, che rendono definitivo l'accertamento. Gli estremi di registrazione vengono riportati a cura dei centri di assistenza doganale negli appositi registri di cui alla lettera a).
@@ -98,6 +169,31 @@ Fermo restando ogni diverso obbligo di legge ove dall'esercizio della vigilanza 
 ## Art. 9.
 
 Sono escluse dalle procedure di cui all'art. 6 le merci assoggettate a dazi, prelievi o tasse ad effetto equivalente, di cui alla lettera b) dell'art. 7, comma 1-septies, della legge 6 febbraio 1992, n. 66, nonche' quelle il cui valore imponibile superi lire ottantamilioni.
+
+2.
+                    
+                        
+                            Sono altresi' esclusi:
+ 
+                        
+                        
+                            a)
+                            
+                                i materiali di armamento di cui alla legge 9 luglio 1990, n. 185;
+
+                            
+                        
+                        
+                            b)
+                            
+                                prodotti ad alta tecnologia di cui alla legge 27 febbraio 1992, n. 222;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli oggetti d'arte, da collezione o di antichita'.
 
 ## Art. 10.
 

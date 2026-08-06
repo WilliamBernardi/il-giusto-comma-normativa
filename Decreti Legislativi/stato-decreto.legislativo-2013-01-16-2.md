@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -111,6 +111,24 @@ Nel capo II del decreto legislativo 21 novembre 2005, n. 286, e successive modif
 
 ## Art. 14. — Modifiche all'articolo 14 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 14 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, la parola: "autotrasporto" e' sostituita dalla seguente: "trasporto" e le parole: "C, C+E, D e D+E" sono sostituite dalle seguenti: " C1, C, C1E, CE, D1, D, D1E e DE"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato.
+
 ## Art. 15. — Modifiche all'articolo 15 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
 L'articolo 15 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni, e' sostituito dal seguente: 
@@ -157,7 +175,74 @@ L'articolo 18 del decreto legislativo 21 novembre 2005, n. 286, e successive mod
 
 ## Art. 18. — Modifiche all'articolo 19 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 19 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 1, 2 e 2-bis, sono sostituiti dai seguenti: "1. La carta di qualificazione del conducente e' conseguita previa frequenza del corso di qualificazione iniziale, ordinario o accelerato di cui rispettivamente ai commi 2 o 2-bis, e superamento di un esame di idoneita'. Le materie del corso sono indicate nell'allegato I, sezione 1; l'esame consta di almeno una domanda per ciascuno degli obiettivi indicati in relazione ad ogni materia. 
+ 2. Il corso di qualificazione iniziale ordinario e' conforme a quanto disposto dall'allegato I, sezione 2. 
+ 2-bis. Il corso di qualificazione iniziale accelerato e' conforme a quanto disposto dall'allegato I, sezione 2-bis."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, lettera a), le parole: "di cui all'articolo 335, comma 10, lettera a), del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, ovvero dai consorzi di autoscuole" sono sostituite dalle seguenti "ovvero dai consorzi di autoscuole, a condizione"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, lettera b), la parola: "terrestri" e' sostituita dalle seguenti: ", la navigazione ed i sistemi informativi e statistici" e le parole: "con i decreti di cui ai commi 2 e 2-bis" sono sostituite dalle seguenti: "con il decreto di cui al comma 5-bis"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 4, la parola: "terrestri" e' sostituita dalle seguenti: ", la navigazione ed i sistemi informativi e statistici" e le parole: "i decreti di cui ai commi 2 e 2-bis" sono sostituite dalle seguenti: "il decreto di cui al comma 5-bis"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 5, e' aggiunto infine il seguente comma: "5-bis.
+Con decreto del Ministro delle infrastrutture e dei trasporti e' dettata la disciplina relativa ai requisiti e criteri che devono soddisfare i soggetti di cui al comma 3, nonche' ai programmi dei corsi ed alle procedure d'esame per il conseguimento della carta di qualificazione del conducente.".
+
 ## Art. 19. — Modifiche all'articolo 20 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 20 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3, le parole: "di cui all'articolo 19, comma 2" sono sostituite dalle seguenti: "di cui all'articolo 19, comma 5-bis"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4 e' sostituito dal seguente: "4. Al termine della formazione periodica, il Ministero delle infrastrutture e dei trasporti, Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, conferma al conducente la validita' della carta di qualificazione."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i commi 5 e 6 sono abrogati.
 
 ## Art. 20. — Modifiche all'articolo 21 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -169,6 +254,44 @@ L'articolo 21 del decreto legislativo 21 novembre 2005, n. 286, e successive mod
  1. I conducenti di cui all'articolo 15 seguono in Italia i corsi di qualificazione iniziale e di formazione periodica.".
 
 ## Art. 21. — Modifiche all'articolo 22 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 22 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica: "Codice comunitario" e' sostituita dalla seguente: "Codice unionale" e le parole: "codice comunitario armonizzato", ovunque ricorrano, sono sostituite dalle seguenti: "codice unionale armonizzato"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Ai fini del possesso della carta di qualificazione del conducente, la qualificazione iniziale e la formazione periodica sono comprovate mediante l'apposizione sulla patente di guida italiana del codice unionale armonizzato "95", secondo le modalita' di cui ai commi 2 e 3."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, le parole: ""C" ovvero "C+E" se posseduta dal conducente" sono sostituite dalle seguenti: "C1, C, C1E ovvero CE posseduta dal conducente" e le parole: "la data di scadenza di validita' della carta" sono sostituite dalle seguenti: "la data di scadenza della qualificazione iniziale ovvero della formazione periodica"; 
+ d) al comma 3, le parole: ""D" ovvero "D+E" se posseduta dal conducente" sono sostituite dalle seguenti: "D1, D, D1E ovvero DE posseduta dal conducente" e le parole: "della carta" sono sostituite dalle seguenti: "della qualificazione iniziale ovvero della formazione periodica"; 
+ e) dopo il comma 3 e' inserito il seguente: "3-bis. La qualificazione iniziale e la formazione periodica di conducenti, titolari di patenti di guida rilasciate da altri Stati, sono comprovate dal rilascio, da parte dei competenti uffici del Ministero delle infrastrutture e dei trasporti, Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, del documento "carta di qualificazione del conducente formato card", conforme all'allegato II, sul quale, in corrispondenza della patente di guida posseduta, per la quale il documento e' rilasciato, deve essere indicato il codice unionale armonizzato "95" e la data di scadenza di validita' della qualificazione iniziale e della formazione periodica per ciascun tipo di abilitazione eventualmente posseduta."; 
+ f) il comma 6 e' sostituito dal seguente: "6. I conducenti titolari di patente di guida rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo, dipendenti, in qualita' di autista, da un'impresa stabilita in uno Stato membro diverso dall'Italia, comprovano la qualificazione iniziale e la formazione periodica per l'esercizio dell'attivita' professionale di guida per il trasporto di merci mediante: 
+ a) l'attestato di conducente previsto dal regolamento (CE) n. 484/2002; 
+ b) la carta di qualificazione del conducente, rilasciata dalla Stato membro ove e' stabilita l'impresa, recante il codice unionale armonizzato "95""; 
+ g) il comma 7 e' sostituito dal seguente: " 7. I conducenti titolari di patente di guida rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo, dipendenti, in qualita' di autista, da un'impresa stabilita in uno Stato membro diverso dall'Italia, comprovano la qualificazione iniziale e la formazione periodica per l'esercizio dell'attivita' professionale del trasporto di persone mediante il possesso di uno dei seguenti titoli: 
+ a) la carta di qualificazione del conducente, rilasciata dalla Stato membro ove e' stabilita l'impresa, recante il codice unionale armonizzato "95"; 
+ b) certificato rilasciato da uno Stato membro, del quale l'Italia abbia riconosciuto validita' su territorio nazionale a condizione di reciprocita'."; 
+ h) il comma 7-bis, e' sostituito dai seguenti: "7-bis. Non si applicano i criteri di propedeuticita' di cui all'articolo 125, comma 1, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, ed e' consentito conseguire la patente di guida di categoria corrispondente alla patente estera posseduta, al dipendente, in qualita' di autista, da un'impresa avente sede in Italia e titolare di carta di qualificazione del conducente rilasciata in Italia per mera esibizione della patente di guida posseduta, ovvero a seguito di qualificazione iniziale o formazione periodica, che: 
+ a) sia titolare di patente di guida rilasciata da uno Stato con il quale non sussistono le condizioni di reciprocita' richieste dall'articolo 136, comma 1, del decreto legislativo n. 285 del 1992, e che ha stabilito la propria residenza in Italia, anche oltre il termine di un anno di cui al comma 1 del predetto articolo 136; 
+ b) sia titolare di patente rilasciata da uno Stato membro dell'Unione europea, su conversione di patente rilasciata da Stato terzo con il quale non sussistono le condizioni di reciprocita' richieste dall'articolo 136, comma 1, del decreto legislativo n. 285 del 1992, che scada di validita'. 
+ 7-ter. All'atto del rilascio della patente, sulla stessa e' apposto il codice unionale "95", secondo i criteri di cui ai commi 2 e 3, in relazione al tipo di abilitazione consentita dalla patente conseguita ai sensi del comma 7-bis, nonche' la data di scadenza della qualificazione iniziale o della formazione periodica coincidente con quella della carta di qualificazione del conducente precedentemente posseduta.". 
+ 2. All'allegato II del decreto legislativo n. 286 del 2005, le parole: "(previsto dall'articolo 22, comma 1)" sono sostituite dalle seguenti: "(previsto dall'articolo 22, comma 3-bis)".
 
 ## Art. 22. — Modifiche all'articolo 23 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-11-24;192
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,9 +24,505 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della di
 
 ## Art. 1. — Modifiche al decreto legislativo 15 marzo 2010, n. 66
 
+1.
+                    
+                        
+                            Al libro secondo del decreto legislativo 15 marzo 2010, n. 66, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    all'articolo 286, comma 3-bis, le parole: «sentito il Consiglio centrale della rappresentanza militare» sono sostituite dalle seguenti: «sentite le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 287, comma 3, le parole: «sezioni del Consiglio centrale di rappresentanza interessate» sono sostituite dalle seguenti: «associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478 interessate»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 294, 
+ 1) al comma 1, lettera e), le parole: «gli organi della rappresentanza militare» sono sostituite dalle seguenti: «le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478»; 
+ 2) al comma 2, le parole: «L'organo nazionale della rappresentanza militare e' chiamato» sono sostituite dalle seguenti: «Le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478 sono chiamate»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 296, comma 1: 
+ 1) le parole: «gli organi della rappresentanza militare» sono sostituite dalle seguenti: «le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478»; 
+ 2) le parole: «Il Consiglio centrale di rappresentanza - Arma dei Carabinieri e' chiamato» sono sostituite dalle seguenti: «Le associazioni professionali a carattere sindacale tra militari rappresentative del personale dell'Arma dei carabinieri ai sensi dell'articolo 1478 sono chiamate»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    all'articolo 297, comma 4, le parole: «e' sentito il Consiglio centrale di rappresentanza» sono sostituite dalle seguenti: «sono sentite le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478».
+
 Al libro terzo, del decreto legislativo 15 marzo 2010, n. 66, all'articolo 546, comma 5, le parole: «sentito il Consiglio centrale di rappresentanza dei militari» sono sostituite dalle seguenti: «sentite le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478».
 
+3.
+                    
+                        
+                            Al libro quarto del decreto legislativo 15 marzo 2010, n. 66, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 875: 
+ 1) alla lettera d) il segno di interpunzione: «.» e' sostituito dal seguente: «;»; 
+ 2) dopo la lettera d) e' inserita la seguente: 
+ «d-bis) in distacco sindacale.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo l'articolo 904 e' inserito il seguente: 
+ «Art. 904-bis (Aspettativa sindacale non retribuita). - 1.
+L'aspettativa sindacale e' disposta, a domanda dell'associazione professionale a carattere sindacale tra militari riconosciuta rappresentativa ai sensi dell'articolo 1478, secondo la procedura di cui all'articolo 1480, comma 6. 
+ 2. Il periodo in cui il militare e' collocato in aspettativa sindacale: 
+ a) e' valido ai fini dell'anzianita' di servizio, salva la necessita' dell'effettivo compimento nonche' del completamento degli obblighi di comando, di attribuzioni specifiche, di servizio presso enti o reparti e di imbarco, ai fini della valutazione per l'avanzamento al grado superiore; 
+ b) non da' diritto ad alcuna retribuzione ne' maturazione della licenza; 
+ c) da' diritto alla contribuzione figurativa da accreditare secondo le disposizioni di cui all'articolo 8 della legge 23 aprile 1981, n. 155.»
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo l'articolo 913 e' inserita la seguente sezione: 
+ «Sezione III-bis - Distacco sindacale 
+ Art. 913-bis (Distacco sindacale). - 1. Il distacco sindacale e' disposto, a domanda dell'associazione professionale a carattere sindacale tra militari riconosciuta rappresentativa ai sensi dell'articolo 1478, secondo la procedura di cui all'articolo 1480, comma 6. 
+ 2. Il periodo in cui il militare e' collocato in distacco sindacale: 
+ a) e' valido ai fini dell'anzianita' di servizio, salva la necessita' dell'effettivo compimento nonche' del completamento degli obblighi di comando, di attribuzioni specifiche, di servizio presso enti o reparti e di imbarco, ai fini della valutazione per l'avanzamento al grado superiore; 
+ b) da' diritto all'intera retribuzione spettante nel momento del collocamento in distacco sindacale, con esclusione dei compensi e delle indennita' per il lavoro straordinario e di quelli collegati all'effettivo svolgimento delle prestazioni; 
+ c) non e' valido ai fini della maturazione della licenza.»
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    l'articolo 980 e' abrogato;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    all'articolo 1470, al comma 1, le parole: «quelle previste per il funzionamento degli organi di rappresentanza; queste ultime, in ogni caso, devono essere concordate con i comandi competenti.» sono sostituite dalle seguenti: «quanto previsto dall'articolo 1480-bis per l'esercizio del diritto di associazione sindacale riconosciuto ai militari.»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    all'articolo 1475, al comma 2, le parole: «militare o interforze.» sono sostituite dalle seguenti: «militari o interforze, secondo le disposizioni previste dal capo III del titolo IX del presente libro, e dal relativo regolamento di attuazione adottato con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n 400.»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    al titolo IX, la rubrica del capo III e' sostituita dalla seguente: «Associazioni professionali a carattere sindacale tra militari»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    al titolo IX, capo III, prima dell'articolo 1476, e' inserita la seguente sezione: «Sezione I - Principi generali e competenze»;
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    l'articolo 1476 e' sostituito dal seguente: 
+ «Art. 1476 (Diritto di associazione professionale a carattere sindacale in ambito militare). - 1. Il diritto di libera organizzazione sindacale, di cui all'articolo 39 della Costituzione, e' esercitato dagli appartenenti alle Forze armate e alle Forze di polizia a ordinamento militare, con esclusione del personale della riserva e in congedo assoluto, nel rispetto dei doveri e dei principi previsti dall'articolo 52 della Costituzione. 
+ 2. Gli appartenenti alle Forze armate e alle Forze di polizia a ordinamento militare non possono aderire ad associazioni professionali a carattere sindacale diverse da quelle costituite ai sensi delle disposizioni del presente capo. 
+ 3. Gli appartenenti alle Forze armate e alle Forze di polizia a ordinamento militare possono aderire a una sola associazione professionale a carattere sindacale tra militari, di seguito "APCSM". 
+ 4. L'adesione alle APCSM e' libera, volontaria e individuale. 
+ 5. Non possono aderire alle APCSM coloro che ricoprono le cariche di vertice di cui agli articoli 25, 29, 32, 40 e 44-bis, il Comandante generale del Corpo della guardia di finanza, i militari di truppa di cui all'articolo 627, comma 8, limitatamente agli allievi.»;
+                                
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    dopo l'articolo 1476 sono inseriti i seguenti: 
+ «Art. 1476-bis (Principi generali). - 1. Le APCSM operano nel rispetto dei principi di democrazia, trasparenza, partecipazione e nel rispetto dei principi di coesione interna, neutralita', efficienza e prontezza operativa delle Forze armate e delle Forze di polizia a ordinamento militare. 
+ 2. Gli statuti delle APCSM sono improntati ai seguenti principi: 
+ a) democraticita' dell'organizzazione sindacale ed elettivita' delle relative cariche, orientate al rafforzamento della partecipazione femminile; 
+ b) neutralita' ed estraneita' alle competizioni politiche e ai partiti e movimenti politici; 
+ c) assenza di finalita' contrarie ai doveri derivanti dal giuramento prestato dai militari; 
+ d) trasparenza del sistema di finanziamento e assenza di scopo di lucro; 
+ e) rispetto degli altri requisiti previsti dalle disposizioni del presente capo. 
+ 3. L'attivita' sindacale e' volta alla tutela degli interessi collettivi degli appartenenti alle Forze armate e alle Forze di polizia a ordinamento militare. 
+ 4. I comandanti o i responsabili di unita' garantiscono il rispetto delle disposizioni del presente capo, favorendo l'esercizio delle attivita' delle APCSM. Tali attivita' non possono comunque interferire con lo svolgimento dei compiti operativi o con la direzione dei servizi. 
+ Art. 1476-ter (Competenze). - 1. Le APCSM curano la tutela collettiva dei diritti e degli interessi dei propri rappresentati nelle materie di cui al comma 2, garantendo che essi assolvano ai compiti propri delle Forze armate e delle Forze di polizia a ordinamento militare e che l'adesione alle associazioni non interferisca con il regolare svolgimento dei servizi istituzionali. 
+ 2. Sono di competenza delle APCSM le materie concernenti: 
+ a) i contenuti del rapporto di impiego del personale militare, di cui agli articoli 4 e 5 del decreto legislativo 12 maggio 1995, n. 195, nonche' all'articolo 46, comma 2, del decreto legislativo 29 maggio 2017, n. 95; 
+ b) l'assistenza fiscale e la consulenza relativamente alle prestazioni previdenziali e assistenziali a favore dei propri iscritti; 
+ c) l'inserimento nell'attivita' lavorativa di coloro che cessano dal servizio militare; 
+ d) le provvidenze per gli infortuni subiti e per le infermita' contratte in servizio e per causa di servizio; 
+ e) le pari opportunita'; 
+ f) le prerogative sindacali di cui all'articolo 3 del decreto legislativo 9 aprile 2008, n. 81, sulle misure di tutela della salute e della sicurezza del personale militare nei luoghi di lavoro; 
+ g) gli spazi e le attivita' culturali, assistenziali, ricreative e di promozione del benessere personale dei rappresentati e dei loro familiari. 
+ 3. Sono comunque escluse dalla competenza delle APCSM le materie concernenti l'ordinamento militare, l'addestramento, le operazioni, il settore logistico-operativo, il rapporto gerarchico-funzionale nonche' l'impiego del personale in servizio. 
+ 4. In relazione alle materie di cui al comma 2, le APCSM possono: 
+ a) presentare ai Ministeri competenti osservazioni e proposte sull'applicazione delle leggi e dei regolamenti e segnalare le iniziative di modifica da esse eventualmente ritenute opportune; 
+ b) essere ascoltate dalle Commissioni parlamentari del Senato della Repubblica e della Camera dei deputati, secondo le norme dei rispettivi regolamenti; 
+ c) chiedere di essere ricevute dai Ministri competenti e dagli organi di vertice delle Forze armate e delle Forze di polizia a ordinamento militare. 
+ Art. 1476-quater (Limitazioni). - 1. Alle APCSM e' fatto divieto di: 
+ a) assumere la rappresentanza di lavoratori non appartenenti alle Forze armate o alle Forze di polizia a ordinamento militare; 
+ b) preannunciare o proclamare lo sciopero, o azioni sostitutive dello stesso, o parteciparvi, anche se proclamato da organizzazioni sindacali estranee al personale militare; 
+ c) promuovere manifestazioni pubbliche in uniforme o con armi di servizio o sollecitare o invitare gli appartenenti alle Forze armate o alle Forze di polizia a ordinamento militare a parteciparvi; 
+ d) assumere la rappresentanza in via esclusiva di una o piu' categorie di personale, anche se facenti parte della stessa Forza armata o Forza di polizia a ordinamento militare. In ogni caso, la rappresentanza di una singola categoria all'interno di un'APCSM non deve superare il limite del 75 per cento dei suoi iscritti; 
+ e) promuovere iniziative di organizzazioni politiche o dare supporto, a qualsiasi titolo, a campagne elettorali afferenti alla vita politica del Paese; 
+ f) stabilire la propria sede o il proprio domicilio sociale presso unita' o strutture del Ministero della difesa o del Ministero dell'economia e delle finanze o del Ministero delle infrastrutture e dei trasporti; 
+ g) aderire ad associazioni sindacali diverse da quelle costituite ai sensi delle disposizioni del presente capo o federarsi, affiliarsi o avere relazioni di carattere organizzativo o convenzionale, anche per il tramite di altri enti od organizzazioni, con le medesime associazioni; 
+ h) assumere denominazioni o simboli che richiamano, anche in modo indiretto, categorie di personale, specialita', corpi o altro che non sia la Forza armata o la Forza di polizia a ordinamento militare di appartenenza, ovvero organizzazioni sindacali, per cui sussiste il divieto di adesione ai sensi delle disposizioni del presente capo, od organizzazioni politiche.»;
+                                
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    dopo l'articolo 1476-quater, come inserito dalla lettera l) del presente comma, e' inserita la seguente sezione: «Sezione II - Costituzione, articolazioni periferiche e cariche direttive»;
+                                
+                            
+                        
+                        
+                            n)
+                            
+                                
+                                    l'articolo 1477 e' sostituito dal seguente: 
+ «
+                                            Art. 1477 (Costituzione). - 1. Ai fini dell'esercizio delle attivita' previste dallo statuto e della raccolta dei contributi sindacali nelle forme previste dall'articolo 1480-quater, e' istituito presso il Ministero della difesa l'apposito albo per l'iscrizione delle APCSM. Analogo albo e' istituito presso il Ministero dell'economia e delle finanze per l'iscrizione delle APCSM riferite al personale del Corpo della guardia di finanza. 
+ 2. Le APCSM, entro cinque giorni lavorativi dalla loro costituzione, depositano lo statuto presso il Ministero della difesa o, per le associazioni tra appartenenti al Corpo della guardia di finanza, presso il Ministero dell'economia e delle finanze, i quali, accertati i requisiti previsti dalle disposizioni del presente capo, entro i sessanta giorni successivi ne dispongono l'iscrizione nel relativo albo. Per le APCSM riferite a personale di una o piu' Forze armate e del Corpo della guardia di finanza l'accertamento e' svolto dal Ministero della difesa di concerto con il Ministero dell'economia e delle finanze. Non sono consentiti, nelle more del predetto procedimento, l'esercizio delle attivita' sindacali e la raccolta dei contributi sindacali. 
+ 3. In caso di accertate previsioni statutarie in contrasto con le disposizioni vigenti, il Ministero competente ne da' tempestiva e motivata comunicazione all'associazione, che puo' presentare, entro quindici giorni e per iscritto, formali osservazioni. Entro i successivi trenta giorni, il Ministero adotta il provvedimento finale. 
+ 4. Le APCSM comunicano entro quindici giorni ogni successiva modifica statutaria al competente Ministero, che ne valuta la conformita' ai requisiti previsti secondo le modalita' di cui ai commi 2 e 3. Il Ministero competente accerta, almeno ogni tre anni, la permanenza dei requisiti previsti. 
+ 5. In caso di successivo accertamento della perdita anche di uno solo dei requisiti o di violazione delle prescrizioni di legge, il Ministero competente ne da' tempestiva e motivata comunicazione all'APCSM, che puo' presentare, entro quindici giorni e per iscritto, le proprie osservazioni. Entro i successivi trenta giorni, il Ministero competente adotta il provvedimento finale, informandone, nel caso di un provvedimento di cancellazione dall'albo di cui al comma 1, il Ministro per la pubblica amministrazione. 
+ 6. L'APCSM incorsa nel provvedimento di cancellazione di cui al comma 5 decade dalle prerogative sindacali e non puo' esercitare alcuna delle attivita' previste. Conseguentemente perdono efficacia le deleghe rilasciate dagli associati per il pagamento dei contributi sindacali ai sensi dell'articolo 1480-quater.»;
+                                
+                            
+                        
+                        
+                            o)
+                            
+                                
+                                    dopo l'articolo 1477 sono inseriti i seguenti: 
+ «Art. 1477-bis (Articolazioni periferiche). - 1. Le APCSM possono prevedere articolazioni periferiche. 
+ 2. Gli statuti definiscono, entro gli ambiti di competenza sindacale di cui all'articolo 1476-ter, le competenze delle articolazioni periferiche, nei limiti dei relativi ambiti regionali o territoriali, nelle seguenti materie: 
+ a) informazione e consultazione degli iscritti; 
+ b) esercizio delle prerogative sindacali di cui all'articolo 3 del decreto legislativo 9 aprile 2008, n. 81, sulle misure di tutela della salute e della sicurezza del personale militare nei luoghi di lavoro; 
+ c) rispetto e applicazione della contrattazione nazionale, interloquendo con l'amministrazione di riferimento. 
+ 3. Ferme restando le specifiche peculiarita' organizzative, le articolazioni periferiche delle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 si relazionano con le articolazioni di ciascuna amministrazione militare competenti a livello areale e comunque non inferiore al livello regionale, con riferimento a tematiche di competenza sindacale aventi esclusiva rilevanza locale, senza alcun ruolo negoziale. 
+ Art. 1477-ter (Cariche direttive). - 1. Le cariche direttive delle APCSM sono elettive, rispettano il principio di parita' di genere, e possono essere ricoperte solo da militari in servizio effettivo, che abbiano compiuto almeno cinque anni di servizio nelle Forze armate o nelle Forze di polizia a ordinamento militare e da militari in ausiliaria iscritti all'associazione stessa. 
+ 2. Non sono eleggibili e non possono comunque ricoprire le cariche di cui al comma 1: 
+ a) i militari che hanno riportato condanne per delitti non colposi o sanzioni disciplinari di stato; 
+ b) i militari che si trovano in una delle condizioni di cui all'articolo 10, comma 1, del testo unico di cui al decreto legislativo 31 dicembre 2012, n. 235; 
+ c) i militari che si trovano in stato di sospensione dall'impiego o di aspettativa non sindacale, salvi i casi di aspettativa per malattia o patologia che comunque consentano il rientro in servizio incondizionato; 
+ d) gli ufficiali che rivestono l'incarico di comandante di Corpo. 
+ 3. La durata delle cariche direttive e' di quattro anni e non puo' essere frazionata. Non e' consentita la rielezione per piu' di due mandati consecutivi. Coloro che hanno ricoperto per due mandati consecutivi le cariche di cui al comma 1 sono nuovamente rieleggibili trascorsi tre anni dalla scadenza del secondo mandato. 
+ 4. Nessun militare puo' essere posto in distacco sindacale per piu' di cinque volte.»;
+                                
+                            
+                        
+                        
+                            p)
+                            
+                                
+                                    dopo l'articolo 1477-ter, come inserito dalla lettera o) del presente comma, e' inserita la seguente sezione: «Sezione III - Associazioni professionali a carattere sindacale tra militari rappresentative a livello nazionale»;
+                                
+                            
+                        
+                        
+                            q)
+                            
+                                
+                                    l'articolo 1478 e' sostituito dal seguente: 
+ «Art. 1478 (Rappresentativita'). - 1. Le APCSM per essere considerate rappresentative a livello nazionale devono raggiungere un numero di iscritti almeno pari al 4 per cento della forza effettiva complessiva della Forza armata o della Forza di polizia a ordinamento militare di riferimento, rilevata al 31 dicembre dell'anno precedente a quello in cui si rende necessario determinare la rappresentativita' delle associazioni medesime. 
+ 2. Se l'APCSM e' invece costituita da militari appartenenti a due o piu' Forze armate o Forze di polizia a ordinamento militare, per essere considerata rappresentativa a livello nazionale, essa deve raggiungere un numero di iscritti non inferiore al 3 per cento della forza effettiva della singola Forza armata o Forza di polizia a ordinamento militare, rilevata alla medesima data di cui al comma 1.
+In mancanza del numero di iscritti di cui al primo periodo, l'APCSM puo' essere considerata rappresentativa a livello nazionale delle sole Forze armate o Forze di polizia a ordinamento militare per le quali raggiunge la quota minima di iscritti del 4 per cento. 
+ 3. Ai fini della consistenza associativa, sono conteggiate esclusivamente le deleghe per un contributo sindacale non inferiore allo 0,5 per cento dello stipendio. 
+ 4. Ai fini del calcolo della consistenza associativa, la forza effettiva complessiva delle Forza armata e della Forza di polizia a ordinamento militare si calcola escludendo il personale che, ai sensi dell'articolo 1476, comma 5, non puo' aderire alle APCSM. 
+ 5. Le APCSM in possesso dei requisiti di cui al presente articolo sono riconosciute rappresentative a livello nazionale con decreto del Ministro per la pubblica amministrazione, sentiti, per quanto di rispettiva competenza, i Ministri della difesa e dell'economia e delle finanze.»;
+                                
+                            
+                        
+                        
+                            r)
+                            
+                                
+                                    l'articolo 1479 e' sostituito dal seguente: 
+ «Art. 1479 (Procedure di contrattazione). - 1. Alle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 sono attribuiti i poteri negoziali al fine della contrattazione nazionale di comparto. La procedura di contrattazione si applica alle Forze armate e alle Forze di polizia a ordinamento militare negli ambiti riservati all'amministrazione di appartenenza, per tutto il personale militare in servizio e in particolare con l'osservanza delle disposizioni di cui al decreto legislativo 12 maggio 1995, n. 195, e all'articolo 46 del decreto legislativo 29 maggio 2017, n. 95.»;
+                                
+                            
+                        
+                        
+                            s)
+                            
+                                
+                                    dopo l'articolo 1479 sono inseriti i seguenti: 
+ «Art. 1479-bis (Diritti e tutela dei militari che ricoprono cariche elettive). - 1. I militari che ricoprono cariche elettive nelle APCSM riconosciute rappresentative ai sensi dell'articolo 1478: 
+ a) non sono perseguibili in via disciplinare per le opinioni espresse nello svolgimento dei compiti connessi con l'esercizio delle loro funzioni, fatti salvi i limiti della correttezza formale e i doveri derivanti dal giuramento prestato, dal grado, dal senso di responsabilita' e dal contegno da tenere, anche fuori del servizio, a salvaguardia del prestigio istituzionale; 
+ b) non possono essere trasferiti a un'altra sede o a un altro reparto ovvero essere sostituiti nell'incarico ricoperto al momento dell'elezione, se non previa intesa con l'APCSM alla quale appartengono, salvi i casi di incompatibilita' ambientale o di esigenza di trasferimento dovuta alla necessita' di assolvere i previsti obblighi di comando, attribuzioni specifiche, servizio presso enti o reparti e imbarco necessari per l'avanzamento di carriera e salvi i casi straordinari di necessita' e urgenza, anche per dichiarazione dello stato di emergenza; 
+ c) non possono essere impiegati in territorio estero singolarmente, fatte salve le esigenze delle unita' di appartenenza; 
+ d) possono manifestare il loro pensiero in ogni sede e su tutte le questioni non soggette a classifica di segretezza che riguardano la vita militare, nei limiti previsti dal presente capo e nelle materie di cui all'articolo 1476-ter; possono interloquire con enti e associazioni di carattere sociale, culturale o politico, anche estranei alle Forze armate e alle Forze di polizia a ordinamento militare, e partecipare a convegni e assemblee aventi carattere sindacale, nei modi e con i limiti previsti dal presente capo; 
+ e) possono inviare comunicazioni scritte al personale militare sulle materie di loro competenza, nonche' visitare le strutture e i reparti militari presso i quali opera il personale da essi rappresentato quando lo ritengono opportuno, concordandone le modalita', almeno trentasei ore prima, con i comandanti competenti. 
+ Art. 1479-ter (Obblighi informativi). - 1. Le amministrazioni militari del Ministero della difesa e del Ministero dell'economia e delle finanze comunicano alle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 il contenuto delle circolari e delle direttive da emanare in riferimento alle materie indicate nell'articolo 1476-ter, comma 2. 
+ 2. Le procedure di informazione e consultazione delle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 sono disciplinate con il regolamento di attuazione di cui all'articolo 1475, comma 2.»;
+                                
+                            
+                        
+                        
+                            t)
+                            
+                                
+                                    dopo l'articolo 1479-ter, come inserito dalla lettera s) del presente comma, e' inserita la seguente sezione: «Sezione IV - Attivita' sindacali, finanziamento e trasparenza dei bilanci»;
+                                
+                            
+                        
+                        
+                            u)
+                            
+                                
+                                    l'articolo 1480 e' sostituito dal seguente: 
+ «Art. 1480 (Svolgimento dell'attivita' di carattere sindacale). - 1. I rappresentanti delle APCSM svolgono l'attivita' sindacale fuori dal servizio. 
+ 2. Alle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 puo' essere concesso, informate le associazioni, l'uso di un locale comune da adibire a ufficio delle associazioni stesse nella sede centrale e in quelle periferiche di livello areale e comunque non inferiore al livello regionale, compatibilmente con le disponibilita' e senza oneri per l'amministrazione. Le modalita' di concessione dell'uso del locale comune sono disciplinate con il regolamento di attuazione di cui all'articolo 1475, comma 2. 
+ 3. Ai fini dello svolgimento dell'attivita' sindacale, ai rappresentanti sindacali delle APCSM rappresentative ai sensi dell'articolo 1478 sono riconosciuti distacchi e permessi sindacali retribuiti nonche' permessi e aspettative sindacali non retribuiti, assegnati con le modalita' di cui ai commi 4 e 5, sulla base dell'effettiva rappresentativita' del personale calcolata ai sensi dell'articolo 1478. 
+ 4. Con la contrattazione di cui all'articolo 1479, nell'ambito delle risorse ad essa destinate, sono stabiliti: 
+ a) il contingente massimo dei distacchi autorizzabili per ciascuna Forza armata e Forza di polizia a ordinamento militare nonche' il numero massimo annuo dei permessi retribuiti per i rappresentanti delle associazioni rappresentative; 
+ b) la misura dei permessi e delle aspettative sindacali non retribuiti che possono essere concessi ai rappresentanti sindacali. 
+ 5. Il contingente dei distacchi sindacali e dei permessi retribuiti di cui al comma 4 e' ripartito tra le APCSM con criterio proporzionale, sulla base della rappresentativita' calcolata ai sensi dell'articolo 1478, con decreto del Ministro per la pubblica amministrazione, sentiti i Ministri della difesa e dell'economia e delle finanze, nell'ambito delle rispettive competenze, e le APCSM. 
+ 6. Le richieste di distacco o di aspettativa sindacale non retribuita sono presentate dalle APCSM rappresentative ai sensi dell'articolo 1478 alla Forza armata o alla Forza di polizia a ordinamento militare cui appartiene il personale interessato, la quale, accertati i requisiti oggettivi previsti dalle disposizioni del presente capo, provvede, entro il termine massimo di trenta giorni dalla richiesta, a darne comunicazione al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri e al Ministero della difesa o, per il personale del Corpo della guardia di finanza, al Ministero dell'economia e delle finanze, per i conseguenti provvedimenti di stato. 
+ 7. Le APCSM possono procedere alla revoca dei distacchi e delle aspettative in ogni momento, comunicandola alla Forza armata o alla Forza di polizia a ordinamento militare di riferimento nonche' al Ministero della difesa ovvero al Ministero dell'economia e delle finanze e al Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri per i provvedimenti conseguenti. Le variazioni relative ai distacchi e alle aspettative devono essere comunicate entro il 31 gennaio di ogni anno. 
+ 8. Sono vietati l'utilizzo della ripartizione dei distacchi in forma compensativa nonche' il loro utilizzo in forma frazionata. 
+ 9. I distacchi e le aspettative sindacali non retribuite possono durare non piu' di tre anni. Nessun militare puo' essere posto in distacco o in aspettativa sindacale non retribuita piu' di cinque volte. Tra ciascun distacco o aspettativa sindacale non retribuita deve intercorrere almeno un triennio di servizio effettivo. 
+ 10. Le modalita' di impiego del militare che riprende servizio al termine di ogni periodo di distacco sindacale o aspettativa sindacale non retribuita sono disciplinate con il regolamento di attuazione di cui all'articolo 1475, comma 2. 
+ 11. I dirigenti delle APCSM rappresentative ai sensi dell'articolo 1478 che intendono fruire dei permessi sindacali di cui al presente articolo, devono darne comunicazione scritta al proprio comandante, individuato nell'autorita' deputata alla concessione della licenza, almeno cinque giorni prima o, in casi eccezionali, almeno quarantotto ore prima, tramite l'associazione di appartenenza.
+Il comandante autorizza il permesso sindacale salvo che non ostino prioritarie e improcrastinabili esigenze di servizio e sempre che venga garantita la regolare funzionalita' del servizio. 
+ 12. E' vietata ogni forma di cumulo dei permessi sindacali, giornalieri od orari. 
+ 13. L'effettiva utilizzazione dei permessi sindacali deve essere certificata entro tre giorni all'autorita' individuata ai sensi del comma 11 da parte del dirigente dell'APCSM che ha chiesto e utilizzato il permesso. 
+ 14. I permessi sindacali sono equiparati al servizio. Tenuto conto della specificita' delle funzioni istituzionali e della particolare organizzazione delle Forze armate e delle Forze di polizia a ordinamento militare, i permessi sono autorizzati in misura corrispondente al turno di servizio giornaliero e non possono superare mensilmente, per ciascun rappresentante sindacale, nove turni giornalieri di servizio. 
+ 15. Per i permessi sindacali retribuiti e' corrisposto il trattamento economico corrispondente a quello di servizio, con esclusione delle indennita' e dei compensi per il lavoro straordinario e di quelli collegati all'effettivo svolgimento delle prestazioni.»;
+                                
+                            
+                        
+                        
+                            v)
+                            
+                                
+                                    dopo l'articolo 1480 sono inseriti i seguenti: 
+ «Art. 1480-bis (Diritto di assemblea). - 1. Per l'esercizio del diritto di associazione sindacale: 
+ a) fuori dal servizio, i militari possono tenere riunioni: 
+ 1) anche in uniforme, in locali messi a disposizione dall'amministrazione, che ne concorda le modalita' d'uso; 
+ 2) in luoghi aperti al pubblico, senza l'uso dell'uniforme. 
+ b) durante il servizio, sono autorizzate riunioni con ordine del giorno su materie di competenza delle APCSM nel limite di dieci ore annue individuali, secondo le disposizioni che regolano l'assenza dal servizio, previa comunicazione, con almeno cinque giorni di anticipo, ai comandanti delle unita' o dei reparti interessati da parte dell'associazione professionale a carattere sindacale tra militari richiedente. 
+ 2. Le modalita' di tempo e di luogo per lo svolgimento delle riunioni sono concordate con i comandanti al fine di renderle compatibili con le esigenze di servizio. 
+ Art. 1480-ter (Informazione e pubblicita'). - 1. Le deliberazioni, le votazioni, le relazioni, i processi verbali e i comunicati delle APCSM, le dichiarazioni dei militari che ricoprono cariche elettive e ogni notizia relativa all'attivita' sindacale sono resi pubblici secondo le modalita' previste dai rispettivi statuti. 
+ 2. I dirigenti delle APCSM possono avere rapporti con gli organi di stampa e rilasciare dichiarazioni esclusivamente in merito alle materie di loro competenza e oggetto di contrattazione nazionale di settore. 
+ 3. Negli ordinamenti didattici degli enti di formazione di base e delle accademie militari e' inserita la materia "elementi di diritto del lavoro e di diritto sindacale in ambito militare". 
+ Art. 1480-quater (Finanziamento e trasparenza dei bilanci). - 1. Le APCSM sono finanziate esclusivamente con i contributi sindacali degli iscritti, corrisposti nelle forme previste dal presente articolo, e con le attivita' di assistenza fiscale e consulenza relativamente alle prestazioni previdenziali e assistenziali a favore dei propri iscritti. Le associazioni non possono ricevere eredita' o legati, donazioni o sovvenzioni in qualsiasi forma, fatta eccezione per la devoluzione del patrimonio residuo in caso di scioglimento di altra APCSM. 
+ 2. Per la corresponsione del contributo sindacale, i militari rilasciano delega, esente dall'imposta di bollo e dalla registrazione, a favore dell'APCSM alla quale aderiscono, per la riscossione di una quota mensile della retribuzione, nella misura stabilita dai competenti organi statutari. Resta fermo il disposto dell'articolo 70 del testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche amministrazioni, di cui al decreto del Presidente della Repubblica 5 gennaio 1950, n. 180. 
+ 3. La delega ha validita' dal primo giorno del mese successivo a quello del rilascio fino al 31 dicembre di ogni anno e si intende tacitamente rinnovata se non e' revocata dall'interessato entro il 31 ottobre. La revoca della delega deve essere trasmessa, in forma scritta, all'amministrazione e all'APCSM. 
+ 4. Le modalita' di versamento alle APCSM delle trattenute sulla retribuzione, operate dall'amministrazione in base alle deleghe rilasciate, sono stabilite con decreto del Ministro della difesa per le associazioni riferite al personale di una o piu' Forze armate, compresa l'Arma dei carabinieri, ovvero del Ministro dell'economia e delle finanze per le associazioni riferite al personale del Corpo della guardia di finanza. 
+ 5. Le APCSM predispongono annualmente il bilancio preventivo, entro il 31 dicembre dell'anno precedente a quello cui l'esercizio si riferisce, e il rendiconto della gestione precedente, entro il 30 aprile dell'anno successivo; entrambi devono essere approvati dagli associati e resi conoscibili al pubblico, non oltre dieci giorni dalla loro approvazione, mediante idonee forme di pubblicita'.»;
+                                
+                            
+                        
+                        
+                            z)
+                            
+                                
+                                    dopo l'articolo 1480-quater, come inserito dalla lettera v) del presente comma, e' inserita la seguente sezione: «Sezione V - Giurisdizione e tentativo di conciliazione»;
+                                
+                            
+                        
+                        
+                            aa)
+                            
+                                
+                                    l'articolo 1481 e' sostituito dal seguente: 
+ «Art. 1481 (Giurisdizione). - 1. Sono devolute alla giurisdizione esclusiva del giudice amministrativo le controversie relative all'esercizio della liberta' sindacale del personale delle Forze armate e delle Forze di polizia a ordinamento militare, anche quando la condotta antisindacale incide sulle prerogative dell'APCSM, nonche' le controversie aventi ad oggetto i provvedimenti di cancellazione dell'APCSM dall'albo di cui all'articolo 1477 e quelle relative all'esercizio del diritto di assemblea di cui all'articolo 1480-bis. 
+ 2. Alle APCSM e' attribuita legittimazione attiva quando sussiste un interesse diretto in relazione alla controversia promossa nell'ambito disciplinato dalle disposizioni di cui al presente capo. 
+ 3. Ai giudizi aventi ad oggetto le controversie di cui al comma 1 si applicano le disposizioni relative al rito abbreviato di cui al decreto legislativo 2 luglio 2010, n. 104, ai sensi dell'articolo 119, comma 1, lettera m-octies) del medesimo decreto legislativo. 
+ 4. Per le controversie nelle materie di cui al comma 1, la parte ricorrente e' tenuta al versamento, indipendentemente dal valore della causa, del contributo unificato di importo fisso di cui all'articolo 13, comma 6-bis, lettera e), del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2020, n. 115.»;
+                                
+                            
+                        
+                        
+                            bb)
+                            
+                                
+                                    l'articolo 1482 e' sostituito dal seguente: 
+ «Art. 1482 (Tentativo di conciliazione). - 1. L'APCSM legittimata ad agire ai sensi dell'articolo 1481 puo' promuovere un previo tentativo di conciliazione presso la commissione individuata ai sensi dell'articolo 1482-bis, se la controversia riguarda condotte antisindacali consistenti nel diniego ingiustificato dei diritti e delle prerogative sindacali di cui alle disposizioni del presente capo. 
+ 2. La notificazione della richiesta di tentativo di conciliazione interrompe la prescrizione e sospende il decorso di ogni termine di decadenza, ivi inclusi quelli per la proposizione del ricorso al giudice amministrativo, fino alla conclusione della procedura di conciliazione ovvero alla rinuncia espressa alla procedura stessa presentata dall'associazione proponente. 
+ 3. Per promuovere il tentativo di conciliazione, la parte ricorrente e' tenuta a versare, con le modalita' definite dal regolamento di cui all'articolo 1482-bis, comma 3, un contributo pari a euro 155 per le procedure dinnanzi alle commissioni centrali di cui all'articolo 1482-bis, comma 1, lettera a), e pari a euro 105 per le procedure dinnanzi alle commissioni periferiche di cui all'articolo 1482-bis, comma 1, lettera b). 
+ 4. La richiesta del tentativo di conciliazione, sottoscritta da chi ha la rappresentanza legale dell'associazione, deve indicare: 
+ a) la denominazione e la sede dell'APCSM, nonche' il nome del legale rappresentante e l'atto statutario che gli conferisce i poteri rappresentativi; 
+ b) il luogo dove e' sorta la controversia; 
+ c) l'esposizione dei fatti e delle ragioni poste a fondamento della pretesa. 
+ 5. La richiesta di cui al comma 4 e' notificata, tramite posta elettronica certificata, sottoscritta digitalmente, ai sensi del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, oppure mediante raccomandata con avviso di ricevimento, alla commissione di conciliazione competente, che cura l'invio di copia digitale della richiesta all'articolazione della Forza armata o della Forza di polizia a ordinamento militare interessata. 
+ 6. L'articolazione della Forza armata o della Forza di polizia a ordinamento militare interessata dalla controversia deposita presso la commissione di conciliazione, entro dieci giorni dal ricevimento della copia della richiesta, una memoria contenente le difese e le eccezioni in fatto e in diritto. Entro i dieci giorni successivi a tale deposito, la commissione fissa, per una data compresa nei successivi trenta giorni, la comparizione dell'APCSM e dell'articolazione dell'amministrazione interessata per il tentativo di conciliazione. Dinnanzi alla commissione, per l'APCSM deve presentarsi il legale rappresentante ovvero altro militare ad essa appartenente appositamente delegato. Non e' ammessa la partecipazione di soggetti non appartenenti all'APCSM. 
+ 7. Se il tentativo di conciliazione ha esito positivo, e' redatto un processo verbale che riporta il contenuto dell'accordo raggiunto. Il processo verbale, sottoscritto dalle parti e dal presidente della commissione di conciliazione, costituisce titolo esecutivo. Se non e' raggiunto l'accordo, la medesima controversia puo' costituire oggetto di ricorso innanzi al giudice amministrativo ai sensi dell'articolo 1481.»;
+                                
+                            
+                        
+                        
+                            cc)
+                            
+                                
+                                    dopo l'articolo 1482, e' inserito il seguente: 
+ «Art. 1482-bis (Commissioni di conciliazione). - 1. Ai fini dell'espletamento del tentativo di conciliazione di cui all'articolo 1482, sono istituite: 
+ a) per le controversie aventi rilievo nazionale, la commissione centrale di conciliazione presso il Ministero della difesa, ovvero presso il Ministero dell'economia e delle finanze per le controversie riferite al personale del Corpo della guardia di finanza; 
+ b) per le controversie aventi rilievo locale, almeno cinque commissioni periferiche di conciliazione presso unita' organizzative di livello non inferiore a quello regionale o paritetico delle Forze armate e delle Forze di polizia a ordinamento militare. 
+ 2. Le commissioni di conciliazione: 
+ a) sono presiedute, con funzione di garanzia, da un presidente nominato con decreto del Ministro della difesa o, per le commissioni riferite al personale del Corpo della guardia di finanza, del Ministro dell'economia e delle finanze, sentite le Commissioni parlamentari competenti per materia, scelto tra gli iscritti in un elenco appositamente istituito presso i citati Ministeri e comprendente magistrati, avvocati iscritti all'albo speciale degli avvocati ammessi al patrocinio dinnanzi alle giurisdizioni superiori e professori universitari in materie giuridiche; 
+ b) sono composte da militari appartenenti alla Forza armata o alla Forza di polizia a ordinamento militare di riferimento e da militari designati, nell'ambito dei propri iscritti, dalle APCSM riconosciute rappresentative ai sensi dell'articolo 1478. I militari appartenenti alle commissioni di conciliazione svolgono tale attivita' per servizio e sono individuati, con incarico non esclusivo, fra coloro che sono impiegati nell'ambito della regione amministrativa nella quale ha sede la commissione di cui sono componenti. 
+ 3. Le modalita' di costituzione e funzionamento delle commissioni di conciliazione sono definite con regolamento adottato con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. 
+ 4. Le amministrazioni interessate provvedono all'istituzione e al funzionamento delle commissioni di conciliazione nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica. Ai rispettivi componenti non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.»;
+                                
+                            
+                        
+                        
+                            dd)
+                            
+                                all'articolo 2136, comma 1, 
+ 1) alla lettera b), le parole «sezioni III e IV» sono sostituite dalle seguenti: 
+ «sezioni III, III-bis e IV»; 
+ 2) dopo la lettera ee) e' inserita la seguente: 
+ «ee-bis) il titolo IX - capo III;»;
+                                
+                            
+                        
+                        
+                            ee)
+                            
+                                
+                                    all'articolo 2188-quinquies, comma 5, le parole: «il Consiglio centrale di rappresentanza militare» sono sostituite dalle seguenti: «le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478»;
+                                
+                            
+                        
+                        
+                            ff)
+                            
+                                
+                                    all'articolo 2209-octies, comma 1, le parole «informato il Consiglio centrale della rappresentanza militare» sono sostituite dalle seguenti: «informate le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478»;
+                                
+                            
+                        
+                        
+                            gg)
+                            
+                                
+                                    all'articolo 2214-quater, i commi 21, 22 e 23 sono abrogati.
+
+4.
+                    
+                        
+                            Al libro nono del decreto legislativo 15 marzo 2010, n. 66, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al titolo II, capo II, sezione IV, la rubrica della parte VII e' sostituita dalla seguente: «Disciplina militare ed esercizio dei diritti»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    l'articolo 2257 e' sostituito dal seguente: 
+ «Art. 2257 (Durata del mandato degli organi della rappresentanza militare). - 1. I delegati della rappresentanza militare di cui all'articolo 2257-bis, il cui mandato era in corso alla data del 27 maggio 2022, restano in carica e proseguono l'attivita' di competenza, compresa la partecipazione alle procedure di concertazione per il rinnovo del contenuto del rapporto di impiego del personale delle Forze armate e delle Forze di polizia a ordinamento militare, se in corso, ai sensi del decreto legislativo 12 maggio 1995, n. 195, fino alla data di cui all'articolo 19, comma 2, della legge 28 aprile 2022, n. 46. 
+ 2. Fino alla data di cui al comma 1, continuano ad essere svolte dagli organi della rappresentanza militare di cui all'articolo 2257-bis le funzioni attribuite alle associazioni professionali a carattere sindacale tra militari dagli articoli 286, comma 3-bis, 287, comma 3, 294, commi 1 e 2, 296, comma 1, 297, comma 4, 546, comma 5, 980, 2188-quinquies, comma 5, 2209-octies, comma 1, del decreto legislativo n. 66 del 2010 nonche' dall'articolo 8, commi 1 e 2, della legge 1° dicembre 1986, n. 831, dall'articolo 9, comma 3, del decreto legislativo 9 marzo 2001, n. 68, dall'articolo 3, comma 2, del decreto legislativo 9 aprile 2008, n. 81, dall'articolo 19, comma 3, della legge 4 novembre 2010, n. 183 e dall'articolo 9, comma 2, della legge 5 agosto 2022, n. 119. 
+ 3. A decorrere dalla data di cui al comma 1, gli organi della rappresentanza militare e i delegati che li compongono cessano di svolgere le relative funzioni.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo l'articolo 2257 sono inseriti i seguenti: 
+ «Art. 2257-bis (Disposizioni transitorie in materia di rappresentanza militare). - 1. Gli organi di rappresentanza di militari, le cui competenze sono indicate dal presente articolo, si distinguono: 
+ a) in un organo centrale, a carattere nazionale e interforze, articolato in relazione alle esigenze, in commissioni interforze di categoria - A) ufficiali, B) marescialli/ispettori, C) sergenti/sovrintendenti e D) graduati/militari di truppa, fermo restando il numero complessivo dei rappresentanti - e in sezioni di Forza armata o di Corpo armato - Esercito italiano, Marina militare, Aeronautica militare, Carabinieri e Guardia di finanza; 
+ b) in un organo intermedio presso gli alti comandi; 
+ c) in un organo di base presso le unita' a livello minimo compatibile con la struttura di ciascuna Forza armata o Corpo armato. 
+ 2. L'organo centrale e quelli intermedi sono costituiti da un numero fisso di delegati di ciascuna delle seguenti categorie: A) ufficiali, B) marescialli/ispettori, C) sergenti/sovrintendenti e D) graduati/militari di truppa, fermo restando il numero complessivo dei rappresentanti. L'organo di base e' costituito dai rappresentanti delle suddette categorie presenti al livello considerato. Nell'organo centrale la rappresentanza di ciascuna Forza armata o Corpo e' proporzionale alla rispettiva consistenza numerica. 
+ 3. Per la elezione dei rappresentanti nei diversi organi di base si procede con voto diretto, nominativo e segreto. All'elezione dei rappresentanti negli organi intermedi provvedono i rappresentanti eletti negli organi di base, scegliendoli nel proprio ambito con voto diretto, nominativo e segreto. Ciascuno dei rappresentanti di base esprime non piu' di due terzi dei voti rispetto al numero dei delegati da eleggere. Con la stessa procedura i rappresentanti degli organi intermedi eleggono i delegati all'organo centrale. 
+ 4. Gli eletti, militari di carriera, durano in carica quattro anni, sono rieleggibili due sole volte, e se cessano anticipatamente dal mandato sono sostituiti, per il periodo residuo, dai militari che nelle votazioni effettuate, di primo o secondo grado, seguono immediatamente nella graduatoria l'ultimo degli eletti. 
+ 5. In deroga al divieto di cui all'articolo 1470, comma 1, sono previste riunioni per il funzionamento degli organi di rappresentanza che, in ogni caso, devono essere concordate con i comandi competenti.
+Normalmente l'organo centrale della rappresentanza si riunisce in sessione congiunta di tutte le sezioni costituite, per formulare pareri e proposte e per avanzare richieste, nell'ambito delle competenze attribuite. Tale sessione si aduna almeno una volta all'anno per formulare un programma di lavoro e per verificarne l'attuazione. Le riunioni delle sezioni costituite all'interno dell'organo centrale della rappresentanza sono convocate ogni qualvolta i pareri e le proposte da formulare e le richieste da avanzare riguardino esclusivamente le singole Forze armate o i Corpi armati. Le riunioni delle commissioni costituite all'interno dell'organo centrale della rappresentanza sono convocate ogni qualvolta i pareri e le proposte da formulare e le richieste da avanzare riguardino le singole categorie. Gli organi di rappresentanza sono convocati dalla presidenza, per iniziativa della stessa o a richiesta di un quinto dei loro componenti, compatibilmente con le esigenze di servizio. 
+ 6. Le competenze dell'organo centrale di rappresentanza riguardano la formulazione di pareri, di proposte e di richieste su tutte le materie che formano oggetto di norme legislative o regolamentari circa la condizione, il trattamento, la tutela - di natura giuridica, economica, previdenziale, sanitaria, culturale e morale - dei militari. Se i pareri, le proposte, le richieste riguardano materie inerenti al servizio di leva devono essere sentiti i militari di leva eletti negli organi intermedi. Tali pareri, proposte e richieste sono comunicati al Ministro della difesa che li trasmette per conoscenza alle Commissioni permanenti competenti per materia delle due Camere, a richiesta delle medesime. L'organo centrale della rappresentanza militare puo' essere ascoltato, a sua richiesta, dalle Commissioni permanenti competenti per materia delle due Camere, sulle materie di competenza e secondo le procedure previste dai regolamenti parlamentari. Gli organi della rappresentanza militare, intermedi e di base, concordano con i comandi e gli organi dell'amministrazione militare, le forme e le modalita' per trattare materie di competenza. In materia di contenuti del rapporto di impiego del personale militare si applicano le disposizioni del decreto legislativo 12 maggio 1995, n. 195, vigenti fino alla data di adozione del primo decreto del Ministro per la pubblica amministrazione di cui all'articolo 1478, comma 5, del decreto legislativo n. 66 del 2010. 
+ 7. Dalle competenze degli organi rappresentativi sono comunque escluse le materie concernenti l'ordinamento, l'addestramento, le operazioni, il settore logistico-operativo, il rapporto gerarchico-funzionale e l'impiego del personale. 
+ 8. Gli organi rappresentativi hanno inoltre la funzione di prospettare le istanze di carattere collettivo, relative ai seguenti campi di interesse: 
+ a) conservazione dei posti di lavoro durante il servizio militare, qualificazione professionale, inserimento nell'attivita' lavorativa di coloro che cessano dal servizio militare; 
+ b) provvidenze per gli infortuni subiti e per le infermita' contratte in servizio e per causa di servizio; 
+ c) integrazione del personale militare femminile; 
+ d) attivita' assistenziali, culturali, ricreative e di promozione sociale, anche a favore dei familiari del personale militare; 
+ e) organizzazione delle sale convegno e delle mense; 
+ f) condizioni igienico-sanitarie; 
+ g) alloggi. 
+ 9. Per i provvedimenti da adottare in materia di attivita' assistenziale, culturale, ricreativa, di promozione sociale, anche a favore dei familiari del personale militare, l'amministrazione militare competente puo' avvalersi dell'apporto degli organi di rappresentanza intermedi o di base, per i rapporti con le regioni, le province, i comuni. 
+ 10. Sono vietati gli atti diretti comunque a condizionare o limitare l'esercizio del mandato dei componenti degli organi della rappresentanza. I trasferimenti ad altre sedi di militari di carriera o di leva eletti negli organi di rappresentanza, se pregiudicano l'esercizio del mandato, devono essere concordati con l'organo di rappresentanza a cui il militare, del quale si chiede il trasferimento, appartiene. 
+ 11. Le disposizioni del regolamento concernenti l'organizzazione e il funzionamento della rappresentanza militare nonche' il collegamento con i rappresentanti dei militari delle categorie in congedo e dei pensionati delegati dalle rispettive associazioni, sono adottate dall'organo centrale a maggioranza assoluta dei componenti. 
+ Art. 2257-ter (Disposizioni transitorie in materia di associazioni professionali a carattere sindacale tra militari). - 1.
+Le associazioni professionali a carattere sindacale tra militari, che alla data del 27 maggio 2022 avevano gia' conseguito l'assenso del Ministro competente, si adeguano alle disposizioni del libro quarto, titolo IX, capo III entro novanta giorni. Decorso tale termine, il Ministro competente effettua sulle predette associazioni gli accertamenti previsti dall'articolo 1477. 
+ 2. Le quote percentuali di iscritti previste dall'articolo 1478, comma 1, ai fini del riconoscimento della rappresentativita' a livello nazionale, sono ridotte: 
+ a) di 2 punti percentuali, limitatamente ai primi tre anni, decorrenti dal 27 maggio 2022; 
+ b) di 1 punto percentuale, decorsi tre anni dal 27 maggio 2022 e per i successivi quattro anni.».
+
 ## Art. 2. — Modifiche a ulteriori disposizioni legislative
+
+1.
+                    
+                        
+                            All'articolo 8 della legge 1° dicembre 1986, n. 831, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «gli organi della rappresentanza militare,» sono sostituite dalle seguenti: «le associazioni professionali a carattere sindacale tra militari rappresentative del personale del Corpo della Guardia di finanza ai sensi dell'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole: «Il Consiglio centrale di rappresentanza - Sezione guardia di finanza e' chiamato» sono sostituite dalle seguenti: «Le associazioni professionali a carattere sindacale tra militari rappresentative del personale del Corpo della guardia di finanza ai sensi dell'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66, sono chiamate».
 
 All'articolo 9, comma 3, del decreto legislativo 19 marzo 2001, n. 68, le parole: «sentito l'Organo centrale di rappresentanza del personale,» sono sostituite dalle seguenti: «sentite le associazioni professionali a carattere sindacale tra militari rappresentative del personale del Corpo della guardia di finanza ai sensi dell'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66,».
 
@@ -35,6 +531,64 @@ All'articolo 3, comma 2, del decreto legislativo 9 aprile 2008, n. 81, le parole
 All'articolo 19, comma 3, della legge 4 novembre 2010, n. 183, le parole: «Il Consiglio centrale di rappresentanza militare (COCER) partecipa» sono sostituite dalle seguenti: «Le associazioni riconosciute rappresentative a livello nazionale ai sensi dell'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66, partecipano».
 
 All'articolo 9, comma 2, della legge 5 agosto 2022, n. 119, le parole: «sentito il Consiglio centrale di rappresentanza militare per le materie di sua competenza» sono sostituite dalle seguenti: «sentite le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66, per le materie di loro competenza».
+
+6.
+                    
+                        
+                            Al decreto legislativo 12 maggio 1995, n. 195, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2: 
+ 1) al comma 1, alla lettera B): 
+ 1.1) le parole: «ai sensi dell'articolo 11, comma 3, lettera a), della legge 28 aprile 2022, n. 46
+                                        » sono sostituite dalle seguenti: «dal Ministro per la pubblica amministrazione, che la presiede, e dai Ministri della difesa, dell'economia e delle finanze, dell'interno e della giustizia o dai Sottosegretari di Stato rispettivamente delegati, alla quale partecipano, nell'ambito delle delegazioni dei Ministri della difesa e dell'economia e delle finanze, i Comandanti generali dell'Arma dei carabinieri e della Guardia di finanza»; 
+ 1.2) le parole: «ai sensi dell'articolo 13 della legge 28 aprile 2022, n. 46» sono sostituite dalle seguenti: «con decreto del Ministro per la pubblica amministrazione secondo i criteri stabiliti dall'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66. Le delegazioni delle associazioni professionali a carattere sindacale tra militari sono composte dai rappresentanti di ciascuna associazione professionale a carattere sindacale tra militari»; 
+ 2) al comma 2: 
+ 2.1) le parole: «ai sensi dell'articolo 11, comma 3, lettera a), della legge 28 aprile 2022, n. 46
+                                        » sono sostituite dalle seguenti: «dal Ministro per la pubblica amministrazione, che la presiede, e dai Ministri della difesa e dell'economia e delle finanze, o dai Sottosegretari di Stato rispettivamente delegati, alla quale partecipano, nell'ambito della delegazione del Ministro della difesa, il Capo di stato maggiore della difesa o un suo rappresentante, accompagnato dai Capi di stato maggiore delle Forze armate o loro rappresentanti»; 
+ 2.2) le parole: «ai sensi dell'articolo 13 della legge 28 aprile 2022, n. 46» sono sostituite dalle seguenti: «con decreto del Ministro per la pubblica amministrazione secondo i criteri stabiliti dall'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66. Le delegazioni delle associazioni professionali a carattere sindacale tra militari sono composte dai rappresentanti di ciascuna associazione professionale a carattere sindacale tra militari»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 4, comma 2, le parole: «con il regolamento di cui all'articolo 16, comma 3, della legge 28 aprile 2022, n. 46.» sono sostituite dalle seguenti: «dal regolamento di cui all'articolo 1475, comma 2, del decreto legislativo 15 marzo 2010, n. 66.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    all'articolo 5, comma 2, le parole «con il regolamento di cui all'articolo 16, comma 3, della legge 28 aprile 2022, n. 46.» sono sostituite dalle seguenti: «dal regolamento di cui all'articolo 1475, comma 2, del decreto legislativo 15 marzo 2010, n. 66.».
+
+7.
+                    
+                        
+                            All'articolo 46 del decreto legislativo 29 maggio 2017, n. 95, come modificato dal decreto legislativo 25 novembre 2022, n. 206, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3-bis: 
+ 1) le parole: «ai sensi dell'articolo 11, comma 3, lettera a), della legge 28 aprile 2022, n. 46
+                                        » sono sostituite dalle seguenti: «dal Ministro per la pubblica amministrazione, che la presiede, e dai Ministri della difesa, dell'economia e delle finanze, dell'interno e della giustizia o dai Sottosegretari di Stato rispettivamente delegati, alla quale partecipano, nell'ambito delle delegazioni dei Ministri della difesa e dell'economia e delle finanze, i Comandanti generali dell'Arma dei carabinieri e della Guardia di finanza»; 
+ 2) le parole: «sentiti, per quanto di rispettiva competenza, i Ministri della difesa e dell'economia e delle finanze, secondo i criteri di cui all'articolo 13 della legge 28 aprile 2022, n. 46,» sono sostituite dalle seguenti: «secondo i criteri di cui all'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3-ter: 
+ 1) le parole: «ai sensi dell'articolo 11, comma 3, lettera a), della legge 28 aprile 2022, n. 46,» sono sostituite dalle seguenti: «dal Ministro per la pubblica amministrazione, che la presiede, e dai Ministri della difesa e dell'economia e delle finanze, o dai Sottosegretari di Stato rispettivamente delegati, alla quale partecipano, nell'ambito della delegazione del Ministro della difesa, il Capo di stato maggiore della difesa o un suo rappresentante, accompagnato dai Capi di stato maggiore delle Forze armate o loro rappresentanti,»; 
+ 2) le parole: «sentito il Ministro della difesa, secondo i criteri di cui all'articolo 13 della legge 28 aprile 2022, n. 46,» sono sostituite dalle seguenti: «secondo i criteri di cui all'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66,».
 
 All'articolo 1, comma 2, del decreto legislativo 25 novembre 2022, n. 206, le parole: «di cui all'articolo 11, comma 3, lettera b), della legge n. 46 del 2022.» sono sostituite dalle seguenti: «di cui all'articolo 1478, comma 5, del decreto legislativo 15 marzo 2010, n. 66.».
 

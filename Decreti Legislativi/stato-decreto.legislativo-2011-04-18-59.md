@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-11-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,81 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle in
 
 ## Art. 1. — Modifiche all'articolo 47 del Codice della strada, in materia di classificazione dei veicoli
 
+1.
+                    
+                        
+                            All'articolo 47 del Codice della strada sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera a), le parole: «L1, L2, L3, L4 ed L5» sono sostituite dalle seguenti: «L1e, L2e, L3e, L4e ed L5e» e le parole: «50 km/h», ovunque ricorrano, sono sostituite dalle seguenti: «45 km/h»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), sono inseriti, in fine, i seguenti capoversi: 
+ «- categoria L6e: quadricicli leggeri, la cui massa a vuoto e' inferiore o pari a 350 kg, esclusa la massa delle batterie per i veicoli elettrici, la cui velocita' massima per costruzione e' inferiore o uguale a 45 km/h e la cui cilindrata del motore e' inferiore o pari a 50 cm³ per i motori ad accensione comandata; o la cui potenza massima netta e' inferiore o uguale a 4 kW per gli altri motori, a combustione interna; o la cui potenza nominale continua massima e' inferiore o uguale a 4 kW per i motori elettrici. Tali veicoli sono conformi alle prescrizioni tecniche applicabili ai ciclomotori a tre ruote della categoria L2e, salvo altrimenti disposto da specifiche disposizioni comunitarie; 
+ - categoria L7e: i quadricicli, diversi da quelli di cui alla categoria L6e, la cui massa a vuoto e' inferiore o pari a 400 kg (550 kg per i veicoli destinati al trasporto di merci), esclusa la massa delle batterie per i veicoli elettrici, e la cui potenza massima netta del motore e' inferiore o uguale a 15 kW. Tali veicoli sono considerati come tricicli e sono conformi alle prescrizioni tecniche applicabili ai tricicli della categoria L5e salvo altrimenti disposto da specifiche disposizioni comunitarie;».
+
 ## Art. 2. — Modifiche all'articolo 115 del Codice della strada, in materia di requisiti per la guida dei veicoli e la conduzione di animali
+
+1.
+                    
+                        
+                            All'articolo 115 del Codice della strada sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Fatte salve le disposizioni specifiche in materia di carta di qualificazione del conducente, chi guida veicoli o conduce animali deve essere idoneo per requisiti fisici e psichici e aver compiuto: 
+ a) anni quattordici per guidare: 
+ 1) veicoli a trazione animale o condurre animali da tiro, da soma o da sella, ovvero armenti, greggi o altri raggruppamenti di animali; 
+ 2) sul territorio nazionale, veicoli cui abilita la patente di guida della categoria AM, purche' non trasportino altre persone oltre al conducente; 
+ b) anni sedici per guidare: 
+ 1) veicoli cui abilita la patente di guida della categoria A1, purche' non trasportino altre persone oltre al conducente; 
+ 2) veicoli cui abilita la patente di guida della categoria B1, purche' non trasportino altre persone oltre al conducente; 
+ c) anni diciotto per guidare: 
+ 1) veicoli cui abilita la patente di guida delle categorie AM, A1 e B1, che trasportano altre persone oltre al conducente; 
+ 2) veicoli cui abilita la patente di guida della categoria A2; 
+ 3) veicoli cui abilita la patente di guida delle categorie B e BE; 
+ 4) veicoli cui abilita la patente di guida delle categorie C1 e C1E; 
+ d) anni venti per guidare: 
+ 1) veicoli cui abilita la patente di guida della categoria A, a condizione che il conducente sia titolare della patente di guida della categoria A2 da almeno due anni; 
+ e) anni ventuno per guidare: 
+ 1) tricicli cui abilita la patente di guida della categoria A; 
+ 2) veicoli cui abilita la patente di guida delle categorie C e CE; 
+ 3) veicoli cui abilita la patente di guida delle categorie D1 e D1E; 
+ 4) veicoli per i quali e' richiesto un certificato di abilitazione professionale di tipo KA o KB nonche' i veicoli che circolano in servizio di emergenza, di cui all'articolo 177; 
+ f) anni ventiquattro per guidare: 
+ 1) veicoli cui abilita la patente di guida della categoria A; 
+ 2) veicoli cui abilita la patente di guida delle categorie D e DE.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2-bis e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, la parola: «Chiunque» e' sostituita dalle seguenti: «Fatto salvo quanto previsto dall'articolo 126, comma 12, chiunque», ed il secondo periodo e' sostituito dal seguente: «Qualora trattasi di veicoli di cui al comma 1, lettera e), numero 4), ovvero di veicoli per la cui guida e' richiesta la carta di qualificazione del conducente, e' soggetto alla sanzione amministrativa del pagamento di una somma da 155 euro a 624 euro.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. Il minore degli anni diciotto, munito di patente delle categorie AM, A1 e B1, che trasporta altre persone sui veicoli alla cui guida le predette patenti rispettivamente lo abilitano e' soggetto alla sanzione amministrativa del pagamento di una somma da 38 euro a 155 euro.».
 
 ## Art. 3. — Modifiche all'articolo 116 del Codice della strada, in materia di patente e di abilitazione professionale per la guida di motoveicoli e autoveicoli
 
@@ -96,7 +170,71 @@ Tali certificati non possono essere rilasciati ai mutilati e ai minorati fisici.
 
 ## Art. 4. — Modifiche all'articolo 117 del Codice della strada, in materia di limitazioni nella guida
 
+1.
+                    
+                        
+                            All'articolo 117 del Codice della strada sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «di categoria B» sono sostituite dalle seguenti: «di categoria A2, A, B1 e B»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: «di cui ai commi 1, 2 e 2-bis» sono sostituite dalle seguenti: «di cui ai commi 2 e 2-bis»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, le parole: «nei primi tre anni dal conseguimento della patente di guida circola oltrepassando i limiti di guida e di velocita' di cui al presente articolo» sono sostituite dalle seguenti: «viola le disposizioni di cui ai commi 2 e 2-bis».
+
 ## Art. 5. — Modifiche all'articolo 118 del Codice della strada, in materia di patente e certificato di idoneita' per la guida di filoveicoli
+
+1.
+                    
+                        
+                            All'articolo 118 del Codice della strada sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: « il certificato di abilitazione professionale» sono sostituite dalle seguenti: «la carta di qualificazione del conducente per il trasporto di persone»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: « il tipo di certificato di abilitazione professionale» sono sostituite dalle seguenti: «la carta di qualificazione del conducente per il trasporto di persone»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, le parole: «dal certificato di abilitazione professionale, qualora prescritto» sono sostituite dalle seguenti: «dalla carta di qualificazione del conducente per il trasporto di persone»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai commi 11 e 12, le parole: «del certificato di abilitazione professionale, quando richiesto» sono sostituite dalle seguenti: «della carta di qualificazione del conducente per il trasporto di persone».
 
 ## Art. 6. — Introduzione dell'articolo 118-bis in materia di residenza per il rilascio della patente di guida
 
@@ -112,7 +250,65 @@ All'articolo 119, comma 4, del Codice della strada, dopo la lettera b) e' inseri
 
 ## Art. 8. — Modifiche all'articolo 120 del Codice della strada
 
+1.
+                    
+                        
+                            All'articolo 120 del Codice della strada sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «, il certificato di abilitazione professionale per la guida di motoveicoli e il certificato di idoneita' alla guida di ciclomotori» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «, del certificato di abilitazione professionale per la guida di motoveicoli e del certificato di idoneita' alla guida di ciclomotori» sono soppresse.
+
 ## Art. 9. — Modifiche all'articolo 121 del Codice della strada, in materia di esame di idoneita'
+
+1.
+                    
+                        
+                            All'articolo 121 del codice della strada sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, le parole: «, per i certificati professionali di cui all'articolo 116 e per l'idoneita' degli insegnanti e degli istruttori delle autoscuole di cui all'articolo 123 sono effettuati da dipendenti del Dipartimento per i trasporti terrestri» sono sostituite dalle seguenti: «, per le abilitazioni professionali di cui all'articolo 116 e del certificato di idoneita' professionale di cui all'articolo 118, sono effettuati da dipendenti del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, a seguito della frequenza di corso di qualificazione iniziale, secondo le disposizioni di cui ai commi 5 e 5-bis, ed esame di abilitazione. Il permanere nell'esercizio della funzione di esaminatore e' subordinato alla frequenza di corsi di formazione periodica, secondo le disposizioni di cui ai commi 5 e 5-bis.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «Dipartimento per i trasporti terrestri» sono sostituite dalle seguenti: «Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole: «dei corsi di qualificazione e degli esami per l'abilitazione del personale di cui al comma 4» sono sostituite dalle seguenti: «dei corsi di qualificazione iniziale, di formazione periodica e degli esami per l'abilitazione del personale di cui al comma 3, adibito alla funzione di esaminatore nelle prove di controllo delle cognizioni»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 5, e' inserito il seguente: «5-bis. I contenuti del corso di qualificazione iniziale del personale di cui al comma 3, adibito alla funzione di esaminatore nelle prove di verifica delle capacita' e dei comportamenti, e delle competenze a cui gli stessi sono finalizzati, sono definiti con decreto del Ministro delle infrastrutture e dei trasporti. Con lo stesso decreto sono altresi' disciplinate le condizioni soggettive necessarie per la frequenza dei suddetti corsi nonche' i contenuti e le procedure dell'esame finale.
+Il Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici provvede ad un controllo di qualita' sul predetto personale e ad una formazione periodica dello stesso.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 9 le parole: «A partire dal 1° gennaio 1995, la» sono sostituite dalla seguente: «La» e le parole: «patente di categoria A» sono sostituite dalle seguenti: «patente di categoria AM, A1, A2 ed A».
 
 Il Governo, entro novanta giorni dalla data di entrata in vigore del presente decreto, provvede a modificare l'articolo 332 del regolamento di esecuzione e di attuazione del nuovo codice della strada, di cui al decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e la relativa tabella IV.I, nel senso di prevedere profili professionali adeguati agli esami relativi alle nuove categorie di patenti introdotte nel Codice della strada ai sensi del presente decreto, e che gli stessi siano distinti in ragione che l'esaminatore sia abilitato in relazione alle prove di controllo delle cognizioni ovvero alle prove di verifica delle capacita' e dei comportamenti, assicurando, in tale ultimo caso, un livello di istruzione professionale di secondo grado conseguito a seguito di un corso di studi di almeno cinque anni.
 
@@ -168,6 +364,24 @@ Il rilascio della patente di guida e' subordinato alle seguenti condizioni:
  ((3-bis. Fermo restando quanto previsto dal comma 4, chiunque, munito di patente di guida recante un codice unionale o nazionale relativo a "CONDUCENTE (motivi medici)" conduce un veicolo o circola in condizioni diverse da quelle indicate dai predetti codici, e' soggetto alla sanzione di cui all'articolo 173, comma 3.)) 
  4. Chiunque, munito di patente speciale, guida un veicolo diverso da quello indicato e specialmente adattato in relazione alla sua mutilazione o minorazione, ovvero con caratteristiche diverse da quella indicate nella patente posseduta, e' soggetto alla sanzione amministrativa del pagamento di una somma da 78 euro a 311 euro. 
  5. Dalle violazioni di cui ai commi 3 e 4 consegue la sanzione amministrativa accessoria della sospensione della patente da uno a sei mesi, secondo le norme del capo I, sezione II, del titolo VI.».
+
+2.
+                    
+                        
+                            Previa consultazione della Commissione europea ai fini dell'autorizzazione, con decreto del Ministro delle infrastrutture e dei trasporti, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sul territorio nazionale puo' essere autorizzata la guida: 
+ 
+                        
+                        
+                            a)
+                            
+                                di autoveicoli della categoria D1, aventi una massa massima autorizzata di 3500 kg, escluse le attrezzature specializzate destinate al trasporto di passeggeri disabili, da parte di persone di eta' non inferiore a 21 anni ed in possesso da almeno due anni di patente di guida della categoria B, sempreche' tali autoveicoli siano utilizzati per fini sociali da organizzazioni non commerciali e siano guidati da volontari non retribuiti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di autoveicoli con una massa massima autorizzata superiore a 3500 kg da parte di persone di eta' non inferiore a ventuno anni ed in possesso da almeno due anni di una patente di guida della categoria B, sempreche' tali veicoli siano essenzialmente destinati ad essere utilizzati, da fermi, per fini didattici o ricreativi, siano utilizzati per fini sociali da organizzazioni non commerciali, siano stati modificati in modo da non poter essere utilizzati per il trasporto di oltre nove persone o per il trasporto di merci di qualsiasi natura, salvo quelle assolutamente necessarie all'uso che e' stato loro assegnato.
 
 Nel caso di violazione delle disposizioni del decreto di cui al comma 2, ove adottato, si applicano le sanzioni di cui all'articolo 116, commi 15 e 17.
 
@@ -242,6 +456,37 @@ Qualora il conducente circoli in violazione del provvedimento emanato ai sensi d
 ## Art. 18. — Modifiche agli articoli 173 e 180 del Codice della strada, in materia di uso di lenti o di determinati apparecchi durante la guida e di possesso dei documenti di circolazione e di guida
 
 All'articolo 173, comma 1, del Codice della strada, le parole: «o di certificato di idoneita' alla guida dei ciclomotori» sono soppresse e le parole: «o del certificato stessi» sono sostituite dalla seguente: «stessa».
+
+2.
+                    
+                        
+                            All'articolo 180, del Codice della strada, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera a) e' sostituita dalla seguente: «a) la carta di circolazione, il certificato di idoneita' tecnica alla circolazione o il certificato di circolazione, a seconda del tipo di veicolo condotto;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera b) sono aggiunte, in fine, le seguenti parole: «, nonche' lo specifico attestato sui requisiti fisici e psichici, qualora ricorrano le ipotesi di cui all'articolo 115, comma 2»; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                al comma 5, le parole: "certificato di abilitazione professionale" sono sostituite dalle seguenti: "certificato di abilitazione o di formazione professionale;
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' abrogato.
 
 ## Art. 19. — Modifiche all'articolo 218-bis del Codice della strada 
 in materia di applicazione della sospensione della patente per i neopatentati

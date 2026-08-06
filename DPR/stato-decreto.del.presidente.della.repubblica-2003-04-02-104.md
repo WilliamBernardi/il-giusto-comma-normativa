@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-07-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,74 @@ Sulla proposta del Ministro per gli italiani nel Mondo, del Ministro degli affar
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «legge», la legge 27 dicembre 2001, n. 459; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «elettore», il cittadino italiano residente all'estero iscritto nelle liste elettorali di cui all'articolo 5, comma 1, della legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «opzione», l'opzione per l'esercizio del diritto di voto in Italia, di cui all'articolo 1, comma 3, della legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «elenco aggiornato», l'elenco aggiornato dei cittadini italiani residenti all'estero, di cui all'articolo 5, comma 1, della legge; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «ripartizioni», le ripartizioni di cui all'articolo 6, comma 1, della legge; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «ufficio consolare», l'ufficio consolare competente nella circoscrizione consolare in cui risiede l'elettore, rientrante nel novero degli uffici di cui all'articolo 3 della legge. Ai fini della registrazione dei dati nell'elenco aggiornato di cui all'articolo 5, comma 1 della legge, per «ufficio consolare» si intendono i consolati generali di prima categoria e i consolati di prima categoria di cui all'articolo 3 della legge e all'articolo 16, comma 1 della legge 27 ottobre 1988, n. 470; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((LETTERA ABROGATA DALLA L. 6 MAGGIO 2015, N. 52)); ((2))
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                «forme di collaborazione», le forme di collaborazione per lo svolgimento della campagna elettorale, di cui all'articolo 17, comma 1, della legge; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «testo unico per l'elezione della Camera dei deputati», il testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni.
+
 ---------------
                         AGGIORNAMENTO (2)
                         
@@ -50,6 +118,52 @@ Il cittadino italiano di cui al comma 1 restituisce entro trenta giorni dalla da
 Ai sensi dell'articolo 2, comma 1, della legge, l'ufficio consolare informa i cittadini italiani residenti all'estero almeno ogni due anni.
 
 ## Art. 4. — O p z i o n e
+
+1.
+                    
+                        
+                            La comunicazione di cui all'articolo 4, commi 1, 2 e 5, della legge:
+ 
+                        
+                        
+                            a)
+                            
+                                e' redatta su carta libera;
+
+                            
+                        
+                        
+                            b)
+                            
+                                riporta nome, cognome, data e luogo di nascita, nonche' luogo di residenza dell'elettore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riporta il nome del comune italiano d'iscrizione all'anagrafe degli italiani residenti all'estero o di ultima residenza dell'elettore, ove a lui noti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                riporta l'indicazione della consultazione per la quale l'elettore intende esercitare l'opzione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                e' datata e firmata dall'elettore;
+
+                            
+                        
+                        
+                            f)
+                            
+                                e' consegnata all'ufficio consolare, il quale ne rilascia ricevuta, ovvero e' spedita all'ufficio consolare, nei termini previsti dall'articolo 4, commi 1, 2 e 5 della legge.
 
 L'opzione che non riporta tutti gli elementi di cui al comma 1, lettera b), ovvero che non reca la firma dell'elettore, si intende non esercitata.
 
@@ -86,6 +200,38 @@ E' istituito un Comitato permanente anagrafico-elettorale avente il compito di a
 Il Comitato e' composto da tredici membri effettivi esperti nella materia, tre dei quali in rappresentanza del Dipartimento per gli italiani nel mondo, tre del Ministero degli affari esteri, tre del Ministero dell'interno, uno del Dipartimento per l'innovazione e le tecnologie, uno dell'Associazione nazionale dei comuni italiani, uno dell'associazione piu' rappresentativa degli operatori di stato civile ed anagrafe ed uno del comune di Roma. I componenti del Comitato sono nominati con decreto dei Ministri per gli italiani nel mondo, degli affari esteri, dell'interno e per l'innovazione e le tecnologie. Per ogni componente effettivo e' nominato un supplente.
 
 Il Comitato, che si avvale delle strutture dei Ministeri degli affari esteri e dell'interno e del Dipartimento per gli italiani nel mondo, rimane in carica fino all'insediamento del nuovo, che e' nominato all'inizio di ogni legislatura.
+
+4.
+                    
+                        
+                            Al fine di raggiungere gli obiettivi di cui al comma 1, il Comitato determina, sulla base della vigente normativa anagrafica ed elettorale, piani e criteri applicativi, svolgendo funzioni di coordinamento e di verifica, in particolare relative a:
+ 
+                        
+                        
+                            a)
+                            
+                                l'unificazione dei dati dell'anagrafe degli italiani residenti all'estero e degli schedari consolari, sulla base di quanto previsto dall'articolo 5, risolvendo eventuali problematiche o criticita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tenuta ed il puntuale aggiornamento del-l'elenco aggiornato di cui all'articolo 5;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la corretta e tempestiva trattazione nonche' lo scambio dei dati anagrafici ed elettorali tra gli uffici consolari, il Ministero degli affari esteri, il Ministero dell'interno e i comuni, ivi compresi gli adempimenti relativi ai nominativi degli elettori che hanno esercitato l'opzione per il voto in Italia, alle risultanze della rilevazione dei cittadini italiani residenti all'estero, nonche' all'elenco provvisorio degli aventi diritto al voto residenti all'estero;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la proposizione delle misure necessarie per l'istituzione di una eventuale rete telematica di scambio di informazioni anagrafiche ed elettorali tra uffici consolari, Ministero degli affari esteri, Ministero dell'interno e comuni.
 
 Ai componenti del Comitato non e' dovuto alcun compenso ne' rimborso spese.
 
@@ -162,6 +308,26 @@ In caso di svolgimento di referendum previsti dagli articoli 75 e 138 della Cost
 Il tagliando di cui all'articolo 12, comma 6 della legge, comprovante l'esercizio del diritto di voto, che l'elettore provvede a staccare dal certificato elettorale e ad introdurre nella busta affrancata unitamente alla busta contenente la scheda o le schede elettorali, deve contenere unicamente un numero o codice corrispondente ad una posizione nell'elenco degli elettori.
 
 Sul tagliando di cui al comma 3 non possono essere apposti dati che consentano di risalire direttamente ed immediatamente all'identita' dell'elettore.
+
+5.
+                    
+                        
+                            Le buste affrancate recanti l'indirizzo dell'ufficio consolare, di cui all'articolo 12, comma 3, della legge, hanno caratteristiche tali da consentire, anche con riferimento all'affrancatura, l'utilizzo del sistema postale piu' affidabile disponibile nello Stato in cui risiedono gli elettori per realizzare le finalita' previste dall'articolo 12, commi 3, 4, 6 e 7 e dall'articolo 19, comma 1, lettera 
+                        
+                        
+                            a)
+                            
+                                della legge.
+
+6.
+                    
+                        
+                            L'ufficio consolare invia all'elettore il plico di cui all'articolo 12, comma 3, della legge mediante il sistema postale piu' affidabile disponibile nello Stato in cui risiedono gli elettori per realizzare le finalita' previste dall'articolo 12, commi 3, 4, 6 e 7 e dall'articolo 19, comma 1, lettera 
+                        
+                        
+                            a)
+                            
+                                della legge e comunque in maniera che risulti ricevuta, anche collettiva, dell'invio.
 
 ## Art. 15. — Espressione del voto
 

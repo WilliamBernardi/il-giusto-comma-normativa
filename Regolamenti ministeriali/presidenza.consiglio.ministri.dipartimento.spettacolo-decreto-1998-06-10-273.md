@@ -8,8 +8,8 @@ codice_redazionale: 098G0323
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,13 +33,271 @@ Le sezioni del comitato sono composte da appartenenti a sindacati ed associazion
 
 ## Art. 2.
 
+1.
+                        
+                            
+                                Nella sezione del comitato per i problemi dello spettacolo competente per la musica sono in ogni caso presenti i seguenti componenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante dell'associazione delle fondazioni liricosinfoniche, di cui al decreto legislativo 23 aprile 1998, n. 134;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante dell'associazione tra i teatri di tradizione, di cui alla legge 14 agosto 1967, n. 800;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante delle altre associazioni tra i soggetti disciplinati dal titolo III della legge 14 agosto 1967, n. 800;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante indicato dalle associazioni maggiormente rappresentative dei soggetti delle forme di espressione musicale non disciplinate dalla citata legge n. 800 del 1967;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante dell'Associazione generale italiana dello spettacolo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante delle associazioni sindacali del personale artistico delle istituzioni musicali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    due rappresentanti delle associazioni sindacali degli altri lavoratori dello spettacolo nel campo della musica;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante delle organizzazioni professionali dei critici musicali.
+
 ## Art. 3.
+
+1.
+                        
+                            
+                                Nella sezione del comitato per i problemi dello spettacolo competente per la danza sono in ogni caso presenti i seguenti componenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante dell'Associazione generale italiana dello spettacolo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante dell'associazione maggiormente rappresentativa dei soggetti che operano nella produzione di attivita' di danza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante dell'associazione delle fondazioni liricosinfoniche, individuato tra le fondazioni che siano dotate di un proprio stabile corpo di ballo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante delle associazioni sindacali dei lavoratori dello spettacolo nel campo della danza;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante delle associazioni sindacali degli artisti e coreografi nel campo della danza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante delle organizzazioni professionali dei critici di danza.
 
 ## Art. 4.
 
+1.
+                        
+                            
+                                Nella sezione del comitato per i problemi dello spettacolo competente per il teatro sono in ogni caso presenti i seguenti componenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante dell'associazione tra i teatri stabili ad iniziativa pubblica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante delle associazioni tra i soggetti privati operanti nell'ambito della stabilita' teatrale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante delle associazioni delle compagnie teatrali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante delle associazioni tra i soggetti operanti nella distribuzione teatrale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante dell'Associazione generale italiana dello spettacolo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante dell'associazione degli autori per il teatro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    due rappresentanti delle organizzazioni dei lavoratori dello spettacolo nel campo del teatro;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante delle organizzazioni professionali dei critici teatrali.
+
 ## Art. 5.
 
+1.
+                        
+                            
+                                Nella sezione del comitato per i problemi dello spettacolo competente per il cinema sono in ogni caso presenti i seguenti componenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    due rappresentanti delle associazioni maggiormente rappresentative dei produttori cinematografici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante dell'associazione degli esercenti di sale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante dell'associazione dei distributori cinematografici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante dell'Associazione generale italiana dello spettacolo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante dell'associazione degli autori cinematografici;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    due rappresentanti delle organizzazioni sindacali dei lavoratori dello spettacolo per il campo del cinema;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante delle organizzazioni professionali dei critici cinematografici.
+
 ## Art. 6.
+
+1.
+                        
+                            
+                                Nella sezione del comitato per i problemi dello spettacolo competente per le attivita' circensi e lo spettacolo viaggiante sono in ogni caso presenti i seguenti componenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante dell'Associazione generale italiana dello spettacolo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante dell'associazione degli esercenti dei circhi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante dell'associazione degli esercenti dello spettacolo viaggiante;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante delle organizzazioni sindacali dei lavoratori dei circhi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante delle organizzazioni sindacali dei lavoratori dello spettacolo viaggiante.
 
 ## Art. 7.
 
@@ -53,7 +311,57 @@ Il comitato per i problemi dello spettacolo e le singole sezioni operano con la 
 
 ## Art. 8.
 
+1.
+                        
+                            
+                                Il comitato per i problemi dello spettacolo e' organo consultivo dell'Autorita' di Governo competente in materia di spettacolo e svolge i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    consulenza e verifica in ordine alla elaborazione ed attuazione delle politiche di settore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consulenza in ordine alla predisposizione di indirizzi e di criteri generali relativi alla destinazione delle risorse pubbliche per il sostegno alle attivita' dello spettacolo.
+
 Il comitato per i problemi dello spettacolo svolge i propri compiti in composizione plenaria ovvero mediante ciascuna delle cinque sezioni in cui esso e' suddiviso.
+
+3.
+                        
+                            
+                                Sono svolti in composizione plenaria i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    espressione dell'avviso in ordine agli schemi di regolamenti governativi, previsti dall'articolo 3, comma 2-bis, del decreto-legge 29 marzo 1995, n. 97, convertito, con modificazioni, dalla legge 30 maggio 1995, n. 203;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' consultiva in ordine ai compiti di cui alle lettere a) e b) del comma 1, che, per la propria generalita' ed interdisciplinarieta', richieda un esame collettivo dei rappresentanti dei diversi settori dello spettacolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgimento di attivita' consultiva espressamente sollecitata dall'autorita' di Governo competente in materia di spettacolo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compiti espressamente affidati dalla legge al comitato per i problemi dello spettacolo nonche' ogni altro compito gia' attribuito al Consiglio nazionale dello spettacolo, e attribuito al comitato dall'articolo 1 del decreto legislativo 8 gennaio 1998, n. 3.
 
 ## Art. 9.
 
@@ -74,6 +382,31 @@ Il verbale e' approvato nella successiva seduta del comitato.
 ## Art. 10.
 
 Le sezioni del comitato per i problemi dello spettacolo sono rispettivamente competenti per la musica, la danza, la prosa, il cinema, le attivita' circensi e lo spettacolo viaggiante.
+
+2.
+                        
+                            
+                                Ciascuna sezione, per il settore di propria competenza, svolge i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    espressione del proprio avviso al comitato in composizione plenaria in ordine agli schemi dei regolamenti di cui al comma 3, lettera a), dell'articolo 8, ai fini dell'attivita' del comitato medesimo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' consultiva, nell'ambito dei compiti di cui alle lettere a) e b) del comma 1, dell'articolo 8, relativa a problemi inerenti esclusivamente al settore di competenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' consultiva settoriale espressamente sollecitata dall'Autorita' di Governo competente in materia di spettacolo.
 
 ## Art. 11.
 

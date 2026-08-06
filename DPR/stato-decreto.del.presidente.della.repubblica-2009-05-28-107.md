@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2013-01-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,31 @@ Attesa la necessita' di dare esecuzione al comma 989 sopracitato mediante la rif
 Udito il parere del Consiglio di Stato, espresso dalla sezione Consultiva per gli atti normativi nell'adunanza del 6 aprile 2009;
 
 ## Art. 1. — Tassa di ancoraggio
+
+1.
+                    
+                        
+                            Le navi nazionali, le navi estere equiparate alle nazionali in virtu' di trattati, nonche' le navi operate da compagnie di navigazione di Stati con i quali l'Unione europea abbia stipulato accordi di navigazione e di trasporto marittimo, ancorche' non battano la bandiera di detti Stati, che compiono operazioni commerciali in un porto, rada o spiaggia dello Stato o negli ambiti richiamati al successivo articolo 3, comma 1, sono soggette al pagamento di una tassa di ancoraggio per ogni tonnellata di stazza netta, nella seguente misura: 
+ 
+                        
+                        
+                            a)
+                            
+                                euro 0,09 per ogni tonnellata eccedente le prime 50, se hanno una stazza netta non superiore a 200 tonnellate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                euro 0,14 se hanno una stazza netta superiore a 200 e fino a 350 tonnellate, ovvero se, avendo una stazza superiore a 350 tonnellate, navigano esclusivamente tra i porti dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                euro 0,72 se hanno una stazza netta superiore a 350 tonnellate e provengono o sono dirette all'estero.
 
 Per le navi di stazza netta superiore a 350 tonnellate in provenienza o a destinazione di porti situati al di fuori dell'Unione europea, aventi merci in coperta ovvero nelle sovrastrutture, la stazza delle quali non sia gia' compresa nella stazza lorda, la tassa di ancoraggio di cui al comma 1 si applica altresi', in occasione dell'approdo nei porti, rade, spiagge dello Stato o negli ambiti di cui al successivo articolo 3, comma 1, ovvero in occasione del primo giorno di imbarco di tali merci, alle tonnellate di stazza corrispondenti allo spazio occupato dalle merci suddette secondo le norme vigenti sulla stazzatura delle navi, nella misura di cui al comma 1, lettera c), con la sola eccezione delle esenzioni previste per le navi dagli articoli 20 e 21 della legge 9 febbraio 1963, n. 82.
 

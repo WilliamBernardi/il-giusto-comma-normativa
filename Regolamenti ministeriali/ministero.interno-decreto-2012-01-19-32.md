@@ -8,8 +8,8 @@ codice_redazionale: 012G0052
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,6 +59,66 @@ Per le finalita' di cui ai precedenti commi 1 e 2, e' utilizzato anche il codice
 
 ## Art. 3. — Caratteristiche
 
+1.
+                    
+                        
+                            Nell'INA sono contenuti i dati che consentono la corretta ed univoca associazione tra cittadino e comune di residenza, nonche' l'acquisizione delle seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                Cognome; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Nome; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Luogo e data di nascita; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Codice fiscale attribuito dall'Agenzia delle Entrate; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Codice ISTAT del Comune di ultima residenza e codice Istat della sezione di censimento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Cittadinanza (denominazione dello Stato); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Famiglia anagrafica (componenti della famiglia, relazione di parentela o di affinita'); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Indirizzo anagrafico (specie e denominazione del toponimo, numero civico, data di decorrenza della residenza).
+
 ## Art. 4. — Costituzione e aggiornamento
 
 L'INA e' costituito ed aggiornato sulla base delle informazioni contenute nelle anagrafi di tutti i comuni italiani, con il codice fiscale validato dall'Agenzia delle Entrate.
@@ -75,6 +135,66 @@ Qualora l'errore non sia imputabile al comune di residenza, quest'ultimo ne info
 
 ## Art. 5. — Soggetti fornitori e/o fruitori dei servizi
 
+1.
+                    
+                        
+                            Ai servizi di cui all'articolo 6, e ai dati resi disponibili dall'INA accedono, in modalita' telematica, tramite il Centro Nazionale per i Servizi Demografici, secondo quanto previsto nell'allegato tecnico di cui al successivo articolo 8: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Ministero dell'interno - Direzione Centrale per i Servizi Demografici, ai fini del migliore espletamento della vigilanza sulla tenuta delle anagrafi comunali e del rilascio della carta di identita' elettronica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le Prefetture - Uffici Territoriali del Governo, le Questure e le altre strutture centrali e territoriali del Ministero dell'interno, per l'espletamento dei propri compiti istituzionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ISTAT per la produzione dell'informazione statistica ufficiale e per la verifica della qualita' statistica dei dati di fonte amministrativa, utile anche ai fini della vigilanza anagrafica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'Agenzia delle Entrate per l'attribuzione, l'aggiornamento e la validazione dei codici fiscali e per la corretta individuazione dei dati anagrafici e di residenza dei cittadini; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il Ministero degli affari esteri, per l'aggiornamento dell'AIRE e dell'elenco unico aggiornato dei cittadini italiani residenti all'estero, di cui all'articolo 5, comma 1 della legge 27 dicembre 2001, n. 459; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i Comuni, per il popolamento e l'aggiornamento dell'INA, per verificare la coerenza, a livello nazionale, dei cittadini iscritti nella propria anagrafe, rispetto ai cittadini iscritti nelle altre anagrafi comunali, fermo restando quanto previsto dalla lettera g); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ogni altra amministrazione pubblica in relazione a specifiche finalita' previste da legge o da regolamento; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli organismi che esercitano attivita' di prelievo contributivo e fiscale o erogano servizi di pubblica utilita', di cui all'articolo 2, comma 3 del decreto-legge 15 gennaio 1993, n. 6, convertito nella legge 17 marzo 1993, n. 63, ai fini della corretta individuazione della residenza anagrafica dei cittadini e della semplificazione del servizio pubblico.
+
 L'autorizzazione per l'utilizzo dei servizi INA da parte dei soggetti di cui alle lettere b), c), d), e), g), h) del precedente comma 1, e' subordinata alle modalita' concordate con il Ministero dell'interno - Direzione Centrale per i Servizi Demografici ed individuate da un'apposita convenzione, nella quale sono specificati i presupposti di legge o di regolamento.
 
 L'accesso ai dati contenuti nell'INA e' gratuito ai sensi di quanto previsto all'articolo 58 del decreto legislativo 7 marzo 2005, n. 82, salvo il riconoscimento dei costi derivanti da elaborazioni aggiuntive.
@@ -84,6 +204,32 @@ L'accesso ai servizi resi disponibili dall'INA e' assicurato, in collegamento te
 ## Art. 6. — Servizi di interscambio e di cooperazione
 
 I servizi di interscambio e di cooperazione dell'INA hanno l'obiettivo di garantire una efficace realizzazione delle finalita' di cui all'articolo
+
+2.
+                    
+                        
+                            La sicurezza, e l'integrita' delle informazioni scambiate tra i soggetti fornitori e/o fruitori di cui all'articolo 5 comma 1 sono assicurate attraverso il Backbone di sicurezza del CNSD, che certifica lo scambio e la certezza dei punti di origine e di destinazione delle comunicazioni, secondo le modalita' indicate nell'allegato tecnico di cui al successivo articolo 8. 
+ 2. I servizi di interscambio e cooperazione dell'INA riguardano: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati anagrafici trasmessi dall'INA in risposta alle richieste inoltrate, tramite l'INA, da parte dei soggetti di cui all'articolo 5, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le variazioni anagrafiche trasmesse dai comuni all'INA e da quest'ultimo inviate ai soggetti di cui all'articolo 5, comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dati contenuti nell'INA e quelli concernenti le variazioni anagrafiche per le rilevazioni statistiche sulla popolazione residente, notificati dai comuni all'ISTAT, secondo le modalita' stabilite d'intesa con l'ISTAT.
 
 Le informazioni anagrafiche inviate dai comuni all'INA, tramite l'infrastruttura Backbone di sicurezza del CNSD, hanno valore ufficiale e sostituiscono gli altri collegamenti telematici e le altre forme di comunicazione, anche di tipo tradizionale, con i soggetti di cui al precedente articolo 5, comma 1, fatte salve le esigenze di completezza e qualita' delle informazioni statistiche derivanti dalle normative internazionali, europee e nazionali.
 

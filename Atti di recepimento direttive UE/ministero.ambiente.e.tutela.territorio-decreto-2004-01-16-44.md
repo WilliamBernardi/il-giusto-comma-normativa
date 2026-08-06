@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2017-12-19
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -49,6 +49,166 @@ Il presente decreto disciplina, in attuazione della direttiva 99/13/CE e dell'ar
  Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "adesivo": qualsiasi preparato, compresi tutti i solventi organici o i preparati contenenti solventi organici necessari per una sua corretta applicazione, usato per far aderire parti separate di un prodotto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "autorita' competente": le autorita' competenti al rilascio dell'autorizzazione ai sensi del decreto del Presidente della Repubblica n. 203 del 1988, fatto salvo quanto previsto dal decreto legislativo 4 agosto 1999, n. 372; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "autorizzazione": il provvedimento di autorizzazione rilasciato dall'autorita' competente ai sensi del decreto del Presidente della Repubblica n. 203 del 1988 ovvero del decreto legislativo n. 372 del 1999; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "capacita' nominale": la massa giornaliera massima teorica di solventi organici immessi in un impianto, se l'impianto funziona in condizioni di esercizio normale e alla potenzialita' di prodotto prevista a livello di progetto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "composto organico": qualsiasi composto contenente almeno l'elemento carbonio e uno o piu' degli elementi seguenti: idrogeno, alogeni, ossigeno, zolfo, fosforo, silicio o azoto, ad eccezione degli ossidi di carbonio e dei carbonati e bicarbonati inorganici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "composto organico volatile (COV)": qualsiasi composto organico che abbia a 293,15 K una pressione di vapore di 0,01 kPa o superiore, oppure che abbia una volatilita' corrispondente in condizioni particolari di uso. Ai fini del presente decreto, e' considerata come un COV, la frazione di creosoto che alla temperatura di 293,15 K ha una pressione di vapore superiore a 0,01 kPa; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "condizioni di confinamento": le condizioni nelle quali un impianto e' gestito in maniera tale che i COV rilasciati dall'attivita' sono captati ed emessi in modo controllato mediante un camino o un dispositivo di abbattimento e non sono, quindi, completamente diffusi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                "condizioni normali": una temperatura di 273,15 K ed una pressione di 101,3 kPa; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "consumo": il quantitativo totale di solventi organici utilizzato in un impianto per anno civile ovvero per qualsiasi altro periodo di dodici mesi, detratto qualsiasi COV recuperato per riutilizzo; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "emissione": qualsiasi scarico di composti organici volatili da un impianto nell'ambiente; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                "emissioni diffuse": qualsiasi emissione nell'aria, nel suolo e nell'acqua di composti organici volatili, ad esclusione delle emissioni contenute negli scarichi gassosi, nonche' i solventi contenuti in qualsiasi prodotto, fatte salve indicazioni diverse contenute nell'allegato II. Sono comprese le emissioni non convogliate rilasciate nell'ambiente esterno attraverso finestre, porte, sfiati e aperture similari; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                "emissioni totali": la somma delle emissioni diffuse e delle emissioni negli scarichi gassosi; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                "esercizio normale": tutti i periodi di funzionamento di un impianto o di un'attivita', ad eccezione delle operazioni di avviamento, di arresto e di manutenzione delle attrezzature; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                "flusso di massa": la quantita' di COV rilasciata, espressa in unita' di massa/ora; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                "gestore": qualsiasi persona fisica o giuridica che detiene o gestisce l'impianto; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                "impianto": un'unita' tecnica permanente in cui sono svolte una o piu' attivita' di cui all'allegato I e qualsiasi altra attivita' direttamente associata che sia tecnicamente connessa con le attivita' svolte nel sito e possa influire sulle emissioni; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                "impianto esistente": un impianto per il quale l'autorizzazione e' stata rilasciata prima della data di entrata in vigore del presente decreto. Si considerano, altresi', esistenti gli impianti a ciclo chiuso di pulizia a secco di pellami, escluse le pellicce, e di tessuti, nonche' le pulitintolavanderie a ciclo chiuso, in esercizio alla data di entrata in vigore del presente decreto conformemente alla normativa vigente, che, entro 12 mesi dalla suddetta data, comunicano alla regione di avvalersi dell'autorizzazione generale da emanarsi ai sensi dell'articolo 9, comma 2; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                "inchiostro": un preparato, compresi tutti i solventi organici o i preparati contenenti i solventi organici necessari per una sua corretta applicazione, usato in un'attivita' di stampa per imprimere testi o immagini su una superficie; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                "input": la quantita' di solventi organici e la loro quantita' nei preparati utilizzati nello svolgimento di un'attivita', inclusi i solventi recuperati all'interno e all'esterno dell'impianto, che devono essere registrati ogni qualvolta vengono riutilizzati per svolgere l'attivita'; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                "media oraria": la media aritmetica delle misure istantanee valide campionate nel corso dell'ora trascorsa; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                "media di 24 ore": la media aritmetica dei valori orari validi rilevati dalle ore 00:00:01 alle ore 24:00:00 (hh:mm:ss) in condizioni di esercizio normale; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                "migliori tecniche disponibili": la piu' efficiente e avanzata fase di sviluppo di attivita' e i relativi metodi di esercizio indicanti l'idoneita' pratica di determinate tecniche a costituire, in linea di massima, la base dei valori limite di emissione intesi ad evitare oppure, ove cio' si riveli impossibile, a ridurre in modo generale le emissioni e l'impatto sull'ambiente nel suo complesso. Nel determinare le migliori tecniche disponibili occorre tenere conto in particolare degli elementi di cui all'allegato IV del decreto legislativo n. 372 del 1999. 
+ In particolare, si intende per: 
+ 1. "tecniche": sia le tecniche impiegate, sia le modalita' di progettazione, di costruzione, di manutenzione, di esercizio e di chiusura dell'impianto;
 
 "disponibili": le tecniche sviluppate su una scala che ne consente l'applicazione in condizioni economicamente e tecnicamente valide nell'ambito del pertinente comparto industriale, prendendo in considerazione i costi e i vantaggi, indipendentemente dal fatto che siano o meno applicate o prodotte in ambito nazionale, purche' il gestore possa averne accesso a condizioni ragionevoli;
 
@@ -147,6 +307,31 @@ In alternativa alle apparecchiature di cui al comma 2, l'autorita' competente pu
 
 ## Art. 5. — Conformita' ai valori limite di emissione
 
+1.
+                    
+                        
+                            Il gestore dimostra all'autorita' competente la conformita' dell'impianto: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai valori limite di emissione negli scarichi gassosi, ai valori limite per le emissioni diffuse e ai valori limite di emissione totale, in quanto autorizzati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'emissione totale annua autorizzata per l'intero impianto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle disposizioni dell'articolo 3, commi 5 e 6 ove applicabili.
+
 Al fine di cui al comma 1, il gestore effettua, per quanto prescritto dall'autorizzazione, misurazioni di COV continue o periodiche negli scarichi gassosi, come previsto all'articolo 4, comma 2, ed elabora e aggiorna, con la periodicita' prevista dall'autorizzazione ed almeno una volta all'anno, un piano di gestione dei solventi, secondo le indicazioni contenute nell'allegato IV. Il gestore determina la concentrazione di massa dell'inquinante negli scarichi gassosi, in conformita' alle disposizioni dell'articolo 3, comma 3, del decreto 12 luglio 1990.
 
 Ai nuovi impianti e alle modifiche sostanziali, come definiti nel presente decreto, si applicano le disposizioni dell'articolo 8 del decreto del Presidente della Repubblica n. 203 del 1988.
@@ -158,6 +343,24 @@ Per le misurazioni periodiche la conformita' ai valori limite di emissione negli
 La conformita' alle disposizioni dell'articolo 3, commi 10 e 11, e' verificata sulla base della somma delle concentrazioni di massa dei singoli COV interessati. In tutti gli altri casi, ove non altrimenti specificato nell'allegato II, si prende come riferimento la massa totale di carbonio organico emesso.
 
 Durante i periodi di avviamento e di arresto degli impianti e nel caso di cui al comma 8, non si applicano i valori limite di emissione. Il gestore deve, comunque, adottare tutte le precauzioni opportune per ridurre al minimo le emissioni durante tali periodi.
+
+8.
+                    
+                        
+                            Qualora il gestore accerti che, a seguito di malfunzionamenti o avarie, un valore limite di emissione e' superato: 
+ 
+                        
+                        
+                            a)
+                            
+                                informa tempestivamente l'autorita' competente e adotta le misure necessarie per garantire un tempestivo ripristino della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospende l'esercizio dell'attivita' fino a che la conformita' non e' ripristinata, se la violazione causa un pericolo immediato per la salute umana.
 
 L'autorita' competente stabilisce nell'autorizzazione specifiche prescrizioni per i casi di cui ai commi 7 e 8.
 

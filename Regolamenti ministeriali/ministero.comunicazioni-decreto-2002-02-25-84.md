@@ -8,8 +8,8 @@ codice_redazionale: 002G0111
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -21,11 +21,149 @@ Udito il parere del Consiglio di Stato n. 205/2001, reso nell'adunanza della sez
 
 ## Art. 1. — Finalita'
 
+1.
+                    
+                        
+                            Il presente regolamento disciplina:
+ 
+                        
+                        
+                            a)
+                            
+                                la procedura di rilascio dell'accreditamento dei laboratori che svolgono prove su apparecchiature radio ed apparecchiature terminali di telecomunicazioni, di cui il Ministero delle comunicazioni puo' avvalersi ai fini della sorveglianza sul mercato prevista dall'articolo 9 del decreto legislativo 9 maggio 2001, n. 269;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rinnovo dell'accreditamento stesso.
+
 ## Art. 2. — Presentazione della domanda
 
 La domanda, intesa ad ottenere l'accreditamento di cui all'articolo 1, puo' essere presentata soltanto da un organismo pubblico o da una impresa iscritta alla Camera di commercio, industria, artigianato e agricoltura.
 
+2.
+                    
+                        
+                            La domanda, in carta bollata e firmata dal legale rappresentante del laboratorio di prova, deve essere inviata al Ministero delle comunicazioni, direzione generale per la regolamentazione e la qualita' dei servizi (viale America, 201 - 00144 Roma), di seguito indicata come "direzione"; essa deve contenere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nome o ragione sociale del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                residenza o sede del richiedente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nome del laboratorio candidato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sede del laboratorio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                norme tecniche europee, norme armonizzate e norme tecniche nazionali per le quali si richiede l'accreditamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                nome del responsabile dei rapporti con la direzione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                nome del sostituto del responsabile dei rapporti con la direzione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                dichiarazione di impegno a sostenere le spese relative all'accreditamento del laboratorio;
+
+                            
+                        
+                        
+                            i)
+                            
+                                elenco degli allegati;
+
+                            
+                        
+                        
+                            j)
+                            
+                                dichiarazione di osservanza di quanto richiesto dall'articolo 9, comma 4, del decreto legislativo n. 269 del 2001;
+
+                            
+                        
+                        
+                            k)
+                            
+                                firma del richiedente.
+
 Per ogni laboratorio, anche se appartenente alla stessa organizzazione, e' presentata una domanda distinta.
+
+4.
+                    
+                        
+                            Il richiedente deve allegare alla domanda:
+ 
+                        
+                        
+                            a)
+                            
+                                ove la richiesta provenga da un organismo pubblico, un attestato comprovante tale natura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un certificato di iscrizione alla Camera di commercio, industria, artigianato e agricoltura qualora si configuri come impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                una polizza di assicurazione per responsabilita' civile con massimale non inferiore a tre miliardi di lire per rischi derivanti dall'esercizio di valutazione tecnica; detta polizza non e' prodotta nel caso in cui il richiedente e' un organismo pubblico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                una dichiarazione attestante l'indipendenza del laboratorio dalle linee di produzione, di gestione o di vendita nell'ipotesi che il laboratorio stesso sia inserito in una di tali linee;
+
+                            
+                        
+                        
+                            e)
+                            
+                                due copie del manuale della qualita', redatto secondo le norme UNI-CEI EN 45001 e secondo la guida UNI-CEI 70012, contenenti, rispettivamente, i requisiti minimi a cui deve soddisfare un laboratorio di prova e le linee guida per la compilazione del manuale della qualita'.
 
 ## Art. 3. — Istruttoria della domanda
 
@@ -71,6 +209,31 @@ Nel caso in cui il rapporto di valutazione degli ispettori e' negativo, la direz
 ## Art. 7. — Corrispettivi
 
 L'interessato al rilascio dell'accreditamento e' tenuto a corrispondere le spese amministrative secondo le disposizioni recate dal decreto del Ministro delle poste e delle telecomunicazioni 5 settembre 1995, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 273 del 22 novembre 1995.
+
+2.
+                    
+                        
+                            Il pagamento delle somme dovute ai sensi del presente regolamento puo' essere effettuato con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                versamento diretto presso la sezione di tesoreria provinciale dello Stato di Roma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                versamento in conto corrente postale intestato alla sezione di tesoreria provinciale dello Stato di Roma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                versamento con vaglia postale intestato alla sezione di tesoreria provinciale dello Stato di Roma.
 
 La causale del versamento deve contenere anche il codice fiscale dell'interessato nonche' l'indicazione che l'importo deve essere acquisito all'entrata del bilancio dello Stato, capitolo 2569, articolo 11.
 

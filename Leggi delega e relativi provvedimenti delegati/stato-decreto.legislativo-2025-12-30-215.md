@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-12-30;215
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,31 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di coesione e del Ministro della giustizia, di concerto con i Ministri dell'interno, degli affari esteri e della cooperazione internazionale, della difesa e dell'economia e delle finanze;
 
 ## Art. 1. — Oggetto e ambito di applicazione
+
+1.
+                    
+                        
+                            Il presente decreto stabilisce le norme necessarie ad adeguare l'ordinamento giuridico nazionale alle disposizioni del regolamento (UE) 2023/1543 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo agli ordini europei di produzione e agli ordini europei di conservazione di prove elettroniche nei procedimenti penali e per l'esecuzione di pene detentive a seguito di procedimenti penali, di seguito denominato «regolamento», con particolare riferimento alla individuazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle autorita' competenti per l'emissione, la convalida e la trasmissione degli ordini europei di produzione e degli ordini europei di conservazione o delle relative notifiche, ai sensi dell'articolo 4 del regolamento, e delle relative procedure; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle autorita' giudiziarie competenti per la ricezione, ai fini della notifica e della esecuzione, di un ordine europeo di produzione e di un certificato di ordine europeo di produzione (EPOC) o di un ordine europeo di conservazione e di un certificato di ordine europeo di conservazione (EPOC-PR) nonche' delle autorita' giudiziarie competenti per l'esecuzione ai sensi dell'articolo 16 del regolamento e delle relative procedure; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle autorita' giudiziarie competenti e delle procedure per il riesame delle obiezioni motivate dei destinatari degli ordini europei di produzione, conformemente all'articolo 17 del regolamento.
 
 ## Art. 2. — Emissione degli ordini europei di produzione
 
@@ -53,6 +78,24 @@ Nel corso delle indagini preliminari, quando ricorre un caso di emergenza ai sen
 Quando l'ordine europeo di conservazione e' emesso in relazione a taluno dei delitti di cui agli articoli 51, commi 3-bis e 3-quater, e 371-bis, comma 4-bis, del codice di procedura penale, ovvero dei delitti di cui all'articolo 118-bis delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, copia dell'EPOC-PR e' trasmessa, ai fini del coordinamento investigativo, rispettivamente al procuratore nazionale antimafia e antiterrorismo e al procuratore generale presso la corte di appello.
 
 ## Art. 4. — Procedura accelerata
+
+1.
+                    
+                        
+                            Nel corso delle indagini preliminari, quando ricorrono particolari ragioni di urgenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ordine di produzione per ottenere i dati di cui all'articolo 3, punti 11) e 12), del regolamento e' emesso dal pubblico ministero, ma l'efficacia e' subordinata alla previa convalida del giudice per le indagini preliminari cui l'ordine e' trasmesso entro ventiquattro ore dall'emissione. Il giudice decide sulla convalida entro le successive quarantotto ore previo accertamento della conformita' dell'ordine alle condizioni di emissione e, in caso di convalida, trasmette l'EPOC in conformita' all'articolo 9 del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ordine di produzione per ottenere i dati di cui all'articolo 3, punti 9) e 10), del regolamento e' emesso da ufficiali di polizia giudiziaria, ma l'efficacia e' subordinata alla previa convalida del pubblico ministero presso il giudice competente cui l'ordine e' trasmesso entro ventiquattro ore dall'emissione. Il pubblico ministero decide sulla convalida entro le successive quarantotto ore previo accertamento della conformita' dell'ordine alle condizioni di emissione e, in caso di convalida, trasmette l'EPOC in conformita' all'articolo 9 del regolamento.
 
 Nei medesimi casi di cui al comma 1, l'ordine europeo di conservazione e' emesso da ufficiali di polizia giudiziaria, ma l'efficacia e' subordinata alla previa convalida del pubblico ministero presso il giudice competente cui l'ordine e' trasmesso entro ventiquattro ore dall'emissione. Il pubblico ministero decide sulla convalida entro le successive quarantotto ore previo accertamento della conformita' dell'ordine alle condizioni di emissione e, in caso di convalida, trasmette l'EPOC-PR in conformita' all'articolo 9 del regolamento.
 
@@ -95,6 +138,53 @@ Il Ministero della giustizia e' competente per la registrazione, l'elaborazione 
 L'autorita' giudiziaria trasmette al Ministero della giustizia, a fini statistici, i dati di cui all'articolo 28, paragrafo 2, del regolamento.
 
 ## Art. 9. — Disposizioni di coordinamento
+
+1.
+                    
+                        
+                            All'articolo 132 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, dopo le parole: «dei fatti» sono inserite le seguenti: «ovvero per le ricerche di un latitante»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3-bis, dopo le parole: «alle indagini» sono inserite le seguenti: «ovvero alle ricerche di un latitante»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3-bis, sono inseriti i seguenti: 
+ «3.bis.1. Il pubblico ministero puo' ordinare con decreto motivato ai fornitori e agli operatori di servizi telefonici, informatici o telematici, di conservare e proteggere, secondo le modalita' indicate e per un periodo non superiore a novanta giorni, i dati relativi al traffico telefonico e telematico, esclusi comunque i contenuti delle comunicazioni, nonche' i dati relativi alle chiamate senza risposta. Il provvedimento, prorogabile, per motivate esigenze, per una durata complessiva non superiore a sei mesi, puo' prevedere particolari modalita' di custodia dei dati e l'eventuale indisponibilita' dei dati stessi da parte dei fornitori e degli operatori di servizi telefonici, informatici o telematici ovvero di terzi. 
+ 3. bis.2. Le disposizioni di cui ai commi 3 e 3-bis non si applicano all'acquisizione dei dati relativi agli abbonati. Per dati relativi agli abbonati si intendono i dati detenuti da un prestatore di servizi relativi all'abbonamento ai suoi servizi, riguardanti: 
+ a) l'identita' di un abbonato o di un cliente, come il nome, la data di nascita, l'indirizzo postale o geografico, i dati di fatturazione e pagamento, il numero di telefono o l'indirizzo e-mail forniti; 
+ b) il tipo di servizio e la sua durata, compresi i dati tecnici e i dati che identificano le misure tecniche correlate o le interfacce usate dall'abbonato o dal cliente o a questo fornite al momento della registrazione o dell'attivazione iniziale e i dati connessi alla convalida dell'uso del servizio, ad esclusione di password o altri mezzi di autenticazione usati al posto di una password, forniti dall'utente o creati a sua richiesta. 
+ 3.bis.3. All'acquisizione dei dati relativi agli abbonati provvede il pubblico ministero ovvero la polizia giudiziaria, di propria iniziativa o a seguito di delega del pubblico ministero, ai sensi dell'articolo 348 del codice di procedura penale.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4-ter: 
+ 1) al primo periodo, dopo le parole: «di servizi» e' inserita la seguente: «telefonici,», dopo le parole: «al traffico» sono inserite le seguenti: «telefonico e» e dopo la parola: «comunicazioni,» sono inserite le seguenti: «nonche' i dati relativi alle chiamate senza risposta,»; 
+ 2) dopo il primo periodo e' inserito il seguente: «In tale ultimo caso, l'ordine di cui al primo periodo puo' essere emesso anche da ufficiali di polizia giudiziaria.»; 
+ 3) al secondo periodo, dopo le parole: «di servizi» e' inserita la seguente: «telefonici,»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4-quater, primo e secondo periodo, dopo le parole: «di servizi» e' inserita la seguente: «telefonici,».
 
 Dopo l'articolo 263 del codice di procedura penale, e' inserito il seguente: 
  «Art. 263-bis (Ordine di conservazione di dati). - 1. Nel corso delle indagini preliminari il pubblico ministero puo' ordinare, con decreto motivato, ai fornitori e agli operatori di servizi informatici, telematici o di telecomunicazioni, di conservare e proteggere, secondo le modalita' indicate e per un periodo non superiore a novanta giorni, i dati da questi detenuti. Il provvedimento, prorogabile, per motivate esigenze, per una durata complessiva non superiore a sei mesi, puo' prevedere particolari modalita' di custodia dei dati e l'eventuale indisponibilita' dei dati stessi da parte dei fornitori e degli operatori di servizi informatici, telematici o di telecomunicazioni ovvero di terzi. 

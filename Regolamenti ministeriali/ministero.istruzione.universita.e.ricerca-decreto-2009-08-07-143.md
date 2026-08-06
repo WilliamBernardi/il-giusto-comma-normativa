@@ -8,8 +8,8 @@ codice_redazionale: 009G0152
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,24 @@ Il tirocinio professionale e' svolto con assiduita', diligenza, riservatezza e n
 Per assiduita' si intende la frequenza continua dello studio del professionista, sotto la supervisione diretta di quest'ultimo. Tale requisito si ritiene rispettato se il tirocinante e' presente presso lo studio o comunque opera sotto la diretta supervisione del professionista, per almeno 20 ore settimanali nel normale orario di funzionamento dello studio stesso, salvo quanto previsto dall'articolo 6. Per diligenza si intende la cura attenta e scrupolosa nello svolgimento del tirocinio. Per riservatezza si intende l'adozione di un comportamento discreto e corretto, nonche' il mantenimento del massimo riserbo su tutte le notizie ed informazioni acquisite nel corso del tirocinio.
 
 Il tirocinio si svolge presso lo studio o comunque sotto la supervisione ed il controllo diretto di un professionista iscritto all'albo dei dottori commercialisti e degli esperti contabili e comporta la collaborazione allo svolgimento delle attivita' proprie della professione.
+
+4.
+                    
+                        
+                            In considerazione delle competenze specifiche in economia aziendale e diritto d'impresa e nelle materie economiche, finanziarie, tributarie, societarie ed amministrative, attribuite agli iscritti nell'albo dei dottori commercialisti e degli esperti contabili dall'articolo 1 del decreto legislativo 28 giugno 2005, n. 139, il tirocinio ha per oggetto le seguenti attivita' professionali:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'accesso alla sezione A dell'albo - Commercialisti -, le attivita' di cui ai commi 3 e 4 dell'articolo 1 del decreto legislativo n. 139 del 2005;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'accesso alla sezione B dell'albo - Esperti contabili -, le attivita' di cui al comma 4 dell'articolo 1 del decreto legislativo n. 139 del 2005.
 
 Il tirocinio professionale e' svolto presso un professionista iscritto da almeno cinque anni all'albo e che ha assolto l'obbligo di formazione professionale continua nell'ultimo triennio certificato dall'Ordine. L'anzianita' quinquennale deve essere maturata all'atto della presentazione della domanda di iscrizione al registro dei tirocinanti o, in caso di variazione, alla data di comunicazione del nuovo professionista presso cui viene proseguito il tirocinio.
 
@@ -66,6 +84,66 @@ Coloro che sono in possesso di uno dei titoli di cui al comma 4 dell'articolo 40
 
 Coloro che sono in possesso di uno dei titoli di cui al comma 5 dell'articolo 40 del decreto legislativo n. 139 del 2005, e svolgono il tirocinio previsto dall'articolo 1, sono iscritti nel registro del tirocinio, sezione «esperti contabili», tenuto dal Consiglio dell'ordine nella cui circoscrizione e' iscritto il dottore commercialista, il ragioniere commercialista o l'esperto contabile presso il quale e' svolto il tirocinio.
 
+3.
+                    
+                        
+                            Ciascuna delle due sezioni del registro del tirocinio contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' complete dei tirocinanti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione della data di inizio del tirocinio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione dello studio professionale presso il quale e' svolto il tirocinio e gli eventuali cambiamenti intervenuti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione dei trasferimenti presso altri ordini;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione delle sospensioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione delle cancellazioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'indicazione dei provvedimenti disciplinari irrogati;
+
+                            
+                        
+                        
+                            h)
+                            
+                                qualsiasi altra informazione che il Consiglio dell'ordine ritiene opportuna.
+
 Ciascun ordine territoriale stabilisce la tassa per l'iscrizione nel registro del tirocinio, nel rispetto dei limiti massimi fissati dal Consiglio nazionale dei dottori commercialisti e degli esperti contabili.
 
 ## Art. 6. — Iscrizione nel registro del tirocinio in presenza
@@ -84,6 +162,73 @@ Il tirocinante e' iscritto nella sezione «tirocinanti commercialisti» a seguit
 Al tirocinante che svolge il tirocinio in base ad una convenzione universitaria e' richiesta la frequenza presso il professionista, tenuto conto delle modalita' stabilite nella convenzione stessa. In tale ipotesi, la dichiarazione di cui all'articolo 7, comma 1, lettera g), deve indicare, anziche' l'orario di frequenza giornaliera, l'impegno a garantire il rispetto del numero di ore previsto nella predetta convenzione.
 
 ## Art. 7. — Modalita' di iscrizione nel registro del tirocinio
+
+1.
+                    
+                        
+                            La domanda per l'iscrizione nel registro del tirocinio e' presentata al Consiglio dell'ordine nella cui circoscrizione e' iscritto il professionista presso il quale e' svolto il tirocinio e ad essa sono allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                il certificato di nascita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il certificato generale del casellario giudiziale, di data non anteriore di tre mesi alla presentazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il certificato dei carichi pendenti rilasciato dalla competente procura della Repubblica presso il tribunale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il certificato comprovante il godimento del pieno esercizio dei diritti civili;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il certificato attestante il conseguimento del titolo di studio previsto dall'articolo 40, commi 4 e 5, del decreto legislativo n. 139 del 2005;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la dichiarazione di elezione del domicilio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione del professionista che, avendo ammesso il richiedente a frequentare il proprio studio, ne dia attestazione con indicazione della data di inizio del tirocinio, degli orari di frequenza giornaliera dello studio, nonche' del normale orario di funzionamento dello studio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la dichiarazione del praticante in merito all'eventuale sussistenza di rapporti di lavoro in corso all'atto dell'iscrizione nel registro del tirocinio con indicazione dei relativi orari;
+
+                            
+                        
+                        
+                            i)
+                            
+                                una dichiarazione del professionista di impegno deontologico alla formazione del tirocinante.
 
 Le certificazioni richieste possono essere sostituite con le dichiarazioni rese ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. La domanda di iscrizione deve essere sottoscritta dal tirocinante e contenere l'elenco dei documenti ad essa allegati.
 
@@ -115,6 +260,31 @@ Nel caso di interruzione del tirocinio, da comunicarsi entro trenta giorni al Co
 
 ## Art. 9. — Trasferimenti
 
+1.
+                    
+                        
+                            In caso di variazione del professionista presso cui e' svolto il tirocinio, il praticante comunica entro quindici giorni al Consiglio dell'ordine la variazione intervenuta, allegando:
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione di cui alla lettera g), comma 1, dell'articolo 7 rilasciata dal nuovo professionista;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attestazione di avvenuta cessazione del tirocinio predisposta a cura del professionista presso il quale il tirocinio e' stato svolto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il libretto del tirocinio debitamente compilato fino alla data di variazione e sottoscritto ai sensi dell'articolo 10.
+
 La mancata comunicazione di cui al comma 1, ovvero il mancato rispetto dei termini ivi previsti, viene valutata dal Consiglio dell'ordine ai fini sanzionatori ai sensi dell'articolo 13.
 
 Qualora il professionista presso il quale il praticante intende continuare il periodo di tirocinio sia iscritto in un Ordine territoriale diverso da quello nel quale risulta iscritto il praticante, quest'ultimo chiede di essere iscritto nel registro del tirocinio tenuto dall'Ordine territoriale presso il quale e' iscritto il professionista.
@@ -126,6 +296,24 @@ Nel caso di accoglimento della domanda di trasferimento, il praticante e' iscrit
 Si applicano alle domande di trasferimento le disposizioni dei commi 3, 4 e 5 dell'articolo 7.
 
 ## Art. 10. — Libretto del tirocinio
+
+1.
+                    
+                        
+                            L'iscritto nel registro dei praticanti tiene apposito libretto del tirocinio, preventivamente numerato e vistato dal presidente del Consiglio dell'ordine. Sul libretto debbono essere annotati in modo analitico:
+ 
+                        
+                        
+                            a)
+                            
+                                gli atti professionali piu' rilevanti alla cui predisposizione e redazione il praticante ha partecipato nel corso del semestre;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le questioni professionali di maggior rilievo trattate nel corso del semestre.
 
 Le annotazioni di cui al comma 1 sono riportate, per ogni semestre, in due apposite sezioni e sono eseguite in modo da non evidenziare elementi o riferimenti in grado di violare la riservatezza e la segretezza dei fatti oggetto della pratica.
 
@@ -147,6 +335,49 @@ Il Consiglio nazionale decide nel merito entro sessanta giorni dalla ricezione d
 
 ## Art. 12. — Cancellazione dal registro dei tirocinanti
 
+1.
+                    
+                        
+                            La cancellazione dal registro dei tirocinanti e' pronunciata dal Consiglio dell'ordine a seguito di rinuncia dell'iscritto, su richiesta del pubblico ministero, o d'ufficio nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di rilascio del certificato di compiuto tirocinio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al rilascio del nulla osta per trasferimento presso altro Ordine;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando l'iscritto si rende irreperibile.
+
+2.
+                    
+                        
+                            La cancellazione dal registro dei tirocinanti e' pronunciata dal Consiglio dell'ordine su richiesta del pubblico ministero o d'ufficio, previa audizione dell'interessato, nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                nei casi di interruzione previsti dal presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per perdita del pieno esercizio dei diritti civili.
+
 Le deliberazioni del Consiglio dell'ordine aventi ad oggetto i casi di cui al comma 1, lettera c), ed al comma 2 sono notificate, entro quindici giorni, all'interessato ed al pubblico ministero presso il tribunale. In caso di irreperibilita' la notificazione avviene mediante affissione nell'albo pretorio del tribunale.
 
 L'interessato ed il pubblico ministero possono proporre ricorso al Consiglio nazionale nel termine perentorio di trenta giorni dalla notificazione.
@@ -157,7 +388,138 @@ Il ricorso ha effetto sospensivo.
 
 In tutti i casi di violazione del presente regolamento, il tirocinante e' sottoposto al procedimento disciplinare di cui al regolamento del Consiglio nazionale emanato ai sensi dell'articolo 29, comma 1, lettera c), del decreto legislativo n. 139 del 2005.
 
+2.
+                    
+                        
+                            Al termine del procedimento disciplinare il Consiglio dell'ordine puo' irrogare le seguenti sanzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                censura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospensione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interruzione e cancellazione.
+
 La censura consiste in una dichiarazione formale di biasimo e consegue all'accertata inosservanza dei principi di riservatezza e di diligenza.
+
+4.
+                    
+                        
+                            La sospensione puo' essere irrogata per un periodo massimo di novanta giorni e consegue all'accertamento:
+ 
+                        
+                        
+                            a)
+                            
+                                del mancato rispetto dell'obbligo di assiduita' nello svolgimento del tirocinio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dell'irreperibilita' durante le verifiche telefoniche e/o dirette;
+
+                            
+                        
+                        
+                            c)
+                            
+                                del mancato deposito semestrale del libretto del tirocinio presso la segreteria del Consiglio dell'ordine nei termini di cui all'articolo 10, comma 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                della reiterata inosservanza del principio della riservatezza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                della reiterata inosservanza del principio di diligenza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                di comportamenti che non risultino consoni alla dignita', all'onore, al decoro e all'immagine della professione, anche al di fuori dell'esercizio della stessa.
+
+5.
+                    
+                        
+                            L'interruzione del tirocinio e la cancellazione del tirocinante conseguono all'accertamento:
+ 
+                        
+                        
+                            a)
+                            
+                                della reiterata irreperibilita' durante le verifiche telefoniche e/o dirette;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della mancata presentazione alle convocazioni per le verifiche periodiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                della mancata comunicazione al Consiglio dell'ordine delle variazioni intervenute nel periodo di tirocinio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dello svolgimento del tirocinio presso un professionista diverso da quello indicato senza averne data apposita comunicazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                del mancato pagamento della tassa per l'iscrizione nel registro del tirocinio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                delle mancate comunicazioni relative alle sospensioni di cui all'articolo 8;
+
+                            
+                        
+                        
+                            g)
+                            
+                                delle sospensioni del tirocinio non previste dall'articolo 8, commi 3 e 4;
+
+                            
+                        
+                        
+                            h)
+                            
+                                della non veridicita' del contenuto del libretto del tirocinio.
 
 Le sanzioni disciplinari sono annotate sul libretto del tirocinio.
 

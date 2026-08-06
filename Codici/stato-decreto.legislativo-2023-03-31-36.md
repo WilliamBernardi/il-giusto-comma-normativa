@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2026-04-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:38:34Z
+zip_date: 2026-08-04
+fetched_at: 2026-08-04
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,24 @@ Le stazioni appaltanti e gli enti concedenti perseguono il risultato dell'affida
 La concorrenza tra gli operatori economici e' funzionale a conseguire il miglior risultato possibile nell'affidare ed eseguire i contratti. La trasparenza e' funzionale alla massima semplicita' e celerita' nella corretta applicazione delle regole del presente decreto, di seguito denominato «codice» e ne assicura la piena verificabilita'.
 
 Il principio del risultato costituisce attuazione, nel settore dei contratti pubblici, del principio del buon andamento e dei correlati principi di efficienza, efficacia ed economicita'. Esso e' perseguito nell'interesse della comunita' e per il raggiungimento degli obiettivi dell'Unione europea.
+
+4.
+                        
+                            
+                                Il principio del risultato costituisce criterio prioritario per l'esercizio del potere discrezionale e per l'individuazione della regola del caso concreto, nonche' per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutare la responsabilita' del personale che svolge funzioni amministrative o tecniche nelle fasi di programmazione, progettazione, affidamento ed esecuzione dei contratti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attribuire gli incentivi secondo le modalita' previste dalla contrattazione collettiva.
 
 ## Art. 2. — Principio della fiducia
 
@@ -74,6 +92,38 @@ Le pubbliche amministrazioni organizzano autonomamente l'esecuzione di lavori o 
 Le stazioni appaltanti e gli enti concedenti possono affidare direttamente a societa' in house lavori, servizi o forniture, nel rispetto dei principi di cui agli articoli 1, 2 e 3. Le stazioni appaltanti e gli enti concedenti adottano per ciascun affidamento un provvedimento motivato in cui danno conto dei vantaggi per la collettivita', delle connesse esternalita' e della congruita' economica della prestazione, anche in relazione al perseguimento di obiettivi di universalita', socialita', efficienza, economicita', qualita' della prestazione, celerita' del procedimento e razionale impiego di risorse pubbliche. In caso di prestazioni strumentali, il provvedimento si intende sufficientemente motivato qualora dia conto dei vantaggi in termini di economicita', di celerita' o di perseguimento di interessi strategici. I vantaggi di economicita' possono emergere anche mediante la comparazione con gli standard di riferimento della societa' Consip S.p.a. e delle altre centrali di committenza, con i parametri ufficiali elaborati da altri enti regionali nazionali o esteri oppure, in mancanza, con gli standard di mercato.
 
 L'affidamento in house di servizi di interesse economico generale di livello locale e' disciplinato dal decreto legislativo 23 dicembre 2022, n. 201.
+
+4.
+                        
+                            
+                                La cooperazione tra stazioni appaltanti o enti concedenti volta al perseguimento di obiettivi di interesse comune non rientra nell'ambito di applicazione del codice quando concorrono tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    interviene esclusivamente tra due o piu' stazioni appaltanti o enti concedenti, anche con competenze diverse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantisce la effettiva partecipazione di tutte le parti allo svolgimento di compiti funzionali all'attivita' di interesse comune, in un'ottica esclusivamente collaborativa e senza alcun rapporto sinallagmatico tra prestazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determina una convergenza sinergica su attivita' di interesse comune, pur nella eventuale diversita' del fine perseguito da ciascuna amministrazione, purche' l'accordo non tenda a realizzare la missione istituzionale di una sola delle amministrazioni aderenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le stazioni appaltanti o gli enti concedenti partecipanti svolgono sul mercato aperto meno del 20 per cento delle attivita' interessate dalla cooperazione.
 
 ## Art. 8. — Principio di autonomia contrattuale. Divieto di prestazioni d'opera intellettuale a titolo gratuito
 
@@ -124,6 +174,24 @@ In caso di inadempienza contributiva risultante dal documento unico di regolarit
 
 ## Art. 12. — Rinvio esterno
 
+1.
+                        
+                            
+                                Per quanto non espressamente previsto nel codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle procedure di affidamento e alle altre attivita' amministrative in materia di contratti si applicano le disposizioni di cui alla legge 7 agosto 1990, n. 241; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla stipula del contratto e alla fase di esecuzione si applicano le disposizioni del codice civile.
+
 ## - - Titolo II L'ambito di applicazione, il responsabile unico e le fasi dell'affidamento.
 
 ## Art. 13. — Ambito di applicazione
@@ -144,6 +212,63 @@ Le disposizioni del codice si applicano, altresi', all'aggiudicazione dei lavori
 
 ## Art. 14. — Soglie di rilevanza europea e metodi di calcolo dell'importo stimato degli appalti. Disciplina dei contratti misti
 
+1.
+                        
+                            
+                                Per l'applicazione del codice le soglie di rilevanza europea sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 5.382.000 per gli appalti pubblici di lavori e per le concessioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 140.000 per gli appalti pubblici di forniture, di servizi e per i concorsi pubblici di progettazione aggiudicati dalle stazioni appaltanti che sono autorita' governative centrali indicate nell'allegato I alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014; se gli appalti pubblici di forniture sono aggiudicati da stazioni appaltanti operanti nel settore della difesa, questa soglia si applica solo agli appalti concernenti i prodotti menzionati nell'allegato III alla direttiva 2014/24/UE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    euro 215.000 per gli appalti pubblici di forniture, di servizi e per i concorsi pubblici di progettazione aggiudicati da stazioni appaltanti sub-centrali; questa soglia si applica anche agli appalti pubblici di forniture aggiudicati dalle autorita' governative centrali che operano nel settore della difesa, quando gli appalti concernono prodotti non menzionati nell'allegato III alla direttiva 2014/24/UE; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    euro 750.000 per gli appalti di servizi sociali e assimilati elencati all'allegato XIV alla direttiva 2014/24/UE.
+
+2.
+                        
+                            
+                                Nei settori speciali le soglie di rilevanza europea sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 5.382.000 per gli appalti di lavori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 431.000 per gli appalti di forniture, di servizi e per i concorsi pubblici di progettazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    euro 1.000.000 per i contratti di servizi, per i servizi sociali e assimilati elencati nell'allegato XIV alla direttiva 2014/24/UE.
+
 Le soglie di cui al presente articolo sono periodicamente rideterminate con provvedimento della Commissione europea, pubblicato nella Gazzetta ufficiale dell'Unione europea.
 
 Il calcolo dell'importo stimato di un appalto pubblico di lavori, servizi e forniture e' basato sull'importo totale pagabile, al netto dell'imposta sul valore aggiunto (IVA), valutato dalla stazione appaltante. Il calcolo tiene conto dell'importo massimo stimato, ivi compresa qualsiasi forma di eventuali opzioni o rinnovi del contratto esplicitamente stabiliti nei documenti di gara. Quando la stazione appaltante prevede premi o pagamenti per i candidati o gli offerenti, ne tiene conto nel calcolo dell'importo stimato dell'appalto.
@@ -156,7 +281,113 @@ L'importo stimato dell'appalto o concessione e' quantificato al momento dell'inv
 
 Per gli appalti pubblici di lavori il calcolo dell'importo stimato tiene conto dell'importo dei lavori stessi nonche' dell'importo complessivo stimato di tutte le forniture e servizi messi a disposizione dell'aggiudicatario dalla stazione appaltante, a condizione che siano necessari all'esecuzione dei lavori. L'importo delle forniture o dei servizi non necessari all'esecuzione di uno specifico appalto di lavori non puo' essere aggiunto all'importo dell'appalto di lavori in modo da sottrarre l'acquisto di tali forniture o servizi dall'applicazione delle disposizioni del codice.
 
+9.
+                        
+                            
+                                Per i contratti relativi a lavori e servizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando un'opera prevista o una prestazione di servizi puo' dare luogo ad appalti aggiudicati per lotti distinti, e' computato l'importo complessivo stimato della totalita' di tali lotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'importo cumulato dei lotti e' pari o superiore alle soglie di cui ai commi 1 e 2, le disposizioni del codice si applicano all'aggiudicazione di ciascun lotto.
+
+10.
+                        
+                            
+                                Per gli appalti di forniture: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando un progetto volto ad ottenere forniture omogenee puo' dare luogo ad appalti aggiudicati per lotti distinti, nell'applicazione delle soglie di cui ai commi 1 e 2 e' computato l'importo complessivo stimato della totalita' di tali lotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'importo cumulato dei lotti e' pari o superiore alle soglie di cui ai commi 1 e 2, le disposizioni del codice si applicano all'aggiudicazione di ciascun lotto.
+
 In deroga a quanto previsto dai commi 9 e 10, le stazioni appaltanti possono aggiudicare l'appalto per singoli lotti ((con le modalita' previste per gli affidamenti di cui al Libro II, Parte I)) quando l'importo stimato al netto dell'IVA del lotto sia inferiore a euro 80.000 per le forniture o i servizi, oppure a euro 1.000.000 per i lavori, purche' l'importo cumulato dei lotti aggiudicati non superi il 20 per cento dell'importo complessivo di tutti i lotti in cui sono stati frazionati l'opera prevista, il progetto di acquisizione delle forniture omogenee o il progetto di prestazione servizi.
+
+12.
+                        
+                            
+                                Se gli appalti pubblici di forniture o di servizi presentano caratteri di regolarita' o sono destinati ad essere rinnovati entro un determinato periodo, e' posto come base per il calcolo dell'importo stimato dell'appalto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importo reale complessivo dei contratti analoghi conclusi nel corso dei dodici mesi precedenti o dell'esercizio precedente, rettificato, ove possibile, al fine di tenere conto dei cambiamenti in termini di quantita' o di importo che potrebbero sopravvenire nei dodici mesi successivi al contratto iniziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo stimato complessivo dei contratti aggiudicati nel corso dei dodici mesi successivi alla prima consegna o nel corso dell'esercizio, se questo e' superiore ai dodici mesi.
+
+13.
+                        
+                            
+                                Per gli appalti pubblici di forniture aventi per oggetto la locazione finanziaria, la locazione o l'acquisto a riscatto di prodotti, l'importo da assumere come base per il calcolo dell'importo stimato dell'appalto e' il seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli appalti pubblici di durata determinata pari o inferiore a dodici mesi, l'importo stimato complessivo per la durata dell'appalto o, se la durata supera i dodici mesi, l'importo complessivo, ivi compreso l'importo stimato di quello residuo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli appalti pubblici di durata indeterminata o che non puo' essere definita, l'importo mensile moltiplicato per quarantotto.
+
+14.
+                        
+                            
+                                Per gli appalti pubblici di servizi, l'importo da porre come base per il calcolo dell'importo stimato dell'appalto, a seconda del tipo di servizio, e' il seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i servizi assicurativi il premio da pagare e altre forme di remunerazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i servizi bancari e altri servizi finanziari gli onorari, le commissioni da pagare, gli interessi e altre forme di remunerazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli appalti riguardanti la progettazione gli onorari, le commissioni da pagare e altre forme di remunerazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per gli appalti pubblici di servizi che non fissano un prezzo complessivo: 
+ 1) in caso di appalti di durata determinata pari o inferiore a quarantotto mesi, l'importo complessivo stimato per l'intera loro durata; 
+ 2) in caso di appalti di durata indeterminata o superiore a quarantotto mesi, l'importo mensile moltiplicato per 48.
 
 Il calcolo dell'importo stimato di un appalto misto di servizi e forniture si fonda sull'importo totale dei servizi e delle forniture, prescindendo dalle rispettive quote. Tale calcolo comprende l'importo delle operazioni di posa e di installazione.
 
@@ -179,6 +410,31 @@ Se le diverse parti di un determinato contratto sono oggettivamente non separabi
 Nei settori speciali, nel caso di contratti aventi ad oggetto prestazioni strumentali a piu' attivita', le stazioni appaltanti possono scegliere di aggiudicare appalti distinti per ogni attivita' o di aggiudicare un appalto unico. Se le stazioni appaltanti scelgono di aggiudicare appalti distinti, il regime giuridico applicabile a ciascuno di essi e' determinato in base all'attivita' cui e' strumentale. Se le stazioni appaltanti decidono di aggiudicare un appalto unico, si applicano i commi 25 e 26. La decisione di aggiudicare un unico appalto o piu' appalti distinti non puo' essere adottata allo scopo di escludere l'appalto o gli appalti dall'ambito di applicazione del codice.
 
 A un appalto avente ad oggetto prestazioni strumentali all'esercizio di piu' attivita' si applicano le disposizioni relative alla principale attivita' cui la prestazione e' destinata.
+
+26.
+                        
+                            
+                                Nel caso di appalti aventi ad oggetto prestazioni per cui e' oggettivamente impossibile stabilire a quale attivita' esse siano principalmente strumentali, le disposizioni applicabili sono determinate come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'appalto e' aggiudicato secondo le disposizioni del codice che disciplinano gli appalti nei settori ordinari se una delle attivita' e' disciplinata dalle disposizioni relative all'aggiudicazione degli appalti nei settori ordinari e l'altra dalle disposizioni relative all'aggiudicazione degli appalti nei settori speciali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'appalto e' aggiudicato secondo le disposizioni del codice che disciplinano gli appalti nei settori speciali se una delle attivita' e' disciplinata dalle disposizioni relative all'aggiudicazione degli appalti nei settori speciali e l'altra dalle disposizioni relative all'aggiudicazione delle concessioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'appalto e' aggiudicato secondo le disposizioni del codice che disciplinano gli appalti nei settori speciali se una delle attivita' e' disciplinata dalle disposizioni relative all'aggiudicazione degli appalti nei settori speciali e l'altra non e' soggetta a tali disposizioni, ne' a quelle relative all'aggiudicazione degli appalti nei settori ordinari o alle disposizioni relative all'aggiudicazione delle concessioni.
 
 Nel caso di contratti misti che contengono elementi di appalti di forniture, lavori e servizi nei settori speciali e di concessioni, il contratto misto e' aggiudicato in conformita' alle disposizioni del codice che disciplinano gli appalti nei settori speciali, purche' l'importo stimato della parte del contratto che costituisce un appalto disciplinato da tali disposizioni, calcolato secondo il presente articolo, sia pari o superiore alla soglia pertinente.
 
@@ -246,6 +502,63 @@ La pendenza di un contenzioso non puo' mai giustificare la sospensione della pro
 
 Il contratto e' stipulato, a pena di nullita', in forma scritta ai sensi dell'allegato I.1, articolo 3, comma 1, lettera b), in modalita' elettronica nel rispetto delle pertinenti disposizioni del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, in forma pubblica amministrativa a cura dell'ufficiale rogante della stazione appaltante, con atto pubblico notarile informatico oppure mediante scrittura privata. In caso di procedura negoziata oppure per gli affidamenti diretti, ((il contratto puo' essere stipulato anche)) mediante corrispondenza secondo l'uso commerciale, consistente in un apposito scambio di lettere, anche tramite posta elettronica certificata o sistemi elettronici di recapito certificato qualificato ai sensi del regolamento UE n. 910/2014 del Parlamento europeo e del Consiglio del 23 luglio 2014. I capitolati e il computo metrico estimativo, richiamati nel bando o nell'invito, fanno parte integrante del contratto.
 
+2.
+                        
+                            
+                                Divenuta efficace l'aggiudicazione ai sensi dell'articolo 17, comma 5 e fatto salvo l'esercizio dei poteri di autotutela, la stipula del contratto ha luogo entro i successivi sessanta giorni anche in pendenza di contenzioso.E' fatta eccezione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le ipotesi previste dal comma 4 del presente articolo e dall'articolo 55, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di un diverso termine previsto nel bando o nell'invito a offrire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'ipotesi di differimento concordato con l'aggiudicatario e motivato in base all'interesse della stazione appaltante o dell'ente concedente, compatibilmente con quello generale alla sollecita esecuzione del contratto.
+
+3.
+                        
+                            
+                                Il contratto non puo' essere stipulato prima di ((trentadue)) giorni dall'invio dell'ultima delle comunicazioni del provvedimento di aggiudicazione. Tale termine dilatorio non si applica nei casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di procedura in cui e' stata presentata o ammessa una sola offerta e non sono state tempestivamente proposte impugnazioni del bando o della lettera di invito, o le impugnazioni sono gia' state respinte con decisione definitiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di appalti basati su un accordo quadro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di appalti specifici basati su un sistema dinamico di acquisizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di contratti di importo inferiore alle soglie europee ((...)).
+
 Se e' proposto ricorso avverso l'aggiudicazione con contestuale domanda cautelare, il contratto non puo' essere stipulato dal momento della notificazione dell'istanza cautelare alla stazione appaltante o all'ente concedente fino alla pubblicazione del provvedimento cautelare di primo grado o del dispositivo o della sentenza di primo grado, in caso di decisione del merito all'udienza cautelare.
 L'effetto sospensivo cessa quando, in sede di esame della domanda cautelare, il giudice si dichiara incompetente ai sensi dell'articolo 15, comma 4, del codice del processo amministrativo, di cui all'allegato I al decreto legislativo 2 luglio 2010, n. 104, o fissa con ordinanza la data di discussione del merito senza pronunciarsi sulle misure cautelari con il consenso delle parti, valevole quale implicita rinuncia all'immediato esame della domanda cautelare.
 
@@ -303,6 +616,52 @@ I soggetti che intervengono nel ciclo di vita digitale dei contratti pubblici op
 ## Art. 22. — Ecosistema nazionale di approvvigionamento digitale (e-procurement)
 
 L'ecosistema nazionale di approvvigionamento digitale (e-procurement) e' costituito dalle piattaforme e dai servizi digitali infrastrutturali abilitanti la gestione del ciclo di vita dei contratti pubblici, di cui all'articolo 23 e dalle piattaforme di approvvigionamento digitale utilizzate dalle stazioni appaltanti di cui all'articolo 25.
+
+2.
+                        
+                            
+                                Le piattaforme e i servizi digitali di cui al comma 1 consentono, in particolare: 
+                            
+                            
+                                a)
+                                
+                                    la redazione o l'acquisizione degli atti in formato nativo digitale;
+                                
+                            
+                            
+                                b)
+                                
+                                    la pubblicazione e la trasmissione dei dati e documenti alla Banca dati nazionale dei contratti pubblici;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'accesso elettronico alla documentazione di gara;
+                                
+                            
+                            
+                                d)
+                                
+                                    la presentazione del documento di gara unico europeo in formato digitale e l'interoperabilita' con il fascicolo virtuale dell'operatore economico;
+                                
+                            
+                            
+                                e)
+                                
+                                    la presentazione delle offerte
+                                
+                            
+                            
+                                f)
+                                
+                                    l'apertura, la gestione e la conservazione del fascicolo di gara in modalita' digitale;
+                                
+                            
+                            
+                                g)
+                                
+                                    il controllo tecnico, contabile e amministrativo dei contratti anche in fase di esecuzione e la gestione delle garanzie.
 
 Le basi di dati di interesse nazionale alimentano l'ecosistema nazionale di approvvigionamento digitale, ai sensi dell'articolo 60 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82.
 
@@ -387,6 +746,49 @@ Tutte le comunicazioni e gli scambi di informazioni di cui al codice sono esegui
 
 Per migliorare l'efficienza le stazioni appaltanti e gli enti concedenti provvedono, ove possibile, ad automatizzare le proprie attivita' ricorrendo a soluzioni tecnologiche, ivi incluse l'intelligenza artificiale e le tecnologie di registri distribuiti, nel rispetto delle specifiche disposizioni in materia.
 
+2.
+                        
+                            
+                                Nell'acquisto o sviluppo delle soluzioni di cui al comma 1 le stazioni appaltanti e gli enti concedenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurano la disponibilita' del codice sorgente, della relativa documentazione, nonche' di ogni altro elemento utile a comprenderne le logiche di funzionamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    introducono negli atti di indizione delle gare clausole volte ad assicurare le prestazioni di assistenza e manutenzione necessarie alla correzione degli errori e degli effetti indesiderati derivanti dall'automazione.
+
+3.
+                        
+                            
+                                Le decisioni assunte mediante automazione rispettano i principi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conoscibilita' e comprensibilita', per cui ogni operatore economico ha diritto a conoscere l'esistenza di processi decisionali automatizzati che lo riguardino e, in tal caso, a ricevere informazioni significative sulla logica utilizzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non esclusivita' della decisione algoritmica, per cui comunque esiste nel processo decisionale un contributo umano capace di controllare, validare ovvero smentire la decisione automatizzata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non discriminazione algoritmica, per cui il titolare mette in atto misure tecniche e organizzative adeguate al fine di impedire effetti discriminatori nei confronti degli operatori economici.
+
 Le stazioni appaltanti e gli enti concedenti adottano ogni misura tecnica e organizzativa atta a garantire che siano rettificati i fattori che comportano inesattezze dei dati e sia minimizzato il rischio di errori, nonche' a impedire effetti discriminatori nei confronti di persone fisiche sulla base della nazionalita', dell'origine etnica, delle opinioni politiche, della religione, delle convinzioni personali, dell'appartenenza sindacale, dei caratteri somatici, dello status genetico, dello stato di salute, del genere o dell'orientamento sessuale.
 
 Le pubbliche amministrazioni pubblicano sul sito istituzionale, nella sezione «Amministrazione trasparente», l'elenco delle soluzioni tecnologiche di cui al comma 1 utilizzate ai fini dello svolgimento della propria attivita'.
@@ -408,16 +810,120 @@ Per acquisti di uso corrente, le cui caratteristiche, cosi' come generalmente di
 Per l'aggiudicazione nell'ambito di un sistema dinamico di acquisizione, le stazioni appaltanti e gli enti concedenti osservano le norme previste per la procedura ristretta di cui all'articolo 72.
 Tutti i candidati che soddisfano i criteri di selezione sono ammessi al sistema e il numero dei candidati ammessi non puo' essere limitato. Le stazioni appaltanti e gli enti concedenti che hanno diviso il sistema in categorie di prodotti, lavori o servizi conformemente al comma 1, precisano i criteri di selezione applicabili per ciascuna categoria.
 
+3.
+                        
+                            
+                                Nei settori ordinari, fermo restando quanto previsto dall'articolo 72, si applicano i seguenti termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il termine minimo per la ricezione delle domande di partecipazione e' di trenta giorni dalla data di trasmissione del bando di gara o, se un avviso di pre-informazione e' utilizzato come mezzo di indizione di una gara, dalla data d'invio dell'invito a confermare interesse. Non sono applicabili ulteriori termini per la ricezione delle domande di partecipazione una volta che l'invito a presentare offerte per il primo appalto specifico nel sistema dinamico di acquisizione e' stato inviato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il termine minimo per la ricezione delle offerte e' di almeno dieci giorni dalla data di trasmissione dell'invito a presentare offerte. Si applica l'articolo 72, comma 5.
+
+4.
+                        
+                            
+                                Nei settori speciali si applicano i seguenti termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il termine minimo per la ricezione delle domande di partecipazione e' fissato in non meno di trenta giorni dalla data di trasmissione del bando di gara o, se come mezzo di indizione di gara e' usato un avviso periodico indicativo, dell'invito a confermare interesse. Non sono applicabili ulteriori termini per la ricezione delle domande di partecipazione dopo l'invio dell'invito a presentare offerte per il primo appalto specifico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il termine minimo per la ricezione delle offerte e' di almeno dieci giorni dalla data di trasmissione dell'invito a presentare offerte. Si applica l'articolo 72, comma 5.
+
 Tutte le comunicazioni nel quadro di un sistema dinamico di acquisizione sono effettuate esclusivamente con mezzi elettronici conformemente all'articolo 29.
+
+6.
+                        
+                            
+                                Per aggiudicare appalti nel quadro di un sistema dinamico di acquisizione, le stazioni appaltanti e gli enti concedenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblicano un avviso di indizione di gara precisando che si tratta di un sistema dinamico di acquisizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei documenti di gara precisano almeno la natura e la quantita' stimata degli acquisti previsti, nonche' tutte le informazioni necessarie riguardanti il sistema dinamico di acquisizione, comprese le modalita' di funzionamento del sistema, il dispositivo elettronico utilizzato nonche' le modalita' e le specifiche tecniche di collegamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indicano un'eventuale divisione in categorie di prodotti, lavori o servizi e le caratteristiche che definiscono le categorie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    offrono accesso libero, diretto e completo ai documenti di gara a norma dell'articolo 88.
 
 Le stazioni appaltanti e gli enti concedenti assicurano a tutti gli operatori economici, per il periodo di validita' del sistema dinamico di acquisizione, la possibilita' di chiedere di essere ammessi al sistema alle condizioni di cui ai commi da 2 a 4. Le stazioni appaltanti e gli enti concedenti valutano tali domande in base ai criteri di selezione entro dieci giorni lavorativi dal loro ricevimento. Il termine puo' essere prorogato fino a quindici giorni lavorativi in singoli casi motivati, in particolare per la necessita' di esaminare documentazione aggiuntiva o di verificare in altro modo se i criteri di selezione siano stati soddisfatti. In deroga al primo, secondo e terzo periodo, a condizione che l'invito a presentare offerte per il primo appalto specifico nel sistema dinamico di acquisizione non sia stato inviato, le stazioni appaltanti e gli enti concedenti possono prorogare il periodo di valutazione, purche' durante il periodo di valutazione prorogato non sia emesso alcun invito a presentare offerte. 
  Le stazioni appaltanti e gli enti concedenti indicano nei documenti di gara la durata massima del periodo prorogato che intendono applicare. Le stazioni appaltanti comunicano al piu' presto all'operatore economico interessato se e' stato ammesso o meno al sistema dinamico di acquisizione.
+
+8.
+                        
+                            
+                                Le stazioni appaltanti e gli enti concedenti invitano tutti i partecipanti ammessi a presentare un'offerta per ogni specifico appalto nell'ambito del sistema dinamico di acquisizione, conformemente all'articolo 89 e all'articolo 165. Se il sistema dinamico di acquisizione e' stato suddiviso in categorie di prodotti, lavori o servizi, le stazioni appaltanti e gli enti concedenti invitano tutti i partecipanti ammessi alla categoria che corrisponde allo specifico appalto a presentare un'offerta. Essi aggiudicano l'appalto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei settori ordinari, all'offerente che ha presentato la migliore offerta sulla base dei criteri di aggiudicazione enunciati nel bando di gara per l'istituzione del sistema dinamico di acquisizione o, se un avviso di pre-informazione e' utilizzato come mezzo di indizione di una gara, nell'invito a confermare interesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei settori speciali, all'offerente che ha presentato la migliore offerta sulla base dei criteri di aggiudicazione enunciati nel bando di gara per l'istituzione del sistema dinamico di acquisizione, nell'invito a confermare interesse, o, quando come mezzo di indizione di gara si usa un avviso sull'esistenza di un sistema di qualificazione, nell'invito a presentare un'offerta.
 
 I criteri di cui al comma 8 possono, all'occorrenza, essere precisati nell'invito a presentare offerte.
 
 Nei settori ordinari, le stazioni appaltanti e gli enti concedenti possono esigere, in qualsiasi momento nel periodo di validita' del sistema dinamico di acquisizione, che i partecipanti ammessi innovino o aggiornino il documento di gara unico europeo di cui all'articolo 91, entro cinque giorni lavorativi dalla data in cui e' trasmessa tale richiesta.
 
 Nei settori speciali, le stazioni appaltanti e gli enti concedenti che applicano i motivi di esclusione e criteri di selezione previsti dagli articoli 94, 95 e 99, possono esigere, in qualsiasi momento nel periodo di validita' del sistema dinamico di acquisizione, che i partecipanti ammessi innovino o aggiornino il documento di gara unico europeo di cui all'articolo 91, entro cinque giorni lavorativi dalla data in cui e' trasmessa tale richiesta.
+
+12.
+                        
+                            
+                                Le stazioni appaltanti e gli enti concedenti indicano nell'avviso di indizione di gara il periodo di validita' del sistema dinamico di acquisizione. Essi informano la Commissione europea di qualsiasi variazione di tale periodo di validita' utilizzando i seguenti modelli di formulari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il periodo di validita' e' modificato senza porre fine al sistema, il modello utilizzato inizialmente per l'avviso di indizione di gara per il sistema dinamico di acquisizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' posto termine al sistema, l'avviso di aggiudicazione di cui agli articoli 111 e 163, comma 2.
 
 Non possono essere posti a carico degli operatori economici interessati o partecipanti al sistema dinamico di acquisizione i contributi di carattere amministrativo prima o nel corso del periodo di validita' del sistema dinamico di acquisizione.
 
@@ -430,6 +936,70 @@ Gli accordi quadro di cui all'articolo 59 e le convenzioni di cui all'articolo 2
 Le stazioni appaltanti e gli enti concedenti possono ricorrere ad aste elettroniche nelle quali sono presentati nuovi prezzi, modificati al ribasso, o nuovi valori riguardanti taluni elementi delle offerte. A tal fine, le stazioni appaltanti e gli enti concedenti strutturano l'asta come un processo elettronico per fasi successive, che interviene dopo una prima valutazione completa delle offerte e consente di classificarle sulla base di un trattamento automatico. Gli appalti di servizi e di lavori che hanno per oggetto prestazioni intellettuali, come la progettazione di lavori, che non possono essere classificati in base ad un trattamento automatico, non sono oggetto di aste elettroniche.
 
 Nelle procedure aperte, ristrette o competitive con negoziazione o nelle procedure negoziate precedute da un'indizione di gara, le stazioni appaltanti e gli enti concedenti possono stabilire che l'aggiudicazione di un appalto sia preceduta da un'asta elettronica quando il contenuto dei documenti di gara, in particolare le specifiche tecniche, puo' essere fissato in maniera precisa. Alle stesse condizioni, essi possono ricorrere all'asta elettronica in occasione della riapertura del confronto competitivo fra le parti di un accordo quadro di cui all'articolo 59, comma 4, lettere b) e c), e dell'indizione di gare per appalti da aggiudicare nell'ambito del sistema dinamico di acquisizione di cui all'articolo 32.
+
+3.
+                        
+                            
+                                L'asta elettronica e' aggiudicata sulla base di uno dei seguenti elementi contenuti nell'offerta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esclusivamente i prezzi, quando l'appalto e' aggiudicato sulla sola base del prezzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prezzo o i nuovi valori degli elementi dell'offerta indicati nei documenti di gara, quando l'appalto e' aggiudicato sulla base del miglior rapporto qualita'/prezzo o costo/efficacia.
+
+4.
+                        
+                            
+                                Le stazioni appaltanti e gli enti concedenti indicano il ricorso a un'asta elettronica nel bando di gara o nell'invito a confermare l'interesse, nonche', per i settori speciali, nell'invito a presentare offerte quando per l'indizione di gara si usa un avviso sull'esistenza di un sistema di qualificazione. I documenti di gara comprendono almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli elementi i cui valori saranno oggetto dell'asta elettronica, purche' tali elementi siano quantificabili in modo da essere espressi in cifre o in percentuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i limiti eventuali dei valori che potranno essere presentati, quali risultano dal capitolato d'oneri relativo all'oggetto dell'appalto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni che saranno messe a disposizione degli offerenti nel corso dell'asta elettronica e, se del caso, il momento in cui saranno messe a loro disposizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni pertinenti sullo svolgimento dell'asta elettronica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le condizioni alle quali gli offerenti potranno rilanciare, in particolare gli scarti minimi eventualmente richiesti per il rilancio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le informazioni pertinenti sul dispositivo elettronico utilizzato e sulle modalita' e specifiche tecniche di collegamento.
 
 Prima di procedere all'asta elettronica, le stazioni appaltanti e gli enti concedenti effettuano una valutazione completa delle offerte conformemente al criterio o ai criteri di aggiudicazione stabiliti e alla relativa ponderazione.
 
@@ -449,6 +1019,31 @@ L'invito e' corredato del risultato della valutazione completa dell'offerta, eff
 
 Nel corso di ogni fase dell'asta elettronica, le stazioni appaltanti comunicano in tempo reale a tutti gli offerenti almeno le informazioni che consentono loro di conoscere in ogni momento la rispettiva classificazione. Le stazioni appaltanti e gli enti concedenti possono, purche' previsto nei documenti di gara, comunicare altre informazioni riguardanti altri prezzi o valori presentati. Possono, inoltre, rendere noto in qualsiasi momento il numero di partecipanti alla fase specifica dell'asta. In nessun caso, possono rendere nota l'identita' degli offerenti durante lo svolgimento delle fasi dell'asta elettronica.
 
+14.
+                        
+                            
+                                Le stazioni appaltanti e gli enti concedenti dichiarano conclusa l'asta elettronica secondo una o piu' delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla data e all'ora preventivamente indicate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando non ricevono piu' nuovi prezzi o nuovi valori che rispondono alle esigenze degli scarti minimi, a condizione che abbiano preventivamente indicato il termine che rispetteranno a partire dalla ricezione dell'ultima presentazione prima di dichiarare conclusa l'asta elettronica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando il numero di fasi dell'asta preventivamente indicato e' stato raggiunto.
+
 Se le stazioni appaltanti e gli enti concedenti intendono dichiarare conclusa l'asta elettronica ai sensi del comma 14, lettera c), eventualmente in combinazione con le modalita' di cui alla lettera b) del medesimo comma, l'invito a partecipare all'asta indica il calendario di ogni fase dell'asta.
 
 Dopo aver dichiarata conclusa l'asta elettronica, le stazioni appaltanti e gli enti concedenti aggiudicano l'appalto in funzione dei suoi risultati.
@@ -459,6 +1054,42 @@ Le stazioni appaltanti e gli enti concedenti possono chiedere che le offerte sia
 
 I cataloghi elettronici sono predisposti dai candidati o dagli offerenti per la partecipazione a una determinata procedura di appalto in conformita' alle specifiche tecniche e al formato stabiliti dalle stazioni appaltanti.
 
+3.
+                        
+                            
+                                Quando la presentazione delle offerte sotto forma di cataloghi elettronici e' accettata o richiesta, le stazioni appaltanti e gli enti concedenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei settori ordinari, lo indicano nel bando di gara o nell'invito a confermare interesse, quando il mezzo di indizione di gara e' un avviso di pre-informazione; nei settori speciali, lo indicano nel bando di gara, nell'invito a confermare interesse, o, quando il mezzo di indizione di gara e' un avviso sull'esistenza di un sistema di qualificazione, nell'invito a presentare offerte o a negoziare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicano nei documenti di gara tutte le informazioni relative al formato, al dispositivo elettronico utilizzato nonche' alle modalita' e alle specifiche tecniche per il catalogo.
+
+4.
+                        
+                            
+                                Quando un accordo quadro e' concluso con piu' operatori economici dopo la presentazione delle offerte sotto forma di cataloghi elettronici, le stazioni appaltanti e gli enti concedenti possono prevedere che la riapertura del confronto competitivo per i contratti specifici avvenga sulla base di cataloghi aggiornati. In tal caso, le stazioni appaltanti e gli enti concedenti utilizzano, alternativamente, uno dei seguenti metodi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    invitano gli offerenti a ripresentare i loro cataloghi elettronici, adattati alle esigenze del contratto in questione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicano agli offerenti che intendono avvalersi delle informazioni raccolte dai cataloghi elettronici gia' presentati per costituire offerte adeguate ai requisiti del contratto in questione, a condizione che il ricorso a questa possibilita' sia stato previsto nei documenti di gara relativi all'accordo quadro.
+
 Le stazioni appaltanti e gli enti concedenti, in caso di riapertura del confronto competitivo per i contratti specifici in conformita' al comma 4, lettera b), indicano agli offerenti la data e l'ora in cui intendono procedere alla raccolta delle informazioni necessarie per costituire offerte adattate ai requisiti del contratto specifico e danno agli offerenti la possibilita' di rifiutare tale raccolta di informazioni. Le stazioni appaltanti e gli enti concedenti prevedono un adeguato periodo di tempo tra la notifica e l'effettiva raccolta di informazioni. Prima dell'aggiudicazione dell'appalto, le stazioni appaltanti e gli enti concedenti presentano le informazioni raccolte all'offerente interessato, in modo da offrire la possibilita' di contestare o confermare che l'offerta cosi' costituita non contiene errori materiali.
 
 Le stazioni appaltanti e gli enti concedenti possono aggiudicare appalti basati su un sistema dinamico di acquisizione richiedendo che le offerte per un appalto specifico siano presentate sotto forma di catalogo elettronico. Le stazioni appaltanti e gli enti concedenti possono, inoltre, aggiudicare appalti basati su un sistema dinamico di acquisizione conformemente al comma 4, lettera b), e al comma 5, a condizione che la domanda di partecipazione al sistema dinamico di acquisizione sia accompagnata da un catalogo elettronico in conformita' con le specifiche tecniche e il formato stabilito dalla stazione appaltante o dall'ente concedente. Tale catalogo e' completato dai candidati, qualora sia stata comunicata l'intenzione della stazione appaltante o dell'ente concedente di costituire offerte attraverso la procedura di cui al comma 4, lettera b).
@@ -467,7 +1098,67 @@ Le stazioni appaltanti e gli enti concedenti possono aggiudicare appalti basati 
 
 Le stazioni appaltanti e gli enti concedenti assicurano in modalita' digitale l'accesso agli atti delle procedure di affidamento e di esecuzione dei contratti pubblici, mediante acquisizione diretta dei dati e delle informazioni inseriti nelle piattaforme, ai sensi degli articoli 3-bis e 22 e seguenti della legge 7 agosto 1990, n. 241 e degli articoli 5 e 5-bis del decreto legislativo 14 marzo 2013, n. 33.
 
+2.
+                        
+                            
+                                Fatta salva la disciplina prevista dal codice per i contratti secretati o la cui esecuzione richiede speciali misure di sicurezza, l'esercizio del diritto di accesso e' differito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle procedure aperte, in relazione all'elenco dei soggetti che hanno presentato offerte, fino alla scadenza del termine per la presentazione delle medesime; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle procedure ristrette e negoziate e nelle gare informali, in relazione all'elenco dei soggetti che hanno fatto richiesta di invito o che hanno manifestato il loro interesse, e in relazione all'elenco dei soggetti che sono stati invitati a presentare offerte e all'elenco dei soggetti che hanno presentato offerte, fino alla scadenza del termine per la presentazione delle offerte medesime; ai soggetti la cui richiesta di invito sia stata respinta, e' consentito l'accesso all'elenco dei soggetti che hanno fatto richiesta di invito o che hanno manifestato il loro interesse, dopo la comunicazione ufficiale, da parte delle stazioni appaltanti o degli enti concedenti, dei nominativi dei candidati da invitare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in relazione alle domande di partecipazione e agli atti, dati e informazioni relativi ai requisiti di partecipazione di cui agli articoli 94, 95 e 98 e ai verbali relativi alla fase di ammissione dei candidati e offerenti, fino all'aggiudicazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in relazione alle offerte e ai verbali relativi alla valutazione delle stesse e agli atti, dati e informazioni a questa presupposti, fino all'aggiudicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in relazione alla verifica della anomalia dell'offerta e ai verbali riferiti alla detta fase, fino all'aggiudicazione.
+
 Fino alla conclusione delle fasi o alla scadenza dei termini di cui al comma 2 gli atti, i dati e le informazioni non possono essere resi accessibili o conoscibili. Per i pubblici ufficiali o per gli incaricati di pubblico servizio la violazione della presente disposizione rileva ai fini dell'articolo 326 del codice penale.
+
+4.
+                        
+                            
+                                Fatta salva la disciplina prevista per i contratti secretati o la cui esecuzione richiede speciali misure di sicurezza, e salvo quanto disposto dal comma 5, il diritto di accesso e ogni forma di divulgazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possono essere esclusi in relazione alle informazioni fornite nell'ambito dell'offerta o a giustificazione della medesima che costituiscano, secondo motivata e comprovata dichiarazione dell'offerente, segreti tecnici o commerciali ((, anche risultanti da scoperte, innovazioni, progetti tutelati da titoli di proprieta' industriale, nonche' di contenuto altamente tecnologico)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono esclusi in relazione: 
+ 1) ai pareri legali acquisiti dai soggetti tenuti all'applicazione del codice, per la soluzione di liti, potenziali o in atto, relative ai contratti pubblici; 
+ 2) alle relazioni riservate del direttore dei lavori, del direttore dell'esecuzione e dell'organo di collaudo sulle domande e sulle riserve del soggetto esecutore del contratto; 
+ 3) alle piattaforme digitali e alle infrastrutture informatiche utilizzate dalla stazione appaltante o dall'ente concedente, ove coperte da diritti di privativa intellettuale.
 
 In relazione all'ipotesi di cui al comma 4, lettere a) e b), numero 3), e' consentito l'accesso al concorrente, se indispensabile ai fini della difesa in giudizio dei propri interessi giuridici rappresentati in relazione alla procedura di gara.
 
@@ -497,6 +1188,24 @@ Il termine di impugnazione dell'aggiudicazione e dell'ammissione e valutazione d
 
 ## Art. 37. — Programmazione dei lavori e degli acquisti di beni e servizi
 
+1.
+                        
+                            
+                                Le stazioni appaltanti e gli enti concedenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottano il programma triennale dei lavori pubblici e il programma triennale degli acquisti di beni e servizi. I programmi sono approvati nel rispetto dei documenti programmatori e in coerenza con il bilancio e, per gli enti locali, secondo le norme della programmazione economico-finanziaria e i principi contabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approvano l'elenco annuale che indica i lavori da avviare nella prima annualita' e specifica per ogni opera la fonte di finanziamento, stanziata nello stato di previsione o nel bilancio o comunque disponibile.
+
 Il programma triennale dei lavori pubblici e i relativi aggiornamenti annuali contengono i lavori, compresi quelli complessi e da realizzare tramite concessione o partenariato pubblico-privato, il cui importo si stima pari o superiore alla soglia di cui all'articolo 50, comma 1, lettera a). I lavori di importo pari o superiore alla soglia di rilevanza europea di cui all'articolo 14, comma 1, lettera a), sono inseriti nell'elenco triennale dopo l'approvazione del documento di fattibilita' delle alternative progettuali e nell'elenco annuale dopo l'approvazione del documento di indirizzo della progettazione. I lavori di manutenzione ordinaria superiori alla soglia indicata nel secondo periodo sono inseriti nell'elenco triennale anche in assenza del documento di fattibilita' delle alternative progettuali. I lavori, servizi e forniture da realizzare in amministrazione diretta non sono inseriti nella programmazione.
 
 Il programma triennale di acquisti di beni e servizi e i relativi aggiornamenti annuali indicano gli acquisti di importo stimato pari o superiore alla soglia di cui all'articolo 50, comma 1, lettera b).
@@ -505,11 +1214,54 @@ Il programma triennale e i relativi aggiornamenti annuali sono pubblicati sul si
 
 Il presente articolo non si applica alla pianificazione delle attivita' dei soggetti aggregatori e delle centrali di committenza.
 
+6.
+                        
+                            
+                                Con l'allegato I.5 sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli schemi tipo, gli ordini di priorita' degli interventi, comprensivi del completamento delle opere incompiute e dell'effettuazione dei lavori programmati e non avviati, e la specificazione delle fonti di finanziamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni che consentono di modificare la programmazione e di realizzare un intervento o procedere a un acquisto non previsto nell'elenco annuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di raccordo con la pianificazione dell'attivita' dei soggetti aggregatori e delle centrali di committenza ai quali le stazioni appaltanti e gli enti concedenti possono delegare le attivita'.
+
 ((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
 ## Art. 38. — Localizzazione e approvazione del progetto delle opere
 
 L'approvazione dei progetti da parte delle amministrazioni e' effettuata in conformita' alla legge 7 agosto 1990, n. 241, e alle disposizioni statali e regionali che regolano la materia. La procedura di cui al presente articolo si applica anche alle opere di interesse pubblico, ivi comprese quelle di cui al decreto legislativo 3 aprile 2006, n. 152, se concernenti la concessione e la gestione di opere pubbliche, oppure la concessione di servizi pubblici con opere da realizzare da parte del concessionario.
+
+2.
+                        
+                            
+                                La procedura di cui al presente articolo non si applica se e' stata gia' accertata la conformita' del progetto di fattibilita' tecnica ed economica alla pianificazione urbanistica e alla regolamentazione edilizia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le opere pubbliche di interesse statale, escluse quelle destinate alla difesa militare, dal Ministero delle infrastrutture e dei trasporti, sentiti gli enti territoriali interessati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le opere pubbliche di interesse locale, dal comune, oppure dalla regione o dalla provincia autonoma interessata in caso di opere interessanti il territorio di almeno due comuni.
 
 ((Nei casi diversi dal comma 2, l'amministrazione procedente, la stazione appaltante o l'ente concedente convoca, ai fini dell'approvazione del progetto di fattibilita' tecnica ed economica nonche' della localizzazione dell'opera, una conferenza di servizi semplificata ai sensi dell'articolo 14-bis della legge 7 agosto 1990, n. 241, a cui partecipano tutte le amministrazioni interessate, ivi comprese le regioni, le province autonome, i comuni incisi dall'opera e le amministrazioni preposte alla tutela ambientale, del patrimonio culturale, del paesaggio e della salute. Ai fini di cui al presente articolo, per le opere di competenza statale, il Provveditorato interregionale per le opere pubbliche puo' agire quale amministrazione procedente, previa stipula di un accordo ai sensi dell'articolo 15 della legge n. 241 del 1990 con una pubblica amministrazione, quando non e' tenuto all'espressione di un parere ai sensi dei commi 4 e 5.))
 
@@ -542,6 +1294,38 @@ Le disposizioni del presente articolo disciplinano le procedure di pianificazion
 
 Il Governo qualifica una infrastruttura come strategica e di preminente interesse nazionale con delibera del Consiglio dei ministri, in considerazione del rendimento infrastrutturale, dei costi, degli obiettivi e dei tempi di realizzazione dell'opera. La qualificazione e' operata su proposta dei Ministri competenti, sentite le regioni interessate, ovvero su proposta delle regioni al Governo, sentiti i Ministri competenti.
 
+3.
+                        
+                            
+                                L'elenco delle infrastrutture di cui al presente articolo e' inserito ((nel documento di programmazione, aggiornato, di norma, con cadenza annuale, denominato "Documento di programmazione delle infrastrutture strategiche (DPIS)")), con l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei criteri di rendimento attesi in termini di sviluppo infrastrutturale, riequilibrio socio-economico fra le aree del territorio nazionale, sostenibilita' ambientale, garanzia della sicurezza strategica, contenimento dei costi dell'approvvigionamento energetico del Paese, adeguamento della strategia nazionale a quella della rete europea delle infrastrutture; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli esiti della valutazione delle alternative progettuali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei costi stimati e dei relativi stanziamenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del cronoprogramma di realizzazione.
+
 Gli interventi di cui al comma 3 sono automaticamente inseriti nelle intese istituzionali di programma e negli accordi di programma quadro ai fini della individuazione delle priorita' e ai fini dell'armonizzazione con le iniziative gia' incluse nelle intese e negli accordi stessi.
 
 Per l'approvazione dei progetti relativi agli interventi di cui al comma 3 si applicano le disposizioni di cui all'articolo 38. A tal fine, i termini di cui al terzo periodo del comma 5 dell'articolo 38 sono ridotti a trenta giorni e quelli di cui al comma 9, primo periodo, del medesimo articolo 38 a quarantacinque giorni e non sono prorogabili.
@@ -572,9 +1356,108 @@ Gli esiti del dibattito, ivi comprese eventuali proposte di variazione dell'inte
 
 Resta ferma la disciplina prevista da specifiche disposizioni di legge per il dibattito pubblico afferente agli interventi finanziati con le risorse del PNRR e del Piano nazionale per gli investimenti complementari al PNRR (PNC), di cui al decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1° luglio 2021.
 
+8.
+                        
+                            
+                                L'allegato I.6 disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i casi in cui il dibattito pubblico e' obbligatorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di partecipazione e di svolgimento del dibattito pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di individuazione e i compiti del responsabile del dibattito pubblico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali contenuti ulteriori della relazione iniziale e di quella conclusiva del procedimento di dibattito pubblico.
+
 ## - - PARTE IV DELLA PROGETTAZIONE
 
 ## Art. 41. — Livelli e contenuti della progettazione
+
+1.
+                        
+                            
+                                La progettazione in materia di lavori pubblici, si articola in due livelli di successivi approfondimenti tecnici: il progetto di fattibilita' tecnico-economica e il progetto esecutivo. Essa e' volta ad assicurare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il soddisfacimento dei fabbisogni della collettivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la conformita' alle norme ambientali, urbanistiche e di tutela dei beni culturali e paesaggistici, nonche' il rispetto di quanto previsto dalla normativa in materia di tutela della salute e della sicurezza delle costruzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rispondenza ai requisiti di qualita' architettonica e tecnico-funzionale, nonche' il rispetto dei tempi e dei costi previsti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rispetto di tutti i vincoli esistenti, con particolare riguardo a quelli idrogeologici, sismici, archeologici e forestali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'efficientamento energetico e la minimizzazione dell'impiego di risorse materiali non rinnovabili nell'intero ciclo di vita delle opere; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il rispetto dei principi della sostenibilita' economica, territoriale, ambientale e sociale dell'intervento, anche per contrastare il consumo del suolo, incentivando il recupero, il riuso e la valorizzazione del patrimonio edilizio esistente e dei tessuti urbani; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la razionalizzazione delle attivita' di progettazione e delle connesse verifiche attraverso il progressivo uso di metodi e strumenti di gestione informativa digitale delle costruzioni di cui all'articolo 43; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'accessibilita' e l'adattabilita' secondo quanto previsto dalle disposizioni vigenti in materia di barriere architettoniche; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la compatibilita' geologica e geomorfologica dell'opera.
 
 L'allegato I.7 definisce i contenuti dei due livelli di progettazione e stabilisce il contenuto minimo del quadro delle necessita' e del documento di indirizzo della progettazione che le stazioni appaltanti e gli enti concedenti devono predisporre.((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
@@ -587,7 +1470,101 @@ La stazione appaltante o l'ente concedente, in funzione della specifica tipologi
 
 ((In alternativa a quanto previsto dal comma 5, i contratti di lavori di manutenzione ordinaria e straordinaria, ad eccezione degli interventi di manutenzione straordinaria che prevedono il rinnovo o la sostituzione di parti strutturali delle opere o di impianti, possono essere affidati, nel rispetto delle procedure di scelta del contraente, sulla base del progetto di fattibilita' tecnico-economica costituito almeno dagli elaborati di cui all'articolo 6, comma 8-bis dell'allegato I.7. L'esecuzione dei predetti lavori puo' prescindere dall'avvenuta redazione e approvazione del progetto esecutivo.))
 
+6.
+                        
+                            
+                                Il progetto di fattibilita' tecnico-economica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individua, tra piu' soluzioni possibili, quella che esprime il rapporto migliore tra costi e benefici per la collettivita' in relazione alle specifiche esigenze da soddisfare e alle prestazioni da fornire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contiene i necessari richiami all'eventuale uso di metodi e strumenti di gestione informativa digitale delle costruzioni ((di cui all'articolo 43)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sviluppa, nel rispetto del quadro delle necessita', tutte le indagini e gli studi necessari per la definizione degli aspetti di cui al comma; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individua le caratteristiche dimensionali, tipologiche, funzionali e tecnologiche dei lavori da realizzare, compresa la scelta in merito alla possibile suddivisione in lotti funzionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    consente, ove necessario, l'avvio della procedura espropriativa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    contiene tutti gli elementi necessari per il rilascio delle autorizzazioni e approvazioni prescritte; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    contiene il piano preliminare di manutenzione dell'opera e delle sue parti. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((nei casi di adozione di metodi e strumenti di gestione informativa digitale, recepisce i requisiti informativi sviluppati per il perseguimento degli obiettivi di livello progettuale e definiti nel capitolato informativo allegato al documento di indirizzo della progettazione.))
+
 Per le opere proposte in variante urbanistica di cui all'articolo 19 del testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita', di cui al decreto del Presidente della Repubblica 8 giugno 2001, n. 327, il progetto di fattibilita' tecnico-economica sostituisce il progetto preliminare e quello definitivo.
+
+8.
+                        
+                            
+                                Il progetto esecutivo, in coerenza con il progetto di fattibilita' tecnico-economica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sviluppa un livello di definizione degli elementi tale da individuarne compiutamente la funzione, i requisiti, la qualita' e il prezzo di elenco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' corredato del piano di manutenzione dell'opera per l'intero ciclo di vita e determina in dettaglio i lavori da realizzare, il loro costo e i loro tempi di realizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((se sono utilizzati metodi e strumenti di gestione informativa digitale delle costruzioni, sviluppa un approfondimento del contenuto informativo in coerenza con gli obiettivi del relativo livello di progettazione rispondente a quanto specificato nel capitolato informativo;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    di regola, e' redatto dallo stesso soggetto che ha predisposto il progetto di fattibilita' tecnico-economica. Nel caso in cui motivate ragioni giustifichino l'affidamento disgiunto, il nuovo progettista accetta senza riserve l'attivita' progettuale svolta in precedenza.
 
 ((In caso di affidamento esterno di uno o piu' livelli di progettazione, i contratti di progettazione stipulati dalle stazioni appaltanti ed enti concedenti prevedono in clausole espresse le prestazioni reintegrative a cui e' tenuto, a titolo transattivo, il progettista per rimediare in forma specifica ad errori od omissioni nella progettazione emerse in fase esecutiva, tali da pregiudicare, in tutto o in parte, la realizzazione dell'opera o la sua futura utilizzazione. E' nullo ogni patto che escluda o limiti la responsabilita' del progettista per errori o omissioni nella progettazione che pregiudichino, in tutto o in parte, la realizzazione dell'opera o la sua futura utilizzazione.))
 
@@ -633,6 +1610,54 @@ Anche al di fuori dei casi di cui al comma 1 e in conformita' con i principi di 
 
 Gli strumenti indicati ai commi 1 e 2 utilizzano piattaforme interoperabili a mezzo di formati aperti non proprietari al fine di non limitare la concorrenza tra i fornitori di tecnologie e il coinvolgimento di specifiche progettualita' tra i progettisti, nonche' di consentire il trasferimento dei dati tra pubbliche amministrazioni e operatori economici partecipanti alla procedura aggiudicatari o incaricati dell'esecuzione del contratto.
 
+4.
+                        
+                            
+                                Nell'allegato I.9 sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le misure relative alla formazione del personale, agli strumenti e alla organizzazione necessaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        (( i criteri per garantire uniformita' di adozione dei metodi e strumenti di gestione informativa digitale delle costruzioni;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((le misure necessarie per l'attuazione dei processi di gestione informativa digitale delle costruzioni, ivi compresa la previsione dell'interoperabilita' dell'anagrafe patrimoniale di ciascuna stazione appaltante o ente concedente con l'archivio informatico nazionale delle opere pubbliche e con i sistemi informativi istituzionali per la rendicontazione degli investimenti pubblici;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di scambio e interoperabilita' dei dati e delle informazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le specifiche tecniche nazionali ed internazionali applicabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il contenuto minimo del capitolato informativo per l'((adozione)) dei metodi e degli strumenti di gestione informativa digitale ((delle costruzioni)).
+
 ((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
 ## Art. 44. — Appalto integrato
@@ -660,6 +1685,56 @@ L'80 per cento delle risorse di cui al comma 2, e' ripartito, per ogni opera, la
 L'incentivo di cui al comma 3 e' corrisposto dal responsabile di servizio preposto alla struttura competente o da altro dirigente incaricato dalla singola amministrazione, sentito il RUP, che accerta e attesta le specifiche funzioni tecniche svolte dal destinatario dell'incentivo di cui al comma 2. L'incentivo di cui al comma 3 e' corrisposto al personale con qualifica dirigenziale in deroga al regime di onnicomprensivita' di cui all'articolo 24, comma 3, del decreto legislativo 30 marzo 2001, n. 165, e alle analoghe disposizioni previste dai rispettivi ordinamenti del personale in regime di diritto pubblico. Le Amministrazioni che erogano gli incentivi al personale con qualifica dirigenziale, in sede di verifica della compatibilita' dei costi di cui all'articolo 40-bis del decreto legislativo 30 marzo 2001 n. 165, sono tenute a trasmettere agli organi di controllo di cui al medesimo articolo le informazioni relative all'ammontare degli importi annualmente corrisposti al predetto personale in deroga al regime di cui all'articolo 24, comma 3, del decreto legislativo 30 marzo 2001, ((n. 165, e il numero dei beneficiari)). L'incentivo complessivamente maturato da ciascuna unita' di personale nel corso dell'anno di competenza, anche per attivita' svolte per conto di altre amministrazioni, non puo' superare il trattamento economico complessivo annuo lordo percepito dalla medesima unita' di personale.. L'incentivo eccedente, non corrisposto, incrementa le risorse di cui al comma 5. Per le amministrazioni che adottano i metodi e gli strumenti di gestione informativa digitale delle costruzioni di cui all'articolo 43 il limite di cui al secondo periodo e' aumentato del 15 per cento. Incrementa altresi' le risorse di cui al comma 5 la parte di incentivo che corrisponde a prestazioni non svolte dal proprio personale, perche' affidate a personale esterno all'amministrazione medesima oppure perche' prive dell'attestazione del dirigente o del responsabile di servizio.
 
 Il 20 per cento delle risorse finanziarie di cui al comma 2, escluse le risorse che derivano da finanziamenti europei o da altri finanziamenti a destinazione vincolata, incrementato delle quote parti dell'incentivo corrispondenti a prestazioni non svolte o prive dell'attestazione del dirigente, oppure non corrisposto per le ragioni di cui al comma 4, secondo periodo, e' destinato ai fini di cui ai commi 6 e 7.
+
+6.
+                        
+                            
+                                Con le risorse di cui al comma 5 l'ente acquista beni e tecnologie funzionali a progetti di innovazione, anche per incentivare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la modellazione elettronica informativa per l'edilizia e le infrastrutture; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'implementazione delle banche dati per il controllo e il miglioramento della capacita' di spesa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'efficientamento informatico, con particolare riferimento alle metodologie e strumentazioni elettroniche per i controlli.
+
+7.
+                        
+                            
+                                Una parte delle risorse di cui al comma 5 e' in ogni caso utilizzata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per attivita' di formazione per l'incremento delle competenze digitali del personale nella realizzazione degli interventi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la specializzazione del personale che svolge funzioni tecniche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la copertura degli oneri di assicurazione obbligatoria del personale.
 
 Le amministrazioni e gli enti che costituiscono o si avvalgono di una centrale di committenza possono destinare, anche su richiesta di quest'ultima, le risorse finanziarie di cui al comma 2 o parte di esse al personale di tale centrale in relazione alle funzioni tecniche svolte. Le somme cosi' destinate non possono comunque eccedere il 25 per cento dell'incentivo di cui al comma 2. 
  ((14))
@@ -718,6 +1793,45 @@ Per i contratti affidati con le procedure di cui all'articolo 50, comma 1, lette
 E' comunque consentito derogare all'applicazione del principio di rotazione per gli affidamenti diretti di importo inferiore a 5.000 euro.
 
 ## Art. 50. — Procedure per l'affidamento
+
+1.
+                        
+                            
+                                Salvo quanto previsto dagli articoli 62 e 63, le stazioni appaltanti procedono all'affidamento dei contratti di lavori, servizi e forniture di importo inferiore alle soglie di cui all'articolo 14 con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    affidamento diretto per lavori di importo inferiore a 150.000 euro, anche senza consultazione di piu' operatori economici, assicurando che siano scelti soggetti in possesso di documentate esperienze pregresse idonee all'esecuzione delle prestazioni contrattuali anche individuati tra gli iscritti in elenchi o albi istituiti dalla stazione appaltante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affidamento diretto dei servizi e forniture, ivi compresi i servizi di ingegneria e architettura e l'attivita' di progettazione, di importo inferiore a 140.000 euro, anche senza consultazione di piu' operatori economici, assicurando che siano scelti soggetti in possesso di documentate esperienze pregresse idonee all'esecuzione delle prestazioni contrattuali, anche individuati tra gli iscritti in elenchi o albi istituiti dalla stazione appaltante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedura negoziata senza bando, previa consultazione di almeno cinque operatori economici, ove esistenti, individuati in base a indagini di mercato o tramite elenchi di operatori economici, per i lavori di importo pari o superiore a 150.000 euro e inferiore a 1 milione di euro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedura negoziata senza bando, previa consultazione di almeno dieci operatori economici, ove esistenti, individuati in base a indagini di mercato o tramite elenchi di operatori economici, per lavori di importo pari o superiore a 1 milione di euro e fino alle soglie di cui all'articolo 14, salva la possibilita' di ricorrere alle procedure di scelta del contraente di cui alla Parte IV del presente Libro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    procedura negoziata senza bando, previa consultazione di almeno cinque operatori economici, ove esistenti, individuati in base ad indagini di mercato o tramite elenchi di operatori economici, per l'affidamento di servizi e forniture, ivi compresi i servizi di ingegneria e architettura e l'attivita' di progettazione, di importo pari o superiore a 140.000 euro e fino alle soglie di cui all'articolo 14.
 
 Gli elenchi e le indagini di mercato sono gestiti con le modalita' previste nell'allegato II.1. Per la selezione degli operatori da invitare alle procedure negoziate, le stazioni appaltanti non possono utilizzare il sorteggio o altro metodo di estrazione casuale dei nominativi, se non in presenza di situazioni particolari e specificamente motivate, nei casi in cui non risulti praticabile nessun altro metodo di selezione degli operatori. Le stazioni appaltanti pubblicano sul proprio sito istituzionale i nominativi degli operatori consultati nell'ambito delle procedure di cui al comma 1.
 
@@ -778,9 +1892,164 @@ I termini dilatori previsti dall'articolo 18, commi 3 e 4, non si applicano agli
 
 ## Art. 56. — Appalti esclusi nei settori ordinari
 
+1.
+                        
+                            
+                                Le disposizioni del codice relative ai settori ordinari non si applicano agli appalti pubblici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di servizi aggiudicati da una stazione appaltante a un ente che sia una stazione appaltante o a un'associazione di stazioni appaltanti in base a un diritto esclusivo di cui esse beneficiano in virtu' di disposizioni legislative o regolamentari o di disposizioni amministrative pubblicate che siano compatibili con il Trattato sul funzionamento dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finalizzati a permettere alle stazioni appaltanti la messa a disposizione o la gestione di reti di telecomunicazioni o la prestazione al pubblico di uno o piu' servizi di comunicazioni elettroniche. Ai fini del presente articolo si applicano le definizioni di «rete di comunicazioni» e «servizio di comunicazione elettronica» contenute nell'articolo 2 del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che le stazioni appaltanti sono tenute ad aggiudicare o ad organizzare nel rispetto di procedure diverse da quelle previste dal codice e stabilite da: 
+ 1) uno strumento giuridico che crea obblighi internazionali, quali un accordo internazionale, concluso in conformita' dei trattati dell'Unione europea, tra lo Stato e uno o piu' Paesi terzi o relative articolazioni e riguardanti lavori, forniture o servizi destinati alla realizzazione congiunta o alla gestione congiunta di un progetto da parte dei soggetti firmatari; 
+ 2) un'organizzazione internazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che le stazioni appaltanti aggiudicano in base a norme previste da un'organizzazione internazionale o da un'istituzione finanziaria internazionale, quando gli appalti sono interamente finanziati dalla stessa organizzazione o istituzione. Nel caso di appalti pubblici finanziati prevalentemente da un'organizzazione internazionale o da un'istituzione finanziaria internazionale, le parti si accordano sulle procedure di aggiudicazione applicabili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    aventi ad oggetto l'acquisto o la locazione, quali che siano le relative modalita' finanziarie, di terreni, fabbricati esistenti o altri beni immobili o riguardanti diritti su tali beni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    aventi ad oggetto l'acquisto, lo sviluppo, la produzione o coproduzione di programmi o materiali associati ai programmi destinati ai servizi di media audiovisivi o radiofonici che sono aggiudicati da fornitori di servizi di media audiovisivi o radiofonici, ovvero gli appalti concernenti il tempo di trasmissione o la fornitura di programmi aggiudicati ai fornitori di servizi di media audiovisivi o radiofonici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    concernenti i servizi d'arbitrato e di conciliazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    concernenti uno qualsiasi dei seguenti servizi legali: 
+ 1) rappresentanza legale di un cliente da parte di un avvocato ai sensi dell'articolo 1 della legge 9 febbraio 1982, n. 31: 
+ 1.1) in un arbitrato o in una conciliazione tenuti in uno Stato membro dell'Unione europea, un Paese terzo o dinanzi a un'istanza arbitrale o conciliativa internazionale; 
+ 1.2) in procedimenti giudiziari dinanzi a organi giurisdizionali o autorita' pubbliche di uno Stato membro dell'Unione europea o un Paese terzo o dinanzi a organi giurisdizionali o istituzioni internazionali; 
+ 2) consulenza legale fornita in preparazione di uno dei procedimenti di cui al punto 1), o qualora vi sia un indizio concreto e una probabilita' elevata che la questione su cui verte la consulenza divenga oggetto del procedimento, sempre che la consulenza sia fornita da un avvocato ai sensi dell'articolo 1 della legge 9 febbraio 1982, n. 31; 
+ 3) servizi di certificazione e autenticazione di documenti che devono essere prestati da notai; 
+ 4) servizi legali prestati da fiduciari o tutori designati o altri servizi legali i cui fornitori sono designati da un organo giurisdizionale dello Stato o sono designati per legge per svolgere specifici compiti sotto la vigilanza di detti organi giurisdizionali; 
+ 5) altri servizi legali che sono connessi, anche occasionalmente, all'esercizio dei pubblici poteri; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    concernenti servizi finanziari relativi all'emissione, all'acquisto, alla vendita e al trasferimento di titoli o di altri strumenti finanziari come riportati nell'allegato I al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, servizi forniti da banche centrali e operazioni concluse con il Fondo europeo di stabilita' finanziaria e il meccanismo europeo di stabilita'; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    concernenti i prestiti, a prescindere dal fatto che siano correlati all'emissione, alla vendita, all'acquisto o al trasferimento di titoli o di altri strumenti finanziari; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    concernenti i contratti di lavoro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    concernenti servizi di difesa civile, di protezione civile e di prevenzione contro i pericoli forniti da organizzazioni e associazioni senza scopo di lucro identificati con i codici CPV 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8; 98113100-9 e 85143000-3 ad eccezione dei servizi di trasporto dei pazienti in ambulanza; 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    
+                                        ((concernenti gli acquisti: 
+ 1) di munizioni forzate, ai fini dell'obbligatoria prova delle armi da fuoco, precedente alla commercializzazione di queste ultime, nonche' delle correlate cabine di sparo; 
+ 2) delle attrezzature necessarie alle prove di resistenza, all'impatto di proiettili sparati con armi da fuoco, relative a serramenti e vetri blindati, elmetti, giubbotti, componenti di autoblindo, furgoni e simili; 
+ 3) di ricambi afferenti alle attrezzature di cui al numero 2); ))
+                                    
+                                
+                            
+                            
+                                n-ter)
+                                
+                                    
+                                        ((concernenti i servizi di manutenzione afferenti alle attrezzature di cui alla lettera n-bis), numero 2);))
+                                    
+                                
+                            
+                            
+                                o)
+                                
+                                    concernenti i servizi di trasporto pubblico di passeggeri per ferrovia o metropolitana; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    concernenti servizi connessi a campagne politiche, identificati con i codici CPV 79341400-0, 92111230-3 e 92111240-6, se aggiudicati da un partito politico nel contesto di una campagna elettorale per gli appalti relativi ai settori ordinari e alle concessioni; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    aventi ad oggetto l'acquisto di prodotti agricoli e alimentari per un valore non superiore a 20.000 euro annui per ciascuna impresa, da imprese agricole singole o associate situate in comuni classificati totalmente montani di cui all'elenco dei comuni italiani predisposto dall'ISTAT, ovvero ricompresi nella circolare del Ministero delle finanze n. 9 del 14 giugno 1993, pubblicata nel supplemento ordinario n. 53 alla Gazzetta Ufficiale della Repubblica italiana n. 141 del 18 giugno 1993, nonche' nei comuni delle isole minori di cui all'allegato A annesso alla legge 28 dicembre 2001, n. 448.
+
 Le disposizioni del codice relative ai settori ordinari non si applicano anche al caso in cui un'amministrazione pubblica stipuli una convenzione con la quale un soggetto pubblico o privato si impegni alla realizzazione, a sua totale cura e spesa e previo ottenimento di tutte le necessarie autorizzazioni, di un'opera pubblica o di un suo lotto funzionale o di parte dell'opera prevista nell'ambito di strumenti o programmi urbanistici, fermo restando il rispetto degli articoli 94, 95 e 98.
 
 ## Art. 57. — Clausole sociali dei bandi di gara, degli avvisi e degli inviti e criteri di sostenibilita' energetica e ambientale
+
+1.
+                        
+                            
+                                Per gli affidamenti dei contratti di appalto di lavori e servizi diversi da quelli aventi natura intellettuale e per i contratti di concessione, le stazioni appaltanti e gli enti concedenti inseriscono nei bandi di gara, negli avvisi e inviti, nel rispetto dei principi dell'Unione europea, specifiche clausole sociali con le quali sono richieste, come requisiti necessari dell'offerta, misure orientate tra l'altro a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire le pari opportunita' generazionali, di genere e di inclusione lavorativa per le persone con disabilita' o svantaggiate, la stabilita' occupazionale del personale impiegato, tenuto conto della tipologia di intervento, con particolare riferimento al settore dei beni culturali e del paesaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire l'applicazione dei contratti collettivi nazionali e territoriali di settore, in conformita' con l'articolo 11.
 
 Le stazioni appaltanti e gli enti concedenti contribuiscono al conseguimento degli obiettivi ambientali previsti dal Piano d'azione per la sostenibilita' ambientale dei consumi nel settore della pubblica amministrazione attraverso l'inserimento, nella documentazione progettuale e di gara, almeno delle specifiche tecniche e delle clausole contrattuali contenute nei criteri ambientali minimi, definiti per specifiche categorie di appalti e concessioni, differenziati, ove tecnicamente opportuno, anche in base al valore dell'appalto o della concessione, con decreto del Ministero dell'ambiente e della sicurezza energetica e conformemente, in riferimento all'acquisto di prodotti e servizi nei settori della ristorazione collettiva e fornitura di derrate alimentari, anche a quanto specificamente previsto dall'articolo 130. Tali criteri, in particolare quelli premianti, sono tenuti in considerazione anche ai fini della stesura dei documenti di gara per l'applicazione del criterio dell'offerta economicamente piu' vantaggiosa, ai sensi dell'articolo 108, commi 4 e 5. Le stazioni appaltanti valorizzano economicamente le procedure di affidamento di appalti e concessioni conformi ai criteri ambientali minimi. Nel caso di contratti relativi alle categorie di appalto riferite agli interventi di ristrutturazione, inclusi quelli comportanti demolizione e ricostruzione, i criteri ambientali minimi sono tenuti in considerazione, per quanto possibile, in funzione della tipologia di intervento e della localizzazione delle opere da realizzare, ((sulla base di quanto stabilito nei pertinenti criteri ambientali minimi relativi agli interventi edilizi)).
 
@@ -806,6 +2075,63 @@ Gli appalti basati su un accordo quadro sono aggiudicati secondo le procedure pr
 
 Quando l'accordo quadro sia concluso con un solo operatore economico, gli appalti sono aggiudicati entro i limiti delle condizioni fissate nell'accordo quadro stesso. La stazione appaltante puo' consultare per iscritto l'operatore economico chiedendogli di completare la sua offerta, se necessario.
 
+4.
+                        
+                            
+                                L'accordo quadro concluso con piu' operatori economici e' eseguito secondo una delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    secondo i termini e le condizioni dell'accordo quadro, senza riaprire il confronto competitivo, quando l'accordo quadro contenga tutti i termini che disciplinano la prestazione dei lavori, dei servizi e delle forniture, nonche' le condizioni oggettive, stabilite nei documenti di gara dell'accordo quadro, per determinare quale degli operatori economici parti dell'accordo effettuera' la prestazione; l'individuazione dell'operatore economico che effettuera' la prestazione avviene con decisione motivata in relazione alle specifiche esigenze dell'amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riaprendo il confronto competitivo tra gli operatori economici parti dell'accordo quadro, se l'accordo quadro non contiene tutti i termini che disciplinano la prestazione dei lavori, dei servizi e delle forniture; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistendo le condizioni di cui alla lettera a), in parte senza la riapertura del confronto competitivo conformemente a quanto ivi previsto e, in parte, con la riapertura del confronto competitivo conformemente a quanto previsto dalla lettera b), se questa possibilita' e' stata stabilita dalla stazione appaltante nei documenti di gara per l'accordo quadro. La scelta tra le due procedure avviene in base a criteri oggettivi che sono indicati nei documenti di gara per l'accordo quadro e che stabiliscono anche quali condizioni possono essere soggette alla riapertura del confronto competitivo. Le possibilita' previste alla presente lettera si applicano anche a ogni lotto di un accordo quadro per il quale tutti i termini che disciplinano la prestazione dei lavori, dei servizi e delle forniture in questione sono definiti nell'accordo quadro, indipendentemente dal fatto che siano stati stabiliti tutti i termini che disciplinano la prestazione dei lavori, dei servizi e delle forniture in questione per altri lotti.
+
+5.
+                        
+                            
+                                Gli eventuali confronti competitivi di cui al comma 4 si basano sulle stesse condizioni applicate all'aggiudicazione dell'accordo quadro, se necessario precisandole, e su altre condizioni indicate nei documenti di gara per l'accordo quadro, secondo la seguente procedura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per ogni appalto da aggiudicare la stazione appaltante consulta per iscritto gli operatori economici che sono in grado di eseguire l'oggetto dell'appalto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la stazione appaltante fissa un termine sufficiente per presentare le offerte relative a ciascun appalto specifico, tenendo conto della complessita' dell'oggetto dell'appalto e del tempo necessario per la trasmissione delle offerte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le offerte sono presentate per iscritto e il loro contenuto non e' reso pubblico fino alla scadenza del termine previsto per la loro presentazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la stazione appaltante aggiudica l'appalto all'offerente che ha presentato l'offerta migliore sulla base dei criteri di aggiudicazione fissati nei documenti di gara per l'accordo quadro.
+
 ((Quando in fase di stipula dei contratti attuativi dell'accordo non sia possibile preservare l'equilibrio contrattuale e non risulti possibile ripristinarlo mediante una rinegoziazione secondo oggettiva buona fede, ai sensi dell'articolo 12, comma 1, lettera b), e' fatta salva la facolta' dell'operatore economico o della stazione appaltante di non procedere alla stipula. Quando in fase di esecuzione dei singoli contratti attuativi dell'accordo non sia possibile preservare l'equilibrio contrattuale e non risulti possibile ripristinarlo mediante una rinegoziazione secondo oggettiva buona fede, e' fatta salva la facolta' della stazione appaltante o dell'appaltatore di invocarne la risoluzione per eccessiva onerosita' sopravvenuta, fermo restando quanto previsto dall'articolo 122, comma 5, del codice.))
 
 ## Art. 60. — Revisione prezzi
@@ -818,6 +2144,25 @@ b) una variazione del costo della fornitura o del servizio, in aumento o in dimi
 
 ((Per gli appalti di servizi e forniture, resta ferma la facolta' di inserire nel contratto, oltre alle clausole di cui al comma 1, meccanismi ordinari di adeguamento del prezzo del contratto all'indice inflattivo convenzionalmente individuato tra le parti. In tale ipotesi, l'incremento di prezzo riconosciuto in virtu' dei meccanismi ordinari di adeguamento del prezzo del contratto non e' considerato nel calcolo della variazione del costo del servizio o della fornitura rilevante, ai sensi del comma 2, lettera b), ai fini dell'attivazione delle clausole di revisione prezzi.))
 
+3.
+                        
+                            
+                                Ai fini della determinazione della variazione dei costi e dei prezzi di cui al comma 1, si utilizzano i seguenti indici sintetici ((...)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((con riguardo ai contratti di lavori, gli indici sintetici individuati ai sensi del comma 4-quater;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    con riguardo ai contratti di servizi e forniture, gli indici ((, anche disaggregati,)) dei prezzi al consumo, dei prezzi alla produzione dell'industria e dei servizi e gli indici ((, anche disaggregati,)) delle retribuzioni contrattuali orarie.
+
 ((Con provvedimento adottato dal Ministero dell'infrastrutture e dei trasporti, sentito l'ISTAT, sono adottati i singoli indici di costo delle lavorazioni, sulla base delle tipologie omogenee di cui alla tabella A dell'allegato II.2-bis, per la determinazione degli indici sintetici individuati ai sensi del comma 4-quater.))
 
 ((Gli indici di prezzo di cui al comma 3, lettera b), sono pubblicati, unitamente alla relativa metodologia di calcolo, sul portale istituzionale dell'ISTAT in conformita' alle pertinenti disposizioni normative europee e nazionali in materia di comunicazione e diffusione dell'informazione statistica ufficiale.))
@@ -825,6 +2170,31 @@ b) una variazione del costo della fornitura o del servizio, in aumento o in dimi
 ((In relazione agli appalti di servizi e forniture che, in ragione dei settori di riferimento, dispongono di specifici indici di determinazione della variazione del prezzo, resta ferma la possibilita' di fare riferimento ai medesimi indici anche in sostituzione di quelli previsti dal comma 3, lettera b). Le disposizioni di cui al comma 1 non si applicano agli appalti di servizi e forniture il cui prezzo e' determinato sulla base di una indicizzazione.))
 
 ((L'allegato II.2-bis disciplina le modalita' di applicazione delle clausole di revisione dei prezzi, tenuto conto della natura e del settore merceologico dell'appalto, e degli indici disponibili e ne specifica le modalita' di corresponsione, anche in considerazione dell'eventuale ricorso al subappalto.))
+
+5.
+                        
+                            
+                                Per far fronte ai maggiori oneri derivanti dalla revisione prezzi di cui al presente articolo le stazioni appaltanti utilizzano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 50 per cento, le risorse appositamente accantonate per imprevisti nel quadro economico di ogni intervento, fatte salve le somme relative agli impegni contrattuali gia' assunti, e le eventuali ulteriori somme a disposizione della medesima stazione appaltante e stanziate annualmente relativamente allo stesso intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le somme derivanti da ribassi d'asta, se non ne e' prevista una diversa destinazione dalle norme vigenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le somme disponibili relative ad altri interventi ultimati di competenza della medesima stazione appaltante e per i quali siano stati eseguiti i relativi collaudi o emessi i certificati di regolare esecuzione, nel rispetto delle procedure contabili della spesa e nei limiti della residua spesa autorizzata disponibile.
 
 ## Art. 61. — Contratti riservati
 
@@ -852,7 +2222,153 @@ L'allegato di cui al comma 2 indica i requisiti necessari per ottenere la qualif
 
 L'allegato di cui al comma 2 puo' essere integrato con la disciplina di ulteriori misure organizzative per la efficace attuazione del presente articolo, dell'articolo 63 e del relativo regime sanzionatorio, ((nonche' per disciplinare il coordinamento, in capo all'ANAC, dei soggetti aggregatori e delle centrali di committenza)).
 
+5.
+                        
+                            
+                                Le stazioni appaltanti qualificate, fatto salvo quanto previsto al comma 1 ((...)), possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare, in funzione dei livelli di qualificazione posseduti, gare di importo superiore alle soglie indicate al comma 1 del presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisire lavori, servizi e forniture avvalendosi di una centrale di committenza qualificata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgere attivita' di committenza ausiliaria ai sensi del comma 11; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedere mediante appalto congiunto ai sensi del comma 14; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    procedere mediante utilizzo autonomo degli strumenti telematici di negoziazione messi a disposizione secondo la normativa vigente dalle centrali di committenza qualificate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    procedere all'effettuazione di ordini su strumenti di acquisto messi a disposizione dalle centrali di committenza anche per importi superiori ai livelli di qualificazione posseduti, con preliminare preferenza per il territorio regionale di riferimento. Se il bene o il servizio non e' disponibile o idoneo al soddisfacimento dello specifico fabbisogno della stazione appaltante, oppure per ragioni di convenienza economica, la stazione appaltante puo' agire, previa motivazione, senza limiti territoriali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    eseguono i contratti per conto delle stazioni appaltanti non qualificate nelle ipotesi di cui al comma 6, lettera g).
+
+6.
+                        
+                            
+                                Le stazioni appaltanti non qualificate ai sensi del comma 2 dell'articolo 63, fatto salvo quanto previsto dal comma 1 del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    procedono all'acquisizione di forniture, servizi e lavori ricorrendo a una ((stazione appaltante o)) centrale di committenza qualificata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricorrono per attivita' di committenza ausiliaria ((...)) a centrali di committenza qualificate e a stazioni appaltanti qualificate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedono ad ((affidamenti di appalti di servizi e forniture)) di importo inferiore alla soglia europea di cui ai commi 1 e 2 dell'articolo 14 nonche' ad affidamenti di lavori di manutenzione ordinaria d'importo inferiore a 1 milione di euro mediante utilizzo autonomo degli strumenti telematici di negoziazione messi a disposizione dalle centrali di committenza qualificate secondo la normativa vigente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettuano ordini su strumenti di acquisto messi a disposizione dalle centrali di committenza qualificate e dai soggetti aggregatori, con preliminare preferenza per il territorio regionale di riferimento. Se il bene o il servizio non e' disponibile o idoneo al soddisfacimento dello specifico fabbisogno della stazione appaltante, oppure per ragioni di convenienza economica, la stazione appaltante puo' agire, previa motivazione, senza limiti territoriali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eseguono i contratti per i quali sono qualificate per l'esecuzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eseguono i contratti affidati ai sensi (( delle lettere c) e d) )); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    qualora non siano qualificate per l'esecuzione, ricorrono a una stazione appaltante qualificata, a una centrale di committenza qualificata o a soggetti aggregatori; in tal caso possono provvedere alla nomina di un supporto al RUP della centrale di committenza ((affidataria)).
+
 ((Le stazioni appaltanti non qualificate possono procedere all'acquisizione di forniture, servizi e lavori ricorrendo a una stazione appaltante o centrale di committenza qualificata anche per le procedure di importo inferiore alle soglie di cui al comma 1.))
+
+7.
+                        
+                            
+                                
+                                    ((In relazione ai requisiti di qualificazioni posseduti, le centrali di committenza:))
+                                
+                            
+                            
+                                a)
+                                
+                                    progettano, aggiudicano e stipulano contratti o accordi quadro per conto delle stazioni appaltanti non qualificate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    progettano, aggiudicano e stipulano contratti o accordi quadro per conto delle stazioni appaltanti qualificate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    progettano, aggiudicano e stipulano convenzioni e accordi quadro ai quali le stazioni appaltanti qualificate e non qualificate possono aderire per l'aggiudicazione di propri appalti specifici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    istituiscono e gestiscono sistemi dinamici di acquisizione e mercati elettronici di negoziazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eseguono i contratti per conto delle stazioni appaltanti non qualificate nelle ipotesi di cui al comma 6, lettera g).
 
 L'allegato II.4 puo' essere integrato con una disciplina specifica sul funzionamento e sugli ambiti di riferimento delle centrali di committenza, in applicazione dei principi di sussidiarieta', differenziazione e adeguatezza.
 
@@ -861,6 +2377,31 @@ Il ricorso alla stazione appaltante qualificata o alla centrale di committenza q
 Le stazioni appaltanti non qualificate consultano sul sito istituzionale dell'ANAC l'elenco delle stazioni appaltanti qualificate e delle centrali di committenza qualificate. La domanda di svolgere la procedura di gara, rivolta dalla stazione appaltante non qualificata a una stazione appaltante qualificata o a una centrale di committenza qualificata, si intende accolta se non riceve risposta negativa nel termine di dieci giorni dalla sua ricezione. In caso di risposta negativa, la stazione appaltante non qualificata si rivolge all'ANAC, che provvede entro quindici giorni all'assegnazione d'ufficio della richiesta a una stazione appaltante qualificata o a una centrale di committenza qualificata, individuata sulla base delle fasce di qualificazione di cui all'articolo 63, comma 2. Eventuali inadempienze rispetto all'assegnazione d'ufficio di cui al terzo periodo possono essere sanzionate ai sensi dell'articolo 63, comma 11, secondo periodo.
 
 Le centrali di committenza qualificate e le stazioni appaltanti qualificate per i livelli di cui all'articolo 63, comma 2, lettere b) e c) possono svolgere, in relazione ai requisiti di qualificazione posseduti, attivita' di committenza ausiliarie in favore di altre centrali di committenza o per una o piu' stazioni appaltanti senza vincolo territoriale con le modalita' di cui al comma 9, primo periodo. Resta fermo quanto previsto dall'articolo 9 del decreto-legge 24 aprile 2014, n. 66 convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89. Al di fuori dei casi di cui al primo periodo, le stazioni appaltanti possono ricorrere, per le attivita' di committenza ausiliarie, ad esclusione delle attivita' di cui all'articolo 3, comma 1, lettera z), punto 4, dell'allegato I.1, a prestatori di servizi individuati attraverso le procedure di cui al codice.
+
+12.
+                        
+                            
+                                La stazione appaltante, nell'ambito delle procedure di committenza, e' responsabile del rispetto del codice per le attivita' a essa direttamente imputabili, quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'aggiudicazione di un appalto nel quadro di un sistema dinamico di acquisizione gestito da una centrale di committenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo svolgimento della riapertura del confronto competitivo nell'ambito di un accordo quadro concluso da una centrale di committenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai sensi dell'articolo 59, comma 4, lettere a) e c), la determinazione di quale tra gli operatori economici parte dell'accordo quadro svolgera' un determinato compito nell'ambito di un accordo quadro concluso da una centrale di committenza.
 
 Le centrali di committenza e le stazioni appaltanti che svolgono attivita' di committenza anche ausiliaria sono direttamente responsabili per le attivita' di centralizzazione della committenza svolte per conto di altre stazioni appaltanti o enti concedenti. Esse nominano un RUP, che cura i necessari raccordi con la stazione appaltante beneficiaria dell'intervento, la quale a sua volta nomina un responsabile del procedimento per le attivita' di propria pertinenza.
 
@@ -879,19 +2420,120 @@ Dall'applicazione del presente articolo e dell'articolo 63 sono esclusi le impre
 
 Fermo restando quanto stabilito dall'articolo 62, e' istituito presso l'ANAC, che ne assicura la gestione e la pubblicita', un elenco delle stazioni appaltanti qualificate di cui fanno parte, in una specifica sezione, anche le centrali di committenza, ivi compresi i soggetti aggregatori. Ciascuna stazione appaltante o centrale di committenza che soddisfi i requisiti di cui all'allegato II.4 consegue la qualificazione ed e' iscritta nell'elenco di cui al primo periodo.
 
+2.
+                        
+                            
+                                La qualificazione per la progettazione ((, l'affidamento e l'esecuzione)) si articola in tre fasce di importo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualificazione base o di primo livello, per servizi e forniture fino alla soglia di 750.000 euro e per lavori fino a 1 milione di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualificazione intermedia o di secondo livello, per servizi e forniture fino a 5 milioni di euro e per lavori fino alla soglia di cui all'articolo 14; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualificazione avanzata o di terzo livello, senza limiti di importo.
+
 Ogni stazione appaltante o centrale di committenza puo' effettuare le procedure corrispondenti al livello di qualificazione posseduto e a quelli inferiori. Per i livelli superiori si applica il comma 6 dell'articolo 62.
 
 Sono iscritti di diritto nell'elenco di cui al comma 1 il Ministero delle infrastrutture e dei trasporti, compresi i Provveditorati interregionali per le opere pubbliche, Consip S.p.a., Invitalia -Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo d'impresa S.p.a., Difesa servizi S.p.A., l'Agenzia del demanio, i soggetti aggregatori di cui all'articolo 9 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, Sport e salute S.p.a. e le Soprintendenze Archeologia, belle arti e paesaggio con competenza sul territorio del capoluogo di regione. In sede di prima applicazione le stazioni appaltanti delle unioni di comuni, costituite nelle forme prevista dall'ordinamento, delle provincie e delle citta' metropolitane, dei comuni capoluogo di provincia e delle regioni sono iscritte con riserva nell'elenco di cui all'articolo 63, comma 1, primo periodo. Eventuali ulteriori iscrizioni di diritto possono essere disposte con decreto del Presidente del Consiglio dei ministri, sentita l'ANAC, previa intesa in sede della Conferenza unificata.
 
+5.
+                        
+                            
+                                La qualificazione ha ad oggetto le attivita' che caratterizzano il processo di acquisizione di un bene, servizio o lavoro in relazione ai seguenti ambiti e riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la capacita' di progettazione tecnico-amministrativa delle procedure; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la capacita' di affidamento e controllo dell'intera procedura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la capacita' di verifica sull'esecuzione contrattuale, ivi incluso il collaudo e la messa in opera.
+
 ((Le stazioni appaltanti e le centrali di committenza possono essere qualificate anche solo per la progettazione e l'affidamento di lavori oppure per la progettazione e l'affidamento di servizi e forniture o, alle condizioni indicate nell'Allegato II.4, per la sola esecuzione di lavori o di servizi e forniture.))
 
 ((Le stazioni appaltanti qualificate che svolgono attivita' di committenza per altre stazioni appaltanti e le centrali di committenza qualificate programmano la loro attivita' nel rispetto del principio di leale collaborazione.))
+
+7.
+                        
+                            
+                                I requisiti di qualificazione per la progettazione e l'affidamento sono disciplinati dall'allegato II.4 e attengono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'organizzazione della funzione di spesa e ai processi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla consistenza, esperienza e competenza delle risorse umane, ivi incluso il sistema di reclutamento e la adeguata formazione del personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'esperienza maturata nell'attivita' di progettazione, affidamento ed esecuzione di contratti, ivi compreso l'eventuale utilizzo di metodi e strumenti di gestione informativa delle costruzioni.
 
 ((I requisiti di qualificazione per l'esecuzione sono indicati separatamente nell'allegato II.4.))
 
 Le amministrazioni la cui organizzazione prevede articolazioni, anche territoriali, verificano la sussistenza dei requisiti di cui al comma 7 in capo alle medesime strutture e ne danno comunicazione all'ANAC per la qualificazione.
 
 ((In relazione al comma 7, lettera b), e alla formazione del personale propedeutico alla qualificazione per l'esecuzione, la Scuola nazionale dell'amministrazione definisce i requisiti e le modalita' per l'accreditamento dei soggetti pubblici o privati, che svolgono attivita' formative, procedendo alla verifica, anche a campione, della sussistenza dei requisiti stessi e provvede alle conseguenti attivita' di accreditamento nonche' alla revoca dello stesso nei casi di accertata carenza dei requisiti.))
+
+11.
+                        
+                            
+                                In nessun caso i soggetti interessati possono comprovare il possesso dei requisiti di qualificazione ricorrendo ad artifizi tali da eluderne la funzione. L'ANAC, per accertati casi di gravi violazioni delle disposizioni di cui al presente articolo, puo' irrogare una sanzione entro il limite minimo di euro 500 euro e il limite massimo di euro 1 milione e, nei casi piu' gravi, disporre la sospensione della qualificazione precedentemente ottenuta.
+Costituiscono gravi violazioni le dichiarazioni dolosamente tese a dimostrare il possesso di requisiti di qualificazione non sussistenti, ivi comprese, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le centrali di committenza, la dichiarata presenza di un'organizzazione stabile nella quale il personale continui di fatto a operare per l'amministrazione di provenienza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le stazioni appaltanti e le centrali di committenza, la dichiarata presenza di personale addetto alla struttura organizzativa stabile, che sia di fatto impegnato in altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la mancata comunicazione all'ANAC della perdita dei requisiti.
 
 Se la qualificazione viene meno o e' sospesa, le procedure in corso sono comunque portate a compimento.
 
@@ -901,6 +2543,49 @@ L'ANAC stabilisce i requisiti e le modalita' attuative del sistema di qualificaz
 
 Le stazioni appaltanti possono rivolgersi a centrali di committenza ubicate in un altro Stato membro dell'Unione europea che svolgono la propria attivita' in conformita' alle disposizioni nazionali dello Stato membro in cui sono ubicate.
 
+2.
+                        
+                            
+                                Amministrazioni ed enti di diversi Stati membri possono congiuntamente aggiudicare un appalto pubblico, concludere un accordo quadro o gestire un sistema dinamico di acquisizione tramite accordi che determinino: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la disciplina nazionale applicabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le responsabilita' delle parti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di gestione della procedura e i termini di stipulazione dei contratti e di esecuzione dei lavori, delle forniture o dei servizi.
+
+3.
+                        
+                            
+                                Se piu' amministrazioni di diversi Stati membri hanno istituito un soggetto congiunto comprendendo i gruppi europei di cooperazione territoriale di cui al regolamento (CE) n. 1082/2006 del Parlamento europeo e del Consiglio, del 5 luglio 2006 o altri soggetti istituiti in base al diritto dell'Unione europea, stabiliscono con apposito accordo che alle relative procedure di appalto si applichino, in alternativa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le disposizioni nazionali dello Stato membro nel quale il soggetto congiunto ha la sua sede sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le disposizioni nazionali dello Stato membro in cui il soggetto congiunto esercita le sue attivita'.
+
 In base a quanto stabilito nell'atto costitutivo del soggetto congiunto, gli accordi del presente articolo possono applicarsi per un periodo indeterminato o a una generalita' di appalti, oppure essere limitati a un periodo determinato, ad alcuni tipi di appalti o ad una o piu' aggiudicazioni di singoli appalti.
 
 ## - - Titolo II Gli operatori economici
@@ -909,13 +2594,151 @@ In base a quanto stabilito nell'atto costitutivo del soggetto congiunto, gli acc
 
 Sono ammessi a partecipare alle procedure di affidamento dei contratti pubblici gli operatori economici di cui all'articolo 1, lettera l), dell'allegato I.1, nonche' gli operatori economici stabiliti in altri Stati membri, costituiti conformemente alla legislazione vigente nei rispettivi Paesi.
 
+2.
+                        
+                            
+                                Rientrano nella definizione di operatori economici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli imprenditori individuali, anche artigiani, e le societa', anche cooperative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i consorzi fra societa' cooperative di produzione e lavoro costituiti a norma della legge 25 giugno 1909, n. 422 e del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i consorzi tra imprese artigiane di cui alla legge 8 agosto 1985, n. 443; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i consorzi stabili, costituiti anche in forma di societa' consortili ai sensi dell'articolo 2615-ter del codice civile, tra imprenditori individuali, anche artigiani, societa' commerciali, societa' cooperative di produzione e lavoro; i consorzi stabili sono formati da non meno di tre consorziati che, con decisione assunta dai rispettivi organi deliberativi, abbiano stabilito di operare in modo congiunto nel settore dei contratti pubblici di lavori, servizi e forniture per un periodo di tempo non inferiore a cinque anni, istituendo a tal fine una comune struttura di impresa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i raggruppamenti temporanei di concorrenti, costituiti o costituendi dai soggetti di cui alle lettere a), b), c) e d), i quali, prima della presentazione dell'offerta, abbiano conferito mandato collettivo speciale con rappresentanza ad uno di essi, qualificato mandatario, il quale esprime l'offerta in nome e per conto proprio e dei mandanti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i consorzi ordinari di concorrenti di cui all'articolo 2602 del codice civile, costituiti o costituendi tra i soggetti di cui alle lettere a), b), c) e d) del presente comma, anche in forma di societa' ai sensi dell'articolo 2615-ter del codice civile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le aggregazioni tra le imprese aderenti al contratto di rete ai sensi dell'articolo 3, comma 4-ter, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i soggetti che abbiano stipulato il contratto di gruppo europeo di interesse economico (GEIE) ai sensi del decreto legislativo 23 luglio 1991, n. 240.
+
 Le stazioni appaltanti possono imporre alle persone giuridiche di indicare, nell'offerta o nella domanda di partecipazione a procedure per l'affidamento di appalti che comportino esecuzione di servizi o lavori nonche' di forniture che comportano anche servizi o lavori di posa in opera e di installazione, il nome e le qualifiche professionali delle persone fisiche incaricate di fornire la prestazione e possono esigere che taluni compiti essenziali siano direttamente svolti dall'offerente.
 
 ## Art. 66. — Operatori economici per l'affidamento dei servizi di architettura e di ingegneria
 
+1.
+                        
+                            
+                                Sono ammessi a partecipare alle procedure di affidamento dei servizi attinenti all'architettura e all'ingegneria nel rispetto del principio di non discriminazione fra i diversi soggetti sulla base della forma giuridica assunta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i prestatori di servizi di ingegneria e architettura: i professionisti singoli, associati, le societa' tra professionisti di cui alla lettera b), le societa' di ingegneria di cui alla lettera c), i consorzi, i GEIE, i raggruppamenti temporanei fra i predetti soggetti che rendono a committenti pubblici e privati, operando sul mercato, servizi di ingegneria e di architettura, nonche' attivita' tecnico-amministrative e studi di fattibilita' economico-finanziaria ad esse connesse, ivi compresi, con riferimento agli interventi inerenti al restauro e alla manutenzione di beni mobili e delle superfici decorate di beni architettonici, i soggetti con qualifica di restauratore di beni culturali ai sensi della vigente normativa, gli archeologi professionisti, singoli e associati, e le societa' da essi costituite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' di professionisti: le societa' costituite esclusivamente tra professionisti iscritti negli appositi albi previsti dai vigenti ordinamenti professionali, nelle forme delle societa' di persone di cui ai Capi II, III e IV del Titolo V del Libro V del codice civile, oppure nella forma di societa' cooperativa di cui al Capo I del Titolo VI del Libro V del codice civile, che svolgono per committenti privati e pubblici servizi di ingegneria e architettura quali studi di fattibilita', ricerche, consulenze, progettazioni o direzioni dei lavori, valutazioni di congruita' tecnico economica o studi di impatto ambientale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' di ingegneria: le societa' di capitali di cui ai Capi V, VI e VII del Titolo V del Libro V del codice civile, oppure nella forma di societa' cooperative di cui al Capo I del Titolo VI del Libro V del codice civile che non abbiano i requisiti delle societa' tra professionisti, che eseguono studi di fattibilita', ricerche, consulenze, progettazioni o direzioni dei lavori, valutazioni di congruita' tecnico-economica o studi di impatto, nonche' eventuali attivita' di produzione di beni connesse allo svolgimento di detti servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i prestatori di servizi di ingegneria e architettura identificati con i codici CPV da 74200000-1 a 74276400;8 e da 74310000-5 a 74323100-0 e 74874000-6 stabiliti in altri Stati membri, costituiti conformemente alla legislazione vigente nei rispettivi Paesi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri soggetti abilitati in forza del diritto nazionale a offrire sul mercato servizi di ingegneria e di architettura, nel rispetto dei principi di non discriminazione e par condicio fra i diversi soggetti abilitati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i raggruppamenti temporanei costituiti dai soggetti di cui alle lettere da a) a e); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i consorzi stabili di societa' di professionisti e di societa' di ingegneria, anche in forma mista, formati da non meno di tre consorziati che abbiano operato nei settori dei servizi di ingegneria e architettura.
+
 Per la partecipazione alle procedure di affidamento di cui al comma 1 i soggetti ivi indicati devono possedere i requisiti minimi stabiliti nella Parte V dell'allegato II.12. Le societa', per un periodo di cinque anni dalla loro costituzione, possono documentare il possesso dei requisiti economico-finanziari e tecnico-organizzativi richiesti dal bando di gara anche con riferimento ai requisiti dei soci delle societa', qualora costituite nella forma di societa' di persone o di societa' cooperativa, e dei direttori tecnici o dei professionisti dipendenti della societa' con rapporto a tempo indeterminato, qualora costituite nella forma di societa' di capitali, nonche' dei soggetti di cui alla lettera e) del comma 1, i cui requisiti minimi sono stabiliti nel predetto allegato.
 
 ## Art. 67. — Consorzi non necessari
+
+1.
+                        
+                            
+                                I requisiti di capacita' tecnica e finanziaria per l'ammissione alle procedure di affidamento dei soggetti di cui agli articoli 65, comma 2, lettere b), c) e d), e 66, comma 1, lettera g), sono disciplinati dall'allegato II.12, fermo restando che per i consorzi di cui all'articolo 65, comma 2, lettera d): 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli appalti di servizi e forniture, sono computati cumulativamente in capo al consorzio ancorche' posseduti dalle singole imprese consorziate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli appalti di lavori che il consorzio esegua esclusivamente con la propria struttura, senza designare le imprese esecutrici, i requisiti posseduti in proprio sono computati cumulativamente con quelli posseduti dalle imprese consorziate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli appalti di lavori che il consorzio esegua tramite le consorziate indicate in sede di gara, i requisiti sono posseduti e comprovati da queste ultime in proprio, ovvero mediante avvalimento ai sensi dell'articolo 104.
 
 COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2024, N. 209.
 
@@ -943,6 +2766,24 @@ E' consentita la presentazione di offerte da parte dei soggetti di cui all'artic
 Fatto salvo quanto previsto dal comma 4, in sede di offerta sono specificate le categorie di lavori o le parti del servizio o della fornitura che saranno eseguite dai singoli operatori economici riuniti o consorziati, con l'impegno di questi a realizzarle.
 
 I raggruppamenti temporanei non possono essere obbligati ad avere una forma giuridica specifica ai fini della presentazione di un'offerta o di una domanda di partecipazione.
+
+4.
+                        
+                            
+                                Le stazioni appaltanti possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    imporre ai raggruppamenti di operatori economici di assumere una forma giuridica specifica dopo l'aggiudicazione del contratto, nel caso in cui tale trasformazione sia necessaria per la buona esecuzione del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specificare nei documenti di gara le modalita' con cui i raggruppamenti di operatori economici ottemperano ai requisiti in materia di capacita' economica e finanziaria o di capacita' tecniche e professionali, purche' cio' sia proporzionato e giustificato da motivazioni obiettive.
 
 Per la costituzione del raggruppamento temporaneo gli operatori economici devono conferire, con un unico atto, mandato collettivo speciale con rappresentanza ad uno di essi, detto mandatario.
 
@@ -988,6 +2829,74 @@ Per l'aggiudicazione di appalti pubblici le stazioni appaltanti utilizzano la pr
 
 Nei soli casi previsti dall'articolo 76 le stazioni appaltanti possono utilizzare la procedura negoziata senza pubblicazione di un bando di gara.
 
+3.
+                        
+                            
+                                Le stazioni appaltanti utilizzano la procedura competitiva con negoziazione o il dialogo competitivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'aggiudicazione di contratti di lavori, forniture o servizi in presenza di una o piu' delle seguenti condizioni: 
+ 1) quando le esigenze della stazione appaltante perseguite con l'appalto non possono essere soddisfatte con le altre procedure; 
+ 2) quando le esigenze della stazione appaltante implicano soluzioni o progetti innovativi; 
+ 3) quando l'appalto non puo' essere aggiudicato senza preventive negoziazioni a causa di circostanze particolari in relazione alla natura, complessita' o impostazione finanziaria e giuridica dell'oggetto dell'appalto o a causa dei rischi a esso connessi; 
+ 4) quando le specifiche tecniche non possono essere stabilite con sufficiente precisione dalla stazione appaltante con riferimento a una norma, una valutazione tecnica europea, una specifica tecnica comune o un riferimento tecnico ai sensi dei numeri da 2) a 5) della Parte I dell'allegato II.5. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'aggiudicazione di contratti di lavori, forniture o servizi per i quali, in esito a una procedura aperta o ristretta, sono state presentate soltanto offerte inammissibili ai sensi del comma 4. In tal caso la stazione appaltante non e' tenuta a pubblicare un bando di gara, se ammette alla ulteriore procedura tutti, e soltanto, gli offerenti in possesso dei requisiti di cui agli articoli da 94 a 105 che, nella procedura aperta o ristretta precedente, hanno presentato offerte conformi ai requisiti formali della procedura di appalto.
+
+4.
+                        
+                            
+                                Sono inammissibili le offerte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non conformi ai documenti di gara; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricevute oltre i termini indicati nel bando o nell'invito con cui si indice la gara; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in relazione alle quali vi sono prove di corruzione o collusione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    considerate anormalmente basse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    presentate da offerenti che non possiedono la qualificazione necessaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il cui prezzo supera l'importo posto a base di gara, stabilito e documentato prima dell'avvio della procedura di appalto ((, salvo che il bando non preveda espressamente tale possibilita', individuandone i limiti di operativita')).
+
 Le stazioni appaltanti possono utilizzare il partenariato per l'innovazione quando l'esigenza di sviluppare prodotti, servizi o lavori innovativi e di acquistare successivamente le forniture, i servizi o i lavori che ne risultano non puo' essere soddisfatta ricorrendo a soluzioni gia' disponibili sul mercato, a condizione che le forniture, i servizi o i lavori che ne risultano corrispondano ai livelli di prestazioni e ai costi massimi concordati tra le stazioni appaltanti e i partecipanti.
 
 Nelle procedure ristrette, nelle procedure competitive con negoziazione, nelle procedure di dialogo competitivo e di partenariato per l'innovazione le stazioni appaltanti, applicando i criteri o le regole obiettive e non discriminatorie indicate nel bando di gara o nell'invito a confermare l'interesse, possono limitare il numero di candidati, che soddisfano i criteri di selezione, da invitare a presentare un'offerta, a negoziare o a partecipare al dialogo, nel rispetto del principio di concorrenza e del numero minimo di candidati da invitare indicato nel bando di gara o nell'invito a confermare l'interesse. In ogni caso, il numero minimo di candidati non puo' essere inferiore a cinque nelle procedure ristrette e a tre nelle altre procedure. La stazione appaltante non puo' ammettere alla stessa procedura altri operatori economici che non abbiano chiesto di partecipare o candidati che non abbiano le capacita' richieste.
@@ -1002,6 +2911,24 @@ Il termine minimo per la ricezione delle offerte e' di trenta giorni dalla data 
 
 Le stazioni appaltanti possono fissare un termine non inferiore a quindici giorni a decorrere dalla data di trasmissione del bando di gara ai sensi dell'articolo 84, se per ragioni di urgenza, specificamente motivate, il termine minimo stabilito dal comma 2 del presente articolo non puo' essere rispettato.
 
+4.
+                        
+                            
+                                Nel caso in cui le stazioni appaltanti abbiano pubblicato un avviso di pre-informazione di cui all'articolo 81 che non sia stato usato come mezzo di indizione di una gara, il termine minimo di cui al comma 2 del presente articolo puo' essere ridotto a quindici giorni purche' concorrano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'avviso di pre-informazione contenga tutte le informazioni richieste per il bando di gara di cui all'allegato II.6, Parte I, lettera B, sezione B.1, sempreche' queste siano disponibili al momento della pubblicazione dell'avviso di pre-informazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'avviso di pre-informazione sia stato inviato alla pubblicazione da non meno di trentacinque giorni e non oltre dodici mesi prima della data di trasmissione del bando di gara.
+
 ((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
 ## Art. 72. — Procedura ristretta
@@ -1012,7 +2939,43 @@ Il termine minimo per la ricezione delle domande di partecipazione e' di trenta 
 
 A seguito della valutazione da parte delle stazioni appaltanti delle informazioni fornite, soltanto gli operatori economici invitati possono presentare un'offerta. Il termine minimo per la ricezione delle offerte e' di trenta giorni dalla data dell'invito a presentare offerte.
 
+4.
+                        
+                            
+                                Se le stazioni appaltanti hanno pubblicato l'avviso di pre-informazione non utilizzato per l'indizione di una gara, il termine minimo per la presentazione delle offerte puo' essere ridotto a dieci giorni purche' concorrano le seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'avviso di pre-informazione contenga tutte le informazioni richieste nell'allegato II.6, Parte I, lettera B, sezione B.1, purche' dette informazioni siano disponibili al momento della pubblicazione dell'avviso di pre-informazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'avviso di pre-informazione sia stato trasmesso da non meno di trentacinque giorni e non oltre dodici mesi prima della data di trasmissione del bando di gara.
+
 Le stazioni appaltanti di cui all'articolo 1, comma 1, lettera d), dell'allegato I.1 possono fissare il termine per la ricezione delle offerte di concerto con i candidati selezionati, purche' questi ultimi dispongano di un termine identico per redigere e presentare le loro offerte. In mancanza di accordo, il termine non puo' essere inferiore a dieci giorni dalla data di invio dell'invito a presentare offerte.
+
+6.
+                        
+                            
+                                Quando per motivate ragioni di urgenza e' impossibile rispettare i termini minimi previsti dal presente articolo, la stazione appaltante puo' fissare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la ricezione delle domande di partecipazione, un termine non inferiore a quindici giorni dalla data di pubblicazione del bando di gara; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la ricezione delle offerte, un termine non inferiore a dieci giorni a decorrere dalla data di invio dell'invito a presentare offerte.
 
 ## Art. 73. — Procedura competitiva con negoziazione
 
@@ -1070,7 +3033,67 @@ L'offerta iniziale e quelle successive, esclusa l'offerta finale, possono essere
 
 Le stazioni appaltanti possono aggiudicare appalti pubblici mediante una procedura negoziata senza pubblicazione di un bando di gara quando ricorrono i presupposti fissati dai commi seguenti, dandone motivatamente conto nel primo atto della procedura in relazione alla specifica situazione di fatto e alle caratteristiche dei mercati potenzialmente interessati e delle dinamiche che li caratterizzano, e nel rispetto dei principi di cui agli articoli 1, 2 e 3. A tali fini le stazioni appaltanti tengono conto degli esiti delle consultazioni di mercato eventualmente eseguite, rivolte anche ad analizzare i mercati europei oppure, se del caso, extraeuropei.
 
+2.
+                        
+                            
+                                Le stazioni appaltanti possono ricorrere a una procedura negoziata senza pubblicazione di un bando nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando non sia stata presentata alcuna offerta o alcuna offerta appropriata, ne' alcuna domanda di partecipazione o alcuna domanda di partecipazione appropriata, in esito all'esperimento di una procedura aperta o ristretta, purche' le condizioni iniziali dell'appalto non siano sostanzialmente modificate e purche' sia trasmessa una relazione alla Commissione europea, su richiesta di quest'ultima; un'offerta non e' ritenuta appropriata se non presenta alcuna pertinenza con l'appalto ed e', quindi, manifestamente inadeguata a rispondere alle esigenze della stazione appaltante e ai requisiti specificati nei documenti di gara, salvo modifiche sostanziali. Una domanda di partecipazione non e' ritenuta appropriata se l'operatore economico interessato e' escluso ai sensi degli articoli 94, 95, 96, 97 e 98 o non soddisfa i requisiti stabiliti dalla stazione appaltante ai sensi dell'articolo 100; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando i lavori, le forniture o i servizi possono essere forniti unicamente da un determinato operatore economico per una delle seguenti ragioni: 
+ 1) lo scopo dell'appalto consiste nella creazione o nell'acquisizione di un'opera d'arte o rappresentazione artistica unica; 
+ 2) la concorrenza e' assente per motivi tecnici; 
+ 3) la tutela di diritti esclusivi, inclusi i diritti di proprieta' intellettuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella misura strettamente necessaria quando, per ragioni di estrema urgenza derivante da eventi imprevedibili dalla stazione appaltante, i termini per le procedure aperte o per le procedure ristrette o per le procedure competitive con negoziazione non possono essere rispettati; le circostanze invocate per giustificare l'estrema urgenza non devono essere in alcun caso imputabili alle stazioni appaltanti.
+
 Le eccezioni di cui al comma 2, lettera b), numeri 2) e 3), si applicano solo quando non esistono altri operatori economici o soluzioni alternative ragionevoli e l'assenza di concorrenza non e' il risultato di una limitazione artificiale dei parametri dell'appalto.
+
+4.
+                        
+                            
+                                Nel caso di appalti pubblici di forniture la procedura di cui al presente articolo e' inoltre consentita nei casi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando i prodotti oggetto dell'appalto siano fabbricati esclusivamente a scopo di ricerca, di sperimentazione, di studio o di sviluppo, salvo che si tratti di produzione in quantita' volta ad accertare la redditivita' commerciale del prodotto o ad ammortizzare i costi di ricerca e di sviluppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di consegne complementari effettuate dal fornitore originario e destinate al rinnovo parziale di forniture o di impianti o all'ampliamento di forniture o impianti esistenti, quando il cambiamento di fornitore obblighi la stazione appaltante ad acquistare forniture con caratteristiche tecniche differenti, il cui impiego o la cui manutenzione comporterebbero incompatibilita' o difficolta' tecniche sproporzionate; la durata di tali contratti e dei contratti rinnovabili non puo' comunque di regola superare i tre anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per forniture quotate e acquistate sul mercato delle materie prime; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per l'acquisto di forniture o servizi a condizioni particolarmente vantaggiose, da un fornitore che cessa definitivamente l'attivita' commerciale oppure dagli organi delle procedure concorsuali.
 
 La procedura prevista dal presente articolo e' altresi' consentita negli appalti pubblici relativi ai servizi quando l'appalto faccia seguito a un concorso di progettazione e debba, in base alle norme applicabili, essere aggiudicato al vincitore o a uno dei vincitori del concorso. In quest'ultimo caso, tutti i vincitori devono essere invitati a partecipare ai negoziati.
 
@@ -1108,11 +3131,75 @@ Le etichettature sono definite e disciplinate dall'allegato II.5.
 
 Le stazioni appaltanti rendono nota entro il 31 dicembre di ogni anno l'intenzione di bandire per l'anno successivo appalti pubblicando sul proprio sito istituzionale un avviso di pre-informazione recante le informazioni di cui all'allegato II.6, Parte I, lettera B, sezione B.1. Per gli appalti di importo pari o superiore alle soglie di cui all'articolo 14, l'avviso di pre-informazione e' pubblicato dall'Ufficio delle pubblicazioni dell'Unione europea o dalla stazione appaltante sul proprio sito istituzionale. In quest'ultimo caso le stazioni appaltanti comunicano l'avviso di pre-informazione all'ANAC che, tramite la Banca dati nazionale dei contratti pubblici, cura l'invio al suddetto Ufficio di un avviso relativo alla pubblicazione sul sito istituzionale della stazione appaltante contenente le informazioni di cui all'allegato II.6, Parte I, lettera A.
 
+2.
+                        
+                            
+                                Per le procedure ristrette e le procedure competitive con negoziazione, le stazioni appaltanti sub-centrali possono utilizzare un avviso di pre-informazione come indizione di gara, purche' l'avviso soddisfi tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si riferisca specificatamente alle forniture, ai lavori o ai servizi che saranno oggetto dell'appalto da aggiudicare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indichi che l'appalto sara' aggiudicato mediante una procedura ristretta o una procedura competitiva con negoziazione senza ulteriore pubblicazione di un avviso di indizione di gara e inviti gli operatori economici interessati a manifestare il proprio interesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contenga, oltre alle informazioni di cui all'allegato II.6, Parte I, lettera B, sezione B.1, le informazioni di cui all'allegato II.6, Parte I, lettera B, sezione B.2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sia stato inviato alla pubblicazione non meno di trentacinque giorni e non oltre dodici mesi prima della data di invio dell'invito a confermare l'interesse di cui all'articolo 89, comma 1.
+
 L'avviso di cui al comma 2 e' pubblicato sul sito istituzionale della stazione appaltante quale pubblicazione supplementare a livello nazionale, a norma dell'articolo 85.
 
 Il periodo coperto dall'avviso di pre-informazione non puo' superare il termine di dodici mesi dalla data di trasmissione dell'avviso per la pubblicazione. Tuttavia, nel caso di appalti pubblici per i servizi di cui all'allegato XIV alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, l'avviso di pre-informazione puo' coprire un periodo fino a ventiquattro mesi.
 
 ## Art. 82. — Documenti di gara
+
+1.
+                        
+                            
+                                Costituiscono documenti di gara, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il bando, l'avviso di gara o la lettera d'invito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il disciplinare di gara; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitolato speciale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le condizioni contrattuali proposte.
 
 In caso di contrasto o contraddittorieta' tra le disposizioni contenute nei documenti di cui al comma 1 prevalgono quelle inserite nel bando o nell'avviso di gara.
 
@@ -1160,6 +3247,45 @@ Le pubblicazioni sulla banca dati ANAC e sul sito istituzionale della stazione a
 
 ## Art. 86. — Avviso volontario per la trasparenza preventiva
 
+1.
+                        
+                            
+                                L'avviso volontario per la trasparenza preventiva, il cui formato e' stabilito dalla Commissione europea secondo la procedura di consultazione di cui all'articolo 3-ter, paragrafo 2, della direttiva 89/665/CEE del Consiglio, del 21 dicembre 1989 e di cui all'articolo 3-ter, paragrafo 2, della direttiva 92/13/CEE del Consiglio, del 25 febbraio 1992, contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione e recapito della stazione appaltante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione dell'oggetto del contratto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    motivazione della decisione della stazione appaltante di affidare il contratto senza pubblicazione di un bando di gara nella Gazzetta ufficiale dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    denominazione e recapito dell'operatore economico a favore del quale e' avvenuta l'aggiudicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se del caso, qualunque altra informazione ritenuta utile dalla stazione appaltante.
+
 ## Art. 87. — Disciplinare di gara e capitolato speciale
 
 Il disciplinare di gara fissa le regole per lo svolgimento del procedimento di selezione delle offerte.
@@ -1187,6 +3313,45 @@ Gli inviti sono corredati dei documenti di gara se non sono stati resi disponibi
 
 ## Art. 90. — Informazione ai candidati e agli offerenti
 
+1.
+                        
+                            
+                                Nel rispetto delle modalita' previste dal codice, le stazioni appaltanti comunicano entro cinque giorni dall'adozione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la motivata decisione di non aggiudicare un appalto ovvero di non concludere un accordo quadro, o di riavviare la procedura o di non attuare un sistema dinamico di acquisizione, corredata di relativi motivi, a tutti i candidati o offerenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'aggiudicazione all'aggiudicatario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aggiudicazione e il nome dell'offerente cui e' stato aggiudicato l'appalto o parti dell'accordo quadro a tutti i candidati e concorrenti che hanno presentato un'offerta ammessa in gara, a coloro la cui candidatura o offerta non siano state definitivamente escluse, nonche' a coloro che hanno impugnato il bando o la lettera di invito, se tali impugnazioni non siano state gia' respinte con pronuncia giurisdizionale definitiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esclusione ai candidati e agli offerenti esclusi, ivi compresi i motivi di esclusione o della decisione di non equivalenza o conformita' dell'offerta; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data di avvenuta stipulazione del contratto con l'aggiudicatario ai soggetti di cui alla lettera c).
+
 Le comunicazioni di cui al comma 1, lettere b) e c), indicano la data di scadenza del termine dilatorio per la stipulazione del contratto, fermo restando quanto stabilito dall'articolo 18, comma 1.
 
 Fermo quanto disposto dall'articolo 35, le stazioni appaltanti non divulgano le informazioni relative all'aggiudicazione degli appalti, alla conclusione di accordi quadro o all'ammissione ad un sistema dinamico di acquisizione, di cui ai commi 1 e 2, se la loro diffusione ostacola l'applicazione della legge o e' contraria all'interesse pubblico, o pregiudica i legittimi interessi commerciali di operatori economici pubblici o privati o dell'operatore economico selezionato, oppure possa recare pregiudizio alla leale concorrenza tra questi.
@@ -1195,7 +3360,54 @@ Fermo quanto disposto dall'articolo 35, le stazioni appaltanti non divulgano le 
 
 ## Art. 91. — Domande, documento di gara unico europeo, offerte
 
+1.
+                        
+                            
+                                L'operatore economico che intende partecipare ad una procedura per l'aggiudicazione di un appalto utilizza la piattaforma di approvvigionamento digitale messa a disposizione dalla stazione appaltante per compilare i seguenti atti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la domanda di partecipazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    il documento di gara unico europeo;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'offerta;
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni altro documento richiesto per la partecipazione alla procedura di gara.
+
 La domanda di partecipazione contiene gli elementi di identificazione del concorrente e l'indicazione della forma giuridica con la quale si presenta in gara, l'eventuale dichiarazione della volonta' di avvalersi di impresa ausiliaria, nonche' l'indicazione dei dati e dei documenti relativi ai requisiti speciali di partecipazione di cui agli articoli 100 e 103 contenuti nel fascicolo virtuale dell'operatore economico di cui all'articolo 24.
+
+3.
+                        
+                            
+                                Con il documento di gara unico europeo, redatto in forma digitale in conformita' al modello di formulario approvato con regolamento della Commissione europea, prodotto secondo il comma 1, l'operatore economico e le imprese ausiliarie dichiarano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di essere in possesso dei requisiti di ordine generale di cui al Titolo IV, Capo II, della presente Parte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di essere in possesso dei requisiti di ordine speciale di cui all'articolo 100 e, se richiesto, dei requisiti di cui all'articolo 103.
 
 Il documento di gara unico europeo contiene tutte le informazioni richieste dalla stazione appaltante e, nel caso di partecipazione alla procedura di gara nella forma giuridica prevista dagli articoli 65 e 66, la dichiarazione circa la ripartizione della prestazione tra i componenti del raggruppamento o tra le imprese consorziate.
 
@@ -1204,6 +3416,31 @@ Le offerte tecniche ed economiche, redatte secondo le modalita' di cui al comma 
 ## Art. 92. — Fissazione dei termini per la presentazione delle domande e delle offerte
 
 Le stazioni appaltanti, fermi quelli minimi di cui agli articoli 71, 72, 73, 74, 75 e 76, fissano termini per la presentazione delle domande di partecipazione e delle offerte adeguati alla complessita' dell'appalto e al tempo necessario alla preparazione delle offerte, tenendo conto del tempo necessario alla visita dei luoghi, ove indispensabile alla formulazione dell'offerta, e di quello per la consultazione sul posto dei documenti di gara e dei relativi allegati.
+
+2.
+                        
+                            
+                                I termini di cui al comma 1 sono prorogati in misura adeguata e proporzionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se un operatore economico interessato a partecipare alla procedura di aggiudicazione abbia richiesto in tempo utile informazioni supplementari significative ai fini della preparazione dell'offerta e, per qualsiasi motivo, le abbia ricevute meno di sei giorni prima del termine stabilito per la presentazione delle offerte, o, in caso di procedura accelerata ai sensi degli articoli 71, comma 3, e 72, comma 6, meno di quattro giorni prima; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se sono apportate modifiche significative ai documenti di gara; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di cui all'articolo 25, comma 2, terzo periodo. ((In tali casi, la stazione appaltante da' tempestiva pubblicita' dell'avviso relativo alla proroga sul proprio sito istituzionale.)).
 
 In caso di proroga dei termini di presentazione delle offerte e' consentito agli operatori economici che hanno gia' presentato l'offerta di ritirarla ed eventualmente sostituirla.
 
@@ -1221,6 +3458,31 @@ La commissione e' presieduta e composta da dipendenti della stazione appaltante 
 
 La commissione puo' riunirsi con modalita' telematiche che salvaguardino la riservatezza delle comunicazioni. La commissione opera attraverso la piattaforma di approvvigionamento digitale per la valutazione della documentazione di gara e delle offerte dei partecipanti.
 
+5.
+                        
+                            
+                                Non possono essere nominati commissari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che nel biennio precedente all'indizione della procedura di aggiudicazione sono stati componenti di organi di indirizzo politico della stazione appaltante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel Capo I del Titolo II del Libro II del codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che si trovano in una situazione di conflitto di interessi con uno degli operatori economici partecipanti alla procedura; costituiscono situazioni di conflitto di interessi quelle che determinano l'obbligo di astensione previste dall'articolo 7 del regolamento recante il codice di comportamento dei dipendenti pubblici, di cui al decreto del Presidente della Repubblica 16 aprile 2013, n. 62.
+
 Salvo diversa motivata determinazione della stazione appaltante, in caso di rinnovo del procedimento di gara per effetto dell'annullamento dell'aggiudicazione o dell'esclusione di taluno dei concorrenti, e' riconvocata la medesima commissione, tranne quando l'annullamento sia derivato da un vizio nella composizione della commissione.
 
 Nelle procedure di aggiudicazione di contratti di appalto con il criterio del minor prezzo o costo, la valutazione delle offerte e' effettuata da un seggio di gara, anche monocratico, composto da personale della stazione appaltante, scelto secondo criteri di trasparenza e competenza, al quale si applicano le cause di incompatibilita' di cui alle lettere b) e c) del comma 5.
@@ -1229,9 +3491,175 @@ Nelle procedure di aggiudicazione di contratti di appalto con il criterio del mi
 
 ## Art. 94. — Cause di esclusione automatica
 
+1.
+                        
+                            
+                                E' causa di esclusione di un operatore economico dalla partecipazione a una procedura d'appalto la condanna con sentenza definitiva o decreto penale di condanna divenuto irrevocabile per uno dei seguenti reati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delitti, consumati o tentati, di cui agli articoli 416, 416-bis del codice penale oppure delitti commessi avvalendosi delle condizioni previste dal predetto articolo 416-bis oppure al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo, nonche' per i delitti, consumati o tentati, previsti dall'articolo 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, dall'articolo 291-quater del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43 e dall'articolo 452-quaterdieces del codice penale, in quanto riconducibili alla partecipazione a un'organizzazione criminale, quale definita all'articolo 2 della decisione quadro 2008/841/GAI del Consiglio dell'Unione europea, del 24 ottobre 2008; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delitti, consumati o tentati, di cui agli articoli 317, 318, 319, 319-ter, 319-quater, 320, 321, 322, 322-bis, 346-bis, 353, 353-bis, 354, 355 e 356 del codice penale nonche' all'articolo 2635 del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    false comunicazioni sociali di cui agli articoli 2621 e 2622 del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    frode ai sensi dell'articolo 1 della convenzione relativa alla tutela degli interessi finanziari delle Comunita' europee, del 26 luglio 1995; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delitti, consumati o tentati, commessi con finalita' di terrorismo, anche internazionale, e di eversione dell'ordine costituzionale reati terroristici o reati connessi alle attivita' terroristiche; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delitti di cui agli articoli 648-bis, 648-ter e 648-ter.1 del codice penale, riciclaggio di proventi di attivita' criminose o finanziamento del terrorismo, quali definiti all'articolo 1 del decreto legislativo 22 giugno 2007, n. 109; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sfruttamento del lavoro minorile e altre forme di tratta di esseri umani definite con il decreto legislativo 4 marzo 2014, n. 24; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ogni altro delitto da cui derivi, quale pena accessoria, l'incapacita' di contrattare con la pubblica amministrazione.
+
 E' altresi' causa di esclusione la sussistenza, con riferimento ai soggetti indicati al comma 3, di ragioni di decadenza, di sospensione o di divieto previste dall'articolo 67 del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159 o di un tentativo di infiltrazione mafiosa di cui all'articolo 84, comma 4, del medesimo codice. Resta fermo quanto previsto dagli articoli 88, comma 4;bis, e 92, commi 2 e 3, del codice di cui al decreto legislativo n. 159 del 2011, con riferimento rispettivamente alle comunicazioni antimafia e alle informazioni antimafia. La causa di esclusione di cui all'articolo 84, comma 4, del codice di cui al decreto legislativo n. 159 del 2011 non opera se, entro la data dell'aggiudicazione, l'impresa sia stata ammessa al controllo giudiziario ai sensi dell'articolo 34-bis del medesimo codice. In nessun caso l'aggiudicazione puo' subire dilazioni in ragione della pendenza del procedimento suindicato.
 
+3.
+                        
+                            
+                                L'esclusione di cui ai commi 1 e 2 e' disposta se la sentenza o il decreto oppure la misura interdittiva ivi indicati sono stati emessi nei confronti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'operatore economico ai sensi e nei termini di cui al decreto legislativo 8 giugno 2001, n. 231; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del titolare o del direttore tecnico, se si tratta di impresa individuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di un socio amministratore o del direttore tecnico, se si tratta di societa' in nome collettivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei soci accomandatari o del direttore tecnico, se si tratta di societa' in accomandita semplice; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dei membri del consiglio di amministrazione cui sia stata conferita la legale rappresentanza, ivi compresi gli institori e i procuratori generali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dei componenti degli organi con poteri di direzione o di vigilanza o dei soggetti muniti di poteri di rappresentanza, di direzione o di controllo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    del direttore tecnico o del socio unico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dell'amministratore di fatto nelle ipotesi di cui alle lettere precedenti.
+
 Nel caso in cui il socio sia una persona giuridica l'esclusione va disposta se la sentenza o il decreto ovvero la misura interdittiva sono stati emessi nei confronti degli amministratori di quest'ultima.
+
+5.
+                        
+                            
+                                Sono altresi' esclusi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'operatore economico destinatario della sanzione interdittiva di cui all'articolo 9, comma 2, lettera c), del decreto legislativo 8 giugno 2001, n. 231, o di altra sanzione che comporta il divieto di contrarre con la pubblica amministrazione, compresi i provvedimenti interdittivi di cui all'articolo 14 del decreto legislativo 9 aprile 2008, n. 81; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'operatore economico che non abbia presentato la certificazione di cui all'articolo 17 della legge 12 marzo 1999, n. 68, ovvero non abbia presentato dichiarazione sostitutiva della sussistenza del medesimo requisito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in relazione alle procedure afferenti agli investimenti pubblici finanziati, in tutto o in parte, con le risorse previste dal regolamento (UE) n. 240/2021 del Parlamento europeo e del Consiglio, del 10 febbraio 2021 e dal regolamento (UE) n. 241/2021 del Parlamento europeo e del Consiglio, del 12 febbraio 2021, gli operatori economici tenuti alla redazione del rapporto sulla situazione del personale, ai sensi dell'articolo 46 del codice delle pari opportunita' tra uomo e donna, di cui al decreto legislativo 11 aprile 2006, n. 198, che non abbiano prodotto, al momento della presentazione della domanda di partecipazione o dell'offerta, copia dell'ultimo rapporto redatto, con attestazione della sua conformita' a quello trasmesso alle rappresentanze sindacali aziendali e alla consigliera e al consigliere regionale di parita' ai sensi del comma 2 del citato articolo 46, oppure, in caso di inosservanza dei termini previsti dal comma 1 del medesimo articolo 46, con attestazione della sua contestuale trasmissione alle rappresentanze sindacali aziendali e alla consigliera e al consigliere regionale di parita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'operatore economico che sia stato sottoposto a liquidazione giudiziale o si trovi in stato di liquidazione coatta o di concordato preventivo o nei cui confronti sia in corso un procedimento per l'accesso a una di tali procedure, fermo restando quanto previsto dall'articolo 95 del codice della crisi di impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14, dall'articolo 186-bis, comma 5, del regio decreto 16 marzo 1942, n. 267 e dall'articolo 124 del presente codice. L'esclusione non opera se, entro la data dell'aggiudicazione, sono stati adottati i provvedimenti di cui all'articolo 186-bis, comma 4, del regio decreto n. 267 del 1942 e all'articolo 95, commi 3 e 4, del codice di cui al decreto legislativo n. 14 del 2019, a meno che non intervengano ulteriori circostanze escludenti relative alle procedure concorsuali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'operatore economico iscritto nel casellario informatico tenuto dall'ANAC per aver presentato false dichiarazioni o falsa documentazione nelle procedure di gara e negli affidamenti di subappalti; la causa di esclusione perdura fino a quando opera l'iscrizione nel casellario informatico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'operatore economico iscritto nel casellario informatico tenuto dall'ANAC per aver presentato false dichiarazioni o falsa documentazione ai fini del rilascio dell'attestazione di qualificazione, per il periodo durante il quale perdura l'iscrizione.
 
 E' inoltre escluso l'operatore economico che ha commesso violazioni gravi, definitivamente accertate, degli obblighi relativi al pagamento delle imposte e tasse o dei contributi previdenziali, secondo la legislazione italiana o quella dello Stato in cui sono stabiliti. Costituiscono gravi violazioni definitivamente accertate quelle indicate nell'allegato II.10. Il presente comma non si applica quando l'operatore economico ha ottemperato ai suoi obblighi pagando o impegnandosi in modo vincolante a pagare le imposte o i contributi previdenziali dovuti, compresi eventuali interessi o sanzioni, oppure quando il debito tributario o previdenziale sia comunque integralmente estinto, purche' l'estinzione, il pagamento o l'impegno si siano perfezionati anteriormente alla scadenza del termine di presentazione dell'offerta.
 
@@ -1239,13 +3667,109 @@ L'esclusione non e' disposta e il divieto di aggiudicare non si applica quando i
 
 ## Art. 95. — Cause di esclusione non automatica
 
+1.
+                        
+                            
+                                La stazione appaltante esclude dalla partecipazione alla procedura un operatore economico qualora accerti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sussistere gravi infrazioni, debitamente accertate con qualunque mezzo adeguato, alle norme in materia di salute e di sicurezza sul lavoro nonche' agli obblighi in materia ambientale, sociale e del lavoro stabiliti dalla normativa europea e nazionale, dai contratti collettivi o dalle disposizioni internazionali elencate nell'allegato X alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che la partecipazione dell'operatore economico determini una situazione di conflitto di interesse di cui all'articolo 16 non diversamente risolvibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistere una distorsione della concorrenza derivante dal precedente coinvolgimento degli operatori economici nella preparazione della procedura d'appalto che non possa essere risolta con misure meno intrusive; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sussistere rilevanti indizi tali da far ritenere che le offerte degli operatori economici siano imputabili ad un unico centro decisionale a cagione di accordi intercorsi con altri operatori economici partecipanti alla stessa gara; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che l'offerente abbia commesso un illecito professionale grave, tale da rendere dubbia la sua integrita' o affidabilita', dimostrato dalla stazione appaltante con mezzi adeguati. All'articolo 98 sono indicati, in modo tassativo, i gravi illeciti professionali, nonche' i mezzi adeguati a dimostrare i medesimi.
+
 La stazione appaltante esclude altresi' un operatore economico qualora ritenga che lo stesso ha commesso gravi violazioni non definitivamente accertate agli obblighi relativi al pagamento di imposte e tasse o contributi previdenziali. Costituiscono gravi violazioni non definitivamente accertate in materia fiscale quelle indicate nell'allegato II.10. La gravita' va in ogni caso valutata anche tenendo conto del valore dell'appalto. Il presente comma non si applica quando l'operatore economico ha ottemperato ai suoi obblighi pagando o impegnandosi in modo vincolante a pagare le imposte o i contributi previdenziali dovuti, compresi eventuali interessi o sanzioni, oppure quando il debito tributario o previdenziale sia comunque integralmente estinto, purche' l'estinzione, il pagamento o l'impegno si siano perfezionati anteriormente alla scadenza del termine di presentazione dell'offerta, oppure nel caso in cui l'operatore economico abbia compensato il debito tributario con crediti certificati vantati nei confronti della pubblica amministrazione.
+
+3.
+                        
+                            
+                                Con riferimento alle fattispecie di cui al comma 3, lettera h), dell'articolo 98, l'esclusione non e' disposta e il divieto di aggiudicare non si applica quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il reato e' stato depenalizzato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' intervenuta la riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di condanna a una pena accessoria perpetua, questa e' stata dichiarata estinta ai sensi dell'articolo 179, settimo comma, del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il reato e' stato dichiarato estinto dopo la condanna; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la condanna e' stata revocata.
 
 ## Art. 96. — Disciplina dell'esclusione
 
 Salvo quanto previsto dai commi 2, 3, 4, 5 e 6, le stazioni appaltanti escludono un operatore economico in qualunque momento della procedura d'appalto, qualora risulti che questi si trovi, a causa di atti compiuti od omessi prima o nel corso della procedura, in una delle situazioni di cui agli articoli 94 e 95.
 
 L'operatore economico che si trovi in una delle situazioni di cui all'articolo 94, a eccezione del comma 6, e all'articolo 95, a eccezione del comma 2, non e' escluso se si sono verificate le condizioni di cui al comma 6 del presente articolo e ha adempiuto agli oneri di cui ai commi 3 o 4 del presente articolo.
+
+3.
+                        
+                            
+                                Se la causa di esclusione si e' verificata prima della presentazione dell'offerta, l'operatore economico, contestualmente all'offerta, la comunica alla stazione appaltante e, alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comprova di avere adottato le misure di cui al comma 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comprova l'impossibilita' di adottare tali misure prima della presentazione dell'offerta e successivamente ottempera ai sensi del comma 4.
 
 Se la causa di esclusione si e' verificata successivamente alla presentazione dell'offerta, l'operatore economico adotta e comunica le misure di cui al comma 6.
 
@@ -1255,7 +3779,60 @@ Un operatore economico che si trovi in una delle situazioni di cui all'articolo 
 
 Un operatore economico escluso con sentenza definitiva dalla partecipazione alle procedure di appalto o di concessione non puo' avvalersi della possibilita' prevista dai commi 2, 3, 4, 5 e 6 nel corso del periodo di esclusione derivante da tale sentenza.
 
+8.
+                        
+                            
+                                Se la sentenza penale di condanna definitiva non fissa la durata della pena accessoria della incapacita' di contrattare con la pubblica amministrazione, la condanna produce effetto escludente dalle procedure d'appalto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in perpetuo, nei casi in cui alla condanna consegue di diritto la pena accessoria perpetua, ai sensi dell'articolo 317-bis, primo comma, primo periodo, del codice penale, salvo che la pena sia dichiarata estinta ai sensi dell'articolo 179, settimo comma, del codice penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per un periodo pari a sette anni nei casi previsti dall'articolo 317-bis, primo comma, secondo periodo, del codice penale, salvo che sia intervenuta riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per un periodo pari a cinque anni nei casi diversi da quelli di cui alle lettere a) e b), salvo che sia intervenuta riabilitazione.
+
 Nei casi di cui alle lettere b) e c) del comma 8, se la pena principale ha una durata inferiore, rispettivamente, a sette e cinque anni di reclusione, l'effetto escludente che ne deriva si produce per un periodo avente durata pari alla durata della pena principale.
+
+10.
+                        
+                            
+                                Le cause di esclusione di cui all'articolo 95 rilevano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per tre anni decorrenti dalla commissione del fatto, nel caso di cui all'articolo 95, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la sola gara cui la condotta si riferisce, nei casi di cui all'articolo 95, comma 1, lettere b),
+                                
+                            
+                            
+                                c)
+                                
+                                    e d); 
+ c) nel caso di cui all'articolo 95, comma 1, lettera e), salvo che ricorra la condotta di cui al comma 3, lettera b), dell'articolo 98, per tre anni decorrenti rispettivamente: 
+ 1) dalla data di emissione di uno degli atti di cui all'articolo 407-bis, comma 1, del codice di procedura penale oppure di eventuali provvedimenti cautelari personali o reali del giudice penale, se antecedenti all'esercizio dell'azione penale ove la situazione escludente consista in un illecito penale rientrante tra quelli valutabili ai sensi del comma 1 dell'articolo 94 oppure ai sensi del comma 3, lettera h), dell'articolo 98; 
+ 2) dalla data del provvedimento sanzionatorio irrogato dall'Autorita' garante della concorrenza e del mercato o da altra autorita' di settore nel caso in cui la situazione escludente discenda da tale atto; 
+ 3) dalla commissione del fatto in tutti gli altri casi.
 
 L'eventuale impugnazione di taluno dei provvedimenti suindicati non rileva ai fini della decorrenza del triennio.
 
@@ -1269,6 +3846,26 @@ In caso di presentazione di falsa dichiarazione o falsa documentazione, nelle pr
 
 ## Art. 97. — Cause di esclusione di partecipanti a raggruppamenti
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 96, commi 2, 3, 4, 5 e 6, il raggruppamento non e' escluso qualora un suo partecipante sia interessato da una causa automatica o non automatica di esclusione o dal venir meno di un requisito di qualificazione, se si sono verificate le condizioni di cui al comma 2 e ha adempiuto ai seguenti oneri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in sede di presentazione dell'offerta: 
+ 1) ha comunicato alla stazione appaltante la causa escludente verificatasi prima della presentazione dell'offerta e il venir meno, prima della presentazione dell'offerta, del requisito di qualificazione, nonche' il soggetto che ne e' interessato; 
+ 2) ha comprovato le misure adottate ai sensi del comma 2 o l'impossibilita' di adottarle prima di quella data; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha adottato e comunicato le misure di cui al comma 2 prima dell'aggiudicazione, se la causa escludente si e' verificata successivamente alla presentazione dell'offerta o il requisito di qualificazione e' venuto meno successivamente alla presentazione dell'offerta.
+
 Fermo restando l'articolo 96, se un partecipante al raggruppamento si trova in una delle situazioni di cui agli articoli 94 e 95 o non e' in possesso di uno dei requisiti di cui all'articolo 100, il raggruppamento puo' comprovare di averlo estromesso o sostituito con altro soggetto munito dei necessari requisiti, fatta salva l'immodificabilita' sostanziale dell'offerta presentata. Se tali misure sono ritenute sufficienti e tempestivamente adottate, il raggruppamento non e' escluso dalla procedura d'appalto. Se la stazione appaltante ritiene che le misure siano intempestive o insufficienti, l'operatore economico e' escluso con decisione motivata.
 
 I commi 1 e 2 si applicano anche ai consorzi ordinari. Si applicano altresi' ai consorzi fra imprese artigiane, nonche' ai consorzi stabili limitatamente alle consorziate esecutrici e alle consorziate aventi i requisiti di cui i consorzi si avvalgono.
@@ -1277,9 +3874,159 @@ I commi 1 e 2 si applicano anche ai consorzi ordinari. Si applicano altresi' ai 
 
 L'illecito professionale grave rileva solo se compiuto dall'operatore economico offerente, salvo quanto previsto dal comma 3, lettere g) ed h).
 
+2.
+                        
+                            
+                                L'esclusione di un operatore economico ai sensi dell'articolo 95, comma 1, lettera e) e' disposta e comunicata dalla stazione appaltante quando ricorrono tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi sufficienti ad integrare il grave illecito professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' del grave illecito professionale ad incidere sull'affidabilita' e integrita' dell'operatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguati mezzi di prova di cui al comma 6.
+
+3.
+                        
+                            
+                                L'illecito professionale si puo' desumere al verificarsi di almeno uno dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sanzione esecutiva irrogata dall'Autorita' garante della concorrenza e del mercato o da altra autorita' di settore, rilevante in relazione all'oggetto specifico dell'appalto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    condotta dell'operatore economico che abbia tentato di influenzare indebitamente il processo decisionale della stazione appaltante o di ottenere informazioni riservate a proprio vantaggio oppure che abbia fornito, anche per negligenza, informazioni false o fuorvianti suscettibili di influenzare le decisioni sull'esclusione, la selezione o l'aggiudicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condotta dell'operatore economico che abbia dimostrato significative o persistenti carenze nell'esecuzione di un precedente contratto di appalto o di concessione che ne hanno causato la risoluzione per inadempimento oppure la condanna al risarcimento del danno o altre sanzioni comparabili, derivanti da inadempienze particolarmente gravi o la cui ripetizione sia indice di una persistente carenza professionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    condotta dell'operatore economico che abbia commesso grave inadempimento nei confronti di uno o piu' subappaltatori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    condotta dell'operatore economico che abbia violato il divieto di intestazione fiduciaria di cui all'articolo 17 della legge 19 marzo 1990, n. 55, laddove la violazione non sia stata rimossa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    omessa denuncia all'autorita' giudiziaria da parte dell'operatore economico persona offesa dei reati previsti e puniti dagli articoli 317 e 629 del codice penale aggravati ai sensi dell'articolo 416-bis.1 del medesimo codice salvo che ricorrano i casi previsti dall'articolo 4, primo comma, della legge 24 novembre 1981, n. 689. Tale circostanza deve emergere dagli indizi a base della richiesta di rinvio a giudizio formulata nei confronti dell'imputato per i reati di cui al primo periodo nell'anno antecedente alla pubblicazione del bando e deve essere comunicata, unitamente alle generalita' del soggetto che ha omesso la predetta denuncia, dal procuratore della Repubblica procedente all'ANAC, la quale ne cura la pubblicazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    contestata commissione da parte dell'operatore economico, ovvero dei soggetti di cui al comma 3 dell'articolo 94 di taluno dei reati consumati o tentati di cui al comma 1 del medesimo articolo 94; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contestata o accertata commissione, da parte dell'operatore economico oppure dei soggetti di cui al comma 3 dell'articolo 94, di taluno dei seguenti reati consumati: 
+ 1) abusivo esercizio di una professione, ai sensi dell'articolo 348 del codice penale; 
+ 2) bancarotta semplice, bancarotta fraudolenta, omessa dichiarazione di beni da comprendere nell'inventario fallimentare o ricorso abusivo al credito, di cui agli articoli 216, 217, 218 e 220 del regio decreto 16 marzo 1942, n. 267; 
+ 3) i reati tributari ai sensi del decreto legislativo 10 marzo 2000, n. 74, i delitti societari di cui agli articoli 2621 e seguenti del codice civile o i delitti contro l'industria e il commercio di cui agli articoli da 513 a 517 del codice penale; 
+ 4) i reati urbanistici di cui all'articolo 44, comma 1, lettere b) e c), del testo unico delle disposizioni legislative e regolamentari in materia di edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, con riferimento agli affidamenti aventi ad oggetto lavori o servizi di architettura e ingegneria; 
+ 5) i reati previsti dal decreto legislativo 8 giugno 2001, n. 231.
+
 La valutazione di gravita' tiene conto del bene giuridico e dell'entita' della lesione inferta dalla condotta integrante uno degli elementi di cui al comma 3 e del tempo trascorso dalla violazione, anche in relazione a modifiche intervenute nel frattempo nell'organizzazione dell'impresa.
 
 Le dichiarazioni omesse o non veritiere rese nella stessa gara e diverse da quelle di cui alla lettera b) del comma 3 possono essere utilizzate a supporto della valutazione di gravita' riferita agli elementi di cui al comma 3.
+
+6.
+                        
+                            
+                                Costituiscono mezzi di prova adeguati, in relazione al comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto alla lettera a), i provvedimenti sanzionatori esecutivi resi dall'Autorita' garante della concorrenza e del mercato o da altra autorita' di settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto alla lettera b), la presenza di indizi gravi, precisi e concordanti che rendano evidente il ricorrere della situazione escludente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto alla lettera c), l'intervenuta risoluzione per inadempimento o la condanna al risarcimento del danno o ad altre conseguenze comparabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quanto alla lettera d), la emissione di provvedimenti giurisdizionali anche non definitivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quanto alla lettera e), l'accertamento definitivo della violazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quanto alla lettera f), gli elementi ivi indicati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quanto alla lettera g), gli atti di cui all'articolo 407-bis, comma 1, del codice di procedura penale, il decreto che dispone il giudizio ai sensi dell'articolo 429 del codice di procedura penale, o eventuali provvedimenti cautelari reali o personali emessi dal giudice penale, la sentenza di condanna non definitiva, il decreto penale di condanna non irrevocabile, la sentenza non irrevocabile di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    quanto alla lettera h), la sentenza di condanna definitiva, il decreto penale di condanna irrevocabile, la condanna non definitiva, i provvedimenti cautelari reali o personali, ove emessi dal giudice penale;
 
 La stazione appaltante valuta i provvedimenti sanzionatori e giurisdizionali di cui al comma 6 motivando sulla ritenuta idoneita' dei medesimi a incidere sull'affidabilita' e sull'integrita' dell'offerente; l'eventuale impugnazione dei medesimi e' considerata nell'ambito della valutazione volta a verificare la sussistenza della causa escludente.
 
@@ -1299,6 +4046,31 @@ Agli operatori economici non possono essere richiesti documenti che comprovano i
 
 ## Art. 100. — Requisiti di ordine speciale
 
+1.
+                        
+                            
+                                Sono requisiti di ordine speciale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'idoneita' professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la capacita' economica e finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le capacita' tecniche e professionali.
+
 Le stazioni appaltanti richiedono requisiti di partecipazione proporzionati e attinenti all'oggetto dell'appalto.
 
 Per le procedure di aggiudicazione di appalti di servizi e forniture le stazioni appaltanti richiedono l'iscrizione nel registro della camera di commercio, industria, artigianato e agricoltura o nel registro delle commissioni provinciali per l'artigianato o presso i competenti ordini professionali per un'attivita' pertinente anche se non coincidente con l'oggetto dell'appalto. All'operatore economico di altro Stato membro non residente in Italia e' richiesto di dichiarare ai sensi del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445, di essere iscritto in uno dei registri professionali o commerciali di cui all'allegato II.11. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
@@ -1306,9 +4078,126 @@ Per le procedure di aggiudicazione di appalti di servizi e forniture le stazioni
 Per le procedure di aggiudicazione di appalti di lavori di importo pari o superiore a 150.000 euro le stazioni appaltanti richiedono che gli operatori economici siano qualificati.
 L'attestazione di qualificazione e' rilasciata da organismi di diritto privato autorizzati dall'ANAC. Il sistema di qualificazione per gli esecutori di lavori pubblici, articolato in rapporto alle categorie di opere ed all'importo delle stesse e' disciplinato dall'allegato II.12. Le categorie di opere si distinguono in categorie di opere generali e categorie di opere specializzate. Il possesso di attestazione di qualificazione in categorie e classifiche adeguate ai lavori da appaltare rappresenta condizione necessaria e sufficiente per la dimostrazione dei requisiti di partecipazione di cui al presente articolo nonche' per l'esecuzione, a qualsiasi titolo, dell'appalto. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
+5.
+                        
+                            
+                                Per ottenere o rinnovare l'attestazione di qualificazione gli operatori economici devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere iscritti nel registro della camera di commercio, industria, artigianato e agricoltura o nel registro delle commissioni provinciali per l'artigianato o presso i competenti ordini professionali per un'attivita', prevista dall'oggetto sociale e compresa nella categoria per la quale e' richiesta l'attestazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere incorsi nelle cause di esclusione di cui al Capo II del presente Titolo nel triennio precedente alla data della domanda di rilascio o di rinnovo dell'attestazione di qualificazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere in possesso di certificazioni di sistemi di qualita' conformi alle norme europee e alla vigente normativa nazionale, rilasciate da soggetti accreditati.
+
 L'organismo di attestazione rilascia l'attestazione di qualificazione per la categoria di opere generali o specializzate per l'esecuzione delle quali l'operatore economico risulti essere in possesso di adeguata capacita' economica e finanziaria, di adeguata dotazione di attrezzature tecniche e risorse umane, e dispone la classificazione per importi in ragione della documentata pregressa esperienza professionale.
 
 Fino alla emanazione del ((regolamento di cui all'articolo 226-bis, comma 1, lettera b) )), il periodo di attivita' documentabile e' quello relativo ai quindici anni antecedenti la data di sottoscrizione del contratto con la societa' organismo di attestazione (SOA) e la qualificazione ha durata di cinque anni, con verifica entro il terzo anno del mantenimento dei requisiti.
+
+8.
+                        
+                            
+                                Con il ((regolamento di cui all'articolo 226-bis, comma 1, lettera b) )) sono in ogni caso disciplinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la procedura per ottenere l'attestazione di qualificazione e per il suo rinnovo, prevedendo che l'operatore economico richieda la conferma dell'attestazione nel caso in cui, nel periodo di validita' dell'attestazione, intervenga una modifica soggettiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti per la dimostrazione dell'adeguata capacita' economica e finanziaria e per la dimostrazione del possesso di adeguate attrezzature tecniche e di adeguato organico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di qualificazione degli operatori economici di cui all'articolo 67, comma 1, sulla base del criterio del cumulo nonche' i criteri di imputazione di cui all'articolo 67, comma 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di documentazione delle pregresse esperienze professionali, considerando anche i lavori eseguiti a favore di soggetti privati che siano comprovati da idonea documentazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di verifica a campione compiute dagli organismi di attestazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il periodo di durata dell'attestazione di qualificazione e i periodi intermedi di verifica del mantenimento dei requisiti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i casi di sospensione e di decadenza dall'attestazione di qualificazione gia' rilasciata, prevedendo sanzioni interdittive nel caso di presentazione di falsa documentazione agli organismi di attestazione.
+
+9.
+                        
+                            
+                                Relativamente agli organismi di attestazione, con il ((regolamento di cui all'articolo 226-bis, comma 1, lettera b) )) sono in ogni caso disciplinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti soggettivi, organizzativi, finanziari e tecnici per il conseguimento dell'autorizzazione all'esercizio dell'attivita' di qualificazione degli operatori economici nonche' la procedura per ottenere l'autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sanzioni pecuniarie e interdittive, fino alla decadenza dell'autorizzazione, per le violazioni commesse dagli organismi di attestazione, anche alle richieste di informazioni e di atti loro rivolte dall'ANAC nell'esercizio dell'attivita' di vigilanza, secondo un criterio di proporzionalita' e nel rispetto del contraddittorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' dell'esercizio dell'attivita' di vigilanza da parte dell'ANAC; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli obblighi di conservazione e di pubblicazione della documentazione in capo agli organismi di attestazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli obblighi di comunicazione all'ANAC in capo agli organismi di attestazione.
 
 Con il ((regolamento di cui all'articolo 226-bis, comma 1, lettera b) )) e' altresi' definita la disciplina della qualificazione degli operatori economici per gli appalti di servizi e forniture. Il regolamento contiene, tra l'altro: la definizione delle tipologie per le quali e' possibile una classificazione per valore, la competenza a rilasciare la relativa attestazione, la procedura e le condizioni per la relativa richiesta, il regime sanzionatorio.
 
@@ -1320,6 +4209,25 @@ Gli organismi di cui al comma 4 segnalano immediatamente all'ANAC i casi in cui 
 
 ## Art. 101. — Soccorso istruttorio
 
+1.
+                        
+                            
+                                Salvo che al momento della scadenza del termine per la presentazione dell'offerta il documento sia presente nel fascicolo virtuale dell'operatore economico, la stazione appaltante assegna un termine non inferiore a cinque giorni e non superiore a dieci giorni per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    integrare di ogni elemento mancante la documentazione trasmessa alla stazione appaltante nel termine per la presentazione delle offerte con la domanda di partecipazione alla procedura di gara o con il documento di gara unico europeo, con esclusione della documentazione che compone l'offerta tecnica e l'offerta economica; la mancata presentazione della garanzia provvisoria, del contratto di avvalimento e dell'impegno a conferire mandato collettivo speciale in caso di raggruppamenti di concorrenti non ancora costituiti e' sanabile mediante documenti aventi data certa anteriore al termine fissato per la presentazione delle offerte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sanare ogni omissione, inesattezza o irregolarita' della domanda di partecipazione, del documento di gara unico europeo e di ogni altro documento richiesto dalla stazione appaltante per la partecipazione alla procedura di gara, con esclusione della documentazione che compone l'offerta tecnica e l'offerta economica.
+Non sono sanabili le omissioni, inesattezze e irregolarita' che rendono assolutamente incerta l'identita' del concorrente.
+
 L'operatore economico che non adempie alle richieste della stazione appaltante nel termine stabilito e' escluso dalla procedura di gara.
 
 La stazione appaltante puo' sempre richiedere chiarimenti sui contenuti dell'offerta tecnica e dell'offerta economica e su ogni loro allegato. L'operatore economico e' tenuto a fornire risposta nel termine fissato dalla stazione appaltante, che non puo' essere inferiore a cinque giorni e superiore a dieci giorni. I chiarimenti resi dall'operatore economico non possono modificare il contenuto dell'offerta tecnica e dell'offerta economica.
@@ -1328,9 +4236,54 @@ Fino al giorno fissato per la loro apertura, l'operatore economico, con le stess
 
 ## Art. 102. — Impegni dell'operatore economico
 
+1.
+                        
+                            
+                                Nei bandi, negli avvisi e negli inviti le stazioni appaltanti, tenuto conto della prestazione oggetto del contratto, richiedono agli operatori economici di assumere i seguenti impegni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire la stabilita' occupazionale del personale impiegato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire l'applicazione dei contratti collettivi nazionali e territoriali di settore, tenendo conto, in relazione all'oggetto dell'appalto e alle prestazioni da eseguire, anche in maniera prevalente, di quelli stipulati dalle associazioni dei datori e dei prestatori di lavoro comparativamente piu' rappresentative sul piano nazionale e di quelli il cui ambito di applicazione sia strettamente connesso con l'attivita' oggetto dell'appalto o della concessione svolta dall'impresa anche in maniera prevalente, nonche' garantire le stesse tutele economiche e normative per i lavoratori in subappalto rispetto ai dipendenti dell'appaltatore e contro il lavoro irregolare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantire le pari opportunita' generazionali, di genere e di inclusione lavorativa per le persone con disabilita' o svantaggiate.
+
 Per i fini di cui al comma 1 l'operatore economico indica nell'offerta le modalita' con le quali intende adempiere quegli impegni. La stazione appaltante verifica l'attendibilita' degli impegni assunti con qualsiasi adeguato mezzo, anche con le modalita' di cui all'articolo 110, solo nei confronti dell'offerta dell'aggiudicatario.
 
 ## Art. 103. — Requisiti di partecipazione a procedure di lavori di rilevante importo
+
+1.
+                        
+                            
+                                
+                                    ((Per gli appalti di lavori di importo pari o superiore ad euro 20.658.000, oltre ai requisiti di cui all'articolo 100, la stazione appaltante puo' richiedere requisiti aggiuntivi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((per verificare la capacita' economico-finanziaria dell'operatore economico: in tal caso quest'ultimo fornisce i parametri economico-finanziari significativi richiesti, certificati da societa' di revisione ovvero da altri soggetti preposti che si affianchino alle valutazioni tecniche proprie dell'organismo di certificazione, da cui emerga in modo inequivoco l'esposizione finanziaria dell'operatore economico al momento in cui partecipa a una gara di appalto;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    per verificare la capacita' professionale per gli appalti per i quali e' richiesta la classifica illimitata; in tal caso l'operatore economico fornisce prova di aver eseguito lavori per entita' e tipologia compresi nella categoria individuata come prevalente a quelli posti in appalto opportunamente certificati dalle rispettive stazioni appaltanti, tramite presentazione del certificato di esecuzione lavori; tale requisito si applica solo agli appalti di lavori di importo pari o superiore a 100 milioni di euro.
 
 ## Art. 104. — Avvalimento
 
@@ -1339,6 +4292,31 @@ L'avvalimento e' il contratto con il quale una o piu' imprese ausiliarie si obbl
 Qualora il contratto di avvalimento sia concluso per acquisire un requisito necessario alla partecipazione a una procedura di aggiudicazione di un appalto di lavori di importo pari o superiore a euro 150.000, o di un appalto di servizi e forniture, esso ha per oggetto le dotazioni tecniche e le risorse che avrebbero consentito all'operatore economico di ottenere l'attestazione di qualificazione richiesta.
 
 Qualora il contratto di avvalimento sia stipulato con impresa ausiliaria in possesso di autorizzazione o altro titolo abilitativo richiesto per la partecipazione alla procedura di aggiudicazione ai sensi dell'articolo 100, comma 3, o con un soggetto in possesso di titoli di studio o professionali necessari all'esecuzione della prestazione oggetto dell'appalto, i lavori o i servizi sono eseguiti direttamente dall'impresa ausiliaria. Si applicano le disposizioni in materia di subappalto.
+
+4.
+                        
+                            
+                                L'operatore economico allega alla domanda di partecipazione il contratto di avvalimento in originale o copia autentica, specificando se intende avvalersi delle risorse altrui per acquisire un requisito di partecipazione o per migliorare la propria offerta, e allega, nel caso di cui al comma 2, la certificazione rilasciata dalla SOA ((...)). L'impresa ausiliaria e' tenuta a dichiarare alla stazione appaltante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di essere in possesso dei requisiti di ordine generale di cui al Capo II del presente Titolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di essere in possesso dei requisiti di cui all'articolo 100 per i servizi e le forniture; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di impegnarsi verso l'operatore economico e verso la stessa stazione appaltante a mettere a disposizione per tutta la durata dell'appalto le risorse oggetto del contratto di avvalimento.
 
 L'impresa ausiliaria trasmette la propria attestazione di qualificazione nel caso di avvalimento finalizzato all'acquisizione del requisito di partecipazione a una procedura di aggiudicazione di lavori. In caso di dichiarazioni mendaci, fermo restando l'applicazione dell'articolo 96, comma 15, nei confronti dei sottoscrittori, la stazione appaltante assegna all'operatore economico concorrente un termine, non superiore a dieci giorni, per indicare un'altra impresa ausiliaria idonea, purche' la sostituzione dell'impresa ausiliaria non conduca a una modifica sostanziale dell'offerta dell'operatore economico. Nel caso di mancato rispetto del termine assegnato, la stazione appaltante esclude l'operatore economico.
 
@@ -1391,6 +4369,24 @@ Il presente articolo non si applica agli appalti di servizi aventi ad oggetto la
 
 ## Art. 107. — Principi generali in materia di selezione
 
+1.
+                        
+                            
+                                Gli appalti sono aggiudicati sulla base di criteri stabiliti conformemente agli articoli da 108 a 110 previa verifica, in applicazione dell'articolo 91 e dell'allegato II.8, quest'ultimo con riguardo ai mezzi di prova e al registro online, della sussistenza dei seguenti presupposti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'offerta e' conforme alle previsioni contenute nel bando di gara o nell'invito a confermare l'interesse nonche' nei documenti di gara; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'offerta proviene da un offerente che non e' escluso ai sensi del Capo II del Titolo IV della presente Parte e che possiede i requisiti di cui all'articolo 100 e, se del caso, dell'articolo 103.
+
 La stazione appaltante puo' decidere di non aggiudicare l'appalto all'offerente che ha presentato l'offerta economicamente piu' vantaggiosa se ha accertato che l'offerta non soddisfa gli obblighi in materia ambientale, sociale e del lavoro stabiliti dalla normativa europea e nazionale, dai contratti collettivi o dalle disposizioni internazionali di diritto del lavoro indicate nell'allegato X alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014.
 
 Nelle procedure aperte, la stazione appaltante puo' disporre negli atti di gara che le offerte siano esaminate prima della verifica dell'idoneita' degli offerenti. Tale facolta' puo' essere esercitata dopo la scadenza del termine per la presentazione delle offerte. Se si avvale di tale possibilita', la stazione appaltante garantisce che la verifica dell'assenza dei motivi di esclusione e del rispetto dei criteri di selezione sia effettuata in maniera imparziale e trasparente.
@@ -1398,6 +4394,59 @@ Nelle procedure aperte, la stazione appaltante puo' disporre negli atti di gara 
 ## Art. 108. — Criteri di aggiudicazione degli appalti di lavori, servizi e forniture
 
 Fatte salve le disposizioni legislative, regolamentari o amministrative relative al prezzo di determinate forniture o alla remunerazione di servizi specifici, le stazioni appaltanti procedono all'aggiudicazione degli appalti di lavori, servizi e forniture e all'affidamento dei concorsi di progettazione e dei concorsi di idee sulla base del criterio dell'offerta economicamente piu' vantaggiosa, individuata sulla base del miglior rapporto qualita'/prezzo o sulla base dell'elemento prezzo o del costo, seguendo un criterio di comparazione costo/efficacia quale il costo del ciclo di vita, conformemente a quanto previsto dall'allegato II.8, con riguardo al costo del ciclo di vita.
+
+2.
+                        
+                            
+                                Sono aggiudicati esclusivamente sulla base del criterio dell'offerta economicamente piu' vantaggiosa individuata sulla base del miglior rapporto qualita'/prezzo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i contratti relativi ai servizi sociali e di ristorazione ospedaliera, assistenziale e scolastica, nonche' ai servizi ad alta intensita' di manodopera, come definiti dall'articolo 2, comma 1, lettera e), dell'allegato I.1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contratti relativi all'affidamento dei servizi di ingegneria e architettura e degli altri servizi di natura tecnica e intellettuale di importo pari o superiore a 140.000 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contratti di servizi e le forniture di importo pari o superiore a 140.000 euro caratterizzati da notevole contenuto tecnologico o che hanno un carattere innovativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli affidamenti in caso di dialogo competitivo e di partenariato per l'innovazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli affidamenti di appalto integrato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i contratti relativi ai lavori caratterizzati da notevole contenuto tecnologico o con carattere innovativo; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    i contratti relativi ai servizi di trasporto nell'ambito delle uscite didattiche e dei viaggi di istruzione di competenza delle istituzioni scolastiche di ogni ordine e grado.
 
 Puo' essere utilizzato il criterio del minor prezzo per i servizi e le forniture con caratteristiche standardizzate o le cui condizioni sono definite dal mercato, fatta eccezione per i servizi ad alta intensita' di manodopera di cui alla definizione dell'articolo 2, comma 1, lettera e), dell'allegato I.1.
 
@@ -1430,6 +4479,81 @@ Le stazioni appaltanti valutano la congruita', la serieta', la sostenibilita' e 
 
 In presenza di un'offerta che appaia anormalmente bassa le stazioni appaltanti richiedono per iscritto all'operatore economico le spiegazioni sul prezzo o sui costi proposti, assegnando a tal fine un termine non superiore a quindici giorni.
 
+3.
+                        
+                            
+                                Le spiegazioni di cui al comma 2 possono riguardare i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'economia del processo di fabbricazione dei prodotti, dei servizi prestati o del metodo di costruzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le soluzioni tecniche prescelte o le condizioni eccezionalmente favorevoli di cui dispone l'offerente per fornire i prodotti, per prestare i servizi o per eseguire i lavori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'originalita' dei lavori, delle forniture o dei servizi proposti dall'offerente.
+
+4.
+                        
+                            
+                                Non sono ammesse giustificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione a trattamenti salariali minimi inderogabili stabiliti dalla legge o da fonti autorizzate dalla legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione ((ai costi)) di sicurezza di cui alla normativa vigente.
+
+5.
+                        
+                            
+                                La stazione appaltante esclude l'offerta se le spiegazioni fornite non giustificano adeguatamente il livello di prezzi o di costi proposti, tenendo conto degli elementi di cui al comma 3, oppure se l'offerta e' anormalmente bassa in quanto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non rispetta gli obblighi in materia ambientale, sociale e del lavoro stabiliti dalla normativa europea e nazionale, dai contratti collettivi o dalle disposizioni internazionali di diritto del lavoro indicate nell'allegato X alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non rispetta gli obblighi di cui all'articolo 119; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono incongrui gli oneri aziendali della sicurezza di cui all'articolo 108, comma 9, rispetto all'entita' e alle caratteristiche dei lavori, dei servizi e delle forniture; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il costo del personale e' inferiore ai minimi salariali retributivi indicati nelle apposite tabelle di cui all'articolo 41, comma 13.
+
 Qualora accerti che un'offerta e' anormalmente bassa in quanto l'offerente ha ottenuto un aiuto di Stato, la stazione appaltante puo' escluderla unicamente per questo motivo, soltanto dopo aver consultato l'offerente e se quest'ultimo non e' in grado di dimostrare, entro un termine sufficiente stabilito dalla stazione appaltante, che l'aiuto era compatibile con il mercato interno ai sensi dell'articolo 107 del Trattato sul funzionamento dell'Unione europea. In caso di esclusione la stazione appaltante informa la Commissione europea.
 
 ## Art. 111. — Avvisi relativi agli appalti aggiudicati
@@ -1445,6 +4569,68 @@ Le stazioni appaltanti inviano all'Ufficio delle pubblicazioni dell'Unione europ
 Fermo restando quanto disposto dagli articoli 35 e 36, talune informazioni relative all'aggiudicazione dell'appalto o alla conclusione dell'accordo quadro possono non essere pubblicate qualora la loro divulgazione ostacoli l'applicazione della legge, sia contraria all'interesse pubblico, pregiudichi i legittimi interessi commerciali di un particolare operatore economico, pubblico o privato, oppure possa arrecare pregiudizio alla concorrenza leale tra operatori economici.
 
 ## Art. 112. — Relazioni uniche sulle procedure di aggiudicazione degli appalti
+
+1.
+                        
+                            
+                                Per ogni appalto od ogni accordo quadro di importo pari o superiore alle soglie di cui all'articolo 14 e ogniqualvolta sia istituito un sistema dinamico di acquisizione, la stazione appaltante redige una relazione contenente almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e l'indirizzo della stazione appaltante, l'oggetto e il valore dell'appalto, dell'accordo quadro o del sistema dinamico di acquisizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se del caso, i risultati della selezione qualitativa e della riduzione dei numeri di candidati altrimenti qualificati da invitare a partecipare o del numero di offerte e soluzioni: 
+ 1) i nomi dei candidati o degli offerenti selezionati e i motivi della selezione; 
+ 2) i nomi dei candidati o degli offerenti esclusi e i motivi dell'esclusione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i motivi del rigetto delle offerte giudicate anormalmente basse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il nome dell'aggiudicatario e le ragioni della scelta della sua offerta, nonche', se e' nota, la parte dell'appalto o dell'accordo quadro che l'aggiudicatario intende subappaltare a terzi; e, se noti al momento della redazione, i nomi degli eventuali subappaltatori del contraente principale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le procedure competitive con negoziazione e i dialoghi competitivi, le circostanze di cui all'articolo 70 che giustificano l'utilizzazione di tali procedure; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per quanto riguarda le procedure negoziate senza pubblicazione di un bando di gara, le circostanze di cui all'articolo 76 che giustificano l'utilizzazione di tali procedure; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    eventualmente, le ragioni per le quali l'amministrazione aggiudicatrice ha deciso di non aggiudicare un appalto, concludere un accordo quadro o istituire un sistema dinamico di acquisizione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    eventualmente, i conflitti di interesse individuati e le misure successivamente adottate.
 
 La relazione di cui al comma 1 non e' richiesta per gli appalti basati su accordi quadro conclusi con un solo operatore economico e aggiudicati entro i limiti delle condizioni fissate nell'accordo quadro, o se l'accordo quadro contiene tutti i termini che disciplinano la prestazione dei lavori, dei servizi e delle forniture in questione nonche' le condizioni oggettive per determinare quale degli operatori economici parti dell'accordo quadro effettuera' tale prestazione.
 
@@ -1506,17 +4692,111 @@ Il collaudo finale o la verifica di conformita' deve essere completato non oltre
 
 Salvo quanto disposto dall'articolo 1669 del codice civile, l'appaltatore risponde per la difformita' e i vizi dell'opera, ancorche' riconoscibili, purche' denunciati dalla stazione appaltante prima che il certificato di collaudo assuma carattere definitivo.
 
+4.
+                        
+                            
+                                
+                                    ((Per effettuare le attivita' di collaudo dei lavori:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((le stazioni appaltanti e gli enti concedenti che sono amministrazioni pubbliche nominano da uno a tre collaudatori scelti tra il proprio personale o tra il personale di altre amministrazioni pubbliche, con qualificazione rapportata alla tipologia e caratteristica del contratto, in possesso dei requisiti di moralita', competenza e professionalita'. I collaudatori dipendenti della stessa amministrazione appartengono a strutture funzionalmente indipendenti;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le stazioni appaltanti e gli enti concedenti che non sono amministrazioni pubbliche nominano da uno a tre collaudatori di cui almeno uno deve essere individuato tra il personale di amministrazioni pubbliche. Tutti i collaudatori devono possedere qualificazione rapportata alla tipologia e alle caratteristiche del contratto e requisiti di moralita', competenza e professionalita')).
+
 ((Tra le unita' di personale della stazione appaltante o di altre amministrazioni pubbliche e' individuato anche il collaudatore delle strutture per la redazione del collaudo statico. Per accertata carenza nell'organico della stazione appaltante, o nei casi di particolare complessita' tecnica, la stazione appaltante puo' verificare la possibilita' di nominare il collaudatore tra i dipendenti di altre amministrazioni pubbliche formulando, anche contestualmente, apposita richiesta ad almeno tre amministrazioni, e, in caso di mancato riscontro entro il termine di trenta giorni, affidare l'incarico con le modalita' previste dal codice. Il compenso spettante per l'attivita' di collaudo e' contenuto per il personale della stessa amministrazione nell'ambito dell'incentivo di cui all'articolo 45, mentre per il personale di altre amministrazioni pubbliche e' determinato ai sensi dell'articolo 29, comma 1, dell'allegato II.14.))
 
 ((Il collaudatore o la commissione di collaudo, per lavori di particolare complessita', in qualsiasi momento, puo' decidere di avvalersi, previa adeguata motivazione, di una segreteria tecnico-amministrativa in possesso di specifiche competenze per le attivita' istruttorie e di supporto organizzativo. Il membro o i componenti della segreteria tecnico-amministrativa sono scelti dal collaudatore o dal presidente della commissione. Gli oneri della segreteria sono a carico del collaudatore o dei membri della commissione di collaudo e vengono liquidati con le modalita' di cui all'articolo 29-bis. dell'allegato II.14.))
 
 Per i contratti di servizi e forniture la verifica di conformita' e' effettuata dal RUP o, se nominato, dal direttore dell'esecuzione. Per servizi e forniture caratterizzati da elevato contenuto tecnologico oppure da elevata complessita' o innovazione, le stazioni appaltanti ((e gli enti concedenti)) possono prevedere la nomina di uno o piu' verificatori della conformita' diversi dal RUP o dal direttore dell'esecuzione del contratto. Per la nomina e il compenso dei verificatori si applica il comma 4.
 
+6.
+                        
+                            
+                                Non possono essere affidati incarichi di collaudo e di verifica di conformita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai magistrati ordinari, amministrativi e contabili, e agli avvocati e procuratori dello Stato, in attivita' di servizio ((...)); 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    
+                                        ((ai magistrati ordinari, amministrativi e contabili, e agli avvocati e procuratori dello stato in quiescenza che a qualsiasi titolo siano intervenuti in fase di aggiudicazione o di esecuzione del contratto oggetto del collaudo o che abbiano altri motivi di conflitto di interesse di cui all'articolo 16;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((ai dipendenti appartenenti ai ruoli della pubblica amministrazione in servizio o in trattamento di quiescenza per i quali sussistono motivi di conflitto di interesse di cui all'articolo 16;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    a coloro che nel triennio antecedente hanno avuto rapporti di lavoro autonomo o subordinato con gli operatori economici a qualsiasi titolo coinvolti nell'esecuzione del contratto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a coloro che hanno comunque svolto o svolgono attivita' di controllo, verifica, progettazione, approvazione, autorizzazione, vigilanza o direzione sul contratto da collaudare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a coloro che hanno partecipato alla procedura di gara.
+
 Le modalita' tecniche e i tempi di svolgimento del collaudo, nonche' i casi in cui il certificato di collaudo dei lavori e il certificato di verifica di conformita' possono essere sostituiti dal certificato di regolare esecuzione, sono disciplinati dall'allegato II.14.
 
 Le modalita' tecniche e i tempi della verifica di conformita' sono stabiliti dalla stazione appaltante nel capitolato. La cadenza delle verifiche puo' non coincidere con il pagamento periodico delle prestazioni in modo tale da non ostacolare il regolare pagamento in favore degli operatori economici.
 
 Salvo motivate esigenze, le attivita' di verifica di conformita' sono svolte durante l'esecuzione dei contratti a prestazioni periodiche o continuative.
+
+10.
+                        
+                            
+                                Al termine del lavoro sono redatti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i beni del patrimonio culturale, un consuntivo scientifico predisposto dal direttore dei lavori o, nel caso di interventi su beni culturali mobili, superfici decorate di beni architettonici e materiali storicizzati di beni immobili di interesse storico artistico, da restauratori di beni culturali ovvero, nel caso di interventi archeologici, da archeologi qualificati, ai sensi della normativa vigente, quale ultima fase del processo della conoscenza e del restauro e quale premessa per il futuro programma di intervento sul bene; i costi per la elaborazione del consuntivo scientifico sono previsti nel quadro economico dell'intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'aggiornamento del piano di manutenzione e della eventuale modellazione informativa dell'opera realizzata di cui all'articolo 43 per la successiva gestione del ciclo di vita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai professionisti afferenti alle rispettive competenze, una relazione tecnico-scientifica, con l'esplicitazione dei risultati culturali e scientifici raggiunti.
 
 Gli accertamenti di laboratorio e le verifiche tecniche obbligatorie inerenti alle attivita' di cui al presente articolo e alle attivita' di cui all'allegato II.14 oppure specificamente previsti dal capitolato speciale d'appalto di lavori, sono disposti dalla direzione dei lavori o dall'organo di collaudo o di verifica di conformita', imputando la spesa a carico delle somme a disposizione accantonate a tale titolo nel quadro economico. ((Le spese relative alle verifiche tecniche obbligatorie)) non sono soggette a ribasso. I criteri per la determinazione dei costi sono individuati dall'allegato II.15. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
@@ -1579,6 +4859,63 @@ Sono, altresi', comunicate alla stazione appaltante eventuali modifiche a tali i
 
 ((Nei contratti di subappalto o nei subcontratti comunicati alla stazione appaltante ai sensi del comma 2 e' obbligatorio l'inserimento di clausole di revisione prezzi riferite alle prestazioni o lavorazioni oggetto del subappalto o del subcontratto e determinate in coerenza con quanto previsto dagli articoli 8 e 14 dell'allegato II.2-bis, che si attivano al verificarsi delle particolari condizioni di natura oggettiva di cui all'articolo 60, comma 2.))
 
+3.
+                        
+                            
+                                Non si configurano come attivita' affidate in subappalto, per la loro specificita', le seguenti categorie di forniture o servizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'affidamento di attivita' secondarie, accessorie o sussidiarie a lavoratori autonomi, per le quali occorre effettuare comunicazione alla stazione appaltante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la subfornitura a catalogo di prodotti informatici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'affidamento di servizi di importo inferiore a 20.000 euro annui a imprenditori agricoli nei comuni classificati totalmente montani di cui all'elenco dei comuni italiani predisposto dall'ISTAT, oppure ricompresi nella circolare del Ministero delle finanze n. 9 del 14 giugno 1993, pubblicata nel supplemento ordinario n. 53 alla Gazzetta Ufficiale della Repubblica italiana n. 141 del 18 giugno 1993, nonche' nei comuni delle isole minori di cui all'allegato A annesso alla legge 28 dicembre 2001, n. 448; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le prestazioni secondarie, accessorie o sussidiarie rese in favore dei soggetti affidatari in forza di contratti continuativi di cooperazione, servizio o fornitura sottoscritti in epoca anteriore alla indizione della procedura finalizzata alla aggiudicazione dell'appalto. I relativi contratti sono trasmessi alla stazione appaltante prima o contestualmente alla sottoscrizione del contratto di appalto.
+
+4.
+                        
+                            
+                                I soggetti affidatari dei contratti di cui al codice possono affidare in subappalto le opere o i lavori, i servizi o le forniture compresi nel contratto, previa autorizzazione della stazione appaltante a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il subappaltatore sia qualificato per le lavorazioni o le prestazioni da eseguire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non sussistano a suo carico le cause di esclusione di cui al Capo II del Titolo IV della Parte V del presente Libro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'atto dell'offerta siano stati indicati i lavori o le parti di opere ovvero i servizi e le forniture o parti di servizi e forniture che si intende subappaltare.
+
 L'affidatario trasmette il contratto di subappalto alla stazione appaltante almeno venti giorni prima della data di effettivo inizio dell'esecuzione delle relative prestazioni. Contestualmente trasmette la dichiarazione del subappaltatore attestante l'assenza delle cause di esclusione di cui al Capo II del Titolo IV della Parte V del presente Libro e il possesso dei requisiti di cui agli articoli 100 e 103. La stazione appaltante verifica la dichiarazione tramite la Banca dati nazionale di cui all'articolo 23. Il contratto di subappalto, corredato della documentazione tecnica, amministrativa e grafica direttamente derivata dagli atti del contratto affidato, indica puntualmente l'ambito operativo del subappalto sia in termini prestazionali che economici.
 
 Il contraente principale e il subappaltatore sono responsabili in solido nei confronti della stazione appaltante per le prestazioni oggetto del contratto di subappalto. L'aggiudicatario e' responsabile in solido con il subappaltatore per gli obblighi retributivi e contributivi, ai sensi dell'articolo 29 del decreto legislativo 10 settembre 2003, n. 276. Nelle ipotesi di cui al comma 11, lettere a) e c), l'appaltatore e' liberato dalla responsabilita' solidale di cui al secondo periodo del presente comma.
@@ -1590,6 +4927,31 @@ Per i contratti relativi a lavori, servizi e forniture, in caso di ritardo nel p
 Nel caso di formale contestazione delle richieste di cui al comma 8, il RUP o il responsabile della fase dell'esecuzione, ove nominato, inoltra le richieste e le contestazioni alla direzione provinciale del lavoro per i necessari accertamenti.
 
 L'affidatario sostituisce, previa autorizzazione della stazione appaltante, i subappaltatori relativamente ai quali, all'esito di apposita verifica, sia stata accertata la sussistenza di cause di esclusione di cui al Capo II del Titolo IV della Parte V del presente Libro.
+
+11.
+                        
+                            
+                                La stazione appaltante corrisponde direttamente al subappaltatore ed ai titolari di sub-contratti non costituenti subappalto ai sensi del quinto periodo del comma 2 l'importo dovuto per le prestazioni dagli stessi eseguite nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il subcontraente e' una microimpresa o piccola impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di inadempimento da parte dell'appaltatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    su richiesta del subcontraente e se la natura del contratto lo consente.
 
 Il subappaltatore, per le prestazioni affidate in subappalto, deve garantire gli stessi standard qualitativi e prestazionali previsti nel contratto di appalto e riconoscere ai lavoratori un trattamento economico e normativo non inferiore a quello che avrebbe garantito il contraente principale. ((Il subappaltatore, per le prestazioni affidate in subappalto, e' tenuto ad applicare il medesimo contratto collettivo di lavoro del contraente principale, ovvero un differente contratto collettivo, purche' garantisca ai dipendenti le stesse tutele economiche e normative di quello applicato dall'appaltatore, qualora le attivita' oggetto di subappalto coincidano con quelle caratterizzanti l'oggetto dell'appalto oppure riguardino le prestazioni relative alla categoria prevalente. Nei casi di cui all'articolo 11, comma 2-bis, il subappaltatore, per le prestazioni affidate in subappalto, e' tenuto ad applicare il contratto collettivo di lavoro individuato ai sensi del medesimo articolo 11, comma 2-bis, ovvero un differente contratto collettivo, purche' garantisca ai dipendenti le stesse tutele economiche e normative del contratto individuato ai sensi del predetto comma 2-bis.)) L'affidatario corrisponde i costi della sicurezza e della manodopera, relativi alle prestazioni affidate in subappalto, alle imprese subappaltatrici senza alcun ribasso; la stazione appaltante, sentito il direttore dei lavori, il coordinatore della sicurezza in fase di esecuzione oppure il direttore dell'esecuzione, provvede alla verifica dell'effettiva applicazione della presente disposizione. L'affidatario e' solidalmente responsabile con il subappaltatore degli adempimenti, da parte di quest'ultimo, degli obblighi di sicurezza previsti dalla normativa vigente.
 
@@ -1612,11 +4974,103 @@ Le stazioni appaltanti rilasciano i certificati necessari per la partecipazione 
 
 ## Art. 120. — Modifica dei contratti in corso di esecuzione
 
+1.
+                        
+                            
+                                Fermo quanto previsto dall'articolo 60 per le clausole di revisione dei prezzi, i contratti di appalto possono essere modificati senza una nuova procedura di affidamento nei casi seguenti, sempre che, nelle ipotesi previste dalle lettere a) e c), nonostante le modifiche, la struttura del contratto o dell'accordo quadro e l'operazione economica sottesa possano ritenersi inalterate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se le modifiche, a prescindere dal loro valore monetario, sono state previste in clausole chiare, precise e inequivocabili dei documenti di gara iniziali, che possono consistere anche in clausole di opzione; per i contratti relativi a servizi o forniture stipulati dai soggetti aggregatori restano ferme le disposizioni di cui all'articolo 1, comma 511, della legge 28 dicembre 2015, n. 208; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la sopravvenuta necessita' di lavori, servizi o forniture supplementari, non previsti nell'appalto iniziale, ove un cambiamento del contraente nel contempo: 
+ 1) risulti impraticabile per motivi economici o tecnici; 
+ 2) comporti per la stazione appaltante notevoli disagi o un sostanziale incremento dei costi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((per le varianti in corso d'opera, da intendersi come modifiche resesi necessarie in corso di esecuzione dell'appalto per effetto delle seguenti circostanze imprevedibili da parte della stazione appaltante, fatti salvi gli ulteriori casi previsti nella legislazione di settore: 
+ 1) le esigenze derivanti da nuove disposizioni legislative o regolamentari o da provvedimenti sopravvenuti di autorita' o enti preposti alla tutela di interessi rilevanti; 
+ 2) gli eventi naturali straordinari e imprevedibili e i casi di forza maggiore che incidono sui beni oggetto dell'intervento; 
+ 3) i rinvenimenti, imprevisti o non prevedibili con la dovuta diligenza nella fase di progettazione; 
+ 4) le difficolta' di esecuzione derivanti da cause geologiche, idriche e simili, non prevedibili dalle parti in base alle conoscenze tecnico-scientifiche consolidate al momento della progettazione.))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    se un nuovo contraente sostituisce l'aggiudicatario a causa di una delle seguenti circostanze: 
+ 1) le modifiche soggettive implicanti la sostituzione del contraente originario sono previste in clausole chiare, precise e inequivocabili dei documenti di gara; 
+ 2) all'aggiudicatario succede, per causa di morte o insolvenza o a seguito di ristrutturazioni societarie, che comportino successione nei rapporti pendenti, un altro operatore economico che soddisfi gli iniziali criteri di selezione, purche' cio' non implichi ulteriori modifiche sostanziali al contratto e non sia finalizzato ad eludere l'applicazione del codice, fatto salvo quanto previsto dall'articolo 124; 
+ 3) nel caso in cui la stazione appaltante assume gli obblighi del contraente principale nei confronti dei suoi subappaltatori.
+
 Nei casi di cui al comma 1, lettere b) e c), il contratto puo' essere modificato solo se l'eventuale aumento di prezzo non ecceda il 50 per cento del valore del contratto iniziale. In caso di piu' modifiche successive, la limitazione si applica al valore di ciascuna modifica. Tali modifiche successive non eludono l'applicazione del codice.
+
+3.
+                        
+                            
+                                I contratti possono parimenti essere modificati, oltre a quanto previsto dal comma 1, senza necessita' di una nuova procedura, sempre che nonostante le modifiche, la struttura del contratto o dell'accordo quadro e l'operazione economica sottesa possano ritenersi inalterate, se il valore della modifica e' al di sotto di entrambi i seguenti valori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le soglie fissate all'articolo 14; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il 10 per cento del valore iniziale del contratto per i contratti di servizi e forniture; il 15 per cento del valore iniziale del contratto per i contratti di lavori; in caso di piu' modifiche successive, il valore e' accertato sulla base del valore complessivo del contratto al netto delle successive modifiche.
 
 Ai fini del calcolo del prezzo di cui ai commi 1, lettere b) e c), 2 e 3, quando il contratto prevede una clausola di indicizzazione, il valore di riferimento e' il prezzo aggiornato.
 
 Sono sempre consentite, a prescindere dal loro valore, le modifiche non sostanziali.
+
+6.
+                        
+                            
+                                La modifica e' considerata sostanziale quando altera considerevolmente la struttura del contratto o dell'accordo quadro e l'operazione economica sottesa. In ogni caso, fatti salvi i commi 1 e 3, una modifica e' considerata sostanziale se si verificano una o piu' delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la modifica introduce condizioni che, se fossero state contenute nella procedura d'appalto iniziale, avrebbero consentito di ammettere candidati diversi da quelli inizialmente selezionati o di accettare un'offerta diversa da quella inizialmente accettata, oppure avrebbero attirato ulteriori partecipanti alla procedura di aggiudicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la modifica cambia l'equilibrio economico del contratto o dell'accordo quadro a favore dell'aggiudicatario in modo non previsto nel contratto iniziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la modifica estende notevolmente l'ambito di applicazione del contratto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un nuovo contraente sostituisce quello cui la stazione appaltante aveva inizialmente aggiudicato l'appalto in casi diversi da quelli previsti dal comma 1, lettera d).
 
 ((Non sono considerate sostanziali, fermi restando i limiti derivanti dalle somme a disposizione del quadro economico e dalle previsioni di cui alle lettere a) b) e c) del comma 6, le modifiche al progetto o le modifiche contrattuali proposte dalla stazione appaltante ovvero dall'appaltatore con le quali, nel rispetto della funzionalita' dell'opera: 
  a) si assicurino risparmi, rispetto alle previsioni iniziali, da utilizzare in compensazione per far fronte alle variazioni in aumento dei costi delle lavorazioni; 
@@ -1668,6 +5122,56 @@ Nel caso di sospensioni totali o parziali dei lavori disposte dalla stazione app
 Le disposizioni del presente articolo si applicano, in quanto compatibili, ai contratti relativi a servizi e forniture, intendendosi riferite al direttore dell'esecuzione, se nominato, le previsioni riguardanti il direttore dei lavori. Ai contratti di appalto di forniture e servizi di importo pari o superiore a 1 milione di euro si applicano inoltre i commi 3, 6, secondo periodo, e 8, quarto periodo.
 
 ## Art. 122. — Risoluzione
+
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 121, le stazioni appaltanti possono risolvere un contratto di appalto senza limiti di tempo, se si verificano una o piu' delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    modifica sostanziale del contratto, che richiede una nuova procedura di appalto ai sensi dell'articolo 120; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento alle modificazioni di cui all'articolo 120, comma 1, lettere b) e c), superamento delle soglie di cui al comma 2 del predetto articolo 120 e, con riferimento alle modificazioni di cui all'articolo 120, comma 3, superamento delle soglie di cui al medesimo articolo 120, comma 3, lettere a) e b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aggiudicatario si e' trovato, al momento dell'aggiudicazione dell'appalto, in una delle situazioni di cui all'articolo 94, comma 1, e avrebbe dovuto pertanto essere escluso dalla procedura di gara; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'appalto non avrebbe dovuto essere aggiudicato in considerazione di una grave violazione degli obblighi derivanti dai trattati, come riconosciuto dalla Corte di giustizia dell'Unione europea in un procedimento ai sensi dell'articolo 258 del Trattato sul funzionamento dell'Unione europea.
+
+2.
+                        
+                            
+                                Le stazioni appaltanti risolvono un contratto di appalto qualora nei confronti dell'appaltatore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia intervenuta la decadenza dell'attestazione di qualificazione per aver prodotto falsa documentazione o dichiarazioni mendaci; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia intervenuto un provvedimento definitivo che dispone l'applicazione di una o piu' misure di prevenzione di cui al codice delle leggi antimafia e delle relative misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, ovvero sia intervenuta sentenza di condanna passata in giudicato per i reati di cui al Capo II del Titolo IV della Parte V del presente Libro.
 
 Il contratto di appalto puo' inoltre essere risolto per grave inadempimento delle obbligazioni contrattuali da parte dell'appaltatore, tale da compromettere la buona riuscita delle prestazioni. Il direttore dei lavori o il direttore dell'esecuzione, se nominato, quando accerta un grave inadempimento ai sensi del primo periodo avvia in contraddittorio con l'appaltatore il procedimento disciplinato dall'articolo 10 dell'allegato II.14. All'esito del procedimento, la stazione appaltante, su proposta del RUP, dichiara risolto il contratto con atto scritto comunicato all'appaltatore.
 
@@ -1743,6 +5247,24 @@ Le stazioni appaltanti possono prevedere nel bando o nell'avviso di indizione de
 
 ## Art. 127. — Norme applicabili ai servizi sociali e assimilati
 
+1.
+                        
+                            
+                                Fermo quanto previsto dall'articolo 6 del codice, per l'affidamento dei servizi sociali e degli altri servizi assimilati di cui all'allegato XIV alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, per valori pari o superiori alla soglia di cui all'articolo 14, comma 1 lettera d), le stazioni appaltanti procedono alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante bando o avviso di gara che comprende le informazioni di cui all'allegato II.6, Parte I, lettera E; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante avviso di pre-informazione, pubblicato con cadenza continuativa per periodi non superiori a ventiquattro mesi, recante le informazioni di cui allegato II.6, Parte I, lettera F, con l'avvertenza che l'aggiudicazione avverra' senza ulteriore pubblicazione di un avviso di indizione di gara.
+
 Le disposizioni del comma 1 non si applicano quando e' utilizzata, in presenza dei presupposti previsti dall'articolo 76, una procedura negoziata senza pubblicazione di bando.
 
 L'avvenuto affidamento del servizio e' reso noto mediante la pubblicazione di avviso di aggiudicazione dicui all'allegato II.6, Parte I, lettera G. E' possibile raggruppare gli avvisi su base trimestrale, nel qual caso essi sono inviati cumulativamente al piu' tardi trenta giorni dopo la fine di ogni trimestre.
@@ -1754,6 +5276,31 @@ Gli avvisi di cui al presente articolo sono pubblicati conformemente all'articol
 ## Art. 128. — Servizi alla persona.
 
 Salvo quanto previsto dall'articolo 127, per l'affidamento dei servizi alla persona si applicano le disposizioni che seguono.
+
+2.
+                        
+                            
+                                Ai fini della presente Parte, sono considerati servizi alla persona i seguenti servizi, come individuati dall'allegato XIV alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi sanitari, servizi sociali e servizi connessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi di prestazioni sociali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri servizi pubblici, sociali e personali, inclusi i servizi forniti da associazioni sindacali, da organizzazioni politiche, da associazioni giovanili e altri servizi di organizzazioni associative.
 
 L'affidamento deve garantire la qualita', la continuita', l'accessibilita', la disponibilita' e la completezza dei servizi, tenendo conto delle esigenze specifiche delle diverse categorie di utenti, compresi i gruppi svantaggiati e promuovendo il coinvolgimento e la responsabilizzazione degli utenti.
 
@@ -1773,11 +5320,61 @@ Per l'affidamento e l'esecuzione di servizi alla persona di importo inferiore al
 
 Le stazioni appaltanti hanno facolta', con bando predisposto a norma delle disposizioni che seguono, di riservare agli enti di cui al comma 2 il diritto di partecipare alle procedure per l'affidamento dei servizi sanitari, sociali e culturali individuati nell'allegato XIV alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014.
 
+2.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 6, devono essere soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli enti riservatari devono avere come obiettivo statutario il perseguimento di una missione di servizio pubblico legata alla prestazione dei servizi di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    deve essere previsto un vincolo di reinvestimento dei profitti, per il conseguimento degli obiettivi statutari o, comunque, una distribuzione o redistribuzione fondata su considerazioni partecipative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le strutture di gestione o proprieta' degli enti devono essere basate su principi partecipativi o di azionariato dei dipendenti, ovvero richiedere la partecipazione attiva di dipendenti, utenti o soggetti interessati.
+
 E' esclusa la riserva a favore di enti che nei tre anni precedenti all'affidamento siano stati gia' aggiudicatari di un appalto o di una concessione per i servizi di cui al comma 1, disposti a norma del presente articolo.
 
 La durata massima del contratto non puo' superare i tre anni.
 
 ## Art. 130. — Servizi di ristorazione
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 127, i servizi di ristorazione indicati nell'allegato XIV alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014 sono aggiudicati esclusivamente sulla base del criterio dell'offerta economicamente piu' vantaggiosa, individuata sulla base del miglior rapporto qualita'/prezzo. La valutazione dell'offerta tecnica tiene conto, in particolare, tramite l'attribuzione di un punteggio premiale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della qualita' dei generi alimentari, con particolare riferimento ai prodotti biologici, tipici e tradizionali, ai prodotti a denominazione protetta, nonche' ai prodotti provenienti da sistemi di filiera corta e da operatori dell'agricoltura sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del rispetto delle disposizioni ambientali in materia di economia sostenibile (green economy), nonche' dei pertinenti criteri ambientali minimi di cui all'articolo 57; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della qualita' della formazione degli operatori.
 
 Per l'affidamento e la gestione dei servizi di refezione scolastica e di fornitura di alimenti e prodotti agroalimentari agli asili nido, alle scuole dell'infanzia, alle scuole primarie, alle scuole secondarie di primo e di secondo grado e alle altre strutture pubbliche che abbiano come utenti bambini e giovani fino a diciotto anni di eta', resta fermo l'obbligo di cui all'articolo 4, comma 5-quater del decreto legge 12 settembre 2013, n. 104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128.
 
@@ -1794,6 +5391,45 @@ L'affidamento dei servizi sostitutivi di cui al presente articolo e' riservato a
 Il possesso dei requisiti di cui al comma 2 deve essere provato mediante preventiva segnalazione certificata di inizio attivita', redatta dai rappresentanti legali della societa' e trasmessa, ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, al Ministero delle imprese e del made in Italy.
 
 Gli operatori economici attivi nel settore dell'emissione di buoni pasto aventi sede in altri Paesi dell'Unione europea possono esercitare l'attivita' se a cio' autorizzati in base alle norme del Paese di appartenenza.
+
+5.
+                        
+                            
+                                L'affidamento dei servizi di cui al presente articolo avviene esclusivamente con il criterio dell'offerta economicamente piu' vantaggiosa individuata sulla base del miglior rapporto qualita'/prezzo. Il bando di gara stabilisce i criteri di valutazione dell'offerta pertinenti, tra cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il ribasso sul valore nominale del buono pasto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rete degli esercizi da convenzionare, con specifica valorizzazione, in sede di attribuzione dei punti o dei pesi, delle caratteristiche qualitative che connotano il servizio sostitutivo di mensa offerto dalla rete di esercizi selezionata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo sconto incondizionato verso gli esercenti, in misura non superiore al 5 per cento del valore nominale del buono pasto. Tale sconto incondizionato remunera altresi' ogni eventuale servizio aggiuntivo offerto agli esercenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i termini di pagamento agli esercizi convenzionati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il progetto tecnico.
 
 L'allegato II.17 individua gli esercizi presso cui puo' essere erogato il servizio sostitutivo di mensa, le caratteristiche dei buoni pasto e il contenuto degli accordi stipulati tra le societa' di emissione dei buoni e i titolari degli esercizi convenzionabili. Nel caso di buoni pasto in forma elettronica e' garantito agli esercizi convenzionati un unico terminale di pagamento. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
@@ -1827,11 +5463,72 @@ L'affidamento di contratti di sponsorizzazione di lavori, servizi o forniture pe
 
 ## Art. 135. — Servizi di ricerca e sviluppo
 
+1.
+                        
+                            
+                                Relativamente ai servizi di ricerca e sviluppo, le disposizioni del codice si applicano esclusivamente ai contratti relativi ai servizi di cui all'allegato II.19, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i risultati appartengano esclusivamente alla stazione appaltante, per essere destinati all'esercizio della propria attivita'; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    la prestazione del servizio sia interamente retribuita dalla stazione appaltante.
+
+2.
+                        
+                            
+                                Le stazioni appaltanti possono ricorrere, in applicazione dei principi di cui agli articoli 1, 2 e 3, agli appalti pubblici pre-commerciali, che rispettino le condizioni delle lettere a) e b) del comma 1, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano destinati al conseguimento di risultati non appartenenti in via esclusiva alla stazione appaltante, che li usi nell'esercizio della propria attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la prestazione del servizio non sia interamente retribuita dalla stazione appaltante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esigenza non possa essere soddisfatta ricorrendo a soluzioni gia' disponibili sul mercato.
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
 ## - - Titolo V I contratti nel settore della difesa e sicurezza. I contratti secretati
 
 ## Art. 136. — Difesa e sicurezza
+
+1.
+                        
+                            
+                                Le disposizioni del codice si applicano ai contratti aggiudicati nei settori della difesa e della sicurezza, ad eccezione dei contratti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che rientrano nell'ambito di applicazione del decreto legislativo 15 novembre 2011, n. 208; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai quali non si applica neanche il decreto legislativo n. 208 del 2011, in virtu' dell'articolo 6 del medesimo decreto.
 
 L'applicazione del codice e' in ogni caso esclusa per gli appalti pubblici e per i concorsi di progettazione, quando la tutela degli interessi essenziali di sicurezza dello Stato non possa essere garantita mediante misure idonee e volte anche a proteggere la riservatezza delle informazioni che le amministrazioni aggiudicatrici rendono disponibili in una procedura di aggiudicazione dell'appalto.
 
@@ -1859,17 +5556,85 @@ Se le diverse parti di un determinato appalto o di una concessione sono oggettiv
 
 Se le stazioni appaltanti scelgono di aggiudicare un appalto o una concessione distinti per le parti separate, il regime giuridico applicabile a ciascuno di tali contratti distinti e' determinato in base alle caratteristiche della parte separata.
 
+4.
+                        
+                            
+                                Se le stazioni appaltanti scelgono di aggiudicare un appalto unico o una concessione unica, il relativo regime giuridico si determina sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se una parte dell'appalto o della concessione e' disciplinata dall'articolo 346 del Trattato sul funzionamento dell'Unione europea, l'appalto unico o la concessione unica possono essere aggiudicati senza applicare il codice ne' il decreto legislativo n. 208 del 2011, purche' le rispettive aggiudicazioni siano giustificate da ragioni oggettive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se una parte di un appalto o una concessione e' disciplinata dal decreto legislativo n. 208 del 2011, l'appalto unico o la concessione unica possono essere aggiudicati conformemente a tale decreto, purche' le rispettive aggiudicazioni siano giustificate da ragioni oggettive. Sono fatte salve le soglie e le esclusioni previste dallo stesso decreto legislativo n. 208 del 2011.
+
 La decisione di aggiudicare un appalto unico o una concessione unica non puo' essere adottata allo scopo di escludere l'applicazione del codice o del decreto legislativo n. 208 del 2011.
 
 Se le diverse parti di un appalto o di una concessione sono oggettivamente non separabili, l'appalto o la concessione possono essere aggiudicati senza applicare il codice ove includa elementi cui si applica l'articolo 346 del Trattato sul funzionamento dell'Unione europea; altrimenti puo' essere aggiudicato conformemente al decreto legislativo n. 208 del 2011.
 
 ## Art. 138. — Contratti e concorsi di progettazione aggiudicati o organizzati in base a norme internazionali
 
+1.
+                        
+                            
+                                Il codice non si applica agli appalti pubblici e ai concorsi di progettazione e alle concessioni in materia di difesa o di sicurezza di cui al decreto legislativo 15 novembre 2011, n. 208, qualora essi siano disciplinati da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    norme procedurali specifiche in base a un accordo o un'intesa internazionale conclusi in conformita' dei trattati dell'Unione europea, tra lo Stato e uno o piu' Paesi terzi o relative articolazioni e riguardante lavori, forniture o servizi destinati alla realizzazione comune o alla gestione comune di un progetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    norme procedurali specifiche in base a un accordo o un'intesa internazionale in relazione alla presenza di truppe di stanza e concernente imprese di uno Stato membro o di un Paese terzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    norme procedurali specifiche di un'organizzazione internazionale nel caso di appalti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    norme procedurali specifiche di un'organizzazione internazionale che si approvvigiona per le proprie finalita' o a concessioni che devono essere aggiudicate da uno Stato membro in conformita' di tali norme.
+
 Gli accordi o le intese di cui al comma 1, lettera a), relativi ad appalti sono comunicati alla Commissione europea.
 
 Il codice non si applica agli appalti pubblici e ai concorsi di progettazione concernenti aspetti di difesa o di sicurezza che la stazione appaltante aggiudica in base a norme sugli appalti previste da un'organizzazione internazionale o da un'istituzione internazionale di finanziamento, quando gli appalti pubblici e i concorsi di progettazione in questione sono interamente finanziati da tale organizzazione o istituzione. Nel caso di appalti pubblici e concorsi di progettazione cofinanziati prevalentemente da un'organizzazione internazionale o da un'istituzione internazionale di finanziamento, le parti si accordano sulle procedure d'appalto applicabili.
 
 ## Art. 139. — Contratti secretati
+
+1.
+                        
+                            
+                                Le disposizioni del codice relative alle procedure di affidamento possono essere derogate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i contratti al cui oggetto, atti o modalita' di esecuzione e' attribuita una classifica di segretezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i contratti la cui esecuzione deve essere accompagnata da speciali misure di sicurezza, in conformita' a disposizioni legislative, regolamentari o amministrative.
 
 Ai fini della deroga di cui al comma 1, lettera a), le stazioni appaltanti attribuiscono, con provvedimento motivato, le classifiche di segretezza ai sensi dell'articolo 42 della legge 3 agosto 2007, n. 124, ovvero di altre norme vigenti, dando conto delle cause specifiche che giustificano la stipulazione di un contratto secretato, con particolare riguardo ai presupposti previsti per ciascuna classifica. Ai fini della deroga di cui al comma 1, lettera b), le stazioni appaltanti dichiarano, con provvedimento motivato, i lavori, i servizi e le forniture eseguibili con speciali misure di sicurezza individuate nel predetto provvedimento, precisando le cause che esigono tali misure.
 
@@ -1919,6 +5684,84 @@ Ai contratti affidati nell'ambito delle emergenze di protezione civile, di cui a
 
 In via eccezionale, nella misura strettamente necessaria, l'affidamento diretto puo' essere autorizzato anche al di sopra ((del limite di 500.000 euro di cui all'articolo 140, comma 1, primo periodo, e della soglia europea di cui al medesimo articolo 140, comma 1, secondo periodo)), per un arco temporale limitato, comunque non superiore a trenta giorni ((,)) e solo per singole specifiche fattispecie indilazionabili e ((nei limiti massimi di importo stabiliti nei provvedimenti di cui agli articoli 24, commi 1 e 2, e 25, comma 1, del codice della protezione civile, di cui al citato decreto legislativo n. 1 del 2018)). ((L'affidamento diretto di cui al primo periodo non e' comunque ammesso per appalti di lavori di importo pari o superiore alla soglia europea e per appalti di servizi e forniture di importo pari o superiore al triplo della soglia europea)).
 
+3.
+                        
+                            
+                                In occasione degli eventi per i quali e' dichiarato lo stato di emergenza di rilievo nazionale ai sensi dell'articolo 24 del codice di cui al decreto legislativo 2 gennaio 2018, n. 1, ferma restando la facolta' di prevedere ulteriori misure derogatorie consentite nell'ambito dei provvedimenti adottati ai sensi dell'articolo 25 del medesimo codice, gli appalti pubblici di lavori, forniture e servizi possono essere affidati in deroga alle seguenti disposizioni del presente codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 14, comma 12, lettera a), per consentire l'autonoma determinazione del valore stimato degli appalti per l'acquisizione di beni e servizi omogenei e analoghi, caratterizzati da regolarita', da rinnovare periodicamente entro il periodo emergenziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 15, comma 2, primo periodo, relativamente alla necessaria individuazione del RUP tra i dipendenti della stazione appaltante o dell'ente concedente, per consentire alle stazioni appaltanti, ove strettamente necessario, di individuare il RUP tra soggetti idonei ((,)) anche estranei alle stazioni appaltanti medesime, purche' dipendenti di ruolo di altri soggetti o enti pubblici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 37, relativamente alla necessaria previa programmazione dei lavori e degli acquisti di beni e servizi, per consentire alle stazioni appaltanti di affidare l'appalto anche in assenza della previa programmazione del relativo intervento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 49, per consentire alle stazioni appaltanti la semplificazione della procedura di affidamento e l'adeguamento ((dei tempi del suo svolgimento)) alle esigenze del contesto emergenziale, nel rispetto dei principi generali dell'ordinamento giuridico e del diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 54, per consentire l'esclusione automatica delle offerte anomale anche nei casi in cui il numero delle offerte ammesse sia inferiore a cinque, per semplificare e ((accelerare)) le relative procedure; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articoli 90, fermo restando il rispetto del termine massimo di cui all'articolo 55, paragrafo 2, della direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, e 111, comma 3, limitatamente ((ai tempi)) e alle modalita' delle comunicazioni ivi previste, per consentire alle stazioni appaltanti la semplificazione della procedura di affidamento e l'adeguamento ((dei suoi tempi di svolgimento)) alle esigenze del contesto emergenziale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    articolo 108, commi 1, 2, 3, 4, 6, 7, 8, 11, per consentire l'utilizzo generalizzato del criterio del minor prezzo.
+
+4.
+                        
+                            
+                                In occasione degli eventi emergenziali di cui all'articolo 7, comma 1, lettere b) e c), del codice di cui al decreto legislativo n. 1 del 2018, per i quali e' stato dichiarato lo stato di emergenza regionale o nazionale ai sensi dell'articolo 24 del predetto codice, ovvero nella ragionevole previsione dell'imminente verificarsi degli stessi, anche in mancanza del provvedimento di cui all'articolo 23 del predetto codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli importi di cui all'articolo 50, comma 1, del presente codice sono raddoppiati, nei limiti delle soglie di cui all'articolo 14, per i contratti di lavori, servizi e forniture di cui all'articolo 25, comma 2, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e d), del codice di cui al decreto legislativo n. 1 del 2018; 
+ b) il termine temporale di cui all'articolo 140, comma 4, e' stabilito in trenta giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'amministrazione competente all'affidamento e all'esecuzione del contratto e' identificata nel soggetto attuatore, ove individuato, di cui all'articolo 25, comma 6, del codice di cui al decreto legislativo n. 1 del 2018.
+
 Le disposizioni di cui all'articolo 140, comma 7, si applicano, altresi', qualora si adottino, limitatamente ad emergenze di protezione civile, le procedure di cui all'articolo 76, comma 2, lettera c).
 
 ## - - LIBRO III DELL'APPALTO NEI SETTORI SPECIALI PARTE I DISPOSIZIONI GENERALI
@@ -1929,11 +5772,157 @@ Le disposizioni del presente Libro si applicano alle stazioni appaltanti o agli 
 
 Le imprese pubbliche e i soggetti titolari di diritti speciali o esclusivi applicano le disposizioni del presente Libro solo per i contratti strumentali da un punto di vista funzionale a una delle attivita' previste dagli articoli da 146 a 152.
 
+3.
+                        
+                            
+                                Ai contratti di cui al presente Libro si applicano, oltre alle sue disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Libro I, Parte I, Titolo I, eccetto l'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'ambito del Libro I, Parte I, Titolo II, gli articoli 13, 14, 16, 17 e 18. L'articolo 15 si applica solo alle stazioni appaltanti e agli enti concedenti che sono amministrazioni aggiudicatrici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Libro I, Parte II; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'ambito del Libro I, Parte IV, gli articoli 41, 42, 43, 44, 45 e 46; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'ambito del Libro II, Parte II, gli articoli 57, 60 e 61; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nell'ambito del Libro II, Parte III, Titolo I, l'articolo 64; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nell'ambito del Libro II, Parte III, il Titolo II; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((nell'ambito del Libro II, Parte V, Titolo IV, l'articolo 106;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    nell'ambito del Libro II, Parte V, Titolo IV, il Capo II si applica nei limiti di cui agli articoli 167, 168 e 169; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((nell'ambito del Libro II, Parte VI, gli articoli 113, 116, 117, 119, 120, commi 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 e 15, 122 e 125;))
+                                    
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    
+                                        ((nell'ambito del Libro V, Parte I, Titolo II, gli articoli da 215 a 219.))
+
 ((Per i servizi di ricerca e sviluppo trova applicazione quanto previsto dall'articolo 135.))
+
+4.
+                        
+                            
+                                Le imprese pubbliche e i soggetti titolari di diritti speciali o esclusivi hanno facolta' di adottare propri atti, con i quali possono in via preventiva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 31 DICEMBRE 2024, N. 209)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevedere una disciplina di adattamento delle funzioni del RUP alla propria organizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specificare la nozione di variante in corso d'opera in funzione delle esigenze proprie del mercato di appartenenza e delle caratteristiche di ciascun settore, nel rispetto dei principi e delle norme di diritto dell'Unione europea.
 
 Le stazioni appaltanti o gli enti concedenti possono determinare le dimensioni dell'oggetto dell'appalto e dei lotti in cui eventualmente suddividerlo, senza obbligo di motivazione aggravata e tenendo conto delle esigenze del settore speciale in cui operano. Nel caso di suddivisione in lotti, le stazioni appaltanti o gli enti concedenti indicano nel bando di gara, nell'invito a confermare interesse o, quando il mezzo di indizione di gara e' un avviso sull'esistenza di un sistema di qualificazione, nell'invito a presentare offerte o a negoziare, se le offerte possono essere presentate per uno, per piu' o per l'insieme dei lotti.
 
 ## Art. 142. — Joint venture e affidamenti a imprese collegate
+
+1.
+                        
+                            
+                                Le disposizioni del codice non si applicano, quando ricorrano le condizioni di cui al comma 3, ai contratti aggiudicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da una joint venture, composta esclusivamente da piu' stazioni appaltanti o enti concedenti per svolgere una o piu' delle attivita' di cui agli articoli da 146 a 152 e all'Allegato II alla direttiva 2014/23/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, a una di tali stazioni appaltanti o enti concedenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da una stazione appaltante o ente concedente alla joint venture di cui fa parte.
+
+2.
+                        
+                            
+                                Le disposizioni del codice non si applicano, altresi', se ricorrono le condizioni di cui al comma 4, ai contratti aggiudicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da una stazione appaltante o ente concedente a un'impresa collegata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da una joint venture, composta esclusivamente da piu' stazioni appaltanti o enti concedenti per svolgere le attivita' di cui agli articoli da 146 a 152, a un'impresa collegata a una di tali stazioni appaltanti o enti concedenti.
 
 La non applicabilita' di cui al comma 1 opera a condizione che la joint venture sia stata costituita per lo svolgimento delle attivita' oggetto di affidamento per un periodo di almeno tre anni e che l'atto costitutivo preveda che le stazioni appaltanti o gli enti concedenti che la compongano ne facciano parte per un periodo di pari durata.
 
@@ -1942,6 +5931,31 @@ La non applicabilita' di cui al comma 2 opera per gli appalti e concessioni di s
 Se, a causa della data della costituzione o di inizio dell'attivita' dell'impresa collegata, il fatturato degli ultimi tre anni non e' disponibile, e' sufficiente che l'impresa dimostri, in base a proiezioni dell'attivita', che probabilmente realizzera' il fatturato di cui al comma 4.
 
 Se piu' imprese collegate alla stazione appaltante o all'ente concedente con il quale formano un gruppo economico forniscono gli stessi o simili servizi, forniture o lavori, le percentuali sono calcolate tenendo conto del fatturato totale derivante dalla prestazione dei servizi o dall'esecuzione dei lavori, per ciascuna di tali imprese collegate.
+
+7.
+                        
+                            
+                                Su richiesta della Commissione europea, le stazioni appaltanti e gli enti concedenti comunicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i nomi delle imprese o delle joint venture interessate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la natura e il valore dei contratti considerati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli elementi che la Commissione europea richiede per provare che le relazioni tra la stazione appaltante o l'ente concedente e l'impresa o la joint venture cui i contratti sono aggiudicati soddisfano i requisiti di cui al presente articolo.
 
 ## Art. 143.
 
@@ -1960,6 +5974,24 @@ Ai fini del comma 1 sono mercati liberamente accessibili quelli indicati nell'al
 Quando, sulla base delle condizioni di cui ai commi 3, 4 e 5, si ritiene che una determinata attivita' sia direttamente esposta alla concorrenza su mercati liberamente accessibili, il Presidente del Consiglio dei ministri, di concerto con il Ministro competente per settore, puo' richiedere alla Commissione europea di stabilire che le disposizioni del codice non si applichino all'aggiudicazione di appalti o all'organizzazione di concorsi di progettazione per il perseguimento dell'attivita' in questione, nonche' alle concessioni; la Commissione e' informata di tutte le circostanze pertinenti, in particolare delle disposizioni legislative, regolamentari o amministrative o degli accordi in relazione al rispetto delle condizioni di cui al comma 1, nonche' delle eventuali determinazioni assunte al riguardo dalle Autorita' indipendenti competenti. La richiesta puo' riguardare attivita' esercitate in un settore piu' ampio o in determinate parti del territorio nazionale, se del caso allegando la posizione adottata dalla competente Autorita' indipendente.
 
 Le stazioni appaltanti e gli enti concedenti possono chiedere alla Commissione europea di stabilire l'applicabilita' del comma 1 a una determinata attivita'. Salvo che la richiesta sia corredata da una posizione motivata e giustificata, adottata dalla Autorita' indipendente competente, che illustri in modo approfondito le condizioni per l'eventuale applicabilita' del comma 1, a seguito dell'informazione data dalla Commissione in ordine alla richiesta, l'Autorita' di cui al comma 6 comunica alla Commissione le circostanze indicate nel predetto comma 1.
+
+8.
+                        
+                            
+                                Le disposizioni del codice non si applicano piu' ai contratti di cui al comma 1 se la Commissione europea: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha adottato un atto di esecuzione che stabilisce l'applicabilita' del comma 1 entro il termine previsto dall'allegato IV della direttiva 2014/25/UE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ha adottato l'atto di esecuzione entro il termine previsto dall'allegato di cui alla lettera a).
 
 La richiesta presentata a norma dei commi 6 e 7 puo' essere modificata, con il consenso della Commissione europea, in particolare per quanto riguarda le attivita' o l'area geografica interessate. In tal caso, per l'adozione dell'atto di esecuzione di cui al comma 8, si applica un nuovo termine, calcolato ai sensi del paragrafo 1 dell'allegato IV della direttiva 2014/25/UE, salvo che la Commissione europea concordi un termine piu' breve con l'Autorita' o la stazione appaltante o l'ente concedente che ha presentato la richiesta.
 
@@ -1985,19 +6017,163 @@ Le disposizioni del codice non si applicano comunque alle categorie di attivita'
 
 ## Art. 146. — Gas ed energia termica
 
+1.
+                        
+                            
+                                L'affidamento di contratti inerenti ai settori del gas e dell'energia termica e' soggetto all'applicazione delle disposizioni del codice esclusivamente per le attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    di messa a disposizione o gestione di reti fisse destinate alla fornitura di un servizio al pubblico in connessione con la produzione, il trasporto o la distribuzione di gas o di energia termica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di alimentazione di tali reti con gas o energia termica, ivi compresa la generazione, la produzione e la vendita all'ingrosso o al dettaglio.
+
+2.
+                        
+                            
+                                L'alimentazione, con gas o energia termica, di reti fisse che forniscono un servizio al pubblico, da parte di un'impresa pubblica o di un soggetto titolare di diritti speciali o esclusivi, non e' considerata un'attivita' di cui al comma 1 se concorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la produzione di gas o di energia termica e' l'inevitabile risultato dell'esercizio di un'attivita' non prevista dal comma 1 o dagli articoli da 147 a 149; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'alimentazione della rete pubblica mira solo a sfruttare economicamente tale produzione e corrisponde, al massimo, al 20 per cento del fatturato dell'ente, considerando la media dell'ultimo triennio, comprensivo dell'anno in corso.
+
 Sono esclusi dalla applicazione delle disposizioni del codice i contratti stipulati per la fornitura di energia e di combustibili destinati alla produzione di energia da stazioni appaltanti o enti concedenti che esercitano le attivita' di cui al comma 1.
 
 ## Art. 147.
 
 Elettricita'.
 
+1.
+                        
+                            
+                                L'affidamento dei contratti inerenti al settore dell'elettricita' e' soggetto all'applicazione delle disposizioni del codice esclusivamente per le attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    di messa a disposizione o gestione di reti fisse destinate alla fornitura di un servizio al pubblico in connessione con la produzione, il trasporto o la distribuzione di elettricita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di alimentazione di tali reti con l'elettricita', ivi compresa la generazione, la produzione e la vendita all'ingrosso o al dettaglio.
+
+2.
+                        
+                            
+                                L'alimentazione, con elettricita', di reti fisse che forniscono un servizio al pubblico da parte di un'impresa pubblica o un soggetto titolare di diritti speciali o esclusivi, non e' considerata un'attivita' di cui al comma 1 se concorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la produzione di elettricita' avviene perche' il suo consumo e' necessario all'esercizio di un'attivita' non prevista dal comma 1 o dagli articoli 146, 148 e 149; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'alimentazione della rete pubblica dipende solo dal consumo proprio dell'ente e non supera il 30 per cento della sua produzione totale, considerando la media dell'ultimo triennio, comprensivo dell'anno in corso.
+
 ((Sono esclusi dalla applicazione del codice i contratti stipulati per la fornitura di energia e di combustibili destinati alla produzione di energia da stazioni appaltanti o enti concedenti che esercitano le attivita' di cui al comma 1.))
 
 ## Art. 148. — Acqua
 
+1.
+                        
+                            
+                                L'affidamento dei contratti inerenti al settore idrico e' soggetto all'applicazione delle disposizioni del codice esclusivamente per le attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    di messa a disposizione o gestione di reti fisse destinate alla fornitura di un servizio al pubblico in connessione con la produzione, il trasporto o la distribuzione di acqua potabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di alimentazione di tali reti con acqua potabile, ivi compresa la generazione, la produzione e la vendita all'ingrosso o al dettaglio.
+
+2.
+                        
+                            
+                                L'alimentazione, con acqua potabile, di reti fisse che forniscono un servizio al pubblico da parte di un'impresa pubblica o un soggetto titolare di diritti speciali o esclusivi non e' considerata un'attivita' di cui al comma 1 se concorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la produzione di acqua potabile avviene perche' il suo consumo e' necessario all'esercizio di un'attivita' non prevista dagli articoli da 146 a 149; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'alimentazione della rete pubblica dipende solo dal consumo proprio dell'ente e non supera il 30 per cento della sua produzione totale, considerando la media dell'ultimo triennio, comprensivo dell'anno in corso.
+
+3.
+                        
+                            
+                                Si applicano le disposizioni del codice agli appalti o ai concorsi di progettazione attribuiti od organizzati da stazioni appaltanti o enti concedenti che esercitano un'attivita' di cui al comma 1 quando riguardino: 
+ 
+                            
+                            
+                                a)
+                                
+                                    progetti di ingegneria idraulica, irrigazione o drenaggio, in cui il volume d'acqua destinato all'alimentazione con acqua potabile rappresenti piu' del 20 per cento del volume totale d'acqua reso disponibile da tali progetti o impianti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    smaltimento o trattamento delle acque reflue.
+
 Sono esclusi dall'applicazione delle disposizioni del codice gli appalti per l'acquisto di acqua, se aggiudicati da stazioni appaltanti o enti concedenti che esercitino una o entrambe le attivita' di cui al comma 1.
 
 Sono escluse dall'applicazione delle disposizioni del codice le concessioni aggiudicate per fornire o gestire reti fisse destinate alla fornitura di un servizio pubblico in connessione con la produzione, il trasporto o la distribuzione di acqua potabile oppure per alimentare tali reti con acqua potabile.
+
+6.
+                        
+                            
+                                Sono escluse dall'applicazione del codice le concessioni che siano collegate a una delle attivita' del comma 5 e riguardino: 
+ 
+                            
+                            
+                                a)
+                                
+                                    progetti di ingegneria idraulica, irrigazione, drenaggio, in cui il volume d'acqua destinato all'approvvigionamento di acqua potabile rappresenti piu' del 20 per cento del volume totale d'acqua reso disponibile da tali progetti o impianti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    smaltimento o trattamento delle acque reflue.
 
 ## Art. 149. — Servizi di trasporto
 
@@ -2015,13 +6191,113 @@ Le disposizioni del codice si applicano alle attivita' relative allo sfruttament
 
 ## Art. 151. — Settore dei servizi postali
 
+1.
+                        
+                            
+                                Le disposizioni del codice si applicano alle attivita' relative alla prestazione di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi postali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altri servizi, diversi da quelli postali, quando siano prestati da un ente che fornisca anche servizi postali e a condizione che questi ultimi non riguardino attivita' direttamente esposte alla concorrenza su mercati liberamente accessibili, ai sensi dell'articolo 143.
+
+2.
+                        
+                            
+                                Ai fini del codice e fatto salvo quanto previsto dal decreto legislativo 22 luglio 1999, n. 261 si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «invio postale»: un invio indirizzato nella forma definitiva al momento in cui e' preso in consegna, indipendentemente dal suo peso, che abbia per oggetto corrispondenza, libri, cataloghi, giornali, periodici e pacchi postali contenenti merci con o senza valore commerciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «servizi postali»: servizi consistenti in raccolta, smistamento, trasporto e distribuzione di invii postali, comprensivi sia dei servizi rientranti nell'ambito di applicazione del servizio universale istituito ai sensi della direttiva 97/67/CE del Parlamento europeo e del Consiglio del 15 dicembre 1997, sia di quelli che ne sono esclusi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «altri servizi diversi dai servizi postali»: i servizi di gestione di servizi postali, precedenti l'invio e successivi all'invio, compresi i servizi di smistamento della posta, e i servizi di spedizione diversi da quelli di cui alla lettera a), quali la spedizione di invii pubblicitari, privi di indirizzo.
+
 ## Art. 152. — Estrazione di gas e prospezione o estrazione di carbone o di altri combustibili solidi
+
+1.
+                        
+                            
+                                Le disposizioni del codice si applicano alle attivita' relative allo sfruttamento di un'area geografica, ai seguenti fini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    estrazione di petrolio, estrazione o produzione di gas; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prospezione o estrazione di carbone o di altri combustibili solidi.
 
 Rimangono escluse dall'applicazione delle disposizioni del codice le attivita' relative allo sfruttamento di un'area geografica, ai fini di prospezione di petrolio e di gas naturale, nonche' di produzione di petrolio, in quanto attivita' direttamente esposte alla concorrenza su mercati liberamente accessibili.
 
 ## - - PARTE II DELLE PROCEDURE DI SCELTA DEL CONTRAENTE
 
 ## Art. 153. — Norme applicabili
+
+1.
+                        
+                            
+                                Con riferimento alle procedure di scelta del contraente, le stazioni appaltanti o gli enti concedenti nei settori speciali applicano i seguenti articoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 71, salvo che la disposizione sull'avviso di pre-informazione si intende riferita all'avviso periodico indicativo di cui all'allegato II.6, Parte II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 74, salvo che, nel dialogo competitivo indetto nell'ambito dei settori speciali, qualsiasi operatore economico puo' chiedere di partecipare in risposta a un avviso di indizione di gara ai sensi dell'articolo 155, comma 3, lettere b) e c), fornendo le informazioni richieste dalla stazione appaltante o dall'ente concedente; il termine minimo per la ricezione delle domande di partecipazione e' fissato, di norma, a non meno di trenta giorni dalla data di trasmissione del bando di gara o, se come mezzo di indizione di gara e' usato un avviso periodico indicativo, dell'invito a confermare interesse, e non puo' in alcun caso essere inferiore a quindici giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articoli 70, comma 6, e 75, salvo che, nei partenariati per l'innovazione indetti nell'ambito dei settori speciali, qualsiasi operatore economico puo' presentare una domanda di partecipazione in risposta a un avviso di indizione di gara, ai sensi dell'articolo 155, comma 3, lettere b) e c), presentando le informazioni richieste dalla stazione appaltante o dall'ente concedente; il termine minimo per la ricezione delle domande di partecipazione e' fissato, di norma, a non meno di trenta giorni dalla data di trasmissione del bando di gara e non puo' in alcun caso essere inferiore a quindici giorni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articoli 77, 78, 79 e 80; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 85, salvo che la disposizione sull'avviso di pre-informazione si intende riferita all'avviso periodico indicativo.
 
 ## Art. 154. — Accordi quadro
 
@@ -2032,6 +6308,31 @@ Negli affidamenti di cui al presente Libro, gli appalti basati su un accordo qua
 Per l'aggiudicazione di appalti pubblici, le stazioni appaltanti e gli enti concedenti utilizzano procedure di affidamento aperte, ristrette o negoziate precedute da indizione di gara, dialoghi competitivi o partenariati per l'innovazione, in conformita' alle disposizioni della presente Parte.
 
 Nei soli casi previsti dall'articolo 158, le stazioni appaltanti e gli enti concedenti possono utilizzare la procedura negoziata senza pubblicazione del bando.
+
+3.
+                        
+                            
+                                La gara e' indetta con una delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    un avviso periodico indicativo a norma dell'articolo 161, se il contratto e' aggiudicato mediante procedura ristretta o negoziata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un avviso sull'esistenza di un sistema di qualificazione a norma dell'articolo 162, se il contratto e' aggiudicato mediante procedura ristretta o negoziata o tramite un dialogo competitivo o un partenariato per l'innovazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mediante un bando di gara a norma dell'articolo 163.
 
 Nel caso di cui al comma 3, lettera a), gli operatori economici che hanno manifestato interesse in seguito alla pubblicazione dell'avviso periodico indicativo sono successivamente invitati a confermare il proprio interesse per iscritto, ai sensi dell'articolo 165.
 
@@ -2054,6 +6355,83 @@ Il termine per la ricezione delle offerte puo' essere fissato d'accordo tra la s
 ## Art. 158. — Procedura negoziata senza pubblicazione di un bando
 
 Le stazioni appaltanti o gli enti concedenti possono aggiudicare appalti pubblici mediante una procedura negoziata senza pubblicazione di un bando di gara quando ricorrono i presupposti fissati dal comma 2, dandone motivatamente conto nel primo atto della procedura in relazione alla specifica situazione di fatto e alle caratteristiche dei mercati potenzialmente interessati e delle dinamiche che li caratterizzano, e nel rispetto dei principi di cui agli articoli 1, 2 e 3. A tali fini si tiene conto degli esiti delle consultazioni di mercato eventualmente eseguite, rivolte anche ad analizzare i mercati europei oppure , se del caso, extraeuropei.
+
+2.
+                        
+                            
+                                Le stazioni appaltanti o gli enti concedenti possono ricorrere a una procedura negoziata senza indizione di gara nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando, in risposta a una procedura con pubblicazione di un bando, non sia pervenuta alcuna offerta o alcuna offerta appropriata, ne' alcuna domanda di partecipazione o alcuna domanda di partecipazione appropriata, purche' le condizioni iniziali dell'appalto non siano sostanzialmente modificate; un'offerta non e' ritenuta appropriata quando non presenta alcuna pertinenza con l'appalto ed e' quindi inadeguata, salvo modifiche sostanziali, a rispondere alle esigenze della stazione appaltante o dell'ente concedente e ai requisiti specificati nei documenti di gara; una domanda di partecipazione non e' ritenuta appropriata quando l'operatore economico interessato deve o puo' essere escluso o non soddisfa i criteri di selezione stabiliti dalla stazione appaltante o dall'ente concedente a norma degli articoli 95, 96 e 169, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando un appalto e' destinato solo a scopi di ricerca, di sperimentazione, di studio o di sviluppo e non per rendere redditizie o recuperare spese di ricerca e di sviluppo, purche' l'aggiudicazione dell'appalto non pregiudichi l'indizione di gare per appalti successivi che perseguano, segnatamente, questi scopi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando i lavori, i servizi o le forniture possono essere forniti unicamente da un determinato operatore economico per una delle seguenti ragioni: 
+ 1) lo scopo dell'appalto consiste nella creazione o nell'acquisizione di un'opera d'arte o di una rappresentazione artistica unica; 
+ 2) la concorrenza e' assente per motivi tecnici. L'eccezione di cui al presente numero si applica solo quando non esistono sostituti o alternative ragionevoli e l'assenza di concorrenza non e' il risultato di una limitazione artificiale dei parametri dell'appalto; 
+ 3) la tutela di diritti esclusivi, inclusi i diritti di proprieta' intellettuale; l'eccezione di cui al presente numero si applica solo quando non esistono sostituti o alternative ragionevoli e l'assenza di concorrenza non e' il risultato di una limitazione artificiale dei parametri dell'appalto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella misura strettamente necessaria quando, per ragioni di estrema urgenza derivanti da eventi imprevedibili dalla stazione appaltante o dall'ente concedente, i termini stabiliti per le procedure aperte, per le procedure ristrette o per le procedure negoziate precedute da indizione di gara non possono essere rispettati; le circostanze invocate per giustificare l'estrema urgenza non devono essere in alcun caso imputabili alla stazione appaltante o all'ente concedente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di appalti di forniture per consegne complementari effettuate dal fornitore originario e destinate al rinnovo parziale di forniture o di impianti o all'ampliamento di forniture o impianti esistenti, qualora il cambiamento di fornitore obblighi la stazione appaltante o l'ente concedente ad acquistare forniture con caratteristiche tecniche differenti, il cui impiego o la cui manutenzione comporterebbero incompatibilita' o difficolta' tecniche sproporzionate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per nuovi lavori o servizi consistenti nella ripetizione di lavori o servizi analoghi assegnati all'operatore al quale le stesse stazioni appaltanti o enti concedenti hanno assegnato un appalto precedente, a condizione che tali lavori o servizi siano conformi a un progetto a base di gara e che tale progetto sia stato oggetto di un primo appalto aggiudicato secondo una procedura di cui all'articolo 155, comma 1; il progetto a base di gara indica l'entita' di eventuali lavori o servizi complementari e le condizioni alle quali essi verranno aggiudicati; la possibilita' di ricorrere a tale procedura e' indicata gia' al momento dell'indizione della gara per il primo progetto e le stazioni appaltanti o gli enti concedenti, quando applicano l'articolo 14, tengono conto del costo complessivo stimato per i lavori o i servizi successivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per forniture quotate e acquistate sul mercato delle materie prime; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per gli acquisti d'opportunita', quando e' possibile, in presenza di un'occasione particolarmente vantaggiosa ma di breve durata, acquistare forniture il cui prezzo e' sensibilmente inferiore ai prezzi normalmente praticati sul mercato; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per l'acquisto di forniture o servizi a condizioni particolarmente vantaggiose presso un fornitore che cessi definitivamente l'attivita' commerciale o presso il liquidatore in caso di procedura di insolvenza, di un accordo con i creditori o di procedure analoghe; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    quando l'appalto di servizi consegue a un concorso di progettazione organizzato secondo le disposizioni del codice ed e' destinato, in base alle norme previste nel concorso di progettazione, a essere aggiudicato al vincitore o a uno dei vincitori di tale concorso; in tal caso, tutti i vincitori del concorso di progettazione sono invitati a partecipare alle negoziazioni.
 
 Ove possibile, le stazioni appaltanti individuano gli operatori economici da consultare sulla base di informazioni riguardanti le caratteristiche di qualificazione economica e finanziaria e tecniche e professionali desunte dal mercato, nel rispetto dei principi di trasparenza e concorrenza, selezionando almeno tre operatori economici, se sussistono in tale numero soggetti idonei. La stazione appaltante sceglie l'operatore economico che ha offerto le condizioni piu' vantaggiose, ai sensi dell'articolo 108, previa verifica del possesso dei requisiti di partecipazione previsti per l'affidamento di contratti di uguale importo mediante procedura aperta, ristretta o mediante procedura competitiva con negoziazione.
 
@@ -2088,6 +6466,38 @@ Pubblicita' e avviso periodico indicativo.
 Le stazioni appaltanti o gli enti concedenti possono rendere nota l'intenzione di programmare appalti pubblicando un avviso periodico indicativo possibilmente entro il 31 dicembre di ogni anno.
 Tali avvisi, che contengono le informazioni di cui all'allegato II.6, Parte II, Sezioni A e C, sono pubblicati dalla stazione appaltante o dall'ente concedente sul proprio sito istituzionale rendendoli accessibili tramite collegamento ipertestuale. Per gli appalti di importo pari o superiore alla soglia di cui all'articolo 14 si applica l'articolo 84.
 
+2.
+                        
+                            
+                                Quando una gara e' indetta per mezzo di un avviso periodico indicativo per procedure ristrette e procedure negoziate precedute da indizione di gara, l'avviso soddisfa tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si riferisce specificatamente alle forniture, ai lavori o ai servizi che saranno oggetto dell'appalto da aggiudicare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indica che l'appalto e' aggiudicato mediante una procedura ristretta o negoziata senza ulteriore pubblicazione di un avviso di indizione di gara e invita gli operatori economici interessati a manifestare il proprio interesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contiene, oltre alle informazioni di cui all'allegato II.6, Parte II, Sezione A, le informazioni di cui all'allegato II.6, Parte II, Sezione B; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' stato inviato alla pubblicazione tra trentacinque giorni e dodici mesi prima della data di invio dell'invito a confermare interesse.
+
 Gli avvisi di cui al comma 2 possono essere pubblicati sul sito istituzionale quale pubblicazione supplementare a livello nazionale.
 Il periodo coperto dall'avviso puo' durare al massimo dodici mesi dalla data di trasmissione dell'avviso per la pubblicazione.
 Tuttavia, nel caso di appalti pubblici per servizi sociali e altri servizi specifici di cui all'allegato II.6, l'avviso di cui all'articolo 127, comma 1, lettera b), puo' coprire un periodo di due anni.
@@ -2098,11 +6508,49 @@ Tuttavia, nel caso di appalti pubblici per servizi sociali e altri servizi speci
 
 Quando e' indetta una gara con un avviso di cui al comma 1, gli offerenti in una procedura ristretta, o i partecipanti in una procedura negoziata, sono selezionati tra i candidati qualificati con tale sistema.
 
+3.
+                        
+                            
+                                Le stazioni appaltanti e gli enti concedenti indicano nell'avviso sull'esistenza del sistema il periodo di efficacia del sistema di qualificazione. Per gli appalti di importo pari o superiore alle soglie di cui all'articolo 14, essi informano l'Ufficio delle pubblicazioni dell'Unione europea secondo le modalita' di cui all'articolo 84 di qualsiasi cambiamento di tale periodo di efficacia utilizzando i seguenti modelli di formulari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il periodo di efficacia e' modificato senza porre fine al sistema, il modello utilizzato inizialmente per gli avvisi sull'esistenza dei sistemi di qualificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' posto termine al sistema, un avviso di aggiudicazione di cui all'articolo 163.
+
 ## Art. 163. — Bandi di gara e avvisi relativi agli appalti aggiudicati
 
 I bandi di gara possono essere utilizzati come mezzo di indizione di gara per tutte le procedure. Essi contengono le informazioni di cui alle pertinenti disposizioni dell'allegato II.6, Parte II e sono pubblicati conformemente all'articolo 164.
 
 Entro trenta giorni dalla conclusione di un contratto o di un accordo quadro che faccia seguito alla relativa decisione di aggiudicazione o di conclusione, le stazioni appaltanti e gli enti concedenti inviano un avviso di aggiudicazione che riporta i risultati della procedura di appalto. Tale avviso contiene le informazioni di cui all'allegato II.6, Parte II, Sezione G, ed e' pubblicato conformemente all'articolo 164. Si applicano altresi' le disposizioni di cui all'articolo 111, commi 2, 3, 4 e 5.
+
+3.
+                        
+                            
+                                Nel caso di contratti per servizi di ricerca e sviluppo, di seguito «servizi R&S», le informazioni riguardanti la natura e la
+quantita' dei servizi possono limitarsi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'indicazione «servizi R&S» se il contratto e' stato
+aggiudicato mediante procedura negoziata senza indizione di gara conformemente all'articolo 158, comma 2, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a informazioni che siano almeno tanto dettagliate quanto specificato nell'avviso utilizzato come mezzo di indizione della gara.
 
 Le informazioni fornite ai sensi dell'allegato II.6, Parte II, Sezione G, e non destinate alla pubblicazione sono pubblicate solo in forma semplificata e per motivi statistici.
 
@@ -2113,6 +6561,31 @@ Redazione e modalita' di pubblicazione dei bandi e degli avvisi.
 I bandi e gli avvisi di cui agli articoli da 161 a 163 contengono le informazioni indicate nell'allegato II.6, Parte II, Sezioni A, B, C, D, E, F, G e H, nel formato di modelli di formulari, compresi modelli di formulari per le rettifiche, stabiliti dalla Commissione. Tali bandi e avvisi sono trasmessi all'Ufficio delle pubblicazioni dell'Unione europea ai sensi dell'articolo 84, in conformita' all'allegato II.7.
 
 I bandi e gli avvisi sono pubblicati per esteso in una delle lingue ufficiali dell'Unione europea, scelta dalle stazioni appaltanti o dagli enti concedenti, e il testo e' l'unico facente fede. Le stazioni appaltanti o gli enti concedenti italiani scelgono la lingua italiana, fatte salve le norme vigenti nella Provincia autonoma di Bolzano in materia di bilinguismo. Una sintesi degli elementi importanti di ciascun bando, indicati dalle stazioni appaltanti o dagli enti concedenti nel rispetto dei principi di trasparenza e non discriminazione, e' pubblicata nelle altre lingue ufficiali.
+
+3.
+                        
+                            
+                                L'Ufficio delle pubblicazioni dell'Unione europea garantisce che il testo integrale e la sintesi degli avvisi periodici indicativi di cui all'articolo 161, degli avvisi di indizione di gara che istituiscono un sistema dinamico di acquisizione di cui all'articolo 32, nonche' degli avvisi sull'esistenza di un sistema di qualificazione usati come mezzo di indizione di gara di cui all'articolo 155, comma 3, lettera b), continuino a essere pubblicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di avvisi periodici indicativi, per dodici mesi o fino al ricevimento di un avviso di aggiudicazione di cui all'articolo 163, che indichi che nei dodici mesi coperti dall'avviso di indizione di gara non sara' aggiudicato nessun altro appalto; tuttavia, nel caso di appalti per servizi sociali e altri servizi specifici di cui all'allegato XIV alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, l'avviso periodico indicativo di cui all'articolo 127, comma 1, lettera b), continua a essere pubblicato fino alla scadenza del periodo di validita' indicato inizialmente o fino alla ricezione di un avviso di aggiudicazione come previsto all'articolo 163, indicante che non saranno aggiudicati ulteriori appalti nel periodo coperto dall'indizione di gara; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di avvisi di indizione di gara che istituiscono un sistema dinamico di acquisizione, per il periodo di validita' del sistema dinamico di acquisizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di avvisi sull'esistenza di un sistema di qualificazione, per il periodo di validita'.
 
 Le stazioni appaltanti o gli enti concedenti possono inviare per la pubblicazione avvisi relativi ad appalti pubblici che non sono soggetti all'obbligo di pubblicazione, a condizione che essi siano trasmessi secondo il modello e le modalita' precisati al comma 1.
 
@@ -2139,6 +6612,84 @@ Le stazioni appaltanti o gli enti concedenti possono revocare la qualificazione 
 ## - - PARTE IV DELLA SELEZIONE DEI PARTECIPANTI E DELLE OFFERTE
 
 ## Art. 167. — Ulteriori disposizioni applicabili nella scelta del contraente
+
+1.
+                        
+                            
+                                Per la selezione dei partecipanti e delle offerte nelle procedure di scelta del contraente nei settori speciali si applicano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le stazioni appaltanti o gli enti concedenti che sono amministrazioni pubbliche nominano una commissione giudicatrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono rispettati i termini per la presentazione delle domande di partecipazione secondo quanto previsto dall'articolo 92, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    salvo quanto stabilito dagli articoli 168 e 169, e' accertata l'assenza delle cause di esclusione previste dagli articoli 94, 95, con riferimento agli accordi internazionali elencati nell'allegato XIV alla direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014, 96, 97 e 98 ed e' richiesta la documentazione prevista dall'articolo 99; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    salvo quanto stabilito dagli articoli 168 e 169, e' richiesto il possesso dei requisiti di partecipazione previsti dagli articoli 100 e 103; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' consentito il soccorso istruttorio con le modalita' e nei limiti previsti dall'articolo 101; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' stabilito che gli operatori economici presentino la documentazione prevista dagli articoli 91 e 105; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    e' consentito il ricorso all'avvalimento secondo quanto previsto dall'articolo 104; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    e' verificata la conformita' delle offerte e aggiudicato l'appalto secondo quanto previsto dagli articoli 107, 108 e 110.
+
+2.
+                        
+                            
+                                Quando selezionano i partecipanti a una procedura ristretta o negoziata, a un dialogo competitivo o per un partenariato per l'innovazione, quando decidono sulla qualificazione ai sensi dell'articolo 168 o quando dispongono l'aggiornamento dei sistemi di qualificazione, le stazioni appaltanti o gli enti concedenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non impongono condizioni amministrative, tecniche o finanziarie a taluni operatori economici senza imporle ad altri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non esigono prove o giustificativi presenti nella documentazione valida gia' a disposizione.
 
 ## Art. 168. — Procedure di gara con sistemi di qualificazione
 
@@ -2181,6 +6732,38 @@ Sono fatti salvi gli impegni assunti nei confronti dei Paesi terzi derivanti da 
 
 ## Art. 172. — Relazioni uniche sulle procedure di aggiudicazione degli appalti
 
+1.
+                        
+                            
+                                Le stazioni appaltanti o gli enti concedenti conservano le informazioni appropriate relative a ogni appalto o accordo quadro disciplinato dal codice e ogniqualvolta sia istituito un sistema dinamico di acquisizione. Tali informazioni sono sufficienti a consentire loro, in una fase successiva, di giustificare le decisioni riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la qualificazione e la selezione degli operatori economici e l'aggiudicazione degli appalti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'utilizzazione di procedure negoziate non precedute da una gara a norma ((dell'articolo 158)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la mancata applicazione delle disposizioni sulle tecniche e strumenti per gli appalti e strumenti digitali e aggregati e delle disposizioni sullo svolgimento delle procedure di scelta del contraente del presente codice, in virtu' delle deroghe ivi previste; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se del caso, le ragioni per le quali per la trasmissione in via digitale sono stati usati mezzi di comunicazione diversi dai mezzi digitali.
+
 Se l'avviso di aggiudicazione dell'appalto stilato a norma dell'articolo 111 o dell'articolo 127, comma 3, contiene le informazioni richieste dal comma 1, le stazioni appaltanti o gli enti concedenti possono fare riferimento a tale avviso.
 
 Le stazioni appaltanti o gli enti concedenti documentano lo svolgimento di tutte le procedure di aggiudicazione, indipendentemente dal fatto che esse siano condotte con mezzi digitali o meno. A tale scopo, garantiscono la conservazione di una documentazione sufficiente a giustificare decisioni adottate in tutte le fasi della procedura di appalto, in particolare la documentazione relativa alle comunicazioni con gli operatori economici e le deliberazioni interne, la preparazione dei documenti di gara, il dialogo o la negoziazione se previsti, la selezione e l'aggiudicazione dell'appalto. La documentazione e' conservata per almeno cinque anni a partire dalla data di aggiudicazione dell'appalto, oppure, in caso di pendenza di una controversia, fino al passaggio in giudicato della relativa sentenza.
@@ -2194,6 +6777,38 @@ Fermo restando quanto previsto dall'articolo 141, comma 2, per l'aggiudicazione 
 ## - - LIBRO IV DEL PARTENARIATO PUBBLICOPRIVATO E DELLE CONCESSIONI PARTE I DISPOSIZIONI GENERALI
 
 ## Art. 174. — Nozione
+
+1.
+                        
+                            
+                                Il partenariato pubblico-privato e' un'operazione economica in cui ricorrono congiuntamente le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tra un ente concedente e uno o piu' operatori economici privati e' instaurato un rapporto contrattuale di lungo periodo per raggiungere un risultato di interesse pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la copertura dei fabbisogni finanziari connessi alla realizzazione del progetto proviene in misura significativa da risorse reperite dalla parte privata, anche in ragione del rischio operativo assunto dalla medesima; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla parte privata spetta il compito di realizzare e gestire il progetto, mentre alla parte pubblica quello di definire gli obiettivi e di verificarne l'attuazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rischio operativo connesso alla realizzazione dei lavori o alla gestione dei servizi e' allocato in capo al soggetto privato.
 
 Per ente concedente, ai sensi della lettera a) del comma 1, si intendono le amministrazioni aggiudicatrici e gli enti aggiudicatori di cui all'articolo 1 della direttiva 2014/23/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014.
 
@@ -2268,6 +6883,60 @@ Il valore di una concessione e' costituito dal fatturato totale del concessionar
 
 Il valore e' stimato al momento dell'invio del bando di concessione o, nei casi in cui non sia previsto detto bando, al momento in cui l'ente concedente avvia la procedura di aggiudicazione della concessione. Se il valore della concessione al momento dell'aggiudicazione e' superiore al valore stimato di oltre il 20 per cento, si considera il valore della concessione al momento dell'aggiudicazione.
 
+3.
+                        
+                            
+                                Il valore stimato della concessione e' calcolato secondo un metodo oggettivo specificato nei documenti di gara della concessione.
+Gli enti concedenti tengono conto, se del caso, anche dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il valore di eventuali clausole di opzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli introiti derivanti dal pagamento, da parte degli utenti dei lavori e dei servizi, di tariffe e multe diverse da quelle riscosse per conto dell'ente concedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i pagamenti o qualsiasi vantaggio finanziario conferito al concessionario in qualsivoglia forma dall'ente concedente o da altre amministrazioni pubbliche, incluse le compensazioni per l'assolvimento di un obbligo di servizio pubblico e le sovvenzioni pubbliche di investimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il valore delle sovvenzioni o di qualsiasi altro vantaggio finanziario in qualsivoglia forma conferiti da terzi per l'esecuzione della concessione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le entrate derivanti dalla vendita di elementi dell'attivo facenti parte della concessione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il valore dell'insieme delle forniture e dei servizi messi a disposizione del concessionario dagli enti concedenti, purche' siano necessari per l'esecuzione dei lavori o la prestazione dei servizi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ogni premio o pagamento ai candidati o agli offerenti.
+
 La scelta del metodo per il calcolo del valore stimato della concessione non puo' essere effettuata con l'intenzione di escludere tale concessione dall'ambito di applicazione del codice. Una concessione non puo' essere frazionata allo scopo di evitare che rientri nell'ambito di applicazione del codice, a meno che ragioni oggettive lo giustifichino.
 
 Quando un'opera o un servizio proposti possono dar luogo all'aggiudicazione di una concessione per lotti distinti e' computato il valore complessivo stimato dei lotti.
@@ -2302,11 +6971,61 @@ Gli enti concedenti che intendono aggiudicare una concessione rendono nota tale 
 
 Il bando di concessione contiene le informazioni indicate nell'allegato IV.1 e, ove opportuno, ogni altra informazione ritenuta utile dall'ente concedente, anche secondo il formato dei modelli uniformi predisposti dall'Autorita' di regolazione del settore. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
+3.
+                        
+                            
+                                Gli enti concedenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    precisano nel contratto di concessione che i beni pubblici o a destinazione pubblica eventualmente assegnati al concessionario per la gestione del servizio non possono essere utilizzati per lo svolgimento di attivita' economiche che non siano espressamente oggetto della procedura di affidamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possono prevedere che, per l'esecuzione di una quota dei servizi accessori affidati con la medesima procedura di gara, il concessionario si avvale di operatori economici terzi.
+
 Il bando indica i requisiti tecnici e funzionali che definiscono le caratteristiche richieste per i lavori o i servizi oggetto della concessione.
 
 I bandi e i relativi allegati, ivi compresi, a seconda dei casi, lo schema di contratto e il piano economico-finanziario, sono definiti in modo da assicurare adeguati livelli di bancabilita', intendendosi per tali la reperibilita' sul mercato finanziario di risorse proporzionate ai fabbisogni, la sostenibilita' di tali fonti e la congrua redditivita' del capitale investito. I bandi possono anche richiedere che le offerte siano corredate da manifestazioni di interesse dell'istituto finanziatore.
 
 Gli enti concedenti che intendono aggiudicare una concessione per servizi sociali e altri servizi specifici elencati nell'allegato IV alla direttiva 2014/23/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, rendono nota l'intenzione di aggiudicare la prevista concessione mediante la pubblicazione di un avviso di pre-informazione. Tali avvisi contengono le informazioni di cui all'allegato VI alla direttiva 2014/23/UE.
+
+7.
+                        
+                            
+                                In deroga al comma 1, agli enti concedenti non e' richiesto di pubblicare un bando di concessione quando i lavori o i servizi possono essere forniti soltanto da un determinato operatore economico per una delle seguenti ragioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto della concessione e' la creazione o l'acquisizione di un'opera d'arte o di una rappresentazione artistica unica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'assenza di concorrenza per motivi tecnici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esistenza di un diritto esclusivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la tutela dei diritti di proprieta' intellettuale e di diritti esclusivi diversi da quelli definiti all'articolo 5, punto 10, della direttiva 2014/23/UE.
 
 Le eccezioni di cui al comma 7, lettere b), c) e d), si applicano unicamente qualora non esistano alternative ragionevoli e l'assenza di concorrenza non sia il risultato di una limitazione artificiosa dei parametri per l'aggiudicazione della concessione.
 
@@ -2319,6 +7038,31 @@ I bandi, gli avvisi di pre-informazione e gli avvisi di aggiudicazione relativi 
 In ordine alla pubblicazione a livello nazionale di bandi, avvisi di pre-informazione e avvisi di aggiudicazione, si applica l'articolo 85.
 
 ## Art. 183. — Procedimento
+
+1.
+                        
+                            
+                                Le concessioni sono aggiudicate sulla base dei criteri di aggiudicazione stabiliti dall'ente concedente purche' siano soddisfatte tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'offerta risponde ai requisiti minimi eventualmente prescritti dall'ente concedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'offerente ottempera alle condizioni di partecipazione relative alle capacita' tecniche e professionali e alla capacita' finanziaria ed economica richieste nel bando; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'offerente non e' escluso dalla partecipazione alla procedura di aggiudicazione ai sensi degli articoli 94, 95, con riferimento agli accordi internazionali elencati nell'allegato X alla direttiva 2014/23/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, 96, 97 e 98.
 
 I requisiti minimi di cui al comma 1, lettera a), contengono le condizioni e le caratteristiche, in particolare tecniche, fisiche, funzionali e giuridiche, che ogni offerta deve soddisfare o possedere.
 
@@ -2400,7 +7144,104 @@ Il ricorso al subappalto da parte del concessionario e' regolato dalle corrispon
 
 ## Art. 189. — Modifica di contratti durante il periodo di efficacia
 
+1.
+                        
+                            
+                                Le concessioni possono essere modificate senza una nuova procedura di aggiudicazione della concessione nei casi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se le modifiche, a prescindere dal loro valore monetario, sono state previste nei documenti di gara iniziali in clausole chiare, precise e inequivocabili, che possono comprendere clausole di revisione dei prezzi purche' riferite agli indici sintetici di cui all'articolo 60, comma 3; tali clausole fissano la portata e la natura di eventuali modifiche, nonche' le condizioni alle quali possono essere impiegate; esse non apportano modifiche che altererebbero la natura generale della concessione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per lavori o servizi supplementari da parte del concessionario originario che si sono resi necessari e non erano inclusi nella concessione iniziale, quando un cambiamento di concessionario: 
+ 1) risulti impraticabile per motivi economici o tecnici, quali il rispetto dei requisiti di intercambiabilita' o interoperativita' tra apparecchiature, servizi o impianti esistenti forniti nell'ambito della concessione iniziale; 
+ 2) comporti per l'ente concedente notevoli inconvenienti o una sostanziale duplicazione dei costi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    negli ulteriori casi in cui siano soddisfatte tutte le seguenti condizioni: 
+ 1) la necessita' di modifica e' determinata da circostanze che un ente concedente diligente non ha potuto prevedere; 
+ 2) la modifica non altera la natura generale della concessione; 
+ 3) nel caso di concessioni aggiudicate dall'ente concedente allo scopo di svolgere un'attivita' diversa da quelle di cui all'allegato II alla direttiva 2014/23/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, l'eventuale aumento di valore non deve eccedere il 50 per cento del valore della concessione iniziale. In caso di piu' modifiche successive, tale limitazione si applica al valore di ciascuna modifica. Tali modifiche successive non sono intese ad aggirare le disposizioni della presente Parte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se un nuovo concessionario sostituisce quello a cui l'ente concedente aveva inizialmente aggiudicato la concessione a causa di una delle seguenti circostanze: 
+ 1) la presenza di una clausola di revisione inequivocabile in conformita' della lettera a); 
+ 2) al concessionario iniziale succeda, in via universale o parziale, a seguito di ristrutturazioni societarie, comprese rilevazioni, fusioni, acquisizione o insolvenza, un altro operatore economico che soddisfi i criteri di selezione qualitativa stabiliti inizialmente, purche' cio' non implichi altre modifiche sostanziali al contratto e non sia finalizzato ad eludere l'applicazione della direttiva 2014/23/UE; 
+ 3) nel caso in cui l'ente concedente si assuma gli obblighi del concessionario principale nei confronti dei suoi subappaltatori, ove tale possibilita' sia prevista dalla legislazione nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se le modifiche, a prescindere dal loro valore, non sono sostanziali.
+
+2.
+                        
+                            
+                                Le concessioni possono parimenti essere modificate senza necessita' di una nuova procedura di aggiudicazione se il valore della modifica e' inferiore a entrambi i valori seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la soglia di cui all'articolo 8 della direttiva 2014/23/UE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il 10 per cento del valore della concessione iniziale.
+
 Le modifiche di cui al comma 2 non possono alterare la natura generale della concessione. In caso di piu' modifiche successive, il valore e' accertato sulla base del valore complessivo netto delle successive modifiche.
+
+4.
+                        
+                            
+                                La modifica di una concessione durante il periodo della sua validita' e' considerata sostanziale se la natura della concessione muta nella sua essenza rispetto a quella inizialmente conclusa. In ogni caso, una modifica e' considerata sostanziale se una o piu' delle seguenti condizioni sono soddisfatte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la modifica introduce condizioni che, se fossero state contenute nella procedura iniziale di aggiudicazione della concessione, avrebbero consentito l'ammissione di candidati diversi da quelli inizialmente selezionati o l'accettazione di un'offerta diversa da quella inizialmente accettata, oppure avrebbero attirato ulteriori partecipanti alla procedura di aggiudicazione della concessione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la modifica cambia l'equilibrio economico della concessione a favore del concessionario in modo non previsto dalla concessione iniziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la modifica estende notevolmente l'ambito di applicazione della concessione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se un nuovo concessionario sostituisce quello cui l'ente concedente aveva inizialmente aggiudicato la concessione in casi diversi da quelli previsti dal comma 1, lettera d).
 
 Nelle situazioni di cui al comma 1, lettere b) e c), l'ente concedente pubblica un avviso al riguardo nella Gazzetta ufficiale dell'Unione europea. Tale avviso contiene le informazioni di cui all'allegato XI alla direttiva 2014/23/UE ed e' pubblicato conformemente all'articolo 33 della stessa direttiva.
 
@@ -2408,9 +7249,59 @@ Nelle ipotesi di cui al comma 1, lettere a) e b), per le concessioni aggiudicate
 
 ## Art. 190. — Risoluzione e recesso
 
+1.
+                        
+                            
+                                L'ente concedente puo' dichiarare risolta la concessione in corso di rapporto della stessa se una o piu' delle seguenti condizioni si verificano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la concessione ha subito una modifica che avrebbe richiesto una nuova procedura di aggiudicazione della concessione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il concessionario si trovava, al momento dell'aggiudicazione della concessione, in una delle situazioni che comportano l'esclusione dalla procedura di aggiudicazione della concessione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Corte di giustizia dell'Unione europea constata, in un procedimento ai sensi dell'articolo 258 del Trattato sul funzionamento dell'Unione europea, che uno Stato membro ha violato uno degli obblighi su lui incombenti in virtu' dei trattati europei per il fatto che un ente concedente appartenente allo Stato membro in questione ha aggiudicato la concessione in oggetto senza adempiere gli obblighi previsti dai trattati europei e dalla direttiva 2014/23/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014.
+
 La risoluzione della concessione per inadempimento dell'ente concedente o del concessionario e' disciplinata dagli articoli 1453 e seguenti del codice civile. Il contratto prevede per il caso di inadempimento una clausola penale di predeterminazione del danno e i criteri per il calcolo dell'indennizzo.
 
 Nei casi che comporterebbero la risoluzione di una concessione per cause imputabili al concessionario, l'ente concedente comunica per iscritto al concessionario e agli enti finanziatori l'intenzione di risolvere il rapporto. Gli enti finanziatori, ivi inclusi i titolari di obbligazioni e titoli analoghi emessi dal concessionario, entro centoventi giorni dal ricevimento della comunicazione, possono indicare un operatore economico che subentri nella concessione avente caratteristiche tecniche e finanziarie corrispondenti a quelle previste nel bando di gara o negli atti in forza dei quali la concessione e' stata affidata, con riguardo allo stato di avanzamento dell'oggetto della concessione alla data del subentro. L'operatore economico subentrante assicura la ripresa dell'esecuzione della concessione e l'esatto adempimento originariamente richiesto al concessionario sostituito entro il termine indicato dall'ente concedente. Il subentro dell'operatore economico ha effetto da quando l'ente concedente presta il consenso.
+
+4.
+                        
+                            
+                                Se l'ente concedente recede dal contratto di concessione per motivi di pubblico interesse spettano al concessionario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il valore delle opere realizzate piu' gli oneri accessori, al netto degli ammortamenti, oppure, nel caso in cui l'opera non abbia ancora superato la fase di collaudo, i costi effettivamente sostenuti dal concessionario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i costi sostenuti o da sostenere in conseguenza del recesso, ivi inclusi gli oneri derivanti dallo scioglimento anticipato dei contratti di copertura del rischio di fluttuazione del tasso di interesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un indennizzo a titolo di mancato guadagno compreso tra il minimo del 2 per cento ed il massimo del 5 per cento degli utili previsti dal piano economico-finanziario, in base ad una valutazione che tenga conto delle circostanze, della tipologia di investimenti programmati e delle esigenze di protezione dei crediti dei soggetti finanziatori. In ogni caso i criteri per l'individuazione dell'indennizzo devono essere esplicitati in maniera inequivocabile nell'ambito del bando di gara ed indicati nel contratto, tenuto conto della tipologia e dell'oggetto del rapporto concessorio, con particolare riferimento alla percentuale, al piano economico-finanziario e agli anni da prendere in considerazione nel calcolo.
 
 Le somme dovute ai sensi del comma 4 sono destinate prioritariamente al soddisfacimento dei crediti dei finanziatori del concessionario e dei titolari di titoli emessi.
 
@@ -2549,6 +7440,24 @@ Le parti determinano il contenuto del contratto di disponibilita' nei limiti imp
 
 Il corrispettivo del contratto di disponibilita' si compone di un canone di disponibilita', commisurato all'effettivo periodo per il quale l'operatore economico ha garantito il godimento dell'opera, sempre che il mancato o ridotto godimento non rientri nel rischio a carico dell'ente concedente ai sensi del comma 4.
 
+3.
+                        
+                            
+                                Quando e' convenuto il trasferimento della proprieta' dell'opera all'ente concedente il corrispettivo si compone anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di un eventuale contributo in corso d'opera, non superiore al 50 per cento del costo di costruzione dell'opera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di un prezzo di trasferimento, da pagare al termine del contratto, determinato in relazione al valore di mercato residuo dell'opera e tenendo conto dell'importo gia' versato a titolo di canone di disponibilita' e di eventuale contributo in corso d'opera.
+
 Se non e' diversamente convenuto tra le parti e salvo quanto disposto dal comma 5, il rischio del mancato o ritardato rilascio di autorizzazioni oppure di ogni altro atto amministrativo incidente sul compimento o sulla gestione tecnica dell'opera e' a carico dell'ente concedente.
 
 Il rischio del mancato o ritardato rilascio di atti di approvazione o di assenso, da parte di autorita' diverse dall'ente concedente, attinenti alla progettazione e alle eventuali varianti in corso d'opera e' a carico dell'operatore economico.
@@ -2603,6 +7512,31 @@ Nel caso di contratti di rendimento energetico o di prestazione energetica (EPC)
 
 ## Art. 201. — Partenariato sociale
 
+1.
+                        
+                            
+                                Gli enti concedenti stabiliscono, con atto generale e tenuto conto ((dei bandi-tipo predisposti dall'ANAC e dei contratti-tipo predisposti dal DIPE, di concerto con l'Autorita' di regolazione di settore e con il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato)), i criteri e le condizioni, per la conclusione di contratti di partenariato sociale aventi ad oggetto una o piu' delle prestazioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione e manutenzione di aree riservate al verde pubblico urbano e di immobili di origine rurale destinati ad attivita' sociali e culturali, ceduti al Comune in esecuzione di convenzioni e di strumenti urbanistici attuativi; sussiste, per la conclusione di tale contratto, il diritto di prelazione dei cittadini, aventi residenza o domicilio nei comprensori ove insistono i beni e le aree, costituenti un consorzio del comprensorio che raggiunga almeno i due terzi della proprieta' della lottizzazione; i cittadini costituiti in consorzio possono beneficiare, altresi', di incentivi fiscali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione, manutenzione e valorizzazione di piazze e strade o interventi di decoro urbano e di recupero di aree e beni immobili inutilizzati, per destinarli a fini di interesse generale, sulla base di progetti presentati da cittadini, singoli o associati che, all'uopo, beneficiano di incentivi fiscali direttamente attinenti alla attivita' svolta dal singolo o dalla associazione, o comunque utile alla comunita' territoriale di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compimento di opere di interesse locale, da acquisire al patrimonio indisponibile dell'ente concedente, sulla base di progetti presentati da cittadini, singoli o associati, e a spese di questi ultimi; l'esecuzione delle opere e' esente da oneri fiscali e amministrativi, salva l'imposta sul valore aggiunto.
+
 Le parti determinano il contenuto dei contratti di partenariato sociale nei limiti imposti dalle disposizioni seguenti, tenendo conto ((dei bandi-tipo predisposti dall'ANAC e dei contratti-tipo predisposti dal DIPE, di concerto con l'Autorita' di regolazione di settore e con il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato.)).
 
 Possono concludere i contratti di partenariato sociale microimprese, piccole e medie imprese, come definite dall'articolo 1, comma 1, lettera o) dell'allegato I.1.
@@ -2610,6 +7544,24 @@ Possono concludere i contratti di partenariato sociale microimprese, piccole e m
 Con l'atto generale indicato nel comma 1 sono determinati i modi di esercizio del diritto di prelazione dei cittadini costituiti in consorzi e la natura e la misura degli incentivi fiscali previsti per la conclusione dei contratti di partenariato sociale, nei limiti di quanto previsto con rinvio a leggi speciali dal codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50.
 
 ## Art. 202. — Cessione di immobili in cambio di opere
+
+1.
+                        
+                            
+                                Il bando di gara, redatto anche tenendo conto dei bandi-tipo e dei contratti-tipo predisposti dall'ANAC, puo' prevedere: ((9))
+                                
+                            
+                            
+                                a)
+                                
+                                    a titolo di corrispettivo, totale o parziale e sulla base del loro valore di mercato, il trasferimento all'operatore economico o, quando questi vi abbia interesse, a terzi da lui indicati, in possesso dei requisiti di partecipazione alla gara, della proprieta' di beni immobili dell'ente concedente, gia' indicati nel programma triennale per i lavori o nell'avviso di pre-informazione per i servizi e le forniture, non piu' destinati al perseguimento di scopi di interesse generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il trasferimento della proprieta' in un momento anteriore a quello della fine dei lavori, previa garanzia fideiussoria pari al valore dell'immobile, da prestarsi nei modi previsti dal codice per la partecipazione alle procedure di affidamento; la fideiussione e' progressivamente svincolata con le modalita' previste con riferimento alla cauzione definitiva.
 
 --------------
                             AGGIORNAMENTO (9)
@@ -2632,7 +7584,89 @@ L'affidamento dei servizi globali al contraente generale si realizza mediante la
 
 I rapporti tra soggetto aggiudicatore e contraente generale sono regolati, oltre che dal bando di gara e dal contratto, dalle disposizioni del codice sui contratti di appalto e di concessione.
 
+3.
+                        
+                            
+                                Il contraente generale e' tenuto fra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a redigere il progetto esecutivo, in conformita' del progetto di fattibilita' tecnico-economica redatto dal soggetto aggiudicatore, e a compiere le attivita' strumentali alla sua approvazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad assicurare il prefinanziamento, in tutto o in parte, dell'opera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a comunicare costantemente al soggetto aggiudicatore le informazioni necessarie a prevenire tentativi di infiltrazione mafiosa.
+
+4.
+                        
+                            
+                                Il contratto puo' prevedere che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'operatore economico abbia la qualita' di autorita' espropriante, come definita dall'articolo 3 del testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita', di cui al decreto del Presidente della Repubblica 8 giugno 2001, n. 327, con il potere di espropriare e di curare il relativo procedimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'operatore economico individui i modi di gestione dell'opera e di selezione dei soggetti cui tale gestione puo' essere affidata.
+
 L'ente concedente redige il progetto di fattibilita' tecnico-economica e approva il progetto esecutivo e le sue varianti.
+
+6.
+                        
+                            
+                                Il bando di gara e il contratto stabiliscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di determinazione e di riduzione del corrispettivo spettante al contraente generale in base al risultato ottenuto e alle prestazioni rese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i modi e i tempi di pagamento del corrispettivo, che in ogni caso avviene dopo il collaudo per la parte relativa ai lavori realizzati con anticipazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le risorse proprie del contraente generale ai sensi del comma 14; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i modi di attribuzione alle parti degli eventuali oneri sopravvenuti, incidenti sul corrispettivo e derivanti da disposizioni normative o da provvedimenti di altre autorita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le misure idonee a prevenire tentativi di infiltrazione e condizionamento mafiosi e i relativi costi, non sottoposti a ribasso d'asta.
 
 Il rischio derivante dalle varianti del progetto richieste dall'ente concedente, o cagionate da forza maggiore o da provvedimenti di altre autorita', e' a carico dell'ente concedente.
 
@@ -2662,6 +7696,56 @@ L'ente concedente, nei modi previsti dal bando o dal contratto, controlla le pre
 
 Il bando individua il progetto di fattibilita' tecnico-economica e indica, in relazione alle caratteristiche e alla complessita' dell'opera e del risultato da perseguire, il numero minimo e massimo di concorrenti invitati, assicurando in ogni caso una effettiva concorrenza. Quando le domande di partecipazione superano il numero massimo indicato, l'ente concedente seleziona gli operatori economici da invitare, sulla base di criteri pertinenti all'oggetto del contratto, resi noti nel bando.
 
+2.
+                        
+                            
+                                L'aggiudicazione avviene secondo il criterio dell'offerta economicamente piu' vantaggiosa, individuata, oltre che in base ai criteri ordinari di aggiudicazione degli appalti, tenendo conto in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del valore tecnico ed estetico delle varianti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'incremento di valore del prefinanziamento, rispetto a quello indicato nel bando, offerto dal concorrente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di ogni altro elemento idoneo al miglior perseguimento del risultato amministrativo dedotto nel contratto.
+
+3.
+                        
+                            
+                                Il bando di gara puo' prevedere che l'offerente dimostri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'assenza dei motivi di esclusione indicati agli articoli 94, 95, 96, 97 e 98, ferma restando la necessita' di accertare sempre il possesso dei requisiti generali da parte dell'offerente che risulti poi aggiudicatario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la disponibilita' di risorse finanziarie, rivolte al prefinanziamento, proporzionate all'opera da realizzare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso, da parte delle imprese affidatarie designate in sede di gara o dello stesso offerente, di requisiti professionali e finanziari idonei allo svolgimento delle prestazioni richieste.
+
 Non possono concorrere alla medesima gara imprese collegate.
 L'operatore che partecipa alla gara, singolarmente o facendo parte di un raggruppamento temporaneo o consorzio, non puo' parteciparvi quale membro di altro raggruppamento temporaneo, associazione o consorzio, anche stabile.
 
@@ -2677,11 +7761,54 @@ Per le infrastrutture di grande rilevanza o complessita' l'ente concedente puo' 
 
 ## Art. 207. — Sistema di qualificazione del contraente generale
 
+1.
+                        
+                            
+                                Il contraente generale e' una societa' avente per oggetto l'esercizio di una attivita' commerciale o una societa' cooperativa, o un consorzio di cooperative di produzione e lavoro previsti dalla legge 25 giugno 1909, n. 422 e dal decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, oppure un consorzio stabile come definito dal presente codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in possesso dei requisiti professionali, patrimoniali e finanziari di cui al comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il quale non ricorrono i motivi di esclusione di cui agli articoli 94, 95, 96, 97 e 98. 
+ 1. E' istituito, con il regolamento di cui all'articolo 100, comma 4, il sistema di qualificazione del contraente generale, basato su classifiche, effettuate in base all'importo lordo delle procedure di aggiudicazione alle quali il contraente generale puo' partecipare. Il contraente generale non puo' partecipare a procedure di importo lordo superiore a quello della classifica di iscrizione, attestata con il sistema di cui al presente articolo, ma puo' unirsi ad altro contraente generale al fine di conseguire congiuntamente la classifica necessaria per partecipare.
+
 In via transitoria, fino alla data di entrata in vigore del regolamento di cui al comma 2, la qualita' di contraente generale e' attestata dal Ministro delle infrastrutture e dei trasporti dietro richiesta dell'interessato, con atto che conserva la sua efficacia per tre anni. Fino alla predetta data, quando il Ministero delle infrastrutture e dei trasporti non provvede al tempestivo rilascio dell'attestazione, il contraente generale puo' partecipare alla procedura di gara e concludere il contratto esibendo la precedente attestazione di cui sia in possesso, anche se scaduta.
 
 ## Art. 208. — Servizi globali su beni immobili
 
 L'affidamento di servizi globali con oggetto beni immobili si realizza mediante la conclusione di un contratto col quale un operatore economico si obbliga, con organizzazione dei mezzi necessari e con gestione a proprio rischio, a consentire all'ente concedente il miglior godimento dei beni e a perseguire un determinato risultato amministrativo indicato nel bando e nel contratto in cambio di un corrispettivo determinato in relazione al risultato ottenuto e all'attivita' normalmente necessaria per ottenerlo.
+
+2.
+                        
+                            
+                                Il bando di gara e il contratto stabiliscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di determinazione e di riduzione del corrispettivo spettante all'operatore economico in base al risultato ottenuto e alle prestazioni rese;
+                                
+                            
+                            
+                                b)
+                                
+                                    i modi e i tempi di pagamento del corrispettivo;
+                                
+                            
+                            
+                                c)
+                                
+                                    i modi di attribuzione alle parti degli eventuali oneri sopravvenuti, incidenti sul corrispettivo e derivanti da 
+ disposizioni normative o da provvedimenti di altre autorita'.
 
 L'aggiudicazione avviene secondo il criterio dell'offerta economicamente piu' vantaggiosa, tenendo conto in particolare di ogni elemento idoneo al miglior perseguimento del risultato amministrativo dedotto nel contratto.
 
@@ -2690,6 +7817,68 @@ Si applica l'articolo 204, commi 11, 12, 13, 14 e 18.
 ## - - LIBRO V DEL CONTENZIOSO E DELL'AUTORITÀ NAZIONALE ANTICORRUZIONE. DISPOSIZIONI FINALI E TRANSITORIE PARTE I DEL CONTENZIOSO Titolo I I ricorsi giurisdizionali
 
 ## Art. 209. — Modifiche al codice del processo amministrativo di cui all'allegato 1 al decreto legislativo 2 luglio 2010, n. 104
+
+1.
+                        
+                            
+                                Al codice del processo amministrativo, di cui all'allegato 1 al decreto legislativo 2 luglio 2010, n. 104, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 120 e' sostituito dal seguente: 
+ «Art. 120 - (Disposizioni specifiche ai giudizi di cui all'articolo 119, comma 1, lettera a)) - 1. Gli atti delle procedure di affidamento e di concessione disciplinate dal codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge 21 giugno 2022, n. 78, comprese le procedure di affidamento di incarichi e concorsi di progettazione e di attivita' tecnico-amministrative a esse connesse, i quali siano relativi a pubblici lavori, servizi o forniture, nonche' i provvedimenti dell'Autorita' nazionale anticorruzione in materia di contratti pubblici, sono impugnabili unicamente mediante ricorso al tribunale amministrativo regionale competente. In tutti gli atti di parte e in tutti i provvedimenti del giudice e' indicato il codice identificativo di gara (CIG); nel caso di mancata indicazione il giudice procede in ogni caso e anche d'ufficio, su segnalazione della segreteria, ai sensi dell'articolo 86, comma 1. 
+ 2. Per l'impugnazione degli atti di cui al presente articolo il ricorso, principale o incidentale, e i motivi aggiunti, anche avverso atti diversi da quelli gia' impugnati, sono proposti nel termine di trenta giorni. Il termine decorre, per il ricorso principale e per i motivi aggiunti, dalla ricezione della comunicazione di cui all'articolo 90 del codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022 oppure dal momento in cui gli atti sono messi a disposizione ai sensi dell'articolo 36, commi 1 e 2, del medesimo codice. Per i bandi e gli avvisi con cui si indice una gara che siano autonomamente lesivi, il termine decorre dalla pubblicazione di cui agli articoli 84 e 85 del codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022. Il ricorso incidentale e' disciplinato dall'articolo 42. 
+ 3. Nel caso in cui sia mancata la pubblicita' del bando, il ricorso e' comunque proposto entro trenta giorni dalla data di pubblicazione dell'avviso di aggiudicazione o della determinazione di procedere all'affidamento in house al soggetto partecipato o controllato. Per la decorrenza del termine l'avviso deve contenere la motivazione dell'atto di aggiudicazione e della scelta di affidare il contratto senza pubblicazione del bando e l'indicazione del sito dove sono visionabili gli atti e i documenti presupposti. Se sono omessi gli avvisi o le informazioni di cui al presente comma oppure se essi non sono conformi alle prescrizioni ivi indicate, il ricorso puo' essere proposto non oltre sei mesi dal giorno successivo alla data di stipulazione del contratto comunicata ai sensi del codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022. 
+ 4. Se la stazione appaltante o l'ente concedente e' rappresentato dall'Avvocatura dello Stato, il ricorso e' notificato anche presso la sede dell'Amministrazione, ai soli fini della operativita' della sospensione obbligatoria del termine per la stipulazione del contratto. 
+ 5. Se le parti richiedono congiuntamente di limitare la decisione all'esame di un'unica questione, nonche' in ogni altro caso compatibilmente con le esigenze di difesa di tutte le parti in relazione alla complessita' della causa, il giudizio e' di norma definito, anche in deroga al comma 1, primo periodo, dell'articolo 74, in esito all'udienza cautelare ai sensi dell'articolo 60, ove ne ricorrano i presupposti, e, in mancanza, e' comunque definito con sentenza in forma semplificata a una udienza fissata d'ufficio, da tenersi entro quarantacinque giorni dalla scadenza del termine per la costituzione delle parti diverse dal ricorrente e nel rispetto dei termini per il deposito dei documenti e delle memorie. Della data di udienza e' dato immediato avviso alle parti a cura della segreteria, a mezzo posta elettronica certificata. In caso di esigenze istruttorie o quando e' necessario integrare il contraddittorio o assicurare il rispetto di termini a difesa, la definizione del merito e' rinviata, con l'ordinanza che dispone gli adempimenti istruttori o l'integrazione del contraddittorio o dispone il rinvio per l'esigenza di rispetto dei termini a difesa, a una udienza da tenersi non oltre trenta giorni. 
+ 6. In caso di istanza cautelare, all'esito dell'udienza in camera di consiglio e anche in caso di rigetto dell'istanza, il giudice provvede ai necessari approfondimenti istruttori. 
+ 7. I nuovi atti attinenti alla medesima procedura di gara sono impugnati con ricorso per motivi aggiunti, senza pagamento del contributo unificato. 
+ 8. Salvo quanto previsto dal presente articolo e dagli articoli da 121 a 125, si applica l'articolo 119. 
+ 9. Anche se dalla decisione sulla domanda cautelare non derivino effetti irreversibili, il collegio puo' subordinare la concessione o il diniego della misura cautelare alla prestazione, anche mediante fideiussione, di una cauzione di importo commisurato al valore dell'appalto e comunque non superiore allo 0,5 per cento di tale valore. La durata della misura subordinata alla cauzione e' indicata nell'ordinanza. Resta fermo quanto stabilito dal comma 3 dell'articolo 119. 
+ 10. Nella decisione cautelare il giudice tiene conto di quanto previsto dagli articoli 121, comma 1, e 122, e delle esigenze imperative connesse a un interesse generale all'esecuzione del contratto, dandone conto nella motivazione. 
+ 11. Il giudice deposita la sentenza con la quale definisce il giudizio entro quindici giorni dall'udienza di discussione. Quando la stesura della motivazione e' particolarmente complessa, il giudice pubblica il dispositivo nel termine di cui al primo periodo, indicando anche le domande eventualmente accolte e le misure per darvi attuazione, e comunque deposita la sentenza entro trenta giorni dall'udienza. 
+ 12. Le disposizioni dei commi 1, secondo periodo, 5, 6, 8, 9, 10 e 11 si applicano anche innanzi al Consiglio di Stato nel giudizio di appello proposto avverso la sentenza o avverso l'ordinanza cautelare, e nei giudizi di revocazione o opposizione di terzo. La parte puo' proporre appello avverso il dispositivo per ottenerne la sospensione prima della pubblicazione della sentenza. 
+ 13. Nel caso di presentazione di offerte per piu' lotti l'impugnazione si propone con ricorso cumulativo solo se sono dedotti identici motivi di ricorso avverso lo stesso atto.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 121 e' sostituito dal seguente: 
+ «Art. 121 - (Inefficacia del contratto nei casi di gravi violazioni) - 1. Il giudice che annulla l'aggiudicazione o gli affidamenti senza bando di cui al comma 2 dell'articolo 120 dichiara l'inefficacia del contratto nei seguenti casi: 
+ a) se l'aggiudicazione e' avvenuta senza pubblicazione del bando o avviso con cui si indice una gara ((...)) quando tale pubblicazione e' prescritta dal codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022; 
+ b) se l'aggiudicazione e' avvenuta con procedura negoziata senza bando o con affidamento in economia fuori dai casi consentiti e questo abbia determinato l'omissione della pubblicita' del bando o avviso con cui si indice una gara ((...)) quando tale pubblicazione e' prescritta dal codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022; 
+ c) se il contratto e' stato stipulato senza rispettare il termine dilatorio stabilito dall'articolo 18 del codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022, qualora tale violazione abbia impedito al ricorrente di avvalersi di mezzi di ricorso prima della stipulazione del contratto e sempre che tale violazione, aggiungendosi a vizi propri dell'aggiudicazione, abbia influito sulle possibilita' del ricorrente di ottenere l'affidamento; 
+ d) se il contratto e' stato stipulato senza rispettare la sospensione obbligatoria del termine per la stipulazione derivante dalla proposizione del ricorso giurisdizionale avverso l'aggiudicazione, ai sensi dell'articolo 18, comma 4, del codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022, qualora tale violazione, aggiungendosi a vizi propri dell'aggiudicazione, abbia influito sulle possibilita' del ricorrente di ottenere l'affidamento. 
+ 2. Il giudice precisa, in funzione delle deduzioni delle parti e della valutazione della gravita' della condotta della stazione appaltante o dell'ente concedente e della situazione di fatto, se la declaratoria di inefficacia e' limitata alle prestazioni ancora da eseguire alla data della pubblicazione del dispositivo o se essa opera in via retroattiva. 
+ 3. Il contratto resta efficace, anche in presenza delle violazioni di cui al comma 1, qualora venga accertato che il rispetto di esigenze imperative connesse a un interesse generale imponga che i suoi effetti siano mantenuti. Tra le esigenze imperative rientrano, fra l'altro, quelle imprescindibili di carattere tecnico o di altro tipo, tali da rendere evidente che i residui obblighi contrattuali possono essere rispettati solo dall'esecutore attuale. Gli interessi economici sono presi in considerazione come esigenze imperative solo quando l'inefficacia del contratto condurrebbe a conseguenze sproporzionate, avuto anche riguardo all'eventuale mancata proposizione della domanda di subentro nel contratto nei casi in cui il vizio dell'aggiudicazione non comporta l'obbligo di rinnovare la gara. Non costituiscono esigenze imperative gli interessi economici legati direttamente al contratto, che comprendono fra l'altro i costi derivanti dal ritardo nell'esecuzione del contratto stesso, dalla necessita' di indire una nuova procedura di aggiudicazione, dal cambio dell'operatore economico e dagli obblighi di legge risultanti dalla dichiarazione di inefficacia. 
+ 4. A cura della segreteria, le sentenze che provvedono in applicazione del comma 3 sono trasmesse alla Presidenza del Consiglio dei ministri -Dipartimento per le politiche europee. 
+ 5. Quando, nonostante le violazioni, il contratto e' considerato efficace o l'inefficacia e' temporalmente limitata, si applicano le sanzioni alternative di cui all'articolo 123. 
+ 6. La inefficacia del contratto prevista dal comma 1, lettere a) e b), non si applica quando la stazione appaltante o l'ente concedente ha seguito la seguente procedura: 
+ a) con atto motivato anteriore all'avvio della procedura di affidamento ha dichiarato che la procedura senza pubblicazione del bando o avviso con cui si indice una gara ((...)) e' consentita dal codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022; 
+ b) rispettivamente per i contratti di rilevanza europea e per quelli sotto soglia, ha pubblicato nella Gazzetta ufficiale dell'Unione europea oppure nella Gazzetta Ufficiale della Repubblica italiana un avviso volontario per la trasparenza preventiva ai sensi dell'articolo 86 del codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge n. 78 del 2022, in cui manifesta l'intenzione di concludere il contratto; ((9)) 
+ c) il contratto non e' stato concluso prima dello scadere di un termine di almeno dieci giorni decorrenti dal giorno successivo alla data di pubblicazione dell'avviso di cui alla lettera b).»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 123, comma 1, alinea, le parole:«di cui all'articolo 121, comma 4» sono sostituite dalle seguenti: «di cui all'articolo 121, comma 5»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 124 e' sostituito dal seguente: 
+ «Art. 124 - (Tutela in forma specifica e per equivalente) - 1.
+L'accoglimento della domanda di conseguire l'aggiudicazione e di stipulare il contratto e' comunque condizionato alla dichiarazione di inefficacia del contratto ai sensi degli articoli 121, comma 1, e 122. Se non dichiara l'inefficacia del contratto, il giudice dispone il risarcimento per equivalente del danno subito e provato. Il giudice conosce anche delle azioni risarcitorie e di quelle di rivalsa proposte dalla stazione appaltante nei confronti dell'operatore economico che, con un comportamento illecito, ha concorso a determinare un esito della gara illegittimo. 
+ 2. La condotta processuale della parte che, senza giustificato motivo, non ha proposto la domanda di cui al comma 1, o non si e' resa disponibile a subentrare nel contratto, e' valutata dal giudice ai sensi dell'articolo 1227 del codice civile. 
+ 3. Ai sensi dell'articolo 34, comma 4, il giudice individua i criteri di liquidazione del danno e assegna un termine entro il quale la parte danneggiante deve formulare una proposta risarcitoria. La mancata formulazione della proposta nel termine assegnato o la significativa differenza tra l'importo indicato nella proposta e quello liquidato nella sentenza resa sull'eventuale giudizio di ottemperanza costituiscono elementi valutativi ai fini della regolamentazione delle spese di lite in tale giudizio, fatto salvo quanto disposto dall'articolo 91, primo comma, del codice di procedura civile.».
 
 -----------
                             AGGIORNAMENTO (9)
@@ -2740,6 +7929,59 @@ Il collegio arbitrale e' composto da tre membri ed e' nominato dalla Camera arbi
 
 La nomina degli arbitri per la risoluzione delle controversie nelle quali e' parte una pubblica amministrazione avviene nel rispetto dei principi di pubblicita' e di rotazione, oltre che delle disposizioni del codice.
 
+6.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 815 del codice di procedura civile, non possono essere nominati arbitri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i magistrati ordinari, amministrativi, contabili e militari in servizio, i magistrati e i giudici tributari in servizio nonche' gli avvocati e procuratori dello Stato in servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che nell'ultimo anno hanno esercitato le funzioni di arbitro di parte, o nell'ultimo biennio quelle di difensore in giudizi arbitrali disciplinati dal presente articolo, salvo che l'esercizio della difesa costituisca adempimento di dovere d'ufficio del dipendente pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che, prima del collocamento a riposo, hanno trattato ricorsi in sede civile, penale, amministrativa, contabile, militare e tributaria proposti dal soggetto che ha richiesto l'arbitrato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coloro che hanno espresso parere, a qualunque titolo, nelle materie oggetto dell'arbitrato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coloro che hanno predisposto il progetto o il capitolato di gara o resi i relativi pareri; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coloro che hanno diretto, sorvegliato o collaudato i lavori, i servizi o le forniture a cui si riferiscono le controversie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    coloro che hanno partecipato a qualunque titolo alla procedura per la quale e' in corso l'arbitrato.
+
 La nomina del collegio arbitrale effettuata in violazione delle disposizioni di cui ai commi 4, 5 e 6 determina la nullita' del lodo.
 
 Per la nomina del collegio arbitrale, la domanda di arbitrato, l'atto di resistenza ed eventuali controdeduzioni sono trasmessi alla Camera arbitrale. Sono altresi' trasmesse le designazioni di parte.
@@ -2775,6 +8017,38 @@ Per l'espletamento delle sue funzioni la Camera arbitrale si avvale di una strut
 
 La Camera arbitrale cura annualmente la rilevazione dei dati emergenti dal contenzioso in materia di contratti pubblici e li trasmette all'Autorita' e alla Cabina di regia di cui all'articolo 221.
 
+7.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 1, comma 18, della legge 6 novembre 2012, n. 190, possono essere iscritti all'Albo degli arbitri della Camera arbitrale i soggetti appartenenti alle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    magistrati ordinari, amministrativi, contabili, militari, magistrati e giudici tributari a riposo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avvocati iscritti agli albi ordinari e speciali abilitati al patrocinio davanti alle magistrature superiori e in possesso dei requisiti per la nomina a consigliere di Cassazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tecnici in possesso del diploma di laurea in ingegneria e architettura abilitati all'esercizio della professione da almeno dieci anni e iscritti ai relativi albi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    professori universitari, anche in quiescenza, nelle materie giuridiche e tecniche e dirigenti delle pubbliche amministrazioni, con provata esperienza nella materia dei contratti pubblici di lavori, servizi e forniture.
+
 Sul sito dell'ANAC sono pubblicati l'elenco degli arbitrati in corso e definiti, i dati relativi alle vicende dei medesimi, i nominativi e i compensi degli arbitri e dei periti.
 
 L'iscrizione all'Albo degli arbitri e all'elenco dei periti ha validita' triennale e puo' essere nuovamente ottenuta decorsi due anni dalla scadenza del triennio. Sono fatti salvi i casi di ricusazione di cui all'articolo 815 del codice di procedura civile.
@@ -2795,6 +8069,38 @@ L'osservanza delle determinazioni del collegio consultivo tecnico e' causa di es
 
 
 ((L'acquisizione del parere e' obbligatoria nei casi di risoluzione contrattuale.)) Se, per qualsiasi motivo, i lavori non possono procedere con il soggetto designato, prima di risolvere il contratto la stazione appaltante acquisisce il parere del collegio consultivo tecnico, anche in ordine alla possibilita' che gravi motivi tecnici ed economici rendano preferibile la prosecuzione con il medesimo soggetto.
+
+3.
+                        
+                            
+                                Nel parere il collegio consultivo tecnico valuta anche la possibilita' di decidere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se procedere all'esecuzione in via diretta dei lavori, anche avvalendosi, nei casi consentiti dalla legge, previa convenzione, di altri enti o societa' pubbliche nell'ambito del quadro economico dell'opera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se interpellare progressivamente i soggetti che hanno partecipato alla originaria procedura di gara come risultanti dalla relativa graduatoria, per stipulare un nuovo contratto per l'affidamento del completamento dei lavori, se tecnicamente ed economicamente possibile e alle condizioni proposte dall'operatore economico interpellato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se indire una nuova procedura per l'affidamento del completamento dell'opera; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se proporre alle autorita' governative la nomina di un commissario straordinario per lo svolgimento delle attivita' necessarie al completamento dell'opera ai sensi dell'articolo 4 del decreto-legge 18 aprile 2019, n. 32, convertito, con modificazioni, dalla legge 14 giugno 2019, n. 55.
 
 Quando la sospensione e' imposta da gravi ragioni di ordine tecnico, idonee a incidere sulla realizzazione a regola d'arte dell'opera, in relazione alle modalita' di superamento delle quali non vi e' accordo tra le parti, entro quindici giorni dalla comunicazione della sospensione dei lavori oppure della causa che potrebbe determinarla, il collegio consultivo tecnico accerta l'esistenza di una causa tecnica di legittima sospensione dei lavori e indica le modalita', tra quelle di cui ai commi 2 e 3, con cui proseguire i lavori e le eventuali modifiche necessarie da apportare per la realizzazione dell'opera a regola d'arte. In tal caso la pronuncia assume l'efficacia di lodo contrattuale solo se tale possibilita' non sia stata espressamente esclusa ai sensi di quanto disposto dall'articolo 217.
 
@@ -2839,6 +8145,60 @@ La Cabina di regia e' la sede istituzionale per il coordinamento nell'attuazione
 Ciascuna amministrazione coinvolta nell'applicazione del codice trae dall'azione della Cabina di regia indicazioni e spunti per la propria attivita'. PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N.
 209. PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209. PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209.
 
+4.
+                        
+                            
+                                La Cabina di regia ha tra l'altro il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare una ricognizione sullo stato di attuazione del codice e sulle difficolta` riscontrate dalle stazioni appaltanti nella fase di applicazione, anche al fine di proporre eventuali soluzioni correttive e di miglioramento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    curare, se del caso con apposito piano di azione, la fase di attuazione del presente codice coordinando l'adozione, da parte dei soggetti competenti, di regolamenti attuativi e atti di indirizzo, noncheriordino in allegato al codice, anche al fine di assicurarne la tempestivita' e la coerenza reciproca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esaminare le proposte di modifiche normative nella materia disciplinata dal codice per valutarne l'impatto sulla legislazione vigente e garantire omogeneita' e certezza giuridica, supportando la competente struttura della Presidenza del Consiglio dei ministri nel coordinamento dei vari interventi regolatori nel settore e contribuendo all'effettuazione delle analisi e verifiche di impatto dei relativi provvedimenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sovrintendere alla digitalizzazione del sistema dei contratti pubblici, fermo restando l'esercizio delle funzioni, da parte dell'ANAC, di cui all'articolo 23; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere accordi, protocolli di intesa, convenzioni, anche con associazioni private per agevolare la bancabilita' delle opere pubbliche; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    in relazione al partenariato pubblico privato, in coordinamento con il Dipartimento per la programmazione e il coordinamento della politica economica, promuovere la conoscenza delle nuove procedure e agevolarne l'utilizzo tra i potenziali partecipanti, ivi comprese imprese, banche e altre societa' finanziarie; favorire il coordinamento e lo scambio di informazioni tra le parti; individuare e divulgare le soluzioni piu' appropriate a il loro ulteriore eventuali problemi applicativi e promuovere la raccolta e la diffusione dei dati che confluiscono nella banca dati sul partenariato pubblico privato ai sensi dell'articolo 175, comma 7; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    
+                                        ((in relazione alle procedure di ricostruzione di rilievo nazionale, dettare indicazioni, approvare buone pratiche e promuovere la diffusione dei dati e delle informazioni nell'ambito della Conferenza dei Commissari straordinari alla ricostruzione)).
+
 La Cabina di regia segnala, sulla base delle informazioni ricevute, eventuali specifiche violazioni o problemi sistemici all'ANAC per gli interventi di competenza.
 
 Ogni anno la Cabina di regia, anche avvalendosi dell'ANAC, presenta alla Commissione una relazione di controllo contenente, se del caso, informazioni sulle cause piu' frequenti di non corretta applicazione o di incertezza giuridica, compresi possibili problemi strutturali o ricorrenti nell'applicazione delle norme, sul livello di partecipazione delle microimprese e delle piccole e medie imprese agli appalti pubblici e sulla prevenzione, l'accertamento e l'adeguata segnalazione di casi di frode, corruzione, conflitto di interessi e altre irregolarita` gravi in materia di appalti e di concessioni.
@@ -2856,6 +8216,88 @@ Autorita' nazionale anticorruzione (ANAC).
 La vigilanza e il controllo sui contratti pubblici sono attribuiti, nei limiti di quanto stabilito dal codice, all'Autorita' nazionale anticorruzione (ANAC), che agisce anche al fine di prevenire e contrastare illegalita' e corruzione.
 
 L'ANAC, attraverso bandi-tipo, capitolati-tipo, contratti-tipo e altri atti amministrativi generali, garantisce la promozione dell'efficienza, della qualita' dell'attivita' delle stazioni appaltanti, cui fornisce supporto anche facilitando lo scambio di informazioni e la omogeneita' dei procedimenti amministrativi e favorisce lo sviluppo delle migliori pratiche. Trasmette alle Camere, immediatamente dopo la loro adozione, gli atti di cui al primo periodo ritenuti maggiormente rilevanti in termini di impatto, per numero di operatori potenzialmente coinvolti, riconducibilita' a fattispecie criminose, situazioni anomale o comunque sintomatiche di condotte illecite da parte delle stazioni appaltanti. Resta ferma l'impugnabilita' delle decisioni e degli atti assunti dall'ANAC innanzi ai competenti organi di giustizia amministrativa. L'ANAC, per l'adozione dei bandi-tipo, dei capitolati-tipo, dei contratti-tipo e degli atti amministrativi generali, si dota, nei modi previsti dal proprio ordinamento, di forme e metodi di consultazione, di analisi e di verifica dell'impatto della regolazione, di adeguata pubblicita', anche sulla Gazzetta Ufficiale della Repubblica italiana, in modo che siano rispettati la qualita' della regolazione e il divieto di introduzione o di mantenimento di livelli di regolazione superiori a quelli minimi richiesti dalle direttive europee e dal codice. I bandi-tipo, i capitolati-tipo e i contratti-tipo sono, altresi', pubblicati sul sito istituzionale dell'ANAC e dallo stesso scaricabili con modalita' tale da garantirne l'autenticita'.
+
+3.
+                        
+                            
+                                Nell'ambito dei poteri ad essa attribuiti, l'ANAC: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigila sui contratti pubblici, anche di interesse regionale, di lavori, servizi e forniture nei settori ordinari e nei settori speciali e sui contratti secretati o che esigono particolari misure di sicurezza, nonche' sui contratti esclusi dall'ambito di applicazione del codice; nell'ambito dell'attivita' di vigilanza nei settori di cui alle lettere b), f), l), m) e in tutti gli altri casi previsti dal codice puo' irrogare per le violazioni accertate, nel rispetto dei principi di cui alla legge 24 novembre 1981, n. 689 e secondo il proprio regolamento, sanzioni amministrative pecuniarie entro il limite minimo di euro 500 e il limite massimo di euro 5.000.
+La sottoposizione a sanzioni pecuniarie e l'eventuale recidiva sono valutate ai fini della qualificazione delle stazioni appaltanti ai sensi dell'articolo 63; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigila sulla corretta esecuzione dei contratti pubblici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnala al Governo e al Parlamento, con apposito atto, fenomeni particolarmente gravi di inosservanza o di applicazione distorta della normativa di settore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    formula al Governo proposte in ordine a modifiche occorrenti in relazione alla normativa vigente di settore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predispone e invia al Governo e al Parlamento la relazione annuale sull'attivita' svolta, prevista dall'articolo 1, comma 2, della legge 6 novembre 2012, n. 190, evidenziando le disfunzioni riscontrate nell'esercizio delle proprie funzioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigila sul sistema di qualificazione degli esecutori dei contratti pubblici di lavori ed esercita i correlati poteri sanzionatori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    vigila sul divieto di affidamento dei contratti attraverso procedure diverse rispetto a quelle ordinarie e opera un controllo sulla corretta applicazione della specifica disciplina derogatoria prevista per i casi di somma urgenza e di protezione civile ((di cui agli articoli 140 e 140-bis)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per affidamenti di particolare interesse, svolge attivita' di vigilanza collaborativa attuata previa stipula di protocolli di intesa con le stazioni appaltanti richiedenti, finalizzata a sostenere le medesime nella predisposizione degli atti, nell'attivita' di gestione dell'intera procedura di gara e nella fase di esecuzione del contratto; il persistente mancato rispetto, da parte delle stazioni appaltanti firmatarie dei protocolli di intesa, delle indicazioni dell'ANAC, qualora non adeguatamente motivato, e' valutato ai fini della qualificazione delle medesime stazioni appaltanti ai sensi dell'articolo 63; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per favorire l'economicita' dei contratti pubblici e la trasparenza delle condizioni di acquisto, elabora con appositi atti di indirizzo, fatte salve le normative di settore, costi standard dei lavori e prezzi di riferimento di beni e servizi, tra quelli di maggiore impatto in termini di costo a carico della pubblica amministrazione; si avvale a tal fine, sulla base di apposite convenzioni, del supporto dell'ISTAT e degli altri enti del Sistema statistico nazionale, secondo le condizioni di maggiore efficienza, ed eventualmente anche delle informazioni contenute nelle banche dati esistenti presso altre amministrazioni pubbliche e altri soggetti operanti nel settore dei contratti pubblici; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    esercita le funzioni di cui all'articolo 63 in relazione alla qualificazione delle stazioni appaltanti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    esercita le funzioni di cui all'articolo 23 e contribuisce al coordinamento della digitalizzazione del sistema dei contratti pubblici da parte della Cabina di regia.
 
 L'ANAC gestisce il sistema di qualificazione delle stazioni appaltanti e delle centrali di committenza.
 
@@ -2888,6 +8330,66 @@ Per garantire la consultazione immediata e suddivisa per materia degli strumenti
 
 Nell'ambito delle funzioni di cui al decreto legislativo 30 luglio 1999, n. 300, il Ministero delle infrastrutture e dei trasporti promuove le attivita' tecniche e amministrative occorrenti per l'adeguata e sollecita progettazione e approvazione delle infrastrutture ed effettua, con la collaborazione delle regioni o province autonome interessate, le attivita' di supporto necessarie per la vigilanza, da parte dell'autorita' competente, sulla realizzazione delle infrastrutture.
 
+2.
+                        
+                            
+                                Nello svolgimento delle funzioni di cui al comma 1, il Ministero delle infrastrutture e dei trasporti impronta la propria attivita' al principio di leale collaborazione con le regioni e le province autonome e con gli enti locali interessati e acquisisce, nei casi indicati dalla legge, la previa intesa delle regioni o province autonome interessate. Ai fini di cui al comma 1, il Ministero delle infrastrutture e dei trasporti, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove e riceve le proposte delle regioni o province autonome e degli altri enti aggiudicatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove e propone intese quadro tra Governo e singole regioni o province autonome, al fine del congiunto coordinamento e realizzazione delle infrastrutture; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove la redazione dei progetti di fattibilita' delle infrastrutture da parte dei soggetti aggiudicatori, anche attraverso eventuali intese o accordi procedimentali tra i soggetti comunque interessati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvede, eventualmente in collaborazione con le regioni, le province autonome e gli altri enti interessati con oneri a proprio carico, alle attivita' di supporto al CIPESS per la vigilanza sulle attivita' di affidamento da parte dei soggetti aggiudicatori e della successiva realizzazione delle infrastrutture e degli insediamenti prioritari per lo sviluppo del Paese di cui all'articolo 39; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ove necessario, collabora alle attivita' delle stazioni appaltanti e degli enti concedenti o degli enti interessati alle attivita' istruttorie con azioni di indirizzo e supporto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    cura l'istruttoria sui ((progetti di fattibilita' tecnico ed economica)), anche ai fini della loro sottoposizione alle deliberazioni del CIPESS in caso di infrastrutture e di insediamenti prioritari per lo sviluppo del Paese di cui all'articolo 39, proponendo allo stesso le eventuali prescrizioni per l'approvazione del progetto; per le opere di competenza dello Stato, il parere del Consiglio superiore dei lavori pubblici, o di altri organi o commissioni consultive, ove richiesto dalle norme vigenti, e' acquisito sul progetto di fattibilita' tecnico-economica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assegna ai soggetti aggiudicatori, a carico dei fondi di cui all'articolo 39, le risorse finanziarie integrative necessarie alle attivita' progettuali; in caso di infrastrutture e di insediamenti prioritari per lo sviluppo del Paese di cui all'articolo 39, propone, d'intesa con il Ministero dell'economia e delle finanze, al CIPESS l'assegnazione ai soggetti aggiudicatori, a carico dei fondi, delle risorse finanziarie integrative necessarie alla realizzazione delle infrastrutture, contestualmente all'approvazione del progetto di fattibilita' tecnico-economica e nei limiti delle risorse disponibili, dando priorita' al completamento delle opere incompiute; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    verifica l'avanzamento dei lavori anche attraverso sopralluoghi tecnico-amministrativi presso i cantieri interessati, previo accesso agli stessi; a tal fine puo' avvalersi, ove necessario, del Corpo della Guardia di finanza, mediante la sottoscrizione di appositi protocolli di intesa e del Servizio per l'Alta sorveglianza sulle grandi opere istituito con decreto del Ministro delle infrastrutture e dei trasporti 15 aprile 2002, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 54 del 5 marzo 2004.
+
 Per le attivita' di indirizzo e pianificazione strategica, ricerca, supporto e alta consulenza, valutazione, revisione della progettazione, monitoraggio e alta sorveglianza delle infrastrutture, il Ministero delle infrastrutture e dei trasporti puo' avvalersi di una struttura tecnica di missione composta da dipendenti nei limiti dell'organico approvato e dirigenti delle pubbliche amministrazioni, da tecnici individuati dalle regioni o province autonome territorialmente coinvolte, nonche', sulla base di specifici incarichi professionali o rapporti di collaborazione coordinata e continuativa, da progettisti ed esperti nella gestione di lavori pubblici e privati e di procedure amministrative. La struttura tecnica di missione e' istituita con decreto del Ministro delle infrastrutture e dei trasporti. La struttura puo', altresi', avvalersi di personale di alta specializzazione e professionalita', previa selezione, con contratti a tempo determinato di durata non superiore al quinquennio rinnovabile per una sola volta, nonche' quali advisor, di universita' statali e non statali legalmente riconosciute, di enti di ricerca e di societa' specializzate nella progettazione e gestione di lavori pubblici e privati. La struttura svolge, altresi', le funzioni del Nucleo di valutazione e verifica degli investimenti pubblici, previste dall'articolo 1 della legge 17 maggio 1999, n. 144 e dall'articolo 7 del decreto legislativo 29 dicembre 2011, n. 228.
 
 Per agevolare, sin dall'inizio della fase istruttoria, la realizzazione di infrastrutture e insediamenti prioritari, il Ministro delle infrastrutture e dei trasporti, sentiti i Ministri competenti, nonche' i Presidenti delle regioni o province autonome interessate, propone al Presidente del Consiglio dei ministri la nomina di commissari straordinari, i quali seguono l'andamento delle opere e provvedono alle opportune azioni di indirizzo e supporto promuovendo anche attivita' di prevenzione dell'insorgenza dei conflitti e dei contenziosi, anche con riferimento alle esigenze delle comunita' locali, nonche' le occorrenti intese tra i soggetti pubblici e privati interessati. Nell'espletamento delle suddette attivita', e nel caso di particolare complessita' delle stesse, il commissario straordinario puo' essere affiancato da un sub-commissario, nominato dal Presidente del Consiglio dei ministri, su proposta dei Presidenti delle regioni o province autonome territorialmente coinvolte, con oneri a carico delle regioni o province autonome proponenti ovvero a valere sulle risorse di cui al comma 8. Per le opere non aventi carattere interregionale o internazionale, la proposta di nomina del commissario straordinario e' formulata d'intesa con la regione o la provincia autonoma o l'ente territoriale interessati.
@@ -2910,6 +8412,35 @@ Il Ministero delle infrastrutture e dei trasporti assicura, anche attraverso la 
 
 Le disposizioni di cui agli articoli da 215 a 219 si applicano anche ai collegi gia' costituiti ed operanti alla data di entrata in vigore del codice.
 
+2.
+                        
+                            
+                                Dalla data in cui il codice acquista efficacia al decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        all'articolo 1, il comma 5 e' sostituito dal seguente: 
+ «5. Alle procedure per l'affidamento dei servizi di organizzazione, gestione e svolgimento delle prove dei concorsi pubblici di cui agli articoli 247 e 249 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, si applicano le disposizioni del Libro II, Parte I, del codice dei contratti pubblici, di cui al decreto legislativo di attuazione della legge 21 giugno 2022, n. 78.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        l'articolo 2-bis e' abrogato;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        all'articolo 8, comma 1, alinea, le parole: "«e fino alla data del 30 giugno 2023»" sono soppresse.
+
 All'articolo 107, comma 3, lettera a), del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, sono aggiunte, in fine, le seguenti parole: «la commissione giudicatrice, nel caso di aggiudicazione dei contratti di importo inferiore alle soglie europee con il criterio dell'offerta economicamente piu' vantaggiosa, puo' essere presieduta dal responsabile unico del procedimento;».
 
 L'articolo 37 del decreto legislativo 14 marzo 2013, n. 33, e' sostituito dal seguente: 
@@ -2930,6 +8461,59 @@ Le Regioni a statuto speciale e le province autonome di Trento e di Bolzano adeg
 
 Fino al 31 dicembre 2023 gli avvisi e i bandi sono pubblicati, ai fini della decorrenza degli effetti di legge, nella Gazzetta Ufficiale della Repubblica italiana, serie speciale relativa ai contratti pubblici, entro il sesto giorno feriale successivo a quello del ricevimento della documentazione da parte dell'Ufficio inserzioni dell'Istituto poligrafico e zecca dello Stato. Fino al 31 dicembre 2023 trovano applicazione le disposizioni di cui agli articoli 70, 72, 73, 127, comma 2, 129, comma 4 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50 e del decreto del Ministero delle infrastrutture e dei trasporti adottato in attuazione dell'articolo 73, comma 4 del medesimo codice di cui al decreto legislativo 18 aprile 2016, n. 50 del 2016. Le spese per la pubblicazione obbligatoria degli avvisi e dei bandi di gara sono rimborsate alla stazione appaltante dall'aggiudicatario entro il termine di sessanta giorni dall'aggiudicazione. La pubblicazione di informazioni ulteriori, complementari o aggiuntive avviene esclusivamente in via telematica e non puo' comportare oneri finanziari a carico della stazione appaltante. Fino al 31 dicembre 2023 continuano le pubblicazioni sulla piattaforma del Servizio contratti pubblici del Ministero delle infrastrutture e dei trasporti di cui all'Allegato B al decreto legislativo 14 marzo 2013, n. 33.
 Dal 1° gennaio 2024, acquistano efficacia gli articoli 27, 81,83, 84 e 85.
+
+2.
+                        
+                            
+                                Le disposizioni di cui agli articoli 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 35, 36, 37, comma 4, 99, 106, comma 3, ultimo periodo, 115, comma 5, 119, comma 5, e 224, comma 6 acquistano efficacia a decorrere dal 1° gennaio 2024. In via transitoria, le disposizioni di cui agli articoli 21, comma 7, 29, 40, 41 comma 2-bis, , 44, 52, 53, 58, 74, 81, 85, 105, comma 7, 111, comma 2-bis, 213 commi 8, 9 e 10, 214, comma 6 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50 continuano ad applicarsi fino al 31 dicembre 2023 per lo svolgimento delle attivita' relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla redazione o acquisizione degli atti relativi alle procedure di programmazione, progettazione, pubblicazione, affidamento ed esecuzione dei contratti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla trasmissione dei dati e documenti relativi alle procedure di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'accesso alla documentazione di gara; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla presentazione del documento di gara unico europeo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla presentazione delle offerte; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'apertura e la conservazione del fascicolo di gara; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al controllo tecnico, contabile e amministrativo dei contratti anche in fase di esecuzione e la gestione delle garanzie.
 
 Il requisito di qualificazione di cui all'articolo 4, comma 1, lettera c) e all'articolo 6, comma 1, lettera c), dell'allegato II 4 e' richiesto a decorrere dal 1° gennaio 2024. 
  4 In sede di prima applicazione dell'articolo 47 e fino all'attuazione delle disposizioni di cui all'allegato I.11, la composizione del Consiglio superiore dei lavori pubblici e le competenze delle sezioni restano quelle vigenti alla data di entrata in vigore del codice, ivi compreso quanto disposto dall'articolo 45 del decreto-legge 31 maggio 2021 n. 77, convertito, con modificazioni, dalla legge 29 luglio 2021 n. 108. 
@@ -2969,6 +8553,87 @@ Le disposizioni di cui agli articoli da 215 a 219 e all'allegato V.2, la cui ent
 ## Art. 226. — Abrogazioni e disposizioni finali
 
 Il decreto legislativo 18 aprile 2016, n. 50, e' abrogato dal 1° luglio 2023.
+
+2.
+                        
+                            
+                                A decorrere dalla data in cui il codice acquista efficacia ai sensi dell'articolo 229, comma 2, le disposizioni di cui al decreto legislativo n. 50 del 2016 continuano ad applicarsi esclusivamente ai procedimenti in corso. A tal fine, per procedimenti in corso si intendono: 
+                            
+                            
+                                a)
+                                
+                                    le procedure e i contratti per i quali i bandi o avvisi con cui si indice la procedura di scelta del contraente siano stati pubblicati prima della data in cui il codice acquista efficacia;
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di contratti senza pubblicazione di bandi o avvisi, le procedure e i contratti in relazione ai quali, alla data in cui il codice acquista efficacia, siano stati gia' inviati gli avvisi a presentare le offerte;
+                                
+                            
+                            
+                                c)
+                                
+                                    per le opere di urbanizzazione a scomputo del contributo di costruzione, oggetto di convenzioni urbanistiche o atti assimilati comunque denominati, i procedimenti in cui le predette convenzioni o atti siano stati stipulati prima della data in cui il codice acquista efficacia;
+                                
+                            
+                            
+                                d)
+                                
+                                    per le procedure di accordo bonario di cui agli articoli 210 e 211, di transazione e di arbitrato, le procedure relative a controversie aventi a oggetto contratti pubblici, per i quali i bandi o gli avvisi siano stati pubblicati prima della data in cui il codice acquista efficacia, ovvero, in caso di mancanza di pubblicazione di bandi o avvisi, gli avvisi a presentare le offerte siano stati inviati prima della suddetta data.
+
+3.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 225, sono abrogati dal 1° luglio 2023: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il regio decreto 3 maggio 1923, n. 1612; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 11, comma 5, lettere d) e f), della legge 23 dicembre 1992, n. 498; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Presidente della Repubblica 27 aprile 2006, n. 204; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 1, comma 32, della legge 6 novembre 2012, n. 190; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro dello sviluppo economico 7 giugno 2017, n. 122; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Ministro dei beni e delle attivita' culturali e del turismo 22 agosto 2017, n. 154; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto del Ministro dell'economia e delle finanze 28 settembre 2022, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 239 del 12 ottobre 2022.
 
 ((A decorrere dalla data di entrata in vigore della presente disposizione, e' abrogato l'articolo 12 del decreto-legge 28 marzo 2014, n. 47, convertito, con modificazioni, dalla legge 23 maggio 2014, n. 80.))
 

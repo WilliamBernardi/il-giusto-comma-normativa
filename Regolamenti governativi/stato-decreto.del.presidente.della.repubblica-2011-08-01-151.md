@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2014-11-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,52 @@ Acquisito il parere delle competenti Commissioni della Camera dei deputati e del
 Sulla proposta del Ministro per la pubblica amministrazione e l'innovazione, del Ministro dell'interno, del Ministro per la semplificazione normativa e del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                Comando: il Comando provinciale dei vigili del fuoco territorialmente competente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Direzione: la Direzione regionale o interregionale dei vigili del fuoco del soccorso pubblico e della difesa civile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                CTR: il Comitato tecnico regionale per la prevenzione incendi di cui all'articolo 22 del decreto legislativo 8 marzo 2006, n. 139; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                SCIA: la segnalazione certificata di inizio attivita', ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, come sostituito dall'articolo 49, comma 4-bis, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, in cui la ricevuta della segnalazione costituisce titolo autorizzatorio ai sensi dell'articolo 38, comma 3, lettere e) ed f), del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                SUAP: lo sportello unico per le attivita' produttive che costituisce l'unico punto di accesso per il richiedente in relazione a tutte le vicende amministrative riguardanti la sua attivita' produttiva e fornisce una risposta unica e tempestiva in luogo di tutte le pubbliche amministrazioni, comunque coinvolte nel procedimento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                CPI: Certificato di prevenzione incendi ai sensi dell'articolo 16, comma 1, del decreto legislativo 8 marzo 2006, n. 139.
 
 ## Art. 2. — Finalita' ed ambito di applicazione
 
@@ -120,11 +166,61 @@ La documentazione di cui alla lettera a) del comma 1 dell'articolo 10 del decret
 
 Fino all'adozione del decreto ministeriale di cui al comma 7 dell'articolo 2, si applicano le disposizioni del decreto del Ministro dell'interno in data 4 maggio 1998, pubblicato nella Gazzetta Ufficiale n. 104 del 7 maggio 1998, recante disposizioni relative alle modalita' di presentazione ed al contenuto delle domande per l'avvio di procedimenti di prevenzione incendi, nonche' all'uniformita' dei connessi servizi resi dai Comandi provinciali dei vigili del fuoco.
 
+2.
+                    
+                        
+                            Fino all'adozione del decreto ministeriale di cui al comma 7 dell'articolo 2, all'istanza di cui al comma 1 dell'articolo 4, presentata per la messa in esercizio dei depositi di gas di petrolio liquefatto in serbatoi fissi di capacita' complessiva non superiore a 5 metri cubi non a servizio di attivita' di cui all'Allegato I, sono allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione di conformita' di cui all'articolo 7 del decreto del Ministro dello sviluppo economico del 22 gennaio 2008, n. 37; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una dichiarazione in cui il titolare attesta che sono state rispettate le prescrizioni vigenti in materia di prevenzione degli incendi e si impegna al rispetto degli obblighi di cui all'articolo 6 del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una planimetria del deposito, in scala idonea firmata da un professionista iscritto nel relativo albo professionale e nell'ambito delle specifiche competenze, o dal responsabile tecnico dell'impresa che procede all'installazione del deposito.
+
 Fino all'adozione del decreto ministeriale di cui al comma 2 dell'articolo 23 del decreto legislativo 8 marzo 2006, n. 139, si applicano le disposizioni del decreto del Ministro dell'interno 3 febbraio 2006 adottato di concerto con il Ministro dell'economia e delle finanze. Per le nuove attivita' introdotte all'Allegato I del presente regolamento, si applicano le tariffe gia' previste per le attivita' di analoga complessita', come individuate nella tabella di equiparazione di cui all'Allegato II del presente regolamento.
 
 Gli enti e i privati responsabili delle nuove attivita' introdotte all'Allegato I, esistenti alla data di pubblicazione del presente regolamento, devono espletare i prescritti adempimenti entro due anni dalla data di entrata in vigore del presente regolamento. (2) ((4))
 
 Gli enti e i privati responsabili delle attivita' di cui all'Allegato I, esistenti alla data di entrata in vigore del presente regolamento ed in possesso del Certificato di prevenzione incendi, alla scadenza del medesimo Certificato devono espletare gli adempimenti prescritti all'articolo 5 del presente regolamento.
+
+6.
+                    
+                        
+                            Gli enti e i privati responsabili delle attivita' di cui al comma 2, dell'articolo 5, presentano la prima attestazione di rinnovo periodico, entro i seguenti termini: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro sei anni dalla data di entrata in vigore del presente regolamento per le attivita' con certificato di prevenzione incendi una tantum rilasciato antecedentemente al 1° gennaio 1988; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro otto anni dalla data di entrata in vigore del presente regolamento per le attivita' con certificato di prevenzione incendi una tantum rilasciato nel periodo compreso tra il 1° gennaio 1988 ed il 31 dicembre 1999; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro dieci anni dalla data di entrata in vigore del presente regolamento per le attivita' con certificato di prevenzione incendi una tantum rilasciato nel periodo compreso tra il 1° gennaio 2000 e la data di entrata in vigore del presente regolamento.
 
 Gli enti e i privati responsabili delle attivita' di cui all'Allegato I, che alla data di entrata in vigore del presente regolamento hanno acquisito il parere di conformita' di cui all'articolo 2 del decreto del Presidente della Repubblica 12 gennaio 1998, n. 37, devono espletare gli adempimenti di cui all'articolo 4 del presente regolamento.
 
@@ -141,6 +237,60 @@ Sono fatte salve le disposizioni di cui all'articolo 16, comma 7, del decreto le
  Il D.L. 12 settembre 2014, n. 133, convertito con modificazioni dalla L. 11 novembre 2014, n. 164, ha disposto (con l'art. 16-ter, comma 1) che "Gli adempimenti previsti dall'articolo 11, comma 4, del regolamento di cui al decreto del Presidente della Repubblica 1º agosto 2011, n. 151, e successive modificazioni, si applicano alle metropolitane in esercizio alla data di entrata in vigore del medesimo regolamento, con le modalita' e nei termini stabiliti con decreto del Ministro dell'interno, da adottare, secondo le procedure previste dall'articolo 15 del decreto legislativo 8 marzo 2006, n. 139, entro sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto. Il termine ultimo per conformarsi ai predetti adempimenti secondo quanto disposto dal decreto del Ministro dell'interno di cui al primo periodo non puo' essere in ogni caso superiore a ventiquattro mesi dalla data di emanazione del decreto medesimo".
 
 ## Art. 12. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    decreto del Presidente della Repubblica del 26 maggio 1959, n. 689, regolamento recante la determinazione delle aziende e lavorazioni soggette, ai fini della prevenzione degli incendi, al controllo del Comando del Corpo dei vigili del fuoco; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    decreto del Presidente della Repubblica 12 gennaio 1998, n. 37, concernente regolamento recante disciplina dei procedimenti relativi alla prevenzione incendi, a norma dell'articolo 20, comma 8, della legge 15 marzo 1997, n. 59; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    decreto del Presidente della Repubblica 12 aprile 2006, n. 214, concernente regolamento recante semplificazione delle procedure di prevenzione incendi relative ai depositi di g.p.l. in serbatoi fissi di capacita' complessiva non superiore a 5 metri cubi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                decreto del Ministro dell'interno in data 16 febbraio 1982, pubblicato nella Gazzetta Ufficiale n. 98 del 9 aprile 1982, recante modificazioni del decreto del Ministro dell'interno 27 settembre 1965, concernente la determinazione delle attivita' soggette alle visite di prevenzione incendi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    articolo 16 del decreto legislativo 8 marzo 2006, n. 139, recante riassetto delle disposizioni relative alle funzioni ed ai compiti del Corpo nazionale dei vigili del fuoco, a norma dell'articolo 11 della legge 29 luglio 2003, n. 229, limitatamente a: 
+ 1) comma 1: il secondo periodo; 
+ 2) comma 2 : dalle parole: «a conclusione di un procedimento» fino alle parole: «attivita' medesime»; 
+ 3) comma 4: dalle parole: «Ai fini» fino alle parole: «prevenzione incendi» e dalle parole: «oltre ad eseguire» fino alle parole: «accertamenti e valutazioni»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    articolo 6, comma 8, del decreto del Presidente della Repubblica 6 giugno 2001, n. 380.
 
 ## Art. 13. — Clausola di neutralita' finanziaria
 

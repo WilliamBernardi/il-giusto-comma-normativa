@@ -8,8 +8,8 @@ codice_redazionale: 000G0249
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,29 @@ Sulla proposta del Ministro della giustizia;
 ## Art. 1. — Finalita' e definizioni
 
 Il presente regolamento disciplina il coordinamento e l'attuazione delle disposizioni di cui al capo I della legge 24 novembre 1999, n. 468.
+
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono:
+
+                        
+                        
+                            a)
+                            
+                                per "legge" la legge 21 novembre 1991, n. 374, e successive modificazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                per "Ministero" il Ministero della giustizia;
+                            
+                        
+                        
+                            c)
+                            
+                                per "Ministro" il Ministro della giustizia.
 
 ## Art. 2. — Integrazione del consiglio giudiziario con rappresentanti
  designati dai consigli dell'ordine degli avvocati
@@ -97,6 +120,41 @@ Ove, tenuto anche conto della durata del periodo in cui l'aspirante ha svolto le
 Nel formulare il giudizio di idoneita' e nel predisporre la graduatoria di cui al comma 7 dell'articolo 4-bis della legge, il consiglio giudiziario attribuisce un punteggio espresso in trentesimi sulla base di una relazione redatta congiuntamente dai magistrati affidatari e trasmessa allo stesso consiglio giudiziario. La relazione si formula e la valutazione si opera uniformandosi ai criteri dettati dal Consiglio superiore della magistratura, che potra' prevedere una prova concernente la risoluzione di un caso pratico al termine del tirocinio.
 
 Si considerano idonei coloro che hanno riportato un punteggio pari almeno a diciotto trentesimi.
+
+3.
+                    
+                        
+                            In caso di parita' di punteggio, sono preferiti, nell'ordine, coloro che hanno esercitato:
+
+                        
+                        
+                            a)
+                            
+                                funzioni giudiziarie, anche onorarie, per almeno un biennio;
+                            
+                        
+                        
+                            b)
+                            
+                                la professione forense per almeno un biennio;
+                            
+                        
+                        
+                            c)
+                            
+                                funzioni notarili;
+                            
+                        
+                        
+                            d)
+                            
+                                insegnamento di materie giuridiche nelle universita';
+                            
+                        
+                        
+                            e)
+                            
+                                funzioni inerenti alle qualifiche dirigenziali e alla ex carriera direttiva delle cancellerie e delle segreterie giudiziarie.
 
 Ove, tenuto anche conto della durata del periodo in cui l'aspirante ha svolto le attivita' di cui al comma 3, non risulti dirimente l'applicazione dei criteri enunciati, e' preferito il piu' giovane d'eta'.
 

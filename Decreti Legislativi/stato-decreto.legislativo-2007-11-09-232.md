@@ -8,8 +8,8 @@ codice_redazionale: 007G0247
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,38 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per le politiche europee e del Ministro della salute, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, delle politiche agricole alimentari e forestali e per gli affari regionali e le autonomie locali;
 
 ## Art. 1. — Modifiche al decreto legislativo 16 marzo 2006, n. 158
+
+1.
+                    
+                        
+                            Al decreto legislativo 16 marzo 2006, n. 158, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il titolo e' sostituito dal seguente: «Attuazione della direttiva 2003/74/CE che modifica la direttiva 96/22/CE del Consiglio, del 29 aprile 1996, concernente il divieto di utilizzazione di talune sostanze ad azione ormonica, tireostatica e delle sostanze beta-agoniste nelle produzioni animali e della direttiva 96/23/CE, del Consiglio, del 29 aprile 1996, concernente le misure di controllo su talune sostanze e sui loro residui negli animali vivi e nei loro prodotti, come modificata dal regolamento 882/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, nonche' abrogazione del decreto legislativo 4 agosto 1999, n. 336.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3, comma 1, dopo le parole: «androgene o gestagene», sono aggiunte le seguenti: «, nonche' qualsiasi altra sostanza ad effetto anabolizzante»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 10, comma 1, lettera a), il numero 2), e' sostituito dal seguente: «2) sostanze o prodotti contenenti sostanze beta-agoniste, estrogene, ivi compreso l'estradiolo-17 beta ed i suoi esteri, gestagene ed androgene, nonche' qualsiasi altra sostanza ad effetto anabolizzante, salvo che tale somministrazione sia stata effettuata nel rispetto delle disposizioni previste dagli articoli 4, 5 e 7 e nel rispetto dei tempi di sospensione previsti dalla normativa vigente;»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'Allegato II, titolato «Categoria di residui o di sostanze da ricercare a seconda del tipo di animali, loro alimenti e acqua di abbeveraggio e del tipo di prodotti animali di origine primaria», e' sostituito dall'Allegato al presente decreto.
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -96,6 +96,24 @@ Alla cessazione ((dall'incarico)) di procuratore europeo delegato, il magistrato
 
 Il Consiglio superiore della magistratura richiede, con cadenza annuale, alla Procura europea di comunicare se nei confronti dei magistrati nominati procuratori europei delegati siano stati avviati o definiti procedimenti disciplinari, ovvero se, nei casi agli stessi assegnati, il procuratore europeo incaricato della supervisione abbia adottato la decisione di svolgere l'indagine di persona ai sensi dell'articolo 28, paragrafo 4, lettera c), del regolamento.
 
+5.
+                    
+                        
+                            Fermo quanto previsto dal comma 3 e dall'articolo 11, comma 1, il procuratore europeo delegato informa senza ritardo il procuratore generale presso la Corte di cassazione e il Ministro della giustizia: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando riceve formale notizia dell'avvio di un procedimento disciplinare nei suoi confronti per motivi connessi alle responsabilita' che gli derivano dal regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando, in un caso assegnatogli, la camera permanente assume una decisione di riassegnazione per i motivi di cui all'articolo 28, paragrafo 3, lettera b), del regolamento o il procuratore europeo adotta la decisione di svolgere l'indagine di persona ai sensi dell'articolo 28, paragrafo 4, lettera c), del regolamento.
+
 ## Art. 7. — Trattamento economico e regime contributivo dei procuratori europei delegati
 
 Dalla data di decorrenza degli effetti economici del contratto di assunzione sottoscritto con la Procura europea dal magistrato nominato procuratore europeo delegato, cessa il trattamento economico erogato a suo favore dal Ministero della giustizia. In caso di esonero parziale, il Ministero della giustizia provvede a rimborsare alla Procura europea la quota di trattamento economico spettante per lo svolgimento dell'ordinaria attivita' di procuratore nazionale.
@@ -134,6 +152,38 @@ Fermo quanto previsto dai commi 2, 3 e 4, il Ministro della giustizia e il Consi
 ## Art. 11.
 
 Valutazioni di professionalita' dei procuratori europei delegati
+
+1.
+                    
+                        
+                            Ai fini della procedura di valutazione della professionalita' di cui all'articolo 11 del decreto legislativo 5 aprile 2006, n. 160, come modificato dall'articolo 2, comma 2, della legge 30 luglio 2007, n. 111, il Consiglio superiore della magistratura richiede alla Procura europea di trasmettere: 
+ 
+                        
+                        
+                            a)
+                            
+                                un rapporto informativo sull'attivita' svolta dal magistrato nominato procuratore europeo delegato e i relativi dati statistici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia dei precedenti rapporti di valutazione del rendimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                notizie relative alle eventuali decisioni di riassegnazione dei casi assunte dalla camera permanente per i motivi di cui all'articolo 28, paragrafo 3, del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un aggiornamento delle informazioni di cui all'articolo 6, comma 4.
 
 La documentazione di cui al comma 1, unitamente a quella in precedenza acquisita sull'attivita' del procuratore europeo delegato ai sensi dell'articolo 6, comma 4, e' trasmessa dal Consiglio superiore della magistratura al Consiglio giudiziario della Corte di appello di Roma ed e' utilizzata ai fini delle valutazioni di professionalita', ((ai sensi degli articoli 11, 11-bis e 11-ter del decreto legislativo 5 aprile 2006, n. 160)).
 

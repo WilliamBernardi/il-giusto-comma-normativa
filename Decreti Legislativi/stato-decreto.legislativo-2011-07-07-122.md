@@ -8,8 +8,8 @@ codice_redazionale: 011G0164
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,7 +29,125 @@ Il presente decreto stabilisce le norme minime per la protezione dei suini confi
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                suino: un animale della specie suina, di qualsiasi eta', allevato per la riproduzione o l'ingrasso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verro: un suino di sesso maschile che ha raggiunto la puberta' ed e' destinato alla riproduzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                scrofetta: un suino di sesso femminile che ha raggiunto la puberta', ma non ha ancora partorito; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                scrofa: un suino di sesso femminile che ha gia' partorito una prima volta; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                scrofa in allattamento: un suino di sesso femminile nel periodo tra la fase perinatale e lo svezzamento dei lattonzoli; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                scrofa asciutta e gravida: una scrofa nel periodo tra lo svezzamento e la fase perinatale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                lattonzolo: un suino dalla nascita allo svezzamento; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                suinetto: un suino dallo svezzamento all'eta' di 10 settimane; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                suino all'ingrasso: un suino dall'eta' di 10 settimane alla macellazione o all'impiego come riproduttore; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                azienda: qualsiasi luogo, anche all'aria aperta, in cui gli animali sono allevati o detenuti, anche temporaneamente.
+
 ## Art. 3. — Requisiti minimi generali per le aziende di animali appartenenti alla specie suina
+
+1.
+                    
+                        
+                            Le aziende di cui all'articolo 1 devono soddisfare contemporaneamente almeno i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                le superfici libere a disposizione di ciascun suinetto o suino all'ingrasso allevato in gruppo, escluse le scrofette dopo la fecondazione e le scrofe, devono corrispondere ad almeno: 
+ 1) 0,15 mq per i suini di peso vivo pari o inferiore a 10 kg; 
+ 2) 0,20 mq per i suini di peso vivo compreso tra 10 e 20 kg; 
+ 3) 0,30 mq per i suini di peso vivo compreso tra 20 e 30 kg; 
+ 4) 0,40 mq per i suini di peso vivo compreso tra 30 e 50 kg; 
+ 5) 0,55 mq per i suini di peso vivo compreso tra 50 e 85 kg; 
+ 6) 0,65 mq per i suini di peso vivo compreso tra 85 e 110 kg; 
+ 7) 1,00 mq per i suini di peso vivo superiore a 110 kg; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le superfici libere totali a disposizione di ciascuna scrofetta dopo la fecondazione e di ciascuna scrofa qualora dette scrofette o scrofe siano allevate in gruppi, devono essere rispettivamente di almeno 1,64 mq e 2,25 mq; se i suini in questione sono allevati in gruppi di: 
+ 1) meno di sei animali, le superfici libere disponibili devono essere aumentate del 10 per cento; 
+ 2) 40 o piu' animali, le superfici libere disponibili possono essere ridotte del 10 per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le pavimentazioni devono essere conformi ai seguenti requisiti: 
+ 1) per le scrofette dopo la fecondazione e le scrofe gravide una parte della superficie di cui alla lettera b), pari ad almeno 0,95 mq per scrofetta e ad almeno 1,3 mq per scrofa, deve essere costituita da pavimento pieno continuo riservato per non oltre il 15 per cento alle aperture di scarico; 
+ 2) qualora si utilizzano pavimenti fessurati in calcestruzzo per suini allevati in gruppo: 
+ 2.1) l'ampiezza massima delle aperture deve essere di: 
+ 2.1.1) 11 mm per i lattonzoli; 
+ 2.1.2) 14 mm per i suinetti; 
+ 2.1.3) 18 mm per i suini all'ingrasso; 
+ 2.1.4) 20 mm per le scrofette dopo la fecondazione e le scrofe; 
+ 2.2) l'ampiezza minima dei travetti deve essere di: 
+ 2.2.1) 50 mm per i lattonzoli e i suinetti; 
+ 2.2.2) 80 mm per i suini all'ingrasso, le scrofette dopo la fecondazione e le scrofe.
 
 E' vietato costruire o convertire impianti in cui le scrofe e le scrofette sono tenute all'attacco, nonche' il relativo utilizzo.
 

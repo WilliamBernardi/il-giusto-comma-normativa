@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2026-01-13;20
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,39 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro dell'istruzione e del merito, di concerto con il Ministro per la pubblica amministrazione e il Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Modifiche al regolamento di cui al decreto del Presidente del Consiglio dei ministri 30 settembre 2020, n. 167
+
+1.
+                    
+                        
+                            Al regolamento di cui al decreto del Presidente del Consiglio dei ministri 30 settembre 2020, n. 167, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 3, comma 3, il secondo periodo e' sostituito dal seguente: «I vice Capi di gabinetto possono essere scelti, nell'ambito dei soggetti e del contingente di cui all'articolo 9, anche fra personale estraneo alla pubblica amministrazione, in possesso di capacita' adeguate alle funzioni da svolgere, avuto riguardo ai titoli professionali, culturali e scientifici e alle esperienze maturate.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 5, il comma 3 e' sostituito dal seguente: 
+ «3. Nell'ambito del contingente di cui all'articolo 9, il Capo dell'Ufficio legislativo puo' avvalersi di due vice Capi dell'Ufficio legislativo, nominati dal Capo di gabinetto, su proposta del Capo dell'Ufficio legislativo, fra soggetti in possesso di adeguata capacita' ed esperienza nel campo della consulenza giuridica e legislativa, nonche' della produzione normativa.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 9, comma 2, al primo periodo: la parola «sei» e' sostituita dalla seguente «nove» e la parola «una» e' sostituita dalla seguente «due»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 11, comma 4, le parole: «dal Ministro all'atto della nomina» sono sostituite dalle seguenti: «con decreto del Ministro dell'istruzione e del merito, di concerto con il Ministro dell'economia e delle finanze».
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

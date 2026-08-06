@@ -8,8 +8,8 @@ codice_redazionale: 099G0329
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,31 @@ I titoli legali da garantire a fusione, per ogni parte degli oggetti, sono i seg
  per l'argento, 925 e 800 millesimi.
 
 E' ammesso qualsiasi titolo superiore al piu' alto indicato per ciascuno dei metalli preziosi di cui al comma 2.
+
+4.
+                        
+                            
+                                Non sono ammesse tolleranze negative sui titoli dichiarati relativi alle materie prime in oro, argento, platino e palladio, nonche' sui titoli legali ad eccezione dei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    negli oggetti di platino massiccio e di pura lastra e' ammessa una tolleranza di 5 millesimi; negli oggetti di palladio massiccio e di pura lastra e' ammessa una tolleranza di 5 millesimi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli oggetti di platino a saldatura semplice e' ammessa una tolleranza di 10 millesimi; negli oggetti di palladio a saldatura semplice e' ammessa una tolleranza di 10 millesimi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli oggetti in oro eseguiti col metodo della fusione in cera persa, con iniezione centrifuga, e' ammesso il titolo legale 753 con la tolleranza di 3 millesimi.
 
 Le modalita' per il riconoscimento delle caratteristiche costruttive dell'oggetto sono fissate dal regolamento di applicazione previsto dall'articolo 27, di seguito denominato regolamento. Tale regolamento indica anche i metodi ufficiali di analisi per la determinazione del titolo, da applicare ai fini del presente decreto, e la misura massima dell'errore ammissibile in sede delle analisi medesime.
 
@@ -121,6 +146,80 @@ I marchi di identificazione resi inservibili dall'uso devono essere rimessi alle
 
 ## Art. 12.
 
+1.
+                        
+                            
+                                Non sono soggetti all'obbligo del marchio di identificazione e dell'indicazione del titolo ma devono essere garantiti con le modalita' che saranno stabilite dal regolamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli oggetti di peso inferiore ad un grammo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i semilavorati ed i lavori in metalli preziosi e loro leghe per odontoiatria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli oggetti di antiquariato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i semilavorati e le loro leghe, oggetti e strumenti per uso industriale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli strumenti ed apparecchi scientifici;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le monete;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le medaglie e gli altri oggetti preziosi fabbricati dalla Zecca, che, in luogo del marchio di cui all'articolo 8, saranno contrassegnati dal marchio speciale della Zecca medesima:
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli oggetti usati in possesso delle aziende commerciali;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i residui di lavorazione;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le leghe saldanti a base argento, platino o palladio.
+
 La prova di oggetto usato deve essere data dalla descrizione dell'oggetto riportata nel registro delle operazioni previsto dall'articolo 128 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, e dalla corrispondente fattura redatta dal commerciante acquirente.
 
 L'autenticita' degli oggetti di antiquariato di cui alla lettera c) deve essere riconosciuta da esperti, iscritti nei ruoli dei periti e degli esperti, presso le camere di commercio.
@@ -130,6 +229,24 @@ L'autenticita' degli oggetti di antiquariato di cui alla lettera c) deve essere 
 I metalli e gli oggetti contenenti metalli disciplinati dal presente decreto possono essere sottoposti a saggio, a richiesta degli interessati, da parte delle camere di commercio, che appongono, sul metallo o sull'oggetto saggiato, apposito marchio con le impronte indicate dal regolamento.
 
 ## Art. 14.
+
+1.
+                        
+                            
+                                Presso ogni camera di commercio e' tenuto il registro degli assegnatari dei marchi di identificazione al quale devono iscriversi:
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che vendono platino, palladio, oro e argento in lingotti, verghe, laminati, profilati e semilavorati in genere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che fabbricano od importano oggetti contenenti i metalli di cui alla lettera a).
 
 Per ottenere l'iscrizione al registro di cui al comma 1, gli interessati presentano domanda alla camera di commercio competente per territorio in cui hanno sede legale ed uniscono alla domanda stessa copia della licenza rilasciata dall'autorita' di pubblica sicurezza, ai sensi dell'articolo 127 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, e successive modifiche.
 
@@ -165,6 +282,49 @@ I laboratori che effettuano il saggio degli oggetti in metallo prezioso e rilasc
 
 Tali laboratori devono offrire garanzie di indipendenza e di qualificazione tecnico professionale volta in particolare al settore orafo argentiero per la determinazione del titolo dei metalli preziosi.
 
+3.
+                        
+                            
+                                La domanda di abilitazione e' presentata alla camera di commercio competente per territorio, ed e' corredata della documentazione comprovante:
+ 
+                            
+                            
+                                a)
+                                
+                                    la dotazione organica del personale addetto al laboratorio con le relative qualifiche professionali:
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attrezzatura del laboratorio destinato alle operazioni di saggio dei singoli metalli preziosi, per i quali viene richiesta l'abilitazione.
+
+4.
+                        
+                            
+                                Il personale del laboratorio abilitato e' tenuto ad osservare le seguenti prescrizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    divieto di esercitare, sia in proprio, direttamente o indirettamente, sia alle dipendenze di terzi o in collaborazione o societa' con terzi, qualsiasi attivita' di commercio o lavorazione nel settore dei metalli preziosi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    divieto di eseguire, in proprio, nel laboratorio al quale e' addetto, analisi e ricerche che non siano per conto del laboratorio stesso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rispetto del segreto professionale.
+
 La vigilanza ed il controllo sui laboratori abilitati volti a verificare l'osservanza dei suddetti requisiti sono esercitati dalle camere di commercio competenti per territorio, secondo le modalita' stabilite nel regolamento.
 
 ## Art. 19.
@@ -184,6 +344,31 @@ Agli effetti dell'articolo 57 del codice di procedura penale, il personale delle
 Per l'identificazione, il personale suddetto deve essere dotato di una speciale tessera munita di fotografia rilasciata dalla camera di commercio di appartenenza.
 
 ## Art. 21.
+
+1.
+                        
+                            
+                                Il personale della camera di commercio effettua visite ispettive anche non preannunciate. A tal fine ha facolta' di accesso nei locali adibiti alla produzione, al deposito ed alla vendita di materie prime e di oggetti contenenti metalli preziosi, allo scopo di:
+ 
+                            
+                            
+                                a)
+                                
+                                    prelevare campioni di materie prime portanti impressi il titolo dichiarato, di semilavorati ed oggetti di metalli preziosi finiti, gia' muniti di marchio e pronti per la vendita, per accertare l'esattezza del titolo dichiarato per le materie prime e del titolo legale per i semilavorati e gli oggetti finiti mediante saggi da eseguirsi presso i laboratori di cui all'articolo 18;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare l'esistenza della dotazione di marchi di identificazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controllare le caratteristiche di autenticita' dei marchi e la loro perfetta idoneita' all'uso;
 
 Del prelevamento di cui alla lettera a), che puo' essere effettuato solo da personale con qualifica di ufficiale di polizia giudiziaria, viene redatto verbale in presenza del proprietario o di persona, che, nell'occasione, lo rappresenti.
 
@@ -208,6 +393,45 @@ Il divieto di cui ai commi 1 e 2 non riguarda gli oggetti di cui all'articolo 5,
 I semilavorati su cui non e' possibile effettuare la punzonatura del marchio di identificazione e del titolo potranno formare oggetto di scambio solo tra operatori muniti di marchio di identificazione, purche' siano contenuti in involucri sigillati portanti il marchio di identificazione e l'indicazione del titolo.
 
 ## Art. 25.
+
+1.
+                        
+                            
+                                Salva l'applicazione delle maggiori pene stabilite dalle leggi vigenti qualora il fatto costituisca reato, per le violazioni delle norme del presente decreto si applicano le seguenti sanzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    chiunque produce, importa e pone in commercio o detiene materie prime ed oggetti di metalli preziosi senza aver ottenuto l'assegnazione del marchio, ovvero usa marchi assegnati ad altri ad eccezione di quanto previsto all'articolo 17, ovvero usa marchi non assegnati o scaduti o ritirati o annullati e' punito con sanzione amministrativa da L. 300.000 a L. 3.000.000. La stessa sanzione si applica anche a chi pone in commercio o detiene per la vendita materie prime ed oggetti di metalli preziosi privi di marchio di identificazione o di titolo, ovvero muniti di marchi illeggibili e diversi da quelli legali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chiunque produce materie prime ed oggetti di metallo prezioso il cui titolo risulti inferiore a quello legale impresso, e' punito con sanzione amministrativa da L. 600.000 a L. 6.000.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    chiunque pone in commercio o detiene per la vendita materie prime od oggetti di metallo prezioso il cui titolo risulti inferiore a quello legale impresso, e' punito con la sanzione amministrativa da L. 150.000 a L. 1.500.000, salvo che dimostri che egli non ne e' il produttore e che gli oggetti non presentano alcun segno di alterazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    chiunque fabbrica, pone in commercio o detiene per la vendita oggetti di metalli comuni con impresso un titolo, anche diverso da quelli previsti dal presente decreto, oppure con indicazioni letterali o numeriche che possono confondersi con quelle indicate dal presente decreto, e' punito con la sanzione amministrativa da L. 60.000 a L. 600.000;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    chiunque smarrisce uno o piu' marchi di identificazione e non ne fa immediata denuncia alla camera di commercio e' punito con la sanzione amministrativa da L. 60.000 a L. 600.000.
 
 La sanzione di cui al comma 1, lettera d) si applica altresi' nei casi di inosservanza alle disposizioni di cui all'articolo 8, commi 6, 7, 8, 9 e 10, all'articolo 9, all'articolo 11, comma 4, all'articolo 15, all'articolo 24, commi 3 e 4, nonche' di quelle stabilite dal regolamento.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-07-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,11 +25,209 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli 
 ## Art. 1. — Delega delle funzioni amministrative
  in materia di lavoro e servizi all'impiego
 
+1.
+                    
+                        
+                            In attuazione degli articoli 5 e 6 dello Statuto speciale della regione Sardegna, al fine di realizzare nella regione un organico sistema di politiche attive del lavoro e di servizi per l'impiego, sono delegate a detta regione, nell'ambito dell'attivita' di indirizzo e coordinamento dello Stato, le funzioni e i compiti in materia di:
+ 
+                        
+                        
+                            a)
+                            
+                                politiche attive del lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collocamento.
+
 Sono altresi' delegati alla regione le funzioni ed i compiti connessi e strumentali alle materie di cui alle lettere a) e b) del comma 1.
 
 ## Art. 2. — Competenze dello Stato
 
+1.
+                    
+                        
+                            Costituiscono compiti e funzioni riservati allo Stato:
+ 
+                        
+                        
+                            a)
+                            
+                                la vigilanza in materia di lavoro e dei flussi di entrata dei lavoratori non appartenenti all'Unione europea;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'autorizzazione all'espletamento di attivita' lavorative all'estero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la conciliazione delle controversie individuali e plurime di lavoro e la risoluzione delle controversie collettive di rilevanza pluriregionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la progettazione ed il coordinamento del sistema informativo di lavoro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la vigilanza in materia di cooperazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il raccordo con gli organismi internazionali ed il coordinamento dei rapporti con l'Unione europea.
+
 ## Art. 3. — Attribuzione delle competenze
+
+1.
+                    
+                        
+                            Alla regione competono le funzioni in materia di politica attiva del lavoro che comprendono, tra l'altro:
+ 
+                        
+                        
+                            a)
+                            
+                                programmazione e coordinamento di iniziative volte a incrementare l'occupazione e ad incentivare l'incontro tra domanda ed offerta di lavoro anche con riferimento all'occupazione femminile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collaborazione all'elaborazione di progetti relativi all'occupazione di tossicodipendenti ed ex detenuti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                programmazione e coordinamento di iniziative volte a favorire l'occupazione degli iscritti alle liste di collocamento con particolare riferimento ai soggetti destinatari di riserva di cui all'articolo 25 della legge 23 luglio 1991, n. 223;
+
+                            
+                        
+                        
+                            d)
+                            
+                                programmazione e coordinamento delle iniziative finalizzate al reimpiego dei lavoratori posti in mobilita' e all'inserimento lavorativo di categorie svantaggiate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                indirizzo, programmazione e verifica dei tirocini formativi e di orientamento e borse di lavoro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                indirizzo, programmazione e verifica dei lavori socialmente utili ai sensi della normativa in materia;
+
+                            
+                        
+                        
+                            g)
+                            
+                                compilazione e tenuta della lista di mobilita' dei lavoratori previa analisi tecnica;
+
+                            
+                        
+                        
+                            h)
+                            
+                                conflitti di lavoro collettivi di interesse regionale, con l'attribuzione della potesta' di fungere da soggetto istituzionale di mediazione attiva per la sigla di accordi e protocolli, con l'esclusione delle funzioni relative a eccedenze di personale temporanee e strutturali.
+
+2.
+                    
+                        
+                            Nell'ambito di un ruolo di programmazione e coordinamento la regione con propria legge attribuisce alle province le funzioni ed i compiti in materia di collocamento e, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                collocamento ordinario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collocamento agricolo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                collocamento obbligatorio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                collocamento dello spettacolo sulla base di un'unica lista nazionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                collocamento dei lavoratori non appartenenti all'Unione europea;
+
+                            
+                        
+                        
+                            f)
+                            
+                                collocamento dei lavoratori a domicilio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                collocamento dei lavoratori domestici;
+
+                            
+                        
+                        
+                            h)
+                            
+                                avviamento a selezione negli enti pubblici e nella pubblica amministrazione, ad eccezione di quello riguardante le amministrazioni centrali dello Stato e gli uffici centrali degli enti pubblici;
+
+                            
+                        
+                        
+                            i)
+                            
+                                preselezione ed incontro tra domanda ed offerta di lavoro;
+
+                            
+                        
+                        
+                            l)
+                            
+                                iniziative volte ad incrementare l'occupazione e ad incentivare l'incontro tra domande ed offerte di lavoro anche con riferimento all'occupazione femminile.
 
 ## Art. 4. — Attivita' in materia di eccedenze
  di personale temporanee e strutturali

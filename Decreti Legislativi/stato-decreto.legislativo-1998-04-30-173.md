@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2015-07-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -118,6 +118,31 @@ Sono imprenditori agricoli, ai sensi dell'articolo 2135 del codice civile, anche
 
 Il CIPE determina limiti, criteri e modalita' di applicazione anche alle imprese agricole, della pesca marittima ed in acque salmastre e dell'acquacoltura, e ai relativi consorzi, degli interventi regolati dall'articolo 2, comma 203, lettere d) "Patti territoriali", e) "Contratto di programma" ed f) "Contratto di area", della legge 23 dicembre 1996, n. 662.
 
+2.
+                        
+                            
+                                I fondi resi disponibili in attuazione dei regolamenti (CE) n. 724/97, n. 805/97 e n. 806/97, sono destinati per 72 miliardi alla realizzazione dei seguenti interventi:
+ 
+                            
+                            
+                                a)
+                                
+                                    investimenti finalizzati ad incrementare la qualita' delle produzioni, anche in attuazione di quanto specificatamente previsto dalla Direttiva n. 92/46/CEE del 16 giugno 1992;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    investimenti finalizzati alla protezione dell'ambiente, ivi compresi gli interventi diretti all'introduzione di tecnologie mirate a valorizzare agronomicamente i reflui zootecnici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ristrutturazione dei fabbricati aziendali finalizzati ad adeguare le strutture produttive alle norme di sicurezza del lavoro di cui al decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni.
+
 Le misure, di cui al comma 2, sono applicate in conformita' alle disposizioni previste dall'articolo 12, paragrafo 2, lettere e) ed f), nonche' paragrafo 4 del regolamento (CE) n. 950/97. Le modalita' di applicazione delle stesse e di trasferimento delle risorse sono stabilite con decreto del Ministro per le politiche agricole emanato di concerto con il Ministro del tesoro.
 
 Il Ministero per le politiche agricole definisce, di intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi dell'articolo 12, paragrafo 3, lettera d), del regolamento (CE) n. 950/97 e dell'articolo 10 del regolamento (CEE) n. 2078/92, le modalita' per l'erogazione di adeguati contributi finanziari, attraverso un programma nazionale, volto a superare la situazione di grave e persistente declino delle risorse genetiche animali e vegetali, articolato in programmi operativi gestiti dalle regioni. Agli interventi di cui al presente comma si fara' fronte nei limiti delle autorizzazioni di spesa all'uopo recate da successivi provvedimenti legislativi.
@@ -133,11 +158,89 @@ Il Ministero per le politiche agricole definisce, di intesa con la Conferenza pe
 ## Art. 13. — Interventi per il rafforzamento e lo sviluppo delle
  imprese di trasformazione e commercializzazione
 
+1.
+                        
+                            
+                                Nel rispetto della decisione 94/173 CE, e' istituito un regime di aiuti a favore delle imprese che operano nel settore agroalimentare, comprese le cooperative, (( le forme associative di giovani agricoltori, )) le organizzazioni dei produttori e le industrie di trasformazione agroalimentare. Tale regime e' definito, ai sensi dell'articolo 18 del decreto legislativo 31 marzo 1998, n. 112, e fermo restando quanto stabilito dall'articolo 48 dello stesso decreto, nei limiti delle autorizzazioni di spesa all'uopo recate da appositi provvedimenti legislativi, entro sei mesi dall'entrata in vigore del presente decreto, attraverso un programma dal Ministro per le politiche agricole, sentito il Ministro dell'industria, del commercio e dell'artigianato e di intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Tale programma e' diretto a favorire i settori prioritari e ad assicurare partecipazione adeguata e duratura dei produttori agricoli ai vantaggi economici dell'iniziativa, cosi' come previsto dall'articolo 12, comma 1, del regolamento (CE) n. 951/97, anche attraverso contratti di filiera e accordi interprofessionali, dando priorita' agli investimenti richiesti da soggetti che hanno avviato iniziative di ristrutturazione societaria, organizzativa e logistica anche tramite processi di dismissioni, concentrazioni e fusioni di imprese o rami di azienda. Tale programma e' finalizzato:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'innovazione tecnologica, al potenziamento strutturale e al miglioramento delle attivita' di trasformazione e di commercializzazione dei prodotti agricoli, anche attraverso l'acquisizione di impianti, di know how, di brevetti, imprese e reti commerciali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'adeguamento degli impianti alle normative sanitarie comunitarie e di protezione dell'ambiente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla valorizzazione delle produzioni agroalimentari, in particolare tipiche e di qualita', soprattutto per lo sviluppo di iniziative in zone ad insufficiente valorizzazione economica dei produttori, favorendo il credito all'esportazione di intesa con il Ministero per il commercio estero;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al rafforzamento strutturale delle imprese cooperative attraverso investimenti in conto capitale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla realizzazione, da parte di cooperative, di soggetti consortili e associativi, di progetti specifici che prevedano l'avviamento o l'estensione dell'attivita' di assistenza tecnicoeconomica, giuridica e commerciale anche in vista dell'adozione di marchi, nel rispetto dell'articolo 30 del Trattato, e di processi di certificazione della qualita'. Per tale finalita' gli aiuti potranno essere concessi relativamente alle spese di costituzione e funzionamento amministrativo, comprese le spese per il personale assunto, nella misura del 50 per cento, limitatamente al periodo di avvio non superiore, comunque ai 5 anni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla realizzazione di attivita' di ricerca e sviluppo, relativa ai prodotti di cui all'allegato II del Trattato, per il miglioramento qualitativo delle produzioni nazionali, svolta da imprese agroalimentari. L'intensita' dell'aiuto potra' essere fino al 100 per cento lordo, conformemente a quanto previsto dalla disciplina comunitaria per gli aiuti di Stato alla ricerca e sviluppo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'introduzione della contabilita' aziendale e all'avviamento dei servizi di sostituzione.
+
 Al fine di promuovere il salvataggio e la ristrutturazione delle imprese agricole e agroalimentari, il Ministero per le politiche agricole, di concerto con il Ministero dell'industria, del commercio e dell'artigianato, di intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, definisce, nei limiti delle autorizzazioni di spesa all'uopo recate da appositi provvedimenti legislativi, entro sei mesi dall'entrata in vigore del presente decreto legislativo, un programma di interventi, conforme agli orientamenti comunitari degli aiuti di Stato per il salvataggio e la ristrutturazione delle imprese.
 
 ## - Titolo IV ACCELERAZIONE DELLE PROCEDURE DI UTILIZZAZIONE DEI FONDI STRUTTURALI E DEFINIZIONE DEI SERVIZI DI INTERESSE PUBBLICO.
 
 ## Art. 14. — Snellimento procedure di accesso ai fondi strutturali
+
+1.
+                        
+                            
+                                Al fine di accelerare le procedure connesse all'utilizzazione dei fondi strutturali comunitari nel settore agricolo e della pesca, il Ministero per le politiche agricole, le regioni e le province autonome di Trento e di Bolzano, adottano, ciascuno per i programmi di propria competenza, procedure di utilizzazione dei fondi strutturali che prevedono la formazione delle graduatorie dei soggetti beneficiari, analoghe alle procedure adottate per la concessione delle agevolazioni previste dalla legge 19 dicembre 1992, n. 488, con l'osservanza dei seguenti criteri e principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi e valutazione automatica della accoglibilita' delle iniziative, attraverso l'utilizzazione di indicatori appositamente individuati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uniformita' delle procedure di selezione, controllo ed erogazione delle agevolazioni previste, al fine di evitare qualsiasi duplicazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garanzia della trasparenza e del rispetto dei parametri di scelta stabiliti da ciascun programma di intervento.
 
 Entro un anno dall'entrata in vigore del presente decreto, su proposta del Ministro per le politiche agricole, di intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, il CIPE definisce modalita', settori di intervento, soggetti interessati e tempi di attuazione degli adempimenti procedurali introdotti con il comma 1, nonche' criteri e modalita' per l'erogazione di anticipazioni su contributi concessi per la realizzazione di investimenti in agricoltura.
 

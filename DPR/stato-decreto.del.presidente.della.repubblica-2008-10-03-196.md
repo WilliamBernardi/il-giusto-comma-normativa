@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2012-07-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,9 +44,84 @@ Non sono ammissibili le spese relative ad un bene rispetto al quale il beneficia
 
 Sono assimilate alle spese di cui al comma 1 l'ammortamento, i contributi in natura e le spese generali alle condizioni di cui all'articolo 56, paragrafo 2, del regolamento generale, nonche' a quelle indicate ai commi 6, 7 e 8.
 
+6.
+                    
+                        
+                            Il costo dell'ammortamento di beni ammortizzabili strumentali all'operazione e' spesa ammissibile, a condizione che: 
+ 
+                        
+                        
+                            a)
+                            
+                                il costo dell'ammortamento sia calcolato conformemente alla normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tale costo si riferisca esclusivamente al periodo di cofinanziamento dell'operazione in questione.
+
+7.
+                    
+                        
+                            I contributi in natura, afferenti all'operazione, sono assimilati alle spese ammissibili purche': 
+ 
+                        
+                        
+                            a)
+                            
+                                consistano nella fornitura di terreni o immobili, in attrezzature o materiali, in attivita' di ricerca o professionali o in prestazioni volontarie non retribuite; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il loro valore possa essere oggetto di revisione contabile e di valutazione indipendenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in caso di prestazioni volontarie non retribuite, il relativo valore sia determinato tenendo conto del tempo effettivamente prestato e delle normali tariffe orarie e giornaliere in vigore per l'attivita' eseguita; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                si applichino, all'occorrenza, le disposizioni degli articoli 4, 5 e 6.
+
 Le spese generali sono ammissibili a condizione che siano basate sui costi effettivi relativi all'esecuzione dell'operazione e che siano imputate con calcolo pro-rata all'operazione, secondo un metodo equo e corretto debitamente giustificato, fatte salve eccezioni previste nei regolamenti specifici di ciascun Fondo. ((PERIODO SOPPRESSO DAL D.P.R. 5 APRILE 2012, N. 98)).
 
 ((
+
+8-bis.
+                    
+                        
+                            Ai sensi dell'articolo 11, paragrafo 3, del regolamento (CE) n. 1081/2006, cosi' come modificato dal regolamento (CE) n. 396/2009 del Parlamento europeo e del Consiglio, del 6 maggio 2009, e dell'articolo 7, paragrafo 4, del regolamento (CE) n. 1080/2006, come modificato dal regolamento (CE) n. 397/2009 del Parlamento europeo e del Consiglio, del 6 maggio 2009, nel rispetto delle condizioni stabilite dall'Autorita' di Gestione di cui all'articolo 59 del regolamento (CE) n. 1083/2006, in caso di sovvenzioni, sono ammissibili: 
+ 
+                        
+                        
+                            a)
+                            
+                                le spese indirette su base forfetaria, entro il limite del 20 per cento dei costi diretti debitamente giustificati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le unita' di costo standardizzate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le somme forfetarie fino a 50.000 euro.
 
 8-ter. Le opzioni di cui alle lettere a), b) e c) del comma 8-bis possono essere combinate unicamente se ciascuna di esse copre una diversa categoria di costi ammissibili o se sono utilizzate per diversi progetti relativi ad una stessa operazione))
 
@@ -64,9 +139,123 @@ Le ammende e le penali non sono spese ammissibili.
 
 ## Art. 4. — Acquisto di materiale usato
 
+1.
+                    
+                        
+                            L'acquisto di materiale usato e' spesa ammissibile se sono soddisfatte le tre seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il venditore rilascia una dichiarazione attestante la provenienza esatta del materiale e che lo stesso, nel corso degli ultimi sette anni, non ha beneficiato di un contributo nazionale o comunitario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il prezzo del materiale usato non e' superiore al suo valore di mercato ed e' inferiore al costo di materiale simile nuovo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le caratteristiche tecniche del materiale usato acquisito sono adeguate alle esigenze dell'operazione e sono conformi alle norme e agli standard pertinenti.
+
 ## Art. 5. — Acquisto di terreni
 
+1.
+                    
+                        
+                            Nell'ambito delle operazioni cofinanziate dal Fondo europeo di sviluppo regionale, l'acquisto di terreni non edificati rappresenta una spesa ammissibile, nei limiti dell'importo di cui alla lettera c), alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la sussistenza di un nesso diretto fra l'acquisto del terreno e gli obiettivi dell'operazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la percentuale della spesa ammissibile totale dell'operazione rappresentata dall'acquisto del terreno non puo' superare il 10 per cento, con l'eccezione dei casi menzionati al comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la presentazione di una perizia giurata di stima redatta da soggetti iscritti agli albi degli ingegneri, degli architetti, dei geometri, dei dottori agronomi, dei periti agrari, degli agrotecnici o dei periti industriali edili che attesti il valore di mercato del bene.
+
+2.
+                    
+                        
+                            Nel caso di operazioni a tutela dell'ambiente, la spesa per l'acquisto di terreni puo' essere ammessa per una percentuale superiore a quella di cui al comma 1, lettera b), quando sono rispettate tutte le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'acquisto e' stato effettuato sulla base di una decisione positiva da parte dell'autorita' di gestione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il terreno e' destinato all'uso stabilito per un periodo determinato nella decisione di cui alla lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                il terreno non ha una destinazione agricola salvo in casi debitamente giustificati decisi dall'autorita' di gestione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'acquisto e' effettuato da parte o per conto di un'istituzione pubblica o di un organismo di diritto pubblico.
+
 ## Art. 6. — Acquisto di edifici
+
+1.
+                    
+                        
+                            Nell'ambito delle operazioni cofinanziate dal Fondo europeo di sviluppo regionale, l'acquisto di edifici gia' costruiti costituisce una spesa ammissibile nei limiti dell'importo indicato nella lettera a), purche' sia direttamente connesso all'operazione in questione, alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                che sia presentata una perizia giurata di stima, redatta da soggetti iscritti agli albi degli ingegneri, degli architetti, dei geometri, dei dottori agronomi, dei periti agrari, degli agrotecnici o dei periti industriali edili che attesti il valore di mercato del bene, nonche' la conformita' dell'immobile alla normativa nazionale oppure che espliciti i punti non conformi quando l'operazione prevede la loro regolarizzazione da parte del beneficiario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che l'immobile non abbia fruito, nel corso dei dieci anni precedenti, di un finanziamento nazionale o comunitario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che l'immobile sia utilizzato per la destinazione e per il periodo stabiliti dall'autorita' di gestione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                che l'edificio sia utilizzato conformemente alle finalita' dell'operazione. L'edificio puo' ospitare servizi dell'amministrazione pubblica solo quando tale uso e' conforme alle attivita' ammissibili dal Fondo strutturale interessato.
 
 ## Art. 6-bis. — (( (Categorie di alloggi ammissibili per i miglioramenti dell'efficienza energetica e per l'utilizzo di energie rinnovabili). ))
 
@@ -90,6 +279,42 @@ Costituisce, altresi', spesa ammissibile l'imposta di registro, in quanto affere
 Ogni altro tributo od onere fiscale, previdenziale e assicurativo per operazioni cofinanziate da parte dei Fondi strutturali costituisce spesa ammissibile, nel limite in cui non sia recuperabile dal beneficiario.
 
 ## Art. 8. — Locazione finanziaria
+
+1.
+                    
+                        
+                            Fatta salva l'ammissibilita' della spesa per locazione semplice o per noleggio, la spesa per la locazione finanziaria (leasing) e' ammissibile al cofinanziamento alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso in cui il beneficiario del cofinanziamento sia il concedente:
+ 1) il cofinanziamento e' utilizzato al fine di ridurre l'importo dei canoni versati dall'utilizzatore del bene oggetto del contratto di locazione finanziaria;
+ 2) i contratti di locazione finanziaria comportano una clausola di riacquisto oppure prevedono una durata minima pari alla vita utile del bene oggetto del contratto;
+ 3) in caso di risoluzione del contratto prima della scadenza del periodo di durata minima, senza la previa approvazione delle autorita' competenti, il concedente si impegna a restituire alle autorita' nazionali interessate, mediante accredito al Fondo appropriato, la parte della sovvenzione comunitaria corrispondente al periodo residuo;
+ 4) l'acquisto del bene da parte del concedente, comprovato da una fattura quietanzata o da un documento contabile avente forza probatoria equivalente, costituisce la spesa ammissibile al cofinanziamento; l'importo massimo ammissibile non puo' superare il valore di mercato del bene dato in locazione;
+ 5) non sono ammissibili le spese attinenti al contratto di leasing non indicate al precedente numero 4), tra cui le tasse, il margine del concedente, i costi di rifinanziamento degli interessi, le spese generali, gli oneri assicurativi;
+ 6) l'aiuto versato al concedente e' utilizzato interamente a vantaggio dell'utilizzatore mediante una riduzione uniforme di tutti i canoni pagati nel periodo contrattuale;
+ 7) il concedente dimostra che il beneficio dell'aiuto e' trasferito interamente all'utilizzatore, elaborando una distinta dei pagamenti dei canoni o con un metodo alternativo che fornisca assicurazioni equivalenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso in cui il beneficiario del cofinanziamento sia l'utilizzatore:
+ 1) i canoni pagati dall'utilizzatore al concedente, comprovati da una fattura quietanzata o da un documento contabile avente forza probatoria equivalente, costituiscono la spesa ammissibile;
+ 2) nel caso di contratti di locazione finanziaria contenenti una clausola di riacquisto o che prevedono una durata contrattuale minima corrispondente alla vita utile del bene, l'importo massimo ammissibile non puo' superare il valore di mercato del bene; non sono ammissibili le altre spese connesse al contratto, tra cui tributi, interessi, costi di rifinanziamento interessi, spese generali, oneri assicurativi;
+ 3) l'aiuto relativo ai contratti di locazione finanziaria di cui al numero 2) e' versato all'utilizzatore in una o piu' quote sulla base dei canoni effettivamente pagati; se la durata del contratto supera il termine finale per la contabilizzazione dei pagamenti ai fini dell'intervento cofinanziato, e' ammissibile soltanto la spesa relativa ai canoni esigibili e pagati dall'utilizzatore sino al termine finale stabilito per i pagamenti ai fini dell'intervento;
+ 4) nel caso di contratti di locazione finanziaria che non contengono un patto di retrovendita e la cui durata e' inferiore al periodo di vita utile del bene oggetto del contratto, i canoni sono ammissibili in proporzione alla durata dell'operazione ammissibile; e' onere dell'utilizzatore dimostrare che la locazione finanziaria costituisce il metodo piu' economico per acquisire l'uso del bene; nel caso in cui risulti che i costi sono inferiori utilizzando un metodo alternativo, quale la locazione semplice del bene, i costi supplementari sono detratti dalla spesa ammissibile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i canoni pagati dall'utilizzatore in forza di un contratto di vendita e conseguente retrolocazione finanziaria sono spese ammissibili ai sensi della lettera b); i costi di acquisto del bene non sono ammissibili.
 
 ## Art. 9. — Spese di assistenza tecnica
 

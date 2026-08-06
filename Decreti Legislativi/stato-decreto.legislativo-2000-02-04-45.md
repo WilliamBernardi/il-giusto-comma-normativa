@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -89,11 +89,107 @@ Le disposizioni del presente decreto si applicano alle navi da passeggeri nuove 
 
 Le Autorita' marittime provvedono affinche' le navi e le unita' veloci da passeggeri battenti bandiera di un Paese terzo siano pienamente conformi ai requisiti del presente decreto, prima di essere adibite a viaggi nazionali.
 
+3.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle seguenti navi da passeggeri: 
+ 1) navi militari e da trasporto truppe; 
+ 2) navi a vela; 
+ 3) navi senza mezzi di propulsione meccanica; 
+ 4) navi costruite in materiale non metallico o equivalente non contemplate dalle norme relative alle unita' veloci (HSC) di cui alla risoluzione MSC 36(63) e alla risoluzione MSC.97(73) ovvero unita' a sostentamento dinamico (DSC) di cui alla risoluzione A.373 (X); 
+ 5) navi in legno di costruzione primitiva; 
+ 6) navi tradizionali; 
+ 7) unita' da diporto; 
+ 8) navi che operano esclusivamente nelle aree portuali; 
+ 9) unita' di servizio off-shore; 
+ 10) imbarcazioni di servizio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle seguenti unita' veloci da passeggeri: 
+ 1) unita' militari e da trasporto truppe; 
+ 2) unita' da diporto; 
+ 3) unita' che operano esclusivamente nelle aree portuali; 
+ 4) unita' di servizio off-shore.
+
 ))
 
 ## Art. 3. — (( (Categorizzazione dei tratti di mare e classi di navi da passeggeri). ))
 
 ((
+
+1.
+                    
+                        
+                            I tratti di mare sono suddivisi nelle seguenti categorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                «tratto A»: tratto di mare al di fuori dei tratti B, C e D; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «tratto B»: tratto di mare le cui coordinate geografiche in nessun punto distano piu' di 20 miglia dalla linea di costa corrispondente all'altezza media della marea, ma che si trova al di fuori dei tratti C e D; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «tratto C»: tratto di mare le cui coordinate geografiche in nessun punto distano piu' di 5 miglia dalla linea di costa corrispondente all'altezza media della marea, ma al di fuori del tratto di mare D, se presente. Inoltre, la probabilita' di un'altezza significativa d'onda superiore a 2,5 metri e' inferiore al 10 % durante tutto l'anno in caso di attivita' di durata annua, o durante un periodo specifico in caso di attivita' stagionale, per esempio un'attivita' estiva; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «tratto D»: tratto di mare le cui coordinate geografiche in nessun punto distano piu' di 3 miglia dalla linea di costa corrispondente all'altezza media della marea e nel quale la probabilita' di un'altezza significativa d'onda superiore a 1,5 metri e' inferiore al 10 % durante tutto l'anno in caso di attivita' di durata annua, o durante un periodo specifico in caso di attivita' stagionale, per esempio un'attivita' estiva.
+
+2.
+                    
+                        
+                            Le navi da passeggeri sono suddivise nelle seguenti classi, a seconda dei tratti di mare in cui possono operare: 
+ 
+                        
+                        
+                            a)
+                            
+                                «classe A»: navi da passeggeri adibite a viaggi nazionali nei tratti A, B, C e D; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «classe B»: navi da passeggeri adibite a viaggi nazionali nei tratti B, C e D; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «classe C»: navi da passeggeri adibite a viaggi nazionali nei tratti C e D; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «classe D»: navi da passeggeri adibite a viaggi nazionali nei tratti D.
 
 Per le unita' veloci da passeggeri si applicano le categorie definite nel capitolo 1, paragrafi 1.4.10 e 1.4.11, del codice per le unita' veloci del 1994 ovvero nel capitolo 1, paragrafi 1.4.12 e 1.4.13, del codice per le unita' veloci del 2000.
 
@@ -108,6 +204,141 @@ L'Amministrazione rende disponibili le informazioni di cui al comma 4 in una ban
 ## Art. 4. — Requisiti di sicurezza
 
 Le navi da passeggeri e le unita' veloci da passeggeri nuove e esistenti, adibite a viaggi nazionali, devono essere conformi alle norme in materia di sicurezza stabilite dal presente decreto.
+
+2.
+                    
+                        
+                            Per quanto riguarda le navi da passeggeri, nuove ed esistenti, delle classi A, B, C e D: 
+ 
+                        
+                        
+                            a)
+                            
+                                i processi di costruzione e manutenzione dello scafo, dell'apparato motore principale e ausiliario, degli impianti elettrici e automatici devono essere conformi ai requisiti specificati, ai fini della classificazione, dalle norme di un organismo riconosciuto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si applicano le disposizioni del capitolo IV, e relativi emendamenti GMDSS del 1988, e dei capitoli V e VI della "SOLAS 1974"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2020, N. 43)).
+
+3.
+                    
+                        
+                            Per quanto riguarda le navi da passeggeri nuove: 
+ 
+                        
+                        
+                            a)
+                            
+                                requisiti generali: 
+ 1. le navi da passeggeri nuove di classe A devono essere pienamente conformi ai requisiti della "SOLAS 1974" e ai pertinenti requisiti specifici fissati dal presente decreto e dall'allegato I.
+Per quanto riguarda le regole la cui interpretazione e' lasciata, a norma della "SOLAS 1974", alla discrezionalita' dell'amministrazione, si applicano le interpretazioni contenute nell'allegato I; 
+ 2. le navi da passeggeri nuove delle classi B, C e D devono essere conformi ai pertinenti requisiti specifici fissati dal presente decreto e dall'allegato I; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                requisiti relativi alle linee di massimo carico: 
+ 1. le navi da passeggeri nuove di lunghezza pari o superiore a 24 metri devono essere conformi alla convenzione "LL66"; 
+ 2. ((PUNTO ABROGATO DAL D.LGS. 12 MAGGIO 2020, N. 43)); 
+ 3. in deroga a quanto previsto ((al comma 2, lettera b), punto 1)), le navi da passeggeri nuove di classe D sono esonerate dall'osservanza del requisito sull'altezza minima della prora stabilito nella convenzione "LL66", 
+ 4. le navi da passeggeri nuove dalle classi A, B, C e D sono provviste di ponte completo.
+
+4.
+                    
+                        
+                            Per quanto riguarda le navi da passeggeri esistenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                le navi da passeggeri esistenti di classe A devono essere conformi alle regole applicabili alle navi da passeggeri esistenti, definite nella "SOLAS 1974" e ai pertinenti requisiti specifici fissati dal presente decreto e dall'allegato I. Per quanto riguarda le regole la cui interpretazione e' lasciata dalla "SOLAS 1974" alla discrezionalita' dei singoli Stati, si applicano le interpretazioni contenute nell'allegato I; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le navi da passeggeri esistenti di classe B devono essere conformi ai pertinenti requisiti specifici fissati nel presente decreto e nell'allegato I; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le navi da passeggeri esistenti delle classi C e D devono essere conformi ai pertinenti requisiti specifici fissati dal presente decreto ((e dall'allegato I, con esclusione dei Capitoli II-1 e II-2)), nonche' dalla legge 5 giugno 1962, n. 616 e dal decreto del Presidente della Repubblica 8 novembre 1991, n. 435.
+Prima che le navi da passeggeri esistenti delle classi C e D battenti bandiera di altro Stato ((...)) possano essere adibite a viaggi nazionali regolari, lo Stato di bandiera deve ottenere l'accordo dell'Amministrazione sull'equivalenza del livello di sicurezza previsto dalle citate norme; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                se l'Amministrazione ritiene irragionevoli le norme imposte dall'amministrazione dello Stato di approdo a norma della lettera c), ne informa immediatamente la Commissione europea.
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2020, N. 43)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2020, N. 43)).
+
+5.
+                    
+                        
+                            Per quanto riguarda le unita' veloci da passeggeri ((...)): 
+ 
+                        
+                        
+                            a)
+                            
+                                le unita' veloci da passeggeri costruite o sottoposte a riparazioni, cambiamenti o modifiche di grande entita' dal 1° gennaio 1996, devono essere conformi ai requisiti stabiliti dalle regole X/2 e X/3 della Convenzione "SOLAS 1974" , a meno che: 
+ 1) la chiglia sia stata impostata o si trovasse ad un equivalente stadio di costruzione anteriormente al giugno 1998; 
+ 2) la consegna e la commessa siano avvenute anteriormente al dicembre 1998; 
+ 3) siano pienamente conformi ai requisiti del codice di sicurezza per le unita' a sostentamento dinamico (Code of Safety for Dynamically Supported Craft, DSC Code), di cui alla risoluzione A.373 (X) dell'IMO, ((nella versione aggiornata)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le unita' veloci da passeggeri costruite anterioriormente al 1o gennaio 1996 in base ai requisiti stabiliti dal codice per le unita' veloci continuano l'attivita' certificata a norma di tale codice; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le unita' veloci da passeggeri costruite anteriormente al 1° gennaio 1996, non conformi ai requisiti stabiliti dal codice per le unita' veloci (HSC code) e conformi ai requisiti del codice di sicurezza per le unita' a sostentamento dinamico (DSC code) possono essere ammesse a viaggi nazionali in tratti di mare italiani: 
+ 1) qualora gia' adibite a detti viaggi al 4 giugno 1998 e, 
+ 2) solo previo accordo dell'Amministrazione.
+                            
+                        
+                        
+                            d)
+                            
+                                i processi di costruzione e manutenzione delle unita' veloci da passeggeri e delle relative apparecchiature sono conformi alle norme fissate, ai fini della classificazione, da un organismo riconosciuto.
 
 ((
 
@@ -138,7 +369,27 @@ Le navi ro/ro da passeggeri ritirate dal servizio non possono operare nei tratti
 
 ## Art. 4-ter. — Requisiti di sicurezza per le persone a mobilita' ridotta
 
-) consulta e coopera con le associazioni che rappresentano le persone a mobilita' ridotta in merito all'attuazione degli orientamenti contenuti nell'allegato III.
+1.
+                    
+                        
+                            Fatto salvo quanto previsto nel decreto del Presidente della Repubblica 24 luglio 1996, n. 503, e oltre ai pertinenti requisiti di sicurezza di cui all'articolo 4, le navi da passeggeri di classe A, B, C e D e le unita' veloci da passeggeri adibite al trasporto pubblico, al fine di garantire un accesso sicuro alle persone a mobilita' ridotta, devono: 
+ 
+                        
+                        
+                            a)
+                            
+                                se la chiglia e' stata impostata o si trova a un equivalente 
+ stadio di costruzione il 1° ottobre 2004 o in data successiva, essere conformi, per quanto fattibile, agli orientamenti contenuti nell'allegato III; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se la chiglia e' stata impostata o si trova a un equivalente 
+ stadio di costruzione anteriormente al 1° ottobre 2004, procedere all'effettuazione delle necessarie modifiche applicando gli orientamenti di cui all'allegato III per quanto ragionevole e possibile, in termini economici, secondo quanto previsto nel piano d'azione nazionale di cui al comma 3.
+
+((Il Ministero delle infrastrutture e dei trasporti)) consulta e coopera con le associazioni che rappresentano le persone a mobilita' ridotta in merito all'attuazione degli orientamenti contenuti nell'allegato III.
 
 Il Ministero delle infrastrutture e dei trasporti elabora un piano d'azione nazionale per l'applicazione degli orientamenti alle navi e unita' veloci la cui chiglia e' stata impostata o si trova a un equivalente stadio di costruzione anteriormente al 1° ottobre 2004 ((...)).
 
@@ -155,6 +406,24 @@ Le verifiche della conformita' delle navi nuove e dell'adeguamento delle navi es
 ((
 
 Se l'Amministrazione, anche in concorso con altri Stati membri, ritiene che i requisiti di sicurezza applicabili devono essere migliorati in determinate situazioni a causa di specifiche circostanze locali e se tale esigenza e' debitamente comprovata, adotta le misure atte a migliorare i suddetti requisiti, applicando la procedura di cui al comma 3.
+
+2.
+                    
+                        
+                            Con decreto del Ministro delle infrastrutture e dei trasporti, applicando la procedura di cui al comma 3, possono essere adottate: 
+ 
+                        
+                        
+                            a)
+                            
+                                misure che consentono l'equivalenza a taluni requisiti specifici del presente decreto, purche' tali equivalenze siano efficaci almeno quanto i suddetti requisiti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a condizione che non ne risulti una riduzione del livello di sicurezza, misure atte a esonerare le navi dall'osservanza di taluni requisiti specifici indicati nel presente decreto, quando siano adibite, nelle acque territoriali, inclusi i tratti di mare arcipelagici riparati dagli effetti del mare aperto, a viaggi nazionali sottoposti a talune condizioni operative, quali piu' basse condizioni di altezza d'onda significativa, l'osservanza di limiti stagionali, la circostanza che la navigazione sia effettuata solo in ore diurne o in condizioni climatiche o meteorologiche favorevoli, la durata limitata dei viaggi, ovvero la vicinanza di servizi di pronto intervento.
 
 Se l'Amministrazione adotta le misure di cui ai commi 1 e 2, si attiene alle disposizioni di cui ai commi da 4 a 8.
 
@@ -179,6 +448,31 @@ L'Amministrazione, qualora ritenga che una nave da passeggeri o un'unita' veloce
 ## Art. 7. — (( (Visite). ))
 
 ((
+
+1.
+                    
+                        
+                            Le navi da passeggeri battenti bandiera italiana sono sottoposte, con le modalita' di cui al comma 3, alle seguenti visite: 
+ 
+                        
+                        
+                            a)
+                            
+                                una visita iniziale prima che la nave entri in servizio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una visita periodica ogni dodici mesi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                visite addizionali quando se ne verifichi la necessita'.
 
 Le unita' veloci da passeggeri battenti bandiera italiana, tenute a conformarsi, in base alle disposizioni dell'articolo 4, comma 5, ai requisiti del codice per le unita' veloci (HSC code) e le unita' veloci da passeggeri battenti bandiera italiana, tenute a conformarsi, in base alle disposizioni dell'articolo 4, comma 5, ai requisiti del codice di sicurezza per le unita' a sostentamento dinamico (DSC code), sono sottoposte alle visite previste dai rispettivi codici con le modalita' di cui al comma 3.
 
@@ -216,6 +510,31 @@ Sono validi il certificato di sicurezza per unita' veloci da passeggeri e l'auto
 ## Art. 8-bis. — (( (Sanzioni). ))
 
 ((
+
+1.
+                    
+                        
+                            Salvo che il fatto costituisca piu' grave reato, il comandante della nave che: 
+ 
+                        
+                        
+                            a)
+                            
+                                naviga oltre i limiti della abilitazione della nave di cui all'articolo 3, e' punito con l'arresto fino a un anno ovvero con l'ammenda fino a 1.032 euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                intraprende la navigazione in mancanza dei requisiti di sicurezza di cui all'articolo 4, e' punito con l'arresto da un mese a un anno ovvero con l'ammenda da euro 516 a euro 1.032; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                intraprende la navigazione privo dei certificati, di cui all'articolo 8, in regolare corso di validita', e' punito con l'arresto fino a un anno ovvero con l'ammenda fino a euro 1.032.
 
 Salvo che il fatto costituisca piu' grave reato, il comandante della nave, l'armatore, gli amministratori della societa' di armamento e della societa' di gestione che non ottemperano ai requisiti di sicurezza per le persone a mobilita' ridotta di cui all'articolo 4-ter, sono puniti con l'arresto da un mese a un anno ovvero con l'ammenda da euro 516 a euro 1.032.
 

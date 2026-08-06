@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-04-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -48,9 +48,73 @@ Su richiesta del Presidente del Consiglio di giustizia amministrativa, il presid
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            La Sezione consultiva del Consiglio di giustizia amministrativa e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente preposto alla Sezione consultiva, che la presiede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due consiglieri di Stato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un prefetto della Repubblica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                cinque componenti in possesso dei requisiti di cui all'articolo 106, terzo comma, della Costituzione per la nomina a consigliere di Cassazione ovvero di cui all'articolo 19, primo comma, numero 2), della legge 27 aprile 1982, n. 186.
+
 Per la validita' delle deliberazioni della Sezione consultiva occorre il voto di non meno di quattro membri della Sezione, tra cui almeno un magistrato del Consiglio di Stato. Le deliberazioni sono adottate a maggioranza. In caso di parita', prevale il voto espresso dal presidente.
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            La Sezione giurisdizionale del Consiglio di giustizia amministrativa e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente del Consiglio di giustizia amministrativa, che la presiede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il presidente assegnato alla Sezione giurisdizionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quattro consiglieri di Stato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quattro componenti in possesso dei requisiti di cui all'articolo 106, terzo comma, della Costituzione per la nomina a consigliere di Cassazione ovvero di cui all'articolo 19, primo comma, numero 2), della legge 27 aprile 1982, n. 186.
 
 Il collegio giudicante e' composto da uno dei due presidenti della Sezione, da due consiglieri di Stato e da due dei membri indicati nella lettera d) del comma 1.
 

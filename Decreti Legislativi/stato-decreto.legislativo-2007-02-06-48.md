@@ -8,8 +8,8 @@ codice_redazionale: 007G0062
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,16 +31,144 @@ A tale fine sono stabilite modalita' relative al coinvolgimento dei lavoratori i
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «SCE», una societa' cooperativa costituita ai sensi del regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «entita' giuridiche partecipanti», le societa', ai sensi dell'articolo 48 del Trattato che istituisce la Comunita' europea ivi comprese le cooperative, e gli altri enti giuridici partecipanti direttamente alla costituzione di una SCE;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «affiliata di un'entita' giuridica partecipante o di una SCE», un'impresa sulla quale l'entita' giuridica o la SCE esercita un'influenza dominante ai sensi dell'articolo 3, commi da 2 a 7, del decreto legislativo 2 aprile 2002, n. 74, ivi definita come controllata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «affiliata o succursale interessata», la controllata o la sede secondaria di una societa' o di una entita' giuridica partecipante; che e' destinata a diventare controllata o sede secondaria di una SCE a decorrere dalla creazione di quest'ultima;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «rappresentanti dei lavoratori», i rappresentanti dei lavoratori ai sensi della legge, nonche' dell'accordo interconfederale 13 settembre 1994, e successive modificazioni o dei contratti collettivi nazionali di riferimento qualora i predetti accordi interconfederali non trovino applicazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «organo di rappresentanza», l'organo di rappresentanza dei lavoratori costituito mediante gli accordi di cui all'articolo 4 o conformemente alle disposizioni dell'allegato, onde attuare l'informazione e la consultazione dei lavoratori della SCE e delle sue affiliate e succursali situate nella Comunita' e, ove applicabile, esercitare i diritti di partecipazione relativamente alla SCE;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «delegazione speciale di negoziazione», la delegazione istituita conformemente all'articolo 3 del presente decreto legislativo per negoziare con l'organo competente ai sensi del regolamento delle entita' giuridiche partecipanti, ai sensi del regolamento, le modalita' del coinvolgimento dei lavoratori nella SCE;
+
+                            
+                        
+                        
+                            h)
+                            
+                                «coinvolgimento dei lavoratori», qualsiasi meccanismo, ivi comprese l'informazione, la consultazione e la partecipazione, mediante il quale i rappresentanti dei lavoratori possono esercitare un'influenza sulle decisioni che devono essere adottate nell'ambito dell'impresa;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «informazione», l'informazione dell'organo di rappresentanza dei lavoratori ovvero dei rappresentanti dei lavoratori, da parte dell'organo competente della SCE, ai sensi del regolamento, sui problemi che riguardano la stessa SCE e qualsiasi affiliata o succursale della medesima situata in un altro Stato membro, o su questioni che eccedono i poteri degli organi decisionali di un unico Stato membro, con tempi, modalita' e contenuti che consentano all'organo di rappresentanza dei lavoratori di procedere ad una valutazione approfondita dell'eventuale impatto e, se del caso, di preparare consultazioni con l'organo competente della SCE, ai sensi del regolamento;
+
+                            
+                        
+                        
+                            l)
+                            
+                                «consultazione», l'apertura di un dialogo e di uno scambio di opinioni tra l'organo di rappresentanza dei lavoratori ovvero i rappresentanti dei lavoratori e l'organo competente della SCE, ai sensi del regolamento, con tempi, modalita' e contenuti che consentano ai rappresentanti dei lavoratori, sulla base delle informazioni da essi ricevute, di esprimere - circa le misure previste dall'organo competente - un parere di cui si puo' tenere conto nell'iter decisionale all'interno della SCE;
+
+                            
+                        
+                        
+                            m)
+                            
+                                «partecipazione», l'influenza dell'organo di rappresentanza dei lavoratori ovvero dei rappresentanti dei lavoratori nelle attivita' di un'entita' giuridica mediante, alternativamente:
+ il diritto di eleggere o designare alcuni dei membri dell'organo di vigilanza o di amministrazione dell'entita' giuridica; il diritto di indicare i nominativi di alcuni o di tutti i membri dell'organo di vigilanza o di amministrazione dell'entita' giuridica ovvero di opporvisi.
+
 ## Art. 3. — Istituzione di una delegazione speciale di negoziazione nei casi di societa' cooperativa europea costituite da almeno due entita' giuridiche o mediante trasformazione.
 
 Gli organi di direzione o di amministrazione delle entita' giuridiche partecipanti predispongono il progetto di costituzione di una SCE e prendono con tempestivita' le iniziative necessarie, comprese le informazioni da fornire circa l'identita' delle entita' giuridiche partecipanti e delle affiliate o succursali interessate, nonche' circa il numero di lavoratori, per avviare una negoziazione con i rappresentanti dei lavoratori delle entita' giuridiche sulle modalita' del coinvolgimento dei lavoratori nella SCE.
 
 A tale fine, nel rispetto dell'equilibrio di genere, e' istituita una delegazione speciale di negoziazione, rappresentativa dei lavoratori delle entita' giuridiche partecipanti e delle affiliate o succursali interessate.
 
+3.
+                    
+                        
+                            In occasione dell'elezione o della designazione dei membri della delegazione speciale di negoziazione occorre garantire che:
+ 
+                        
+                        
+                            a)
+                            
+                                tali membri siano eletti o designati in proporzione al numero dei lavoratori con contratto di lavoro subordinato in ciascuno Stato membro dalle entita' giuridiche partecipanti e dalle affiliate o succursali interessate, assegnando a ciascuno Stato membro un seggio per ogni quota, pari al 10 per cento o sua frazione, del numero dei lavoratori impiegati con contratto di lavoro subordinato nell'insieme degli Stati membri;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tra essi sia compreso almeno un rappresentante per ciascuna delle entita' giuridiche partecipanti che impiega lavoratori con contratto di lavoro subordinato nello Stato membro interessato, senza che da cio' derivi un aumento del numero complessivo dei membri della delegazione speciale di negoziazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di una SCE costituita mediante fusione, siano presenti altri membri supplementari per ogni Stato membro in misura tale da assicurare che la delegazione speciale di negoziazione annoveri almeno un rappresentante per ogni cooperativa partecipante che e' iscritta e abbia lavoratori con contratto di lavoro subordinato in tale Stato membro e della quale si propone la cessazione come entita' giuridica distinta in seguito all'iscrizione della SCE se:
+ 1) il numero di detti membri supplementari non supera il 20 per cento del numero dei membri designati in virtu' della lettera a) del presente comma;
+ 2) la composizione della delegazione speciale di negoziazione non comporta una doppia rappresentanza dei lavoratori interessati;
+ 3) se il numero di tali cooperative e' superiore a quello dei seggi supplementari disponibili di cui al punto 1), detti seggi supplementari sono attribuiti a cooperative di Stati membri diversi in ordine decrescente rispetto al numero di lavoratori ivi occupati.
+
 In fase di prima applicazione i membri della delegazione speciale di negoziazione sono eletti o designati tra i componenti delle rappresentanze sindacali (RSU/RSA) dalle rappresentanze sindacali medesime congiuntamente con le organizzazioni sindacali stipulanti gli accordi collettivi vigenti. Nella elezione o designazione si adottano le misure necessarie affinche' sia presente almeno un membro in rappresentanza di ciascuna entita' giuridica partecipante con lavoratori nello Stato membro interessato. Tali membri possono comprendere rappresentanti dei sindacati indipendentemente dal fatto che siano o non siano lavoratori di una societa' partecipante o di una affiliata o succursale interessata.
 Se, in una entita' giuridica partecipante, in una affiliata o in una succursale interessata e' assente, per motivi indipendenti dalla volonta' dei lavoratori, una preesistente forma di rappresentanza sindacale, le organizzazioni sindacali che abbiano stipulato il contratto collettivo nazionale di lavoro applicato alle entita' giuridiche partecipanti, determinano le modalita' di concorso dei lavoratori di detta entita', affiliata o succursale alla elezione o designazione dei membri della delegazione speciale di negoziazione.
 
 La delegazione speciale di negoziazione e gli organi competenti delle entita' giuridiche partecipanti determinano, tramite accordo scritto, le modalita' del coinvolgimento dei lavoratori nella SCE. A tale fine, gli organi competenti delle entita' giuridiche partecipanti informano la delegazione speciale di negoziazione del progetto e dello svolgimento del processo di costituzione della SCE, sino all'iscrizione di quest'ultima.
+
+6.
+                    
+                        
+                            Fatto salvo quanto previsto dal comma 9, la delegazione speciale di negoziazione decide a maggioranza assoluta dei suoi membri, purche' tale maggioranza rappresenti anche la maggioranza assoluta dei lavoratori. Ciascun membro dispone di un voto. Tuttavia, qualora i risultati dei negoziati portino ad una riduzione dei diritti di partecipazione, la maggioranza richiesta per decidere di approvare tale accordo e' composta dai voti di due terzi dei membri della delegazione speciale di negoziazione che rappresentino almeno due terzi dei lavoratori, compresi i voti dei membri che rappresentano i lavoratori occupati in almeno due Stati membri;
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di una SCE da costituire mediante fusione, se la partecipazione comprende almeno il 25 per cento del numero complessivo dei lavoratori delle cooperative partecipanti, o
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di una SCE da costituire in qualsiasi altro modo, se la partecipazione comprende almeno il 50 per cento del numero complessivo dei lavoratori delle entita' giuridiche partecipanti.
 
 Per riduzione dei diritti di partecipazione si intende una quota dei membri degli organi della SCE ai sensi dell'articolo 2, comma 1, lettera m), inferiore alla quota piu' elevata esistente nelle entita' giuridiche partecipanti.
 
@@ -54,6 +182,66 @@ Le spese relative al funzionamento della delegazione speciale di negoziazione e,
 ## Art. 4. — Contenuto dell'accordo
 
 Gli organi competenti delle entita' giuridiche partecipanti e la delegazione speciale di negoziazione negoziano con spirito di cooperazione per raggiungere un accordo sulle modalita' del coinvolgimento dei lavoratori nella societa' cooperativa europea.
+
+2.
+                    
+                        
+                            Fatta salva l'autonomia delle parti e salvo quanto previsto dal comma 4 l'accordo stipulato tra gli organi competenti delle entita' giuridiche partecipanti e la delegazione speciale di negoziazione, determina:
+ 
+                        
+                        
+                            a)
+                            
+                                il campo d'applicazione dell'accordo stesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la composizione, il numero di membri e la distribuzione dei seggi dell'organo di rappresentanza che sara' l'interlocutore degli organi competenti della SCE nel quadro dei dispositivi di informazione e di consultazione dei lavoratori di quest'ultima e delle sue affiliate e succursali interessate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le attribuzioni e la procedura prevista per l'informazione e la consultazione dell'organo di rappresentanza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la frequenza delle riunioni dell'organo di rappresentanza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le risorse finanziarie e materiali da attribuire all'organo di rappresentanza. In particolare, salvo che non sia diversamente convenuto, la SCE sostiene le spese di cui all'allegato, parte seconda, lettera n);
+
+                            
+                        
+                        
+                            f)
+                            
+                                se, durante i negoziati, le parti decidono di istituire una o piu' procedure per l'informazione e la consultazione anziche' un organo di rappresentanza, le modalita' di attuazione di tali procedure;
+
+                            
+                        
+                        
+                            g)
+                            
+                                nel caso in cui, durante i negoziati, le parti decidano di stabilire modalita' per la partecipazione dei lavoratori, il merito di tali modalita' compresi, a seconda dei casi, il numero di membri dell'organo di amministrazione o di vigilanza della SCE che i lavoratori saranno autorizzati ad eleggere, designare, raccomandare o alla cui designazione potranno opporsi, le procedure per tale elezione, designazione, raccomandazione o opposizione da parte dei lavoratori, nonche' i loro diritti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la data di entrata in vigore dell'accordo, la durata, i casi in cui l'accordo deve essere rinegoziato e la procedura per rinegoziarlo, compreso, ove opportuno, nel caso di modifiche strutturali intervenute nella SCE e nelle sue affiliate e succursali interessate in seguito alla creazione della SCE.
 
 L'accordo non e' soggetto, salvo disposizione contraria in esso contenuta, alle disposizioni di riferimento che figurano nell'allegato.
 
@@ -73,17 +261,112 @@ La normativa applicabile alla procedura di negoziazione di cui agli articoli 3, 
 
 ## Art. 7. — Disposizioni di riferimento
 
+1.
+                    
+                        
+                            Le disposizioni di riferimento previste dall'allegato trovano applicazione dalla data di iscrizione della SCE nel registro delle imprese:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora le parti abbiano deciso nel corso dei negoziati di avvalersi di tali disposizioni ai fini della definizione delle forme di coinvolgimento dei lavoratori nella costituenda SCE;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora non sia stato concluso alcun accordo entro il termine di cui all'articolo 5, e
+ 1) l'organo competente ai sensi del regolamento di ciascuna delle entita' giuridiche partecipanti decida di accettare l'applicazione delle disposizioni di riferimento alla SCE e di proseguire quindi con l'iscrizione della societa' cooperativa europea, e
+ 2) la delegazione speciale di negoziazione non abbia preso la decisione di cui all'articolo 3, comma 9, di non aprire i negoziati o di porre termine ai negoziati in corso e di avvalersi delle norme in materia di consultazione ed informazione dei lavoratori vigenti in Italia e negli altri Stati membri in cui la SCE annovera lavoratori.
+
+2.
+                    
+                        
+                            Le disposizioni di riferimento stabilite dalla legislazione dello Stato membro di iscrizione ai sensi della Parte terza dell'allegato si applicano soltanto nel caso:
+ 
+                        
+                        
+                            a)
+                            
+                                di una SCE costituita mediante trasformazione, le norme vigenti in uno Stato membro in materia di partecipazione dei lavoratori all'organo di amministrazione o di vigilanza si applichino ad una cooperativa trasformata in SCE;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di una SCE costituita mediante fusione:
+ 1) anteriormente all'iscrizione della societa' cooperativa europea, esista presso una o piu' delle sue cooperative partecipanti una o piu' delle forme di partecipazione comprendente almeno il 25 per cento del numero complessivo di tutti i lavoratori delle entita' giuridiche partecipanti;
+ 2) anteriormente all'iscrizione della SCE, esista presso una o piu' delle sue cooperative partecipanti una o piu' delle forme di partecipazione comprendente meno del 25 per cento del numero complessivo di tutti i lavoratori impiegati con contratto di lavoro subordinato dalle entita' giuridiche partecipanti e la delegazione speciale di negoziazione decida in tale senso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di una SCE costituita in qualsiasi altro modo:
+ 1) anteriormente all'iscrizione della SCE, esista presso una o piu' delle sue entita' giuridiche partecipanti una o piu' delle forme di partecipazione comprendente almeno il 50 per cento del numero complessivo di tutti i lavoratori impiegati con contratto di lavoro subordinato dalle entita' giuridiche partecipanti;
+ 2) anteriormente all'iscrizione della SCE, esista presso una o piu' delle sue entita' giuridiche partecipanti una o piu' delle forme di partecipazione comprendente meno del 50 per cento del numero complessivo di tutti lavoratori impiegati con contratto di lavoro subordinato dalle entita' giuridiche partecipanti e la delegazione speciale di negoziazione decida in tale senso.
+
 Se presso le diverse entita' giuridiche partecipanti esisteva piu' di una forma di partecipazione, la delegazione speciale di negoziazione decide quale viene introdotta nella SCE. In caso di mancata decisione si applica la disciplina di cui al comma 2. La delegazione speciale di negoziazione informa l'organo competente di cui al regolamento della decisione adottata ai sensi del presente comma e del comma 2.
 
 ## Art. 8. — Procedure per la costituzione della delegazione speciale di negoziazione applicabili alle SCE costituite esclusivamente da persone fisiche o da una sola entita' giuridica e da persone fisiche.
 
 Nel caso di una SCE costituita esclusivamente da persone fisiche ovvero da una sola entita' giuridica e da persone fisiche che impiegano, nel loro insieme, almeno 50 lavoratori in almeno due Stati membri, si applicano le disposizioni di cui agli articoli da 3 a 7.
 
+2.
+                    
+                        
+                            Nel caso di una SCE costituita esclusivamente da persone fisiche ovvero da una sola entita' giuridica e da persone fisiche che impiegano, nel loro insieme, meno di 50 lavoratori, o che impiegano 50 o piu' lavoratori in un solo Stato membro, il coinvolgimento dei lavoratori e' disciplinato dalle seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nella SCE stessa, si applicano le disposizioni dello Stato membro della sede sociale della SCE, applicabili ad altre entita' dello stesso tipo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle sue affiliate e succursali, si applicano le disposizioni dello Stato membro in cui esse sono situate, applicabili ad altre entita' dello stesso tipo.
+
 In caso di trasferimento in un altro Stato membro della sede sociale di una SCE soggetta a disposizioni per la partecipazione, continuano ad essere applicabili diritti in materia di partecipazione dei lavoratori di livello quantomeno equivalente.
 
 Se, dopo l'iscrizione di una SCE di cui al comma 2, almeno un terzo del numero totale dei lavoratori della SCE e delle affiliate e succursali in almeno due diversi Stati membri lo richiede, o se il numero totale di lavoratori raggiunge o supera 50 lavoratori in almeno due Stati membri, si applicano, le disposizioni di cui agli articoli da 3 a 7. In tale caso i termini: «entita' giuridiche partecipanti» e: «di affiliate o sedi interessate» sono sostituiti, rispettivamente, dai seguenti: «SCE» e: «affiliate o succursali della SCE».
 
 ## Art. 9. — Partecipazione alle assemblee generali o alle assemblee separate o settoriali
+
+1.
+                    
+                        
+                            Fatti salvi i limiti previsti dall'articolo 59, paragrafo 4, del regolamento, i lavoratori della SCE ovvero i loro rappresentanti sono ammessi a partecipare alle assemblee generali o, se esistono, alle assemblee separate o settoriali con diritto di voto nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                quando le parti convengono in tale senso nell'accordo di cui all'articolo 4 del presente decreto legislativo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando una cooperativa disciplinata da un sistema secondo cui i lavoratori ovvero i loro rappresentanti erano ammessi a partecipare alle assemblee generali o, se esistevano, alle assemblee separate o settoriali con diritto di voto si trasforma in una SCE;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando, nel caso di una SCE non costituita mediante trasformazione, una cooperativa partecipante era disciplinata da un sistema secondo cui i lavoratori ovvero i loro rappresentanti erano ammessi a partecipare alle assemblee generali o, se esistevano, alle assemblee separate o settoriali con diritto di voto:
+ 1) le parti non giungono all'accordo di cui all'articolo 4 entro i termini stabiliti dal successivo articolo 5 del presente decreto legislativo;
+ 2) si applicano l'articolo 7, comma 1, lettera b), e la Parte terza dell'allegato del presente decreto legislativo;
+ 3) la cooperativa partecipante disciplinata da un sistema secondo cui i lavoratori ovvero i loro rappresentanti erano ammessi a partecipare alle assemblee generali o, se esistevano, alle assemblee separate o settoriali con diritto di voto ha la piu' alta quota di partecipazione presente nelle cooperative partecipanti interessate prima dell'iscrizione della SCE, ai sensi dell'articolo 2, lettera m).
 
 ## Art. 10. — Segreto e riservatezza
 
@@ -92,6 +375,31 @@ I membri della delegazione speciale di negoziazione o dell'organo di rappresenta
 L'organo di vigilanza o di amministrazione della SCE o della entita' giuridica partecipante situata in territorio italiano non e' obbligato a comunicare informazioni che, per comprovate esigenze tecniche, organizzative e produttive, siano di natura tale da creare notevoli difficolta' al funzionamento della SCE, o eventualmente della entita' giuridica partecipante o delle sue affiliate e succursali interessate, o da arrecare loro danno.
 
 Le parti prevedono la costituzione di una commissione di conciliazione per le contestazioni relative alla natura riservata delle notizie fornite e qualificate come tali, nonche' per la concreta determinazione dei criteri obiettivi per l'individuazione delle informazioni suscettibili di creare notevoli difficolta' al funzionamento o all'attivita' esercitata dalle imprese affiliate e dipendenze o di arrecare loro danno.
+
+4.
+                    
+                        
+                            La commissione e' composta da tre membri rispettivamente designati:
+ 
+                        
+                        
+                            a)
+                            
+                                dall'organo di rappresentanza o dai rappresentanti dei lavoratori che operano nell'ambito della procedura di informazione e consultazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dagli organi di direzione o di amministrazione delle societa' partecipanti della societa' europea;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle parti di comune accordo.
 
 In caso di mancato accordo sulla designazione del terzo membro di cui alla lettera c) del comma 4, quest'ultimo e' sorteggiato tra i nominativi compresi in un'apposita lista di nomi, non superiore a sei, preventivamente concordata.
 
@@ -139,6 +447,24 @@ Qualora la societa' cooperativa europea sia una impresa di dimensioni comunitari
 Qualora, conformemente all'articolo 3, comma 9, la delegazione speciale di negoziazione decida di non avviare i negoziati o di porre termine a quelli gia' iniziati, si applicano le disposizioni contenute nel decreto legislativo 2 aprile 2002, n. 74.
 
 Le disposizioni in materia di partecipazione dei lavoratori agli organismi societari previste dalla normativa, dagli accordi collettivi vigenti ovvero dagli atti costitutivi e dagli statuti societari diverse da quelle del presente decreto legislativo, non si applicano alle SCE costituite conformemente al regolamento, relativo allo statuto della Societa' cooperativa europea (SCE) e al presente decreto legislativo.
+
+3.
+                    
+                        
+                            Il presente decreto legislativo non pregiudica:
+ 
+                        
+                        
+                            a)
+                            
+                                i diritti esistenti in materia di coinvolgimento dei lavoratori, previsti dalla normativa e dagli accordi collettivi vigenti ovvero dagli atti costitutivi e dagli statuti societari, diversi da quelli del presente decreto legislativo, di cui godono i lavoratori della SCE e delle sue affiliate e succursali interessate, diversi dalla partecipazione agli organi della SCE;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le disposizioni in materia di partecipazione agli organi previste dalla legge e dagli accordi collettivi vigenti ovvero dagli atti costitutivi societari diverse da quelle del presente decreto legislativo di cui sono destinatarie le affiliate della SCE.
 
 ## Art. 16. — Oneri finanziari
 

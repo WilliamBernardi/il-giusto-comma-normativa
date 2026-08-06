@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2021-10-29;212
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,45 @@ Sono ammessi a partecipare al concorso di cui all'articolo 1 i candidati in poss
 I limiti di eta' per la partecipazione ai concorsi sono stabiliti in conformita' all'articolo 28 della legge 4 novembre 2010, n. 183 sull'accesso nei Gruppi Sportivi militari e di Stato.
 
 Il bando di concorso indica specificamente le discipline sportive e le specialita' di tali discipline per le quali sono messi a concorso i relativi posti, nonche' la categoria di disabilita' richiesta ai candidati, secondo le classificazioni funzionali e in base alla disciplina sportiva praticata, tenendo conto delle determinazioni adottate dall'I.P.C. (International Paralympic Committee) e dalle Federazioni sportive di riferimento.
+
+4.
+                    
+                        
+                            Il concorso e' indetto con decreto del capo del Dipartimento dell'Amministrazione penitenziaria, a seguito di proposta di assunzione formulata dal Responsabile del gruppo sportivo «Fiamme Azzurre», che specifica le discipline sportive, le relative specialita' e le categorie di disabilita'. Il bando indica altresi': 
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso, nel limite della riserva prevista dall'articolo 43, comma 3, del decreto legislativo 28 febbraio 2021, n. 36; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di presentazione delle domande di partecipazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le categorie dei titoli ammessi a valutazione e i punteggi massimi attribuibili a ciascuno di essi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ogni altra prescrizione o notizia utile all'espletamento del concorso.
 
 L'accertamento dei requisiti psico-fisici e attitudinali richiesti avviene con le modalita' individuate dal titolo IV del decreto legislativo 30 ottobre 1992, n. 443.
 

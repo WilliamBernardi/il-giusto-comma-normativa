@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -51,10 +51,109 @@ In attuazione dell'articolo 2, paragrafo 2, del regolamento, le disposizioni del
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni del regolamento e le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «malattie elencate»: malattie elencate conformemente all'articolo 5, paragrafo 1, del regolamento, e malattie individuate ai sensi dell'articolo 1, comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «malattia di categoria A»: una malattia elencata che normalmente non si manifesta nell'Unione europea e per la quale devono essere adottate misure di eradicazione immediata non appena viene rilevata, come indicato all'articolo 9, paragrafo 1, lettera a), del regolamento, secondo quanto riportato nella tabella di cui all'allegato al regolamento (UE) 2018/1882; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «malattia di categoria B»: una malattia elencata che deve essere controllata in tutti gli Stati membri con l'obiettivo di eradicarla in tutta l'Unione europea, come indicato all'articolo 9, paragrafo 1, lettera b), del regolamento, secondo quanto riportato nella tabella di cui all'allegato al regolamento (UE) 2018/1882; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «malattia di categoria C»: una malattia elencata che e' rilevante per alcuni Stati membri e per la quale sono necessarie misure per impedirne la diffusione in parti dell'Unione europea che sono ufficialmente indenni da malattia o che hanno programmi di eradicazione per la malattia elencata in questione, di cui all'articolo 9, paragrafo 1, lettera c), del regolamento secondo quanto riportato nella tabella di cui all'allegato al regolamento (UE) 2018/1882; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «malattia di categoria D»: una malattia elencata per la quale sono necessarie misure per evitarne la diffusione a causa del suo ingresso nell'Unione europea o dei movimenti tra Stati membri, di cui all'articolo 9, paragrafo 1, lettera d), del regolamento, secondo quanto riportato nella tabella di cui all'allegato al regolamento (UE) 2018/1882; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «malattia di categoria E»: una malattia elencata per la quale e' necessaria la sorveglianza all'interno dell'Unione europea, di cui all'articolo 9, paragrafo 1, lettera e), del regolamento, secondo quanto riportato nella tabella di cui all'allegato al regolamento (UE) 2018/1882; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «pertinenti persone fisiche o giuridiche»: persone fisiche e giuridiche diverse dagli operatori che a qualsiasi titolo, anche per un breve periodo, sono responsabili di animali, inclusi i veterinari, i professionisti della sanita' degli animali acquatici, i professionisti degli animali, i proprietari e i detentori degli animali da compagnia; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «professionista degli animali»: una persona fisica o giuridica che di professione si occupa di animali o di prodotti, diversa dagli operatori o dai medici veterinari; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «operatore»: qualsiasi persona fisica o giuridica responsabile di animali o prodotti, anche per un periodo limitato, eccetto i detentori di animali da compagnia e i veterinari; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «trasportatore»: un operatore che trasporta animali per proprio conto o per conto terzi; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per «ambulatori o cliniche veterinarie» di cui all'articolo 4, paragrafo 1, punto 27), lettera b), del regolamento, si intendono le strutture medico veterinarie elencate nell'accordo tra il Ministro della salute, le regioni e le Province autonome di Trento e di Bolzano del 26 novembre 2003, pubblicato nel Supplemento ordinario n. 195 alla Gazzetta Ufficiale n. 297 del 23 dicembre 2003.
+
 ## Art. 3.
 
 Autorita' competenti 
  e autorita' veterinaria centrale
+
+1.
+                    
+                        
+                            Fatto salvo quanto previsto dall'articolo 2, comma 1, lettere c) ed e), del decreto legislativo 2 febbraio 2021, n. 27, il Ministero della salute e' l'autorita' veterinaria centrale responsabile, ai sensi dell'articolo 4, punto 55), del regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                dell'organizzazione e del coordinamento dei controlli ufficiali e delle altre attivita' ufficiali in materia di salute animale e benessere animale in conformita' al regolamento (UE) 2017/625; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                del coordinamento delle altre autorita' competenti per le attivita' di programmazione ed esecuzione dei controlli ufficiali e delle altre attivita' ufficiali concernenti la prevenzione e il controllo delle malattie animali trasmissibili agli animali o all'uomo e per l'attuazione delle disposizioni di cui al regolamento e ai successivi regolamenti europei delegati e di esecuzione.
 
 Il Ministero della difesa e' l'autorita' competente per l'applicazione delle disposizioni del regolamento nelle strutture delle Forze armate, comprese quelle connesse con le attivita' dei contingenti impiegati nelle missioni internazionali e assicura la tempestiva comunicazione di ogni sospetto o conferma delle malattie elencate nonche' delle misure adottate al Ministero della salute al fine di consentire l'adempimento degli obblighi di notifica di cui all'articolo 7.
 
@@ -63,6 +162,24 @@ Nell'attuazione delle norme di cui al regolamento e al presente decreto e' fatto
 ## Art. 4.
 
 Organizzazione delle autorita' competenti
+
+1.
+                    
+                        
+                            Il Ministero della salute, le regioni e le Province autonome di Trento e di Bolzano, per l'applicazione uniforme sul territorio nazionale delle misure di emergenza di cui agli articoli 257 e 258, del regolamento, si avvalgono: 
+ 
+                        
+                        
+                            a)
+                            
+                                del Centro nazionale di lotta ed emergenza contro le malattie animali di cui all'articolo 5, del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di una rete veterinaria nazionale costituita dai responsabili dei servizi veterinari regionali e delle Province autonome di Trento e di Bolzano coordinata dal Capo servizi veterinari, delegato italiano presso l'Organizzazione mondiale per la sanita' animale (OIE), di cui all'articolo 2 del decreto del Presidente del Consiglio dei ministri 11 febbraio 2014, n. 59, che garantisce, in caso di rischio per la sanita' animale e la salute pubblica, un processo decisionale e gestionale rapido ed efficace a livello centrale, regionale e locale mediante l'attivazione delle unita' di crisi ai tre diversi livelli.
 
 Ai fini dell'attuazione del presente decreto, le regioni e le Province autonome di Trento e di Bolzano, entro sei mesi dalla data di entrata in vigore del presente decreto, attribuiscono la funzione di responsabile del servizio veterinario regionale e delle Province autonome di Trento e di Bolzano a un veterinario operante all'interno del medesimo servizio veterinario.
 
@@ -78,9 +195,227 @@ Il Centro nazionale di lotta ed emergenza contro le malattie animali (di seguito
 
 Il Centro nazionale assicura l'attuazione delle disposizioni di cui all'articolo 43, del regolamento, per quanto attiene l'elaborazione dei piani di emergenza e i relativi aggiornamenti, nonche' l'individuazione delle misure in caso di pericolo per la salute degli animali e la salute pubblica.
 
+3.
+                    
+                        
+                            Il Centro nazionale e' presieduto dal Capo dei servizi veterinari (di seguito «CVO»), istituito dall'articolo 2 del decreto del Presidente del Consiglio dei ministri 11 febbraio 2014, n. 59 o da suo delegato, e si articola: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella Direzione strategica permanente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella Unita' centrale di crisi (UCC); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei Gruppi operativi di esperti di cui all'articolo 43, paragrafo 2, lettera d), punto iii), del regolamento, (di seguito Gruppi).
+
+4.
+                    
+                        
+                            La Direzione strategica permanente e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il CVO con funzione di presidente o come suo delegato il direttore dell'ufficio di sanita' animale della competente Direzione generale del Ministero della salute; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore della Direzione generale della sanita' animale e dei farmaci veterinari del Ministero della salute, ove diverso dal CVO; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rete dei responsabili dei servizi veterinari regionali e delle Province autonome di Trento e di Bolzano; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il direttore del Centro di Referenza Nazionale per l'Epidemiologia Veterinaria, la Programmazione, l'Informazione e l'Analisi del Rischio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un componente indicato dalla Federazione nazionale degli ordini dei veterinari italiani (FNOVI); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il direttore dell'Ufficio della Sanita' animale e gestione operativa del Centro nazionale di lotta ed emergenza contro le malattie animali e unita' centrale di crisi della Direzione generale della sanita' animale e dei farmaci veterinari del Ministero della salute.
+
+5.
+                    
+                        
+                            La Direzione strategica si riunisce almeno una volta l'anno e comunque ogni qual volta uno dei componenti ne faccia motivata richiesta al CVO e assolve, tra l'altro, ai seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                definisce gli obiettivi e le strategie di prevenzione, controllo ed eradicazione delle malattie animali nell'intero territorio nazionale inclusa l'adozione dei programmi facoltativi di sorveglianza ed eradicazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce i piani di emergenza nazionali e gli eventuali manuali operativi, di cui all'articolo 43, paragrafo 2, del regolamento e le tempistiche di redazione e degli aggiornamenti.
+Stabilisce altresi' i criteri del monitoraggio della implementazione del piano di emergenza nazionale sul territorio nazionale, i criteri per le strategie vaccinali e i criteri per la pianificazione degli esercizi di simulazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone al direttore generale della sanita' animale e dei farmaci veterinari del Ministero della salute le misure di emergenza da adottare in conformita' agli articoli 257, 258, 260 e 262, del regolamento.
+
 L'Unita' centrale di crisi (UCC) assicura il coordinamento della gestione degli interventi e delle misure sanitarie sull'intero territorio nazionale in caso di insorgenza di una malattia di categoria A o di una malattia emergente di cui all'articolo 6 del regolamento.
 
+7.
+                    
+                        
+                            L'Unita' centrale di crisi (UCC) e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il CVO, con funzioni di presidente o come suo delegato il direttore dell'Ufficio di sanita' animale della competente Direzione generale del Ministero della salute; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore della Direzione generale della sanita' animale e dei farmaci veterinari del Ministero della salute, ove diverso dal CVO; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il direttore dell'Ufficio di sanita' animale della Direzione generale della sanita' animale e dei farmaci veterinari del Ministero della salute; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                
+                                    ((un rappresentante della Direzione generale dell'igiene e della sicurezza alimentare e un rappresentante della Direzione generale dei corretti stili di vita e dei rapporti con l'ecosistema del Ministero della salute;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                il direttore del Laboratorio nazionale di referenza per la malattia di volta in volta interessata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il direttore del Centro di Referenza Nazionale per l'Epidemiologia Veterinaria, la Programmazione, l'Informazione e l'Analisi del Rischio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il responsabile del servizio veterinario della regione o provincia autonoma il cui assessore alla salute e' il coordinatore della Commissione salute della Conferenza delle regioni e Province autonome di Trento e di Bolzano; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il responsabile o i responsabili dei servizi veterinari delle regioni o Province autonome di Trento e di Bolzano interessate di volta in volta dalla malattia o dalla situazione di emergenza; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante designato dal Ministero delle politiche agricole, alimentari e forestali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante designato dal Ministero della transizione ecologica; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il Comandante dei Carabinieri per la tutela della salute; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante della struttura organizzativa della Sanita' militare di cui all'articolo 188, comma 1, lettera a), del decreto legislativo 15 marzo 2010, n. 66.
+
 La composizione dell'UCC puo' essere integrata di volta in volta, su indicazione del Presidente, con rappresentanti istituzionali, con esponenti di categoria o con esperti del mondo scientifico e accademico. Nel caso di adozione di misure di controllo supplementari di cui all'articolo 71 del regolamento, l'UCC e' integrata con uno o piu' rappresentanti delle associazioni di categoria interessate.
+
+9.
+                    
+                        
+                            L'UCC e' convocata dal CVO direttamente o su richiesta motivata del responsabile dei servizi veterinari regionali della regione o della provincia autonoma il cui assessore alla salute e' il coordinatore della Commissione salute della Conferenza delle regioni e Province autonome e ha, tra l'altro, i seguenti compiti, fatto salvo quanto gia' previsto nei piani di emergenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione delle misure di sanita' animale in fase di emergenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuazione delle modalita' per l'acquisizione, lo stoccaggio e la distribuzione di sieri, vaccini, antigeni e reagenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordinamento delle unita' di crisi territoriali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definizione, in collaborazione con i laboratori ufficiali e i centri di referenza, dei flussi informativi necessari al controllo dell'emergenza.
 
 L'UCC assicura il raccordo tecnico-operativo con le analoghe strutture a livello regionale (UCR) e locale (UCL).
 
@@ -102,7 +437,43 @@ Ai componenti del Centro nazionale non spettano compensi, gettoni di presenza, r
 
 Notifica e comunicazione delle malattie alla autorita' competente
 
+1.
+                    
+                        
+                            In attuazione dell'articolo 18, paragrafo 1, lettere a) e b), del regolamento, l'operatore e le altre pertinenti persone fisiche e giuridiche notificano al servizio veterinario della azienda sanitaria locale competente per territorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                immediatamente il sospetto della presenza di una delle malattie di categoria A o di malattia emergente di cui all'articolo 6 del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tempestivamente, e comunque non oltre le dodici ore, il sospetto della presenza di una delle malattie elencate come definite ai sensi dell'articolo 2, comma 1, del presente decreto, diverse da quelle di categoria A.
+
 La notifica di cui al comma 1 deve contenere almeno le informazioni di cui all'allegato 1 che forma parte integrante del presente decreto ed e' effettuata tramite posta elettronica o posta certificata e, esclusivamente laddove tali modalita' non siano attivabili, attraverso notifica scritta consegnata a mano, e puo' essere anticipata a mezzo telefono. Il servizio veterinario dell'azienda sanitaria locale competente per territorio che riceve la notifica ne garantisce la tracciabilita'.
+
+3.
+                    
+                        
+                            Il veterinario ufficiale della azienda sanitaria locale competente per territorio che riceve la notifica di cui al comma 1, verifica la fondatezza del caso sospetto ai sensi dell'articolo 9, comma 1, del regolamento (UE) 2020/689, mette in atto tutte le misure per confermare o meno la presenza della malattia e provvede direttamente o per il tramite del Servizio veterinario regionale competente, a inserire nel Sistema Informativo Malattie Animali Nazionale (SIMAN) le informazioni riguardanti gli elementi di cui all'allegato 1, del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                immediatamente in caso di sospetto di malattie di categoria A; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tempestivamente e comunque non oltre le 24 ore in caso di sospetto di malattie diverse da quelle di categoria A.
 
 Nel caso in cui la malattia venga confermata ai sensi dell'articolo 9, paragrafo 2, del regolamento (UE) 2020/689, il veterinario ufficiale della azienda sanitaria locale competente per territorio inserisce, direttamente o per il tramite del Servizio veterinario regionale, le informazioni previste nel sistema SIMAN secondo le medesime tempistiche di cui al comma 3.
 
@@ -128,6 +499,58 @@ L'unita' territoriale minima di riferimento per le notifiche e comunicazioni all
 ## Art. 8.
 
 Delega di attivita' a medici veterinari non ufficiali da parte dell'autorita' competente
+
+1.
+                    
+                        
+                            In attuazione dell'articolo 14, del regolamento, le aziende sanitarie locali previa autorizzazione della regione o delle Province autonome di Trento e di Bolzano territorialmente competenti possono delegare a medici veterinari non ufficiali le seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                l'applicazione pratica di misure previste dai programmi di eradicazione di cui all'articolo 13, del presente decreto ivi compreso il supporto all'autorita' competente per l'attuazione dei suddetti programmi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esecuzione della vaccinazione di emergenza in conformita' all'articolo 69, del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((il rilascio e la compilazione)) dei documenti di identificazione per gli animali da compagnia di cui all'articolo 247, lettera c), all'articolo 248, paragrafo 2, lettera c), del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((l'applicazione e l'utilizzo)) dei mezzi di identificazione di cui all'articolo 252, paragrafo 1, lettera a), punto ii), del regolamento.
+
+2.
+                    
+                        
+                            Il Ministero della salute, con decreto direttoriale, in particolari situazioni di emergenza nazionale o di eccezionale criticita', su proposta della Direzione strategica del Centro nazionale puo' autorizzare le regioni e le Province autonome a delegare a medici veterinari non ufficiali le seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                campionamento e esecuzione di indagini e inchieste epidemiologiche nel contesto dell'articolo 54, dell'articolo 55, paragrafo 1, lettere da
+                            
+                        
+                        
+                            b)
+                            
+                                a g), e degli articoli 57, 73, 74, 79 e 80, del regolamento, nel caso di sospetta presenza di una malattia e della eventuale adozione degli atti di esecuzione o atti delegati adottati a norma dei citati articoli; 
+ b) relative a misure di controllo delle malattie in caso di insorgenza di malattia, per quanto riguarda le attivita' elencate agli articoli 61, 65, paragrafo 1, lettere a), b), e), f), e i), 70, paragrafo 1, 79, 80, 81, paragrafo 1, lettere a) e b), e 82 del regolamento, e negli eventuali atti di esecuzione o atti delegati adottati a norma dei citati articoli.
 
 Con accordo sancito dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, da adottarsi entro dodici mesi dalla data di entrata in vigore del presente decreto, sono definite, fermo restando l'equilibrio di bilancio, le procedure per l'attribuzione delle deleghe di cui ai commi 1 e 2 che devono rispettare almeno le condizioni di cui agli articoli da 28 a 33, del Regolamento (UE) 2017/625.
 
@@ -164,9 +587,60 @@ Gli operatori tengono traccia delle informazioni e dei dati, inclusi gli esiti d
 
 L'operatore, ove lo ritenga necessario in funzione della propria organizzazione aziendale, puo' incaricare piu' di un veterinario incaricato o aziendale, definendo formalmente i compiti assegnati a ciascuno, informandone l'autorita' competente nel rispetto di quanto previsto dal decreto del Ministro della salute 7 dicembre 2017 pubblicato nella Gazzetta Ufficiale n. 29 del 5 febbraio 2018.
 
+3.
+                    
+                        
+                            Entro ventiquattro mesi dalla data di entrata in vigore del presente decreto, il Ministro della salute con proprio decreto, previo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, definisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                le check list informatizzate per l'individuazione delle informazioni e dei dati di cui al comma 2 che devono essere inseriti nel sistema «ClassyFarm.it»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' operative e le frequenze minime sulla base del rischio per l'esecuzione delle visite di sanita' animale di cui all'articolo 25, del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli strumenti, le modalita' e le procedure per l'inserimento delle informazioni di cui al presente articolo, incluso l'utilizzo degli esiti delle visite di sanita' animale e per la categorizzazione degli stabilimenti in base al rischio; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                
+                                    ((i compiti, i requisiti e le responsabilita' dei veterinari individuati al comma 1 per l'attuazione delle disposizioni concernenti gli obblighi di sorveglianza degli operatori e le visite di sanita' animale di cui al presente articolo.))
+
 In deroga alle disposizioni di cui al comma 1, gli operatori nel caso in cui non siano ancora disponibili nel sistema «ClassyFarm.it», le apposite funzionalita' informatiche per la tipologia di stabilimento di cui sono responsabili, adempiono agli obblighi del presente articolo tenendo in modalita' elettronica o cartacea, per cinque anni, la documentazione riguardante almeno le informazioni di cui all'allegato 3 del presente decreto e gli esiti delle visite di sanita' animale; i medesimi operatori mettono a disposizione dell'autorita' competente tali informazioni e dati, su richiesta e comunque nell'ambito delle attivita' di controllo ufficiale.
 
 Gli stabilimenti posti sotto la responsabilita' degli operatori di cui al comma 4 sono categorizzati esclusivamente sulla base delle informazioni e dei dati acquisiti dall'autorita' competente nell'ambito dello svolgimento dei controlli ufficiali e delle altre attivita' ufficiali o, comunque, presenti nel sistema informativo «Vetinfo.it».
+
+6.
+                    
+                        
+                            Al fine di consentire alle autorita' competenti di acquisire dati e informazioni risultanti dalla somministrazione di ogni tipo di medicinale veterinario all'animale, confluiscono nell'applicativo REV (Ricetta Elettronica Veterinaria), istituito ai sensi dell'articolo 3 della legge 20 novembre 2017, n. 167, secondo le modalita' operative di cui al decreto del Ministro della salute 8 febbraio 2019, pubblicato nella Gazzetta Ufficiale n. 89 del 15 aprile 2019: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati relativi ai medicinali contenenti sostanze stupefacenti e psicotrope incluse nelle sezioni B, C, D ed E della tabella dei medicinali di cui all'articolo 14 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, incluse le richieste di cui all'articolo 42 del medesimo decreto del Presidente della Repubblica, per l'acquisto da parte dei medici veterinari di medicinali a base di sostanze stupefacenti o psicotrope compresi nella tabella dei medicinali, sezioni A, B e C; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati derivanti dalla somministrazione del medicinale veterinario presente nelle scorte, compresa l'indicazione relativa a specie e categoria dell'animale o dei gruppi di animali sottoposti a trattamento.
 
 I dati relativi alla prescrizione e all'uso dei medicinali veterinari, dei mangimi medicati e dei prodotti intermedi per ogni animale o gruppo di animali sono automaticamente acquisiti nel sistema informativo previsto dal decreto del Ministro della salute 7 dicembre 2017, pubblicato nella Gazzetta Ufficiale n. 29 del 5 febbraio 2018.
 
@@ -176,7 +650,64 @@ Sorveglianza dell'autorita' competente
 
 In attuazione degli articoli 26 e 27, del regolamento, e tenuto conto di quanto previsto dagli articoli 3, 4, 5 e 6, del regolamento (UE) 2020/689, il Ministero della salute, con decreto direttoriale, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato e le regioni e le Province autonome di Trento e di Bolzano, puo' individuare modalita' uniformi per l'organizzazione e l'attuazione della sorveglianza finalizzata alla tempestiva rilevazione delle malattie di cui all'articolo 5 del regolamento, e delle malattie emergenti.
 
+2.
+                    
+                        
+                            Per la finalita' di cui al comma 1, il Ministero della salute, le regioni e le Province autonome di Trento e di Bolzano tengono conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                degli esiti dei controlli ufficiali e delle altre attivita' ufficiali di cui all'articolo 2 del regolamento (UE) 2017/625, nei settori di cui all'articolo 7, paragrafo 1, del regolamento (UE) 2020/689; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei dati e delle informazioni della sorveglianza condotta dagli operatori in conformita' all'articolo 11, comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei dati e delle informazioni ottenute attraverso le visite di sanita' animale di cui all'articolo 11, comma 1.
+
 ## Art. 13. — Programmi di eradicazione e sorveglianza delle malattie
+
+1.
+                    
+                        
+                            Al fine di assicurare un livello uniforme di tutela della salute animale, il Ministero della salute: 
+ 
+                        
+                        
+                            a)
+                            
+                                stabilisce, sentite le regioni e le province autonome interessate, i programmi nazionali obbligatori di eradicazione di cui all'articolo 31, paragrafo 1, del regolamento, per le malattie di categoria B per le quali il territorio nazionale non sia indenne interamente o in specifiche zone o compartimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce, previo parere positivo favorevole delle regioni e province autonome interessate, i programmi nazionali facoltativi di eradicazione di cui all'articolo 31, paragrafo 2, del regolamento, definiti ai sensi dell'articolo 5 del presente decreto, per le malattie di categoria C per le quali il territorio nazionale non sia indenne interamente o in specifiche zone o compartimenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                presenta alla Commissione europea le domande per l'approvazione dei programmi di cui alle lettere a) e b), e le relative relazioni secondo quanto previsto dagli articoli 33 e 34, del regolamento, come integrati dal regolamento (UE) 2020/2002; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                adotta, con decreto del Ministro della salute, i programmi di cui alle lettere a) e b), approvati dalla Commissione europea;
 
 Le regioni e le Province autonome di Trento e di Bolzano per il tramite degli applicativi dedicati del sistema informativo veterinario «Vetinfo.it», forniscono al Ministero della salute le informazioni di cui all'articolo 33, del regolamento, come integrato dal regolamento di esecuzione (UE) 2020/2002, ai fini della presentazione delle domande e delle relazioni di cui al comma 1, lettera c).
 
@@ -199,6 +730,31 @@ Gli operatori responsabili degli stabilimenti la cui popolazione animale e' inte
 Gli operatori responsabili degli stabilimenti, la cui popolazione animale e' interessata da un programma di sorveglianza di cui ai commi 6, 7 e 8, sono tenuti a rispettare le misure ivi contenute e a fornire la necessaria collaborazione all'autorita' competente nell'attuazione del programma medesimo.
 
 ## Art. 14. — Sistemi informativi veterinari
+
+1.
+                    
+                        
+                            Il sistema informativo veterinario «Vetinfo.it» del Ministero della salute, gestito dal Centro Servizi Nazionale istituito presso l'Istituto zooprofilattico sperimentale (IZS) Abruzzo e Molise, al fine di garantire il flusso informativo in materia di sanita' animale verso l'Unione europea e gli organismi internazionali e l'organizzazione della sorveglianza di cui agli articoli 26, 27 e 28 del regolamento, come integrati dagli articoli 3, 4, 5, 6 e 7, del regolamento (UE) 2020/689, assicura la raccolta delle informazioni concernenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la registrazione e il riconoscimento degli stabilimenti e dei trasportatori, i movimenti e la tracciabilita' degli animali, del materiale germinale e dei prodotti di origine animale e degli animali da compagnia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'uso dei medicinali veterinari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli esiti dei controlli ufficiali e delle altre attivita' ufficiali.
 
 E' istituito il Sistema informativo del Ministero della salute «ClassyFarm.it», gestito dall'Istituto Zooprofilattico Sperimentale della Lombardia ed Emilia Romagna (IZSLER) e integrato nel portale «www.vetinfo.it» di cui al comma 1, quale strumento a disposizione delle Autorita' competenti per la categorizzazione degli allevamenti in base al rischio tramite la raccolta delle informazioni inerenti l'attivita' di autocontrollo e l'attivita' di sorveglianza svolta dagli operatori ai sensi degli articoli 24 e 25 del regolamento, e l'elaborazione delle stesse informazioni unitamente a quelle citate al comma 1. L'IZSLER garantisce, attraverso l'adeguamento del proprio sistema informatico, delle strutture e del personale, senza oneri a carico del Ministero della salute, il pieno funzionamento del sistema «ClassyFarm.it».
 
@@ -244,6 +800,45 @@ Ai sensi dell'articolo 6, paragrafo 5, del regolamento, in caso di malattia emer
 
 ## Art. 19. — Misure di controllo delle malattie in caso di conferma di malattia di categoria A in animali detenuti terrestri e acquatici
 
+1.
+                    
+                        
+                            A seguito di conferma di un focolaio di una malattia di categoria A, ai sensi dell'articolo 58 del regolamento, come integrato rispettivamente dall'articolo 11 per gli animali detenuti terrestri e dall'articolo 77 per gli animali detenuti acquatici del regolamento (UE) 2020/687 ((e di cui all'articolo 70 del regolamento per gli animali selvatici)), l'azienda sanitaria locale territorialmente competente: 
+ 
+                        
+                        
+                            a)
+                            
+                                informa immediatamente il responsabile dei Servizi veterinari della regione o della Provincia autonoma di Trento e di Bolzano, che a sua volta ne da' comunicazione al Ministero della salute nella persona del CVO; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                conduce immediatamente l'indagine epidemiologica di cui all'articolo 57 del regolamento, avvalendosi, ove presente, dell'Osservatorio Epidemiologico Veterinario regionale sulla base delle indicazioni di cui al relativo Piano di emergenza adottato dal Centro nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                procede immediatamente mettendo in atto le azioni di cui all'articolo 60 del regolamento, inclusa l'attuazione del piano di emergenza di cui all'articolo 17; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                adotta le misure previste all'articolo 61, paragrafo 1, con esclusione di quelle previste dalla lettera d), e agli articoli 62, 64, 65 e 69 del regolamento, sulla base dei criteri ivi previsti, come integrati rispettivamente, dagli articoli da 12 a 67 del regolamento, per gli animali detenuti terrestri e dagli articoli da 78 a 101 per gli animali detenuti acquatici del regolamento delegato (UE) 2020/687 ((, e all'articolo 70 del regolamento come integrato dagli articoli 63, 64, 65, 66 e 67 del regolamento delegato (UE) 2020/687, per gli animali selvatici)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo aver attuato quanto previsto dalle lettere b), c) e d), informa dell'attivita' svolta il responsabile dei servizi veterinari della regione o della Provincia autonoma di Trento e di Bolzano che a sua volta ne da' comunicazione al Ministero della salute nella persona del CVO.
+
 Il Ministero della salute avvalendosi dell'Unita' di Crisi di cui all'articolo 5, comma 6, valuta l'eventuale adozione delle misure di cui all'articolo 61, paragrafo 1, lettera d), e di quelle supplementari di controllo di cui all'articolo 71 del regolamento.
 
 L'azienda sanitaria locale territorialmente competente applica le misure di cui al presente articolo fino a che non si verificano le condizioni di cui all'articolo 68, paragrafo 1, del regolamento.
@@ -276,7 +871,53 @@ Ad esclusione dei casi di brucellosi e tubercolosi e leucosi bovina enzootica, i
 
 ## Art. 21. — Deroghe alle norme per la prevenzione e controllo delle malattie di Categoria A negli animali terrestri e acquatici
 
+1.
+                    
+                        
+                            Le regioni e le Province autonome di Trento e di Bolzano territorialmente competenti, con riferimento all'applicazione delle misure di prevenzione e controllo delle malattie di categoria A degli animali detenuti terrestri e acquatici previste dal regolamento (UE) 2020/687, possono concedere le deroghe di seguito elencate, informando tempestivamente il Ministero della salute: 
+ 
+                        
+                        
+                            a)
+                            
+                                deroga all'applicazione delle misure di controllo delle malattie in caso di conferma ufficiale della presenza di una malattia di categoria A previste dagli articoli 13 e 16 per gli animali detenuti terrestri e ai sensi dell'articolo 79 per gli animali detenuti acquatici; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                deroga all'applicazione delle misure di controllo per le malattie di categoria A in zone soggette a restrizioni di cui all'articolo 23 per gli animali detenuti terrestri e all'articolo 85, paragrafo 4, per gli animali detenuti acquatici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                deroga all'applicazione delle misure di controllo per le malattie di categoria A nelle zone di protezione di cui agli articoli da 28 a 37 per gli animali detenuti terrestri e agli articoli da 90 a 93 per gli animali detenuti acquatici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                deroga all'applicazione delle misure di controllo per le malattie di categoria A nelle zone di sorveglianza di cui agli articoli da 43 a 53 per gli animali detenuti terrestri e 99, paragrafo 4, per gli animali detenuti acquatici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                deroga applicabile nella zona soggetta a restrizioni in caso di ulteriori focolai di malattia di categoria A di animali detenuti terrestri di cui all'articolo 56; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                deroga alla prescrizione di cui all'articolo 55, paragrafo 1, lettera b) prevista all'articolo 58.
+
+((Fatto salvo quanto previsto al comma 1, le aziende sanitarie locali possono concedere le deroghe di cui al regolamento di esecuzione (UE) 2023/594 che stabilisce misure speciali di controllo per la peste suina africana, previa delega da parte delle competenti regioni e Province autonome di Trento e di Bolzano che ne danno tempestiva comunicazione al Ministero della salute per il tramite del responsabile dei servizi veterinari (RSV). Le aziende sanitarie locali informano tempestivamente le regioni competenti che a loro volta informano il Ministero della salute con le modalita' da questo stabilite.))
 
 Fatto salvo quanto previsto ((ai commi 1 e 1-bis)), nell'ambito dell'UCC, sulla base della valutazione della situazione epidemiologica, il Ministero della salute puo' disporre con decreto direttoriale di non concedere una o piu' deroghe previste dal presente articolo o di individuare condizioni ulteriori per la loro concessione.
 
@@ -286,6 +927,52 @@ La verifica di tutte le condizioni per l'applicabilita' delle deroghe di cui al 
 
 Autorita' competenti per la concessione 
  di determinate deroghe
+
+1.
+                    
+                        
+                            Il Ministero della salute e' l'autorita' competente a concedere le deroghe previste dai seguenti articoli del regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 138, concernente i movimenti a fini scientifici di animali detenuti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 139, concernente le introduzioni degli animali terrestri per l'uso ricreativo, per gli eventi sportivi e culturali, per il lavoro in prossimita' delle frontiere e per il pascolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 165, concernente i movimenti di materiale germinale a fini scientifici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 198, concernente deroghe agli obblighi degli operatori per quanto riguarda i movimenti di animali di acquacoltura tra Stati Membri, zone o compartimenti sottoposti a un programma di eradicazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 199, concernente misure degli Stati membri relativamente al rilascio in natura di animali acquatici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                articolo 204, concernente i movimenti a fini scientifici di animali acquatici.
 
 L'azienda sanitaria locale e' l'autorita' competente a concedere le deroghe previste dall'articolo 201 del regolamento concernente movimenti di animali di acquacoltura vivi destinati al consumo umano in Stati membri, zone o compartimenti degli stessi, dichiarati indenni da malattia o sottoposti a un programma di eradicazione.
 
@@ -463,7 +1150,212 @@ Per la graduazione della sanzione amministrativa irrogata con ordinanza - ingiun
 
 ## Art. 32. — Abrogazioni e modificazioni
 
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogate le norme seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la legge 30 aprile 1976, n. 397, recante norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 1, 2, 3 e 4 della legge 28 maggio 1981, n. 296, recante norme per l'attuazione delle direttive CEE n. 77/391 del 17 maggio 1977, n. 78/52 del 13 dicembre 1977 e n. 79/110 del 24 gennaio 1979, e norme per l'accelerazione della bonifica sanitaria degli allevamenti dalla tubercolosi e dalla brucellosi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 1, l'articolo 2, commi 1, 2, 3, gli articoli 4 e 6 della legge 2 giugno 1988, n. 218, recante misure per la lotta contro l'afta epizootica ed altre malattie epizootiche degli animali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto legislativo 27 maggio 2005, n. 132, recante attuazione della direttiva 2003/43/CE relativa agli scambi intracomunitari ed alle importazioni di sperma di animali della specie bovina; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il decreto legislativo 12 novembre 1996, n. 633, recante attuazione della direttiva 92/65/CEE che stabilisce norme sanitarie per gli scambi e le importazioni nella Comunita' di animali, sperma, ovuli e embrioni non soggetti, per quanto riguarda le condizioni di polizia sanitaria, alle normative comunitarie specifiche di cui all'allegato A, sezione I, della direttiva 90/425/CEE; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il decreto legislativo 13 dicembre 1996, n. 674, recante attuazione della direttiva 92/118/CEE concernente condizioni sanitarie per gli scambi e le importazioni dei patogeni e dei prodotti non soggetti a normative comunitarie specifiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il decreto legislativo 9 luglio 2003, n. 225, recante attuazione della direttiva 2000/75/CE relativa alle misure di lotta e di eradicazione del morbo «lingua blu» degli ovini; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il decreto legislativo 20 febbraio 2004, n. 55, recante attuazione della direttiva 2001/89/CE relativa alle misure comunitarie di lotta contro la peste suina classica; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il decreto legislativo 20 febbraio 2004, n. 54, recante attuazione della direttiva 2002/60/CE recante disposizioni specifiche per la lotta contro la peste suina africana; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il decreto legislativo 27 maggio 2005, n. 117, recante attuazione della direttiva 2002/99/CE che stabilisce norme di polizia sanitaria per la produzione, la trasformazione, la distribuzione e l'introduzione di prodotti di origine animale destinati al consumo umano; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                il decreto legislativo 18 settembre 2006, n. 274, recante attuazione della direttiva 2003/85/CE relativa a misure comunitarie di lotta contro l'afta epizootica; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                il decreto legislativo 31 gennaio 2007, n. 47, recante attuazione della direttiva 2004/68/CE che stabilisce norme di polizia sanitaria per le importazioni e il transito nella Comunita' di determinati ungulati vivi, che modifica le direttive 90/426/CEE e 92/65/CEE e che abroga la direttiva 72/462/CEE; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                il decreto legislativo 25 gennaio 2010, n. 9, recante attuazione della direttiva 2005/94/CE relativa a misure comunitarie di lotta contro l'influenza aviaria e che abroga la direttiva 92/40/CEE; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                il decreto del Presidente della Repubblica 11 febbraio 1994, n. 241, concernente regolamento recante attuazione della direttiva 89/556/CEE che stabilisce le condizioni di polizia sanitaria in materia di scambi intracomunitari e di importazioni da Paesi terzi di embrioni di animali della specie bovina; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                il decreto del Presidente della Repubblica 11 febbraio 1994, n. 242, concernete regolamento recante attuazione della direttiva 90/429/CEE concernente le norme di polizia sanitaria applicabili agli scambi intracomunitari ed alle importazioni di sperma di animali della specie suina; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                il decreto del Presidente della Repubblica del 17 maggio 1996, n. 361, concernente regolamento recante norme per l'attuazione della direttiva 92/35/CEE, del Consiglio del 29 aprile 1992, che fissa le norme di controllo e le misure di lotta contro la peste equina; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                il decreto del Presidente della Repubblica 15 novembre 1996, n. 657, concernente regolamento per l'attuazione della direttiva 92/66/CEE che prevede misure comunitarie contro la malattia di Newcastle; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                il decreto del Presidente della Repubblica 17 maggio 1996, n. 362, concernente regolamento recante norme per l'attuazione della direttiva 92/119/CEE, del Consiglio del 17 dicembre 1992, che introduce misure generali di lotta contro alcune malattie degli animali, nonche' misure specifiche per la malattia vescicolare dei suini; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                il decreto del Presidente della Repubblica 8 febbraio 1954, n. 320, concernente regolamento di polizia veterinaria; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                l'articolo 264 del Regio decreto 27 luglio 1934, n. 1265, recante approvazione del testo unico delle leggi sanitarie; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                il decreto del Presidente della Repubblica 11 febbraio 1994, n. 243, concernente regolamento recante attuazione della direttiva 90/426/CEE relativa alle condizioni di polizia sanitaria che disciplinano i movimenti e le importazioni di equini di provenienza dai Paesi terzi, con le modifiche apportate dalla direttiva 92/36/CEE; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                il decreto del Presidente della Repubblica 23 gennaio 1975, n. 845, recante integrazione al regolamento di polizia veterinaria approvato con decreto del Presidente della Repubblica 8 febbraio 1954, n. 320, e riguardante la disciplina igienica delle penne, piume e piumini destinati all'imbottitura; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                l'articolo 10 del decreto del Presidente della Repubblica 28 marzo 2013, n. 44, concernente regolamento recante il riordino degli organi collegiali ed altri organismi operanti presso il Ministero della salute, ai sensi dell'articolo 2, comma 4, della legge 4 novembre 2010, n. 183. 
+
+                            
+                        
+                        
+                            bb-bis)
+                            
+                                
+                                    ((il decreto del Ministro della sanita' 15 dicembre 1995, n. 592, recante regolamento concernente il piano nazionale per la eradicazione della tubercolosi negli allevamenti bovini e bufalini;))
+                                
+                            
+                        
+                        
+                            bb-ter)
+                            
+                                
+                                    ((il decreto del Ministro della sanita' 27 agosto 1994, n. 651, recante regolamento concernente il piano nazionale per la eradicazione della brucellosi negli allevamenti bovini;))
+                                
+                            
+                        
+                        
+                            bb-quater)
+                            
+                                
+                                    ((il decreto del Ministro della sanita' 2 luglio 1992, n. 453, recante regolamento concernente il piano nazionale per la eradicazione della brucellosi negli allevamenti ovini e caprini.))
+
 Alla legge 28 maggio 1981, n. 296, recante norme per l'attuazione delle direttive CEE n. 77/391 del 17 maggio 1977, n. 78/52 del 13 dicembre 1977 e n. 79/110 del 24 gennaio 1979, e norme per l'accelerazione della bonifica sanitaria degli allevamenti dalla tubercolosi e dalla brucellosi, l'articolo 6, e' sostituito dal seguente: «6. Il Ministero della salute con proprio decreto adottato di concerto con i Ministri dell'economia e finanze e delle politiche agricole alimentari e forestali, definisce i criteri per il computo dell'indennita' per l'abbattimento dei bovini affetti da tubercolosi, brucellosi e degli ovini e caprini infetti.».
+
+3.
+                    
+                        
+                            All'articolo 2, della legge 2 giugno 1988, n. 218, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((al comma 4, dopo le parole «ad esclusione dei casi di tubercolosi e di brucellosi» sono inserite le seguenti: «in caso di focolaio di malattia di categoria A di cui all'articolo 2 del decreto legislativo 5 agosto 2022 n. 136, e di malattia emergente di cui all'articolo 6 del regolamento (UE) 2016/429, per le quali e' prevista l'applicazione della misura di cui all'articolo 61, paragrafo 1, lettera b), del regolamento (UE) 2016/429, o di malattia di categoria B e C di cui all'articolo 2 del decreto legislativo 5 agosto 2022 n. 136, per le quali e' disposta la medesima misura in conformita' ai programmi nazionali di eradicazione adottati ai sensi dell'articolo 13 dello stesso decreto legislativo 5 agosto 2022, n. 136;)) 
+ a-bis) ((dopo il comma 4 e' inserito il seguente: "4-bis.
+L'indennita' di cui al comma 4 viene corrisposta anche per gli animali abbattuti in caso di focolai di Encefalopatie spongiformi trasmissibili bovine o ovicaprine e per gli animali abbattuti ai sensi del piano nazionale di controllo della salmonellosi negli avicoli adottato in conformita' al regolamento (CE) 2160/2003.")) 
+ b) al comma 9, le parole «Il Ministro della sanita'» sono sostituite con le seguenti: «L'azienda sanitaria locale territorialmente competente» e la parola «decreto» e' sostituita con la parola provvedimento». 
+ b-bis) ((dopo il comma 10 e' aggiunto il seguente: "10-bis. Non rientrano nel campo di applicazione del presente articolo, i casi in cui l'applicazione della misura di cui all'articolo 61, paragrafo 1, lettera b) del regolamento (UE) 2016/429 e' prevista nei programmi di sorveglianza facoltativi adottati, ai sensi dell'articolo 13, comma 8, del decreto legislativo 5 agosto 2022, n. 136, dalle regioni o province autonome, fatti salvi i casi in cui la misura dell'abbattimento e' adottata dalla Regione e provincia autonoma di Trento e Bolzano territorialmente competente per far fronte a situazioni emergenziali riconosciute nell'ambito dell'Unita' Centrale di crisi di cui all'articolo 5, comma 7."))
 
 ## Art. 33. — Disposizioni transitorie
 

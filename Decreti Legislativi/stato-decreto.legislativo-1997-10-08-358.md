@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-12-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -140,6 +140,28 @@ Nell'articolo 21, comma 2, della legge 30 dicembre 1991, n. 413, riguardante le 
 
 ## Art. 8. — Limitazioni al riporto delle perdite
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 3 dell'articolo 8, concernente la determinazione del reddito complessivo ai fini delle imposte sui redditi, e' aggiunto, in fine, il seguente periodo: "Si applicano le disposizioni del comma 1 -bis dell'articolo 102 e, limitatamente alle societa' in nome collettivo ed in accomandita semplice, quelle di cui al comma 1 -ter del citato articolo 102.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 dell'articolo 102, concernente il riporto delle perdite, sono aggiunti, in fine, i seguenti commi:
+ "1-bis. Le perdite realizzate nei primi tre periodi d'imposta possono, con le modalita' previste al comma 1, essere computate in diminuzione del reddito complessivo dei periodi d'imposta successivi senza alcun limite di tempo.
+ 1-ter. Le disposizioni del comma 1 non si applicano nel caso in cui la maggioranza delle partecipazioni aventi diritto di voto nelle assemblee ordinarie del soggetto che riporta le perdite venga trasferita o comunque acquisita da terzi, anche a titolo temporaneo e, inoltre, venga modificata l'attivita' principale in fatto esercitata nei periodi d'imposta in cui le perdite sono state realizzate. La modifica dell'attivita' assume rilevanza se interviene nel periodo d'imposta in corso al momento del trasferimento od acquisizione ovvero nei due successivi od anteriori. La limitazione non si applica qualora:
+ a) le partecipazioni siano acquisite da societa' controllate dallo stesso soggetto che controlla il soggetto che riporta le perdite ovvero dal soggetto che controlla il controllante di questi;
+ b) le partecipazioni siano relative a societa' che nel biennio precedente a quello di trasferimento hanno avuto un numero di dipendenti mai inferiore alle dieci unita' e per le quali dal conto economico relativo all'esercizio precedente a quello di trasferimento risultino un ammontare di ricavi, di cui all'articolo 2425, lettera A), n. 1, del codice civile, e un ammontare delle spese per prestazioni di lavoro subordinato e relativi contributi, di cui all'articolo 2425, lettera B), n. 9), lettere a) e b), del codice civile, superiore al 40 per cento di quello risultante dalla media degli ultimi due esercizi anteriori.".
+
 ## - Capo III DISCIPLINA TRANSITORIA E DI ATTUAZIONE
 
 ## Art. 9. — Decorrenza e disposizioni attuative
@@ -155,6 +177,24 @@ Per le azioni o quote gia' esistenti alla data del 30 aprile 1997, ai fini dell'
 Le disposizioni di cui all'articolo 7, comma 1, si applicano agli atti, fatti e procedimenti posti in essere dopo l'entrata in vigore del presente decreto, e dalla stessa data cessa di avere applicazione, per tali fattispecie, l'articolo 10 della legge 29 dicembre 1990, n. 408, contenente disposizioni antielusive.
 
 Il comma 16 dell'articolo 123 -bis del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' soppresso.
+
+7.
+                        
+                            
+                                Le disposizioni di cui all'articolo 8 si applicano:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle perdite formatesi a decorrere dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto, con riferimento a quanto disposto dal comma 1 -bis dell'articolo 102 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, introdotto dall'articolo 8, comma 2, del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto, anche in relazione alle perdite dichiarate in precedenti periodi d'imposta, con riferimento a quanto disposto dal comma 1 -ter dell'articolo 102 dello stesso testo unico n. 917 del 1986, introdotto dall'articolo 8, comma 2, del presente decreto.
 
 Con decreti del Ministro delle finanze, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le eventuali disposizioni attuative del presente decreto.
 

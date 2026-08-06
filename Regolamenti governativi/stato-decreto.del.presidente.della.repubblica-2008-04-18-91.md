@@ -8,8 +8,8 @@ codice_redazionale: 008G0113
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,4 +24,44 @@ Considerata la necessita' di razionalizzare e snellire le procedure di redazione
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'Adunanza dell'11 febbraio 2008;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 13 febbraio 1967, n. 429, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 5 le parole: "120 giorni" e: "30 giorni" ovunque ricorrano, sono sostituite, rispettivamente, dalle seguenti: "150 giorni" e: "40 giorni";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 13 le parole: "30 giorni" sono sostituite dalle seguenti: "40 giorni";
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 17 e' soppresso il secondo comma;
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 19 la lettera b) del terzo comma e' sostituita dalla seguente:
+ "b) essere compilato dall'autorita' da cui il militare dipende in linea diretta di servizio e revisionato da quella sovraordinata posta nella stessa linea di servizio. Autorita' competente alla compilazione e' l'ufficiale o il sottufficiale comandante del reparto o capo del servizio nell'ambito del quale il giudicando esplica la sua attivita'.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 20 le parole: "120 giorni" e: "30 giorni" ovunque ricorrano, sono sostituite, rispettivamente dalle seguenti: "150 giorni" e: "40 giorni".
 

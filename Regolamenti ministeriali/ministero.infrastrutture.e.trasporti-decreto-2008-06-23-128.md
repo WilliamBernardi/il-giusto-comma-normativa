@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2008-11-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,40 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Funzioni ed organizzazione
 
+1.
+                    
+                        
+                            All'area di sicurezza della navigazione dello Stretto di Messina e' preposta l'Autorita' marittima della navigazione dello Stretto, d'ora in poi Autorita', con sede in Messina, che svolge funzioni in materia di sicurezza della navigazione, controllo e monitoraggio del traffico marittimo, di ricerca e salvataggio della vita umana in mare e gestione delle emergenze.
+ 2 . L'Autorita', elemento di organizzazione del Corpo delle capitanerie di porto - Guardia costiera, ha rango corrispondente, sul piano gerarchico organizzativo, a quello di Direzione marittima e dipende dal Comando generale del Corpo delle capitanerie di porto.
+ 3 . L'Autorita' e' diretta da un ufficiale del Corpo delle capitanerie di porto di grado non inferiore a Capitano di vascello ed e' articolata nelle seguenti unita' organizzative:
+ 
+                        
+                        
+                            a)
+                            
+                                reparto tecnico-operativo, con compiti di controllo e monitoraggio del traffico marittimo; di gestione delle emergenze; di soccorso alla vita umana e di assistenza in mare di cui alla «SAR» (convenzione internazionale di Amburgo del 27 aprile 1979 sulla ricerca e salvataggio marittimo), nell'area indicata all'articolo 2, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                reparto tecnico-amministrativo, con compiti connessi all'espletamento delle funzioni tecniche ed amministrative in materia di servizi tecnico-nautici, sicurezza della navigazione e connessa attivita' di vigilanza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                servizio amministrativo - logistico con compiti di ordine amministrativo - contabile e di gestione delle risorse finanziarie e dei beni strumentali mobili ed immobili assegnati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                segreteria di supporto generale con compiti di supporto amministrativo alle suddette componenti.
+
 ## Art. 2. — Ambito di giurisdizione e competenze
 
 1 . Le funzioni svolte dall'Autorita' sono esercitate nell'istituita area di sicurezza della navigazione dello Stretto, individuata con decreto ministeriale 24 gennaio 2008, n. 13/T, nonche' nei porti in essa ricadenti di Messina, Messina-Tremestieri, Reggio Calabria e Villa San Giovanni.
@@ -37,6 +71,46 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
  e) disciplina della navigazione in materia di sicurezza anche ai sensi dell'articolo 59 del regolamento di esecuzione al codice della navigazione.
 
 ## Art. 3. — Compiti e struttura del reparto tecnico-operativo
+
+1.
+                    
+                        
+                            Il reparto tecnico-operativo e' composto di un servizio operazioni (SAR/VTS) articolato nella sezione operativa VTS e nella sezione unita' navali. Esso svolge le seguenti funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                controllo e monitoraggio del traffico marittimo (VTS);
+
+                            
+                        
+                        
+                            b)
+                            
+                                coordinamento ed intervento nelle operazioni di ricerca e salvataggio della vita umana nell'area SAR corrispondente all'area di sicurezza dello Stretto di cui al comma 1 dell'articolo 2, assumendo il ruolo di Centro secondario di soccorso marittimo (M.R.S.C.
+Maritime Rescue Sub Center) ai sensi del decreto del Presidente della Repubblica 28 settembre 1994, n. 662;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordinamento ed intervento nell'Area di sicurezza dello Stretto in materia di lotta agli inquinamenti marini nel quadro delle pianificazioni operative ed in attuazione alle direttive impartite dal Ministero dell'ambiente e della tutela del territorio e del mare, assumendo, inoltre, nella predetta area, la direzione delle operazioni inerenti fattispecie che determinano la dichiarazione di emergenza locale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                controllo e vigilanza sull'attuazione delle misure di sicurezza nell'area di sicurezza dello Stretto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifica e mantenimento dell'efficienza delle risorse strumentali assegnate per l'esercizio delle funzioni operative di controllo e monitoraggio del traffico marittimo per il perseguimento delle finalita' di sicurezza preordinate.
 
 Ai fini dell'assolvimento delle funzioni di cui alla lettera b), l'Autorita' impiega l'unita' costiera di guardia di Messina, alle proprie dipendenze, e si avvale altresi' delle risorse strumentali dell'unita' costiera di guardia di Reggio Calabria.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,8 +44,79 @@ Ai fini del presente decreto, per conferimento si intende il trasferimento, la d
 
 ## Art. 3. — Trasporti pubblici di interesse nazionale
 
+1.
+                        
+                            
+                                Costituiscono servizi pubblici di trasporto di interesse nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i servizi di trasporto aereo, ad eccezione dei collegamenti che si svolgono esclusivamente nell'ambito di una regione e dei servizi elicotteristici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i servizi di trasporto marittimo, ad eccezione dei servizi di cabotaggio che si svolgono prevalentemente nell'ambito di una regione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i servizi di trasporto automobilistico a carattere internazionale, con esclusione di quelli transfrontalieri, e le linee interregionali che collegano piu' di due regioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i servizi di trasporto ferroviario internazionali e quelli nazionali di percorrenza mediolunga caratterizzati da elevati standards qualitativi. Detti servizi sono tassativamente individuati con decreto del Ministro dei trasporti e della navigazione, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Qualora la predetta intesa non sia raggiunta entro quarantacinque giorni dalla prima seduta in cui l'oggetto e' posto all'ordine del giorno, provvede il Consiglio dei Ministri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i servizi di collegamento via mare fra terminali ferroviari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i servizi di trasporto di merci pericolose, nocive ed inquinanti.
+
 ## Art. 4. — Competenze dello Stato nel trasporto pubblico
  regionale e locale
+
+1.
+                        
+                            
+                                Nella materia del servizio pubblico di trasporto regionale e locale, sono di competenza dello Stato esclusivamente:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli accordi, le convenzioni ed i trattati internazionali relativi a servizi transfrontalieri per il trasporto di persone e merci;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le funzioni in materia di sicurezza, di cui al decreto del Presidente della Repubblica 11 luglio 1980, n. 753, tranne quelle relative al rilascio del nulla osta allo svolgimento dei servizi di trasporto su gomma e quelle relative all'accertamento di cui all'ultimo comma dell'articolo 5 dello stesso decreto n. 753;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione delle linee guida e dei principi quadro per la riduzione dell'inquinamento derivante dal sistema di trasporto pubblico.
 
 ## Art. 5. — Conferimento a regioni ed enti locali
 
@@ -69,6 +140,42 @@ Gli enti locali, oltre ai compiti e alle funzioni loro conferite a norma del com
 Sono, in particolare, conferiti agli enti locali i compiti amministrativi e le funzioni nei settori del trasporto lagunare e lacuale.
 
 ## Art. 8. — Servizi ferroviari di interesse regionale e locale non in concessione a F.S. S.p.a.
+
+1.
+                        
+                            
+                                Sono delegati alle regioni le funzioni e i compiti di programmazione e di amministrazione inerenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le ferrovie in gestione commissariale governativa, affidate per la ristrutturazione alla societa' Ferrovie dello Stato S.p.a. dalla legge 23 dicembre 1996, n. 662; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le ferrovie in concessione a soggetti diversi dalle Ferrovie dello Stato S.p.a.
+
+2.
+                        
+                            
+                                Le funzioni e i compiti di cui al comma 1 sono conferiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro i termini di scadenza dei piani di ristrutturazione di cui all'articolo 2 della citata legge n. 662 del 1996 e comunque non oltre il 1 gennaio 2000, per le gestioni commissariali governative di cui al comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a partire dal 1 gennaio 1998, e comunque entro il 1 gennaio 2000, per le ferrovie in concessione di cui al comma 1, lettera b).
 
 Le regioni subentrano allo Stato, quali concedenti delle ferrovie di cui al comma 1, lettere a) e b), sulla base di accordi di programma, stipulati a norma dell'articolo 12 del presente decreto, con i quali sono definiti, tra l'altro, per le ferrovie in concessione di cui al comma 1, lettera b), i finanziamenti diretti al risanamento tecnicoeconomico di cui all'articolo 86 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616.
 
@@ -142,17 +249,148 @@ Qualora l'inerzia degli organi regionali perduri dopo la scadenza del termine di
 
 La Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano promuove, su proposta del Ministro dei trasporti e della navigazione e sentita, per quanto di competenza, la Presidenza del Consiglio dei Ministri - Dipartimento per le aree urbane, il coordinamento della programmazione delle regioni e delle province autonome con la programmazione dello Stato definita dal C.I.P.E.
 
+2.
+                        
+                            
+                                Nell'esercizio dei compiti di programmazione, le regioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definiscono gli indirizzi per la pianificazione dei trasporti locali ed in particolare per i piani di bacino; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redigono i piani regionali dei trasporti e loro aggiornamenti tenendo conto della programmazione degli enti locali ed in particolare dei piani di bacino predisposti dalle province e, ove esistenti, dalle citta' metropolitane, in connessione con le previsioni di assetto territoriale e di sviluppo economico e con il fine di assicurare una rete di trasporto che privilegi le integrazioni tra le varie modalita' favorendo in particolar modo quelle a minore impatto sotto il profilo ambientale.
+
+3.
+                        
+                            
+                                Per la regolamentazione dei servizi di trasporto pubblico locale, con riferimento ai servizi minimi, di cui all'articolo 16, le regioni, sentite le organizzazioni sindacali confederali e le associazioni dei consumatori, approvano programmi triennali dei servizi di trasporto pubblico locale, che individuano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rete e l'organizzazione dei servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'integrazione modale e tariffaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le risorse da destinare all'esercizio e agli investimenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di determinazione delle tariffe; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di attuazione e revisione dei contratti di servizio pubblico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il sistema di monitoraggio dei servizi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i criteri per la riduzione della congestione e dell'inquinamento ambientale.
+
 Per l'esercizio dei servizi pubblici di trasporto locale in territori a domanda debole, al fine di garantire comunque il soddisfacimento delle esigenze di mobilita' nei territori stessi, le regioni, sentiti gli enti locali interessati e le associazioni nazionali di categoria del settore del trasporto di persone, possono individuare modalita' particolari di espletamento dei servizi di linea, da affidare, attraverso procedure concorsuali, alle imprese che hanno i requisiti per esercitare autoservizi pubblici non di linea o servizi di trasporto di persone su strada. Nei comuni montani o nei territori in cui non vi e' offerta dei servizi predetti possono essere utilizzati veicoli adibiti ad uso proprio, fermo restando l'obbligo del possesso dei requisiti professionali per l'esercizio del trasporto pubblico di persone.
 
 Gli enti locali, al fine del decongestionamento del traffico e del disinquinamento ambientale, ai sensi dell'articolo 16, comma 3, e dell'articolo 18, comma 3-bis, possono organizzare la rete dei trasporti di linea nelle aree urbane e suburbane ((, nonche' nelle aree extraurbane a domanda debole ai sensi del comma 4,)) diversificando il servizio con l'utilizzazione di veicoli della categoria M1 di cui all'articolo 47 del decreto legislativo 30 aprile 1992, n. 285. Detti veicoli devono risultare nella disponibilita' di soggetti aventi i requisiti per esercitare autoservizi pubblici non di linea o servizi di trasporto di persone su strada. L'espletamento di tali servizi non costituisce titolo per il rilascio di licenze o autorizzazioni. Gli enti locali fissano le modalita' del servizio e le relative tariffe e, nella fase di prima attuazione, affidano per il primo anno in via prioritaria detti servizi, sempre attraverso procedure concorsuali, ai soggetti che esercitano autoservizi pubblici non di linea. I criteri tecnici e le modalita' per la utilizzazione dei sopraddetti veicoli sono stabiliti con decreto del Ministro dei trasporti e della navigazione.
 
 Ad integrazione dell'articolo 86 del decreto legislativo 30 aprile 1992, n. 285, ai veicoli adibiti al servizio di piazza per il trasporto di persone di cui all'articolo 82, comma 5, lettera b), dello stesso decreto, e' consentito l'uso proprio fuori servizio.
 
+7.
+                        
+                            
+                                Nel comma 2 dell'articolo 57 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, recante il regolamento di esecuzione e di attuazione del nuovo codice della strada, come sostituito dall'articolo 47 del decreto del Presidente della Repubblica 16 settembre 1996, n. 610, dopo le parole: "di linea" sono inserite le seguenti: "e non di linea", ad eccezione dei taxi.
+All'articolo 57 del succitato decreto n. 495 il comma 3 e' cosi' sostituito: 
+ 3. La pubblicita' non luminosa per conto terzi e' consentita sui veicoli adibiti al servizio taxi unicamente se effettuata mediante scritte con caratteri alfanumerici, abbinati a marchi e simboli, ed alle seguenti ulteriori condizioni: 
+                            
+                            
+                                a)
+                                
+                                    che sia realizzata con pannello rettangolare piano bifacciale, saldamente ancorato al di sopra dell'abitacolo del veicolo e posto in posizione parallela al senso di marcia. Il pannello deve avere le dimensioni esterne di 75 times35 cm e la pubblicita' non deve essere realizzata con messaggi variabili;
+                                
+                            
+                            
+                                b)
+                                
+                                    che sia realizzata tramite l'applicazione sul lunotto posteriore del veicolo di pellicola della misura di 100 times12 cm;
+                                
+                            
+                            
+                                c)
+                                
+                                    che sia realizzata tramite l'applicazione di pellicola sulle superfici del veicolo ad esclusione di quelle vetrate. Le esposizioni pubblicitarie di cui alle lettere a) e c) sono alternative tra loro.
+I veicoli adibiti al servizio taxi sui quali sono esposti messaggi pubblicitari di cui al capo a) non possono circolare sulle autostrade.
+
 Per i collegamenti con gli aeroporti aperti al traffico aereo civile, ferme restando le competenze degli enti gestori, sono autorizzati ad effettuare servizio di piazza i titolari di licenze per servizio di taxi rilasciate dai comuni capoluogo di regione e di provincia, nonche' dal comune o dai comuni nel cui ambito territoriale l'aeroporto ricade. I comuni interessati, d'intesa, disciplinano le tariffe, le condizioni di trasporto e di svolgimento del servizio, ivi compresa la fissazione del numero massimo di licenze che ciascun comune puo' rilasciare proporzionalmente al bacino di utenza aeroportuale. Nel caso di mancata intesa tra i comuni, provvede il presidente della regione, sentita la commissione consultiva regionale di cui all'articolo 4 della legge 15 gennaio 1992, n. 21.
 
 ## - Capo II Organizzazione del trasporto pubblico locale
 
 ## Art. 15. — Programmazione degli investimenti
+
+1.
+                        
+                            
+                                In attuazione di quanto previsto dal comma 1 dell'articolo 14, con accordi di programma in materia di investimenti si individuano:
+
+                            
+                            
+                                a)
+                                
+                                    le opere da realizzare e i mezzi di trasporto, incluso il materiale rotabile ferroviario, da acquisire;
+                                
+                            
+                            
+                                b)
+                                
+                                    i tempi di realizzazione in funzione dei piani di sviluppo dei servizi;
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti coinvolti e loro compiti;
+                                
+                            
+                            
+                                d)
+                                
+                                    le risorse necessarie, le loro fonti di finanziamento certe e i tempi di erogazione;
+                                
+                            
+                            
+                                e)
+                                
+                                    il periodo di validita'.
 
 Gli accordi di cui al comma 1 sono sottoscritti dal Ministro dei trasporti e della navigazione e dalla regione, nonche' dai presidenti delle province, dai sindaci e dai presidenti delle comunita' montane nel caso di esercizio associato di servizi comunali di trasporto locale di cui all'articolo 11, comma 1, della legge 31 gennaio 1994, n. 97, direttamente coinvolti nella realizzazione delle opere; essi sono impegnativi per le parti che sottoscrivono. L'attuazione degli accordi di programma e' verificata annualmente, congiuntamente dal Ministero dei trasporti e della navigazione, dalle regioni interessate e dai soggetti che l'hanno sottoscritto in sede di conferenza dei servizi, da realizzare ai sensi dell'articolo 17, commi 4 e seguenti, della legge 15 maggio 1997, n. 127. Il Ministro dei trasporti e della navigazione riferisce annualmente in sede di Conferenza unificata, di cui all'articolo 9 della legge n. 59, sull'attuazione degli accordi di cui al comma 1. Per la realizzazione degli accordi di programma, le parti possono concordare di costituire gestioni finanziarie cui conferire le proprie risorse.
 
@@ -168,6 +406,56 @@ Non rientrano negli accordi di cui al presente articolo le risorse finanziarie c
 Le aree e i beni non piu' funzionali all'esercizio del trasporto pubblico possono essere ceduti, a titolo oneroso, in conformita' al regime giuridico di appartenenza, ai comuni o alle province. Le modalita' relative vengono definite in appositi accordi tra i Ministri interessati e il sindaco o il presidente della provincia e, ove coinvolte, le societa' proprietarie.
 
 ## Art. 16. — Servizi minimi
+
+1.
+                        
+                            
+                                I servizi minimi, qualitativamente e quantitativamente sufficienti a soddisfare la domanda di mobilita' dei cittadini e i cui costi sono a carico del bilancio delle regioni, sono definiti tenendo conto:
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'integrazione tra le reti di trasporto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del pendolarismo scolastico e lavorativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della fruibilita' dei servizi da parte degli utenti per l'accesso ai vari servizi amministrativi, sociosanitari e culturali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle esigenze di riduzione della congestione e dell'inquinamento.
+
+2.
+                        
+                            
+                                Nella determinazione del livello dei servizi minimi, le regioni definiscono, d'intesa con gli enti locali, secondo le modalita' stabilite dalla legge regionale, e adottando criteri di omogeneita' fra regioni, quantita' e standard di qualita' dei servizi di trasporto pubblico locale, in modo da soddisfare le esigenze essenziali di mobilita' dei cittadini, in conformita' al regolamento 1191/69/CEE, modificato dal regolamento 1893/91/CEE, e in osservanza dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    ricorso alle modalita' e tecniche di trasporto piu' idonee a soddisfare le esigenze di trasporto considerate, con particolare attenzione a quelle delle persone con ridotta capacita' motoria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scelta, tra piu' soluzioni atte a garantire, in condizioni analoghe, sufficienti servizi di trasporto, di quella che comporta i minori costi per la collettivita', anche mediante modalita' differenziate di trasporto o integrazione dei servizi e intermodalita'; dovra', in particolare, essere considerato nella determinazione dei costi del trasporto su gomma l'incidenza degli elementi esterni, quali la congestione del traffico e l'inquinamento.
 
 ((
 
@@ -190,9 +478,113 @@ L'esercizio dei servizi di trasporto pubblico regionale e locale, con qualsiasi 
 
 I servizi di trasporto pubblico ferroviario, qualora debbano essere svolti anche sulla rete infrastrutturale nazionale, sono affidati dalle regioni ai soggetti in possesso del titolo autorizzatorio di cui all'articolo 3, comma 1, lettera r), del decreto legislativo 8 luglio 2003, n. 188, ovvero della apposita licenza valida in ambito nazionale rilasciata con le procedure previste dal medesimo decreto legislativo n. 188 del 2003.
 
+2.
+                        
+                            
+                                Allo scopo di incentivare il superamento degli assetti monopolistici e di introdurre regole di concorrenzialita' nella gestione dei servizi di trasporto regionale e locale, per l'affidamento dei servizi le regioni e gli enti locali si attengono ai principi dell'articolo 2 della legge 14 novembre 1995, n. 481, garantendo in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il ricorso alle procedure concorsuali per la scelta del gestore del servizio sulla base degli elementi del contratto di servizio di cui all'articolo 19 e in conformita' alla normativa comunitaria e nazionale sugli appalti pubblici di servizio. Alle gare possono partecipare i soggetti in possesso dei requisiti di idoneita' morale, finanziaria e professionale richiesti, ai sensi della normativa vigente, per il conseguimento della prescritta abilitazione all'autotrasporto di viaggiatori su strada ((. Le societa', nonche' le loro controllanti, collegate e controllate che, in Italia o all'estero, sono destinatarie di affidamenti non conformi al combinato disposto degli articoli 5 e 8, paragrafo 3, del regolamento (CE) n. 1370/2007 del Parlamento europeo e del Consiglio, del 23 ottobre 2007, e la cui durata ecceda il termine del 3 dicembre 2019, non possono partecipare ad alcuna procedura per l'affidamento dei servizi, anche se gia' avviata. L'esclusione non si applica alle imprese affidatarie del servizio oggetto di procedura concorsuale.)) PERIODO SOPPRESSO DALLA L. 1 AGOSTO 2002, N. 166. La gara e' aggiudicata sulla base delle migliori condizioni economiche e di prestazione del servizio, nonche' dei piani di sviluppo e potenziamento delle reti e degli impianti, oltre che della fissazione di un coefficiente minimo di utilizzazione per la istituzione o il mantenimento delle singole linee esercite. Il bando di gara deve garantire che la disponibilita' a qualunque titolo delle reti, degli impianti e delle altre dotazioni patrimoniali essenziale per l'effettuazione del servizio non costituisca, in alcun modo, elemento discriminante per la valutazione delle offerte dei concorrenti. Il bando di gara deve altresi' assicurare che i beni di cui al periodo precedente siano, indipendentemente da chi ne abbia, a qualunque titolo, la disponibilita', messi a disposizione del gestore risultato aggiudicatario a seguito di procedura ad evidenza pubblica; ((15))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D. LGS. 20 SETTEMBRE 1999, N. 400; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D. LGS. 20 SETTEMBRE 1999, N. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esclusione, in caso di mancato rinnovo del contratto alla scadenza o di decadenza dal contratto medesimo, di indennizzo al gestore che cessa dal servizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione delle modalita' di trasferimento, in caso di cessazione dell'esercizio, dal precedente gestore all'impresa subentrante dei beni essenziali per l'effettuazione del servizio e del personale dipendente con riferimento a quanto disposto all'articolo 26 del regio decreto 8 gennaio 1931, n. 148; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'applicazione della disposizione dell'articolo 1, comma 5, del regolamento 1893/91/CEE alle societa' di gestione dei servizi di trasporto pubblico locale che, oltre a questi ultimi servizi, svolgono anche altre attivita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la determinazione delle tariffe del servizio in analogia, ove possibile, a quanto previsto dall'articolo 2 della legge 14 novembre 1995, n. 481. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    relativamente ai servizi di trasporto pubblico ferroviario, la definizione di meccanismi certi e trasparenti di aggiornamento annuale delle tariffe in coerenza con l'incremento dei costi dei servizi, che tenga conto del necessario miglioramento dell'efficienza nella prestazione dei servizi, del rapporto tra ricavi da traffico e costi operativi, di cui all'articolo 19, comma 5, del tasso di inflazione programmato, nonche' del recupero di produttivita' e della qualita' del servizio reso.
+
 Le regioni e gli enti locali, nelle rispettive competenze, incentivano il riassetto organizzativo e attuano, entro e non oltre il 31 dicembre 2000, la trasformazione delle aziende speciali e dei consorzi, anche con le procedure di cui all'articolo 17, commi 51 e seguenti, della legge 15 maggio 1997, n. 127, in societa' di capitali, ovvero in cooperative a responsabilita' limitata, anche tra i dipendenti, o l'eventuale frazionamento societario derivante da esigenze funzionali o di gestione. Di tali societa', l'ente titolare del servizio puo' restare socio unico per un periodo non superiore a due anni. Ove la trasformazione di cui al presente comma non avvenga entro il termine indicato, provvede il sindaco o il presidente della provincia nei successivi tre mesi. In caso di ulteriore inerzia, la regione procede all'affidamento immediato del relativo servizio mediante le procedure concorsuali di cui al comma 2, lettera a).
 
 Le regioni prevedono un periodo transitorio, da concludersi comunque entro il 31 dicembre 2007, nel corso del quale vi e' la facolta' di mantenere tutti gli affidamenti agli attuali concessionari ed alle societa' derivanti dalle trasformazioni di cui al comma 3, ma con l'obbligo di affidamento di quote di servizio o di servizi speciali mediante procedure concorsuali, previa revisione dei contratti di servizio in essere se necessaria; le regioni procedono altresi' all'affidamento della gestione dei relativi servizi alle societa' costituite allo scopo dalle ex gestioni governative, fermo restando quanto previsto dalle norme in materia di programmazione e di contratti di servizio di cui al capo II. Trascorso il periodo transitorio, tutti i servizi vengono affidati tramite le procedure concorsuali di cui al comma 2, lettera a). (2) (4)
+
+3-ter.
+                        
+                            
+                                Ferme restando le procedure di gara ad evidenza pubblica gia' avviate o concluse, le regioni possono disporre una eventuale proroga dell'affidamento, fino a un massimo di due anni, in favore di soggetti che, entro il termine del periodo transitorio di cui al comma 3-bis, soddisfino una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le aziende partecipate da regioni o enti locali, sia avvenuta la cessione, mediante procedure ad evidenza pubblica, di una quota di almeno il 20 per cento del capitale sociale ovvero di una quota di almeno il 20 per cento dei servizi eserciti a societa' di capitali, anche consortili, nonche' a cooperative e consorti, purche' non partecipate da regioni o da enti locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si sia dato luogo ad un nuovo soggetto societario mediante fusione di almeno due societa' affidatarie di servizio di trasporto pubblico locale nel territorio nazionale ovvero alla costituzione di una societa' consortile, con predisposizione di un piano industriale unitario, di cui siano soci almeno due societa' affidatarie di servizio di trasporto pubblico locale nel territorio nazionale. Le societa' interessate dalle operazioni di fusione o costituzione di societa' consortile devono operare all'interno della medesima regione ovvero in bacini di traffico uniti da contiguita' territoriale in modo tale che tale nuovo soggetto unitario risulti affidatario di un maggiore livello di servizi di trasporto pubblico locale, secondo parametri di congruita' definiti dalle regioni.
+
+3-quater.
+                        
+                            
+                                Durante i periodi di cui ai commi 3-bis e 3-ter, i servizi di trasporto pubblico regionale e locale possono continuare ad essere prestati dagli attuali esercenti, comunque denominati. A tali soggetti gli enti locali affidanti possono integrare il contratto di servizio pubblico gia' in essere ai sensi dell'articolo 19 in modo da assicurare l'equilibrio economico e attraverso il sistema delle compensazioni economiche di cui al regolamento (CEE) n. 
+1191/69 del Consiglio, del 26 giugno 1969, e successive modificazioni, ai sensi e per gli effetti di quanto stabilito all'articolo 17. Nei medesimi periodi, gli affidatari dei servizi, sulla base degli indirizzi degli enti affidanti, provvedono, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al miglioramento delle condizioni di sicurezza, economicita' ed efficacia dei servizi offerti nonche' della qualita' dell'informazione resa all'utenza e dell'accessibilita' ai servizi in termini di frequenza, velocita' commerciale, puntualita' ed affidabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al miglioramento del servizio sul piano della sostenibilita' ambientale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla razionalizzazione dell'offerta dei servizi di trasporto, attraverso integrazione modale in ottemperanza a quanto previsto al comma 3-quinquies.
 
 Le disposizioni di cui ai commi 3-bis e 3-quater si applicano anche ai servizi automobilistici di competenza regionale.
 Nello stesso periodo di cui ai citati commi, le regioni e gli enti locali promuovono la razionalizzazione delle reti anche attraverso l'integrazione dei servizi su gomma e su ferro individuando sistemi di tariffazione unificata volti ad integrare le diverse modalita' di trasporto.
@@ -223,6 +615,80 @@ Le societa' che fruiscono della ulteriore proroga di cui ai commi 3-bis e 3-ter 
 I contratti di servizio assicurano la completa corrispondenza fra oneri per servizi e risorse disponibili, al netto dei proventi tariffari e sono stipulati prima dell'inizio del loro periodo di validita'. Per i servizi ferroviari i contratti di servizio sono stipulati sette mesi prima dell'inizio del loro periodo di validita', al fine di consentire la definizione degli orari nazionali.
 
 I contratti di servizio per i quali non e' assicurata, al momento della loro stipula, la corrispondenza tra gli importi di cui alla lettera e) del comma 3 e le risorse effettivamente disponibili sono nulli.
+
+3.
+                        
+                            
+                                I contratti di servizio, nel rispetto anche delle disposizioni dell'articolo 14, comma 2, del regolamento n. 1191/69/CEE, cosi' come modificato dall'articolo 1 del regolamento 1893/91/CEE, nonche' nel rispetto dei principi sull'erogazione dei servizi pubblici cosi' come fissati dalla carta dei servizi del settore trasporti, definiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il periodo di validita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche dei servizi offerti ed il programma di esercizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli standard qualitativi minimi del servizio, in termini di eta', manutenzione, confortevolezza e pulizia dei veicoli, e di regolarita' delle corse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la struttura tariffaria adottata ed i criteri di aggiornamento annuale di cui all'articolo 18, comma 2, lettera g-bis); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo eventualmente dovuto dall'ente pubblico all'azienda di trasporto per le prestazioni oggetto del contratto e le modalita' di pagamento, nonche' eventuali adeguamenti conseguenti a mutamenti della struttura tariffaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di modificazione del contratto successivamente alla conclusione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le garanzie che devono essere prestate dall'azienda di trasporto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le sanzioni in caso di mancata osservanza del contratto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la ridefinizione dei rapporti, con riferimento ai lavoratori dipendenti e al capitale investito, dal soggetto esercente il servizio di trasporto pubblico, in caso di forti discontinuita' nella quantita' di servizi richiesti nel periodo di validita' del contratto di servizio; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'obbligo dell'applicazione, per le singole tipologie del comparto dei trasporti, dei rispettivi contratti collettivi di lavoro, cosi' come sottoscritti dalle organizzazioni sindacali nazionali maggiormente rappresentative e dalle associazioni datoriali di categoria;
 
 Gli importi di cui al comma 3, lettera e), possono essere soggetti a revisione annuale con modalita' determinate nel contratto stesso allo scopo di incentivare miglioramenti di efficienza. I suddetti importi possono essere incrementati in misura non maggiore del tasso programmato di inflazione, salvo l'eventuale recupero delle differenze in caso di rilevante scostamento dal tasso effettivo di inflazione, a parita' di offerta di trasporto.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2016-04-12;61
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,31 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Il presente regolamento disciplina la riduzione dei parametri relativi ai compensi degli arbitri, nonche' i criteri per l'assegnazione degli arbitrati nei casi di cui all'articolo 1 del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «decreto», il decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Consiglio dell'ordine», il Consiglio dell'ordine circondariale forense; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «presidente», il presidente del Consiglio dell'ordine.
 
 ## Art. 3. — Riduzione dei parametri relativi ai compensi arbitrali
 

@@ -8,8 +8,8 @@ codice_redazionale: 096G0315
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,60 @@ Il Presidente della CNP su richiesta del Comitato tecnico propone al Ministero d
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            Ai fini delle proposte da formulare per l'iscrizione nel RNCF e per i pareri circa l'accettazione dei cloni da considerare "in corso di osservazione e sperimentazione" di cui agli articoli precedenti, la CNP nomina un Comitato tecnico costituito da un rappresentante per ciascuno dei seguenti organismi:
+ 
+                        
+                        
+                            a)
+                            
+                                Direzione generale per le risorse forestali, montane ed idriche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Istituto sperimentale per la selvicoltura di Arezzo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Istituto di sperimentazione per la pioppicoltura di Casale Monferrato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Centro di sperimentazione agricola e forestale di Roma;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Istituto per la ricerca sul legno di Firenze;
+nonche' da:
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante dei pioppicoltori, nominato dalle Associazioni agricole facenti parte della CNP;
+
+                            
+                        
+                        
+                            g)
+                            
+                                un esperto di pioppicoltura nominato dalle regioni in cui e' costituito il Comitato regionale del pioppo od altro organismo equivalente.
+
 Per ogni membro viene nominato un supplente.
 
 Il Comitato tecnico nomina fra i suoi membri il presidente, il cui voto prevale in caso di parita'. Il segretario della CNP e' anche segretario del Comitato tecnico.
@@ -60,6 +114,52 @@ Per lo studio di problemi particolari il Comitato tecnico puo' servirsi di esper
 Ai fini della registrazione il Comitato tecnico prende in considerazione i seguenti elementi:
  - caratteri morfologici e fenologici utili per l'identificazione dei materiali di base e caratteri descrittivi della qualita' del legno rilevati, secondo le norme di cui agli allegati 2 e 3, nei pioppeti comparativi e nei vivai di cui agli allegati 4 e 6;
  - caratteri di comportamento e di produzione, in parte fondamentali ed in parte supplementari, sulla base dei quali viene formulato, con le metodologie previste dal presente decreto ed in conformita' alle norme del decreto del Presidente della Repubblica n. 494/82, allegato C, il giudizio di superiorita' di cui allo stesso decreto del Presidente della Repubblica n. 494/82.
+
+2.
+                    
+                        
+                            Sono considerati fondamentali al fini della sperimentazione i seguenti caratteri di comportamento e di produzione (tra parentesi vengono indicati il/i clone/i testimone/i, dal confronto con il/i quale/iz viene espresso il giudizio sulla superiorita' del nuovo clone, e l'allegato al presente decreto o la norma europea in cui compaiono le modalita' di esecuzione delle prove):
+ 
+                        
+                        
+                            a)
+                            
+                                produzione rapportata alla superficie investita ("I-214" ed eventuale altro clone; allegato 4);
+
+                            
+                        
+                        
+                            b)
+                            
+                                resistenza a "macchie brune" ("I-214"; allegato 5);
+
+                            
+                        
+                        
+                            c)
+                            
+                                resistenza a Marssonina brunnea (Boccalari; allegato 5);
+
+                            
+                        
+                        
+                            d)
+                            
+                                resistenza a Venturia populina ("Luisa Avanzo"; allegato 5);
+
+                            
+                        
+                        
+                            e)
+                            
+                                resistenza a Melampsora spp. ("I-214"; allegato 5);
+
+                            
+                        
+                        
+                            f)
+                            
+                                curvatura del fusto ("I-214"; EN 1310*).
 
 Sono supplementari i seguenti caratteri, ognuno dei quali deve concorrere al giudizio finale sull'idoneita' alla registrazione soltanto se richiesto dalla CNP all'atto della designazione degli Istituti incaricati delle prove:
  g) resistenza a Phloeomyzus passerinii ("I-214"; allegato 5);
@@ -83,11 +183,79 @@ I dati devono essere espressi in forma quantitativa e consentire un'interpretazi
 
 Le prove preliminari devono avere come oggetto perlomeno i caratteri fondamentali di comportamento e produzione; altri caratteri, tra i supplementari, possono essere inclusi a discrezione del selezionatore. Dette prove devono includere i medesimi cloni testimoni previsti per la sperimentazione ufficiale (art. 4).
 
+3.
+                    
+                        
+                            I risultati delle prove preliminari devono essere espressi in forma di relazione che, per ogni carattere, includa:
+ 
+                        
+                        
+                            a)
+                            
+                                descrizione dei materiali e metodi impiegati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esposizione dei risultati ottenuti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                discussione dei risultati.
+
+4.
+                    
+                        
+                            Il Comitato tecnico, esaminata la relazione, puo':
+ 
+                        
+                        
+                            a)
+                            
+                                respingere la domanda di ammissione alla sperimentazione se, in base ai dati presentati, si puo' presumere con ragionevole certezza che il clone non possiede i requisiti di superiorita' richiesti per la registrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                respingere la relazione in tutto o in parte quando questa non dia garanzie sufficienti di attendibilita' dei dati prodotti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                approvare la relazione e ammettere il clone alla sperimentazione ufficiale.
+
 ## Art. 6.
 
 La durata della sperimentazione per l'accertamento delle caratteristiche elencate all'art. 4 viene fissata, a giudizio del Comitato tecnico, in base alla lunghezza dei turni caratteristici delle spaziature adottate nei pioppeti comparativi ed agli scopi dichiarati dal selezionatore.
 
 I caratteri per i quali deve essere valutata la significativita' statistica delle differenze (alla soglia del 95%) rispetto ai cloni testimoni sono quelli che, a norma dell'art. 4, sono stati individuati come fondamentali, nonche' quelli supplementari espressamente indicati dalla CNP.
+
+3.
+                    
+                        
+                            Il Comitato tecnico esprime parere favorevole per l'iscrizione al RNCF quando vengono soddisfatte entrambe le sottoelencate condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                presenza di superiorita' significativa per uno o piu' caratteri tra quelli indicati al secondo comma; nel caso di superiorita' significativa per un solo carattere, i valori di almeno altri due caratteri devono raggiungere come minimo i valori medi dei cloni testimoni per i due catatteri in questione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza di inferiorita' significativa per uno o piu' caratteri tra quelli indicati al secondo comma, salvo il caso in cui il Comitato tecnico, in base all'entita' reale delle differenze riscontrate, il loro peso economico ed i riflessi che esse possono avere sulla coltura in caso di diffusione del clone, ritenga tale inferiorita' compensata dalla superiorita' per altri caratteri indicati nel secondo paragrafo.
 
 Su parere favorevole espresso dal Comitato tecnico, la CNP propone l'iscrizione del clone nel RNCF.
 

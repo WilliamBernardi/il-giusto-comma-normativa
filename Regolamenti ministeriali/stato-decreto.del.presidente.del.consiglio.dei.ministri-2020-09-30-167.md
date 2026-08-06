@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-03-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -44,6 +44,52 @@ I Sottosegretari di Stato svolgono, in particolare, i compiti e le funzioni a lo
 ## Art. 2. — Uffici di diretta collaborazione
 
 Gli Uffici di diretta collaborazione esercitano i compiti di supporto all'organo di direzione politica e di raccordo tra questo e le strutture dell'amministrazione, ai sensi dell'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165.
+
+2.
+                        
+                            
+                                Sono Uffici di diretta collaborazione del Ministro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Ufficio di gabinetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'Ufficio legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'Ufficio stampa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la Segreteria del Ministro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la Segreteria tecnica del Ministro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le Segreterie dei Sottosegretari di Stato.
 
 Per lo svolgimento degli incarichi istituzionali delegati dal Ministro, i Sottosegretari di Stato si avvalgono dell'Ufficio di gabinetto, dell'Ufficio legislativo e del Consigliere diplomatico che opera presso l'Ufficio di gabinetto.
 
@@ -121,6 +167,38 @@ Il personale dipendente da altre pubbliche amministrazioni, assegnato agli Uffic
 L'assegnazione delle risorse umane, finanziarie e strumentali tra gli Uffici di diretta collaborazione e' disposta con provvedimento del Capo di gabinetto.
 
 ## Art. 10. — Trattamento economico
+
+1.
+                        
+                            
+                                Ai responsabili degli Uffici di diretta collaborazione spetta un trattamento economico omnicomprensivo, determinato con la modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nel rispetto di quanto stabilito dall'articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito in legge, con modificazioni, dall'articolo 1, comma 1, della legge 22 dicembre 2011, n. 214, nonche' dall'articolo 13 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, e composto come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il Capo di gabinetto, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti agli uffici di livello dirigenziale generale del Ministero incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165, e in un emolumento accessorio da fissare in un importo equivalente alla misura massima del trattamento accessorio, ivi compresa l'indennita' di risultato, spettante ai Capi dipartimento del Ministero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il Capo dell'Ufficio legislativo e per il Presidente dell'Organismo indipendente di valutazione della performance di cui all'articolo 11, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad uffici di livello dirigenziale generale del Ministero, incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165, e in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio, ivi compresa l'indennita' di risultato, spettante ai dirigenti preposti ad uffici di livello dirigenziale generale dello stesso Ministero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il Segretario particolare del Ministro, per il Capo della Segreteria del Ministro, per il Consigliere diplomatico, per il Capo della Segreteria tecnica e per i Capi delle segreterie dei Sottosegretari di Stato, in una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale dei dirigenti preposti ad uffici di livello dirigenziale non generale del Ministero e in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti preposti ad uffici di livello dirigenziale non generale del Ministero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per il Capo dell'Ufficio stampa del Ministro e, ove nominato, per il Portavoce del Ministro, in un trattamento economico conforme a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo. Il trattamento economico del Capo dell'Ufficio stampa e' da intendersi unico e onnicomprensivo anche in caso di attribuzione delle funzioni di Portavoce del Ministro ai sensi dell'articolo 6, comma 3.
 
 Ai dirigenti di seconda fascia assegnati agli Uffici di diretta collaborazione e' corrisposta una retribuzione di posizione variabile in misura equivalente ai valori economici massimi attribuiti ai dirigenti della stessa fascia del Ministero, nonche' un'indennita' sostitutiva della retribuzione di risultato, determinata con decreto del Ministro, sentito il Ministero dell'economia e delle finanze, su proposta del Capo di gabinetto, di importo pari a due terzi della retribuzione di posizione complessiva.
 

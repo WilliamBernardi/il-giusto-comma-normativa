@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-10-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -48,6 +48,30 @@ L'imposta e' dovuta in misura cumulativa, all'atto della richiesta di formalita'
  2. Con decreto del Ministero delle finanze, di concerto con il Ministero della giustizia, e' approvato il modello unico informatico e sono stabilite le modalita' tecniche necessarie per la trasmissione dei dati relativi alla procedura telematica di cui all'articolo 3-bis.".
 
 ## Art. 2. — Modifiche al decreto legislativo 18 dicembre 1997, n. 466
+
+1.
+                    
+                        
+                            Al decreto legislativo 18 dicembre 1997, n. 466, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 1:
+ 1) al comma 1, primo periodo, dopo le parole: "30 settembre 1996", sono inserite le seguenti: ", incrementata del 20 per cento per il periodo d'imposta successivo a quello in corso al 30 settembre 1999, e del 40 per cento per i periodi d'imposta successivi";
+ 2) al comma 4, ultimo periodo, dopo le parole: "variazione in aumento", sono inserite le seguenti: ", cosi' come incrementata ai sensi del comma 1,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 5:
+ 1) al comma 1, le parole: "ai soggetti indicati nei commi 2, 3, 4 e 5" sono sostituite dalle seguenti: "ai soggetti indicati nel comma 2 assumendo, in luogo della variazione in aumento del capitale investito, il patrimonio netto di cui all'articolo 1, comma 4";
+ 2) al comma 2, secondo periodo, dopo le parole: "Tuttavia detto reddito" sono inserite le seguenti: ", per un importo comunque non eccedente il limite superiore previsto per il primo scaglione,";
+ 3) i commi 3 e 4 sono soppressi;
+ 4) al comma 5, le parole: "di cui ai commi 1, 2, 3 e 4" sono sostituite dalle seguenti: "di cui agli articoli 1, 2, 3 e 4".
 
 Le disposizioni di cui al comma 1 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 30 settembre 1999 e non hanno effetto ai fini della determinazione dell'imposta da versare a titolo di acconto per il medesimo periodo d'imposta.
 

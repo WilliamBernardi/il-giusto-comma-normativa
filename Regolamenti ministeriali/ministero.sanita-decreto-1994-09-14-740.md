@@ -8,8 +8,8 @@ codice_redazionale: 095G0002
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,45 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 lug
 ## Art. 1.
 
 E' individuata la figura dell'ostetrica/o con il seguente profilo: l'ostetrica/o e' l'operatore sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'albo professionale, assiste e consiglia la donna nel periodo della gravidanza, durante il parto e nel puerperio, conduce e porta a termine parti eutocici con propria responsabilita' e presta assistenza al neonato.
+
+2.
+                    
+                        
+                            L'ostetrica/o, per quanto di sua competenza, partecipa:
+ 
+                        
+                        
+                            a)
+                            
+                                ad interventi di educazione sanitaria e sessuale sia nell'ambito della famiglia che nella comunita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla preparazione psicoprofilattica al parto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla preparazione e all'assistenza ad interventi ginecologici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla prevenzione e all'accertamento dei tumori della sfera genitale femminile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai programmi di assistenza materna e neonatale.
 
 L'ostetrica/o, nel rispetto dell'etica professionale, gestisce, come membro dell'equipe sanitaria, l'intervento assistenziale di propria competenza.
 

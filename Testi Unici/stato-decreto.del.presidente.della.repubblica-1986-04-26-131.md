@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-06-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -78,11 +78,131 @@ L'imposta di registro si applica, nella misura indicata nella  tariffa allegata 
 
 ## Art. 2. — Atti soggetti a registrazione
 
+1.
+                        
+                            
+                                Sono soggetti a registrazione, a norma degli articoli 
+ seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli atti indicati nella tariffa, se formati per iscritto nel 
+ territorio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contratti verbali indicati nel comma 1 dell'art. 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni delle societa' ed enti esteri indicate 
+ nell'art. 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti formati all'estero, compresi quelli dei consoli 
+ italiani, che comportano trasferimento della proprieta' ovvero 
+ costituzione o trasferimento di altri diritti reali, anche di 
+ garanzia, su beni immobili o aziende esistenti nel territorio dello 
+ Stato e quelli che hanno per oggetto la locazione o l'affitto di tali beni.
+
 ## Art. 3. — Contratti verbali
+
+1.
+                        
+                            
+                                Sono soggetti a registrazione i contratti verbali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di locazione o affitto di beni immobili esistenti nel 
+ territorio dello Stato e relative cessioni, risoluzioni e proroghe anche tacite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di trasferimento e di affitto di aziende esistenti nel 
+ territorio dello Stato e di costituzione o trasferimento di diritti 
+ reali di godimento sulle stesse e relative cessioni, risoluzioni e proroghe anche tacite.
 
 Per gli altri contratti verbali si applicano le disposizioni  dell'art. 22.
 
 ## Art. 4. — Operazioni di societa' ed enti esteri
+
+1.
+                        
+                            
+                                Sono soggetti a registrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione nel territorio dello Stato della sededell'amministrazione di societa' di ogni tipo e oggetto costituite all'estero ovvero della sede dell'amministrazione di enti diversi dalle societa', compresi i consorzi, le associazioni e le altre organizzazioni di persone o di beni, con o senza personalita' giuridica, aventi per oggetto esclusivo o principale l'esercizio di attivita' commerciali o agricole, parimenti costituiti all'estero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'istituzione nel territorio dello Stato della sede legale di uno dei soggetti di cui alla lettera a) avente la sede dell'amministrazione in uno Stato non facente parte della ((Unione europea)); ((93))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    il trasferimento nel territorio dello Stato, da uno Stato non facente parte della ((Unione europea)), della sede dell'amministrazione o della sede legale di uno dei soggetti di cui alla lettera a) qualora la sede legale o rispettivamente quella dell'amministrazione non si trovi in uno Stato della ((Unione europea)); ((93))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    il trasferimento nel territorio dello Stato, da altro Stato della ((Unione europea)), della sede dell'amministrazione di uno dei soggetti di cui alla lettera a), sempreche' non sia stata assolta nello Stato di provenienza l'imposta prevista dalla ((direttiva 2008/7/CE del Consiglio, del 12 febbraio 2008)); ((93))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    il trasferimento nel territorio dello Stato, da altro Stato della ((Unione europea)), della sede legale di uno dei soggetti di cui alla lettera a), avente la sede dell'amministrazione in uno Stato non facente parte della ((Unione europea)), sempreche' non sia stata assolta nello Stato di provenienza l'imposta prevista dalla direttiva di cui alla lettera d); ((93))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    la istituzione o il trasferimento nel territorio dello Stato di sedi secondarie di uno dei soggetti di cui alla lettera a), non avente la sede dell'amministrazione ne' quella legale in uno Stato della ((Unione europea)), sempreche', in caso di trasferimento, non sia stata assolta, in un altro Stato della ((Unione europea)), l'imposta prevista dalla direttiva di cui alla lettera d); ((93))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    la messa a disposizione di capitali di investimento o di esercizio a favore delle sedi secondarie stabilite nel territorio dello Stato dai soggetti di cui alla lettera a) non aventi la sede dell'amministrazione ne' quella legale in uno Stato della ((Unione europea)); ((93))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    l'istituzione o il trasferimento nel territorio dello Stato dell'oggetto principale dell'impresa da parte di uno dei soggetti di cui alla lettera a) che non abbia la sede legale o la sede dell'amministrazione in uno Stato facente parte della ((Unione europea)) ovvero che in tale Stato non sia soggetto all'imposta prevista dalla direttiva di cui alla lettera d). ((93))
 
 ---------------
                             AGGIORNAMENTO (93)
@@ -128,6 +248,45 @@ La registrazione di tutti gli altri atti puo' essere eseguita da qualsiasi ((uff
  Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ## Art. 10. — Soggetti obbligati a richiedere la registrazione
+
+1.
+                        
+                            
+                                Sono obbligati a richiedere la registrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parti contraenti per le scritture private non autenticate per i contratti verbali e per gli atti pubblici e privati formati all'estero nonche` i rappresentanti delle societa` o enti esteri, ovvero uno dei soggetti che rispondono delle obbligazioni della societa` o ente, per le operazioni di cui all'art. 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i notai, gli ufficiali giudiziari, i segretari o delegati della pubblica amministrazione e gli altri pubblici ufficiali per gli atti da essi redatti, ricevuti o autenticati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i cancellieri e i segretari per le sentenze, i decreti e gli altri atti degli organi giurisdizionali alla cui formazione hanno partecipato nell'esercizio delle loro funzioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli impiegati dell'amministrazione finanziaria e gli appartenenti al Corpo della guardia di finanza per gli atti da registrare d'ufficio a norma dell'art. 15. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    gli agenti di affari in mediazione iscritti nella sezione degli agenti immobiliari del ruolo di cui all'articolo 2 della legge 3 febbraio 1989, n. 39, per le scritture private non autenticate di natura negoziale stipulate a seguito della loro attivita' per la conclusione degli affari.
 
 ## Art. 11. — Richiesta di registrazione degli atti scritti
 
@@ -197,6 +356,45 @@ Agli effetti del presente articolo i funzionari e i cancellieri preposti all'uff
 All'atto da registrare devono essere uniti in originale o copia autenticata, a cura del richiedente, il provvedimento di approvazione o di omologazione e la lettera di cui al comma 2.
 
 ## Art. 15. — Registrazione d'ufficio
+
+1.
+                        
+                            
+                                In mancanza di richiesta da parte dei soggetti indicati alle lettere a), b) e c) dell'art. 10 la registrazione e' eseguita d'ufficio, previa riscossione dell'imposta dovuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli atti pubblici e per le scritture private conservati presso il pubblico ufficiale che li ha redatti o le ha autenticate nonche' per gli atti degli organi giurisdizionali conservati presso le cancellerie giudiziarie, qualora non si rinvengano gli atti iscritti nei relativi repertori, la registrazione e' eseguita sulla base degli elementi dagli stessi desumibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le scritture private non autenticate soggette a registrazione in termine fisso quando siano depositate presso pubblici uffici o quando l'amministrazione finanziaria ne sia venuta legittimamente in possesso in base ad una legge che autorizzi il sequestro o ne abbia avuta visione nel corso di accessi, ispezioni o verifiche eseguiti ai fini di altri tributi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i contratti verbali di cui alla lettera a) dell'art. 3 e per le operazioni di cui all'art. 4 quando, in difetto di prova diretta, risultino da presunzioni gravi, precise e concordanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i contratti verbali di cui alla lettera b) dell'art. 3 quando, in difetto di prova diretta, la loro esistenza risulti, continuando nello stesso locale o in parte di esso la stessa attivita' commerciale, da cambiamenti nella ditta, nell'insegna o nella titolarita' dell'esercizio ovvero da altre presunzioni gravi, precise e concordanti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per gli atti soggetti a registrazione in termine fisso rispetto ai quali e' intervenuta la decadenza di cui all'art. 76, comma 1, e per gli atti soggetti a registrazione in caso d'uso ai sensi dell'art. 6, quando siano depositati a norma di tale ultimo articolo.
 
 Nelle ipotesi previste dalla lettera c) e della lettera d) del comma 1 e' ammessa la prova contraria, ad esclusione di quella testimoniale.
 
@@ -517,6 +715,73 @@ L'imposta applicabile, ai sensi degli articoli precedenti, sugli atti non presen
 
 ## Art. 43. — Base imponibile
 
+1.
+                        
+                            
+                                La base imponibile, salvo quanto disposto negli articoli seguenti, e' costituita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i contratti a titolo oneroso traslativi o costitutivi di diritti reali dal valore del bene o del diritto alla data dell'atto ovvero, per gli atti sottoposti a condizione sospensiva, ad approvazione o ad omologazione, alla data in cui si producono i relativi effetti traslativi o costitutivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le permute, salvo il disposto del comma 2 dell'art. 40, dal valore del bene che da' luogo all'applicazione della maggiore imposta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i contratti che importano l'assunzione di una obbligazione di fare in corrispettivo della cessione di un bene o dell'assunzione di altra obbligazione di fare, dal valore del bene ceduto o della prestazione che da' luogo all'applicazione della maggiore imposta, salvo il disposto del comma 2 dell'art. 40; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le cessioni di contratto, dal corrispettivo pattuito per la cessione e dal valore delle prestazioni ancora da eseguire; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per gli atti portanti assunzione di una obbligazione che non costituisce corrispettivo di altra prestazione o portanti estinzione di una precedente obbligazione, dall'ammontare dell'obbligazione assunta o estinta e, se questa ha per oggetto un bene diverso dal denaro, dal valore del bene alla data dell'atto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per gli atti con i quali viene prestata garanzia reale o personale, dalla somma garantita; se la garanzia e' prestata in denaro o in titoli, dalla somma di denaro o dal valore dei titoli, se inferiore alla somma garantita; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ABROGATO DALLA L. 23 DICEMBRE 1999, N. 488; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per i contratti diversi da quelli indicati nelle lettere precedenti, aventi per oggetto prestazioni a contenuto patrimoniale, dall'ammontare dei corrispettivi in denaro pattuiti per l'intera durata del contratto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per i contratti relativi ad operazioni soggette e ad operazioni non soggette all'imposta sul valore aggiunto, dal valore delle cessioni e delle prestazioni non soggette a tale imposta.
+
 I debiti o gli altri oneri accollati e le obbligazioni estinte per effetto dell'atto concorrono a formare la base imponibile.
 
 I prezzi o i corrispettivi in valuta estera o in valuta oro sono ragguagliati al cambio del giorno della stipulazione dell'atto, sempreche' le parti non abbiano stabilito nei loro rapporti altra data di ragguaglio.
@@ -558,6 +823,31 @@ Per gli atti concernenti le concessioni di cui all'art. 5 della parte prima dell
 ## Art. 46. — Rendite e pensioni
 
 Per la costituzione di rendite la base imponibile e' costituita dalla somma pagata o dal valore dei beni ceduti dal beneficiario ovvero, se maggiore, dal valore della rendita; per la costituzione di pensioni la base imponibile e' costituita dal valore della pensione.
+
+2.
+                        
+                            
+                                Il valore della rendita o pensione e' costituito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da quaranta volte dell'annualita' se si tratta di rendita perpetua o a tempo indeterminato; (49) (51) (55a) (58a) (62) (69) (71) (73) (75) (79) (82) (87) (91) (93)(96)(102) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal valore attuale dell'annualita', calcolato al saggio legale di interesse, se si tratta di rendita o pensione a tempo determinato; (49) (51) (55a) (58a) (62) (69) (71) (73)(75) (79) (82) (87) (91) (93) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'ammontare che si ottiene moltiplicando l'annualita' per il coefficiente indicato nel prospetto allegato al presente testo unico, applicabile in relazione all'eta' della persona alla cui morte deve cessare, se si tratta di rendita o pensione vitalizia.
 
 Il valore della rendita o pensione costituita congiuntamente a favore di piu' persone, che debba cessare con la morte di una qualsiasi di esse, e' determinato a norma della lettera c) del comma 2 tenendo conto dell'eta' del meno giovane dei beneficiari. Se la rendita o pensione e' costituita congiuntamente a favore di piu' persone con diritto di accrescimento tra loro, il valore e' determinato tenendo conto dell'eta' del piu' giovane dei beneficiari.
 
@@ -794,6 +1084,24 @@ Per gli interessi di mora si applicano le disposizioni delle leggi 26 gennaio 19
 
 ## Art. 56. — Riscossione in pendenza di giudizio, riscossione coattiva e privilegio
 
+1.
+                        
+                            
+                                Il ricorso del contribuente non sospende la riscossione, a meno che si tratti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di imposta complementare per il maggior valore accertato. In tal caso la maggior imposta deve essere pagata per un terzo entro il termine di cui all'articolo 55, per due terzi dell'imposta liquidata sul valore risultante dalla decisione della ((Corte di giustizia tributaria)) di primo grado e per il resto dopo la decisione della commissione di secondo grado, in ogni caso al netto delle somme gia' riscosse; la direzione regionale delle entrate, se ricorrono gravi motivi, puo' sospendere la riscossione fino alla decisione della ((Corte di giustizia tributaria)) di primo grado. Se l'imposta riscuotibile in base alla decisione della ((Corte di giustizia tributaria)) e' inferiore a quella gia' riscossa, il contribuente ha diritto al rimborso della differenza entro sessanta giorni dalla notifica della decisione, che deve essere eseguita anche su richiesta del contribuente; ((93))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    di imposte suppletive, che sono riscosse per intero dopo la decisione ((della corte di giustizia tributaria di secondo grado)) o dell'ultima decisione non impugnata. ((93))
+
 Il pagamento delle imposte, di cui al comma 1,richieste in relazione alle decisioni delle ((Corti di giustizia tributarie)), deve essere effettuato, con gli interessi di mora, entro sessanta giorni dalla notifica dell'avviso di liquidazione. ((93))
 
 COMMA ABROGATO DAL D.LGS. 18 DICEMBRE 1997, N. 473.
@@ -846,6 +1154,38 @@ L'ingiunzione e' provvisoriamente esecutiva a norma dell'art. 642 del codice di 
  Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ## Art. 59. — Registrazione a debito
+
+1.
+                        
+                            
+                                Si registrano a debito, cioe` senza contemporaneo pagamento delle imposte dovute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le sentenze, i provvedimenti e gli atti che occorrono nei procedimenti contenziosi nei quali sono interessate le amministrazioni dello Stato e le persone o gli enti morali ammessi al beneficio del patrocinio a spese dello Stato quando essi vengono formati d'ufficio o ad istanza o nell'interesse dei detti soggetti; la registrazione a debito non e` ammessa per le sentenze portanti trasferimento di beni e diritti di qualsiasi natura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti formati nell'interesse dei soggetti di cui alla lettera a) dopo che sia iniziato il procedimento contenzioso e necessari per l'ulteriore corso del procedimento stesso o per la sua definizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti relativi alla procedura fallimentare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le sentenze e gli altri atti degli organi giurisdizionali che condannano al risarcimento del danno prodotto da fatti costituenti reato ((, nonche', con esclusivo riferimento alla parte danneggiata, i provvedimenti dell'autorita' giudiziaria volti a dare esecuzione alla condanna al risarcimento del danno prodotto dai fatti di cui agli articoli 575, aggravato ai sensi dell'articolo 577, primo comma, numero 1, o secondo comma, e 577-bis del codice penale)). ((100))
 
 ---------------
                             AGGIORNAMENTO (100)
@@ -914,6 +1254,46 @@ Gli atti in base ai quali sono stati emessi provvedimenti giurisdizionali non so
 ## Art. 66. — Divieto di rilascio di documenti relativi ad atti non registrati
 
 I soggetti indicati nell'art. 10, lettere b) e c), possono rilasciare originali, copie ed estratti degli atti soggetti a registrazione in termine fisso da loro formati o autenticati solo dopo che gli stessi sono stati registrati, indicando gli estremi della registrazione, compreso l'ammontare dell'imposta, con apposita attestazione da loro sottoscritta.
+
+2.
+                        
+                            
+                                La disposizione di cui al comma 1 non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli originali, copie ed estratti di sentenze ed altri provvedimenti giurisdizionali, o di atti formati dagli ufficiali 
+ giudiziari e dagli uscieri, che siano rilasciati per la prosecuzione del giudizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli atti richiesti d'ufficio ai fini di un procedimento giurisdizionale, salvo il disposto del comma 7 dell'art. 65; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle copie degli atti destinate alla trascrizione o iscrizione nei registri immobiliari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle copie degli atti occorrenti per l'approvazione od omologazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle copie di atti che il pubblico ufficiale e' tenuto per legge a depositare presso pubblici uffici. (52)((85))
 
 Nei casi di cui al comma 2 deve essere apposta sull'originale, sulla copia o sull'estratto rilasciati prima della registrazione l'indicazione dell'uso. (36)
 
@@ -1061,6 +1441,31 @@ Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si appl
 
 L'imposta sugli atti soggetti a registrazione ai sensi dell'art. 5 non presentati per la registrazione deve essere richiesta, a pena di decadenza, nel termine di cinque anni dal giorno in cui, a norma degli articolo 13 e 14, avrebbe dovuto essere richiesta la registrazione o, a norma dell'art. 15, lettere c), d) ed e), si e` verificato il fatto che legittima la registrazione d'ufficio. Nello stesso termine, decorrente dal giorno in cui avrebbero dovuto essere presentate, deve essere richiesta l'imposta dovuta in base alle denunce prescritte all'art. 19. 
  1 bis. L'avviso di rettifica e di liquidazione della maggiore imposta di cui all'articolo 52 comma 1, deve essere notificato entro il termine di decadenza di due anni ((dalla registrazione o dal pagamento dell'imposta principale richiesta dall'ufficio ai sensi dell'articolo 41, comma 2-bis)). ((93))
+
+2.
+                        
+                            
+                                Salvo quanto disposto nel comma 1 bis, l'imposta deve essere richiesta, a pena di decadenza, entro il termine di tre anni decorrenti, per gli atti presentati per la registrazione o registrati per via telematica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla richiesta di registrazione, se si tratta di imposta principale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla data in cui e` stata presentata la denuncia di cui all'articolo 19 ((...)); dalla data della notificazione della decisione delle ((Corti di giustizia tributarie)) ovvero dalla data in cui la stessa e` divenuta definitiva nel caso in cui sia stato proposto ricorso avverso l'avviso di rettifica e di liquidazione della maggiore imposta. Nel caso di occultazione di corrispettivo di cui all'articolo 72, il termine decorre dalla data di registrazione dell'atto; ((93))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    dalla data di registrazione dell'atto ovvero dalla data di presentazione della denuncia di cui all'articolo 19, se si tratta di imposta suppletiva.
 
 Salvo quanto previsto nei commi 1 e 2, l'imposta relativa alle annualita' successive alla prima, alle cessioni, risoluzioni e proroghe di cui all'articolo 17, nonche' le connesse sanzioni e gli interessi dovuti, sono richiesti, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello di scadenza del pagamento.
 

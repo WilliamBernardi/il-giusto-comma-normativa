@@ -8,8 +8,8 @@ codice_redazionale: 097G0444
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -34,6 +34,73 @@ Nell'ambito della Presidenza del Consiglio dei Ministri e' istituito il Dipartim
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Il Dipartimento provvede agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                l'indirizzo, la proposta e il coordinamento delle iniziative normative e amministrative in tutte le materie attinenti alla progettazione e alla attuazione delle politiche di pari opportunita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisizione e l'organizzazione di informazioni, anche attraverso la costituzione di banche dati, nonche' la promozione e il coordinamento delle attivita' conoscitive, di verifica, di controllo, di formazione e informazione nelle materie della parita' e delle pari opportunita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'adozione e il coordinamento delle iniziative di studio e di elaborazione progettuale inerenti le problematiche della parita' e delle pari opportunita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                la definizione di nuove politiche di intervento, di studio e promozione di progetti ed iniziative, nonche' di coordinamento delle iniziative delle amministrazioni e degli altri enti pubblici nelle materie della parita' e delle pari opportunita';
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indirizzo e il coordinamento delle amministrazioni centrali e locali competenti, al fine di assicurare la corretta attuazione delle normative e degli orientamenti governativi nelle materie della parita' e delle pari opportunita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                la promozione delle necessarie verifiche in materia da parte delle amministrazioni competenti, anche ai fini della richiesta, in casi di particolare rilevanza, di specifiche relazioni o del riesame di particolari provvedimenti ai sensi dell'art. 5, comma 2, lettera c), della legge 23 agosto 1988, n. 400;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'adozione delle iniziative necessarie all'adeguamento dell'ordinamento nazionale ai principi ed alle disposizioni dell'Unione europea e per la realizzazione dei programmi comunitari nelle materie della parita' e delle pari opportunita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                la cura dei rapporti con le amministrazioni statali, regionali, locali, nonche' con gli organismi operanti in materia di parita' e di pari opportunita' in Italia e all'estero, con particolare riguardo all'Unione europea, all'Organizzazione mondiale delle Nazioni Unite, al Consiglio d'Europa e all'OCSE;
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'adozione delle iniziative necessarie alla rappresentanza del Governo italiano, in materia, nei rapporti internazionali e in organismi nazionali e internazionali, anche mediante la designazione di rappresentanti.
 
 Il Dipartimento provvede, inoltre, agli affari generali e agli affari relativi al personale per il proprio funzionamento, ai compiti strumentali all'esercizio di ogni altra funzione comunque attribuita o delegata al Ministro per le pari opportunita', all'attivita' degli organi collegiali operanti presso il Dipartimento nonche' al necessario coordinamento delle attivita' svolte dalla Commissione nazionale per le parita' e le pari opportunita' tra uomo e donna, di cui alla legge 22 giugno 1990, n. 164, e dagli altri organi collegiali operanti in materia di parita' e di pari opportunita'.
 
@@ -72,6 +139,28 @@ Alle dirette dipendenze del capo del Dipartimento opera il Servizio per gli affa
 Il capo del Dipartimento cura i rapporti con il Segretariato generale e con gli altri uffici e Dipartimenti della Presidenza del Consiglio dei Ministri secondo le disposizioni impartite dal Ministro.
 
 ## Art. 7. — Organizzazione
+
+1.
+                    
+                        
+                            Il Ministro provvede con propri decreti all'organizzazione del Dipartimento, in particolare attraverso la costituzione dei seguenti uffici:
+ 
+                        
+                        
+                            a)
+                            
+                                Ufficio per gli interventi in campo economico e sociale: provvede agli adempimenti di cui all'articolo 2, comma 1, lettere b), c), d), e), g) e h), e si articola nei seguenti servizi:
+ 1) servizio per le politiche economiche e sociali;
+ 2) servizio per le politiche comunitarie ed internazionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ufficio per gli interventi in materia di parita' e di pari opportunita': provvede agli adempimenti di cui all'articolo 2, comma 1, lettere b), c), d), e) e h), e si articola nei seguenti servizi:
+ 1) servizio per il coordinamento degli organismi di parita' e di pari opportunita';
+ 2) servizio per le iniziative scientifiche, culturali e sociali.
 
 Gli uffici sono strutture di livello dirigenziale generale in cui si articola il Dipartimento, i servizi sono unita' operative di base di livello dirigenziale.
 

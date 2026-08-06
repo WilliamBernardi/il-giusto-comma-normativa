@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2004-12-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,45 @@ Sentite, in data 1o giugno e 27 luglio 2000, le organizzazioni sindacali maggior
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 28 agosto 2000;
 
 ## Art. 1. — Organi dell'Istituto
+
+1.
+                    
+                        
+                            L'Istituto nazionale per la valutazione del sistema di istruzione, ente di diritto pubblico sottoposto alla vigilanza del Ministero della pubblica istruzione, di seguito denominato "Istituto", istituito con decreto legislativo 20 luglio 1999, n. 258, di seguito denominato "decreto legislativo" che ne individua le finalita', e' dotato dei seguenti organi di amministrazione e scientifici: 
+ 
+                        
+                        
+                            a)
+                            
+                                presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                comitato tecnico-scientifico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                collegio dei revisori. ((3)) 
+ 
+----------------
+
+ 
+AGGIORNAMENTO (3) 
+ Il D.Lgs. 19 novembre 2004, n. 286 ha disposto (con l'art. 16, comma 5) che "Alla data di insediamento dei nuovi organi e' abrogato l'articolo 1 del decreto legislativo 20 luglio 1999, n. 258 e cessano di applicarsi nei confronti dell'Istituto le restanti disposizioni del predetto decreto; dalla stessa data e' altresi' abrogato il 
+decreto del Presidente della Repubblica 21 settembre 2000, n. 313."
 
 ## Art. 2. — Presidente
 
@@ -42,6 +81,85 @@ Il Presidente, inoltre, formula al consiglio di amministrazione la proposta per 
 
 ## Art. 3. — Consiglio di amministrazione
 
+1.
+                    
+                        
+                            Al consiglio di amministrazione sono attribuite le seguenti competenze:
+ 
+                        
+                        
+                            a)
+                            
+                                approva annualmente, nel rispetto delle priorita' strategiche individuate con la direttiva annuale del Ministro della pubblica istruzione, adottata ai sensi dell'articolo 1, comma 1, del decreto legislativo, il programma dell'Istituto, comprensivo anche dell'individuazione dei settori nei quali si realizzano le attivita' di valutazione e dell'indicazione delle ricerche internazionali alle quali l'Istituto partecipa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                determina gli indirizzi generali della gestione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera il bilancio di previsione e il conto consuntivo dell'Istituto e le eventuali variazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                conferisce l'incarico di direttore;
+
+                            
+                        
+                        
+                            e)
+                            
+                                valuta l'attivita' amministrativa del direttore anche avvalendosi dei risultati dei controlli di gestione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                nomina i componenti del comitato tecnico-scientifico e degli altri organismi di consulenza tecnicoscientifica di cui all'articolo 5;
+
+                            
+                        
+                        
+                            g)
+                            
+                                nomina i componenti del collegio dei revisori.
+
+2.
+                    
+                        
+                            Ai fini di cui all'articolo 1, comma 1, lettera d), e dell'articolo 6 del decreto legislativo 30 luglio 1999, n. 286, il consiglio stabilisce le modalita' operative del controllo strategico.
+Sulla base delle risultanze del controllo strategico il consiglio:
+ 
+                        
+                        
+                            a)
+                            
+                                individua le cause dell'eventuale mancata rispondenza dei risultati agli obiettivi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera i necessari interventi correttivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valuta le eventuali responsabilita' del direttore, adottando le conseguenti determinazioni.
+
 Il Consiglio si riunisce per l'approvazione del programma annuale e per deliberare il bilancio di previsione, e le relative variazioni, nonche' il conto consuntivo; si riunisce, altresi', su convocazione del Presidente ed ogni volta che ne sia richiesto da tre componenti. ((3))
 
 ----------------
@@ -51,6 +169,52 @@ Il Consiglio si riunisce per l'approvazione del programma annuale e per delibera
 ## Art. 4. — Direttore
 
 L'incarico di direttore e' conferito con contratto a tempo determinato di durata triennale, rinnovabile, a persona in possesso di specifiche competenze amministrative, di organizzazione del lavoro e inerenti l'attivita' dell'Istituto, in base a criteri fissati con deliberazione del Consiglio di amministrazione. Esso puo' essere conferito ai dipendenti delle amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, e ad estranei alla pubblica amministrazione. Il conferimento dell'incarico a personale in servizio presso le predette amministrazioni comporta il collocamento fuori ruolo.
+
+2.
+                    
+                        
+                            Il direttore, nel rispetto degli indirizzi generali della gestione determinati dal consiglio di amministrazione, e' responsabile del funzionamento complessivo dell'Istituto, dell'attuazione del programma, dall'esecuzione delle deliberazioni del Consiglio di amministrazione e della gestione del personale. A tal fine adotta gli atti di gestione, compresi quelli che impegnano l'Istituto verso l'esterno. Il direttore, tra l'altro, nell'esercizio dei suoi compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone, in attuazione del programma dell'Istituto, il bilancio di previsione; predispone altresi' il conto consuntivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicura le condizioni, per la piu' efficace attuazione dei progetti e delle attivita' previste nel programma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta gli atti di organizzazione degli uffici, delle articolazioni strutturali dell'Istituto e dei dipartimenti di ricerca previsti dal regolamento dell'Istituto; assegna il relativo personale e nomina i responsabili sulla base dei criteri previsti dal regolamento stesso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                stipula i contratti di prestazione d'opera e di ricerca necessari per la realizzazione dei progetti previsti dal programma sulla base dei criteri fissati nel regolamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                cura l'applicazione del regolamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                valuta l'attivita' dei dirigenti.
 
 Il direttore partecipa alle sedute del Consiglio di amministrazione senza diritto di voto. La sua partecipazione e' esclusa quando il Consiglio ne valuta l'attivita'.
 
@@ -143,6 +307,38 @@ L'Istituto assicura adeguate forme di pubblicizzazione dei contratti che intende
                          Il D.Lgs. 19 novembre 2004, n. 286 ha disposto (con l'art. 16, comma 5) che "Alla data di insediamento dei nuovi organi e' abrogato l'articolo 1 del decreto legislativo 20 luglio 1999, n. 258 e cessano di applicarsi nei confronti dell'Istituto le restanti disposizioni del predetto decreto; dalla stessa data e' altresi' abrogato il decreto del Presidente della Repubblica 21 settembre 2000, n. 313."
 
 ## Art. 12. — Patrimonio e risorse finanziarie
+
+1.
+                    
+                        
+                            Le risorse finanziarie sono costituite da:
+ 
+                        
+                        
+                            a)
+                            
+                                redditi del patrimonio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributo ordinario dello Stato comprensivo anche delle somme per le spese del personale e per la corresponsione dei compensi ai componenti degli organi a norma dell'articolo 3, comma 4, del decreto legislativo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fondi annualmente assegnati per attuare i progetti e le attivita' programmate, nel rispetto della direttiva ministeriale di cui al precedente articolo 2, gravanti sullo stato di previsione del Ministero della pubblica istruzione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                proventi derivanti dalla gestione delle attivita', comprese convenzioni con amministrazioni o enti pubblici o privati, nazionali o internazionali, per la realizzazione di specifici programmi e obiettivi. ((3))
 
 ----------------
                         AGGIORNAMENTO (3)

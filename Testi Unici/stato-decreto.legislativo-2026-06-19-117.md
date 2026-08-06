@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-06-19;117
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO

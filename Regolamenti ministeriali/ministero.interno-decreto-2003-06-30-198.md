@@ -8,8 +8,8 @@ codice_redazionale: 003G0222
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,31 @@ Il giudizio di idoneita' al servizio, oltre che ai fini dell'applicazione delle 
 ## Art. 3. — Requisiti di idoneita' fisica e psichica e cause
  di non idoneita' per l'ammissione ai concorsi pubblici
 
+1.
+                        
+                            
+                                I requisiti di idoneita' fisica e psichica di cui devono essere in possesso i candidati ai concorsi pubblici per l'accesso ai ruoli degli agenti ed assistenti, degli ispettori e dei commissari, sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    sana e robusta costituzione fisica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    statura non inferiore a m. 1,65 per gli uomini e m. 1,61 per le donne. Il rapporto altezza-peso, il tono e l'efficienza delle masse muscolari, la distribuzione del pannicolo adiposo e il trofismo devono rispecchiare un'armonia atta a configurare la robusta costituzione e la necessaria agilita' indispensabile per l'espletamento dei servizi di polizia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso cromatico e luminoso normale, campo visivo normale, visione notturna sufficiente, visione binoculare e stereoscopica sufficiente. Per l'ammissione al concorso per l'accesso al ruolo degli agenti ed assistenti, visus naturale non inferiore a 12/10 complessivi quale somma del visus dei due occhi, con non meno di 5/10 nell'occhio che vede di meno, ed un visus corretto a 10/10 per ciascun occhio per una correzione massima complessiva di una diottria quale somma dei singoli vizi di rifrazione. Per l'ammissione ai concorsi per l'accesso ai ruoli degli ispettori e dei commissari, visus corretto non inferiore a 10/10 per ciascun occhio, con una correzione massima complessiva di tre diottrie per i seguenti vizi di rifrazione: miopia, ipermetropia, astigmatismo semplice (miopico e ipermetropico) e di tre diottrie quale somma complessiva dei singoli vizi di rifrazione per l'astigmatismo composto e l'astigmatismo misto.
+
 Costituiscono, inoltre, cause di non idoneita' per l'ammissione ai concorsi di cui al comma 1 le imperfezioni e infermita' indicate nell'allegata Tabella 1.
 
 I candidati sono sottoposti alle prove di efficienza fisica previste nel bando di concorso, secondo le modalita' ed i programmi ivi indicati rispettivamente per gli uomini e le donne.
@@ -70,6 +95,31 @@ Qualora le lesioni o le infermita' siano ascrivibili alle categorie 6ª, 7ª o 8
  e cause di non idoneita' per l'ammissione
  ai concorsi pubblici
 
+1.
+                        
+                            
+                                I requisiti di idoneita' fisica e psichica di cui devono essere in possesso i candidati ai concorsi pubblici per l'accesso ai ruoli tecnico-scientifici o tecnici e ai ruoli professionali dei sanitari, sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    sana e robusta costituzione fisica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    statura non inferiore a m. 1,65 per gli uomini e m. 1,61 per le donne. Il rapporto altezza-peso, il tono e l'efficienza delle masse muscolari, la distribuzione del pannicolo adiposo e il trofismo devono rispecchiare un'armonia atta a configurare la robusta costituzione e la necessaria agilita' indispensabile per l'espletamento dei servizi di polizia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso cromatico e luminoso normale, campo visivo normale, visione notturna sufficiente, visione binoculare e stereoscopica sufficiente. Visus corretto non inferiore a 10/10 per ciascun occhio, con una correzione massima complessiva di tre diottrie per i seguenti vizi di rifrazione: miopia, ipermetropia, astigmatismo semplice (miopico e ipermetropico) e di tre diottrie quale somma complessiva dei singoli vizi di rifrazione per l'astigmatismo composto e l'astigmatismo misto.
+
 Costituiscono, inoltre, cause di non idoneita' per l'ammissione ai concorsi di cui al comma 1 le imperfezioni e infermita' indicate nell'allegata Tabella 1.
 
 ## Art. 7. — Requisiti attitudinali dei candidati ai concorsi
@@ -83,4 +133,22 @@ Per i candidati ai concorsi per l'accesso ai ruoli tecnico-scientifici o tecnici
 ## Art. 8. — Disposizioni finali
 
 All'aggiornamento dei requisiti di idoneita' fisica, psichica ed attitudinale previsti dal presente regolamento si provvede con le medesime forme e modalita' del predetto provvedimento.
+
+2.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 23 dicembre 1983, n. 904, recante il regolamento sui requisiti psico-fisici e attitudinali di cui devono essere in possesso gli appartenenti ai ruoli della Polizia di Stato che espletano funzioni di polizia ed i candidati ai concorsi per l'accesso ai ruoli del personale che espleta funzioni di polizia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 3 luglio 1991, n. 259, recante il regolamento sui requisiti attitudinali di cui devono essere in possesso gli appartenenti ai ruoli tecnico-scientifici o tecnici e ai ruoli professionali dei sanitari della Polizia di Stato.
 

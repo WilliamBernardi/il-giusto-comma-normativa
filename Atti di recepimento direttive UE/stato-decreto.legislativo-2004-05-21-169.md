@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2007-07-21
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -44,6 +44,24 @@ Si intendono per predosate le forme di commercializzazione quali capsule, pastig
 
 Fatto salvo quanto previsto dal comma 2, nella fabbricazione di integratori alimentari sono usati solo vitamine e minerali elencati nell'allegato I, nelle forme elencate nell'allegato II.
 
+2.
+                    
+                        
+                            Fino al 31 dicembre 2009, l'uso di vitamine e minerali non elencati nell'allegato I, o in forme non previste nell'allegato II e' consentito purche':
+ 
+                        
+                        
+                            a)
+                            
+                                la sostanza in questione sia gia' stata impiegata in integratori alimentari presenti sul mercato nazionale prima del 31 luglio 2003;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Autorita' europea per la sicurezza alimentare non esprima parere negativo per quanto riguarda l'uso di tale sostanza o il suo uso in quella forma.
+
 Il Ministro della salute entro centoventi giorni dalla data di entrata in vigore del presente decreto, con proprio decreto, rende noto l'elenco delle sostanze di cui al comma 2.
 
 ## Art. 4. — Criteri di purezza delle fonti di vitamine e minerali
@@ -63,6 +81,52 @@ I prodotti di cui al presente decreto sono commercializzati con la denominazione
 L'etichettatura, la presentazione e la pubblicita' non attribuiscono agli integratori alimentari proprieta' terapeutiche ne' capacita' di prevenzione o cura delle malattie umane ne' fanno altrimenti riferimento a simili proprieta'.
 
 Nell'etichettatura, nella presentazione e nella pubblicita' degli integratori alimentari non figurano diciture che affermino o sottintendano che una dieta equilibrata e variata non e' generalmente in grado di apportare le sostanze nutritive in quantita' sufficienti.
+
+4.
+                    
+                        
+                            Ferme restando le disposizioni del decreto legislativo 27 gennaio 1992, n. 109, e successive modificazioni, l'etichettatura reca i seguenti elementi obbligatori:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome delle categorie di sostanze nutritive o delle altre sostanze che caratterizzano il prodotto o una indicazione relativa alla natura di tali sostanze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la dose raccomandata per l'assunzione giornaliera;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un'avvertenza a non eccedere le dosi raccomandate per l'assunzione giornaliera;
+
+                            
+                        
+                        
+                            d)
+                            
+                                in presenza di sostanze nutritive o di altre sostanze ad effetto nutritivo di cui all'articolo 2, comma 1, l'indicazione che gli integratori non vanno intesi come sostituti di una dieta variata;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione che i prodotti devono essere tenuti fuori dalla portata dei bambini al di sotto dei tre anni di eta';
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'effetto nutritivo o fisiologico attribuito al prodotto sulla base dei suoi costituenti in modo idoneo ad orientare correttamente le scelte dei consumatori.
 
 La quantita' delle sostanze nutritive o delle altre sostanze aventi un effetto nutritivo o fisiologico, contenuta nel prodotto, e' espressa numericamente sull'etichetta. Le unita' di misura da utilizzare per le vitamine e i minerali sono specificate nell'allegato I.
 

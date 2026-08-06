@@ -8,8 +8,8 @@ codice_redazionale: 007G0066
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,26 @@ Il presente decreto apporta modifiche ed integrazioni al testo unico delle dispo
 La Consob e' l'autorita' nazionale competente responsabile dell'espletamento dei compiti previsti dalla direttiva indicata nel comma 1.
 
 ## Art. 2. — Modificazioni all'articolo 1 del testo unico delle disposizioni in materia di intermediazione finanziaria
+
+1.
+                    
+                        
+                            All'articolo 1 del testo unico delle disposizioni in materia di intermediazione finanziaria sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera t), e' sostituita dalla seguente:
+ «t) "offerta al pubblico di prodotti finanziari": ogni comunicazione rivolta a persone, in qualsiasi forma e con qualsiasi mezzo, che presenti sufficienti informazioni sulle condizioni dell'offerta e dei prodotti finanziari offerti cosi' da mettere un investitore in grado di decidere di acquistare o di sottoscrivere tali prodotti finanziari, incluso il collocamento tramite soggetti abilitati;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera w-bis) e' aggiunta la seguente:
+ «w-ter) "mercato regolamentato": un mercato quale definito dall'articolo 4, punto 14, della direttiva 2004/39/CE del 21 aprile 2004.».
 
 ## Art. 3. — Modificazioni al Capo I del Titolo II della Parte IV del testo unico delle disposizioni in materia di intermediazione finanziaria.
 
@@ -216,6 +236,107 @@ Offerta al pubblico di strumenti finanziari comunitari e di prodotti finanziari 
  5. A prescindere dall'obbligo di pubblicazione di un prospetto, le informazioni rilevanti fornite dall'emittente o dall'offerente agli investitori qualificati o a categorie speciali di investitori, comprese le informazioni comunicate nel corso di riunioni riguardanti offerte di prodotti finanziari, devono essere divulgate a tutti gli investitori qualificati o a tutte le categorie speciali di investitori a cui l'offerta e' diretta in esclusiva.».
 
 ## Art. 4. — Ulteriori modificazioni al testo unico delle disposizioni in materia di intermediazione finanziaria
+
+1.
+                    
+                        
+                            Al testo unico delle disposizioni in materia di intermediazione finanziaria sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 113 e' sostituito dal seguente:
+
+ «Art. 113.
+ Ammissione alle negoziazioni di strumenti finanziari comunitari
+
+ 1. Prima della data stabilita per l'inizio delle negoziazioni degli strumenti finanziari comunitari in un mercato regolamentato l'emittente o la persona che chiede l'ammissione alle negoziazioni pubblica un prospetto. Si applicano gli articoli 94, commi 1, 2, 3, 4, 5, 8, 10 e 11 e 94-bis, commi 1, 2, 3 e 5 anche nei confronti della persona che chiede l'ammissione alle negoziazioni.
+ 2. Qualunque fatto nuovo significativo, errore materiale o imprecisione relativi alle informazioni contenute nel prospetto che sia atto ad influire sulla valutazione degli strumenti finanziari e che sopravvenga o sia rilevato tra il momento in cui e' approvato il prospetto e quello in cui inizia la negoziazione in un mercato regolamentato deve essere menzionato in un supplemento del prospetto.
+ 3. La Consob:
+ a) determina con regolamento le modalita' e i termini di pubblicazione del prospetto e di eventuali supplementi dettando specifiche disposizioni per i casi in cui l'ammissione alle negoziazioni in un mercato regolamentato sia preceduta da un'offerta al pubblico;
+ b) determina con regolamento la lingua da utilizzare nel prospetto per l'ammissione alle negoziazioni di strumenti finanziari;
+ c) puo' individuare con regolamento in quali casi non si applica l'obbligo di pubblicazione del prospetto previsto al comma 1;
+ d) disciplina l'obbligo di depositare presso la Consob un documento concernente le informazioni che gli emittenti hanno pubblicato o reso disponibili al pubblico nel corso di un anno;
+ e) stabilisce le condizioni per il trasferimento dell'approvazione di un prospetto all'autorita' competente di un altro Stato membro;
+ f) esercita i poteri previsti negli articoli 114, commi 5 e 6, e 115 nei confronti dell'emittente, della persona che chiede l'ammissione alle negoziazioni e degli altri soggetti indicati in tali disposizioni;
+ g) puo' sospendere l'ammissione alle negoziazioni in un mercato regolamentato per un massimo di dieci giorni lavorativi consecutivi per ciascuna volta se ha ragionevole motivo di sospettare che le disposizioni del presente articolo e delle relative norme di attuazione sono state violate;
+ h) fermo restando il potere previsto nell'articolo 64, comma 1-bis, lettera c), puo' chiedere alla societa' di gestione del mercato la sospensione in via cautelare, per un periodo non superiore a dieci giorni lavorativi consecutivi, delle negoziazioni in un mercato regolamentato in caso di fondato sospetto di violazione delle disposizioni del presente articolo e delle relative norme di attuazione;
+ i) fermo restando il potere previsto nell'articolo 64, comma 1-bis, lettera c), puo' chiedere alla societa' di gestione del mercato di vietare le negoziazioni in un mercato regolamentato in caso di accertata violazione delle disposizioni del presente articolo e delle relative norme di attuazione;
+ l) informa l'autorita' competente dello Stato membro d'origine, qualora, quale autorita' competente dello Stato membro ospitante, rilevi che siano state commesse violazioni degli obblighi incombenti all'emittente in virtu' dell'ammissione degli strumenti finanziari alle negoziazioni in un mercato regolamentato;
+ m) adotta, dopo averne informato l'autorita' competente dello Stato membro d'origine, le misure opportune per tutelare gli investitori, se, nonostante le misure adottate dall'autorita' competente dello Stato membro d'origine o perche' tali misure si rivelano inadeguate, l'emittente persevera nella violazione delle disposizioni legislative o regolamentari pertinenti. Dell'adozione di tali misure ne informa al piu' presto la Commissione europea;
+ n) rende pubblico il fatto che l'emittente o la persona che chiede l'ammissione alle negoziazioni non ottempera ai propri obblighi.
+ 4. Alla pubblicita' relativa ad un'ammissione di strumenti finanziari alla negoziazione in un mercato regolamentato si applica l'articolo 101.
+ 5. Al prospetto di ammissione alle negoziazioni in un mercato regolamentato si applicano gli articoli 98 e 98-bis.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 113 e' inserito il seguente:
+
+ «Art. 113-bis.
+ Ammissione alle negoziazioni di quote o azioni di OICR aperti
+
+ 1. Prima della data stabilita per l'inizio delle negoziazioni delle quote o azioni di OICR aperti in un mercato regolamentato l'emittente pubblica un prospetto contenente le informazioni indicate nell'articolo 98-ter, comma 2.
+ 2. La Consob:
+ a) determina con regolamento i contenuti del prospetto e le relative modalita' di pubblicazione e di aggiornamento del prospetto dettando specifiche disposizioni per i casi in cui l'ammissione alla quotazione in un mercato regolamentato avvenga simultaneamente ad un'offerta al pubblico;
+ b) puo' indicare all'emittente informazioni integrative da inserire nel prospetto e specifiche modalita' di pubblicazione;
+ c) detta disposizioni per coordinare le funzioni della societa' di gestione del mercato con quelle proprie e, su richiesta di questa, puo' affidarle compiti inerenti al controllo del prospetto tenuto anche conto delle caratteristiche dei singoli mercati.
+ 3. Il prospetto approvato dall'autorita' competente di un altro Stato membro dell'Unione europea e' riconosciuto dalla Consob, con le modalita' e alle condizioni stabilite nel regolamento previsto dal comma 2, quale prospetto per l'ammissione alle negoziazioni in un mercato regolamentato. La Consob puo' richiedere, con il regolamento previsto dal comma 2, la pubblicazione di un documento per la quotazione.
+ 4. Alla pubblicita' relativa ad un'ammissione di quote o azioni di OICR aperti alla negoziazione in un mercato regolamentato si applica l'articolo 101.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1 dell'articolo 173-bis le parole: «sollecitazione all'investimento» sono sostituite dalle seguenti: «offerta al pubblico di prodotti finanziari»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 191 e' sostituito dal seguente:
+
+ «Art. 191.
+ Offerta al pubblico di sottoscrizione e di vendita
+
+ 1. Chiunque effettua un'offerta al pubblico in violazione degli articoli 94, comma 1 e 98-ter, comma 1 e' punito con la sanzione amministrativa pecuniaria di importo non inferiore ad un quarto del controvalore offerto e fino ad un massimo di due volte il controvalore stesso e, ove quest'ultimo non sia determinabile, di importo minimo di centomila euro e massimo di duemilioni di euro.
+ 2. Chiunque viola gli articoli 94, commi 2, 3, 5, 6 e 7, 96, 97, 98-ter, commi 2 e 3, 101, ovvero le relative disposizioni generali o particolari emanate dalla Consob ai sensi degli articoli 95, commi 1, 2 e 4, 97, comma 2, 98-quater, 98-quinquies, comma 2, 99, comma 1, lettere a), b), c) e d), e' punito con la sanzione amministrativa pecuniaria da cinquemila euro a cinquecentomila euro.
+ 3. L'applicazione delle sanzioni amministrative pecuniarie previste dal comma 1, importa la perdita temporanea dei requisiti di onorabilita' previsti dal presente decreto per gli esponenti aziendali dei soggetti abilitati e per i promotori finanziari nonche' l'incapacita' temporanea ad assumere incarichi di amministrazione, direzione e controllo nell'ambito di societa' aventi titoli quotati nei mercati regolamentati o diffusi tra il pubblico in maniera rilevante e di societa' appartenenti al medesimo gruppo. La sanzione amministrativa accessoria ha durata non inferiore a due mesi e non superiore a tre anni.
+ 4. La Consob pubblica, ai sensi del comma 3 dell'articolo 195, le misure e le sanzioni applicate per la violazione delle disposizioni richiamate nel presente articolo, salvo il caso in cui la pubblicazione possa turbare gravemente i mercati o possa arrecare un danno sproporzionato alle parti coinvolte.
+ 5. Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applica l'articolo 16 della legge 24 novembre 1981, n. 689.»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo l'articolo 192-bis e' inserito il seguente:
+
+ «Art. 192-ter.
+ Ammissione alle negoziazioni
+
+ 1. L'emittente o la persona che chiede l'ammissione alle negoziazioni che viola le disposizioni contenute negli articoli 113, commi 2, 3, lettere a), d) e f), 4 e 113-bis, commi 1, 2, lettere a) e b) e 4, ovvero le disposizioni generali o particolari emanate dalla Consob in base ai medesimi articoli, e' punito con la sanzione amministrativa pecuniaria da cinquemila euro a cinquecentomila euro.
+ 2. La Consob pubblica, ai sensi del comma 3 dell'articolo 195, le misure e le sanzioni applicate per la violazione delle disposizioni richiamate nel presente articolo, salvo il caso in cui la pubblicazione possa turbare gravemente i mercati o possa arrecare un danno sproporzionato alle parti coinvolte.
+ 3. Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applica l'articolo 16 della legge 24 novembre 1981, n. 689.»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 1 dell'articolo 193 la parola: «113» e' soppressa;
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 205 le parole: «sollecitazione all'investimento» sono sostituite dalle seguenti: «offerta al pubblico di prodotti finanziari».
 
 ## Art. 5. — Modificazioni al codice civile
 

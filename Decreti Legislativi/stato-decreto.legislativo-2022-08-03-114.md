@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,157 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente decreto legislativo si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «prodotto pensionistico individuale paneuropeo» o «PEPP»: un prodotto ai sensi dell'articolo 2, paragrafo 1, punto 2), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «fornitore di PEPP»: l'impresa finanziaria di cui all'articolo 2, paragrafo 1, punto 15), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «distributore di PEPP»: un soggetto di cui all'articolo 2, paragrafo 1, punto 16), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «depositario»: il soggetto di cui all'articolo 2, paragrafo 1, punto 26), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Stato membro ospitante del fornitore di PEPP»: uno Stato membro di cui all'articolo 2, paragrafo 1, punto 21), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «EIOPA»: l'Autorita' europea delle assicurazioni e delle pensioni aziendali e professionali istituita dal regolamento (UE) n. 1094/2010; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Consob»: la Commissione nazionale per le societa' e la borsa; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «COVIP»: la Commissione di vigilanza sui fondi pensione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «IVASS»: l'Istituto per la vigilanza sulle assicurazioni; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «contratto PEPP»: il contratto di cui all'articolo 2, paragrafo 1, punto 4), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «conto PEPP»: il conto pensionistico individuale di cui all'articolo 2, paragrafo 1, punto 5), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «sottoconto»: la sezione nazionale di cui all'articolo 2, paragrafo 1, punto 23), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «sottoconto italiano»: il sottoconto conforme ai requisiti e alle condizioni stabilite dal presente decreto legislativo; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «risparmiatore in PEPP»: la persona fisica di cui all'articolo 2, paragrafo 1, punto 3), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «beneficiario di PEPP»: la persona fisica di cui all'articolo 2, paragrafo 1, punto 6), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «cliente PEPP»: il soggetto di cui all'articolo 2, paragrafo 1, punto 7), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «prestazioni pensionistiche PEPP»: le prestazioni di cui all'articolo 2, paragrafo 1, punto 9) del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «rendita»: la somma di cui all'articolo 2, paragrafo 1, punto 13) del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «prelievo»: l'importo di cui all'articolo 2, paragrafo 1, punto 14) del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                «capitale»: il montante finale accumulato nel sottoconto italiano al raggiungimento dei requisiti e delle condizioni per il diritto alla prestazione pensionistica PEPP. 
+
+                            
+                        
+                        
+                            z)
+                            
+                                «TUIR»: il testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917;
+
 ## Art. 2.
 
 Individuazione delle autorita' nazionali competenti
@@ -35,15 +186,83 @@ Secondo quanto previsto dal presente decreto legislativo, la COVIP, la Banca d'I
 
 Salvo quanto diversamente previsto dal presente decreto legislativo, la COVIP e' l'autorita' nazionale competente a vigilare sul rispetto di tutti gli obblighi che il regolamento (UE) 2019/1238 impone ai fornitori di PEPP, avuto riguardo alla natura pensionistica del prodotto PEPP, alla tutela del cliente PEPP e al buon funzionamento del sistema di previdenza complementare.
 
+3.
+                    
+                        
+                            Le attribuzioni previste dal presente decreto legislativo in capo alle altre autorita' nazionali competenti di cui al comma 1 sono esercitate: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla Banca d'Italia ai sensi dell'articolo 5, comma 1, del decreto legislativo 1° settembre 1993, n. 385, e dell'articolo 5, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, in relazione ai fornitori di PEPP dalla stessa vigilati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalla Consob ai sensi dell'articolo 5, comma 3, del decreto legislativo 24 febbraio 1998, n. 58, in relazione alla distribuzione di PEPP posta in essere dai soggetti dalla stessa vigilati ai sensi dell'articolo 4, comma 1, lettera b); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dall'IVASS ai sensi dell'articolo 3 del decreto legislativo 7 settembre 2005, n. 209, in relazione ai fornitori e ai distributori di PEPP dallo stesso vigilati.
+
 Restano in ogni caso ferme le competenze della Banca d'Italia e dell'IVASS, in materia di sana e prudente gestione dei soggetti dalle stesse vigilati, di contenimento del rischio e di stabilita', previste dal decreto legislativo 1° settembre 1993, n. 385, dal decreto legislativo 24 febbraio 1998, n. 58 e dal decreto legislativo 7 settembre 2005, n. 209.
 
 ## Art. 3. — Registrazione dei PEPP
 
 La COVIP e' l'autorita' nazionale competente a ricevere le domande di registrazione dei PEPP presentate dai fornitori di PEPP aventi sede legale in Italia.
 
+2.
+                    
+                        
+                            La decisione di registrazione dei PEPP e' assunta dalla COVIP sentite le seguenti autorita': 
+ 
+                        
+                        
+                            a)
+                            
+                                la Banca d'Italia, con riferimento ai fornitori di PEPP di cui all'articolo 6, paragrafo 1, lettere a), d), e) ed f), del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'IVASS, con riferimento ai fornitori di PEPP di cui all'articolo 6, paragrafo 1, lettera b), del regolamento (UE) 2019/1238.
+
 La COVIP e' l'autorita' nazionale competente a adottare una decisione di annullamento della registrazione del PEPP ai sensi dell'articolo 8 del regolamento (UE) 2019/1238. La decisione di annullamento e' adottata sentite le autorita' di cui al comma 2, secondo quanto ivi previsto.
 
 ## Art. 4. — Distribuzione dei PEPP
+
+1.
+                    
+                        
+                            Ai fini della vigilanza sul rispetto degli obblighi previsti dagli articoli 22, 23, 24, 25, paragrafo 1 comma 6, 26, paragrafo 8, 33, paragrafi 1 e 2, 34 e 50 del regolamento (UE) 2019/1238 in tema di distribuzione di PEPP e al fine di verificare che la consulenza sui PEPP sia affidata a soggetti in possesso delle adeguate conoscenze e competenze: 
+ 
+                        
+                        
+                            a)
+                            
+                                la COVIP e' l'autorita' nazionale competente con riferimento ai soggetti di cui all'articolo 6, paragrafo 1, lettera c) del regolamento (UE) 2019/1238; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Consob e' l'autorita' nazionale competente con riferimento ai soggetti di cui all'articolo 6, paragrafo 1, lettere a), d), e) ed f), e alle imprese di investimento autorizzate di cui all'articolo 10, paragrafo 2 del regolamento (UE) 2019/1238 e alla societa' Poste Italiane Divisione servizi di Bancoposta autorizzata ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 14 marzo 2001, n. 144; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'IVASS e' l'autorita' nazionale competente con riferimento ai soggetti di cui all'articolo 6, paragrafo 1, lettera b) e agli intermediari assicurativi di cui all'articolo 10, paragrafo 2 del regolamento (UE) 2019/1238, diversi dai soggetti di cui alla lettera b).
 
 La COVIP e' l'autorita' nazionale competente a vigilare sul rispetto degli obblighi previsti dall'articolo 29 del regolamento (UE) 2019/1238.
 
@@ -52,9 +271,62 @@ La COVIP e' l'autorita' nazionale competente a vigilare sul rispetto degli obbli
 Altri poteri e funzion 
  delle autorita' nazionali competenti
 
+1.
+                    
+                        
+                            La COVIP e' l'autorita' nazionale competente: 
+ 
+                        
+                        
+                            a)
+                            
+                                a esercitare i poteri previsti dall'articolo 16 del regolamento (UE) 2019/1238 in qualita' di autorita' nazionale competente dello Stato membro ospitante, sentita la Banca d'Italia, la Consob e l'IVASS secondo quanto previsto dal presente decreto legislativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fermo restando quanto previsto dalle normative settoriali richiamate dall'articolo 14 del regolamento (UE) 2019/1238 in tema di esercizio della libera prestazione di servizi e della liberta' di stabilimento, a ricevere la notifica di cui all'articolo 21 del regolamento (UE) 2019/1238 relativamente all'apertura di un sottoconto per uno Stato membro ospitante e a trasmettere all'autorita' dello Stato membro ospitante la documentazione di cui al medesimo articolo 21, sentite la Banca d'Italia e l'IVASS secondo quanto previsto dal presente decreto legislativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a esercitare i poteri di cui all'articolo 63, paragrafo 1, del regolamento (UE) 2019/1238, inerenti al divieto o alla limitazione della commercializzazione o distribuzione di un PEPP, sentite: 
+ 1) la Banca d'Italia per le finalita' di cui all'articolo 5, comma 1, del decreto legislativo 1° settembre 1993, n. 385, e dell'articolo 5, comma 2, del decreto legislativo 24 febbraio 1998, n. 58; 
+ 2) la Consob per le finalita' di cui all'articolo 5, commi 1 e 3, del decreto legislativo 28 febbraio 1998, n. 58, e con riferimento ai soggetti dalla stessa vigilati ai sensi dell'articolo 4, comma 1, lettera b); 
+ 3) l'IVASS per le finalita' di cui all'articolo 3 del decreto legislativo 7 settembre 2005, n. 209; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                responsabile delle comunicazioni e dello scambio di informazioni previste dal regolamento (UE) 2019/1238 con EIOPA, con le autorita' competenti degli Stati membri e con i fornitori di PEPP.
+
 I compiti previsti dall'articolo 15 del regolamento (UE) 2019/1238 circa l'esercizio della libera prestazione di servizi da parte dei fornitori di PEPP ivi indicati sono esercitati dalla COVIP, sentita la Banca d'Italia, con riferimento ai fornitori di cui all'articolo 6, paragrafo 1, lettera f), del regolamento (UE) 2019/1238.
 
 La COVIP e' l'autorita' nazionale competente a ricevere le segnalazioni ai fini di vigilanza previste dall'articolo 40 del regolamento (UE) 2019/1238. Tali segnalazioni sono trasmesse dalla stessa anche alle autorita' di cui all'articolo 2, comma 1, in base alle rispettive attribuzioni. La COVIP puo' disporre, sentite le altre autorita' di cui sopra, il contenuto, le modalita' e i termini dell'invio delle segnalazioni di cui al primo periodo e puo' prevedere l'invio sistematico di ulteriori segnalazioni di vigilanza.
+
+4.
+                    
+                        
+                            Ai fini della vigilanza sul rispetto degli obblighi previsti dall'articolo 41 del regolamento (UE) 2019/1238 in tema di regole di investimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                la COVIP e' l'autorita' nazionale competente con riferimento ai soggetti di cui all'articolo 6, paragrafo 1, lettere a), c), d), e) ed f); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'IVASS e' l'autorita' nazionale competente con riferimento ai soggetti di cui all'articolo 6, paragrafo 1, lettera b), del regolamento (UE) 2019/1238.
 
 La COVIP, la Banca d'Italia, la Consob e l'IVASS, sono le autorita' nazionali competenti in relazione all'articolo 50, paragrafo 6, del regolamento (UE) 2019/1238 sulla base del riparto di funzioni previsto dal presente decreto legislativo.
 
@@ -82,6 +354,24 @@ Salvo che il fatto costituisca reato, se le violazioni indicate dal comma 1 sono
 Salvo che il fatto costituisca reato, fermo quanto previsto dal comma 1, la sanzione indicata al comma 2 si applica nei confronti degli esponenti aziendali e del personale della societa' o dell'ente responsabile della violazione, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali, ovvero ha provocato un grave pregiudizio per la tutela dei risparmiatori in PEPP o per la trasparenza, l'integrita' e il corretto funzionamento del mercato.
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
+
+5.
+                    
+                        
+                            Quando le infrazioni sono connotate da scarsa offensivita' o pericolosita', in luogo delle sanzioni pecuniarie previste dal presente articolo, puo' applicarsi, nei riguardi dei soggetti di cui ai commi 1 e 2, una delle seguenti misure amministrative: 
+ 
+                        
+                        
+                            a)
+                            
+                                un ordine che impone di porre termine al comportamento in questione e di astenersi dal ripeterlo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una dichiarazione pubblica indicante l'identita' del soggetto e la natura della violazione.
 
 Con il provvedimento di applicazione della sanzione amministrativa pecuniaria, in ragione della gravita' della violazione accertata, puo' essere applicata nei confronti dei componenti degli organi di amministrazione, direzione e controllo del fornitore di PEPP o di qualsiasi altra persona fisica ritenuta responsabile la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dall'esercizio di funzioni di gestione nelle imprese di cui all'articolo 6, paragrafo 1, del regolamento (UE) 2019/1238.
 
@@ -134,6 +424,31 @@ Le operazioni di trasferimento di cui all'articolo 52 del regolamento (UE) 2019/
 
 Fermo restando quanto previsto dal regolamento (UE) 2019/1238, i requisiti e le modalita' di accesso alle prestazioni PEPP e alle prestazioni pensionistiche PEPP sono definiti nei contratti PEPP nel rispetto di quanto disposto dal presente articolo e dell'articolo 15.
 
+2.
+                    
+                        
+                            I risparmiatori in PEPP possono, in conformita' alle disposizioni previste dall'articolo 57, paragrafo 2, del regolamento (UE) 2019/1238, richiedere un'anticipazione della posizione individuale maturata nel sottoconto italiano: 
+ 
+                        
+                        
+                            a)
+                            
+                                in qualsiasi momento, per un importo non superiore al 75 per cento, della posizione maturata nel sottoconto italiano, per spese sanitarie a seguito di gravissime situazioni relative a se', al coniuge e ai figli per terapie e interventi straordinari riconosciuti dalle competenti strutture pubbliche. Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, e' applicata una ritenuta a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno dall'apertura del sottoconto italiano, con un limite massimo di riduzione di 6 punti percentuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                decorsi otto anni di iscrizione al sottoconto italiano, per un importo non superiore al 75 per cento della posizione maturata nel sottoconto italiano, per l'acquisto della prima casa di abitazione per se' o per i figli, documentato con atto notarile, o per la realizzazione degli interventi di cui all'articolo 3, comma 1, lettere a), b),
+                            
+                        
+                        
+                            c)
+                            
+                                e d), del testo unico delle disposizioni legislative e regolamentari in materia edilizia di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, relativamente alla prima casa di abitazione, documentati come previsto dalla normativa stabilita ai sensi dell'articolo 1, comma 3, della legge 27 dicembre 1997, n. 449. Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, si applica una ritenuta a titolo di imposta del 23 per cento; 
+ c) decorsi otto anni di iscrizione al sottoconto italiano, per un importo non superiore al 30 per cento della posizione maturata nel sottoconto italiano, per ulteriori esigenze dei risparmiatori in PEPP. Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, si applica una ritenuta a titolo di imposta del 23 per cento.
+
 Le somme percepite a titolo di anticipazione non possono mai eccedere, complessivamente, il 75 per cento del totale dei versamenti, maggiorati delle plusvalenze tempo per tempo realizzate nel sottoconto italiano. Le anticipazioni possono essere reintegrate, a scelta del risparmiatore in PEPP, in qualsiasi momento anche mediante contribuzioni annuali eccedenti il limite di 5.164,57 euro.
 Sulle somme eccedenti il predetto limite, corrispondenti alle anticipazioni reintegrate, e' riconosciuto al contribuente un credito d'imposta pari all'imposta pagata al momento della fruizione dell'anticipazione, proporzionalmente riferibile all'importo reintegrato.
 
@@ -142,6 +457,24 @@ Ai lavoratori che cessino l'attivita' lavorativa e maturino l'eta' anagrafica pe
 La rendita anticipata di cui al comma 4 e' riconosciuta altresi' ai lavoratori che risultino inoccupati per un periodo di tempo superiore a ventiquattro mesi e che maturino l'eta' anagrafica per la pensione di vecchiaia nel regime obbligatorio di appartenenza entro i dieci anni successivi.
 
 La parte imponibile della rendita anticipata e' assoggettata alla ritenuta a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno di maturazione della posizione pensionistica individuale nel sottoconto italiano con un limite massimo di riduzione di 6 punti percentuali. Il percettore della rendita anticipata ha facolta' di non avvalersi della tassazione sostitutiva di cui al presente comma facendolo constare espressamente nella dichiarazione dei redditi in tal caso la rendita anticipata e' assoggettata a tassazione ordinaria.
+
+7.
+                    
+                        
+                            Il risparmiatore in PEPP, anche prima del periodo minimo di permanenza di cui all'articolo 52, paragrafo 3, del regolamento (UE) 2019/1238, puo': 
+ 
+                        
+                        
+                            a)
+                            
+                                riscattare il 50 per cento della posizione individuale maturata nel sottoconto italiano, in caso di cessazione dell'attivita' lavorativa che comporti l'inoccupazione per un periodo di tempo non inferiore a dodici mesi e non superiore a quarantotto mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di mobilita', cassa integrazione guadagni, ordinaria o straordinaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riscattare l'intera posizione individuale maturata nel sottoconto italiano in caso di invalidita' permanente che comporti la riduzione della capacita' di lavoro a meno di un terzo e a seguito di cessazione dell'attivita' lavorativa che comporti l'inoccupazione per un periodo di tempo superiore a quarantotto mesi.
 
 In caso di morte del risparmiatore in PEPP prima della maturazione del diritto alla prestazione pensionistica la posizione individuale maturata e' riscattata dagli eredi ovvero dai diversi soggetti dallo stesso designati, siano essi persone fisiche o giuridiche. In mancanza di tali soggetti, la posizione viene devoluta a finalita' sociali secondo le modalita' stabilite con decreto del Ministro del lavoro e delle politiche sociali.
 
@@ -172,11 +505,61 @@ I fornitori di PEPP che operano in regime di libera prestazione di servizi appli
 
 Il diritto alla prestazione pensionistica PEPP maturata nel sottoconto italiano si acquisisce al momento della maturazione dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza del risparmiatore in PEPP, trascorsi almeno cinque anni dall'apertura del sottoconto italiano. Per i soggetti non titolari di reddito di lavoro o d'impresa si considera eta' pensionabile quella vigente nel regime obbligatorio di base.
 
+2.
+                    
+                        
+                            I fornitori di PEPP possono offrire ai risparmiatori in PEPP una o piu' delle seguenti modalita' di erogazione delle prestazioni pensionistiche PEPP: 
+ 
+                        
+                        
+                            a)
+                            
+                                rendita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                capitale erogato in un'unica soluzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prelievo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                una combinazione delle predette forme.
+
 Le prestazioni pensionistiche PEPP previste dal presente articolo, erogate in forma di capitale o di prelievo, fino ad un massimo del 50 per cento del montante finale accumulato, e in rendita sono soggette ad una ritenuta a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno di maturazione della posizione individuale nel sottoconto italiano con un limite massimo di riduzione di 6 punti percentuali. Nel computo dell'importo complessivo erogabile in capitale o in forma di prelievi sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. Lo stesso regime si applica alle prestazioni pensionistiche PEPP erogate in forma di capitale o di prelievi qualora la rendita derivante dalla conversione di almeno il 70 per cento del montante finale sia inferiore al 50 per cento dell'assegno sociale di cui all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335.
 
 Le prestazioni pensionistiche PEPP previste dal presente articolo, erogate in capitale e quelle erogate in forma di prelievi superiori al 50 per cento del montante finale accumulato sono soggette per il loro intero ammontare ad una ritenuta a titolo d'imposta con l'aliquota del 23 per cento.
 
 Ai fini dell'applicazione dei commi 3 e 4, le prestazioni pensionistiche PEPP erogate in forma di capitale o di prelievi sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta. Le prestazioni pensionistiche PEPP erogate in forma di rendita sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta e a quelli di cui all'articolo 44, comma 1, lettera g-quinquies), del TUIR, se determinabili.
+
+6.
+                    
+                        
+                            Le ritenute di cui al presente articolo sono applicate: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal fornitore del PEPP a cui risulta iscritto il risparmiatore in PEPP, nel caso di prestazioni erogate in forma di capitale o di prelievi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dai soggetti eroganti, nel caso di prestazioni erogate in forma di rendita.
 
 Il fornitore di PEPP comunica ai soggetti che erogano le rendite i dati in suo possesso necessari per il calcolo della parte delle prestazioni corrispondente ai redditi gia' assoggettati ad imposta se determinabili. Qualora il soggetto tenuto all'applicazione delle ritenute sulle prestazioni pensionistiche sia residente all'estero e non disponga di una stabile organizzazione nel territorio dello Stato, la ritenuta e' applicata direttamente dal soggetto operante nel territorio dello Stato in regime di libera prestazione di servizi ovvero da un suo rappresentante fiscale scelto tra i soggetti indicati nell'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che risponde in solido per gli obblighi di determinazione e versamento dell'imposta e provvede alla dichiarazione annuale delle somme.
 
@@ -187,6 +570,67 @@ Ai fini della determinazione dell'anzianita' necessaria per la richiesta delle p
 Le prestazioni pensionistiche PEPP sono sottoposte agli stessi limiti di cedibilita', sequestrabilita' e pignorabilita' in vigore per le pensioni a carico degli istituti di previdenza obbligatoria previsti dall'articolo 128 del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, dalla legge 6 aprile 1935, n. 1155, e dall'articolo 2 del decreto del Presidente della Repubblica 5 gennaio 1950, n. 180.
 
 ## Art. 16. — Norme di coordinamento fiscale
+
+1.
+                    
+                        
+                            Al testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 10, comma 1, la lettera e-bis), e' sostituita dalla seguente: «e-bis) i contributi versati alle forme pensionistiche complementari di cui al decreto legislativo 5 dicembre 2005, n. 252, alle condizioni e nei limiti previsti dall'articolo 8 del medesimo decreto, nonche' ai sottoconti italiani di prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238, alle condizioni e nei limiti previsti dalle disposizioni nazionali di attuazione del medesimo regolamento. Alle medesime condizioni ed entro gli stessi limiti di cui al primo periodo sono deducibili i contributi versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che consentono un adeguato scambio di informazioni e ai sottoconti esteri di prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 50, comma 1, la lettera h-bis) e' sostituita dalla seguente: «h-bis) le prestazioni pensionistiche di cui al decreto legislativo 21 aprile 1993, n. 124 e al decreto legislativo 5 dicembre 2005, n. 252, comunque erogate, nonche' quelle derivanti dai prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 52, comma 1, la lettera d) e' sostituita dalla seguente: «d) per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 50, comunque erogate, si applicano le disposizioni di cui all'articolo 11 e quelle di cui all'articolo 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252, e, per le prestazioni derivanti dai prodotti pensionistici individuali paneuropei (PEPP), quelle previste dalle disposizioni nazionali di attuazione del regolamento (UE) 2019/1238;».
+
+2.
+                    
+                        
+                            All'articolo 27, comma 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo periodo, dopo le parole: «di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917" sono aggiunte le seguenti: «, e ai sottoconti esteri di prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al terzo periodo, le parole «di cui al periodo precedente» sono sostituite dalle seguenti: «e, dai sottoconti esteri di prodotti pensionistici individuali paneuropei (PEPP) di cui al secondo periodo».
+
+3.
+                    
+                        
+                            All'articolo 7 del decreto-legge 25 settembre 2001, n. 351, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 410, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, terzo periodo, dopo le parole «decreto legislativo 5 dicembre 2005, n. 252,» sono inserite le seguenti: «dai prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo le parole «fondi pensione» sono inserite le seguenti: «, da prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238».
 
 All'articolo 13, comma 3, terzo periodo, del decreto legislativo 4 marzo 2014, n. 44, dopo le parole «decreto legislativo 5 dicembre 2005, n. 252,» sono inserite le seguenti: «dai prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238».
 

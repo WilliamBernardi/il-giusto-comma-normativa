@@ -8,8 +8,8 @@ codice_redazionale: 004G0065
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,7 +31,71 @@ L'accesso ai gruppi sportivi «Polizia di Stato - Fiamme Oro», di seguito denom
 
 ## Art. 2. — Bando di concorso
 
+1.
+                    
+                        
+                            Il concorso e' indetto con decreto del Capo della polizia-direttore generale della pubblica sicurezza con bando da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana nel quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso per ciascuna delle discipline sportive interessate, ovvero per ciascuna specialita' nell'ambito delle stesse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le categorie dei titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ogni altra prescrizione o notizia utile.
+
 ## Art. 3. — Commissione del concorso
+
+1.
+                    
+                        
+                            La commissione del concorso, nominata con decreto del Capo della polizia-direttore generale della pubblica sicurezza, e' presieduta da un funzionario della Polizia di Stato con qualifica non inferiore a dirigente superiore, ed e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il direttore dell'Ufficio per il coordinamento delle attivita' dei gruppi sportivi della Polizia di Stato Fiamme Oro del Dipartimento della pubblica sicurezza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un funzionario della Direzione centrale per le risorse umane;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un funzionario del Comitato olimpico nazionale italiano (CONI).
 
 Le funzioni di segretario sono svolte da un appartenente al ruolo degli ispettori della Polizia di Stato o da un appartenente ai ruoli del comparto Ministeri di livello corrispondente.
 
@@ -59,6 +123,31 @@ I vincitori del concorso sono nominati allievi agenti di polizia e ammessi alla 
 
 ## Art. 6. — Disposizioni di rinvio
 
+1.
+                    
+                        
+                            Per quanto non previsto, si applicano, in quanto compatibili, le disposizioni che disciplinano le procedure concorsuali per l'accesso al ruolo degli agenti ed assistenti della Polizia di Stato relativamente a:
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di accertamento dei requisiti psico-fisici ed attitudinali dei candidati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di esclusione dei candidati dal concorso per difetto dei requisiti o per mancata presentazione agli accertamenti psico-fisici ed attitudinali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le cause di incompatibilita' dei componenti delle commissioni.
+
 ## Art. 7. — Impiego di personale del ruolo degli agenti e assistenti della Polizia di Stato
 
 Per particolari esigenze sportive, ove non sia possibile ricorrere tempestivamente alla procedura concorsuale prevista dal presente regolamento, puo' essere assegnato alle «Fiamme Oro», con il consenso dell'interessato, il personale del ruolo degli agenti ed assistenti della Polizia di Stato, in possesso dei requisiti indicati nell'articolo 1.
@@ -66,6 +155,38 @@ Per particolari esigenze sportive, ove non sia possibile ricorrere tempestivamen
 ## Art. 8. — Impiego in altre attivita' istituzionali e passaggio ad altri ruoli
 
 Gli atleti che perdono l'idoneita' alle attivita' delle «Fiamme Oro» per una delle cause previste dal comma 2 sono destinati, con decreto del direttore centrale degli affari generali della Polizia di Stato, ad altri compiti di istituto ed impiegati in una delle altre attivita' istituzionali previste per il ruolo di appartenenza, fermo restando il possesso dei relativi requisiti di idoneita' al servizio di polizia. I predetti frequentano un corso di aggiornamento professionale della durata non inferiore a tre mesi, la cui gestione non comporta oneri aggiuntivi per il bilancio dello Stato.
+
+2.
+                    
+                        
+                            Le cause che determinano la perdita dell'idoneita' all'attivita' nelle «Fiamme Oro» sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                aggiornamento qualitativo dell'organico secondo le modalita' stabilite con decreto del Capo della polizia-direttore generale della pubblica sicurezza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                perdita dei requisiti di idoneita' fisica necessari per l'espletamento della disciplina sportiva praticata nell'ambito delle «Fiamme Oro»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non riconoscimento della qualita' di atleta di interesse nazionale da parte della competente federazione sportiva, per un periodo superiore ai due anni consecutivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sospensione definitiva disposta dalla competente federazione sportiva per un periodo superiore agli undici mesi.
 
 Per le discipline unicamente di squadra, la valutazione sulla perdita di idoneita' alle attivita' delle «Fiamme Oro» di cui al comma 2, lettera d), e' effettuata con riguardo al piazzamento della rappresentativa delle «Fiamme Oro», la cui fascia di merito e' costituita dalla permanenza nella serie A del rispettivo campionato nazionale assoluto.
 

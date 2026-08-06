@@ -8,8 +8,8 @@ codice_redazionale: 000G0217
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,23 @@ d) provvede al riordino del Registro italiano navale (R.I.Na.) nel rispetto dell
 
 ## Art. 2. — Modifiche all'articolo 2 del
  decreto legislativo 3 agosto 1998, n. 314
+
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo 3 agosto 1998, n. 314, sono apportate le seguenti modifiche:
+
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalla seguente: "b) nave: la nave di bandiera italiana che rientri nel campo di applicazione delle convenzioni internazionali;";
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera f) e' sostituita dalla seguente: "f) autorita' marittime locali: gli uffici locali in conformita' alle attribuzioni loro conferite dall'articolo 17 del regio decreto 30 marzo 1942, n. 327, recante approvazione del testo definitivo del codice della navigazione;".
 
 ## Art. 3. — Modifiche all'articolo 4 del
  decreto legislativo 3 agosto 1998, n. 314
@@ -67,6 +84,23 @@ L'articolo 6 del decreto legislativo 3 agosto 1998, n. 314, e' sostituito dal se
 
 ## Art. 6. — Modifiche all'articolo 8 del
  decreto legislativo 3 agosto 1998, n. 314
+
+1.
+                    
+                        
+                            All'articolo 8 del decreto legislativo 3 agosto 1998, n. 314, sono apportate le seguenti modifiche:
+
+                        
+                        
+                            a)
+                            
+                                nella rubrica, le parole: "e dell'affidamento" sono soppresse;
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: "1. L'amministrazione, quando ritiene che un organismo riconosciuto ed autorizzato non svolge piu' le proprie funzioni con efficacia ed in modo soddisfacente o sono venuti meno i requisiti previsti dal presente decreto, sospende l'autorizzazione informandone la Commissione europea e gli altri Stati membri dell'Unione europea, indicando gli elementi che l'hanno motivata e dimostrandone la fondatezza.".
 
 ## Art. 7. — Modifiche all'articolo 9 del
  decreto legislativo 3 agosto 1998, n. 314

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-10-25;24
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,9 +36,70 @@ Ai sensi dell'art. 33, comma 1, del decreto legislativo 3 aprile 2006, n. 152, i
 
 ## Art. 2. — Oneri economici per le procedure di VIA
 
+1.
+                    
+                        
+                            Gli oneri economici dovuti in relazione alle procedure di VIA sono determinati come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                0,5 per mille del valore delle opere da realizzare, come stabilito dall'art. 9, comma 6 del decreto del Presidente della Repubblica 14 maggio 2007, n. 90, per le procedure di VIA ai sensi dell'art. 23 del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                0,25 per mille del valore dell'opera da realizzare e, comunque, nel limite massimo dell'importo di euro 10.000,00 per le procedure di verifica di assoggettabilita' a VIA, ai sensi dell'art. 20 del decreto legislativo 3 aprile 2006, n. 152.
+
 ## Art. 3. — Oneri economici per le procedure di valutazione ambientale strategica
 
+1.
+                    
+                        
+                            Gli oneri economici dovuti in relazione alle procedure di VAS sono determinati come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                euro 15.000,00 per le procedure di VAS ai sensi dell'art. 11 del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                euro 10.000,00 per le procedure di VAS ai sensi dell'art. 11 del decreto legislativo 3 aprile 2006, n. 152, qualora l'istanza di VAS sia stata preceduta da una procedura di verifica di assoggettabilita' a VAS, ai sensi dell'art. 12 del decreto legislativo 3 aprile 2006, n. 152, relativa allo stesso piano o programma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                euro 5.000,00 per le procedure di verifica di assoggettabilita' a VAS, ai sensi dell'art. 12 del decreto legislativo 3 aprile 2006, n. 152.
+
 ## Art. 4. — Oneri economici per le procedure relative alle richieste di riesame dei provvedimenti
+
+1.
+                    
+                        
+                            Gli oneri economici dovuti in relazione alle richieste di riesame di provvedimenti gia' emanati sono stabiliti nella misura: 
+ 
+                        
+                        
+                            a)
+                            
+                                del 25% di quanto gia' versato a titolo di 0,5 per mille per le procedure di VIA; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di euro 3.000,00 per le procedure di VAS.
 
 ## Art. 5.
 
@@ -52,4 +113,44 @@ DSA/2004/22981 del 18 ottobre 2004, pubblicata nella Gazzetta Ufficiale n. 305 d
 ## Art. 6. — Disciplina transitoria ed entrata in vigore
 
 Il presente regolamento si applica alle istruttorie avviate dopo la sua entrata in vigore.
+
+2.
+                    
+                        
+                            Gli oneri economici dovuti in relazione alle procedure di VIA per i progetti di cui alla legge 21 dicembre 2001, n. 443, avviate alla data di entrata in vigore del decreto legislativo n. 50 del 2016, sono determinati come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                0,5 per mille del valore delle opere da realizzare, come stabilito dall'art. 9, comma 6 del decreto del Presidente della Repubblica 14 maggio 2007, n. 90, per le procedure di VIA, ai sensi degli articoli 182, 183, 184, 185 del decreto legislativo 12 aprile 2006, n. 163; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                euro 25.000,00 per le procedure di verifica di ottemperanza, ai sensi dell'art. 185, commi 4 e 5, del decreto legislativo 12 aprile 2006, n. 163; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                0,25 per mille del valore dell'opera, determinato sulla base del progetto esecutivo presentato a corredo dell'istanza della prima fase di verifica di attuazione per le procedure di verifica di attuazione, ai sensi dell'art. 185, commi 6 e 7, del decreto legislativo 12 aprile 2006, n. 163; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'importo di cui alla lettera c), suddiviso per le annualita' previste dal cronoprogramma allegato al progetto esecutivo, determina la somma che dovra' essere versata entro il 30 gennaio di ogni anno.
+Per le opere per le quali, alla data di pubblicazione del presente regolamento, le verifiche di attuazione, per alcune delle annualita' previste dal cronoprogramma allegato al progetto esecutivo, risultino gia' parzialmente effettuate, l'importo e' dovuto in proporzione solo per le restanti annualita', o quota parte di esse, per le quali sono ancora da espletare le attivita' di verifica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli oneri economici dovuti in relazione alle richieste di riesame di provvedimenti di VIA gia' emanati e relativi ai progetti di cui alla legge 21 dicembre 2001, n. 443, sono stabiliti nella misura del 25% di quanto gia' versato a titolo di 0,5 per mille.
 

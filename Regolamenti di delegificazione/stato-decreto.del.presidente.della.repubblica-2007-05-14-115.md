@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2010-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,54 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per i di
 
 La Commissione per le pari opportunita' fra uomo e donna, gia' istituita ai sensi dell'articolo 3, del decreto legislativo 11 aprile 2006, n. 198, di seguito denominata: "Commissione", opera presso la Presidenza del Consiglio dei Ministri - Dipartimento per i diritti e le pari opportunita' e ha durata di tre anni decorrenti dalla data di entrata in vigore del presente regolamento.
 
+2.
+                    
+                        
+                            La Commissione e' composta da ((ventisei)) membri:
+
+                        
+                        
+                            a)
+                            
+                                il Ministro per i diritti e le pari opportunita', di seguito denominato "Ministro", che la presiede;
+                            
+                        
+                        
+                            b)
+                            
+                                undici componenti scelti nell'ambito delle associazioni e dei movimenti delle donne maggiormente rappresentativi sul piano nazionale;
+                            
+                        
+                        
+                            c)
+                            
+                                tre donne che si siano particolarmente distinte, per riconoscimenti e titoli, in attivita' scientifiche, letterarie, sociali e imprenditoriali;
+                            
+                        
+                        
+                            d)
+                            
+                                tre rappresentanti regionali designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
+                            
+                        
+                        
+                            e)
+                            
+                                quattro personalita' espressive degli organismi sindacali con peculiare esperienza in materia di politiche di genere;
+                            
+                        
+                        
+                            f)
+                            
+                                tre componenti scelti nell'ambito delle organizzazioni imprenditoriali e della cooperazione femminile maggiormente rappresentative sul piano nazionale.
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                la consigliera o il consigliere nazionale di parita'.
+
 Il Vice Presidente, nominato ai sensi dell'articolo 4, sostituisce il Presidente in caso di assenza o di temporaneo impedimento o su delega dello stesso.
 
 Il Segretario, nominato ai sensi dell'articolo 4, collabora con il Presidente e il Vice Presidente e, sulla base del programma di lavoro approvato dal Presidente, cura gli adempimenti ai fini dell'insediamento dei gruppi di lavoro, sentite le indicazioni dei componenti, partecipando ai lavori dei medesimi gruppi quando necessario.
@@ -46,6 +94,87 @@ La decadenza e' dichiarata dal Ministro.
 
 ## Art. 2. — Procedura e criteri di scelta dei componenti provenienti dalle associazioni e dai movimenti delle donne
 
+1.
+                    
+                        
+                            Ai fini della scelta di cui all'articolo 1, comma 2, lettera b), sono da considerarsi maggiormente rappresentativi sul piano nazionale le associazioni e i movimenti di donne che presentano almeno tre dei requisiti nel campo delle politiche di genere, di seguito elencati in ordine di importanza:
+ 
+                        
+                        
+                            a)
+                            
+                                competenza in materia di attivita' per la promozione delle politiche femminili; la competenza non deve essere determinata avuto riguardo esclusivamente alla previsione statutaria, laddove esistente, ma tenendo in considerazione, in concreto, l'azione svolta in un arco temporale di riferimento triennale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                intercategorialita' dell'azione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                intersettorialita' dell'azione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                presenza sul territorio ramificata con riferimento a tutte le realta' locali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                numero degli iscritti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                rapporti di collaborazione con altre associazioni aventi medesimi obiettivi statutari;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ruolo assunto nell'ambito di organismi, commissioni e comitati promossi dalle istituzioni per problemi riguardanti la condizione femminile e per problemi con essi connessi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ruolo assunto nell'ambito di organismi internazionali deputati alla lotta contro la discriminazione di genere o comunque alla promozione delle pari opportunita' tra uomo e donna;
+
+                            
+                        
+                        
+                            i)
+                            
+                                progetti di attivita' in essere nella materia delle pari opportunita' di genere;
+
+                            
+                        
+                        
+                            l)
+                            
+                                consolidata presenza nel settore negli anni;
+
+                            
+                        
+                        
+                            m)
+                            
+                                finanziamenti ricevuti da parte dell'Unione europea, ovvero da parte di istituzioni nazionali per la realizzazione di azioni e progetti nell'ultimo triennio.
+
 La scelta e' operata dalla Presidenza del Consiglio dei Ministri - Dipartimento per i diritti e le pari opportunita' tra le associazioni e i movimenti di donne che dichiarano la loro disponibilita' a comporre la Commissione entro il 15 gennaio di ogni anno.
 
 I componenti della Commissione di cui al comma 2, dell'articolo 1 sono nominati con decreto del Ministro.
@@ -53,6 +182,45 @@ I componenti della Commissione di cui al comma 2, dell'articolo 1 sono nominati 
 ## Art. 3. — Competenze e funzionamento della Commissione
 
 La Commissione fornisce consulenza e supporto tecnico-scientifico nell'elaborazione e nell'attuazione delle politiche di genere, sui provvedimenti di competenza dello Stato.
+
+2.
+                    
+                        
+                            Nell'esercizio delle sue competenze, la Commissione, in particolare :
+ 
+                        
+                        
+                            a)
+                            
+                                propone il programma annuale di lavoro, indicando le conseguenti esigenze finanziarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                controlla sistematicamente gli sviluppi delle politiche delle pari opportunita' tra uomini e donne in ambito sopranazionale e comunitario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                segnala al Ministro le iniziative necessarie per conformare l'organizzazione delle pubbliche amministrazioni alla parita' dei sessi e, in generale, per realizzare l'effettiva parita' nell'amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                redige un rapporto annuale per il Ministro sullo stato di attuazione delle politiche di pari opportunita', rilevando altresi' l'eventuale mancato rispetto degli impegni comunitari;
+
+                            
+                        
+                        
+                            e)
+                            
+                                puo' effettuare audizioni, pubblicare i propri lavori nonche' le ricerche svolte e predisporre la realizzazione di campagne informative.
 
 La Commissione puo' articolarsi in gruppi di lavoro per materie omogenee composti da non meno di tre membri.
 
@@ -66,6 +234,24 @@ d) nomina con proprio decreto fino a quattro esperti e consulenti competenti in 
 e) nomina il Segretario tra i componenti della Commissione.
 
 ## Art. 5. — Segreteria tecnica della Commissione
+
+1.
+                    
+                        
+                            La segreteria tecnica della Commissione e' costituita con decreto del Ministro, e svolge le seguenti funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                istruttoria delle questioni di competenza della Commissione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                adempimenti strumentali al funzionamento della Commissione e dei gruppi di lavoro.
 
 La segreteria tecnica si avvale di un contingente massimo di tre unita' del personale in servizio presso la Presidenza del Consiglio dei Ministri - Dipartimento per i diritti e le pari opportunita', ad una delle quali vengono attribuite funzioni di coordinamento. Al personale di segreteria non competono compensi aggiuntivi per l'attivita' prestata per la Commissione.
 
@@ -86,4 +272,29 @@ I componenti della Commissione restano in carica fino alla scadenza del termine 
 In fase di prima applicazione il termine per la dichiarazione di disponibilita' a comporre la Commissione di cui al comma 2 dell'articolo 2 e' sostituito con il termine di trenta giorni dalla data di entrata in vigore del presente regolamento.
 
 ## Art. 9. — Abrogazioni
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 29 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, dalla data di entrata in vigore del presente regolamento sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 3, 4, 5, 6 e 7 del decreto legislativo 11 aprile 2006, n. 198;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 6, comma 2 e l'articolo 7, comma 1, del decreto legislativo 21 luglio 2003, n. 226;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto del Ministro per le pari opportunita' 19 maggio 2004, n. 275.
 

@@ -8,8 +8,8 @@ codice_redazionale: 098G0479
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,24 @@ Presso il Dipartimento della protezione civile opera la "Commissione nazionale p
 La Commissione e' composta dal Ministro per il coordinamento della protezione civile ovvero, in mancanza, da un delegato del Presidente del Consiglio dei Ministri, che la presiede, da un docente universitario esperto in problemi di protezione civile con funzioni di vicepresidente, che sostituisce il presidente in caso di assenza o di impedimento, da esperti nei vari settori di rischio e da tre esperti designati dalla Conferenza permanente tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
 ## Art. 3.
+
+1.
+                        
+                            
+                                La Commissione si articola nelle seguenti sezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sezione I - rischio sismico; sezione II - rischio nucleare; sezione III - rischio vulcanico; sezione IV - rischio idrogeologico; sezione V - rischio chimico, industriale ed ecologico; sezione VI - rischio trasporti; sezione VII - aspetti sanitari delle emergenze; sezione VIII - difesa dei beni culturali dai rischi naturali e di origine antropica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sezioni trattano problemi relativi agli specifici rischi di loro competenza e formulano pareri e proposte alla commissione in seduta plenaria.
 
 Ciascuna sezione e' composta da un presidente, da nove esperti e da un segretario. Il presidente e' individuato tra i professori universitari di ruolo, competenti nelle specifiche discipline. I componenti sono individuati nello stesso ambito di cui al punto precedente nonche' tra esperti anche estranei all'Amministrazione dello Stato.
 

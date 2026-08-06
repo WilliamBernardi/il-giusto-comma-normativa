@@ -7,8 +7,8 @@ urn: urn:nir:ambiente.energetica.ministero.sicurezza:decreto:2024-06-28;127
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,80 @@ Il presente regolamento stabilisce i criteri specifici nel rispetto dei quali i 
 Le operazioni di recupero finalizzate alla cessazione della qualifica di rifiuto aventi a oggetto in tutto o in parte rifiuti non elencati nell'Allegato 1, Tabella 1, punti 1 e 2, del presente regolamento ovvero rifiuti elencati in tale allegato e destinati a scopi specifici differenti rispetto a quelli previsti dall'articolo 4, sono soggette al rilascio o al rinnovo delle autorizzazioni ai sensi dell'articolo 184-ter, comma 3, del medesimo decreto legislativo.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le definizioni di cui all'articolo 183 del decreto legislativo n. 152 del 2006, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «rifiuti inerti derivanti dalle attivita' di costruzione e demolizione»: i rifiuti derivanti dalle operazioni di costruzione e demolizione identificati al capitolo 17 dell'elenco europeo dei rifiuti di cui alla decisione della Commissione 2000/532/Ce del 3 maggio 2000, ove elencati nell'Allegato 1, Tabella 1, punto 1, del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «altri rifiuti inerti di origine minerale»: i rifiuti non appartenenti al capitolo 17 dell'elenco europeo dei rifiuti di cui alla decisione della Commissione 2000/532/Ce ed elencati nell'Allegato 1, Tabella 1, punto 2, del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «rifiuti inerti»: i rifiuti solidi derivanti dalle attivita' di costruzione e demolizione e altri rifiuti di origine minerale che non subiscono alcuna trasformazione fisica, chimica o biologica significativa, che non si dissolvono, non bruciano, non sono soggetti ad altre reazioni fisiche o chimiche, non sono biodegradabili, e che, in caso di contatto con altre materie, non comportano effetti nocivi tali da provocare inquinamento ambientale o danno alla salute umana; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «aggregato riciclato»: aggregato minerale risultante dal recupero di rifiuti di materiale inorganico precedentemente utilizzato nelle costruzioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «aggregato artificiale»: aggregato di origine minerale risultante dal recupero di rifiuti derivante da un processo industriale che implica una modificazione termica o di altro tipo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «aggregato recuperato»: aggregato riciclato o artificiale prodotto dai rifiuti di cui alle lettere a) e b) che hanno cessato di essere tali a seguito di una o piu' operazioni di recupero nel rispetto delle condizioni di cui all'articolo 184-ter, comma 1, del decreto legislativo n. 152 del 2006, e delle disposizioni del presente regolamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «lotto di aggregato recuperato»: un quantitativo non superiore ai 3.000 metri cubi di aggregato recuperato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «produttore di aggregato recuperato» o «produttore»: il gestore dell'impianto autorizzato per la produzione di aggregato recuperato; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «dichiarazione di conformita'»: la dichiarazione sostitutiva di certificazioni e dell'atto di notorieta' rilasciata dal produttore ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 e attestante le caratteristiche dell'aggregato recuperato; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «autorita' competente»: l'autorita' che rilascia l'autorizzazione ai sensi del Titolo III-bis della Parte II o del Titolo I, Capo IV, della Parte IV del decreto legislativo n. 152 del 2006, ovvero l'autorita' destinataria della comunicazione di cui all'articolo 216 del medesimo decreto legislativo.
 
 ## Art. 3. — Criteri ai fini della cessazione della qualifica di rifiuto
 

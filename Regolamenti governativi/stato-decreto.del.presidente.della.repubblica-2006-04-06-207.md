@@ -8,8 +8,8 @@ codice_redazionale: 006G0223
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,11 +35,82 @@ L'Agenzia e' ente pubblico non economico.
 
 ## Art. 2. — Funzioni dell'Agenzia
 
+1.
+                    
+                        
+                            L'Agenzia:
+ 
+                        
+                        
+                            a)
+                            
+                                cura la promozione all'estero dell'immagine turistica unitaria italiana e delle varie tipologie dell'offerta turistica nazionale, nonche' la promozione integrata delle risorse turistiche delle regioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                realizza le strategie promozionali a livello nazionale e internazionale e di informazione all'estero e di sostegno alla commercializzazione dei prodotti turistici italiani, in collegamento con le produzioni di qualita' degli altri settori economici e produttivi, la cultura e l'ambiente, in attuazione degli indirizzi individuati dal Comitato nazionale del turismo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge attivita' di consulenza e di assistenza per lo Stato, per le regioni e per altri organismi pubblici in materia di promozione di prodotti turistici, individuando idonee strategie commerciali che permettano all'Italia di presentarsi in modo efficace sui mercati stranieri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                organizza servizi di consulenza, assistenza e collaborazione in favore di soggetti pubblici e privati, ivi compresi gli uffici e le agenzie regionali, per promuovere e sviluppare processi indirizzati ad armoniz-zare i servizi di accoglienza e di informazione ai turisti ed anche, con corrispettivo, per attivita' promozionali e pubblicitarie, di comunicazione e pubbliche relazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attua forme di collaborazione con gli Uffici della rete diplomatico-consolare del Ministero degli affari esteri, secondo quanto previsto dai Protocolli di intesa con il Ministero delle attivita' produttive e con il Ministero degli affari esteri, e con le altre sedi di rappresentanza italiana all'estero, anche ai sensi dell'articolo 1, della legge 31 marzo 2005, n. 56;
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolge le altre funzioni previste dall'articolo 12 del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80.
+
 Per lo svolgimento nelle funzioni di cui al comma 1, l'Agenzia elabora, secondo gli indirizzi del Comitato nazionale per il turismo e sentito il Comitato tecnico-consultivo di cui all'articolo 8 del presente regolamento, il Piano nazionale promozionale triennale e i relativi piani esecutivi annuali, da sottoporre all'approvazione del Ministro vigilante, sentita, per i soli piani triennali, la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
 Nei piani di cui al comma 2, l'Agenzia persegue obiettivi di sviluppo e cura delle diverse tipologie del turismo.
 
 ## Art. 3. — Organi
+
+1.
+                    
+                        
+                            Sono organi dell'Agenzia:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori.
 
 Gli organi dell'Agenzia durano in carica tre anni e sono rinnovabili per una sola volta.
 
@@ -50,6 +121,31 @@ Le indennita' di carica del presidente, dei membri del consiglio di amministrazi
 Il Presidente dell'Agenzia e' nominato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, adottata su proposta del Ministro competente e previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
 Il Presidente ha la rappresentanza legale dell'Agenzia, convoca e presiede il consiglio di amministrazione, vigila sull'esecuzione delle delibere adottate.
+
+3.
+                    
+                        
+                            Nei casi di necessita' e urgenza, secondo le modalita' disposte dallo Statuto, il Presidente puo' adottare i provvedimenti di competenza del consiglio di amministrazione nelle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                liti attive e passive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accettazione di lasciti e donazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                provvedimenti necessari alla realizzazione dei compiti istituzionali ed alla esecuzione dei programmi di cui all'articolo 2, commi 2 e 3, nonche' quelli necessari per la gestione amministrativa ed operativa dell'Agenzia.
 
 I provvedimenti adottati dal Presidente vengono sottoposti alla ratifica del consiglio di amministrazione nella prima riunione successiva.
 
@@ -106,6 +202,38 @@ Dell'Osservatorio fanno comunque parte almeno tre esperti designati dalla Confer
 L'Agenzia ha sede in Roma ed ha sedi periferiche all'estero, anche a carattere temporaneo.
 
 L'Agenzia svolge le proprie funzioni istituzionali secondo criteri di efficienza, efficacia ed economicita'.
+
+3.
+                    
+                        
+                            L'Agenzia provvede alle spese necessarie per il proprio funzionamento principalmente attraverso contributi dello Stato ed anche attraverso le seguenti entrate:
+ 
+                        
+                        
+                            a)
+                            
+                                contributi delle regioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributi di amministrazioni statali, regionali, locali e di altri enti pubblici per la gestione di specifiche attivita' promozionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                proventi derivanti dalla gestione e dalla vendita di beni e servizi a soggetti pubblici e privati, nonche' dalle attivita' di cui al comma 8 dell'articolo 12 del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80, al netto dei costi inerenti alla gestione della piattaforma tecnologica ivi indicata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                contribuzioni diverse e/o sponsorizzazioni.
 
 La misura del contributo statale e' determinata annualmente dalla legge finanziaria secondo le modalita' previste dall'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362.
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,7 +29,120 @@ Il presente decreto stabilisce, nel quadro di armonizzazione istituito dall'Unio
 
 Il presente decreto si applica ai prodotti che hanno un notevole impatto diretto o indiretto sul consumo di energia e, se del caso, su altre risorse essenziali durante l'uso.
 
+3.
+                    
+                        
+                            Il presente decreto non si applica: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai prodotti usati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai mezzi adibiti al trasporto di cose o di persone; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla piastrina, o l'equivalente della piastrina, indicante la potenza, apposta per motivi di sicurezza sui prodotti.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                prodotto connesso all'energia o prodotto: qualsiasi bene che abbia un impatto sul consumo di energia durante l'uso, immesso in commercio ovvero messo in servizio, comprese le parti destinate ad essere integrate in prodotti connessi all'energia disciplinati dal presente decreto e immesse in commercio ovvero messe in servizio come parti a se' stanti per gli utilizzatori finali e di cui e' possibile valutare le prestazioni ambientali in maniera indipendente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                scheda: una tabella informativa standardizzata relativa ad un prodotto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                altre risorse essenziali: acqua, prodotti chimici o qualsiasi altra risorsa consumata da un prodotto durante il normale funzionamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                informazioni complementari: altre informazioni relative al funzionamento e alle caratteristiche del prodotto che riguardano o servono a valutare il suo consumo di energia o di altre risorse essenziali sulla base di dati quantificabili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impatto diretto: l'impatto dei prodotti che consumano effettivamente energia durante l'uso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                impatto indiretto: l'impatto dei prodotti che non consumano energia ma contribuiscono alla conservazione dell'energia durante l'uso; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                distributore: qualsiasi dettagliante o qualsiasi altra persona che vende, affitta, offre in locazione finanziaria, o espone prodotti agli utilizzatori finali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                fornitore: il fabbricante o il suo rappresentante autorizzato nell'Unione europea oppure l'importatore che immette o mette in servizio il prodotto sul mercato dell'Unione. In mancanza di questi e' considerato fornitore la persona fisica o giuridica che immette sul mercato o mette in servizio prodotti contemplati dal presente decreto; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                immissione sul mercato: rendere disponibile per la prima volta sul mercato dell'Unione europea un prodotto in vista della sua distribuzione o del suo utilizzo all'interno dell'Unione, contro compenso o anche a titolo gratuito ed a prescindere dalla tecnica di vendita utilizzata; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                messa in servizio: il primo impiego di un prodotto utilizzato ai fini previsti dall'utilizzatore finale nell'Unione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                uso non autorizzato dell'etichetta: l'uso dell'etichetta, da parte di un soggetto diverso dalle istituzioni dello Stato membro o delle istituzioni dell'Unione europea, in una maniera non prevista dal presente decreto o da un atto delegato adottato ai sensi della direttiva 2010/30/UE; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                atto delegato: regolamento delegato mediante il quale la Commissione dell'Unione europea definisce gli elementi tecnici specifici riguardanti l'etichetta e la scheda per ciascun tipo di prodotto ai sensi dell'articolo 10 della direttiva 2010/30/UE e secondo le procedure e le condizioni di cui agli articoli 11, 12 e 13 della medesima direttiva.
 
 ## Art. 3. — Obblighi e divieti in materia di informazione
 
@@ -42,6 +155,31 @@ La pubblicita' di uno specifico modello di prodotto connesso all'energia discipl
 Il materiale tecnico promozionale in materia di prodotti connessi all'energia che descrive i parametri tecnici specifici di un prodotto ivi compresi, in particolare, manuali tecnici e opuscoli del fabbricante, siano essi su supporto cartaceo oppure disponibili in formato elettronico, deve fornire agli utilizzatori finali le informazioni necessarie sul consumo energetico o fare riferimento alla classe di efficienza energetica del prodotto.
 
 E' vietata l'apposizione di etichette, marchi, simboli o iscrizioni, non conformi ai requisiti dal presente decreto e dei pertinenti atti delegati previsti dalla direttiva 2010/30/UE, qualora tale apposizione possa indurre in errore o ingenerare confusione negli utilizzatori finali per quanto riguarda il consumo di energia o eventualmente di altre risorse essenziali durante l'uso, nonche' per i prodotti non contemplati da tali atti delegati.
+
+6.
+                    
+                        
+                            Il Ministero dello sviluppo economico autorizza l'etichettatura volontaria conforme ai principi del presente decreto per i prodotti che rientrano nel suo campo di applicazione e non sono ancora oggetto di atti delegati. Tale autorizzazione e' concessa fino alla data di applicazione dei pertinenti atti delegati e limitatamente ai casi in cui i prodotti interessati e le indicazioni ovvero i parametri da riportare sulle relative etichette sono concordati mediante protocolli di intesa stipulati tra le associazioni di categoria piu' rappresentative del settore interessato e l'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile - ENEA. Detti protocolli d'intesa prevedono in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' per l'effettuazione di controlli a campione sui prodotti, con onere a carico delle associazioni o delle imprese interessate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il tipo di prove e le modalita' di esecuzione delle prove da effettuare, con onere a carico delle associazioni o delle imprese interessate, ai fini della verifica della corrispondenza dei parametri indicati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di revisione del protocollo quando e' necessario procedere all'aggiornamento dello stesso.
 
 ## Art. 4. — Vigilanza
 
@@ -58,6 +196,38 @@ Il Ministero dello sviluppo economico e le altre Amministrazioni responsabili de
 Responsabilita' dei fornitori
 
 I fornitori che immettono sul mercato o che mettono in servizio i prodotti che rientrano in un atto delegato forniscono un'etichetta e una scheda in conformita' al presente decreto e al pertinente atto delegato.
+
+2.
+                    
+                        
+                            I fornitori producono una documentazione tecnica, redatta in una delle lingue ufficiali della Comunita', e sufficiente a consentire di valutare l'esattezza dei dati che figurano sull'etichetta e sulla scheda. Tale documentazione contiene: 
+ 
+                        
+                        
+                            a)
+                            
+                                la descrizione generale del prodotto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ove disponibili, i risultati dei calcoli progettuali effettuati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i risultati delle prove, se disponibili, comprese quelle effettuate da pertinenti organismi notificati, quali definiti in altre regolamentazioni dell'Unione e nelle relative norme nazionali di attuazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                se taluni valori sono stati utilizzati per modelli analoghi, i riferimenti che permettono l'identificazione di tali modelli.
 
 Ai fini di cui al comma 2 i fornitori possono avvalersi di documentazione gia' predisposta in base alle disposizioni stabilite dalla pertinente legislazione dell'Unione.
 
@@ -105,6 +275,45 @@ Quando le amministrazioni pubbliche prevedono incentivi per determinati prodotti
 Funzioni e responsabilita' 
  del Ministero dello sviluppo economico
 
+1.
+                    
+                        
+                            Il Ministero dello sviluppo economico che esercita le funzioni di vigilanza di cui all'articolo 4: 
+ 
+                        
+                        
+                            a)
+                            
+                                vigila affinche' i fornitori e i distributori rispettino le prescrizioni del presente decreto e dei pertinenti atti delegati e, in particolare, adempiano agli obblighi stabiliti agli articoli 5 e 6 dello stesso decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove campagne di informazione a carattere educativo e promozionale, destinate a promuovere l'efficienza energetica e un uso piu' responsabile dell'energia da parte degli utilizzatori finali in particolare in occasione dell'introduzione del sistema di etichette e schede sul consumo o sulla conservazione dell'energia in generale e per i singoli prodotti oggetto delle disposizioni del presente decreto e dei relativi atti delegati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizza controlli della conformita' dei prodotti oggetto del presente decreto e del pertinente atto delegato e, a tale fine, dispone il prelievo, presso il fornitore o distributore, di campioni di prodotti per sottoporli a controlli di conformita' ed esige dalle parti interessate la fornitura di tutte le informazioni necessarie, come specificato nel presente decreto e nel pertinente atto delegato applicabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                garantisce un'efficace sorveglianza del mercato ai fini dell'attuazione del presente decreto, anche attraverso l'uso di appropriate analisi del mercato e la cooperazione e lo scambio di informazioni con le autorita' competenti degli altri Stati membri dell'Unione europea; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tiene informata la Commissione europea dei risultati della sorveglianza del mercato e, in particolare, informa la Commissione e gli altri Stati membri dell'Unione europea dei provvedimenti di ritiro dal mercato o di divieto di immissione sul mercato adottati e, ogni quattro anni, trasmette alla Commissione una relazione in merito alle attivita' di controllo dell'applicazione della normativa ed al livello di conformita' all'interno del territorio nazionale.
+
 ## Art. 11.
 
 Supporto dell'ENEA all'attivita' di vigilanza
@@ -127,9 +336,104 @@ Le misure di cui ai commi da 1 a 3 sono adottate con provvedimento motivato e no
 
 ## Art. 13. — Sanzioni
 
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, sono soggetti alle seguenti sanzioni amministrative pecuniarie: 
+ 
+                        
+                        
+                            a)
+                            
+                                da 4.000 a 40.000 euro, il fornitore che non ottempera ai provvedimenti adottati dal Ministero dello sviluppo economico ai sensi dell'articolo 12, commi da 1 a 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da 3.000 a 30.000 euro, il fornitore che immette sul mercato, commercializza o mette in servizio prodotti privi dell'etichetta o della scheda prescritta o la cui documentazione tecnica non e' tenuta a disposizione o non e' messa a disposizione entro i termini stabiliti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da 2.000 a 20.000 euro, il fornitore che immette sul mercato, commercializza o mette in servizio prodotti con etichetta incompleta o inesatta, o prodotti con scheda incompleta o inesatta o con documentazione tecnica incompleta o insufficiente per consentire di valutare l'esattezza dei dati che figurano sull'etichetta o sulla scheda, ovvero prodotti con etichette non autorizzate o prodotti sui quali sono apposti simboli, marchi iscrizioni o etichette tali da indurre in errore o ingenerare confusione negli utilizzatori finali per quanto riguarda il consumo di energia o eventualmente di altre risorse essenziali durante l'uso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                da 1.000 a 10.000 euro, il distributore che espone prodotti privi di etichetta oppure prodotti privi della prevista scheda; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                da 500 a 5.000 euro, il distributore che espone prodotti con etichetta posta in maniera non visibile e leggibile, oppure prodotti sui quali non e' apposta la prevista scheda o per i quali tale scheda non e' redatta in lingua italiana, o prodotti con etichetta energetica non autorizzata o sui quali sono apposti simboli, marchi iscrizioni o etichette tali da indurre in errore o ingenerare confusione negli utilizzatori finali per quanto riguarda il consumo di energia o eventualmente di altre risorse essenziali durante l'uso.
+
 Le sanzioni di cui al presente articolo sono irrogate dalla Camera di commercio, industria, artigianato e agricoltura territorialmente competente ed al procedimento si applicano per quanto compatibili con il presente decreto le disposizioni di cui alla legge 24 novembre 1981, n. 689. Le somme derivanti da tali sanzioni sono versate all'entrata del bilancio dello Stato.
 
 ## Art. 14. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono o restano abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto del Presidente della Repubblica 9 marzo 1998, n. 107, recante norme per l'attuazione della direttiva 92/75/CEE del Consiglio, del 22 settembre 1992, concernente l'indicazione del consumo di energia e di altre risorse degli apparecchi domestici, mediante l'etichettatura ed informazioni uniformi relative ai prodotti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Presidente della Repubblica 12 agosto 1982, n. 783, di attuazione della direttiva, 79/530/CEE del Consiglio, del 14 maggio 1979, relativa all'informazione, mediante etichettatura, sul consumo di energia degli apparecchi domestici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 23 della legge 29 maggio 1982, n. 308, sull'etichettatura degli apparecchi di riscaldamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto del Presidente della Repubblica 10 settembre 1982, n.784, di attuazione della direttiva (CEE) n. 79/531 relativa alla applicazione ai forni elettrici della direttiva (CEE) n. 79/530 concernente l'informazione, mediante etichettatura, sul consumo degli apparecchi domestici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i seguenti provvedimenti attuativi della direttiva 94/2/CE della Commissione, del 21 gennaio 1994, che stabilisce modalita' di applicazione della direttiva 92/75/CEE del 22 settembre 1992 per quanto riguarda l'etichettatura indicante il consumo di energia dei frigoriferi elettrodomestici, dei congelatori elettrodomestici e delle relative combinazioni: 
+ 1) il decreto del Ministro dell'industria, del commercio e dell'artigianato 2 aprile 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 104 del 7 maggio 1998; 
+ 2) gli articoli 7 e 8 del decreto del Ministro dell'industria, del commercio e dell'artigianato 7 ottobre 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 248 del 23 ottobre 1998; 
+ 3) il decreto del Ministro delle attivita' produttive 21 settembre 2005, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 229 del 1° ottobre 2005; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                limitatamente alle disposizioni relative alle lavatrici per uso domestico, gli allegati I-a, II-a, III-a e IV-a del decreto del Ministro dell'industria, del commercio e dell'artigianato 7 ottobre 1998, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 248 del 23 ottobre 1998, recante norme per l'attuazione delle direttive 96/89/CE della Commissione del 17 dicembre 1996, che modifica la direttiva 95/12/CE della Commissione del 23 maggio 1995, 95/13/CE della Commissione del 23 maggio 1995 e 96/60/CE del Consiglio del 19 settembre 1996, che stabiliscono modalita' di applicazione della direttiva 92/75/CEE del 22 settembre 1992 per quanto riguarda l'etichettatura indicante il consumo di energia rispettivamente delle lavatrici, delle asciugabiancheria e delle lavasciuga ad uso domestico; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il decreto del Ministro dell'industria, del commercio e dell'artigianato 10 novembre 1999, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 269 del 16 novembre 1999, recante modalita' di applicazione della etichettatura energetica alle lavastoviglie ad uso domestico, in conformita' alle direttive comunitarie 92/75/CE e 97/17/CE.
 
 Per effetto dell'applicazione delle corrispondenti disposizioni del regolamento delegato della Commissione (CE) n. 626/2011 del 4 maggio 2011, che integra la direttiva 2010/30/UE per quanto riguarda l'etichettatura indicante il consumo di energia dei condizionatori d'aria, e' abrogato, a decorrere dal 1° gennaio 2013, il decreto del Ministro delle attivita' produttive 2 gennaio 2003, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 23 del 29 gennaio 2003, recante attuazione della direttiva 2002/31/CE del 22 marzo 2002, che stabilisce modalita' di applicazione della direttiva 92/75/CEE del 22 settembre 1992 per quanto riguarda l'etichettatura indicante il consumo di energia dei condizionatori d'aria per uso domestico.
 

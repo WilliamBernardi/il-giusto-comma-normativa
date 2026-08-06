@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2023-10-27;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,45 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto co
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ministro: il Ministro delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ministero: il Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Uffici di diretta collaborazione: gli Uffici di diretta collaborazione con il Ministro delle infrastrutture e dei trasporti, con i vice Ministri e con i sottosegretari di Stato presso il Ministero delle infrastrutture e dei trasporti, di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e all'articolo 7 del decreto legislativo 30 luglio 1999, n. 300; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vice Ministri: i sottosegretari di Stato presso il Ministero delle infrastrutture e dei trasporti ai quali e' stato attribuito il titolo di vice Ministro ai sensi dell'articolo 10, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sottosegretari di Stato: i sottosegretari di Stato presso il Ministero delle infrastrutture e dei trasporti.
+
 ## Art. 2. — Uffici di diretta collaborazione
 
 Il presente regolamento disciplina l'organizzazione degli Uffici di diretta collaborazione, di cui il Ministro si avvale per l'esercizio delle funzioni di indirizzo politico del Ministero.
@@ -39,6 +78,66 @@ Il presente regolamento disciplina l'organizzazione degli Uffici di diretta coll
 Gli Uffici di diretta collaborazione svolgono attivita' di supporto e di raccordo tra il Ministro e il Ministero, collaborando alla definizione degli obiettivi, all'elaborazione delle politiche pubbliche, nonche' alla relativa valutazione e alle connesse attivita' di comunicazione.
 
 I vice Ministri e i sottosegretari di Stato svolgono, in particolare, i compiti e le funzioni a loro espressamente delegati dal Ministro con proprio decreto.
+
+4.
+                        
+                            
+                                Sono Uffici di diretta collaborazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Ufficio di Gabinetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Segreteria del Ministro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'Ufficio legislativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la Segreteria tecnica del Ministro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'Ufficio del Consigliere diplomatico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'Ufficio stampa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le Segreterie dei vice Ministri; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le Segreterie dei sottosegretari di Stato.
 
 I Capi degli Uffici di cui al comma 4, nonche' il Segretario particolare del Ministro di cui all'articolo 4, sono nominati dal Ministro, per la durata massima del relativo mandato governativo, ferma restando la possibilita' di revoca anticipata qualora venga meno il rapporto fiduciario. Al decreto di nomina dei responsabili degli uffici di cui al comma 4 e' allegato il curriculum vitae relativo ai titoli e alle esperienze professionali dei soggetti prescelti.
 
@@ -69,6 +168,66 @@ Il Capo della Segreteria del Ministro e il Segretario particolare sono scelti da
 Il Ministro, su proposta del Capo di Gabinetto, sentito il Comandante generale del Corpo delle capitanerie di porto, puo' nominare, nell'ambito del personale della Segreteria di cui al comma 1, un Ufficiale Superiore addetto, scelto tra gli Ufficiali del Corpo delle capitanerie di porto. Per l'incarico di cui al primo periodo, il trattamento economico complessivo resta a carico del Corpo di provenienza. All'Ufficiale Superiore addetto non si applicano gli ultimi tre periodi dell'articolo 3, comma 5.
 
 ## Art. 5. — Ufficio legislativo
+
+1.
+                        
+                            
+                                L'Ufficio legislativo cura l'attivita' legislativa e regolamentare nelle materie di competenza del Ministero, con la collaborazione dei competenti Uffici del Ministero ai fini dello studio, della elaborazione normativa, della valutazione dei costi della regolazione, della quantificazione degli oneri normativi e dell'individuazione delle relative coperture finanziarie, della qualita' della legislazione, dell'applicabilita' delle norme introdotte e dell'analisi dell'impatto e della fattibilita' della regolamentazione, garantendo la semplificazione normativa. Lo stesso Ufficio, inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esamina i provvedimenti sottoposti al Consiglio dei ministri e quelli di iniziativa parlamentare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura le risposte agli atti parlamentari di sindacato ispettivo riguardanti il Ministero e il seguito dato agli stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura l'esame degli atti di indirizzo presentati in Parlamento nelle materie di competenza del Ministero e il seguito dato agli stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura, per l'attivita' normativa, i rapporti con il Parlamento, con la Presidenza del Consiglio dei ministri e con le altre amministrazioni interessate, anche per quanto concerne la formazione e attuazione normativa degli atti dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    cura, in relazione all'attivita' legislativa e regolamentare, i rapporti di natura tecnico-giuridica con le autorita' amministrative indipendenti, con il Consiglio di Stato, con l'Avvocatura dello Stato, con la Conferenza permanente per i rapporti tra lo Stato, le Regioni, e le Province autonome di Trento e di Bolzano, con la Conferenza Stato-citta' e autonomie locali e con la Conferenza unificata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esamina la legislazione regionale nelle materie di interesse del Ministero; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sovrintende al contenzioso internazionale, europeo e costituzionale, in coordinamento con i competenti Uffici del Ministero; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    svolge attivita' di consulenza giuridica in favore del Ministro e dell'Ufficio di Gabinetto nelle materie di competenza del Ministero.
 
 Il Capo dell'Ufficio legislativo e' scelto fra magistrati ordinari, amministrativi e contabili, avvocati dello Stato, consiglieri parlamentari, dirigenti di ruolo delle pubbliche amministrazioni, nonche' fra docenti universitari di ruolo, avvocati del libero foro e altri operatori professionali del diritto, anche estranei alla pubblica amministrazione, in possesso di adeguata capacita' ed esperienza nel campo della consulenza giuridica e legislativa e della progettazione e produzione normativa.
 
@@ -123,6 +282,63 @@ Ai servizi di supporto a carattere generale necessari per l'attivita' degli Uffi
 Fatta salva la possibilita' di revoca anticipata da parte del Ministro qualora venga meno il rapporto fiduciario, tutte le assegnazioni di personale, gli incarichi di livello dirigenziale, le consulenze ed i contratti a tempo determinato, di cui ai commi 1, 2, 3 e 4, decadono automaticamente, ove non confermati, entro trenta giorni dal giuramento del nuovo Ministro.
 
 ## Art. 11. — Trattamenti economici
+
+1.
+                        
+                            
+                                Ai responsabili degli Uffici di diretta collaborazione, ferme restando le vigenti disposizioni in materia di contenimento dei trattamenti economici, spetta un trattamento economico onnicomprensivo determinato con le modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, come di seguito articolato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Capo di Gabinetto: una voce retributiva non superiore alla misura massima del trattamento economico fondamentale spettante ai Capi Dipartimento del Ministero incaricati ai sensi dell'articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165, e un emolumento accessorio equivalente alla misura massima del trattamento accessorio attribuito ai medesimi Capi Dipartimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Capo dell'Ufficio legislativo, Capo della Segreteria tecnica del Ministro, Consigliere diplomatico, Capo della Segreteria del Ministro: una voce retributiva non superiore alla misura massima del trattamento economico fondamentale spettante ai dirigenti di ruolo di livello generale del Ministero incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165, e un emolumento accessorio equivalente alla misura massima del trattamento accessorio attribuito ai medesimi dirigenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Segretario particolare del Ministro, Capo della Segreteria del vice Ministro e Capo della Segreteria del sottosegretario di Stato, vice Capo dell'Ufficio legislativo qualora estraneo alla pubblica amministrazione: una voce retributiva equivalente alla misura massima del trattamento economico fondamentale e della retribuzione di posizione parte fissa spettante ai dirigenti di ruolo di livello non generale del Ministero e un emolumento accessorio determinato in un importo non superiore alla misura massima del trattamento accessorio spettante ai medesimi dirigenti, esclusa la retribuzione di risultato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Capo dell'Ufficio stampa: trattamento conforme a quello previsto dal Contratto Collettivo Nazionale per i giornalisti con la qualifica di redattore capo.
+
+2.
+                        
+                            
+                                I responsabili degli Uffici di cui al comma 1 e gli altri componenti degli Uffici di diretta collaborazione, ivi compresi i vice Capi di Gabinetto di cui all'articolo 3, comma 4, e il vice Capo dell'Ufficio legislativo di cui all'articolo 5, comma 3, se dipendenti da pubbliche amministrazioni, mantengono il trattamento economico dell'Amministrazione di provenienza e agli stessi e' corrisposto un emolumento accessorio correlato ai compiti di diretta collaborazione nella misura determinata con decreto del Ministro, adottato di concerto con il Ministro dell'economia e delle finanze, secondo quanto disposto dal decreto del Presidente del Consiglio dei ministri 23 marzo 2012 in attuazione del quadro normativo vigente in materia di limiti retributivi. Il predetto emolumento accessorio deve essere di importo non superiore alla misura massima del trattamento accessorio spettante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai Capi Dipartimento del Ministero, per il Capo di Gabinetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai dirigenti di ruolo di livello generale del Ministero, per il Capo dell'Ufficio legislativo, per il Capo della Segreteria tecnica del Ministro, per il Consigliere diplomatico, per il Capo della Segreteria del Ministro e per i vice Capi di Gabinetto di cui all'articolo 3, comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai dirigenti di ruolo di livello non generale del Ministero, per il Segretario particolare del Ministro, per il Capo della Segreteria del vice Ministro, per il Capo della Segreteria del sottosegretario di Stato e per il vice Capo dell'Ufficio legislativo di cui all'articolo 5, comma 3.
 
 Al vice Capo di Gabinetto di cui all'articolo 3, comma 5, in aggiunta al trattamento economico di cui al medesimo comma, spetta un emolumento accessorio determinato con decreto del Ministro, adottato di concerto con il Ministro dell'economia e delle finanze, nei limiti di cui all'articolo 4, comma 1, del decreto del Presidente del Consiglio dei ministri 23 marzo 2012.
 

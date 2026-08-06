@@ -8,8 +8,8 @@ codice_redazionale: 010G0153
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,51 @@ Udito il Parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Integrazione delle informazioni contenute 
  nella Scheda di Dimissione Ospedaliera
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto ministeriale 27 ottobre 2000, n. 380, che disciplina, alle lettere a) e b), rispettivamente la sezione prima e la sezione seconda della scheda di dimissione ospedaliera, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), dopo il numero 6) e' inserito il seguente:
+«6-bis) livello di istruzione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), dopo il numero 13) sono inseriti i seguenti:
+«13-bis) data di prenotazione» e «13-ter) classe di priorita'»; dopo il numero 19) e' inserito il seguente: «19-bis) codice causa esterna».
+
+2.
+                    
+                        
+                            All'articolo 3, comma 3, del decreto ministeriale 27 ottobre 2000, n. 380 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il numero 6) e' inserito il seguente: «6-bis) livello di istruzione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il numero 13) sono inseriti i seguenti: «13-bis) data di prenotazione» e «13-ter) classe di priorita'»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il numero 19) e' inserito il seguente: «19-bis) codice causa esterna».
 
 ## Art. 2. — Tempistica di trasmissione delle informazioni; rilevanza della trasmissione ai fini dei finanziamenti regionali
 

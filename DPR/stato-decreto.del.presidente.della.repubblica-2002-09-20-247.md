@@ -8,8 +8,8 @@ codice_redazionale: 002G0278
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,7 +31,57 @@ Il presente regolamento si applica al personale della carriera prefettizia di cu
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                amministrazione: il Ministero dell'interno, nelle sue articolazioni centrali e periferiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                personale: il personale della carriera prefettizia di cui all'articolo 1 del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizzazioni sindacali: le organizzazioni sindacali rappresentative del personale della carriera prefettizia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ufficio relazioni sindacali: l'ufficio relazioni sindacali del Dipartimento degli affari interni e territoriali del Ministero dell'interno.
+
 ## Art. 3. — Relazioni sindacali e istituti di partecipazione
+
+1.
+                    
+                        
+                            Le relazioni sindacali si articolano nei seguenti modelli relazionali:
+ 
+                        
+                        
+                            a)
+                            
+                                procedimento negoziale, di cui al capo II del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            b)
+                            
+                                concertazione, consultazione, informazione, nonche' altre forme di partecipazione.
 
 ## Art. 4. — Informazione
 
@@ -39,13 +89,158 @@ L'amministrazione, allo scopo di rendere trasparente e costruttivo il confronto 
 
 Ai fini di una piu' compiuta informazione, le parti, su richiesta, si incontrano con cadenza almeno annuale e, in ogni caso, in presenza di iniziative concernenti le linee di organizzazione degli uffici ovvero per l'innovazione tecnologica, nonche' per eventuali processi di dismissione, esternalizzazione e trasformazione dei servizi.
 
+3.
+                    
+                        
+                            L'amministrazione fornisce un'informazione preventiva sui criteri generali inerenti le seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                sistemi di valutazione dell'attivita' del personale, ivi compresi quelli di cui all'articolo 9, comma 3, del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            b)
+                            
+                                conferimento, revoca e rotazione negli incarichi e nelle funzioni, ivi compresi quelli indicati all'articolo 12, comma 4, del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            c)
+                            
+                                individuazione dei posti di funzione e graduazione delle posizioni funzionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione dei posti disponibili nelle qualifiche e le relative sedi di servizio, come previsto dall'articolo 13, comma 2, del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            e)
+                            
+                                invii in missione e conferimento degli incarichi di cui all'articolo 24 del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            f)
+                            
+                                iniziative socio-assistenziali in favore del personale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                formazione e aggiornamento professionale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                misure in materia di igiene e sicurezza nei luoghi di lavoro;
+
+                            
+                        
+                        
+                            i)
+                            
+                                ordini del giorno delle riunioni del Consiglio di amministrazione e delle commissioni previste dal decreto legislativo 19 maggio 2000, n. 139.
+
 L'informazione preventiva e' fornita ai soggetti di cui all'articolo 2, comma 1, lettera c), nelle materie di cui al comma 3, almeno cinque giorni prima, inviando contestualmente la documentazione.
 
 Per le materie di cui al comma 1, lettere f) e h), l'informazione e' fornita anche a livello periferico.
 
 L'amministrazione puo' individuare modalita' di informazione preventiva piu' articolate, anche in materie non comprese nel comma 3.
 
+7.
+                    
+                        
+                            L'amministrazione fornisce, a livello centrale e periferico, un'informazione successiva nelle seguenti materie, entro dieci giorni dall'emanazione dell'atto:
+ 
+                        
+                        
+                            a)
+                            
+                                provvedimenti e atti di gestione rilevanti ai fini del buon andamento degli uffici, nonche' sulla costituzione, modificazione ed estinzione del rapporto di impiego;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica sulla applicazione dei criteri generali di cui all'articolo 5, comma 1, lettere a), b), c), d), e) ed f);
+
+                            
+                        
+                        
+                            c)
+                            
+                                attuazione dei programmi di formazione del personale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                resoconto delle riunioni del Consiglio di amministrazione.
+
 ## Art. 5. — Concertazione
+
+1.
+                    
+                        
+                            Le organizzazioni sindacali, ricevuta l'informazione ai sensi dell'articolo 4, comma 3, possono attivare, mediante richiesta scritta, la concertazione sui criteri generali inerenti le seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                sistemi di valutazione dell'attivita' del personale, ivi compresi quelli di cui all'articolo 9, comma 3, del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            b)
+                            
+                                conferimento, revoca e rotazione negli incarichi e nelle funzioni, ivi compresi quelli indicati all'articolo 12, comma 4, del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            c)
+                            
+                                individuazione dei posti di funzione e graduazione delle posizioni funzionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione dei posti disponibili nelle qualifiche e le relative sedi di servizio come previsto dall'articolo 13, comma 2, del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            e)
+                            
+                                invii in missione e conferimento degli incarichi di cui all'articolo 24 del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            f)
+                            
+                                formazione e aggiornamento professionale.
 
 La concertazione si svolge in appositi incontri che iniziano entro il quarto giorno dalla data di ricezione della richiesta; durante la concertazione le parti si adeguano, nei loro comportamenti, ai principi di responsabilita', correttezza e trasparenza.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2018-06-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,7 +36,71 @@ Gli impianti esistenti, la cui capacita' complessiva resti limitata fino a 30 m�
 
 ## Art. 2. — Obiettivi
 
+1.
+                    
+                        
+                            Ai fini della prevenzione degli incendi, allo scopo di garantire le esigenze di sicurezza per la salvaguardia delle persone e la tutela dei beni contro i rischi di incendio, gli impianti di distribuzione stradale di G.P.L. per autotrazione sono realizzati e gestiti secondo la regola tecnica di cui all'allegato A, in modo da garantire i seguenti obiettivi:
+ 
+                        
+                        
+                            a)
+                            
+                                minimizzare le cause di rilascio accidentale di G.P.L., di incendio e di esplosione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                limitare, in caso di evento incidentale, danni alle persone;
+
+                            
+                        
+                        
+                            c)
+                            
+                                limitare, in caso di evento incidentale, danni ad edifici e/o locali contigui all'impianto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ridurre la frequenza delle operazioni di riempimento dei serbatoi fissi, contribuendo in tal modo a ridurre il traffico stradale di merci pericolose;
+
+                            
+                        
+                        
+                            e)
+                            
+                                permettere ai soccorritori di operare in condizioni di sicurezza.
+
 ## Art. 3. — Ubicazione dell'impianto
+
+1.
+                    
+                        
+                            Gli impianti di distribuzione stradale di gas di petrolio liquefatto per autotrazione non possono sorgere:
+ 
+                        
+                        
+                            a)
+                            
+                                nella zona territoriale omogenea totalmente edificata, individuata come zona A nel piano regolatore generale o nel programma di fabbricazione ai sensi dell'articolo 2 del decreto ministeriale 2 aprile 1968, n. 1444, e nei comuni sprovvisti dei predetti strumenti urbanistici, all'interno del perimetro del centro abitato, delimitato a norma dell'articolo 17 della legge 6 agosto 1967, n. 765, quando, nell'uno e nell'altro caso, la densita' della edificazione esistente, nel raggio di duecento metri dal perimetro degli elementi pericolosi dell'impianto, come definiti al punto 3 dell'allegato al presente decreto, e dall'area di sosta dell'autocisterna, risulti superiore a tre metri cubi per metro quadrato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle zone di completamento e di espansione dell'aggregato urbano indicate nel piano regolatore generale o nel programma di fabbricazione, nelle quali sia previsto un indice di edificabilita' superiore a tre metri cubi per metro quadrato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nelle aree, ovunque ubicate, destinate a verde pubblico.
 
 La rispondenza dell'area prescelta per l'installazione dell'impianto alle caratteristiche urbanistiche della zona deve essere attestata dal sindaco o comprovata da perizia giurata a firma di professionista, iscritto al relativo albo professionale, competente per la sottoscrizione del progetto dell'impianto medesimo.
 

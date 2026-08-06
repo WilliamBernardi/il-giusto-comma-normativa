@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -78,6 +78,32 @@ I Commissari straordinari in carica alla data di entrata in vigore del presente 
 
 ## Art. 4. — Collegio sindacale
 
+1.
+                        
+                            
+                                Il collegio sindacale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica l'amministrazione dell'azienda sotto il 
+ profilo economico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigila sull'osservanza della legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accerta la regolare tenuta della contabilita' e la conformita' del bilancio alle risultanze dei libri e delle scritture contabili, ed effettua periodicamente verifiche di cassa.
+
 I componenti del collegio sindacale possono procedere ad atti di ispezione e controllo, anche individualmente.
 
 ((3. Il collegio sindacale delle Fondazioni IRCCS e degli IRCCS non trasformati dura in carica tre anni ed e' composto, fermo restando l'articolo 16 della legge 31 dicembre 2009, n. 196, da tre membri, di cui uno designato dal presidente della giunta regionale, uno dal Ministro dell'economia e delle finanze e uno dal Ministro della salute))
@@ -117,6 +143,63 @@ Per le finalita' di cui al comma 1-bis, le regioni attribuiscono al direttore ge
 
 ## Art. 7. — Patrimonio
 
+1.
+                        
+                            
+                                Il patrimonio delle Fondazioni IRCCS e degli Istituti non trasformati e' costituito da:
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni mobili e immobili di proprieta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i conferimenti degli eventuali partecipanti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i lasciti, le donazioni, le eredita' e le erogazioni di qualsiasi genere, che siano accettati dagli Organi competenti.
+
+2.
+                        
+                            
+                                Costituiscono ricavi delle Fondazioni IRCCS e degli Istituti non trasformati:
+ 
+                            
+                            
+                                a)
+                                
+                                    i proventi derivanti dall'esercizio delle attivita' istituzionali ed eventuali specifici finanziamenti pubblici e privati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i frutti e le rendite generati dai beni non direttamente utilizzati per l'assolvimento delle finalita' istituzionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i proventi derivanti dall'esercizio delle attivita' strumentali di cui all'articolo 9;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i lasciti, le donazioni, le eredita' e le erogazioni di qualsiasi genere che siano accettati dagli organi competenti e non imputati a patrimonio.
+
 Le Fondazioni IRCCS e gli Istituti non trasformati adottano la contabilita' di tipo economico-patrimoniale.
 
 Entro novanta giorni dal loro insediamento, i consigli di amministrazione delle Fondazioni IRCCS redigono la stato patrimoniale, individuando i beni direttamente utilizzati per gli scopi istituzionali, da considerarsi indisponibili ed inalienabili.
@@ -137,13 +220,95 @@ Le reti di ricerca degli IRCCS sono reti di eccellenza che, nelle aree tematiche
 
 Le reti di ricerca degli IRCCS sono costituite ai sensi dell'articolo 36 del codice civile mediante atto pubblico, e lo statuto indica il legale rappresentante, il coordinatore scientifico, le modalita' di funzionamento dell'assemblea dei soci e quelle per condividere la strumentazione e le competenze scientifiche tra i partecipanti.
 
+3-quater.
+                        
+                            
+                                Ferma restando la possibilita' di accedere a reti in area tematica coincidente con quella del riconoscimento della qualifica di IRCCS, ai fini della partecipazione ad una rete di area tematica diversa rispetto a quella di riconoscimento, gli IRCCS documentano il possesso dei seguenti requisiti, che il Ministero della salute provvede a validare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specifica attivita' di ricerca sia con riguardo al numero delle pubblicazioni che al numero dei trials, svolta nell'ultimo triennio relativamente alla area tematica della rete, nel rispetto dei parametri bibliometrici internazionalmente riconosciuti e comunque in misura non inferiore al 5 per cento degli indicatori e soglie di valutazione di cui all'allegato 3, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    erogazione dell'attivita' assistenziale desumibile dai flussi informativi correnti, svolta nell'area tematica della rete, in misura pari almeno al 10 per cento rispetto a quella complessiva dell'Istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    risorse strumentali e piattaforme da condividere nonche' le conoscenze e competenze specifiche riconducibili all'area tematica della rete finalizzate al potenziamento delle capacita' operative degli altri IRCCS.
+
 Le reti di ricerca degli IRCCS svolgono l'attivita' di ricerca sulla base di una programmazione quadriennale, articolata in traiettorie integrative rispetto alle linee di ricerca dei singoli Istituti, in coerenza con il programma di ricerca sanitaria, di cui all'articolo 12-bis del decreto legislativo 30 dicembre 1992, n. 502;
+
+3-sexies.
+                        
+                            
+                                Ai fini del finanziamento di cui al comma 1, secondo periodo, dell'articolo 10, nei limiti ed in coerenza con la programmazione quadriennale di cui al comma 3-quinquies, gli IRCCS che partecipano alla rete con riconoscimento in area tematica diversa da quella della rete, garantiscono il rispetto dei seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' assistenziale desumibile dai flussi informativi correnti, svolta nell'area tematica della rete, pari al 20 per cento rispetto a quella complessiva dell'istituto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di ricerca svolta nell'area tematica della rete pari al 20 per cento rispetto a quella complessiva dell'IRCCS, con un minimo del 10 per cento degli indicatori e soglie di valutazione di cui all'allegato 3, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indici bibliometrici relativi all'impatto delle pubblicazioni nell'area tematica della rete pari alla media nazionale dell'area stessa.
 
 Il possesso dei requisiti di cui al comma 3-sexies puo' essere comprovato dagli IRCCS mediante dichiarazione sostitutiva dell'atto di notorieta' resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. Ai sensi dell'articolo 71 del citato decreto n. 445 del 2000, il Ministero della salute effettua i controlli a campione sulla veridicita' delle dichiarazioni rese;
 
 ))
 
 Le Fondazioni IRCCS e gli Istituti non trasformati attuano misure idonee di collegamento e sinergia con altre strutture di ricerca e di assistenza sanitaria, pubbliche e private, con le Universita', con istituti di riabilitazione e con analoghe strutture a decrescente intensita' di cura, avvalendosi, in particolare, delle reti di cui all'articolo 43 della legge 16 gennaio 2003, n. 3, all'interno delle quali attuare comuni progetti di ricerca, praticare comuni protocolli di assistenza, operare la circolazione delle conoscenze e del personale con l'obiettivo di garantire al paziente le migliori condizioni assistenziali e le terapie piu' avanzate, nonche' le ricerche pertinenti.
+
+5.
+                        
+                            
+                                Al fine di trasferire i risultati della ricerca in ambito industriale e salvaguardando comunque la finalita' pubblica della ricerca, le istituzioni e gli enti disciplinate dal presente decreto legislativo possono stipulare accordi e convenzioni, costituire e/o partecipare a consorzi, societa' di persone o di capitali, con soggetti pubblici e privati di cui sia accertata la qualificazione e l'idoneita'. In nessun caso eventuali perdite dei consorzi e delle societa' partecipate possono essere poste a carico della gestione degli enti. I predetti rapporti devono disciplinare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di distribuzione dei profitti connessi alla eventuale brevettazione dei risultati ed al loro sfruttamento, vincolandone in ogni caso la destinazione al finanziamento delle attivita' istituzionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adeguate regole di trasparenza dei flussi finanziari, con obblighi di rendicontazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    obiettivi e tempi certi per il loro raggiungimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    idonee modalita' di informazione, verifica e controllo dell'andamento del programma da parte degli organi di indirizzo e degli organi di gestione.
 
 ((
 
@@ -156,6 +321,38 @@ Fermo restando quanto previsto dall'articolo 65 del decreto legislativo 10 febbr
 Il personale degli IRCCS e il personale in convenzione con l'IRCCS e' tenuto a rispettare la disciplina delle incompatibilita' tra lo svolgimento delle attivita' legate al rapporto di lavoro con l'IRCCS e lo svolgimento dell'attivita' a favore di spin-off e start up, secondo quanto previsto dalla normativa vigente e dai regolamenti rispettivamente adottati da ciascun IRCCS in materia di incompatibilita', cumulo di impieghi e disciplina degli incarichi extra-istituzionali a titolo oneroso o gratuito anche con riguardo alla fase del trasferimento tecnologico dei risultati della ricerca, secondo quanto previsto dalla normativa vigente e dai regolamenti adottati dall'IRCCS in materia.
 
 Gli IRCCS di diritto pubblico promuovono la partecipazione dei ricercatori in spin-off e start-up costituite per lo sviluppo dei prodotti della ricerca degli stessi Istituti. Con regolamento interno gli IRCCS definiscono le modalita' di partecipazione del personale, di alternanza lavoro istituzionale e in start-up e spin-off. Alla determinazione dei compensi del predetto personale si provvede nel rispetto della contrattazione collettiva nazionale di lavoro di riferimento e in base ai principi del decreto legislativo 30 marzo 2001, n. 165.
+
+5-sexies.
+                        
+                            
+                                Gli IRCCS di diritto pubblico, al fine di trasferire i risultati della ricerca in ambito industriale, anche mediante contratti di collaborazione industriale, di licenza, nonche' la creazione di spin-off e start up, individuano il partner industriale secondo i criteri e le modalita' seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel rispetto delle vigenti disposizioni in materia di proprieta' intellettuale, adottano apposito regolamento, volto a disciplinare le procedure ed i criteri per l'individuazione dei partner industriali con adeguate competenze tecnologiche e di ricerca, al fine dell'adozione dell'Albo dei partner industriali, di seguito Albo, nonche' le modalita' e criteri per la stipula degli accordi e il funzionamento, la tenuta e l'aggiornamento dell'Albo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la predisposizione e l'aggiornamento periodico dell'Albo sono effettuati mediante procedura di evidenza pubblica, in attuazione del principio di trasparenza e di pubblicita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'inserimento nell'Albo di cui alla lettera b) subordinato alla sottoscrizione di apposito accordo di riservatezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per gli IRCCS pubblici, per le finalita' di cui al presente comma con apposita procedura selettiva individuano i soggetti in possesso degli idonei requisiti di qualificazione e competenze tecnologiche per la stipula dell'accordo. Qualora nessuno dei soggetti iscritti all'elenco sia in possesso dei requisiti richiesti, l'IRCCS pubblico puo' procedere ad ulteriore procedura di evidenza pubblica per l'aggiornamento dell'Albo.
 
 ))
 
@@ -228,6 +425,66 @@ Fatte salve le disposizioni di cui all'articolo 1, l'istituzione di nuovi Istitu
 
 Le strutture pubbliche che chiedono il riconoscimento possono costituirsi nella forma delle Fondazioni di cui all'articolo 2; le strutture private debbono costituirsi in una delle forme giuridiche disciplinate dal codice civile.
 
+3.
+                        
+                            
+                                Il riconoscimento del carattere scientifico e' soggetto al possesso, in base a titolo valido, dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personalita' giuridica di diritto pubblico o di diritto privato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titolarita' dell'autorizzazione e dell'accreditamento sanitari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    economicita' ed efficienza dell'organizzazione, qualita' delle strutture e livello tecnologico delle attrezzature adeguatezza della struttura organizzativa rispetto alle finalita' di ricerca ed equilibrio economico finanziario e patrimoniale, nonche' almeno il 35 per cento dei ricercatori con contratto di lavoro subordinato secondo il contratto collettivo nazionale di lavoro della sanita' pubblica e/o privata. Ai fini del computo di tale percentuale non si calcola il personale dedicato all'assistenza sanitaria ((...)); (9) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    caratteri di eccellenza del livello dell'attivita' di ricovero e cura di alta specialita' direttamente svolta negli ultimi tre anni, ovvero del contributo tecnico-scientifico fornito, nell'ambito di un'attivita' di ricerca biomedica riconosciuta a livello nazionale e internazionale, al fine di assicurare una piu' alta qualita' dell'attivita' assistenziale, attestata da strutture pubbliche del Servizio sanitario nazionale della complessita' delle prestazioni erogate, delle caratteristiche strutturali, del volume e tipologia delle attivita' e del percorso assistenziale ((nonche' della qualifica di centro di riferimento clinico-assistenziale di eccellenza a livello regionale e sovra regionale come bacino di utenza per l'area tematica di appartenenza)); (9) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    caratteri di eccellenza della attivita' di ricerca svolta nell'ultimo triennio relativamente alla specifica disciplina assegnata secondo sistemi bibliometrici internazionalmente riconosciuti; (9) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dimostrata capacita' di operare in rete con gli Istituti di ricerca della stessa area di riferimento, di collaborare con altri enti pubblici e privati nonche' di comprovare il numero delle sperimentazioni cliniche multicentriche e il numero delle partecipazioni a bandi comunitari. (9) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dimostrata capacita' di attrarre finanziamenti pubblici e privati indipendenti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    certificazione di qualita' dei servizi secondo procedure internazionalmente riconosciute.
+
 Fatte salve le disposizioni di cui al comma 3, ai fini del riconoscimento della qualifica di IRCCS, nell'allegato 2, parte integrante del presente decreto legislativo, e' individuato per ciascuna area tematica di cui all'allegato 1 del presente decreto nonche' per ogni macro area territoriale nazionale, il bacino minimo di utenza su base territoriale, che consenta un'adeguata attivita' di ricerca a garanzia dei percorsi innovativi di cura e l'accesso a nuovi farmaci e l'individuazione dei relativi centri di riferimento regionali o sovraregionali. (9)
 
 Il Ministero della salute, ai fini dell'esame delle istanze per il riconoscimento del carattere scientifico, verifica la compatibilita' dell'istanza con il fabbisogno nazionale di prestazioni di eccellenza che richiedono tecnologie avanzate e farmaci innovativi, nonche' con il fabbisogno nazionale di ricerca sanitaria, e verifica la sussistenza del bacino minimo di utenza per MDC, come definito al comma 3-bis, e delle caratteristiche epidemiologiche della popolazione insistente nell'area di riferimento. A tali fini, si tiene conto del numero delle sperimentazioni cliniche no profit annualmente condotte nelle relative aree tematiche, del numero dei pazienti arruolati, nonche' del numero dei pazienti affetti dalle patologie riconducibili alla medesima area. (9)
@@ -281,6 +538,31 @@ Gli IRCCS di diritto pubblico inviano annualmente al Ministero della salute la p
 
 Il Ministero della salute, nell'esercizio delle funzioni di vigilanza di cui all'articolo 1, comma 2, puo' chiedere dati e informazioni relativi al mantenimento dei requisiti e degli standard per il riconoscimento del carattere scientifico.
 
+3.
+                        
+                            
+                                I consigli di amministrazione delle Fondazioni IRCCS e gli organi degli IRCCS non trasformati possono essere sciolti con provvedimento del Ministro della salute, adottato d'intesa con il Ministro dell'economia e delle finanze e con il Presidente della regione, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultano gravi irregolarita' nell'amministrazione, ovvero gravi e reiterate violazioni delle disposizioni di legge o statutarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il conto economico chiude con una perdita superiore al 20 per cento del patrimonio per due esercizi successivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vi e' impossibilita' di funzionamento degli organi di amministrazione e gestione.
+
 Con il decreto di scioglimento il Ministro della salute, d'intesa con il Presidente della regione interessata, nomina un Commissario straordinario, con il compito di rimuovere le irregolarita' e sanare la situazione di passivita', sino alla ricostituzione degli ordinari organi di amministrazione.
 
 ------------
@@ -297,6 +579,31 @@ In caso di estinzione, il residuo patrimonio verra' devoluto allo Stato, con del
 ## Art. 18. — Commissione nazionale per la ricerca sanitaria
 
 La Commissione nazionale per la ricerca sanitaria svolge i compiti di consulenza e supporto tecnico di cui all'articolo 42, comma 1, lettera o), della legge 16 gennaio 2003, n. 3. ((5))
+
+2.
+                        
+                            
+                                La Commissione in particolare svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce al Ministro della salute il parere sul programma di ricerca sanitaria previsto dall'articolo 12-bis del decreto legislativo n. 502 del 1992; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge le funzioni di cui agli articoli 4 e 7 del decreto del Presidente della Repubblica 13 febbraio 2001, n. 213; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime parere su tutte le questioni ad esso sottoposte dal Ministro della salute in materia di ricerca sanitaria.
 
 COMMA ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 86.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2013-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,52 @@ Qualora il numero delle domande presentate in una sede d'esame sia inferiore a v
 
 ## Art. 2. — Requisiti di ammissione
 
+1.
+                    
+                        
+                            Per l'ammissione all'esame, sono richiesti i seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore ai diciotto anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di istruzione secondaria di secondo grado, conseguito al temine di un corso quinquennale di studi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cittadinanza italiana;
+
+                            
+                        
+                        
+                            d)
+                            
+                                idoneita' psico-fisica all'esercizio delle funzioni di ufficiale di riscossione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                aver ottemperato alle norme sul servizio di leva;
+
+                            
+                        
+                        
+                            f)
+                            
+                                godimento dei diritti politici.
+
 I requisiti di cui al comma 1, devono essere posseduti alla data di scadenza del termine utile per la presentazione della domanda di ammissione all'esame.
 
 Il prefetto puo' disporre in ogni momento, con decreto motivato, l'esclusione dei candidati dall'esame per difetto dei prescritti requisiti.
@@ -54,6 +100,38 @@ Ai sensi dell'articolo 3 della legge 15 maggio 1997, n. l27, non e' necessaria l
 
 ## Art. 4. — Commissione esaminatrice
 
+1.
+                    
+                        
+                            In ogni sede d'esame e' insediata una commissione esaminatrice, nominata dal prefetto composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il prefetto o un suo delegato, in qualita' di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due esperti di provata competenza nelle materie oggetto delle prove d'esame di cui uno scelto tra i funzionari dell'amministrazione finanziaria con qualifica dirigenziale o equiparata e l'altro tra docenti di materie giuridiche ed economiche estranei all'amministrazione stessa, ai sensi dell'articolo 36 del decreto legislativo 3 febbraio 1993, n. 29;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un impiegato dell'amministrazione finanziaria, con qualifica non inferiore alla settima svolge funzioni di segretario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                due membri supplenti che intervengono alle sedute della commissione esaminatrice nelle ipotesi di impedimento grave e documentato degli effettivi.
+
 Il presidente della commissione esaminatrice impartisce le direttive idonee a garantire il regolare svolgimento degli esami e, per le prove attitudinali, e' affiancato da un comitato per la vigilanza nominato dal prefetto. Si applicano ove compatibili le disposizioni di cui agli articoli 6 e seguenti del decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
 
 ## Art. 5. — Trattamento dei dati personali
@@ -70,6 +148,49 @@ Con decreto del prefetto sono nominati, ai sensi dell'articolo 8 della legge n. 
 
 L'esame consiste in una prova attitudinale ed un colloquio interdisciplinare.
 
+2.
+                    
+                        
+                            La prova attitudinale e' basata su una serie di quesiti a risposta multipla da predisporsi dalla commissione esaminatrice e da essa valutati, miranti all'accertamento del grado di cultura generale e specifica richiesta per l'esercizio delle funzioni di ufficiale di riscossione e verte sulle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni di procedura civile, con particolare riguardo all'esecuzione sui beni mobili ed immobili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nozioni di merceologia e di estimo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nozioni di matematica.
+
+3.
+                    
+                        
+                            Il colloquio interdisciplinare, cui sono ammessi i candidati che abbiano ottenuto nella prova attitudinale la votazione minima di ventuno trentesimi, verte sulle materie oggetto delle prove attitudinali, nonche':
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni di diritto civile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nozioni di diritto tributario, con particolare riguardo alle disposizioni sulla riscossione dei tributi ed elementi di diritto della previdenza sociale con riguardo alle procedure contenziose.
+
 Consegue l'idoneita' il candidato che abbia riportato nel colloquio una votazione non inferiore a ventuno trentesimi.
 
 ## Art. 7. — Ammissione al colloquio
@@ -81,6 +202,52 @@ Al termine di ogni seduta di esame sono affissi i risultati ai fini degli adempi
 Al termine delle prove orali la commissione esaminatrice comunica alla Direzione centrale per la riscossione gli elenchi dei candidati risultati idonei.
 
 ## Art. 8. — Conseguimento dell'abilitazione
+
+1.
+                    
+                        
+                            Ai fini del conseguimento dell'abilitazione alle funzioni di ufficiale della riscossione i candidati idonei producono al prefetto competente per territorio, entro trenta giorni dal colloquio, dichiarazioni sostitutive ai sensi della legge 4 gennaio 1968, n. 15, e successive integrazioni e modificazioni, nonche' del regolamento di cui al decreto del Presidente della Repubblica 20 ottobre 1998, n. 403, attestanti i seguenti stati, fatti e qualita' personali: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso del titolo di studio di cui all'articolo 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il luogo e la data di nascita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la cittadinanza italiana; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il godimento dei diritti politici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                di non aver riportato condanne penali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per gli idonei di sesso maschile: la posizione nei riguardi del servizio militare, con l'indicazione del tipo di servizio prestato ossia come ufficiale ovvero come sottufficiale o militare di truppa oppure se sia stato esonerato dal servizio.
 
 I candidati idonei devono produrre, entro lo stesso termine, un certificato medico rilasciato dall'A.S.L. competente per residenza o domicilio ovvero, se il candidato risiede o si trova temporaneamente all'estero, da un medico di fiducia dell'autorita' diplomatica o consolare, cui spetta di autenticarlo ed eventualmente tradurlo, attestante la sana e robusta costituzione e l'idoneita' psico-fisica all'impiego. ((1))
 

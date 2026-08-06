@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-04-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,9 +36,197 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Campo di applicazione e definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                testo unico: il testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con il decreto legislativo 26 ottobre 1995, n. 504 e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                programma: il programma pluriennale 1° gennaio 2007 - 31 dicembre 2010 di agevolazione del biodiesel nel limite del contingente annuale previsto, di cui all'articolo 22-bis, comma 1, del testo unico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                contingente annuale: il quantitativo annuale di biodiesel previsto dal programma;
+
+                            
+                        
+                        
+                            d)
+                            
+                                accordi: le intese di filiera ed i contratti quadro di cui al decreto legislativo 27 maggio 2005, n. 102;
+
+                            
+                        
+                        
+                            e)
+                            
+                                competente Ufficio: l'Ufficio tecnico di finanza, ovvero l'Ufficio delle dogane ove istituito, competente per territorio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                rete: l'insieme degli impianti di distribuzione di carburanti per autotrazione, accessibili al pubblico, ubicati lungo la rete stradale ordinaria e lungo le autostrade;
+
+                            
+                        
+                        
+                            g)
+                            
+                                extra-rete: l'insieme degli impianti di distribuzione di carburanti diversi da quelli di cui al punto f);
+
+                            
+                        
+                        
+                            h)
+                            
+                                DAA e DAS: i documenti di accompagnamento previsti dal regolamento adottato con il decreto del Ministro delle finanze 25 marzo 1996, n. 210, per le spedizioni di prodotti sottoposti ad accisa rispettivamente in regime sospensivo e ad accisa assolta;
+
+                            
+                        
+                        
+                            i)
+                            
+                                Ufficio incaricato: l'Area verifiche e controlli tributi doganali e accise - laboratori chimici - dell'Agenzia delle dogane;
+
+                            
+                        
+                        
+                            l)
+                            
+                                aliquota ridotta del programma: il 20 per cento dell'aliquota di accisa di cui all'allegato I del testo unico applicata al gasolio usato come carburante ovvero la misura percentuale della predetta aliquota rideterminata ai sensi dell'articolo 22-bis, comma 3, del medesimo testo unico;
+
+                            
+                        
+                        
+                            m)
+                            
+                                cancello di ingresso: deposito fiscale ubicato nel territorio nazionale, attraverso il quale gli impianti situati in altri Paesi comunitari introducono il biodiesel del programma nel territorio nazionale;
+
+                            
+                        
+                        
+                            n)
+                            
+                                biodiesel del programma destinato all'immissione in consumo: il biodiesel, rientrante nel programma, che il soggetto assegnatario ha provveduto, dopo la produzione, a miscelare con il gasolio ovvero a trasferire a depositi fiscali nazionali per la successiva miscelazione ovvero a immettere in consumo direttamente dal proprio stabilimento di produzione.
+
 Nell'ambito del programma, al biodiesel (codice NC 3824 90 99) ottenuto dalla esterificazione di oli vegetali, rientrante nel contingente annuale e rispondente alle caratteristiche di cui all'allegato 1, d'ora in avanti indicato come «biodiesel del programma», impiegato tal quale o in miscela con il gasolio, e' applicata, una aliquota di accisa pari all'aliquota ridotta del programma. La classificazione del biodiesel si riferisce ai codici della nomenclatura combinata di cui al regolamento (CE) n. 2031/2001 della Commissione del 6 agosto 2001, che modifica l'allegato I del regolamento (CEE) n. 2658/87 del Consiglio, del 23 luglio 1987, relativo alla nomenclatura tariffaria e statistica ed alla tariffa doganale comune.
 
 ## Art. 2. — Procedura per la partecipazione al programma
+
+1.
+                    
+                        
+                            Sono ammessi a partecipare all'assegnazione dei quantitativi di biodiesel del programma i soggetti titolari di impianti, operanti in regime di deposito fiscale, ubicati nel territorio nazionale ovvero negli altri Paesi dell'Unione europea, che producono biodiesel rispondente alle caratteristiche di cui all'allegato 1; a tal fine gli stessi presentano, anche a mezzo raccomandata con avviso di ricevimento, un'istanza all'Ufficio incaricato contenente le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione sociale, l'ubicazione dell'impianto, il numero di partita IVA, il legale rappresentante, il depositario autorizzato, il codice fiscale e il codice di accisa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il quantitativo di biodiesel del programma complessivamente richiesto, espresso in tonnellate, specificando la quota parte, d'ora in avanti indicata come «quota prioritaria», che sara' ottenuta a seguito della stipula di contratti di fornitura nell'ambito degli accordi di cui all'articolo 1, comma 1, lettera d), riferibili al soggetto e la quota parte, d'ora in avanti indicata come «quota generica», che sara' prodotta impiegando materie prime non ottenute nell'ambito dei predetti accordi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi del decreto di autorizzazione rilasciato ai fini dell'esercizio. Per gli impianti ubicati negli altri Paesi comunitari, gli estremi dei provvedimenti rilasciati dalle competenti autorita' ai fini dell'esercizio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la capacita' produttiva annua degli impianti, espressa in tonnellate, quale risulta dal decreto di autorizzazione o dalla verifica effettuata dal competente Ufficio nei casi di autorizzazione provvisoria all'esercizio ovvero di impianti la cui capacita' produttiva non risulti dal decreto di autorizzazione. Per gli impianti situati negli altri Paesi comunitari, la capacita' produttiva, espressa in tonnellate, risultante dai provvedimenti rilasciati ai fini dell'esercizio, anche provvisorio, dalle competenti autorita' nazionali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli estremi della licenza di esercizio del deposito fiscale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la dichiarazione di conformita' delle caratteristiche merceologiche del biodiesel prodotto con quelle previste dalle vigenti norme dell'Ente nazionale italiano di unificazione (UNI);
+
+                            
+                        
+                        
+                            g)
+                            
+                                i quantitativi, espressi in tonnellate, del biodiesel realizzato e ceduto per la successiva immissione in consumo nel territorio nazionale, per ciascuno dei due anni solari precedenti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per gli impianti situati in altri Paesi comunitari, indicazione del cancello di ingresso.
+
+2.
+                    
+                        
+                            All'istanza sono allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                la copia dei documenti di cui al comma 1, lettere c) ed e).
+Per gli impianti situati in altri Paesi comunitari, i medesimi documenti sono presentati in copia conforme all'originale con traduzione ufficiale in lingua italiana;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il certificato di analisi rilasciato dalla Stazione sperimentale combustibili o dalla Stazione sperimentale oli e grassi o da uno dei Laboratori chimici delle Dogane specializzati nel particolare settore merceologico, relativo all'annualita' in corso, dal quale risulti la conformita' delle caratteristiche merceologiche di cui al comma 1, lettera f).
+
+                            
+                        
+                        
+                            c)
+                            
+                                la certificazione del competente Ufficio per le immissioni in consumo dichiarate ai sensi del comma 1, lettera g). Per gli operatori degli altri Paesi comunitari la certificazione rilasciata dall'Ufficio competente sul cancello di ingresso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'attestazione relativa all'effettivo esercizio dell'impianto rilasciata dall'Ufficio competente, ovvero, per gli impianti situati in altri Paesi comunitari, dall'autorita' di controllo che ha rilasciato il codice di accisa per l'impianto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dichiarazione, resa ai sensi dell'articolo 47 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, di non rientrare fra coloro che hanno ricevuto e, successivamente, non rimborsato o depositato in un conto bloccato, gli aiuti che sono individuati quali illegali o incompatibili dalla Commissione europea, e specificati nel decreto del Presidente del Consiglio dei Ministri di cui all'articolo 1, comma 1223, della legge 27 dicembre 2006, n. 296. I titolari di impianti situati in altri Paesi comunitari hanno l'obbligo di presentare documentazione equivalente alla suddetta dichiarazione.
 
 Le istanze di partecipazione sono redatte in lingua italiana.
 Per l'anno 2008 l'istanza e' presentata entro il 30° giorno successivo alla pubblicazione dell'avviso di cui all'articolo 11, comma 3; per gli anni 2009 e 2010 l'istanza e' presentata entro il 10 gennaio di ciascun anno. Per le istanze presentate a mezzo raccomandata fa fede la data di spedizione dell'ufficio postale accettante. Non sono prese in considerazione le istanze presentate dopo i termini stabiliti. I soggetti operanti in altri Paesi comunitari, presentano la documentazione equivalente a quella prescritta per i soggetti nazionali con una traduzione ufficiale in lingua italiana. Sono esclusi dall'assegnazione i soggetti che abbiano presentato istanze risultate incomplete o prive della prescritta documentazione.

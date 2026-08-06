@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2023-08-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,7 +28,153 @@ Sulla proposta del ((Ministro della cultura)), di concerto con i Ministri dell'e
 
 La Giunta centrale per gli studi storici assume la denominazione di: «Giunta storica nazionale».
 
+2.
+                    
+                        
+                            La Giunta storica nazionale coordina l'attivita', e la gestione dei sottoelencati Istituti ed enti operanti nel campo della ricerca storica, inseriti nel sistema strutturato a rete ai sensi dell'articolo 5, comma 2, del decreto legislativo 29 ottobre 1999, n. 
+419: 
+ 
+                        
+                        
+                            a)
+                            
+                                Istituto italiano per la storia antica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Istituto storico italiano per il medio evo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Istituto storico italiano per l'eta' moderna e contemporanea; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Istituto per la storia del risorgimento italiano; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Istituto italiano di numismatica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Domus Mazziniana.
+
+3.
+                    
+                        
+                            La Giunta storica nazionale ha competenza ad adottare decisioni che investono questioni di interesse comune agli Istituti della rete, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                coordina l'attivita' di ricerca degli Istituti storici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                redige la bibliografia storica nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                cura i rapporti internazionali, in particolare con il «Comite' International des Sciences Historiques» (C.I.S.H.) e le sue commissioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                provvede alla designazione dei delegati titolari e supplenti che rappresentano l'Italia presso il C.I.S.H., promuove, sostiene ed organizza la partecipazione degli Storici italiani all'attivita' del C.I.S.H. e delle sue commissioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                promuove, anche d'intesa con altre istituzioni, compresi gli Istituti storici stranieri, ricerche o incontri di studi che travalichino i limiti cronologici caratterizzanti l'attivita' dei singoli Istituti della rete; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove e sostiene iniziative dirette allo sviluppo e al coordinamento degli studi storici in Italia e organizza incontri di approfondimento dei grandi orientamenti storiografici, anche a livello internazionale, e dei problemi che attengono all'insegnamento della storia; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                organizza e coordina missioni di ricerca in archivi stranieri, musei e collezioni italiani ed esteri che conservino documenti di particolare interesse per la storia d'Italia; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                adempie a compiti di consulenza e di promozione degli studi storici per le iniziative promosse dal ((Ministero della cultura)); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                cura i rapporti con le deputazioni e societa' di storia patria; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                predispone e trasmette i piani di razionalizzazione secondo quanto previsto dall'articolo 12 del decreto legislativo 29 ottobre 1999, n. 419.
+
 ## Art. 2. — Organi della Giunta storica nazionale
+
+1.
+                    
+                        
+                            Sono organi della Giunta storica nazionale: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori dei conti.
 
 Il presidente ha la rappresentanza legale della Giunta storica nazionale e sovrintende allo svolgimento dell'attivita' della medesima; convoca e presiede il consiglio di amministrazione, stabilendone l'ordine del giorno. La convocazione e' fatta dal presidente almeno quindici giorni prima della data prescelta, salvo casi d'urgenza.
 
@@ -55,6 +201,70 @@ Il collegio dei revisori dei conti svolge attivita' di revisione contabile anche
 ## Art. 3. — Istituti del sistema strutturato a rete
 
 Gli Istituti della rete scientifica sono enti di ricerca con personalita' giuridica pubblica; predispongono i rispettivi statuti e propri regolamenti di organizzazione e funzionamento, che sono approvati con decreto del ((Ministro della cultura)), di concerto con il Ministro dell'economia e delle finanze.
+
+2.
+                    
+                        
+                            Gli Istituti di cui all'articolo 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                provvedono al reperimento, allo studio critico e alla pubblicazione delle fonti per la storia d'Italia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuovono ricerche di storia, negli ambiti delle loro rispettive competenze, divulgandone i risultati nei propri periodici e collane; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                curano la formazione in servizio di bibliotecari di biblioteche pubbliche e archivisti di Stato accolti, dopo aver vinto un concorso pubblico per titoli, nelle scuole ad essi annesse, consentendo la loro mobilita' temporanea dai rispettivi compiti istituzionali ad una attivita' di ricerca, per un anno, rinnovabile per un altro anno; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                curano la formazione in servizio degli insegnanti di scuola secondaria, secondo modalita' da concordarsi in apposite convenzioni stipulate tra gli istituti ed il ((Ministero dell'universita' e della ricerca)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                svolgono, in convenzione con le universita', attivita' di formazione per il conseguimento del dottorato di ricerca, nonche' attivita' di formazione post-dottorato, continua, permanente e ricorrente nei rispettivi campi di attivita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolgono attivita' inerenti all'aggiornamento degli insegnanti di storia nelle scuole secondarie.
+
+3.
+                    
+                        
+                            Gli istituti di cui all'articolo 1 sono retti da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un direttore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un consiglio direttivo e di consulenza scientifica.
 
 ((
 
@@ -95,6 +305,59 @@ Ai fini della formazione delle terne di cui all'articolo 3, comma 4, il presiden
 
 
 ## Art. 5. — Risorse finanziarie
+
+1.
+                    
+                        
+                            Le risorse finanziarie della Giunta storica nazionale e degli istituti collegati in rete sono costituite:
+ 
+                        
+                        
+                            a)
+                            
+                                da finanziamenti statali, nei limiti ed alle condizioni previste nella legislazione vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da altri finanziamenti pubblici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da finanziamenti dell'Unione europea;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai corrispettivi di contratti e convenzioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                da donazioni e atti di liberalita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                da contributi privati;
+
+                            
+                        
+                        
+                            g)
+                            
+                                da ogni altra ulteriore entrata.
 
 La gestione finanziaria della Giunta storica nazionale e degli istituti della rete e' sottoposta al controllo della Corte dei conti, ai sensi della legge 21 marzo 1958, n. 259.
 

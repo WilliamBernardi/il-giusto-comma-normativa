@@ -8,8 +8,8 @@ codice_redazionale: 009G0105
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,26 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 Sulla proposta del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto del Presidente della Repubblica 22 marzo 2001, n. 208, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera c) e' soppressa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 sono aggiunti, in fine, i seguenti:
+ «2-bis. Le funzioni afferenti al supporto tecnico-logistico dell'attivita' svolta dagli uffici periferici dell'Amministrazione della pubblica sicurezza continuano ad essere esercitate in via decentrata, utilizzando, in via prioritaria, il personale ed i mezzi dei corrispondenti uffici delle soppresse Direzioni interregionali della Polizia di Stato, a tal fine allocati presso le Questure delle sedi di cui alla allegata Tabella A, con la competenza territoriale ivi determinata.
+ 2-ter. All'espletamento delle funzioni ispettive e di controllo sull'attivita' svolta dagli uffici centrali e periferici dell'Amministrazione della pubblica sicurezza, nonche' alle funzioni di vigilanza di cui all'articolo 13 del decreto legislativo 9 aprile 2008, n. 81, nelle aree individuate con il decreto previsto dal medesimo articolo, provvede l'Ufficio centrale ispettivo del Dipartimento della pubblica sicurezza, nonche', relativamente alle funzioni ispettive e di controllo per il personale dipendente, ciascun ufficio di livello dirigenziale e, per le funzioni di vigilanza di cui al citato decreto legislativo n. 81 del 2008, il personale medico e tecnico designato anche a livello decentrato.».
 
 ## Art. 2.
 

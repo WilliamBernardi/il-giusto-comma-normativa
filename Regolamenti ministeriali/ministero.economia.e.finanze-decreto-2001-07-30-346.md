@@ -8,8 +8,8 @@ codice_redazionale: 001G0404
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,4 +40,36 @@ Nell'articolo 17 del decreto n. 164 del 1999 il comma 1 e' sostituito dal seguen
 
 Nell'articolo 19 del decreto n. 164 del 1999 il comma 4 e' sostituito dal seguente:
  "4. Gli enti che erogano pensioni effettuano a partire dal mese di agosto o di settembre le operazioni di cui al comma 1 e versano le imposte nei termini previsti per il versamento delle ritenute.".
+
+4.
+                    
+                        
+                            Nel decreto n. 164 del 1999 i riferimenti indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 3, comma 1, al "decreto direttoriale del Dipartimento delle entrate" devono intendersi effettuati al "provvedimento amministrativo";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 7, comma 4, al "decreto direttoriale del Dipartimento delle entrate" devono intendersi effettuati al "provvedimento del direttore dell'Agenzia delle entrate";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'articolo 13, comma 6, al "decreto del Dipartimento delle entrate" devono intendersi effettuati al "provvedimento amministrativo";
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 6, comma 2, nell'articolo 7, commi 1 e 3, nell'articolo 9, comma 2, nell'articolo 10, commi 1, 2 e 3, nell'articolo 21, commi 1 e 3, nell'articolo 22, comma 2, nell'articolo 25, commi 1, 2 e 3, nell'articolo 27, commi 1 e 2, e nell'articolo 28, comma 1, al "Dipartimento delle entrate" devono intendersi effettuati all'"Agenzia delle entrate".
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2014-08-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -36,6 +36,41 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'eco
 
 ## Art. 2. — Disposizioni per garantire il monitoraggio e la trasparenza
  dei meccanismi di allocazione della spesa pubblica
+
+1.
+                    
+                        
+                            Al fine di garantire congiuntamente la certezza delle strategie di investimento, i diritti quesiti, nonche' l'effettiva copertura nell'ambito dello stanziamento nel bilancio dello Stato della somma complessiva di 63,9 milioni di euro per l'anno 2008, di 449,6 milioni di euro per l'anno 2009, di 725 milioni di euro per l'anno 2010, di 690 milioni di euro per l'anno 2011, di 707 milioni di euro per l'anno 2012, di 725 milioni di euro per l'anno 2013, di 742 milioni di euro per l'anno 2014 e di 375 milioni di euro per l'anno 2015, il credito di imposta di cui all'articolo 1, commi da 271 a 279, della legge 27 dicembre 2006, n. 296, e successive modificazioni, e' regolato come segue:
+
+                        
+                        
+                            a)
+                            
+                                per i progetti di investimento che, sulla base di atti o documenti aventi data certa, risultano gia' avviati prima della data di entrata in vigore del presente decreto, i soggetti interessati inoltrano per via telematica alla Agenzia delle entrate, entro trenta giorni dalla data di attivazione della procedura di cui al comma 4, a pena di decadenza dal contributo, un apposito formulario approvato dal Direttore della predetta Agenzia;
+ l'inoltro del formulario vale come ((prenotazione dell'accesso)) alla fruizione del credito d'imposta;
+                            
+                        
+                        
+                            b)
+                            
+                                per i progetti di investimento avviati a partire dalla data di entrata in vigore del presente decreto, la compilazione del formulario da parte dei soggetti interessati ed il suo inoltro per via telematica alla Agenzia delle entrate vale come ((prenotazione dell'accesso)) alla fruizione del credito di imposta successiva a quello di cui alla lettera a).
+
+2.
+                    
+                        
+                            L'Agenzia delle entrate, sulla base dei dati rilevati ((dai formulari)) pervenuti, esaminati rispettandone rigorosamente l'ordine cronologico di arrivo, comunica telematicamente e con procedura automatizzata ai soggetti interessati:
+
+                        
+                        
+                            a)
+                            
+                                relativamente alle prenotazioni di cui al comma 1, lettera a), esclusivamente un nulla-osta ai soli fini della copertura finanziaria; la fruizione del credito di imposta e' possibile nell'esercizio in corso ovvero, in caso di esaurimento delle risorse disponibili in funzione delle disponibilita' finanziarie, negli esercizi successivi;
+                            
+                        
+                        
+                            b)
+                            
+                                relativamente alle prenotazioni di cui al comma 1, lettera b), la certificazione dell'avvenuta presentazione del formulario, l'accoglimento della relativa prenotazione, nonche' nei successivi trenta giorni il nulla-osta di cui alla lettera a).
 
 Per il credito di imposta di cui al comma 1, lettera b), i soggetti interessati espongono nel formulario, secondo la pianificazione scelta, l'importo delle spese agevolabili da sostenere, a pena di decadenza dal beneficio, entro i due anni successivi a quello di accoglimento della prenotazione e, in ogni caso, nel rispetto di limiti di importo minimi pari, in progressione, al 20 per cento nell'anno di accoglimento dell'istanza e al 60 per cento nell'anno successivo. L'utilizzo del credito d'imposta per il quale e' comunicato il nulla-osta e' consentito, fatta salva l'ipotesi di incapienza, esclusivamente entro il sesto mese successivo al termine di cui al primo periodo e, in ogni caso, nel rispetto di limiti massimi pari, in progressione, al 30 per cento, nell'anno di presentazione dell'istanza e, per la residua parte, nell'anno successivo.
 
@@ -130,9 +165,43 @@ All'articolo 2, comma 17, della legge 24 dicembre 2007, n. 244, le parole: "sei 
 
 All'articolo 2, comma 21, della legge 24 dicembre 2007, n. 244, le parole: "31 luglio 2008" sono sostituite dalle seguenti: "31 ottobre 2008".
 
+7.
+                    
+                        
+                            All'articolo 2, comma 137, della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "per quelli in costruzione," sono inserite le seguenti: "con riferimento alla parte organica dei rifiuti,";
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "tre mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 31 dicembre 2008".
+
 Considerata l'impossibilita' di concludere entro i termini attualmente previsti le procedure finanziarie ed evitare il sorgere di possibili situazioni emergenziali, ai comuni delle aree individuate dall'obiettivo "Convergenza" del regolamento (CE) n. 1083/2006 del Consiglio, dell'11 luglio 2006, aventi popolazione superiore a 500.000 abitanti e che abbiano rilevanti passivita' nei confronti delle societa' a partecipazione totalitaria affidatarie del servizio di gestione rifiuti ed igiene ambientale nel territorio comunale, e' erogato un contributo in conto capitale di 80 milioni di euro di cui 30 milioni nell'anno 2008, 30 milioni nell'anno 2009 e 20 milioni nell'anno 2010. I conseguenti interventi sono effettuati nei limiti delle risorse di cui al presente comma. Alla corresponsione del contributo provvede il Ministero dell'interno sulla base dei dati comunicati dai comuni interessati, a pena di decadenza, entro due mesi dalla data di entrata in vigore della legge di conversione del presente decreto. Sono esclusi i comuni i cui territori abbiano gia' goduto di analoghi benefici a seguito di commissariamenti o dichiarazioni di stato di emergenza. Il contributo di cui al presente comma e' escluso dal computo delle spese rilevanti ai fini del rispetto delle disposizioni del patto di stabilita'. Le risorse finanziarie trasferite ai comuni ai sensi del presente comma sono in suscettibili di pignoramento o sequestro.
 
 Per far fronte all'intervento di cui al comma 8 si provvede, nel limite di 90 milioni di euro per il 2008, 90 milioni di euro per il 2009 e 60 milioni di euro per il 2010, a valere sulle risorse del Fondo per le aree sottoutilizzate di cui all'articolo 61 della legge 27 dicembre 2002, n. 289.
+
+10.
+                    
+                        
+                            All'articolo 3 del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "30 giugno 2008" sono sostituite dalle seguenti: "30 giugno 2009";
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2-bis e' abrogato.
 
 All'articolo 8-bis, comma 1, del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, le parole: "30 giugno 2008" sono sostituite dalle seguenti: "28 febbraio 2009".
 
@@ -278,6 +347,45 @@ Su proposta motivata del Sottosegretario di Stato di cui all'articolo 1, comma 2
  con modificazioni, dalla legge 14 luglio 2008, 123) ))
 
 ((
+
+1.
+                    
+                        
+                            Al decreto-legge 23 maggio 2008, n. 90, convertito, con modificazioni, dalla legge 14 luglio 2008, n. 123, sono apportate le seguenti modifiche:
+
+                        
+                        
+                            a)
+                            
+                                all'articolo 9, comma 2, le parole: ", alla stregua delle previsioni derogatorie di cui all'articolo 18" sono soppresse;
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 10, comma 2, le parole: "In deroga alle disposizioni in materia di disciplina degli scarichi di cui all'articolo 18," sono soppresse;
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 18, comma 1, il quindicesimo capoverso e' soppresso;
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 18, comma 1, trentatreesimo capoverso, le parole: "articoli 5, 7, fermo il rispetto dell'articolo 6 della direttiva 1999/31/CE del Consiglio, del 26 aprile 1999" sono sostituite dalle seguenti: "articolo 5";
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 18, comma 1, trentasettesimo capoverso, dopo le parole: "decreto legislativo 3 aprile 2006, n. 152, recante "Norme in materia ambientale"" sono inserite le seguenti: ", e successive modificazioni,"; dopo la parola: "182" sono inserite le seguenti: ", limitatamente ai commi 4 e 5"; dopo la parola: "193" sono
+ inserite le seguenti: ", limitatamente ai rifiuti non pericolosi"; le parole: "194, limitatamente ai commi 5 e 6," sono soppresse;
+ dopo la parola: "208" sono inserite le seguenti: ", ad eccezione dei commi 1 e 11"; dopo la parola: "212" le parole: "limitatamente ai commi da 5 a 13" sono sostituite dalle seguenti: "commi da 5 a 13, limitatamente all'impiego delle Forze armate";
+ f) all'articolo 18, e' aggiunto, in fine, il seguente comma:
+ "1-bis. Il Sottosegretario di Stato svolge le funzioni di autorita' competente di spedizione di cui all'articolo 194, commi 5 e 6, del decreto legislativo 3 aprile 2006, n. 152, in deroga alle disposizioni ivi previste"".
 
 ))
 

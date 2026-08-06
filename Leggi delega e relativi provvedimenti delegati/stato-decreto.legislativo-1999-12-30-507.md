@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2003-05-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,9 +30,77 @@ Sono trasformate in illeciti amministrativi, soggetti alle sanzioni stabilite da
 
 ## Art. 2. — Sanzioni amministrative pecuniarie
 
+1.
+                        
+                            
+                                Le violazioni indicate dall'articolo 1 sono soggette alla sanzione amministrativa del pagamento di una somma di denaro, il cui ammontare, salvo quanto previsto dal comma 2, e' cosi' determinato:
+ 
+                            
+                            
+                                a)
+                                
+                                    se la violazione e' punita con la sola pena della multa o dell'ammenda, la somma dovuta e' pari all'ammontare della pena pecuniaria stabilita per violazione stessa, e comunque non inferiore a lire cinquecentomila;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la violazione e' punita con la pena della reclusione o dell'arresto alternativa a quella della multa o dell'ammenda, e' dovuta una somma da lire quindici milioni a novanta milioni quando la pena detentiva e' inferiore nel massimo ad un anno, e da lire venti milioni a centoventi milioni negli altri casi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la violazione e' punita con la pena della reclusione o dell'arresto sola o congiunta con la pena della multa o dell'ammenda, e' dovuta una somma da lire venti milioni a centoventi milioni quando la pena detentiva e' inferiore nel massimo ad un anno, e da lire trenta milioni a centottanta milioni negli altri casi.
+
+2.
+                        
+                            
+                                Se per la violazione e' prevista una pena pecuniaria proporzionale, con o senza la fissazione di limiti minimi e massimi, la somma dovuta e' pari:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'ammontare della multa o dell'ammenda, ove prevista in via esclusiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'ammontare della multa o dell'ammenda, aumentato di un terzo, ove prevista in via alternativa alla reclusione o all'arresto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al doppio dell'ammontare della multa o dell'ammenda, ove prevista congiuntamente alla reclusione o all'arresto.
+
 ## Art. 3. — Sanzioni amministrative accessorie
 
 Le pene accessorie previste per le violazioni indicate dall'articolo 1 sono trasformate in sanzioni amministrative accessorie e continuano ad applicarsi nei casi e nei modi stabiliti dalle disposizioni che le prevedono. Se l'applicabilita' delle pene accessorie e' prevista per i casi di recidiva, le sanzioni amministrative accessorie si applicano nei casi di reiterazione delle violazioni nei sensi stabiliti dall'articolo 8-bis della legge 24 novembre 1981, n. 689, introdotto dall'articolo 94 del presente decreto legislativo.
+
+2.
+                        
+                            
+                                Salvo quanto disposto dal comma 1, l'autorita' amministrativa con l'ordinanza-ingiunzione o il giudice con la sentenza di condanna nel caso previsto dall'articolo 24 della legge 24 novembre 1981, n. 689 puo' applicare per le violazioni indicate dall'articolo 1, tenuto conto della natura e della gravita' dei fatti, le seguenti sanzioni amministrative accessorie:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di reiterazione specifica delle violazioni, la chiusura dello stabilimento o dell'esercizio da un minimo di cinque giorni ad un massimo di tre mesi, ovvero la sospensione fino ad un massimo di tre mesi o la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente l'esercizio dell'attivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i fatti di particolare gravita' dai quali sia derivato pericolo per la salute, la chiusura definitiva dello stabilimento o dell'esercizio e la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente l'esercizio dell'attivita'.
 
 Nei casi in cui possono essere applicate sanzioni amministrative accessorie a norma dei commi 1 e 2 non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.
 
@@ -51,6 +119,36 @@ Dopo l'articolo 517 del codice penale e' inserito il seguente:
  Negli stessi casi, il giudice, nel pronunciare condanna, puo' disporre, se il fatto e' di particolare gravita' o in caso di recidiva specifica, la chiusura dello stabilimento o dell'esercizio in cui il fatto e' stato commesso da un minimo di cinque giorni ad un massimo di tre mesi, ovvero la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente lo svolgimento dell'attivita' commerciale nello stabilimento o nell'esercizio stesso.".
 
 ## Art. 6. — Modifiche alla legge 30 aprile 1962, n. 283
+
+1.
+                        
+                            
+                                La legge 30 aprile 1962, n. 283, e successive modifiche e integrazioni, e' cosi' modificata:
+ 
+                            
+                            
+                                a)
+                                
+                                    il terzo comma dell'articolo 6 e' sostituito dal seguente:
+ "Salvo che il fatto costituisca piu' grave reato, i contravventori alle disposizioni del presente articolo e dell'articolo 5 sono puniti con l'arresto fino ad un anno o con l'ammenda da lire seicentomila a lire sessanta milioni. Per la violazione delle disposizioni di cui alle lettere d) e h) dell'articolo 5 si applica la pena dell'arresto da tre mesi ad un anno o dell'ammenda da lire cinque milioni a lire novanta milioni.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma dell'articolo 12 e' sostituito dal seguente:
+ "I contravventori sono puniti con le pene previste dall'articolo 6 se le sostanze sono destinate al commercio. Negli altri casi si applica la sanzione amministrativa pecuniaria da lire un milione a lire sei milioni.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo l'articolo 12 e' aggiunto il seguente:
+ "Art. 12-bis. - Nel pronunciare condanna per taluno dei reati previsti dagli articoli 5, 6 e 12, il giudice, se il fatto e' di particolare gravita' e da esso e' derivato pericolo per la salute, puo' disporre la chiusura definitiva dello stabilimento o dell'esercizio e la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente l'esercizio dell'attivita'.
+ Le medesime pene accessorie possono essere applicate se il fatto e' commesso da persona gia' condannata, con sentenza irrevocabile, per reato commesso con violazione delle norme in materia di produzione, commercio e igiene degli alimenti e delle bevande.
+ Le pene accessorie previste dal presente articolo si applicano anche quando i fatti previsti dagli articoli 5, 6 e 12 costituiscono un piu' grave reato ai sensi di altre disposizioni di legge.".
 
 ## Art. 7. — Affissione e pubblicazione del provvedimento
  che applica sanzioni amministrative
@@ -90,6 +188,24 @@ Nel primo comma dell'articolo 1086 del codice della navigazione le parole "a tit
 
 Nell'articolo 1162 del codice della navigazione le parole "e' punito con l'arresto fino a due mesi ovvero con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
 
+2.
+                        
+                            
+                                L'articolo 1163 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'arresto fino a due mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "e' punito con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni".
+
 Nell'articolo 1164 del codice della navigazione le parole "se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire sei milioni".
 
 ## Art. 11. — Disposizioni sull'ordinamento e sulla polizia
@@ -109,18 +225,255 @@ L'articolo 1175 del codice della navigazione e' sostituito dal seguente:
 ## Art. 12. — Disposizioni sull'assunzione della gente
  di mare e del personale navigante
 
+1.
+                        
+                            
+                                L'articolo 1178 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire trecentomila a lire tre milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma, le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione".
+
+2.
+                        
+                            
+                                L'articolo 1179 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'ammenda da lire centomila a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione".
+
+3.
+                        
+                            
+                                L'articolo 1180 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'ammenda da lire sessantamila a duecentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinquecentomila a lire tre milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "((La stessa pena" sono sostituite dalle seguenti: "La stessa sanzione))".
+
 ## Art. 13. — Disposizioni sulla proprieta' della nave e dell'aeromobile
+
+1.
+                        
+                            
+                                L'articolo 1184 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'arresto da due a sei mesi ovvero con l'ammenda da lire cento milioni a lire quattrocento milioni" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire trenta milioni a lire sessanta milioni. Non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione".
 
 ## Art. 14. — Disposizioni sulla polizia della navigazione
 
 L'articolo 1190 del codice della navigazione e' sostituito dal seguente:
  "Art. 1190 (Inosservanza di norme sulle scuole di pilotaggio). - Chiunque ammette all'istruzione di pilotaggio aereo un allievo, che non ha conseguito il prescritto certificato di idoneita' psicofisica, ovvero un allievo di minore eta', senza il consenso di chi esercita la potesta' o la tutela, e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni.".
 
+2.
+                        
+                            
+                                L'articolo 1193 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione".
+
+3.
+                        
+                            
+                                L'articolo 1196 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "qualora il fatto non costituisca un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "La stessa pena" sono sostituite dalle seguenti: "La stessa sanzione".
+
 Nell'articolo 1198 del codice della navigazione le parole "con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni.".
+
+5.
+                        
+                            
+                                L'articolo 1199 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'arresto fino a sei mesi e con l'ammenda da lire centomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire sessanta milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "e' punito con l'arresto fino a tre mesi ovvero con l'ammenda da lire sessantamila a seicentomila. Se il fatto e' commesso da un componente dell'equipaggio, la pena non e' inferiore a un mese o a lire centomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni. Se il fatto e' commesso da un componente dell'equipaggio si applica la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire sessanta milioni";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il terzo comma e' sostituito dai seguenti:
+ "Nei casi previsti dai commi precedenti non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.
+ Le disposizioni di questo articolo non si applicano se il fatto e' previsto come reato da altre disposizioni di legge.".
+
+6.
+                        
+                            
+                                L'articolo 1200 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire sessantamila a un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma la parola "pena" e' sostituita dalla parola "sanzione";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel terzo comma le parole "la pena e' aumentata fino a un terzo" sono sostituite dalle seguenti: "si applica la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire quindici milioni".
 
 Nell'articolo 1201 del codice della navigazione le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire centomila a un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
 
+8.
+                        
+                            
+                                L'articolo 1201-bis del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo periodo del primo comma le parole "con l'arresto fino a un anno" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo periodo del primo comma le parole "la pena dell'arresto da sei mesi a due anni" sono sostituite dalle seguenti: "la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire sessanta milioni";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel secondo comma le parole "Con le stesse pene e' punito, a richiesta del Ministro di grazia e giustizia," sono sostituite dalle seguenti: "Con le stesse sanzioni e' punito";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il terzo comma e' aggiunto il seguente:
+ "Nei casi previsti dal primo e dal secondo comma non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.".
+
+9.
+                        
+                            
+                                L'articolo 1204 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'arresto fino a un anno ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo comma e' aggiunto il seguente:
+ "Nei casi previsti dal primo e dal secondo comma non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.".
+
 Nell'articolo 1207 del codice della navigazione le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire dodici milioni".
+
+11.
+                        
+                            
+                                L'articolo 1208 del codice della navigazione e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinquecentomila a lire tre milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "la pena e' dell'arresto fino ad un anno ovvero dell'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "si applica la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni".
 
 Nell'articolo 1209 del codice della navigazione le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
 
@@ -132,6 +485,39 @@ L'articolo 1214 del codice della navigazione e' sostituito dal seguente:
  "Art. 1214 (Sanzioni amministrative accessorie). - La violazione degli articoli 1193, 1198, 1199, 1204, secondo comma, 1207 e 1209 comporta l'applicazione della sanzione amministrativa accessoria della sospensione dai titoli o dalla professione.".
 
 ## Art. 15. — Modifiche all'articolo 5 della legge 29 gennaio 1986, n. 32
+
+1.
+                        
+                            
+                                L'articolo 5 della legge 29 gennaio 1986, n. 32 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo periodo del primo comma le parole "con l'arresto fino a un anno" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo periodo del primo comma le parole "la pena dell'arresto da sei mesi a due anni" sono sostituite dalle seguenti: "la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire sessanta milioni";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel secondo comma le parole: "Con le stesse pene e' punito, a richiesta del Ministro di grazia e giustizia," sono sostituite dalle seguenti: "Con le stesse sanzioni e' punito";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il terzo comma e' aggiunto il seguente:
+ "Nei casi previsti dai commi precedenti non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.".
 
 ## Art. 16. — Autorita' competenti all'applicazione
  delle sanzioni amministrative
@@ -153,11 +539,102 @@ Dopo l'articolo 1 del decreto legislativo 22 gennaio 1948, n. 66 e' inserito il 
 
 ## Art. 18. — Autotrasporto
 
+1.
+                        
+                            
+                                L'articolo 26 della legge 6 giugno 1974, n. 298 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito a norma dell'articolo 348 codice penale" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire quattro milioni a lire ventiquattro milioni. Si applica la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni se il soggetto, nei cinque anni precedenti, ha commesso un'altra violazione delle disposizioni del presente articolo o dell'articolo 46, accertata con provvedimento esecutivo.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' soppresso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel terzo comma le parole "e' punito con l'ammenda da lire cinquecentomila a lire un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni."; e' altresi' soppresso il secondo periodo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il terzo comma e' inserito il seguente:
+ "Alle violazioni di cui al primo comma consegue la sanzione accessoria del fermo amministrativo del veicolo per un periodo di tre mesi ovvero, in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo, con l'osservanza delle norme di cui al capo I, sezione II, del titolo VI del decreto legislativo 30 aprile 1992, n. 285.".
+
+2.
+                        
+                            
+                                L'articolo 46 della legge 6 giugno 1974, n. 298 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con la reclusione da uno a sei mesi o con la multa da lire duecentomila a lire seicentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire quattro milioni a lire ventiquattro milioni. Si applica la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni se il soggetto, nei cinque anni precedenti, ha commesso un'altra violazione delle disposizioni del presente articolo o dell'articolo 26, accertata con provvedimento esecutivo.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Alle violazioni di cui al comma precedente consegue la sanzione accessoria del fermo amministrativo del veicolo per un periodo di tre mesi, ovvero, in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo. Si osservano le norme di cui al capo I, sezione II, del titolo VI del decreto legislativo 30 aprile 1992, n. 285.".
+
+3.
+                        
+                            
+                                L'articolo 60 della legge 6 giugno 1974, n. 298 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica e nel primo comma le parole "accertamento dei reati" sono sostituite dalle seguenti: "accertamento degli illeciti";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il terzo comma e' aggiunto il seguente:
+ "Per le violazioni amministrative previste dagli articoli 26 e 46 non e' ammesso il pagamento in misura ridotta a norma dell'articolo 16 della legge 24 novembre 1981, n. 689.".
+
 Nel comma 6 dell'articolo 83 del decreto legislativo 30 aprile 1992, n. 285 le parole "con le sanzioni previste dall'articolo 46 della legge 6 giugno 1974, n. 298" sono sostituite dalle seguenti: "con le sanzioni amministrative previste dall'articolo 46, primo e secondo comma, della legge 6 giugno 1974, n. 298".
 
 Nel comma 3 dell'articolo 88 del decreto legislativo 30 aprile 1992, n. 285 le parole "con le sanzioni previste dalla legge 6 giugno 1974, n. 298" sono sostituite dalle seguenti: "con le sanzioni amministrative previste dall'articolo 46, primo e secondo comma, della legge 6 giugno 1974, n. 298".
 
 ## Art. 19. — Guida dei veicoli
+
+1.
+                        
+                            
+                                L'articolo 116 del decreto legislativo 30 aprile 1992, n. 285 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 13 e' sostituito dal seguente:
+ "13. Chiunque guida autoveicoli o motoveicoli senza aver conseguito la patente di guida e' punito con la sanzione amministrativa del pagamento di una somma da lire quattro milioni a lire sedici milioni; la stessa sanzione si applica ai conducenti che guidano senza patente perche' revocata o non rinnovata per mancanza dei requisiti previsti dal presente codice.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 18 e' sostituito dal seguente:
+ "18. Alle violazioni di cui al comma 13 consegue la sanzione accessoria del fermo amministrativo del veicolo per un periodo di tre mesi, o in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo. Quando non e' possibile disporre il fermo amministrativo o la confisca del veicolo, si applica la sanzione accessoria della sospensione della patente di guida eventualmente posseduta per un periodo da tre a dodici mesi. Si osservano le norme di cui al capo I, sezione II, del titolo VI.".
 
 Il comma 4 dell'articolo 124 del decreto legislativo 30 aprile 1992, n. 285, e' sostituito dai seguenti:
  "4. Chiunque guida macchine agricole o macchine operatrici senza essere munito della patente e' punito con la sanzione amministrativa del pagamento di una somma da lire quattro milioni a lire sedici milioni. All'incauto affidamento si applica la disposizione di cui all'articolo 116, comma 12.
@@ -185,11 +662,65 @@ Il comma 8 dell'articolo 168 del decreto legislativo 30 aprile 1992, n. 285 e' s
  8-bis. Alle violazioni di cui al comma 8 conseguono le sanzioni accessorie della sospensione della carta di circolazione e della sospensione della patente di guida per un periodo da due a sei mesi.
 In caso di reiterazione delle violazioni consegue anche la sanzione accessoria della confisca amministrativa del veicolo. Si osservano le norme di cui al capo I, sezione II, del titolo VI.".
 
+2.
+                        
+                            
+                                L'articolo 176 del decreto legislativo 30 aprile 1992, n. 285 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 19 le parole "con l'arresto da due a sei mesi e con l'ammenda da lire duecentomila a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa da lire tre milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 22 il primo periodo e' sostituito dal seguente: "Alle violazioni di cui al comma 19 consegue la sanzione accessoria della sospensione della patente di guida per un periodo da sei a ventiquattro mesi e del fermo amministrativo del veicolo per un periodo di tre mesi. In caso di reiterazione delle violazioni, in luogo del fermo amministrativo, consegue la sanzione accessoria della confisca amministrativa del veicolo. Si osservano le norme di cui al capo I, sezione II, del titolo VI.".
+
 Nel comma 7 dell'articolo 192 del decreto legislativo 30 aprile 1992, n. 285 le parole "ove il fatto non costituisca piu' grave reato, e' punito con l'arresto fino a tre mesi e con l'ammenda da lire centomila a lire quattrocentomila" sono sostituite dalle seguenti: "ove il fatto non costituisca reato, e' punito con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire otto milioni.".
 
 ## Art. 21. — Dati di identificazione e targhe
 
 Nel comma 6 dell'articolo 74 del decreto legislativo 30 aprile 1992, n. 285 le parole "con l'arresto da quattro a dodici mesi e con l'ammenda da lire cinquecentomila a lire due milioni, salvo che il fatto costituisca piu' grave reato" sono sostituite dalle seguenti: ", se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire quattro milioni a lire sedici milioni".
+
+2.
+                        
+                            
+                                L'articolo 97 del decreto legislativo 30 aprile 1992, n. 285 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 9 le parole "con le sanzioni previste dall'articolo 100, comma 12" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 14 e' aggiunto il seguente periodo: "Alle violazioni di cui al comma 9, limitatamente alle ipotesi di circolazione con un ciclomotore con contrassegno contraffatto o alterato, consegue la sanzione accessoria del fermo amministrativo del veicolo per un periodo di tre mesi o, in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo, secondo le norme di cui al capo I, sezione II, del titolo VI.".
+
+3.
+                        
+                            
+                                L'articolo 100 del decreto legislativo 30 aprile 1992, n. 285 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 12 le parole "con l'arresto da tre a nove mesi e con l'ammenda da lire cinquecentomila a lire due milioni" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire dodici milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 15 il secondo periodo e' sostituito dal seguente: "Alle violazioni di cui al comma 12 consegue la sanzione accessoria del fermo amministrativo del veicolo o, in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo. La durata del fermo amministrativo e' di tre mesi, salvo nei casi in cui tale sanzione accessoria e' applicata a seguito del ritiro della targa. Si osservano le norme di cui al capo I, sezione II, del titolo VI.".
 
 Nel comma 5 dell'articolo 113 del decreto legislativo 30 aprile 1992, n. 285 le parole "e' soggetto alle sanzioni" sono sostituite dalle seguenti: "e' soggetto alle sanzioni amministrative, comprese quelle accessorie,".
 
@@ -205,6 +736,25 @@ Nel primo periodo del comma 1 dell'articolo 195 del decreto legislativo 30 april
 
 Dopo il comma 3 dell'articolo 202 del decreto legislativo 30 aprile 1992, n. 285 e' aggiunto il seguente:
  "3-bis. Il pagamento in misura ridotta non e' inoltre consentito per le violazioni previste dagli articoli 83, comma 6; 88, comma 3; 97, comma 9; 100, comma 12; 113, comma 5; 114, comma 7; 116, comma 13; 124, comma 4; 136, comma 6; 168, comma 8; 176, comma 19; 216, comma 6; 217, comma 6; 218, comma 6. Per tali violazioni il verbale di contestazione e' trasmesso al prefetto del luogo della commessa violazione entro dieci giorni.".
+
+3.
+                        
+                            
+                                L'articolo 205 del decreto legislativo 30 aprile 1992, n. 285 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' soppresso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ "3. Il giudizio di opposizione e' regolato dagli articoli 22, 22-bis e 23 della legge 24 novembre 1981, n. 689.".
 
 Dopo il comma 1 dell'articolo 214 del decreto legislativo 30 aprile 1992, n. 285 e' inserito il seguente:
  "1-bis. Se l'autore della violazione e' persona diversa dal proprietario del veicolo, ovvero da chi ne ha la legittima disponibilita', e risulta altresi' evidente all'organo di polizia che la circolazione e' avvenuta contro la volonta' di costui, il veicolo e' immediatamente restituito all'avente titolo. Della restituzione e' redatto verbale, copia del quale viene consegnata all'interessato.".
@@ -368,11 +918,74 @@ Nell'articolo 352 del codice penale le parole "e' punito con la multa fino a lir
 ## Art. 41. — Modifica dell'articolo 465 del codice penale, in tema
  di uso di biglietti falsificati di pubbliche imprese di trasporto
 
+1.
+                        
+                            
+                                L'articolo 465 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con la reclusione fino a sei mesi o con la multa da lire ventimila a quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "soltanto la multa fino a lire sessantamila" sono sostituite dalle seguenti: "la sanzione amministrativa pecuniaria da lire centomila a seicentomila".
+
 ## Art. 42. — Modifica dell'articolo 466 del codice penale, in tema
  di alterazione di segni nei valori di bollo o nei biglietti usati
 
+1.
+                        
+                            
+                                L'articolo 466 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con la reclusione fino a sei mesi o con la multa da lire ventimila a quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Alla stessa sanzione soggiace chi, senza essere concorso nell'alterazione, fa uso dei valori di bollo o dei biglietti alterati. Se le cose sono state ricevute in buona fede, si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila.".
+
 ## Art. 43. — Modifica dell'articolo 498 del codice penale, in tema
  di usurpazione di titoli e di onori
+
+1.
+                        
+                            
+                                L'articolo 498 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con la multa da lire duecentomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il terzo comma e' sostituito dal seguente:
+ "Per le violazioni di cui al presente articolo si applica la sanzione amministrativa accessoria della pubblicazione del provvedimento che accerta la violazione con le modalita' stabilite dall'articolo 36 e non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.".
 
 ## Art. 44. — Modifica dell'articolo 527 del codice penale,
  in tema di atti osceni
@@ -387,6 +1000,24 @@ Nell'articolo 654 del codice penale le parole "e' punito, se il fatto non costit
 ## Art. 46. — Modifica dell'articolo 663 del codice penale, in tema
  di vendita distribuzione o affissione abusiva di scritti o disegni
 
+1.
+                        
+                            
+                                L'articolo 663 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'arresto fino ad un mese e con l'ammenda fino a lire cinquantamila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centomila a seicentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione".
+
 ## Art. 47. — Modifica dell'articolo 663-bis del codice penale, in tema
  di divulgazione di stampa clandestina
 
@@ -397,8 +1028,53 @@ L'articolo 663-bis del codice penale e' sostituito dal seguente:
 ## Art. 48. — Modifica dell'articolo 664 del codice penale, in tema
  di distruzione e deterioramento di affissioni
 
+1.
+                        
+                            
+                                L'articolo 664 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'ammenda fino a lire seicentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "la pena e' dell'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila".
+
 ## Art. 49. — Modifica dell'articolo 666 del codice penale, in tema
  di spettacoli o trattenimenti pubblici senza licenza
+
+1.
+                        
+                            
+                                L'articolo 666 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'ammenda da lire ventimila a un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "la pena e' dell'arresto fino a un mese" sono sostituite dalle seguenti: "si applica la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo comma sono aggiunti i seguenti:
+ "E' sempre disposta la cessazione dell'attivita' svolta in difetto di licenza. Se l'attivita' e' svolta in locale per il quale e' stata rilasciata autorizzazione o altro titolo abilitativo all'esercizio di diversa attivita', nel caso di reiterazione delle violazioni di cui al primo comma e nell'ipotesi prevista dal secondo comma e' disposta altresi' la chiusura del locale per un periodo non superiore a sette giorni.
+ Per le violazioni previste dal presente articolo non e' ammesso il pagamento in misura ridotta a norma dell'articolo 16 della legge 24 novembre 1981, n. 689.".
 
 ## Art. 50. — Modifica dell'articolo 675 del codice penale, in tema
  di collocamento pericolo di cose
@@ -413,8 +1089,53 @@ Nel primo comma dell'articolo 676 del codice penale le parole "e' punito con l'a
 ## Art. 52. — Modifica dell'articolo 677 del codice penale, in tema
 di omissione di lavori in edifici o costruzioni che minacciano rovina
 
+1.
+                        
+                            
+                                L'articolo 677 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'ammenda non inferiore a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena soggiace chi" sono sostituite dalle seguenti: "La stessa sanzione si applica a chi".
+
 ## Art. 53. — Modifica dell'articolo 686 del codice penale, in tema
  di fabbricazione o commercio abusivi di liquori o droghe
+
+1.
+                        
+                            
+                                L'articolo 686 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'arresto fino ad un anno o con l'ammenda da lire centomila a un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire ottocentomila a lire quattro milioni ottocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle parole "Alla stessa sanzione";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo comma sono aggiunti i seguenti:
+ "E' sempre disposta la cessazione dell'attivita' illecitamente esercitata. Se l'attivita' e' svolta in uno stabilimento o in un esercizio per il quale e' stata rilasciata autorizzazione o altro titolo abilitativo all'esercizio di diversa attivita', nel caso di reiterazione delle violazioni e' disposta altresi' la chiusura dello stabilimento o dell'esercizio per un periodo non superiore a sette giorni.
+ Per le violazioni previste dal presente articolo non e' ammesso il pagamento in misura ridotta a norma dell'articolo 16 della legge 24 novembre 1981, n. 689.".
 
 ## Art. 54. — Modifica dell'articolo 688 del codice penale,
  in tema di ubriachezza
@@ -429,8 +1150,45 @@ Nel primo comma dell'articolo 692 del codice penale le parole "e' punito con l'a
 ## Art. 56. — Modifica dell'articolo 705 del codice penale, in tema
  di commercio non autorizzato di cose preziose
 
+1.
+                        
+                            
+                                L'articolo 705 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'arresto fino a tre mesi o con l'ammenda da lire centomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il primo comma e' aggiunto il seguente:
+ "Si applicano le disposizioni di cui al terzo e quarto comma dell'articolo 686.".
+
 ## Art. 57. — Modifica dell'articolo 724 del codice penale, in tema
  di bestemmia e manifestazioni oltraggiose verso i defunti
+
+1.
+                        
+                            
+                                L'articolo 724 del codice penale e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con l'ammenda da lire ventimila a seicentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centomila a seicentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena soggiace chi" sono sostituite dalle seguenti: "La stessa sanzione si applica a chi".
 
 ## Art. 58. — Modifica dell'articolo 725 del codice penale, in tema
  di commercio di scritti, disegni o altri oggetti contrari
@@ -454,6 +1212,33 @@ Dopo l'articolo 19 delle disposizioni coordinamento e transitorie del codice pen
 ## Art. 60. — Modifiche al regio decreto 14 luglio 1898, n. 404, in tema
  di repressione dell'abigeato e del pascolo abusivo in Sardegna
 
+1.
+                        
+                            
+                                Il regio decreto 14 luglio 1898, n. 404 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 15 le parole "saranno puniti ai sensi dell'articolo 434 del codice penale" sono sostituite dalle seguenti: "sono puniti con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 23 e' sostituito dal seguente:
+ "Art. 23. - Salvo che il fatto costituisca reato, chiunque contravviene alle disposizioni degli articoli 20 e 21, primo comma, e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila.
+ Nel caso previsto nell'articolo 21, puo' essere disposta la confisca di tutto o di parte del bestiame.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 24 le parole "e' punito con le pene stabilite nell'articolo 434 del codice penale" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila".
+
 ## Art. 61. — Modifica dell'articolo 142 del regio decreto 8 maggio 1904, n. 368
  in tema di bonifica dei terreni paludosi
 
@@ -462,8 +1247,51 @@ Nell'articolo 142 del regio decreto 8 maggio 1904, n. 368 le parole da "sono pun
 ## Art. 62. — Modifica dell'articolo 1 della legge 30 giugno 1912, n. 740
  in materia uso illecito del nome e dell'emblema della Croce Rossa
 
+1.
+                        
+                            
+                                L'articolo 1 della legge 30 giugno 1912, n. 740 e' cosi' modificato: 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con gli arresti da uno a sei mesi o con l'ammenda da lire 60.000 a 400.000" sono sostituite dalle seguenti: "e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "Alla stessa pena" sono sostituite dalle seguenti: "Alla stessa sanzione";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel terzo comma le parole "Tali pene" sono sostituite dalle seguenti: "Tali sanzioni".
+
 ## Art. 63. — Modifiche al regio decreto 11 luglio 1913, n. 959 recante il testo
 unico delle disposizioni sulla navigazione interna e sulla fluitazione
+
+1.
+                        
+                            
+                                Il regio decreto 11 luglio 1913, n. 959 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma dell'articolo 54 le parole "saranno punite con l'arresto non superiore nel massimo a cinque giorni, e con ammende che potranno estendersi fino a lire quattrocentomila" sono sostituite dalle seguenti: "sono punite con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 55 e' sostituito dal seguente:
+ "Art. 55 - Le violazioni dei regolamenti emanati per l'esecuzione della presente legge sono puniti con la sanzione amministrativa pecuniaria da lire centomila a seicentomila.".
 
 ## Art. 64. — Modifica dell'articolo 13 del decreto-legge luogotenenziale
  18 gennaio 1917, n. 148 in tema di prevenzione e repressione
@@ -473,6 +1301,25 @@ Nell'articolo 13 del decreto-legge luogotenenziale 18 gennaio 1917, n. 148 le pa
 
 ## Art. 65. — Modifica dell'articolo 4 della legge 19 aprile 1925, n. 475,
  in tema di falsa attribuzione di lavori altrui
+
+1.
+                        
+                            
+                                L'articolo 4 della legge 19 aprile 1925, n. 475 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con la reclusione fino a un mese" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire quattrocentomila a due milioni quattrocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente:
+ "Qualora l'offerta sia fatta a mezzo stampa, ovvero sia fatta in modo abituale, si applica la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila. Nella prima ipotesi, il tipografo, se non e' concorso nell'illecito, e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila.".
 
 ## Art. 66. — Modifiche al regio decreto-legge 9 luglio 1926, n. 1331
  in tema di costituzione dell'Associazione nazionale
@@ -508,7 +1355,50 @@ L'articolo 24 della legge 26 aprile 1934, n. 653 e' sostituito dal seguente:
 ## Art. 70. — Modifiche al regio decreto 27 luglio 1934, n. 1265,
  recante il testo unico delle leggi sanitarie
 
+1.
+                        
+                            
+                                Il regio decreto 27 luglio 1934, n. 1265 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel quinto comma dell'articolo 201 le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire cinque milioni a trenta milioni";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma dell'articolo 221 le parole "e' punito con l'ammenda da lire 40.000 a 400.000" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila".
+
 ## Art. 71. — Modifiche al regio decreto-legge 4 ottobre 1935, n. 1827 in tema di perfezionamento e coordinamento legislativo della previdenza sociale
+
+1.
+                        
+                            
+                                Il regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, ((dalla legge 6 aprile 1936, n. 1155,)) e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma dell'articolo 115 le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma dell'articolo 115 le parole "tali pene" sono sostituite dalle parole "tali sanzioni";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel primo comma dell'articolo 116 le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila".
 
 ## Art. 72. — Modifica dell'articolo 116 del regio decreto-legge 19 ottobre 1938, n. 1933 in tema di riforma delle leggi sul lotto pubblico
 
@@ -518,9 +1408,45 @@ Nel terzo comma dell'articolo 116 del regio decreto legge 19 ottobre 1938, n. 19
  in tema di istituzione di una tessera sanitaria per le persone
  addette ai lavori domestici
 
+1.
+                        
+                            
+                                L'articolo 3 della legge 22 giugno 1939, n. 1239 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "con l'ammenda fino a 100.000 lire" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma la parola "pena" e' sostituita dalla seguente "sanzione".
+
 Resta abrogato l'articolo 76 del regio decreto 5 giugno 1939, n. 1016.
 
 ## Art. 74. — Modifiche alla legge 10 giugno 1940, n. 653, in tema di trattamento degli impiegati privati richiamati alle armi
+
+1.
+                        
+                            
+                                La legge 10 giugno 1940, n. 653 e' cosi' modificata:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel sesto comma dell'articolo 32 le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire quattrocentomila a due milioni quattrocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 33 e' abrogato.
 
 ## Art. 75. — Modifica dell'articolo 6 della legge 27 maggio 1949, n. 260,
  in tema di ricorrenze festive
@@ -541,6 +1467,52 @@ Nel terzo comma dell'articolo 9 della legge 17 maggio 1952, n. 619 le parole "e'
 
 ## Art. 78. — Modifiche alla legge 19 gennaio 1955, n. 25, in tema di apprendistato
 
+1.
+                        
+                            
+                                La legge 19 gennaio 1955, n. 25 e' cosi' modificata:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella lettera a) del primo comma dell'articolo 23 le parole "con l'ammenda da lire 10.000 a lire 50.000" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire trecentomila a cinquecentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella lettera b) del primo comma dell'articolo 23 le parole "con l'ammenda da lire 5.000 a lire 25.000" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire duecentomila a trecentomila";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo comma dell'articolo 23 e' abrogato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella lettera a) del primo comma dell'articolo 29 le parole "con l'ammenda da lire 5.000 a lire 25.000" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire duecentomila a trecentomila";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nella lettera b) del primo comma dell'articolo 29 le parole "con l'ammenda da lire 50.000 a lire 150.000" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire cinquecentomila a ottocentomila";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il secondo comma dell'articolo 29 e' abrogato.
+
 ## Art. 79. — Modifica dell'articolo 82 del decreto del Presidente
 della Repubblica 30 maggio 1955, n. 797 in tema di assegni familiari
 
@@ -549,8 +1521,44 @@ Nel quarto comma dell'articolo 82 del decreto del Presidente della Repubblica 30
 ## Art. 80. — Modifica dell'articolo 14 della legge 14 febbraio 1958, n. 138,
  in tema di orario di lavoro negli autoservizi
 
+1.
+                        
+                            
+                                L'articolo 14 della legge 14 febbraio 1958, n. 138, e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole da "e' punito con l'ammenda da lire venticinquemila a lire settantacinquemila" alla fine del comma sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a trecentomila per ciascun lavoratore, occupato nell'azienda, a cui la violazione si riferisce";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "In caso di recidiva specifica" sono sostituite dalle seguenti: "In caso di reiterazione specifica delle violazioni".
+
 ## Art. 81. — Modifica dell'articolo 5 della legge 20 febbraio 1958, n. 75,
  in tema di invito al libertinaggio
+
+1.
+                        
+                            
+                                L'articolo 5 della legge 20 febbraio 1958, n. 75, e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "sono punite con l'arresto fino a giorni otto e con l'ammenda da lire diecimila a lire venticinquemila" sono sostituite dalle seguenti: "sono punite con la sanzione amministrativa pecuniaria da lire trentamila a centottantamila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il quarto comma e' abrogato.
 
 ## Art. 82. — Modifica dell'articolo 12 della legge 21 marzo 1958, n. 326
  in tema di complessi ricettivi a carattere turistico-sociale
@@ -577,6 +1585,55 @@ Nel primo comma dell'articolo 26 della legge 9 gennaio 1963, n. 9 le parole da "
 ## Art. 86. — Modifiche al decreto del Presidente della Repubblica
  20 marzo 1967, n. 223 in tema di revisione delle liste elettorali
 
+1.
+                        
+                            
+                                Il decreto del Presidente della Repubblica 20 marzo 1967, n. 223 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma dell'articolo 54 le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma dell'articolo 54 le parole da "la pena" sino alla fine del comma sono sostituite dalle seguenti: "si applica la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo comma dell'articolo 54 e' aggiunto il seguente:
+ "Per le violazioni previste dal presente articolo non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel primo comma dell'articolo 55 le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il secondo comma dell'articolo 55 e' sostituito dal seguente:
+ "Se il fatto e' commesso con dolo, si applica la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila.";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il secondo comma dell'articolo 55 e' aggiunto il seguente:
+ "Per le violazioni previste dal presente articolo non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.".
+
 ## Art. 87. — Modifica dell'articolo 40 del decreto del Presidente
  della Repubblica 27 aprile 1968, n. 488, in tema
  di frodi pensionistiche
@@ -599,6 +1656,39 @@ Nel secondo comma dell'articolo 36 del decreto del Presidente della Repubblica 2
  n. 7 in tema di esercizio delle stazioni e per la
  distribuzione di gas di petrolio in bombole
 
+1.
+                        
+                            
+                                L'articolo 11 della legge 2 febbraio 1973, n. 7 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "e' punito con ammenda fino a lire dieci milioni o con l'arresto fino a due anni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo comma le parole "e' punito con ammenda fino a lire cinque milioni o con l'arresto fino a tre mesi" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire quattrocentomila a due milioni quattrocentomila";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quarto comma e' sostituito dal seguente:
+ "Nei casi previsti dal primo e secondo comma, si applica altresi' la sanzione accessoria della sospensione della concessione o dell'autorizzazione di vendita per un periodo da due a sei mesi e non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il quinto comma e' abrogato.
+
 ## Art. 91. — Modifica dell'articolo 5 della legge 25 febbraio 1987, n. 67,
  in tema di provvidenze per l'editoria
 
@@ -607,7 +1697,99 @@ Nel comma 9 dell'articolo 5 della legge 25 febbraio 1987, n. 67 le parole "sono 
 ## Art. 92. — Modifiche al decreto legislativo 30 dicembre 1992, n. 541,
  in tema di pubblicita' dei medicinali per uso umano
 
+1.
+                        
+                            
+                                Il decreto legislativo 30 dicembre 1992, n. 541 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 10 dell'articolo 6 le parole "e' soggetto alle sanzioni penali" sono sostituite dalle seguenti "e' soggetto alle sanzioni amministrative pecuniarie";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 1 dell'articolo 15 le parole "comporta l'irrogazione delle sanzioni penali" sono sostituite dalle seguenti "comporta l'applicazione delle sanzioni amministrative pecuniarie".
+
 ## Art. 93. — Autorita' competenti
+
+1.
+                        
+                            
+                                Le autorita' competenti ad applicare le sanzioni amministrative per le violazioni depenalizzate a norma del presente capo sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    Ministero dell'interno: articoli 15, 23 e 24 del regio decreto 14 luglio 1898, n. 404; articolo 1 della legge 30 giugno 1912, n. 740; articolo 13 del decreto-legge luogotenenziale 18 gennaio 1917, n. 148; articolo 4 della legge 19 aprile 1925, n. 475; articolo 20 del regio decreto 3 marzo 1934, n. 383; articolo 5 della legge 20 febbraio 1958, n. 75; articolo 15 della legge 21 aprile 1962, n. 161; articoli 54 e 55 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223; articolo 11 della legge 2 febbraio 1973, n. 7; articolo 5 della legge 25 febbraio 1987, n. 67;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Ministero del lavoro: articolo 24 della legge 26 aprile 1934, n. 653; articolo 3 della legge 22 giugno 1939, n. 1239; articolo 6 della legge 27 maggio 1949, n. 260; articoli 23 e 29 della legge 19 gennaio 1955, n. 25; articolo 14 della legge 14 febbraio 1958, n. 138; articolo 4 della legge 29 novembre 1961, n. 1325;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Ministero della sanita': articolo 201 del regio decreto 27 luglio 1934, n. 1265; articoli 6 e 15 del decreto legislativo 30 dicembre 1992, n. 541;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Ministero del commercio con l'estero: articolo 11 del regio decreto-legge 14 novembre 1926, n. 1923, convertito dalla legge 7 luglio 1927, n. 1495;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Ministero delle finanze: articolo 36 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Ministero dei beni culturali: articolo 9 della legge 17 maggio 1952, n. 619;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Ministero dell'industria, del commercio e dell'artigianato: articoli 19 e 20 del regio decreto-legge 9 luglio 1926, n. 1331, convertito, con modificazioni, dalla legge 16 giugno 1927, n. 1132; articolo 116 del regio decreto-legge 19 ottobre 1938, n. 1933, convertito, con modificazioni, dalla legge 5 giugno 1939, n. 973;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    enti ed istituti gestori delle forme di previdenza e assistenza obbligatorie: articoli 115 e 116 del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni ((dalla legge 6 aprile 1936, n. 1155;)) articolo 32 della legge 10 giugno 1940, n. 653; articolo 23 della legge 4 aprile 1952, n. 218; articolo 82 del decreto del Presidente della Repubblica 30 maggio 1955, n. 797; articolo 26 della legge 9 gennaio 1963, n. 9; articolo 40 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488; articolo 14 della legge 29 ottobre 1971, n. 889;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    regioni: articolo 142 del regio decreto 8 maggio 1904, n. 368; articoli 54 e 55 del regio decreto 11 luglio 1913, n. 959; articolo 12 della legge 21 marzo 1958, n. 326;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sindaco: articolo 221 del regio decreto 27 luglio 1934, n. 1265.
 
 ## - Titolo VII MODIFICHE ALLA LEGGE 24 NOVEMBRE 1981, N. 689
 
@@ -634,6 +1816,24 @@ Nel primo comma dell'articolo 10 della legge 24 novembre 1981, n. 689 le parole 
 
 ## Art. 97. — Opposizione all'ordinanza-ingiunzione
 
+1.
+                        
+                            
+                                L'articolo 22 della legge 24 novembre 1981, n. 689 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo comma le parole "davanti al giudice del luogo in cui e' stata commessa la violazione" sono sostituite dalle seguenti: "davanti al giudice del luogo in cui e' stata commessa la violazione individuato a norma dell'articolo 22-bis";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel quarto e nel settimo comma la parola "pretore" e' sostituita dalla parola "giudice".
+
 ## Art. 98. — Competenza per il giudizio di opposizione
  all'ordinanza-ingiunzione
 
@@ -653,6 +1853,32 @@ Dopo l'articolo 22 della legge 24 novembre 1981, n. 689 e' inserito il seguente:
  c) quando e' stata applicata una sanzione di natura diversa da quella pecuniaria, sola o congiunta a quest'ultima, fatta eccezione per le violazioni previste dal regio decreto 21 dicembre 1933, n. 1736, dalla legge 15 dicembre 1990, n. 386 e dal decreto legislativo 30 aprile 1992, n. 285. Restano salve le competenze stabilite da diverse disposizioni di legge.".
 
 ## Art. 99. — Giudizio di opposizione
+
+1.
+                        
+                            
+                                L'articolo 23 della legge 24 novembre 1981, n. 689 e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    la parola "pretore" e' sostituita, ovunque compaia, dalla parola "giudice";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il terzo comma e' sostituito dal seguente:
+ "Tra il giorno della notificazione e l'udienza di comparizione devono intercorrere i termini previsti dall'articolo 163-bis del codice di procedura civile.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'undicesimo comma e' aggiunto, in fine, il seguente periodo: "Nel giudizio di opposizione davanti al giudice di pace non si applica l'articolo 113, secondo comma, del codice di procedura civile.".
 
 ## - Titolo VIII DISPOSIZIONI TRANSITORIE E FINALI
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2019-12-10;168
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,9 +40,91 @@ I soggetti di cui all'articolo 3, legittimati ai sensi della normativa vigente, 
 
 ## Art. 2. — Funzioni della Banca dati
 
+1.
+                    
+                        
+                            La Banca dati nazionale assolve alle seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                raccolta di copia delle disposizioni anticipate di trattamento, di cui all'articolo 4 della legge n. 219 del 2017, e dei relativi aggiornamenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                raccolta di copia della nomina dell'eventuale fiduciario nonche' dell'accettazione o della rinuncia di questi ovvero della successiva revoca da parte del disponente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accesso ai dati di cui alle lettere a) e b) da parte del medico che ha in cura il paziente, allorche' per questi sussista una situazione di incapacita' di autodeterminarsi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                accesso ai dati di cui alla lettera a) e b) da parte del fiduciario, finche' questi conservi tale incarico.
+
 Le funzioni di cui al comma 1 sono assicurate anche in relazione ai soggetti non iscritti al Servizio sanitario nazionale.
 
 ## Art. 3. — Soggetti alimentanti e contenuti informativi
+
+1.
+                    
+                        
+                            Alimentano la Banca dati nazionale, secondo le modalita' individuate dal disciplinare tecnico di cui all'articolo 10: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli ufficiali di stato civile dei comuni di residenza dei disponenti, o loro delegati, nonche' gli ufficiali di stato civile delle rappresentanze diplomatiche o consolari italiane all'estero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i notai e i capi degli uffici consolari italiani all'estero, nell'esercizio delle funzioni notarili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i responsabili delle unita' organizzative competenti nelle regioni che abbiano adottato modalita' di gestione della cartella clinica o del fascicolo sanitario elettronico o altre modalita' di gestione informatica dei dati degli iscritti al Servizio sanitario nazionale, e che abbiano, con proprio atto, regolamentato la raccolta di copia delle DAT ai sensi dell'articolo 4, comma 7, della legge n. 219 del 2017.
+
+2.
+                    
+                        
+                            All'atto della formazione, consegna e ricezione della DAT i soggetti di cui al comma 1 trasmettono copia della stessa, senza indugio, alla Banca dati nazionale mediante un modulo elettronico, secondo le specifiche di cui al disciplinare tecnico di cui all'articolo 10. Il modulo contiene i seguenti elementi essenziali: 
+ 
+                        
+                        
+                            a)
+                            
+                                dati anagrafici e di contatto del disponente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dati anagrafici e di contatto del fiduciario, se indicato, e l'attestazione dell'accettazione della nomina, ove risultante dalla sottoscrizione delle DAT; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione del consenso del disponente alla raccolta di copia della DAT presso la Banca dati nazionale ovvero indicazione dell'allocazione della stessa, ai fini della reperibilita'.
 
 Laddove l'accettazione della nomina del fiduciario avvenga con atto separato, la stessa, corredata di copia del documento di identita' del medesimo fiduciario, e' consegnata, a cura del disponente, ai soggetti di cui al comma 1, lettere a) e b), ovvero alla struttura sanitaria presso cui e' stata consegnata la DAT ai sensi dell'articolo 4, comma 7, della legge n. 219 del 2017, per l'inoltro al soggetto di cui al comma 1, lettera c), che procedera', senza indugio, alla trasmissione alla Banca dati nazionale mediante il modulo elettronico di cui al comma 2 del presente articolo.
 
@@ -51,6 +133,81 @@ Con le modalita' di cui al comma 3, il disponente provvede anche nel caso in cui
 Dell'acquisizione nella Banca dati nazionale della documentazione di cui al presente articolo e' data tempestiva comunicazione al disponente che ne abbia fatto richiesta in conformita' alle specifiche di cui al disciplinare tecnico di cui all'articolo 10.
 
 ## Art. 4. — Accesso ai dati
+
+1.
+                    
+                        
+                            Per le finalita' di cui al presente decreto, la Banca dati nazionale, con le modalita' definite nel disciplinare tecnico di cui all'articolo 10, consente la consultazione dei documenti in essa contenuti ai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il medico che ha in cura il paziente ed e' chiamato ad effettuare accertamenti diagnostici, attuare scelte terapeutiche o eseguire trattamenti sanitari, laddove per il disponente sussista una situazione di incapacita' di autodeterminarsi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il fiduciario, fino a quando conservi l'incarico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il disponente.
+
+2.
+                    
+                        
+                            All'atto dell'accesso, il medico dichiara: 
+ 
+                        
+                        
+                            a)
+                            
+                                le proprie generalita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'iscrizione all'ordine dei medici-chirurghi e degli odontoiatri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le generalita' del disponente, attestandone l'incapacita' di autodeterminarsi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                di avere in cura il disponente o di avere necessita' di effettuare scelte terapeutiche per lo stesso.
+
+3.
+                    
+                        
+                            All'atto dell'accesso, il fiduciario indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                le proprie generalita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le generalita' del disponente.
 
 Nel caso in cui, al momento dell'accesso, risulti revocato l'incarico, al fiduciario sono resi noti i soli estremi dell'atto di revoca.
 

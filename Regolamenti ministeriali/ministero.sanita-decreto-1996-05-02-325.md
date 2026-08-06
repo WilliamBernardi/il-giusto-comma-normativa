@@ -8,8 +8,8 @@ codice_redazionale: 096G0344
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,11 +33,75 @@ I batteri lattici di cui al comma 1 devono essere di origine animale o vegetale.
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Le colture di Lactobacillus spp di cui all'art. 1 devono essere idonee sotto l'aspetto igienico-sanitario e presentare le seguenti caratteristiche:
+ 
+                        
+                        
+                            a)
+                            
+                                assenza di germi patogeni o di loro tossine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                presenza di microrganismi saprofiti di specie diverse, in quantita' non superiore a 1000 ucf/millilitro o grammo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                numero di cellule di batteri lattici non inferiore a 1.10(elevato alla sesta)/millilitro o grammo.
+
 ## Art. 3.
 
 Le colture di batteri lattici di cui all'art. 1 poste in commercio devono provenire da stabilimenti o da laboratori di preparazione e confezionamento che dispongono di strutture adeguate per la preparazione e per il controllo delle stesse, diretto in particolare ad accertare l'idoneita' igienico-sanitaria e le caratteristiche di cui all'art. 2.
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Le colture di batteri lattici di cui all'art. 1 devono essere poste in commercio in confezioni che riportino sulle stesse o su etichette appostevi le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nome delle specie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero di cellule vive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                modalita' di conservazione e termine entro il quale possono essere utilizzate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                lotto di produzione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                nome o ragione sociale o marchio depositato e sede dello stabilimento o del laboratorio di preparazione e confezionamento.
 
 ## Art. 5.
 

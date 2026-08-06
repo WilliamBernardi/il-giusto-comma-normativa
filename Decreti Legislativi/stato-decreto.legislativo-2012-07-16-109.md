@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-01-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,50 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per gli affari europei e del Ministro del lavoro e delle politiche sociali, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, dell'interno e per la cooperazione internazionale e l'integrazione;
 
 ## Art. 1. — Modifiche al decreto legislativo 25 luglio 1998, n. 286
+
+1.
+                    
+                        
+                            Al testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 22, dopo il comma 5, sono inseriti i seguenti: 
+ "5-bis. Il nulla osta al lavoro e' rifiutato se il datore di lavoro risulti condannato negli ultimi cinque anni, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per: 
+ a) favoreggiamento dell'immigrazione clandestina verso l'Italia e dell'emigrazione clandestina dall'Italia verso altri Stati o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite; 
+ b) intermediazione illecita e sfruttamento del lavoro ai sensi dell'articolo 603-bis del codice penale; 
+ c) reato previsto dal comma 12. 
+ 5-ter. Il nulla osta al lavoro e', altresi', rifiutato ovvero, nel caso sia stato rilasciato, e' revocato se i documenti presentati sono stati ottenuti mediante frode o sono stati falsificati o contraffatti ovvero qualora lo straniero non si rechi presso lo sportello unico per l'immigrazione per la firma del contratto di soggiorno entro il termine di cui al comma 6, salvo che il ritardo sia dipeso da cause di forza maggiore. La revoca del nulla osta e' comunicata al Ministero degli affari esteri tramite i collegamenti telematici."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                All'articolo 22, dopo il comma 12, sono inseriti i seguenti: 
+ "12-bis. Le pene per il fatto previsto dal comma 12 sono aumentate da un terzo alla meta': 
+ a) se i lavoratori occupati sono in numero superiore a tre; 
+ b) se i lavoratori occupati sono minori in eta' non lavorativa; 
+ c) se i lavoratori occupati sono sottoposti alle altre condizioni lavorative di particolare sfruttamento di cui al terzo comma dell'articolo 603-bis del codice penale. 
+ 12-ter. Con la sentenza di condanna il giudice applica la sanzione amministrativa accessoria del pagamento del costo medio di rimpatrio del lavoratore straniero assunto illegalmente. 
+ 12-quater. Nelle ipotesi di particolare sfruttamento lavorativo di cui al comma 12-bis, e' rilasciato dal questore, su proposta o con il parere favorevole del procuratore della Repubblica, allo straniero che abbia presentato denuncia e cooperi nel procedimento penale instaurato nei confronti del datore di lavoro, un permesso di soggiorno ai sensi dell'articolo 5, comma 6. 
+ 12-quinquies. Il permesso di soggiorno di cui al comma 12-quater ha la durata di sei mesi e puo' essere rinnovato per un anno o per il maggior periodo occorrente alla definizione del procedimento penale. Il permesso di soggiorno e' revocato in caso di condotta incompatibile con le finalita' dello stesso, segnalata dal procuratore della Repubblica o accertata dal questore, ovvero qualora vengano meno le condizioni che ne hanno giustificato il rilascio."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 7 dell'articolo 22 e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 24, comma 1, terzo periodo, le parole "di cui all'articolo 22, comma 3" sono sostituite dalle seguenti: "di cui all'articolo 22, commi 3, 5-bis e 5-ter".
 
 I criteri per la determinazione e l'aggiornamento del costo medio del rimpatrio cui commisurare la sanzione amministrativa accessoria di cui al comma 12-ter dell'articolo 22 del decreto legislativo n. 286 del 1998, come introdotto dal presente decreto, sono stabiliti con decreto del Ministro dell'interno, di concerto con i Ministri della giustizia, dell'economia e delle finanze e del lavoro e delle politiche sociali. I proventi derivanti dall'applicazione della predetta sanzione amministrativa accessoria affluiscono all'entrata del bilancio dello Stato, per essere successivamente riassegnati, nella misura del sessanta per cento al fondo rimpatri di cui all'articolo 14-bis del citato decreto n. 286 del 1998 e per il residuo quaranta per cento al Fondo sociale per occupazione e formazione di cui all'articolo 18, comma 1, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, per la realizzazione di interventi di integrazione sociale di immigrati e minori stranieri non accompagnati.
 
@@ -54,9 +98,52 @@ I datori di lavoro italiani o cittadini di uno Stato membro dell'Unione europea,
 
 Sono esclusi dalla procedura di cui al presente articolo i rapporti di lavoro a tempo parziale, fatto salvo quanto previsto dal comma 8 in materia di lavoro domestico e di sostegno al bisogno familiare.
 
+3.
+                    
+                        
+                            Non sono ammessi alla procedura prevista dal presente articolo i datori di lavoro che risultino condannati negli ultimi cinque anni, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per: 
+ 
+                        
+                        
+                            a)
+                            
+                                favoreggiamento dell'immigrazione clandestina verso l'Italia e dell'immigrazione clandestina dall'Italia verso altri Stati o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                intermediazione illecita e sfruttamento del lavoro ai sensi dell'articolo 603-bis del codice penale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                reati previsti dall'articolo 22, comma 12, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni ed integrazioni.
+
 Non e' ammesso, altresi', alla procedura di cui al presente articolo il datore di lavoro che, a seguito dell'espletamento di procedure di ingresso di cittadini stranieri per motivi di lavoro subordinato ovvero di procedure di emersione dal lavoro irregolare non ha provveduto alla sottoscrizione del contratto di soggiorno presso lo sportello unico ovvero alla successiva assunzione del lavoratore straniero, salvo cause di forza maggiore comunque non imputabili al datore di lavoro.
 
 La dichiarazione di emersione di cui al comma 1 e' presentata previo pagamento, con le modalita' previste dal decreto interministeriale di cui al comma 1 del presente articolo, di un contributo forfettario di 1.000 euro per ciascun lavoratore. Il contributo non e' deducibile ai fini dell'imposta sul reddito. La regolarizzazione delle somme dovute dal datore di lavoro a titolo retributivo, contributivo e fiscale pari ad almeno sei mesi e' documentata all'atto della stipula del contratto di soggiorno secondo le modalita' stabilite dal decreto ministeriale di cui al comma 1. E' fatto salvo l'obbligo di regolarizzazione delle somme dovute per l'intero periodo in caso di rapporti di lavoro di durata superiore a sei mesi.
+
+6.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto fino alla conclusione del procedimento di cui al comma 1 del presente articolo, sono sospesi i procedimenti penali e amministrativi nei confronti del datore di lavoro e del lavoratore per le violazioni delle norme relative: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'ingresso e al soggiorno nel territorio nazionale, con esclusione di quelle di cui all'articolo 12 del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni ed integrazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al presente provvedimento e comunque all'impiego di lavoratori anche se rivestano carattere finanziario, fiscale, previdenziale o assistenziale.
 
 Con il decreto di cui al comma 1 sono altresi' stabiliti i limiti di reddito del datore di lavoro richiesti per l'emersione del rapporto di lavoro.
 
@@ -75,6 +162,38 @@ Nei casi di cessazione del rapporto di lavoro oggetto di una dichiarazione di em
 Nell'ipotesi prevista dal comma 11-ter, il datore di lavoro che ha presentato la dichiarazione di emersione resta responsabile per il pagamento delle somme di cui al comma 5 sino alla data di comunicazione della cessazione del rapporto di lavoro; gli uffici procedono comunque alla verifica dei requisiti prescritti per legge in capo al datore di lavoro che ha presentato la dichiarazione di emersione, ai fini dell'applicazione del comma 10 del presente articolo.
 
 Il contratto di soggiorno stipulato sulla base di una dichiarazione di emersione contenente dati non rispondenti al vero e' nullo ai sensi dell'articolo 1344 del codice civile. In tal caso, il permesso di soggiorno eventualmente rilasciato e' revocato ai sensi dell'articolo 5, comma 5, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni ed integrazioni.
+
+13.
+                    
+                        
+                            Non possono essere ammessi alla procedura prevista dal presente articolo i lavoratori stranieri: 
+ 
+                        
+                        
+                            a)
+                            
+                                nei confronti dei quali sia stato emesso un provvedimento di espulsione ai sensi dell'articolo 13, commi 1 e 2, lettera c), del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e dell'articolo 3 del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, e successive modificazioni ed integrazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che risultino segnalati, anche in base ad accordi o convenzioni internazionali in vigore per l'Italia, ai fini della non ammissione nel territorio dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che risultino condannati, anche con sentenza non definitiva, compresa quella pronunciata anche a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per uno dei reati previsti dall'articolo 380 del medesimo codice; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che comunque siano considerati una minaccia per l'ordine pubblico o la sicurezza dello Stato o di uno dei Paesi con i quali l'Italia abbia sottoscritto accordi per la soppressione dei controlli alle frontiere interne e la libera circolazione delle persone. Nella valutazione della pericolosita' dello straniero si tiene conto anche di eventuali condanne, anche con sentenza non definitiva, compresa quella pronunciata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per uno dei reati previsti dall'articolo 381 del medesimo codice.
 
 ((COMMA ABROGATO DAL D.LGS. 22 GENNAIO 2016, N. 10)).
 

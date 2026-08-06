@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO MINISTERIALE
@@ -32,6 +32,26 @@ La direttiva n. 86/197CEE viene pubblicata unitamente al
  presente decreto.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 1, paragrafi 1 e 4, della direttiva n. 86/197/CEE, il decreto del Presidente della Repubblica 18 maggio 1982 n. 322, risulta cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dell'art. 3 e' aggiunta la seguente lettera:
+ "l) il titolo alcolometrico volume effettivo per le bevande aventi un contenuto alcolico superiore a 1,2% in volume";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 dell'art. 12 e' sostituito dal seguente:
+ "la denominazione di vendita, la quantita' netta, il termine minimo di conservazione ed il titolo alcolometrico volumico effettivo devono figurare nello stesso campo visivo".
 
 ## Art. 3.
 

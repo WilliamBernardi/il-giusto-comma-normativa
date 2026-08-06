@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-07-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,26 @@ Sulla proposta del Ministro delle finanze, di concerto con il Ministro del tesor
 Nell'articolo 16-bis, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo le parole: "la ritenuta a titolo d'imposta", sono inserite le seguenti: "o l'imposta sostitutiva di cui all'articolo 2, commi 1-bis e 1-ter, del decreto legislativo 1o aprile 1996, n. 239,".
 
 ## Art. 2.
+
+1.
+                        
+                            
+                                Nel decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 26: 
+ 1) nel comma 1, terzo periodo, le parole: "al tasso ufficiale di sconto aumentato di due terzi, per le obbligazioni ed i titoli similari negoziati in mercati regolamentati italiani", sono sostituite dalle seguenti: "al doppio del tasso ufficiale di sconto, per le obbligazioni ed i titoli similari negoziati in mercati regolamentati di paesi aderenti all'Unione Europea"; nel medesimo periodo, le parole: "ovvero di un terzo" sono sostituite dalle seguenti: "ovvero al tasso ufficiale di sconto aumentato di due terzi"; 
+ 2) il comma 3 e' sostituito dal seguente: "3. Quando gli interessi ed altri proventi di cui al comma 2 sono dovuti da soggetti non residenti, la ritenuta ivi prevista e' operata dai soggetti di cui all'articolo 23 che intervengono nella loro riscossione. Qualora il rimborso delle obbligazioni e titoli similari con scadenza non inferiore a diciotto mesi emessi da soggetti non residenti, abbia luogo prima di tale scadenza, e' dovuta dai percipienti una somma pari al 20 per cento degli interessi e degli altri proventi maturati fino al momento dell'anticipato rimborso. Tale somma e' prelevata dai soggetti di cui all'articolo 23 che intervengono nella riscossione degli interessi ed altri proventi ovvero nel rimborso nei confronti di soggetti residenti."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 27, comma 5, il primo periodo e' sostituito dai seguenti: "La ritenuta di cui al comma 1 e' operata nei confronti delle persone fisiche residenti che possiedono partecipazioni rappresentate da azioni nominative o da quote ovvero siano socie di banche popolari cooperative nel caso in cui attestino di avere i requisiti di cui allo stesso comma. La ritenuta non e' operata qualora i soggetti di cui al periodo precedente ne facciano richiesta all'atto della riscossione degli utili.".
 
 Le disposizioni del presente articolo si applicano agli interessi e altri proventi divenuti esigibili a decorrere dal 1o luglio 2000.
 
@@ -53,9 +73,87 @@ Le disposizioni del presente articolo si applicano a decorrere dal 1o gennaio 20
 
 ## Art. 5.
 
+1.
+                        
+                            
+                                Al decreto legislativo 21 novembre 1997, n. 461, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 6, comma 9, le parole: "del versamento entro il mese successivo a quello in cui questo e' stato effettuato" sono sostituite dalle seguenti: "dei versamenti entro il mese di marzo dell'anno successivo ovvero entro 12 giorni dalla richiesta degli interessati"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 7, comma 3, lettera a) le parole "all'articolo 2" sono sostituite dalle seguenti "all'articolo 2, commi 1 e 1-bis"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 7, comma 12, dopo il primo periodo, e' inserito il seguente: "I soggetti diversi dalle societa' ed enti di cui all'articolo 87, comma 1, lettere a) e d) del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 presentano la predetta dichiarazione entro il termine stabilito per la presentazione della dichiarazione dei sostituti d'imposta.".
+
 La disposizione di cui alla lettera a) si applica con riferimento ai versamenti dell'imposta sostitutiva relativi alle operazioni effettuate a decorrere dal 1o gennaio 2000.
 
 ## Art. 6.
+
+1.
+                        
+                            
+                                Al decreto legislativo 1o aprile 1996, n. 239, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2, dopo il comma 1, sono inseriti i seguenti:
+"1-bis. Sono soggetti ad imposta sostitutiva delle imposte sui redditi nella misura del 12,50 per cento, per la parte maturata nel periodo di possesso, gli interessi ed altri proventi delle obbligazioni e titoli similari dovuti da soggetti non residenti.
+L'imposta e' applicata nella misura del 12,50 per cento anche sugli interessi ed altri proventi delle obbligazioni e degli altri titoli di cui all'articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, nonche' di quelli con regime fiscale equiparato, emessi all'estero a decorrere dal 10 settembre 1992, indipendentemente dalla scadenza. 
+ 1-ter. L'imposta e' applicata nella misura del 27 per cento se la scadenza dei titoli indicati nel primo periodo del comma 1-bis e' inferiore a diciotto mesi. 
+ 1-quater. L'imposta di cui ai commi 1-bis e 1-ter si applica sugli interessi ed altri proventi percepiti dai soggetti indicati nel comma 1. Per i soggetti di cui all'articolo 8, commi da 1 a 4, del decreto legislativo 21 novembre 1997, n. 461 l'imposta e' applicata limitatamente ai titoli indicati nel comma 1-ter."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 2, comma 2, ovunque ricorrano, le parole: "comma 1" sono sostituite dalle seguenti: "commi 1, 1-bis e 1-ter"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 3, comma 1, le parole "comma 1" sono sostituite dalle seguenti: "commi 1 e 1-quater"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 3, comma 5, e' aggiunto, in fine, il seguente periodo: "Per i titoli indicati nell'articolo 2, commi 1-bis e 1-ter, si considerano cessioni anche i prelievi dai depositi costituiti presso gli intermediari."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 5: 
+ 1) nel comma 1, le parole "articolo 2, comma 1", ovunque ricorrano, sono sostituite dalle seguenti: "articolo 2, commi 1, 1-bis e 1-ter"; 
+ 2) nel comma 2, le parole "comma 1" sono sostituite dalle seguenti "commi 1, 1-bis e 1-ter" e nel medesimo comma le parole "al periodo precedente" sono sostituite dalle seguenti: "all'articolo 2, comma 1"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 12, dopo il comma 2, e' inserito il seguente:
+"2-bis. Per i titoli indicati nell'articolo 2, commi 1-bis e 1-ter, l'imposta sostitutiva si applica a partire dal 1o luglio 2000. Per i titoli di cui al periodo precedente depositati al 1o luglio 2000 presso gli intermediari di cui all'articolo 2, comma 2, il conto unico e' accreditato dell'ammontare dell'imposta sostitutiva commisurata all'importo degli interessi, premi e altri frutti maturati nel periodo di possesso fino al 30 giugno 2000 ed e' addebitato dell'ammontare dell'imposta sostitutiva commisurata all'importo degli interessi, premi e altri frutti maturati fino al 30 giugno 2000 dalla data di inizio di maturazione della cedola in corso, nonche' dell'imposta commisurata alla differenza maturata fino alla predetta data tra la somma percepita alla scadenza ed il prezzo di emissione.".
 
 ## Art. 7. — Coordinamento con le disposizioni relative ai versamenti
 
@@ -94,11 +192,47 @@ La presente disposizione si applica alle operazioni effettuate a decorrere dal 1
 
 ## Art. 11.
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 11, comma 3-bis, secondo periodo, le parole "al lordo" sono sostituite dalle parole "al netto"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 94, comma 1-bis secondo periodo, le parole "al lordo" sono sostituite dalle parole "al netto".
+
 La disposizione del comma 1 si applica a decorrere dal periodo d'imposta in corso alla data del 31 dicembre 1999.
 
 ## - TITOLO III Modifiche al decreto legislativo 18 dicembre 1997, n. 466, concernente il riordino delle imposte personali sul reddito al fine di favorire la capitalizzazione delle imprese
 
 ## Art. 12.
+
+1.
+                        
+                            
+                                Al decreto legislativo 18 dicembre 1997, n. 466, nell'articolo 6, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1, le parole: "nei mercati regolamentati italiani" sono sostituite dalle seguenti: "nei mercati regolamentati dei paesi aderenti all'Unione Europea";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1, e' inserito il seguente: "1-bis. Le disposizioni del comma 1 non si applicano alle societa' i cui titoli di partecipazione sono ammessi alle quotazioni nei mercati regolamentati aventi patrimonio netto superiore a 500 miliardi di lire, cosi' come risultante dal bilancio dell'esercizio precedente a quello di riferimento, escluso l'utile del medesimo esercizio.".
 
 La disposizione di cui alla lettera b), si applica a decorrere dal periodo d'imposta in corso alla data del 31 dicembre 1999; la stessa non ha effetto ai fini del calcolo degli acconti dell'imposta sul reddito delle persone giuridiche relativi al periodo d'imposta in corso alla data del 31 dicembre 1999 gia' versati alla data di entrata in vigore del presente decreto. ((3))
 
@@ -110,9 +244,64 @@ La disposizione di cui alla lettera b), si applica a decorrere dal periodo d'imp
 
 ## Art. 13.
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 47, comma 1, lettera i), le parole: "alle lettere h) e i)" sono sostituite con: "alle lettere c) e d)"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 48: 
+ 1) al comma 2, la lettera f) e' sostituita dalle seguenti:
+"f) l'utilizzazione delle opere e dei servizi di cui al comma 1 dell'articolo 65 da parte dei dipendenti e dei soggetti indicati nell'articolo 12; 
+ f-bis) le somme erogate dal datore di lavoro alla generalita' dei dipendenti o a categorie di dipendenti per frequenza di asili nido e di colonie climatiche da parte dei familiari indicati nell'articolo 12, nonche' per borse di studio a favore dei medesimi familiari;"; 
+ 2) al comma 2, la lettera g) e' sostituita dalle seguenti:
+"g) il valore delle azioni offerte alla generalita' dei dipendenti per un importo non superiore complessivamente nel periodo d'imposta a lire 4 milioni, a condizione che non siano riacquistate dalla societa' emittente o dal datore di lavoro o comunque cedute prima che siano trascorsi almeno tre anni dalla percezione; qualora le azioni siano cedute prima del predetto termine, l'importo che non ha concorso a formare il reddito al momento dell'acquisto e' assoggettato a tassazione nel periodo d'imposta in cui avviene la cessione; 
+ g-bis) la differenza tra il valore delle azioni al momento dell'assegnazione e l'ammontare corrisposto dal dipendente, a condizione che il predetto ammontare sia almeno pari al valore delle azioni stesse alla data dell'offerta; se le partecipazioni, i titoli o i diritti posseduti dal dipendente rappresentano una percentuale di diritti di voto esercitabili nell'assemblea ordinaria o di partecipazione al capitale o al patrimonio superiore al 10 per cento, la predetta differenza concorre in ogni caso interamente a formare il reddito;"; 
+ 3) dopo il comma 2, e' inserito il seguente: "2-bis. Le disposizioni di cui alle lettere g) e g-bis) del comma 2 si applicano esclusivamente alle azioni emesse dall'impresa con la quale il contribuente intrattiene il rapporto di lavoro, nonche' a quelle emesse da societa' che direttamente o indirettamente, controllano la medesima impresa, ne sono controllate o sono controllate dalla stessa societa' che controlla l'impresa"; 
+ 4) nel comma 4, lettera b), le parole: "vigente al momento della concessione del prestito" sono sostituite dalle seguenti: "vigente al termine di ciascun anno"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 48-bis, comma 1, dopo la lettera d), e' inserita la seguente: "d-bis) i compensi di cui alla lettera l) del comma 1 dell'articolo 47, percepiti dai soggetti che hanno raggiunto l'eta' prevista dalla vigente legislazione per la pensione di vecchiaia e che possiedono un reddito complessivo di importo non superiore a lire 18 milioni al netto della deduzione prevista dall'articolo 10, comma 3-bis per l'unita' immobiliare adibita ad abitazione principale e per le relative pertinenze, costituiscono reddito per la parte che eccede complessivamente nel periodo d'imposta lire sei milioni.".
+
 Le disposizioni del comma 1 si applicano a decorrere dal 1o gennaio 2000. Le disposizioni di cui alle lettere b), n. 2) e n. 3) non si applicano alle assegnazioni di titoli effettuate anteriormente alla predetta data, nonche' a quelle derivanti dall'esercizio di opzioni attribuite dal 1o gennaio 1998 fino alla data di entrata in vigore del presente decreto.
 
 ## Art. 14.
+
+1.
+                        
+                            
+                                Nel decreto del Presidente della Repubblica 29 settembre 1973, n. 600 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 23, comma 3: 
+ 1) nel terzo periodo, le parole: "dell'1 per cento mensile" sono sostituite dalle seguenti: "dello 0,50 per cento mensile"; 
+ 2) il quinto periodo e' soppresso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 24: 
+ 1) dopo il comma 1, e' aggiunto il seguente: "1-bis. Sulla parte imponibile dei compensi di cui all'articolo 48-bis, comma 1, lettera d-bis), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' operata una ritenuta a titolo d'imposta con l'aliquota prevista per il primo scaglione di reddito, maggiorata delle addizionali vigenti."; 
+ 2) il comma 2 e' abrogato.
 
 La disposizione di cui alla lettera a), numero 1), si applica a decorrere dai versamenti concernenti le operazioni di conguaglio relative al periodo d'imposta 1999; le disposizioni di cui alla stessa lettera a), numero 2), ed alla lettera b) si applicano ai compensi erogati a decorrere dal 13 gennaio 2000.
 

@@ -8,8 +8,8 @@ codice_redazionale: 008G0043
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,7 +39,96 @@ Con la stipula della convenzione l'amministrazione scolastica, riservandosi il d
 
 I gestori delle scuole primarie paritarie che intendono stipulare la convenzione prevista dall'articolo 2 ne fanno richiesta all'Ufficio scolastico regionale competente per territorio, entro e non oltre il 31 marzo di ogni anno. La convenzione decorre dall'inizio dell'anno scolastico successivo.
 
+2.
+                    
+                        
+                            Il gestore della scuola primaria paritaria, nel formulare l'istanza di convenzione, deve dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                che l'ente di cui ha la rappresentanza, se persona giuridica, ha sede legale ovvero, se sprovvisto di personalita' giuridica, ha il domicilio, oppure, nel caso di persona fisica, ha la residenza in Italia o in uno Stato membro dell'Unione europea;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che permangono i requisiti di cui all'articolo 1, comma 4, della legge 10 marzo 2000, n. 62;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che il coordinamento delle attivita' educative e didattiche e' affidato a soggetto in possesso di titoli culturali e professionali non inferiori a quelli previsti per il personale docente operante nella scuola;
+
+                            
+                        
+                        
+                            d)
+                            
+                                che i contratti individuali di lavoro dei docenti rispettano i contratti collettivi di lavoro di settore, fatta eccezione per il personale religioso che presta servizio nell'ambito della propria congregazione e per il clero diocesano che presta servizio nell'ambito di strutture gestite dalla Diocesi e fermo restando quanto previsto dall'articolo l, comma 5, della legge 10 marzo 2000, n. 62.
+
+3.
+                    
+                        
+                            Il gestore deve altresi' dichiarare che, entro trenta giorni dall'apertura dell'anno scolastico, provvedera' a:
+ 
+                        
+                        
+                            a)
+                            
+                                fornire un prospetto con l'indicazione del numero degli alunni iscritti a ciascuna classe;
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicare il numero di alunni iscritti certificati ai sensi della legge 5 febbraio 1992, n. 104;
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicare, per gli alunni certificati di cui sopra, il numero di ore di sostegno dichiarate necessarie dal piano educativo individualizzato previsto dall'articolo 12, comma 5, della legge 5 febbraio 1992, n. 104;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indicare la documentazione idonea in ordine alla presenza di alunni con particolari difficolta' di apprendimento, destinatari di specifici progetti di recupero e integrazione, indicando altresi' il numero di ore di insegnamento integrativo necessarie.
+
 ## Art. 4. — Contributo a carico dello Stato
+
+1.
+                    
+                        
+                            Il contributo annuo di cui all'articolo 2, comma 3, viene assegnato alle scuole primarie paritarie che hanno stipulato la convenzione, avuto riguardo a:
+ 
+                        
+                        
+                            a)
+                            
+                                numero di classi con una composizione minima di dieci alunni ciascuna;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero di ore di sostegno per gli alunni disabili previste dal piano educativo individualizzato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                numero di ore di insegnamento integrativo necessarie per alunni in difficolta' di apprendimento su progetto aggiuntivo.
 
 I criteri per l'assegnazione dei contributi alle scuole primarie paritarie sono fissati con il decreto del Ministro della pubblica istruzione di cui all'articolo 1, comma 636, della legge 27 dicembre 2006, n. 296.
 

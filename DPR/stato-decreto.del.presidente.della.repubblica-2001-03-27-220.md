@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2013-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,40 @@ La copertura della restante percentuale non superiore, comunque, al 30% dei post
 Le procedure relative alle selezioni di cui al comma 2 sono individuate dalle unita' sanitarie locali e dalle aziende ospedaliere con atti regolamentari interni improntati ai criteri di imparzialita', trasparenza, tempestivita', economicita' e celerita' di espletamento, previsti dall'articolo 36, comma 3, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, in base ai principi stabiliti dalla legge 10 aprile 1991, n. 125, nonche' conformi ai criteri contenuti nel contratto collettivo nazionale di lavoro ed ai principi stabiliti nel presente regolamento.
 
 ## Art. 2. — Requisiti generali di ammissione
+
+1.
+                        
+                            
+                                Ai sensi dell'art. 18, comma 1, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, possono partecipare ai concorsi coloro che possiedono i seguenti requisiti generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana, salve le equiparazioni stabilite dalle leggi vigenti, o cittadinanza di uno dei Paesi dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica all'impiego: 
+ 1) l'accertamento dell'idoneita' fisica all'impiego, con l'osservanza delle norme in tema di categorie protette, e' effettuato da una struttura pubblica del Servizio sanitario nazionale, prima della immissione in servizio; 
+ 2) il personale dipendente dalle amministrazioni ed enti di cui al n. 1 della presente lettera e' dispensato dalla visita medica; ((1))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    titolo di studio previsto per l'accesso alle rispettive carriere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iscrizione all'albo professionale, ove richiesto per l'esercizio professionale. L'iscrizione al corrispondente albo professionale di uno dei Paesi dell'Unione europea, ove prevista, consente la partecipazione ai concorsi, fermo restando l'obbligo dell'iscrizione all'albo in Italia prima dell'assunzione in servizio.
 
 Non possono accedere agli impieghi coloro che siano esclusi dall'elettorato attivo e coloro che siano stati destituiti o dispensati dall'impiego presso pubbliche amministrazioni ovvero licenziati a decorrere dalla data di entrata in vigore del primo contratto collettivo.
 
@@ -66,6 +100,66 @@ Il termine per la presentazione delle domande di partecipazione ai concorsi scad
 Per le domande inoltrate a mezzo del servizio postale, la data di spedizione e' comprovata dal timbro a data dell'ufficio postale accettante.
 
 ## Art. 4. — Domande di ammissione ai concorsi
+
+1.
+                        
+                            
+                                Per l'ammissione ai concorsi, gli aspiranti devono presentare domanda redatta in carta semplice, nella quale devono indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la data, il luogo di nascita e la residenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il possesso della cittadinanza italiana o equivalente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comune di iscrizione nelle liste elettorali, ovvero i motivi della loro non iscrizione o della cancellazione dalle liste medesime;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali condanne penali riportate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i titoli di studio posseduti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la loro posizione nei riguardi degli obblighi militari;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i servizi prestati come impiegati presso pubbliche amministrazioni e le eventuali cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i titoli che danno diritto ad usufruire di riserve, precedenze o preferenze.
 
 Alla domanda di partecipazione al concorso i concorrenti devono allegare tutte le certificazioni relative ai titoli che ritengano opportuno presentare agli effetti della valutazione di merito, ivi compreso un curriculum formativo e professionale datato e firmato.
 
@@ -129,6 +223,67 @@ Nei casi in cui l'ammissione a determinati profili avvenga mediante concorso per
 
 Le prove d'esame si svolgono secondo le modalita' previste dagli specifici articoli del presente regolamento.
 
+3.
+                        
+                            
+                                I punteggi per i titoli e le prove di esame sono complessivamente 100, cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    70 punti per le prove di esame.
+ I punti per le prove di esame sono cosi' ripartiti:
+ a) 30 punti per la prova scritta;
+ b) 20 punti per la prova pratica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    20 punti per la prova orale.
+ I punti per la valutazione dei titoli sono ripartiti fra le seguenti categorie:
+ a) titoli di carriera;
+ b) titoli accademici e di studio;
+ c) pubblicazioni e titoli scientifici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curriculum formativo e professionale.
+ La ripartizione dei punti fra le suddette categorie di titoli e' stabilita in sede di bando di concorso.
+
+4.
+                        
+                            
+                                Per i concorsi per i quali sono previste due prove di esame, i 100 punti previsti per i titoli e le prove di esame sono cosi' ripartiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    40 punti per i titoli;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    60 punti per le prove di esame.
+ I punti per le prove di esame sano cosi' ripartiti:
+ a) 30 punti per la prova pratica;
+ b) 30 punti per la prova orale.
+
 La votazione complessiva e' determinata sommando il voto conseguito nella valutazione dei titoli al voto complessivo riportato nelle prove d'esame, costituito dalla somma dei voti attribuiti nella prova scritta, pratica ed orale.
 
 ## Art. 9. — Adempimenti preliminari
@@ -164,6 +319,46 @@ Qualora la commissione di esame si trovi nell'impossibilita' di ultimare i suoi 
 Al termine dei lavori, i verbali, unitamente a tutti gli atti del concorso sono rimessi ai competenti uffici dell'unita' sanitaria locale o dell'azienda ospedaliera per le conseguenti determinazioni.
 
 ## Art. 11. — Criteri di valutazione dei titoli
+
+1.
+                        
+                            
+                                Nei concorsi per titoli ed esami, la determinazione dei criteri di massima si effettua prima dell'espletamento della prova scritta e, ai fini della valutazione dei titoli, ad eccezione di quelli richiesti quale requisito d'ammissione al concorso, che non sono oggetto di valutazione, la commissione deve attenersi ai seguenti principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di carriera:
+ 1) i titoli di carriera sono valutabili se si tratta di servizio reso presso le unita' sanitarie locali, le aziende ospedaliere, gli enti di cui agli articoli 21 e 22 del presente regolamento e presso altre pubbliche amministrazioni, nel profilo professionale a concorso o in qualifiche corrispondenti. Il servizio reso nel corrispondente profilo della categoria inferiore o in qualifiche corrispondenti e' valutato con un punteggio non superiore al 50% di quello reso nel profilo relativo al concorso;
+ 2) i periodi di servizio omogeneo sono cumulabili;
+ 3) le frazioni di anno sono valutate in ragione mensile considerando, come mese intero, periodi continuativi di giorni trenta o frazioni superiori a quindici giorni;
+ 4) i periodi di servizio prestati a tempo parziale sono valutati proporzionalmente all'orario di lavoro previsto dal Contratto collettivo nazionale di lavoro;
+ 5) in caso di servizi contemporanei e' valutato quello piu' favorevole al candidato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titoli accademici e di studio:
+ i titoli accademici e di studio sono valutati con un punteggio attribuito dalla commissione con motivata valutazione, tenuto conto dell'attinenza dei titoli posseduti con il profilo professionale da conferire;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pubblicazioni e titoli scientifici:
+ 1) la valutazione delle pubblicazioni deve essere adeguatamente motivata, in relazione alla originalita' della produzione scientifica, all'importanza delle riviste, alla continuita' ed ai contenuti dei singoli lavori, al grado di attinenza dei lavori stessi con la posizione funzionale da conferire, all'eventuale collaborazione di piu' autori;
+ 2) la commissione deve, peraltro, tenere conto, ai fini di una corretta valutazione:
+ a) della data di pubblicazione dei lavori in relazione all'eventuale conseguimento di titoli accademici gia' valutati in altra categoria di punteggi;
+ b) del fatto che le pubblicazioni contengano mere esposizioni di dati e casistiche, non adeguatamente avvalorate ed interpretate, ovvero abbiano contenuto solamente compilativo o divulgativo, ovvero ancora costituiscano monografie di alta originalita';
+ 3) i titoli scientifici sono valutati con motivata relazione tenuto conto dell'attinenza dei titoli posseduti con il profilo professionale da conferire;
+ 4) curriculum formativo e professionale:
+ a) nel curriculum formativo e professionale, sono valutate le attivita' professionali e di studio, formalmente documentate, non riferibili ai titoli gia' valutati nelle precedenti categorie, idonee ad evidenziare, ulteriormente, il livello di qualificazione professionale acquisito nell'arco della intera carriera e specifiche rispetto alla posizione funzionale da conferire, nonche' gli incarichi di insegnamento conferiti da enti pubblici;
+ b) in tale categoria rientrano anche i corsi di formazione e di aggiornamento professionale qualificati con riferimento alla durata e alla previsione di esame finale;
+ c) il punteggio attribuito dalla commissione e' globale e deve essere adeguatamente motivato. La motivazione deve essere riportata nel verbale dei lavori della commissione.
 
 ## Art. 12. — Prova scritta: modalita' di espletamento
 
@@ -201,6 +396,25 @@ I plichi sono tenuti in custodia dal segretario della commissione e sono aperti,
 Al momento di procedere alla lettura e valutazione della prova, il presidente appone su ciascuna busta grande, man mano che si procede all'apertura della stessa, un numero progressivo che viene ripetuto su ciascun foglio dell'elaborato e sulla busta piccola che vi e' acclusa.
 
 Tale numero e' riprodotto su apposito elenco, destinato alla registrazione del risultato delle votazioni sui singoli elaborati.
+
+4.
+                        
+                            
+                                Al termine della lettura collegiale di ciascun elaborato, la commissione procede alla sua valutazione, attribuendo il punteggio.
+Successivamente, al termine della valutazione di tutti gli elaborati, si procede all'apertura delle buste piccole contenenti le generalita' dei candidati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero segnato sulla busta piccola e' riportato sul foglietto inserito nella stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui siano previste sottocommissioni il presidente provvede alla distribuzione degli elaborati. L'apertura della busta piccola avverra' dopo l'attribuzione dei punteggi da parte di tutte le sottocommissoni.
 
 ## Art. 14. — Valutazione delle prove d'esame
 
@@ -253,6 +467,31 @@ La graduatoria degli idonei rimane efficace per un termine di ventiquattro mesi 
 
 ## Art. 19. — Adempimenti dei vincitori
 
+1.
+                        
+                            
+                                I candidati dichiarati vincitori sono invitati dall'unita' sanitaria locale o dall'azienda ospedaliera, ai fini della stipula del contratto individuale di lavoro, a presentare nel termine e con le modalita' stabilite dal bando di concorso e in carta legale, a pena di decadenza nei diritti conseguenti alla partecipazione allo stesso:
+ 
+                            
+                            
+                                a)
+                                
+                                    i documenti corrispondenti alle dichiarazioni contenute nella domanda di partecipazione al concorso per i quali non sia prevista autodichiarazione sostitutiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato generale del casellario giudiziale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri titoli che danno diritto ad usufruire della riserva, precedenza e preferenza a parita' di valutazione.
+
 I candidati dichiarati vincitori hanno facolta' di richiedere all'amministrazione che ha bandito il concorso, entro dieci giorni dalla comunicazione dell'esito del concorso, l'applicazione dell'articolo 18, comma 3, della legge 7 agosto 1990, n. 241.
 
 L'unita' sanitaria locale o l'azienda ospedaliera, verificata la sussistenza dei requisiti, procede alla stipula del contratto nel quale sara' indicata la data di presa di servizio. Gli effetti economici decorrono dalla data di effettiva presa di servizio.
@@ -303,13 +542,74 @@ L'assunzione in servizio avviene per pubblica selezione ai sensi delle disposizi
 ## Art. 25. — Concorso per titoli ed esami,
  per la posizione funzionale di puericultrice
 
+1.
+                        
+                            
+                                Requisito specifico di ammissione al concorso:
+ 
+                            
+                            
+                                a)
+                                
+                                    titolo di istruzione secondaria di primo grado;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma di cui al regio decreto 19 luglio 1940, n. 1098, o di cui al decreto del Ministro della sanita' 21 ottobre 1991, n. 458, articolo 6, comma 2 (Gazzetta Ufficiale n. 75/1992).
+
 ## Art. 26. — Concorso, per titoli ed esami,
  per la posizione funzionale
  di operatore tecnico specializzato
 
+1.
+                        
+                            
+                                Requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di istruzione secondaria di primo grado o assolvimento dell'obbligo scolastico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cinque anni di esperienza professionale acquisita nel corrispondente profilo professionale presso pubbliche amministrazioni o imprese private;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possesso di specifici titoli e abilitazioni professionali o attestati di qualifica di mestieri necessari allo svolgimento dell'attivita' inerente il profilo professionale messo a concorso, individuati in relazione alle esigenze organizzative dell'azienda ed indicati nel bando.
+
 ## Art. 27. — Concorso, per titoli ed esami,
  per la posizione funzionale
  di coadiutore amministrativo esperto
+
+1.
+                        
+                            
+                                Requisito specifico di ammissione al concorso:
+ 
+                            
+                            
+                                a)
+                                
+                                    titolo di istruzione secondaria di primo grado;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attestato di superamento di due anni di scolarita' dopo il diploma di istruzione secondaria di primo grado.
 
 ## Art. 28. — Commissioni esaminatrici
 
@@ -393,6 +693,25 @@ La presidenza e' affidata a personale in servizio presso l'azienda che bandisce 
 
 ## Art. 39.
 
+1.
+                        
+                            
+                                Concorso, per titoli ed esami, per il profilo di collaboratore professionale sanitario:
+ Requisiti specifici di ammissione al concorso:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di abilitazione alla specifica professione prevista dalla vigente normativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esperienza professionale triennale acquisita nel corrispondente profilo della categoria "C" in aziende ed enti del Servizio sanitario nazionale.
+
 Per il profilo dell'infermiere, l'esperienza professionale richiesta e' biennale in caso di possesso del diploma di abilitazione alle funzioni direttive.
 
 Per il personale di cui ai commi precedenti la regione puo' disporre, disciplinandone le modalita', la durata e le materie, che le aziende sanitarie prevedano nei bandi di concorso l'obbligo per i vincitori di frequentare un corso di formazione su tecniche di organizzazione prima dell'immissione in servizio. Dalla frequenza al corso sono esonerati gli infermieri in possesso del diploma di abilitazione alle funzioni direttive.
@@ -401,12 +720,66 @@ Per il personale di cui ai commi precedenti la regione puo' disporre, disciplina
  per il profilo professionale di collaboratore
  professionale assistente sociale
 
+1.
+                        
+                            
+                                Requisiti specifici di ammissione al concorso:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di abilitazione alla specifica professione prevista dalla vigente normativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esperienza professionale triennale acquisita nel profilo corrispondente della categoria "C" in aziende ed enti del Servizio sanitario nazionale.
+
 ## Art. 41. — Concorso, per titoli ed esami,
  per il profilo di collaboratore tecnico-professionale
+
+1.
+                        
+                            
+                                Requisito specifico di ammissione al concorso:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea corrispondente allo specifico settore di attivita' da indicarsi nel bando di concorso in relazione alle esigenze organizzative dell'azienda sanitaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione professionale, ove prevista.
 
 ## Art. 42. — Concorso, per titoli ed esami,
  per il profilo professionale di
  collaboratore amministrativo-professionale
+
+1.
+                        
+                            
+                                Requisito specifico di ammissione al concorso:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea corrispondente allo specifico settore di attivita' da indicarsi nel bando di concorso in relazione alle esigenze organizzative dell'azienda sanitaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione professionale, ove prevista.
 
 ## Art. 43. — Prove di esame
 
@@ -428,17 +801,89 @@ La presidenza e' affidata a personale in servizio presso l'azienda che bandisce 
  per il profilo professionale
  di collaboratore professionale sanitario esperto
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di abilitazione alla professione prevista dalla vigente normativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esperienza professionale quinquennale nel corrispondente profilo della categoria "D" in aziende ed enti del Servizio sanitario nazionale, ovvero, per il profilo infermieristico esperienza triennale nel corrispondente profilo della categoria "C", corredato del diploma di scuola diretta a fini speciali nell'assistenza infermieristica.
+
 ## Art. 46. — Concorso, per titoli ed esami,
  per il profilo professionale di collaboratore
  professionale assistenie sociale esperto
+
+1.
+                        
+                            
+                                I requisiti specifici di ammissione al concorso sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di abilitazione alla professione previsto dalla vigente normativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esperienza professionale quinquennale nel corrispondente profilo della categoria "D" in aziende ed enti del Servizio sanitano nazionale.
 
 ## Art. 47. — Concorso, per titoli ed esami,
  per il profilo professionale di collaboratore
  tecnico professionale esperto
 
+1.
+                        
+                            
+                                I requisiti specifici di ammissione sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea corrispondente allo specifico settore di attivita' da indicarsi nel bando di concorso in relazione alle esigenze organizzative dell'azienda sanitaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    iscrizione all'albo professionale, ove necessaria, da almeno tre anni.
+
 ## Art. 48. — Concorso per titoli ed esami,
  per il profilo professionale di collaboratore
  amministrativo professionale esperto
+
+1.
+                        
+                            
+                                I requisiti specifici di ammissione sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea corrispondente allo specifico settore di attivita' da indicarsi nel bando di concorso in relazione alle esigenze organizzative dell'azienda sanitaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    iscrizione all'albo professionale, ove necessaria, da almeno tre anni.
 
 ## Art. 49. — Prove di esame
 

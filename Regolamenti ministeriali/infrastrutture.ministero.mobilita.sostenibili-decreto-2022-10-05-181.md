@@ -7,8 +7,8 @@ urn: urn:nir:infrastrutture.ministero.mobilita.sostenibili:decreto:2022-10-05;18
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,14 +42,131 @@ Il presente regolamento disciplina i servizi di cassa e contabilita' del Corpo d
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «ente»: elemento di organizzazione del Corpo delle capitanerie di porto - Guardia costiera che riceve aperture di credito, ha la gestione dei fondi iscritti in bilancio e dei materiali, rende il conto all'organo al quale e' devoluto il controllo amministrativo e contabile ed e' sede del dirigente responsabile degli acquisti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «distaccamento»: elemento di organizzazione del Corpo delle capitanerie di porto - Guardia costiera che ha la gestione dei fondi iscritti in bilancio e dei materiali e che dipende, per la somministrazione dei fondi e per la resa della relativa contabilita', da un ente che inserisce tale contabilita' nel proprio rendiconto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «reparto»: elemento di organizzazione del Corpo delle capitanerie di porto - Guardia costiera che ha la gestione dei materiali e che puo' avere la gestione di fondi di bilancio nell'ambito dell'attivita' amministrativa dell'ente o del distaccamento dal quale contabilmente dipende.
+
 ## - Capo II ARTICOLAZIONE AMMINISTRATIVA
 
 ## Art. 3. — Funzioni del Comandante generale del Corpo delle capitanerie di porto - Guardia costiera
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento, il Comandante generale del Corpo delle capitanerie di porto - Guardia costiera esercita le funzioni di cui all'articolo 16 del decreto legislativo 30 marzo 2001, n. 165 e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individua gli obiettivi istituzionali da raggiungere e in relazione a questi coordina la pianificazione, la programmazione e la ripartizione delle risorse finanziarie assegnate al centro di responsabilita' amministrativa «Capitanerie di porto» e l'utilizzo dei fondi provenienti da altre amministrazioni, in relazione al rapporto di dipendenza funzionale o allo svolgimento degli ulteriori compiti previsti dalla normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita i poteri di spesa e di acquisizione delle entrate e assegna agli enti, ai distaccamenti e ai reparti le risorse per il perseguimento degli obiettivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede al funzionamento delle strutture periferiche di cui all'articolo 2 e dispone le aperture di credito sui vari capitoli per i funzionari delegati, nei limiti delle assegnazioni loro concesse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigila sulla tempestiva resa dei conti agli organi di controllo da parte degli enti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifica, attraverso l'attivita' ispettiva, la corretta gestione del denaro e dei beni presso le strutture periferiche di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigila sulla corretta gestione delle risorse assegnate ai funzionari delegati, sull'organizzazione degli uffici amministrativi da loro dipendenti e sul rispetto della normativa vigente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    definisce, nei limiti del presente regolamento, l'articolazione amministrativo-contabile, centrale e periferica, del Corpo delle capitanerie di porto - Guardia costiera e indica le procedure e i criteri per le gestioni dei fondi e dei valori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    promuove e resiste alle liti, nel corso delle quali puo' conciliare e transigere.
 
 II Comandante generale del Corpo delle capitanerie di porto - Guardia costiera puo' delegare a un dirigente l'adozione dei provvedimenti relativi alle attribuzioni di cui al comma 1.
 
 ## Art. 4. — Competenze del comandante di ente, 
  distaccamento e reparto
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento, il comandante di ente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indirizza le attivita' dell'ente al quale e' preposto per il conseguimento dei fini istituzionali e lo rappresenta all'esterno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua gli obiettivi da raggiungere e fissa le relative priorita', ne verifica il grado di realizzazione ed esercita i relativi poteri di spesa nei limiti dei fondi assegnati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esercita il potere di alta vigilanza sull'attivita' amministrativo-contabile del capo servizio amministrativo e provvede a dotare lo stesso delle necessarie risorse umane e strumentali per il conseguimento degli obiettivi assegnati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigila, ai sensi dell'articolo 17 del decreto legislativo 30 marzo 2001, n. 165, sulla corretta gestione delle risorse assegnate ai funzionari delegati, sull'organizzazione degli uffici amministrativi da loro dipendenti e sul rispetto della normativa vigente.
 
 Ai fini del presente regolamento, il comandante di distaccamento o di reparto esercita i poteri di spesa, nei limiti dei fondi assegnati, per la realizzazione dei propri programmi.
 
@@ -66,13 +183,230 @@ Le somme prelevate in contanti dalla disponibilita' dell'accreditamento esistent
 ## Art. 6. — Organi della gestione amministrativa 
  e competenze
 
+1.
+                        
+                            
+                                La gestione amministrativa dell'ente e' curata da un servizio amministrativo logistico, alla cui direzione e' preposto un ufficiale del Corpo delle capitanerie di porto, che assicura lo svolgimento delle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione finanziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione negoziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gestione patrimoniale.
+
+2.
+                        
+                            
+                                Gli organi della gestione amministrativa sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il capo del servizio amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il capo della gestione finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'addetto al riscontro contabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il fiduciario di cassa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli incaricati della gestione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il capo della gestione negoziale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il capo della gestione patrimoniale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'ufficiale rogante; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il consegnatario del materiale.
+
+3.
+                        
+                            
+                                Il capo del servizio amministrativo e' preposto alla direzione della gestione amministrativa dell'ente e, secondo le direttive del comandante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone gli atti di spesa e quelli preparatori, anche a rilevanza esterna; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta gli atti negoziali connessi con la gestione del bilancio e con l'amministrazione e l'utilizzo dei materiali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' responsabile della cassa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    controlla e coordina la gestione logistica.
+
+4.
+                        
+                            
+                                II capo della gestione finanziaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cura gli adempimenti connessi al riscontro contabile a favore dei creditori dei documenti di spesa, che compila e sottoscrive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica il registro delle aperture di credito e predispone la rendicontazione sulla base dei documenti giustificativi e delle evidenze informatiche.
+
 L'addetto al riscontro contabile cura gli adempimenti amministrativo-contabili e provvede alla liquidazione a favore dei creditori. A tal fine, compila e sottoscrive i documenti di spesa, dei quali risponde ai fini della regolarita'.
+
+6.
+                        
+                            
+                                II fiduciario di cassa e' un ufficiale o un sottufficiale del ruolo marescialli o un impiegato civile appartenente almeno alla seconda area, fascia retributiva F4. Puo' essere coadiuvato da uno o piu' aiutanti, e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    espleta le funzioni attribuite al cassiere dal decreto del Presidente della Repubblica 4 settembre 2002, n. 254 ed e' il depositario del denaro, dei titoli di credito e degli altri valori custoditi in cassa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura la documentazione cronologica della contabilita' informatica e la sua conservazione nel tempo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede alle riscossioni e ai pagamenti, e' corresponsabile di cassa e dipende dal capo della gestione finanziaria.
 
 Gli incaricati della gestione del denaro presso i distaccamenti e i reparti rispondono, quali contabili secondari, dei pagamenti effettuati, ai fini dell'inserimento delle corrispondenti risultanze nella contabilita' dell'organismo, nel rispetto delle disposizioni di cui al titolo III del decreto del Presidente della Repubblica 4 settembre 2002, n. 254.
 
 Il capo della gestione negoziale espleta le attivita' concernenti la predisposizione e l'esecuzione degli atti negoziali e il loro perfezionamento.
 
+9.
+                        
+                            
+                                Il capo della gestione patrimoniale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cura le attivita' concernenti la gestione dei materiali e, in particolare, il rifornimento, la conservazione, la distribuzione, il mantenimento e il fuori uso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone i provvedimenti occorrenti all'espletamento delle attivita' di cui alla lettera a) e sovrintende ai corrispondenti adempimenti contabili e alle rilevazioni statistiche connesse con i livelli di scorta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    unitamente ai consegnatari del materiale e' responsabile, ai sensi di quanto previsto dalla legge 14 gennaio 1994, n. 20, dell'efficienza dei magazzini e della tenuta dei materiali ivi depositati, sui quali svolge attivita' di controllo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dirige la gestione logistica dei magazzini, secondo le disposizioni impartite dal Comando generale del Corpo delle capitanerie di porto.
+
 L'ufficiale rogante cura gli aspetti giuridici e fiscali dell'attivita' negoziale e provvede agli adempimenti connessi alla stipulazione dei contratti.
+
+11.
+                        
+                            
+                                Il consegnatario del materiale e' un impiegato civile o un sottufficiale del ruolo marescialli o sergenti, puo' essere coadiuvato da uno o piu' aiutanti e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cura le scritture contabili e provvede alle attivita' esecutive di rifornimento, distribuzione e conservazione dei materiali dei quali ha il carico contabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risponde direttamente dei materiali conservati e per omessa vigilanza per quelli distribuiti ai contabili secondari per la loro utilizzazione.
 
 Gli organi della gestione amministrativa sono nominati dal comandante dell'ente, ad eccezione del capo servizio amministrativo che e' nominato dal Comando generale del Corpo delle capitanerie di porto.
 
@@ -116,6 +450,86 @@ I titolari dei distaccamenti e dei reparti sono responsabili dei fondi e dei dep
 
 Il capo della gestione finanziaria sovraintende alle operazioni di introito e pagamento effettuate dal fiduciario di cassa.
 
+2.
+                        
+                            
+                                Il fiduciario di cassa effettua la registrazione degli ordini di riscossione e di pagamento in ordine cronologico e, per i pagamenti in contanti, imputa le operazioni sul libro di cassa alle seguenti categorie di gestione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fondi di bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fondi fuori bilancio.
+
+3.
+                        
+                            
+                                Sono fondi fuori bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fondo scorta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il fondo permanente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il conto transitorio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i fondi e le anticipazioni di altre amministrazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i depositi istruttori per concessioni demaniali marittime; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le gestioni speciali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le altre gestioni espressamente previste da disposizioni legislative e regolamentari. 
+ 4 Le operazioni di cassa di cui al comma 2 sono contabilizzate su appositi registri dematerializzati tenuti attraverso software applicativi approvati dalla Ragioneria generale dello Stato. 
+ 5. Nel caso di errata imputazione delle operazioni, si procede alla rettifica con provvedimenti contabili formali di revoca, da registrare sulle scritture contabili, sottoscritti dagli stessi agenti che hanno ordinato le scritture iniziali. 
+ 6. Il fiduciario di cassa esegue il riscontro delle scritture del libro di cassa in occasione delle chiusure operate alla fine di ogni mese e alla fine dell'esercizio finanziario, dei passaggi di consegna e delle ispezioni e lo sottopone alla sottoscrizione del capo servizio amministrativo e del capo della gestione finanziaria.
+All'atto della chiusura verifica l'esattezza delle registrazioni e la concordanza della rimanenza contabile di cassa con quella effettiva esistente. 
+ 7. Le operazioni di cassa relative ai depositi di terzi trovano riscontro in un registro dei conti correnti individuali istituiti per ogni singolo creditore. 
+ 8. Le dotazioni di fondi concesse dal Comando generale del Corpo delle capitanerie di porto sono registrate attraverso scritture dematerializzate tenute attraverso software applicativi approvati dalla Ragioneria generale dello Stato. 
+ 9. Gli stanziamenti di fondi e le autorizzazioni di spesa concesse dagli enti ai distaccamenti sono annotate in un registro, separatamente per ciascun capitolo. 
+ 10. Nella registrazione delle scritture contabili sono utilizzati i modelli dei registri e degli atti previsti dalla normativa contabile e, per le scritture dematerializzate, dalla Ragioneria generale dello Stato e, in mancanza, quelli stabiliti con determinazione del Comandante generale del Corpo delle capitanerie di porto - Guardia costiera. 
+ 11. Il Comandante generale del Corpo delle capitanerie di porto - Guardia costiera definisce, con proprio provvedimento, le modalita' di chiusura della cassa e di conservazione delle scritture.
+
 ## Art. 11. — Valori in deposito
 
 I valori e gli oggetti in deposito sono registrati in un libro di carico e scarico, chiuso alla fine di ogni esercizio finanziario.
@@ -141,11 +555,54 @@ L'ente conserva in cassa, in sostituzione del denaro contante, le quietanze dell
 
 ## Art. 14. — Conto transitorio
 
+1.
+                        
+                            
+                                Presso ogni ente e' istituito un conto transitorio al quale sono temporaneamente imputate, con evidenza nel sistema informatico della Ragioneria generale dello Stato, le seguenti operazioni di entrata e di uscita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    somme versate da altri organismi, da personale dipendente o da estranei all'amministrazione per essere inviate ad altri organismi o a terzi creditori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altri eventuali pagamenti e introiti consentiti dalle norme vigenti.
+
 Fatto salvo il rispetto degli eventuali diversi termini previsti dalle norme vigenti, gli enti provvedono alla eliminazione delle partite iscritte sul conto transitorio con tempestivita' entro la chiusura dell'esercizio finanziario, ad esclusione di quelle riscosse a dicembre per le quali provvedono nei trenta giorni del mese successivo, e non si avvalgono di entrate o profitti, di qualsiasi genere e provenienza, per accrescere le somme ricevute in sede di anticipazione di fondi.
 
 Le somme riscosse e quelle ritenute nei pagamenti sono versate all'entrata del bilancio dello Stato, se non sono dovute a terzi e non costituiscono reintegrazione totale o parziale di anticipazioni corrisposte.
 
 ## Art. 15. — Gestione dei proventi
+
+1.
+                        
+                            
+                                Costituiscono proventi gli introiti relativi a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vendita di stampati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sanzioni amministrative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prestazioni di qualsiasi specie rese in regime di convenzione ad amministrazioni diverse dal Ministero delle infrastrutture e della mobilita' sostenibili.
 
 I proventi di cui al comma 1, lettera c), sono versati all'entrata del bilancio dello Stato per essere riassegnati, nei casi previsti dalla legge, al pertinente programma dello stato di previsione della spesa del Ministero delle infrastrutture e della mobilita' sostenibili.
 

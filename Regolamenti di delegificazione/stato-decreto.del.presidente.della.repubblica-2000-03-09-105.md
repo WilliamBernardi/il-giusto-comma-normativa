@@ -8,8 +8,8 @@ codice_redazionale: 000G0144
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,35 @@ Il presente regolamento disciplina il procedimento relativo al rilascio del dupl
 In caso di smarrimento, sottrazione o distruzione della carta di circolazione, entro quarantotto ore dalla constatazione, l'intestatario deve farne denuncia, compilando, altresi', apposito modulo, agli organi di polizia i quali rilasciano, contestualmente, un permesso provvisorio di circolazione della validita' di novanta giorni. Dal momento del rilascio del suddetto permesso provvisorio la carta di circolazione identificata nella denuncia non e' piu' valida.
 
 Entro sette giorni dalla data di presentazione della denuncia gli organi di polizia di cui al comma 1 ne danno comunicazione all'ufficio centrale operativo del Ministero dei trasporti e della navigazione trasmettendo il modulo di cui al comma 1 secondo le modalita' tecniche indicate dal Ministero medesimo.
+
+3.
+                    
+                        
+                            L'ufficio centrale operativo del Ministero dei trasporti e della navigazione provvede a:
+
+                        
+                        
+                            a)
+                            
+                                registrare i dati contenuti nel modulo di cui al comma 1 nell'archivio nazionale dei veicoli;
+                            
+                        
+                        
+                            b)
+                            
+                                dare comunicazione per via telematica al Ministero dell'interno dell'avvenuta registrazione;
+                            
+                        
+                        
+                            c)
+                            
+                                predisporre il duplicato della carta di circolazione smarrita, sottratta o distrutta;
+                            
+                        
+                        
+                            d)
+                            
+                                trasmettere il duplicato per posta-contrassegno all'indirizzo di residenza del proprietario o dell'usufruttuario o del locatario del veicolo cui si riferisce, in modo che vi giunga entro i novanta giorni di validita' del permesso provvisorio di circolazione di cui al comma 1. Ove il duplicato non pervenga, entro il termine stabilito, al domicilio dell'interessato la va!idita' del permesso provvisorio si intende prorogata fino al momento della consegna del duplicato.
 
 Qualora, nei casi di cui al comma 1, gli organi di polizia, all'atto della denuncia, facciano presente che e' impossibile estrarre il duplicato della carta di circolazione dall'archivio nazionale dei veicoli, al rilascio del duplicato provvedono, entro trenta giorni dalla data di presentazione da parte dell'intestatario di apposita domanda, gli uffici provinciali della motorizzazione civile e dei trasporti in concessione. Alla medesima domanda e' allegata l'attestazione di resa denuncia agli organi di polizia, i quali rilasciano, contestualmente, un permesso provvisorio di circolazione della validita' di novanta giorni.
 

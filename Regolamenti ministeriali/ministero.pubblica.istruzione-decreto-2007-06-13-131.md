@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,31 @@ Considerata la necessita' di apportare modifiche e integrazioni alle norme conte
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nella seduta del 7 maggio 2007;
 
 ## Art. 1. — Disponibilita' di posti e tipologia di supplenze
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 4, commi 1, 2 e 3, della legge 3 maggio 1999, n. 124, di seguito denominata «legge», nei casi in cui non sia stato possibile assegnare alle cattedre e ai posti disponibili personale di ruolo delle dotazioni organiche provinciali, personale soprannumerario in utilizzazione o, comunque, a qualsiasi titolo, personale di ruolo, si provvede con:
+ 
+                        
+                        
+                            a)
+                            
+                                supplenze annuali per la copertura delle cattedre e posti d'insegnamento vacanti e disponibili entro la data del 31 dicembre e che rimangano presumibilmente tali per tutto l'anno scolastico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                supplenze temporanee sino al termine delle attivita' didattiche per la copertura di cattedre e posti d'insegnamento non vacanti, di fatto disponibili entro la data del 31 dicembre e fino al termine dell'anno scolastico e per le ore di insegnamento che non concorrano a costituire cattedre o posti orario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                supplenze temporanee per ogni altra necessita' di supplenza diversa dai casi precedenti, secondo quanto specificato all'articolo 7.
 
 Per l'attribuzione delle supplenze annuali e delle supplenze temporanee fino al termine delle attivita' didattiche, si utilizzano le graduatorie ad esaurimento di cui all'articolo 2.
 
@@ -125,6 +150,24 @@ Nella scuola secondaria di secondo grado, l'esaurimento dello specifico elenco d
 
 ## Art. 7. — Supplenze conferite utilizzando le graduatorie di circolo e di istituto
 
+1.
+                    
+                        
+                            Ai sensi delle disposizioni di cui all'articolo 1, dirigenti scolastici conferiscono supplenze utilizzando le rispettive graduatorie di circolo e di istituto in relazione alle seguenti situazioni e secondo le correlate tipologie:
+ 
+                        
+                        
+                            a)
+                            
+                                supplenze annuali e temporanee fino al termine delle attivita' didattiche per posti che non sia stato possibile coprire con il personale incluso nelle graduatorie ad esaurimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                supplenze temporanee per la sostituzione del personale temporaneamente assente e per la copertura di posti resisi disponibili, per qualsiasi causa, dopo il 31 dicembre di ciascun anno.
+
 Le graduatorie di circolo e di istituto, in base all'attivazione di apposita procedura informatizzata, recano indicazioni che, al momento della loro consultazione da parte della scuola interessata, evidenziano la situazione aggiornata della posizione specifica di occupazione, ovvero di inoccupazione da parte degli aspiranti inclusi nella graduatoria medesima, in modo che siano interpellati esclusivamente gli aspiranti che, ai sensi delle disposizioni del presente Regolamento, si trovino nelle condizioni di accettare, anche parzialmente ai fini del completamento di orario, la tipologia di supplenza offerta.
 Ai fini del costante e tempestivo aggiornamento dei dati indispensabili per il regolare funzionamento della procedura informatizzata in questione, le scuole comunicano al Sistema informativo le notizie richieste il giorno stesso della stipula del contratto e dell'assunzione in servizio del supplente.
 
@@ -146,6 +189,40 @@ Nel caso di esaurimento della graduatoria di circolo e di istituto il dirigente 
 Nell'anno di rinnovo delle graduatorie di circolo e di istituto, la relativa procedura deve essere attivata entro il 31 gennaio antecedente all'inizio dell'a.s. di riferimento e deve essere completata entro il successivo 31 agosto.
 
 ## Art. 8. — Effetti del mancato perfezionamento e risoluzione anticipata del rapporto di lavoro
+
+1.
+                    
+                        
+                            Fatte salve le disposizioni di cui ai commi 2 e 3, l'esito negativo di una proposta di assunzione a tempo determinato comporta i seguenti effetti relativamente a tutto l'anno scolastico in corso:
+ 
+                        
+                        
+                            a)
+                            
+                                supplenze conferite sulla base delle graduatorie ad esaurimento:
+ 1. la rinuncia ad una proposta di assunzione o l'assenza alla convocazione comportano la perdita della possibilita' di conseguire supplenze sulla base delle graduatorie ad esaurimento per il medesimo insegnamento;
+ 2. la mancata assunzione di servizio dopo l'accettazione, attuatasi anche mediante la presentazione preventiva di delega, comporta la perdita della possibilita' di conseguire supplenze, sia sulla base delle graduatorie ad esaurimento che di quelle di circolo e di istituto, per il medesimo insegnamento;
+ 3. l'abbandono del servizio comporta la perdita della possibilita' di conseguire supplenze, sia sulla base delle graduatorie ad esaurimento che di quelle di circolo e di istituto, per tutte le graduatorie di insegnamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                supplenze conferite sulla base delle graduatorie di circolo e di istituto:
+ 1) la rinuncia ad una proposta contrattuale o alla sua proroga o conferma ripetuta per due volte nella medesima scuola comporta, esclusivamente per gli aspiranti totalmente inoccupati al momento dell'offerta di supplenza, la collocazione in coda alla relativa graduatoria di terza fascia;
+ 2) la mancata assunzione in servizio dopo l'accettazione comporta la perdita della possibilita' di conseguire supplenze per il medesimo insegnamento in tutte le scuole in cui si e' inclusi nelle relative graduatorie;
+ 3) l'abbandono del servizio comporta la perdita della possibilita' di conseguire supplenze, conferite sulla base delle graduatorie di circolo e di istituto, per tutte le graduatorie di insegnamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                supplenze brevi sino a 10 giorni nella scuola dell'infanzia e primaria:
+ 1) la mancata accettazione di una proposta di assunzione formulata secondo le specifiche modalita' stabilite con apposito provvedimento ministeriale comporta la cancellazione dell'aspirante, relativamente alla scuola interessata, dall'elenco di coloro che devono essere interpellati con priorita' per tali tipologie di supplenze ai sensi dell'articolo 7, comma 7. Tale sanzione si applica solo agli aspiranti che abbiano esplicitamente richiesto l'attribuzione di tale tipologie di supplenze e che, all'atto dell'interpello, risultino non titolari di altro rapporto di supplenza o non aver gia' fornito accettazione per altra proposta di assunzione; per gli aspiranti parzialmente occupati aventi titolo al completamento d'orario, la rinuncia non da' luogo ad alcuna sanzione;
+ 2) la mancata assunzione in servizio dopo l'accettazione comporta la medesima sanzione di cui al precedente punto b/2;
+ 3) l'abbandono della supplenza comporta la medesima sanzione di cui al punto b/3.
 
 Il personale che non sia gia' in servizio per supplenze di durata sino al termine delle lezioni od oltre ha facolta', nel periodo dell'anno scolastico che va fino al 30 di aprile, di risolvere anticipatamente il proprio rapporto di lavoro per accettarne un altro di durata sino al termine delle lezioni od oltre.
 

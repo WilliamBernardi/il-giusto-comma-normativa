@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2005-05-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,31 @@ Il potassio ioduro e il potassio iodato utilizzati devono rispondere ai requisit
 Il sale iodurato, il sale iodato e il sale iodurato e iodato possono essere addizionati degli additivi antiagglomeranti alle condizioni previste per il sale da tavola dal decreto ministeriale 31 marzo 1965, e sue successive modificazioni.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Ai fini dell'etichettatura prevista dal decreto legislativo 27 gennaio 1992, n. 109, per le confezioni dei diversi tipi di sale addizionato di derivati di iodio di cui al presente decreto sono prescritte in particolare, in funzione delle peculiari caratteristiche del prodotto, le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la specifica denominazione legale di ciascuno di essi, rispettivamente individuabile in "sale iodurato" per il sale addizionato di ioduro di potassio, in "sale iodato" per quello addizionato di iodato di potassio e in "sale iodurato e iodato" per quello addizionato di ioduro e di iodato di potassio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quale specifica destinazione d'uso, una dicitura che ne consigli l'impiego per integrare regimi alimentari carenti di iodio in sostituzione del comune sale alimentare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quale modalita' di conservazione, l'avvertenza di mantenere il prodotto in luogo fresco, asciutto ed al riparo della luce.
 
 In applicazione dell'art. 8, comma 1, del decreto legislativo 27 gennaio 1992, n. 109, l'indicazione degli ingredienti di ciascun tipo di sale disciplinato dal presente decreto comporta la menzione della percentuale di ioduro di potassio e di iodato di potassio aggiunti nonche' la quantita' di iodio (I) apportata da cento grammi di prodotto.
 

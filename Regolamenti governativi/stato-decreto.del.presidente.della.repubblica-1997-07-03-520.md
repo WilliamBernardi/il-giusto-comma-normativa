@@ -8,8 +8,8 @@ codice_redazionale: 098G0124
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,59 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza della Sezione con
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
 ## Art. 1. — Denominazioni
+
+1.
+                    
+                        
+                            Nel presente regolamento sono denominati:
+ 
+                        
+                        
+                            a)
+                            
+                                legge: la legge 23 agosto 1988, n. 400, recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 8 del decreto-legge n. 543: l'articolo 8 del decreto-legge 23 ottobre 1996, n. 543, convertito, con modificazioni, dalla legge 20 dicembre 1996, n. 639, che disciplina i poteri del Segretario generale della Presidenza del Consiglio dei Ministri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Presidente e Presidenza: rispettivamente, il Presidente e la Presidenza del Consiglio dei Ministri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Segretario generale e Vicesegretario generale: il Segretario generale e il Vicesegretario generale della Presidenza del Consiglio dei Ministri;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dipartimenti: i dipartimenti della Presidenza del Consiglio dei Ministri e gli uffici ad essi equiparati, ivi compresi quelli affidati a Ministri o Sottosegretari, ai sensi degli articoli 9, 20 e 21 della legge 23 agosto 1988, n. 400;
+
+                            
+                        
+                        
+                            f)
+                            
+                                uffici: strutture di livello dirigenziale generale in cui si articolano i dipartimenti, ai sensi dell'articolo 21 della legge 23 agosto 1988, n. 400;
+
+                            
+                        
+                        
+                            g)
+                            
+                                servizi: unita' operative di base di livello dirigenziale.
 
 ## Art. 2. — Dipartimenti affidati a Ministri o Sottosegretari
 
@@ -64,6 +117,52 @@ La graduazione delle funzioni e responsabilita' del personale di qualifica dirig
 Nella tabella A allegata alla legge, sette posti di dirigente generale sono assegnati al livello B. Alla individuazione delle corrispondenti attribuzioni si provvede con apposito decreto del Presidente. Con decreto del Presidente, d'intesa con il Ministro eventualmente competente, puo' essere affidata a dirigenti generali di livello C la direzione di servizi di particolare rilevanza.
 
 I capi dei dipartimenti curano l'organizzazione e dirigono l'attivita' delle strutture cui sono preposti, vigilando sul corretto funzionamento delle stesse, verificando altresi' la rispondenza dei risultati dell'azione amministrativa alle disposizioni impartite dal segretario generale, ovvero dall'autorita' politica alla quale il dipartimento e' affidato. Essi esercitano, inoltre, le funzioni loro delegate dall'autorita' sovraordinata.
+
+3.
+                    
+                        
+                            In particolare, i capi dei dipartimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                coadiuvano il segretario generale nello svolgimento delle funzioni di cui all'articolo 19 della legge, ovvero, nei casi di dipartimenti affidati a Ministri o Sottosegretari, coadiuvano questi nell'espletamento delle rispettive funzioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                formulano proposte e curano l'elaborazione di provvedimenti anche a contenuto normativo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elaborano piani, programmi e progetti in coerenza con le direttive ricevute, coordinando le attivita' di supporto tecnicoamministrativo svolte dalle strutture da loro dipendenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                coordinano le attivita' dei responsabili dei procedimenti amministrativi demandati alle strutture da loro dipendenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sovrintendono all'organizzazione ed all'attivita' di comitati, commissioni, gruppi di lavoro ed altri organi collegiali operanti nell'ambito di competenza del proprio dipartimento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                entro tre mesi dalla data di entrata in vigore del presente regolamento e, periodicamente, entro il 31 gennaio di ciascun anno, formulano proposte volte ad individuare strumenti ed unita' di misurazione dell'efficienza dell'attivita' amministrativa dei singoli uffici e servizi del dipartimento, nonche' del dipartimento nel suo complesso.
 
 Ai capi dei dipartimenti compete il controllo e la gestione del personale dipendente e la sua assegnazione alle strutture interne al dipartimento.
 

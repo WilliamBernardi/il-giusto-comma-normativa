@@ -8,8 +8,8 @@ codice_redazionale: 090G0228
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,7 +25,73 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 12 lu
 
 ## Art. 1. — Procedure diagnostiche e medico-legali
 
+1.
+                    
+                        
+                            L'accertamento dell'uso abituale di sostanze stupefacenti o psicotrope si fonda su uno o piu' degli elementi valutativi appresso indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                riscontro documentale di trattamenti sociosanitari per le tossicodipendenze presso strutture pubbliche e private, di soccorsi ricevuti da strutture di pronto soccorso, di ricovero per trattamento di patologie correlate all'abuso abituale di sostanze stupefacenti o psicotrope, di precedenti accertamenti medico-legali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                segni di assunzione abituale della sostanza stupefacante o psicotropa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sintomi fisici e psichici di intossicazione in atto da sostanze stupefacenti o psicotrope;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sindrome di astinenza in atto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                presenza di sostanze stupefacenti e/o loro metaboliti nei liquidi biologici e/o nei tessuti.
+
 ## Art. 2. — Assunzione nelle ventiquattro ore
+
+1.
+                    
+                        
+                            Le metodiche per quantificare l'assunzione abituale nelle 24 ore sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                procedure diagnostiche e medico-legali di cui all'art. 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutazione clinico-funzionale del grado di dipendenza e/o dell'intensita' dell'abuso finalizzata a stimare in termini quantitativi la dose abitualmente assunta nelle 24 ore.
+ Le indagini sono svolte in strutture pubbliche adeguatamente
+attrezzate in condizioni di sicurezza clinica e con l'esclusione, ai fini della suddetta stima, del ricorso a metodiche invasive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                specifiche procedure analitiche di laboratorio rivolte a correlare i reperti ai tempi e ai modi di assunzione, da effettuarsi con tempestivita' e tenendo comunque conto delle condizioni metaboliche del soggetto.
 
 La scelta della o delle metodiche di cui al comma 1 deve rispondere alla necessita' dei relativi accertamenti.
 

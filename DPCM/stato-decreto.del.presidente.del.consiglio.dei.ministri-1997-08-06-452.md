@@ -8,8 +8,8 @@ codice_redazionale: 097G0484
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -47,6 +47,115 @@ Il responsabile del procedimento di formazione del contratto applica, ai fini de
 Lo studio di fattibilita' e' volto alla definizione degli obiettivi organizzativi e funzionali dell'amministrazione interessata e costituisce la base per la predisposizione di apposito capitolato tecnico da utilizzare nelle procedure di scelta del contraente nei contratti di grande rilievo che attengono alla progettazione, acquisizione, realizzazione, manutenzione, gestione e conduzione operativa del sistema informativo, nonche' per l'esecuzione del monitoraggio, se previsto.
 
 La redazione dello studio di fattibilita' precede tutti i contratti di grande rilievo ai sensi dell'articolo 9 e dell'articolo 17, comma 2, del decreto legislativo 12 febbraio 1993, n. 39.
+
+3.
+                        
+                            
+                                Lo studio di fattibilita' deve comunque indicare e valutare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il sistema informativo esistente presso l'amministrazione interessata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le funzioni che l'amministrazione intende automatizzare e gli obiettivi da perseguire, con particolare riguardo ai servizi offerti dall'amministrazione e alle esigenze dell'utenza, in attuazione dei principi di cui alla legge 7 agosto 1990, n. 241;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i flussi informativi esistenti e le eventuali modifiche conseguenti all'automazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le funzionalita' e le prestazioni dell'iniziativa di automazione da realizzare, anche attraverso la schematizzazione dei processi e delle tipologie di dati, delle unita' organizzative coinvolte, nonche' dell'utilizzo delle risorse tecnologiche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    soluzioni possibili e metodologia usata per la relativa valutazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i tempi di realizzazione complessivi e delle singole fasi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'impatto sulle strutture e sull'organizzazione attuale degli uffici, nonche' le necessita' di formazione ed addestramento del personale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'impiego delle risorse umane e tecnologiche, dell'impresa e dell'amministrazione, sia nella fase di costituzione e sperimentazione del sistema informativo che in quella di pieno regime;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli standard tecnici, che devono essere coerenti con quelli prescritti dall'Autorita' per l'informatica nella pubblica amministrazione;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    piano di passaggio dal sistema precedente a quello che si intende realizzare;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    i parametri e le metriche di valutazione per ogni prestazione prevista, secondo le modalita' tecniche definite dall'Autorita';
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i contenuti del monitoraggio, se previsto, con particolare riferimento ai compiti ed alle funzioni da attribuire al monitore, nonche' le conseguenze del monitoraggio sull'attivita' prestata dall'impresa incaricata della progettazione, realizzazione, gestione e conduzione operativa del sistema informativo;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    gli elementi e i profili del progetto che assumono principale rilevanza ai fini della valutazione delle offerte nelle procedure di scelta del contraente, nonche' il loro rilievo ponderale nell'economia complessiva del progetto e della sua realizzazione;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    per ogni prestazione, l'analisi del rapporto tra costi e benefici nonche' dei costi, dettagliatamente previsti, attinenti alla realizzazione del sistema ed alla successiva manutenzione, ivi compresi i costi sostenuti episodicamente e quelli relativi al personale e ai contratti di somministrazione;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    i rischi organizzativi, tecnologici ed economici connessi alla realizzazione dell'iniziativa.
 
 Qualora lo studio di fattibilita' sia affidato ad una impresa, questa non puo' partecipare alle procedure per l'aggiudicazione dei contratti relativi alla progettazione, realizzazione, manutenzione, gestione e conduzione operativa del sistema informativo, ne' in proprio, ne' in associazione temporanea ovvero in consorzio con altre imprese, ne' in qualita' di subappaltatrice.
 
@@ -93,6 +202,32 @@ L'impresa ha l'obbligo di consegnare e, salvo patto contrario, di installare le 
 La documentazione di cui al comma 2 descrive la composizione e le caratteristiche delle apparecchiature, le procedure occorrenti per il loro utilizzo ed in particolare per l'avviamento, per l'arresto, per gli interventi per guasti, nonche' le operazioni consentite in fase di elaborazione.
 
 L'impresa e' tenuta ad effettuare la manutenzione ordinaria e straordinaria, nonche' la riparazione delle apparecchiature e, salvo che sia diversamente pattuito, a concedere la licenza d'uso ed a provvedere alla installazione dei programmi di base e di utilita', nonche' a mettere in funzione le apparecchiature.
+
+5.
+                        
+                            
+                                Possono essere previste nel contratto le seguenti e connesse prestazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione della licenza d'uso e installazione dei programmi diversi da quelli di cui al comma 4;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio di assistenza per i programmi di base e di utilita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    collaborazione di personale qualificato per l'installazione delle apparecchiature e dei programmi relativi, qualora tale operazione avvenga a cura dell'amministrazione;
+ d)uso di apparecchiature dell'impresa, sia prima della consegna di quelle previste in contratto - per consentire all'amministrazione di esperire prove o di mettere a punto i programmi operativi - sia durante la disinstallazione delle apparecchiature in dotazione e l'installazione di quelle previste in contratto.
 
 ## Art. 9. — Durata della locazione e proroga
 
@@ -230,6 +365,45 @@ Il contratto indica analiticamente le componenti e le caratteristiche tecnicofun
 
 Salvo che sia diversamente pattuito, l'impresa e' tenuta a concedere la licenza d'uso dei programmi di base e di utilita'.
 
+3.
+                        
+                            
+                                Possono essere previste nel contratto le seguenti e connesse prestazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione della licenza d'uso ed installazione dei programmi diversi da quelli di cui al comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    manutenzione ordinaria e straordinaria delle apparecchiature;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizio di assistenza per i programmi di base e di utilita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    collaborazione del personale qualificato per l'installazione delle apparecchiature e dei programmi relativi, qualora tale operazione avvenga a cura dell'amministrazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uso di apparecchiature dell'impresa, sia prima della consegna di quelle previste in contratto - per consentire all'amministrazione di esperire prove o di mettere a punto programmi operativi - sia durante la disinstallazione delle apparecchiature in dotazione e l'installazione di quelle previste in contratto.
+
 ## Art. 22. — Consegna, installazione e messa in funzione
 
 La consegna avviene a cura, spese e rischio dell'impresa, nei luoghi ed entro il termine indicati nel contratto.
@@ -327,6 +501,42 @@ I contratti specificano analiticamente i tipi di programmi oggetto della licenza
  nei contratti di licenza d'uso
 
 Il contratto di licenza d'uso attribuisce il diritto di utilizzazione dei programmi. Tale diritto, salvo patto contrario, e' non esclusivo e non trasferibile ad altri soggetti.
+
+2.
+                        
+                            
+                                Nel limite del numero di utenze previsto nel contratto, l'amministrazione, previa comunicazione all'impresa, ha facolta':
+ 
+                            
+                            
+                                a)
+                                
+                                    di utilizzare i programmi con apparecchiature diverse da quelle indicate in contratto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di far utilizzare i programmi da uffici e servizi diversi da quelli indicati in contratto. Qualora si tratti di amministrazioni statali tale facolta' e' esercitabile anche a favore di uffici e servizi di diversa amministrazione, anche autonoma.
+
+3.
+                        
+                            
+                                Salvo diversa pattuizione, l'impresa fornisce:
+ 
+                            
+                            
+                                a)
+                                
+                                    il testo dei programmi, trascritto su un supporto leggibile dalle macchine;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i manuali che descrivono funzioni e modalita' di impiego.
 
 Puo' essere previsto nel contratto, come prestazione connessa, il servizio di assistenza tecnica per i programmi. Per quanto non disposto nel presente capo, alle prestazioni di assistenza tecnica si applicano le previsioni contenute nel capitolato vigente per tale servizio, in quanto compatibili con la natura accessoria dello stesso rispetto alla licenza d'uso.
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-12-30
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -32,7 +32,134 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro delle at
 
 ## Art. 1. — Finalita'
 
+1.
+                    
+                        
+                            Il presente decreto, nel rispetto della disciplina nazionale, comunitaria ed internazionale vigente, nonche' nel rispetto dei principi e criteri direttivi stabiliti dall'articolo 43 della legge 1° marzo 2002, n. 39, e' finalizzato a:
+ 
+                        
+                        
+                            a)
+                            
+                                promuovere un maggior contributo delle fonti energetiche rinnovabili alla produzione di elettricita' nel relativo mercato italiano e comunitario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuovere misure per il perseguimento degli obiettivi indicativi nazionali di cui all'articolo 3, comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                concorrere alla creazione delle basi per un futuro quadro comunitario in materia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                favorire lo sviluppo di impianti di microgenerazione elettrica alimentati da fonti rinnovabili, in particolare per gli impieghi agricoli e per le aree montane.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                fonti energetiche rinnovabili o fonti rinnovabili: le fonti energetiche rinnovabili non fossili (eolica, solare, geotermica, del moto ondoso, maremotrice, idraulica, biomasse, gas di discarica, gas residuati dai processi di depurazione e biogas). In particolare, per biomasse si intende: la parte biodegradabile dei prodotti, rifiuti e residui provenienti dall'agricoltura (comprendente sostanze vegetali e animali) e dalla silvicoltura e dalle industrie connesse, nonche' la parte biodegradabile dei rifiuti industriali e urbani; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impianti alimentati da fonti rinnovabili programmabili: impianti alimentati dalle biomasse e dalla fonte idraulica, ((anche tramite impianti di accumulo idroelettrico attraverso pompaggio puro)) ad esclusione, per quest'ultima fonte, degli impianti ad acqua fluente, nonche' gli impianti ibridi, di cui alla lettera d); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                impianti alimentati da fonti rinnovabili non programmabili o comunque non assegnabili ai servizi di regolazione di punta: impianti alimentati dalle fonti rinnovabili che non rientrano tra quelli di cui alla lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                centrali ibride: centrali che producono energia elettrica utilizzando sia fonti non rinnovabili, sia fonti rinnovabili, ivi inclusi gli impianti di cocombustione, vale a dire gli impianti he producono energia elettrica mediante combustione di fonti non rinnovabili e di fonti rinnovabili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti di microgenerazione: impianti per la produzione di energia elettrica con capacita' di generazione non superiore ad un MW elettrico, alimentate dalle fonti di cui alla lettera a). 
+
+                            
+                        
+                        
+                            f)
+                            
+                                elettricita' prodotta da fonti energetiche rinnovabili: l'elettricita' prodotta da impianti alimentati esclusivamente con fonti energetiche rinnovabili, la produzione imputabile di cui alla lettera g), nonche' l'elettricita' ottenuta da fonti rinnovabili utilizzata per riempire i sistemi di stoccaggio, ma non l'elettricita' prodotta come risultato di detti sistemi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                produzione e producibilita' imputabili: produzione e producibilita' di energia elettrica imputabili a fonti rinnovabili nelle centrali ibride, calcolate sulla base delle direttive di cui all'articolo 11 del decreto legislativo 16 marzo 1999, n. 79; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                consumo di elettricita': la produzione nazionale di elettricita', compresa l'autoproduzione, sommate le importazioni e detratte le esportazioni (consumo interno lordo di elettricita); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Gestore della rete: Gestore della rete di trasmissione nazionale di cui all'articolo 3 del decreto legislativo 16 marzo 1999, n. 79; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                Gestore di rete: persona fisica o giuridica responsabile, anche non avendone la proprieta', della gestione di una rete elettrica con obbligo di connessione di terzi, nonche' delle attivita' di manutenzione e di sviluppo della medesima, ivi inclusi il Gestore della rete e le imprese distributrici, di cui al decreto legislativo 16 marzo 1999, n. 79; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                impianto di utenza per la connessione: porzione di impianto per la connessione alla rete elettrica degli impianti di cui alle lettere b), c) e d) la cui realizzazione, gestione, esercizio e manutenzione rimangono di competenza del soggetto richiedente la connessione; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                impianto di rete per la connessione: porzione di impianto per la connessione alla rete elettrica degli impianti di cui alle lettere b), c) e d) di competenza del Gestore di rete sottoposto all'obbligo di connessione di terzi ai sensi del decreto legislativo 16 marzo 1999, n. 79; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                certificati verdi: diritti di cui al comma 3 dell'art. 11 del decreto legislativo 16 marzo 1999, n. 79, rilasciati nell'ambito dell'applicazione delle direttive di cui al comma 5 dell'art. 11 del medesimo decreto legislativo.
 
 ## Art. 3. — Obiettivi indicativi nazionali e misure di promozione
 
@@ -40,6 +167,66 @@ Le principali misure nazionali per promuovere l'aumento del consumo di elettrici
 L'aggiornamento include altresi' la valutazione quantitativa dell'evoluzione dell'entita' degli incentivi alle fonti assimilate alle fonti rinnovabili, di cui all'articolo 22 della legge 9 gennaio 1991, n. 9. Dall'applicazione del presente comma non derivano maggiori oneri per lo Stato.
 
 Il Ministro delle attivita' produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio, sentita la Conferenza unificata, aggiorna le relazioni di cui all'articolo 3, paragrafo 2 della direttiva 2001/77/CE tenuto conto delle relazioni di cui al comma 4.
+
+3.
+                    
+                        
+                            Per la prima volta entro il 30 giugno 2005, e successivamente ogni due anni, il Ministro delle attivita' produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio e con il Ministro dell'economia e delle finanze, sentiti gli altri Ministri interessati e la Conferenza unificata, sulla base dei dati forniti dal Gestore della rete e dei lavori dell'Osservatorio di cui all'articolo 16, trasmette al Parlamento e alla Conferenza unificata una relazione che contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                un'analisi del raggiungimento degli obiettivi indicativi nazionali, di cui alle relazioni richiamate al comma 1, negli anni precedenti, che indica, in particolare, i fattori climatici che potrebbero condizionare tale raggiungimento, e il grado di coerenza tra le misure adottate e il contributo ascritto alla produzione di elettricita' da fonti rinnovabili nell'ambito degli impegni nazionali sui cambiamenti climatici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'effettivo grado di coerenza tra gli obiettivi indicativi nazionali, di cui alle relazioni richiamate al comma 1 e l'obiettivo indicativo di cui all'allegato A della direttiva 2001/77/CE e relative note esplicative;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'esame dell'affidabilita' del sistema di garanzia di origine di cui all'articolo 11;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un esame dello stato di attuazione delle disposizioni di cui agli articoli 5, 6, 7 e 8;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i risultati conseguiti in termini di semplificazione delle procedure autorizzative a seguito dell'attuazione delle disposizioni di cui all'articolo 12;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i risultati conseguiti in termini di agevolazione di accesso al mercato elettrico e alla rete elettrica a seguito dell'attuazione delle disposizioni di cui agli articoli 13 e 14;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le eventuali misure aggiuntive necessarie, ivi inclusi eventuali provvedimenti economici e fiscali, per favorire il perseguimento degli obiettivi di cui alle relazioni richiamate al comma 1;
+
+                            
+                        
+                        
+                            h)
+                            
+                                le valutazioni economiche di cui al comma 2, secondo e terzo periodo.
 
 Il Ministro delle attivita' produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio, sulla base della relazione di cui al comma 3 e previa informativa alla Conferenza unificata, ottempera all'obbligo di pubblicazione della relazione di cui all'articolo 3, paragrafo 3 e articolo 6, paragrafo 2 della direttiva 2001/77/CE tenuto conto dell'articolo 7, paragrafo 7 della medesima direttiva.
 
@@ -50,6 +237,66 @@ Il Ministro delle attivita' produttive, di concerto con il Ministro dell'ambient
 ## Art. 5. — Disposizioni specifiche per la valorizzazione energetica
  delle biomasse, dei gas residuati
  dai processi di depurazione e del biogas.
+
+1.
+                    
+                        
+                            Entro due mesi dalla data di entrata in vigore del presente decreto, con decreto del Ministro delle politiche agricole e forestali, e' nominata, senza oneri aggiuntivi per la finanza pubblica, una commissione di esperti che, entro un anno dall'insediamento, predispone una relazione con la quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                i distretti produttivi nei quali sono prodotti rifiuti e residui di lavorazione del legno non destinati rispettivamente ad attivita' di riciclo o riutilizzo, unitamente alle condizioni tecniche, economiche, normative ed organizzative, nonche' alle modalita' per la valorizzazione energetica di detti rifiuti e residui;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le condizioni tecniche, economiche, normative ed organizzative per la valorizzazione energetica degli scarti della manutenzione boschiva, delle aree verdi, delle alberature stradali e delle industrie agroalimentari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le aree agricole, anche a rischio di dissesto idrogeologico e le aree golenali sulle quali e' possibile intervenire mediante messa a dimora di colture da destinare a scopi energetici nonche' le modalita' e le condizioni tecniche, economiche, normative ed organizzative per l'attuazione degli interventi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le aree agricole nelle quali sono prodotti residui agricoli non destinati all'attivita' di riutilizzo, unitamente alle condizioni tecniche, economiche, normative ed organizzative, nonche' alle modalita', per la valorizzazione energetica di detti residui;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli incrementi netti di produzione annua di biomassa utilizzabili a scopi energetici, ottenibili dalle aree da destinare, ai sensi della legge 1° giugno 2002, n. 120, all'aumento degli assorbimenti di gas a effetto serra mediante attivita' forestali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i criteri e le modalita' per la valorizzazione energetica dei gas residuati dai processi di depurazione e del biogas, in particolare da attivita' zootecniche;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le condizioni per la promozione prioritaria degli impianti cogenerativi di potenza elettrica inferiore a 5 MW;
+
+                            
+                        
+                        
+                            h)
+                            
+                                le innovazioni tecnologiche eventualmente necessarie per l'attuazione delle proposte di cui alle precedenti lettere.
 
 La commissione di cui al comma 1 ha sede presso il Ministero delle politiche agricole e forestali ed e' composta da un membro designato dal Ministero delle politiche agricole e forestali, che la presiede, da un membro designato dal Ministero dell'ambiente e della tutela del territorio, da un membro designato dal Ministero delle attivita' produttive, da un membro designato dal Ministero dell'interno e da un membro designato dal Ministero per i beni e le attivita' culturali e da cinque membri designati dal Presidente della Conferenza unificata.
 
@@ -92,6 +339,31 @@ La produzione imputabile delle centrali ibride ha diritto al rilascio dei certif
  delle fonti rinnovabili
 
 Il Ministero delle attivita' produttive, di concerto con il Ministero dell'ambiente e della tutela del territorio, sentito il Ministero delle politiche agricole e forestali, d'intesa con la Conferenza unificata, stipula, senza oneri a carico del bilancio dello Stato, un accordo di programma quinquennale con l'ENEA per l'attuazione di misure a sostegno della ricerca e della diffusione delle fonti rinnovabili e dell'efficienza negli usi finali dell'energia.
+
+2.
+                    
+                        
+                            L'accordo persegue i seguenti obiettivi generali:
+ 
+                        
+                        
+                            a)
+                            
+                                l'introduzione nella pubblica amministrazione e nelle imprese, in particolare di piccola e media dimensione, di componenti, processi e criteri di gestione che consentano il maggiore utilizzo di fonti rinnovabili e la riduzione del consumo energetico per unita' di prodotto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la formazione di tecnici specialisti e la diffusione dell'informazione in merito alle caratteristiche e alle opportunita' offerte dalle tecnologie;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la ricerca per lo sviluppo e l'industrializzazione di impianti, nel limite massimo complessivo di 50 MW, per la produzione di energia elettrica dalle fonti rinnovabili di cui all'articolo 2, comma 1, lettera a), ivi inclusi gli impianti di microgenerazione per applicazioni nel settore agricolo, nelle piccole reti isolate e nelle aree montane.
 
 Le priorita', gli obiettivi specifici, i piani pluriennali e annuali e le modalita' di gestione dell'accordo sono definiti dalle parti.
 
@@ -164,6 +436,94 @@ Dopo la scadenza delle convenzioni di cui ai commi 2 e 3, l'energia elettrica pr
 
 Entro tre mesi dalla data di entrata in vigore del presente decreto, l'Autorita' per l'energia elettrica e il gas emana specifiche direttive relativamente alle condizioni tecniche ed economiche per l'erogazione del servizio di connessione di impianti alimentati da fonti rinnovabili alle reti elettriche con tensione nominale superiore ad 1 kV, i cui gestori hanno obbligo di connessione di terzi.
 
+2.
+                    
+                        
+                            Le direttive di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                prevedono la pubblicazione, da parte dei gestori di rete, degli standard tecnici per la realizzazione degli impianti di utenza e di rete per la connessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fissano le procedure, i tempi e i criteri per la determinazione dei costi, a carico del produttore, per l'espletamento di tutte le fasi istruttorie necessarie per l'individuazione della soluzione definitiva di connessione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                stabiliscono i criteri per la ripartizione dei costi di connessione tra il nuovo produttore e il gestore di rete;
+
+                            
+                        
+                        
+                            d)
+                            
+                                stabiliscono le regole nel cui rispetto gli impianti di rete per la connessione possono essere realizzati interamente dal produttore, individuando altresi' i provvedimenti che il Gestore della rete deve adottare al fine di definire i requisiti tecnici di detti impianti; per i casi nei quali il produttore non intenda avvalersi di questa facolta', stabiliscono quali sono le iniziative che il gestore di rete deve adottare al fine di ridurre i tempi di realizzazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                prevedono la pubblicazione, da parte dei gestori di rete, delle condizioni tecniche ed economiche necessarie per la realizzazione delle eventuali opere di adeguamento delle infrastrutture di rete per la connessione di nuovi impianti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                definiscono le modalita' di ripartizione dei costi fra tutti i produttori che ne beneficiano delle eventuali opere di adeguamento delle infrastrutture di rete. Dette modalita', basate su criteri oggettivi, trasparenti e non discriminatori tengono conto dei benefici che i produttori gia' connessi e quelli collegatisi successivamente e gli stessi gestori di rete traggono dalle connessioni.
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                sottopongono a termini perentori le attivita' poste a carico dei gestori di rete, individuando sanzioni e procedure sostitutive in caso di inerzia;
+
+                            
+                        
+                        
+                            f-ter)
+                            
+                                prevedono, ai sensi del paragrafo 5 dell'articolo 23 della direttiva 2003/541 CE del Parlamento europeo e del Consiglio, del 26 giugno 2003, e dell'articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481, procedure di risoluzione delle controversie insorte fra produttori e gestori di rete con decisioni, adottate dall'Autorita' per l'energia elettrica e il gas, vincolanti fra le parti;
+
+                            
+                        
+                        
+                            f-quater)
+                            
+                                prevedono l'obbligo di connessione prioritaria alla rete degli impianti alimentati da fonti rinnovabili, anche nel caso in cui la rete non sia tecnicamente in grado di ricevere l'energia prodotta ma possano essere adottati interventi di adeguamento congrui;
+
+                            
+                        
+                        
+                            f-quinquies)
+                            
+                                prevedono che gli interventi obbligatori di adeguamento della rete di cui alla lettera f-quater) includano tutte le infrastrutture tecniche necessarie per il funzionamento della rete e tutte le installazioni di connessione, anche per gli impianti per autoproduzione, con parziale cessione alla rete dell'energia elettrica prodotta;
+
+                            
+                        
+                        
+                            f-sexies)
+                            
+                                prevedono che i costi associati alla connessione siano ripartiti con le modalita' di cui alla lettera f) e che i costi associati allo sviluppo della rete siano a carico del gestore della rete;
+
+                            
+                        
+                        
+                            f-septies)
+                            
+                                prevedono le condizioni tecnico-economiche per favorire la diffusione, presso i siti di consumo, della generazione distribuita e della piccola cogenerazione mediante impianti eserciti tramite societa' terze, operanti nel settore dei servizi energetici, comprese le imprese artigiane e le loro forme consortili.
+
 I gestori di rete hanno l'obbligo di fornire al produttore che richiede il collegamento alla rete di un impianto alimentato da fonti rinnovabili le soluzioni atte a favorirne l'accesso alla rete, unitamente alle stime dei costi e della relativa ripartizione, in conformita' alla disciplina di cui al comma 1.
 
 L'Autorita' per l'energia elettrica e il gas adotta i provvedimenti eventualmente necessari per garantire che la tariffazione dei costi di trasmissione e di distribuzione non penalizzi l'elettricita' prodotta da fonti energetiche rinnovabili, compresa quella prodotta in zone periferiche, quali le regioni insulari e le regioni a bassa densita' di popolazione.
@@ -178,6 +538,59 @@ La campagna di cui al comma 1 viene svolta almeno per gli anni 2004, 2005 e 2006
 
 ## Art. 16. — Osservatorio nazionale sulle fonti rinnovabili
  e l'efficienza negli usi finali dell'energia
+
+1.
+                    
+                        
+                            E' istituito l'Osservatorio nazionale sulle fonti rinnovabili e l'efficienza negli usi finali dell'energia. L'Osservatorio, svolge attivita' di monitoraggio e consultazione sulle fonti rinnovabili e sull'efficienza negli usi finali dell'energia, allo scopo di:
+ 
+                        
+                        
+                            a)
+                            
+                                verificare la coerenza tra le misure incentivanti e normative promosse a livello statale e a livello regionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettuare il monitoraggio delle iniziative di sviluppo del settore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutare gli effetti delle misure di sostegno, nell'ambito delle politiche e misure nazionali per la riduzione delle emissioni dei gas serra;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esaminare le prestazioni delle varie tecnologie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                effettuare periodiche audizioni degli operatori del settore;
+
+                            
+                        
+                        
+                            f)
+                            
+                                proporre le misure e iniziative eventualmente necessarie per migliorare la previsione dei flussi di cassa dei progetti finalizzati alla costruzione e all'esercizio di impianti alimentati da fonti rinnovabili e di centrali ibride;
+
+                            
+                        
+                        
+                            g)
+                            
+                                proporre le misure e iniziative eventualmente necessarie per salvaguardare la produzione di energia elettrica degli impianti alimentati a biomasse e rifiuti, degli impianti alimentati da fonti rinnovabili non programmabili e degli impianti alimentati da fonti rinnovabili di potenza inferiore a 10 MVA, prodotta successivamente alla scadenza delle convenzioni richiamate all'articolo 13, commi 2 e 3, ovvero a seguito della cessazione del diritto ai certificati verdi.
 
 L'Osservatorio di cui al comma 1 e' composto da non piu' di venti esperti della materia di comprovata esperienza.
 
@@ -195,6 +608,31 @@ Dall'attuazione del presente articolo non derivano nuovi o maggiori oneri per il
  a beneficiare del regime riservato alle fonti rinnovabili
 
 
+
+2.
+                    
+                        
+                            Sono escluse dal regime riservato alle fonti rinnovabili:
+ 
+                        
+                        
+                            a)
+                            
+                                le fonti assimilate alle fonti rinnovabili, di cui all'articolo 1, comma 3 della legge 9 gennaio 1991, n. 10;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i beni, i prodotti e le sostanze derivanti da processi il cui scopo primario sia la produzione di vettori energetici o di energia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i prodotti energetici che non rispettano le caratteristiche definite nel del decreto del Presidente del Consiglio dei Ministri 8 marzo 2002, e successive modifiche ed integrazioni.
 
 ((COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296)).
 

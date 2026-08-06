@@ -8,8 +8,8 @@ codice_redazionale: 096G0278
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,52 @@ Il servizio opera in posizione di autonomia e risponde esclusivamente al Ministr
 
 ## Art. 2. — Competenze
 
+1.
+                    
+                        
+                            Ai fini dell'esercizio delle funzioni e dell'assolvimento dei compiti di cui all'art. 20, comma 2, del decreto legislativo 3 febbraio 1993, n. 29 e successive modificazioni e integrazioni, il servizio svolge le seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                verifica lo stato di attuazione dei programmi ed accerta la rispondenza dei risultati dell'attivita' amministrativa alle prescrizioni e agli obiettivi stabiliti dalle disposizioni normative e dalle direttive generali emanate dal Ministro del tesoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica l'imparzialita', il buon andamento ed il rispetto degli standard di efficienza, efficacia ed economicita' dell'azione amministrativa, nonche' la congruita' dei termini previsti per la conclusione dei procedimenti, o delle fasi dei procedimenti amministrativi di competenza del Ministero del tesoro, ai fini della loro periodica revisione e del migliore coordinamento con l'attivita' delle altre amministrazioni pubbliche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica, mediante valutazioni comparative dei costi e dei rendimenti, la correttezza ed economicita' della gestione delle risorse, anche in ordine alla erogazione dei trattamenti economici accessori attribuiti sulla base della normativa di settore e delle direttive del Ministro del tesoro, ed a tale fine fissa preventivamente, a norma del successivo art. 3, i parametri ed indici di valutazione della produttivita' dell'azione amministrativa ed i programmi del controllo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                riferisce almeno trimestralmente al Ministro del tesoro ed al competente direttore generale sui risultati della propria attivita' e sugli eventuali ostacoli incontrati nell'esercizio delle proprie competenze, segnalando gli scostamenti e le irregolarita' eventualmente riscontrati e proponendo, previa individuazione delle cause del mancato raggiungimento del risultati e degli obiettivi prefissati, i possibili correttivi, anche con riferimento a modifiche procedurali organizzativo-strutturali ritenute necessarie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                effettua la rilevazione annuale del numero complessivo dei procedimenti che nell'anno in considerazione non si sono conclusi entro i termini stabiliti dal regolamento del Ministro del tesoro 23 marzo 1992, n. 304, e dalle successive modificazioni ed integrazioni regolamentari adottate a norma dell'art. 2 della legge 7 agosto 1990, n. 241, e ne riferisce al Ministro del tesoro anche ai fini della eventuale applicazione delle misure di cui agli articoli 20, commi 9 e 10, e 59 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                fornisce alla Corte dei conti gli elementi da questa richiesti a norma dell'art. 3, comma 8, della legge 14 gennaio 1994, n. 20.
+
 ## Art. 3. — Parametri e indici di riferimento
 
 Il servizio, tenendo conto delle direttive e delle indicazioni del Ministro del tesoro e sentiti i responsabili degli uffici dirigenziali generali dell'amministrazione, predispone, almeno annualmente, i parametri e gli indici di riferimento del controllo e delle valutazioni, di cui al precedente art. 2.
@@ -48,6 +94,38 @@ Per lo svolgimento delle competenze di cui ai precedenti articoli 2 e 3, al serv
 Il servizio ha accesso ai documenti amministrativi; puo' chiedere, sulle questioni di competenza, l'avviso del consiglio di amministrazione del Ministero del tesoro; puo' chiedere, oralmente o per iscritto, elementi di valutazione a tutti gli uffici pubblici, ivi compresi il comitato tecnico-scientifico di cui all'art. 2, comma 3, della legge 24 dicembre 1993, n. 537, e gli uffici per le relazioni con il pubblico.
 
 ## Art. 5. — Provvedimenti del Ministro del tesoro
+
+1.
+                    
+                        
+                            Il Ministro del tesoro, periodicamente e comunque ogni anno, sulla base degli elementi e delle valutazioni fornite dal servizio:
+ 
+                        
+                        
+                            a)
+                            
+                                verifica, ai sensi dell'art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, l'osservanza degli indirizzi impartiti, delle priorita' indicate e dei provvedimenti adottati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                modifica o integra gli indirizzi, le priorita' o i provvedimenti stessi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                emana le direttive per l'attivita' del servizio e per assicurare la collaborazione dell'amministrazione all'attivita' di quest'ultimo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                accerta la sussistenza di eventuali responsabilita' dei dirigenti ai sensi dell'art. 20, comma 1, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni.
 
 ## Art. 6. — Organizzazione del servizio
 

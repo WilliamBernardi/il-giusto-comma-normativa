@@ -8,8 +8,8 @@ codice_redazionale: 008G0186
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,7 +27,114 @@ I gas di petrolio liquefatti denaturati, utilizzati negli impianti centralizzati
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si adottano le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                GPL: i gas di petrolio liquefatti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                impianto centralizzato: l'impianto centralizzato per esclusivo uso industriale del GPL collegato ad almeno due apparecchiature di utilizzazione, di tipo industriale, funzionanti a GPL e alimentato da uno o piu' serbatoi fissi di pertinenza della capacita' complessiva non inferiore a 10 metri cubi ovvero, mediante un unico punto di presa, da una rete canalizzata di distribuzione di GPL per uso combustione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                GPL agevolato: il GPL, denaturato secondo le formule e le modalita' stabilite ai sensi dell'articolo 24-bis del testo unico delle accise dal direttore dell'Agenzia delle dogane e impiegato per usi industriali negli impianti centralizzati, a cui e' applicabile l'agevolazione di cui all'articolo 1, comma 1, del presente regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ufficio competente: l'Ufficio delle dogane territorialmente competente in base all'ubicazione dell'impianto centralizzato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                soggetto esercente la rete: il soggetto esercente una rete canalizzata di distribuzione di GPL che effettua forniture di GPL agevolato anche ad impianti centralizzati, alimentati dalla medesima rete, ammessi al beneficio di cui all'articolo 1, comma 1, del presente regolamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    regolamento n. 210/1996: il regolamento di cui al decreto del Ministro delle finanze 25 marzo 1996, n. 210, e successive modificazioni.
+
 ## Art. 3. — Modalita' di ammissione all'agevolazione
+
+1.
+                    
+                        
+                            Il soggetto titolare di un impianto centralizzato che intende usufruire dell'applicazione dell'aliquota ridotta prevista dall'articolo 1, comma 1,presenta all'Ufficio competente una istanza, redatta in duplice esemplare, contenente le indicazioni seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione e sede legale della ditta, le generalita' del soggetto che ne ha la rappresentanza legale o negoziale, l'attivita' svolta, la partita IVA, l'ubicazione dell'impianto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il tipo e le caratteristiche tecniche degli apparecchi di utilizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il tipo e le caratteristiche dei congegni applicati per la misurazione del GPL;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli estremi delle eventuali autorizzazioni necessarie per l'esercizio dell'impianto centralizzato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione dei depositi, fiscali o commerciali, da cui i soggetti stessi intendono rifornire i serbatoi fissi che alimentano direttamente l'impianto centralizzato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i dati identificativi del soggetto esercente la rete e l'indicazione del punto di consegna;
+
+                            
+                        
+                        
+                            g)
+                            
+                                relazione tecnica delle modalita' di impiego del GPL agevolato nell'ambito del processo industriale con l'indicazione dei parametri d'impiego;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'impegno a comunicare all'Ufficio competente ogni eventuale variazione dei dati forniti entro trenta giorni dal suo verificarsi.
 
 All'istanza sono allegati la planimetria dei locali o dei recinti in cui e' installato l'impianto centralizzato nonche' lo schema del medesimo. I soggetti esercenti impianti centralizzati alimentati direttamente da serbatoi fissi indicano nella planimetria l'ubicazione dei medesimi serbatoi, precisandone la capacita' e il numero; copia delle relative tabelle di taratura e delle certificazioni relative ai congegni applicati per la misurazione del GPL sono acquisite nel corso delle operazioni di verifica dell'impianto effettuate ai sensi dell'articolo 4, comma 1.
 
@@ -58,11 +165,75 @@ Il GPL agevolato e' trasferito dai depositi di cui al comma 1 del presente artic
 
 ## Art. 6. — Adempimenti contabili degli esercenti impianti centralizzati alimentati da serbatoi fissi
 
+1.
+                    
+                        
+                            Il soggetto autorizzato ai sensi dell'articolo 4, comma 3, titolare dell'impianto centralizzato alimentato direttamente da serbatoi fissi annota, in un apposito registro di carico e scarico:
+ 
+                        
+                        
+                            a)
+                            
+                                nella parte del carico, le singole partite di GPL agevolato pervenute con l'indicazione del relativo documento di accompagnamento, copia del quale e' allegata al registro stesso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella parte dello scarico, le quantita' giornaliere prelevate, quali risultano dalle indicazioni dei congegni di misura.
+
 Per la tenuta del registro di cui al comma 1 e' consentito anche l'impiego di moduli predisposti da sistemi informatici.
 
 Il registro di cui al comma 1, vidimato dall'Ufficio competente, ha validita' annuale ed e' custodito dal titolare dell'impianto centralizzato per un periodo di cinque anni unitamente ai documenti di accompagnamento di cui all'articolo 5, comma 4.
 
 ## Art. 7. — Adempimenti del soggetto esercente la rete
+
+1.
+                    
+                        
+                            Il soggetto esercente la rete, che intende alimentare impianti centralizzati preventivamente autorizzati ai sensi dell'articolo 4, comma 3, presenta all'Ufficio competente una comunicazione, redatta in duplice esemplare, contenente le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione e sede legale della ditta, le generalita' del soggetto che ne ha la rappresentanza legale o negoziale, l'attivita' svolta, la partita IVA, l'ubicazione della rete;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero e le capacita' dei serbatoi di stoccaggio collegati alla rete, nonche' il tipo e la potenzialita' di altre istallazioni costituenti la rete;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il tipo e le caratteristiche dei contatori applicati per la misurazione del GPL complessivamente erogato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il tipo e la portata dei contatori applicati ai punti di presa degli impianti centralizzati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'elenco dei soggetti autorizzati ai sensi dell'articolo 4, comma 3, che intende rifornire;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'impegno a comunicare ogni eventuale variazione dei dati forniti entro trenta giorni dal suo verificarsi, nonche' a trasmettere all'Ufficio competente, alla scadenza di ciascun anno solare, l'elenco riepilogativo dei soggetti di cui alla lettera e).
 
 Con cadenza annuale, il soggetto esercente la rete procede alla lettura effettiva dei congegni di misura di cui al comma 1, lettera d), nonche' dei contatori di cui al comma 1, lettera c), che devono risultare immediatamente accessibili agli incaricati dei controlli di cui all'articolo 9. Il soggetto esercente la rete annota, alla fine di ciascun mese, nel registro di carico e scarico, nell'apposita colonna della sezione scarico, i quantitativi di GPL, stimati in relazione al consumo annuale effettivo, forniti ai singoli soggetti beneficiari collegati alla rete. Il registro, vidimato dall'Ufficio competente, ha validita' annuale ed e' custodito dal soggetto esercente la rete per un periodo di cinque anni.
 

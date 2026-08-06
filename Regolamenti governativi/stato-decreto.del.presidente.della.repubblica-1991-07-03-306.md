@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2003-06-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,55 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 7 ma
 Sulla proposta del Ministro degli affari esteri, di concerto con il Ministro del tesoro;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Le norme del presente regolamento si applicano al seguente personale in servizio all'estero:
+ 
+                        
+                        
+                            a)
+                            
+                                personale dei ruoli organici dell'Amministrazione degli affari esteri;
+
+                            
+                        
+                        
+                            b)
+                            
+                                persone incaricate delle funzioni di capo di ufficio consolare di prima categoria ai sensi dell'art. 169 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18;
+
+                            
+                        
+                        
+                            c)
+                            
+                                persone estranee all'Amministrazione degli affari esteri di cui essa si avvale ai sensi dell'art. 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18;
+
+                            
+                        
+                        
+                            d)
+                            
+                                personale ispettivo, direttivo ed insegnante dei ruoli del Ministero della pubblica istruzione, professori universitari e funzionari di ruolo dello Stato, di cui al decreto del Presidente della Repubblica 23 gennaio 1967, n. 215;
+
+                            
+                        
+                        
+                            e)
+                            
+                                personale che fa parte degli uffici degli addetti dell'Esercito, della Marina e dell'Aeronautica, di cui alla legge 27 dicembre 1973, n. 838;
+
+                            
+                        
+                        
+                            f)
+                            
+                                personale civile o militare per cui sia comunque prevista l'applicazione dell'art. 173 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
