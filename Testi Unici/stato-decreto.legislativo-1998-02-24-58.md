@@ -8,9 +8,9 @@ codice_redazionale: 098G0073
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2026-06-06
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-07
+zip_date: 2026-08-07
+fetched_at: 2026-08-07
 ---
 
 DECRETO LEGISLATIVO
@@ -157,22 +157,22 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 i)
                                 
-                                    "societa' di investimento a capitale variabile" (Sicav): l'Oicr aperto costituito in forma di societa' per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni ((...)); 
- i.1) (("societa' di investimento a capitale variabile in gestione interna" (Sicav in gestione interna): la Sicav che gestisce direttamente il proprio patrimonio;)) 
- i.2) (("societa' di investimento a capitale variabile in gestione interna autorizzata" (Sicav in gestione interna autorizzata): la Sicav in gestione interna iscritta all'albo di cui all'articolo 35-ter;)) 
- i.3) (("societa' di investimento a capitale variabile in gestione esterna" (Sicav in gestione esterna): la Sicav che designa come gestore esterno una Sgr autorizzata o una societa' di gestione UE o un GEFIA UE secondo quanto previsto dall'articolo 38;))
-                                    
+                                    "societa' di investimento a capitale variabile" (Sicav): l'Oicr aperto costituito in forma di societa' per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni; 
+ i.1) "societa' di investimento a capitale variabile in gestione interna" (Sicav in gestione interna): la Sicav che gestisce direttamente il proprio patrimonio; 
+ i.2) "societa' di investimento a capitale variabile in gestione interna autorizzata" (Sicav in gestione interna autorizzata): la Sicav in gestione interna iscritta all'albo di cui all'articolo 35-ter; 
+ i.3) "societa' di investimento a capitale variabile in gestione esterna" (Sicav in gestione esterna): la Sicav che designa come gestore esterno una Sgr autorizzata o una societa' di gestione UE o un GEFIA UE secondo quanto previsto dall'articolo 38; 
+
                                 
                             
                             
                                 i-bis)
                                 
-                                    "societa' di investimento a capitale fisso" (Sicaf): l'Oicr chiuso costituito in forma di societa' per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi ((...)); 
- i-bis.1) (("societa' di investimento a capitale fisso in gestione interna" (Sicaf in gestione interna): la Sicaf che gestisce direttamente il proprio patrimonio;)) 
- i-bis.2) (("societa' di investimento a capitale fisso in gestione interna autorizzata" (Sicaf in gestione interna autorizzata): la Sicaf in gestione interna iscritta all'albo di cui all'articolo 35-ter;)) 
- i-bis.3) (("societa' di investimento a capitale fisso sotto soglia registrata" (Sicaf sotto soglia registrata): la Sicaf in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;)) 
- i-bis.4) (("societa' di investimento a capitale fisso in gestione esterna" (Sicaf in gestione esterna): la Sicaf che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38;))
-                                    
+                                    "societa' di investimento a capitale fisso" (Sicaf): l'Oicr chiuso costituito in forma di societa' per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi; 
+ i-bis.1) "societa' di investimento a capitale fisso in gestione interna" (Sicaf in gestione interna): la Sicaf che gestisce direttamente il proprio patrimonio; 
+ i-bis.2) "societa' di investimento a capitale fisso in gestione interna autorizzata" (Sicaf in gestione interna autorizzata): la Sicaf in gestione interna iscritta all'albo di cui all'articolo 35-ter; 
+ i-bis.3) "societa' di investimento a capitale fisso sotto soglia registrata" (Sicaf sotto soglia registrata): la Sicaf in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter; 
+ i-bis.4) "societa' di investimento a capitale fisso in gestione esterna" (Sicaf in gestione esterna): la Sicaf che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38; 
+
                                 
                             
                             
@@ -185,15 +185,14 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 i-quater)
                                 
-                                    
-                                        ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)); 
- i-quater.1) (("societa' di partenariato": l'Oicr chiuso costituito in forma di societa' in accomandita per azioni con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo nelle forme del private equity e del venture capital del patrimonio raccolto mediante l'offerta delle proprie azioni, di strumenti finanziari partecipativi, nonche' mediante le ulteriori modalita' di raccolta definite nello statuto;)) 
- i-quater.2) (("societa' di partenariato in gestione interna": la societa' di partenariato che gestisce direttamente il proprio patrimonio;)) 
- i-quater.3) (("societa' di partenariato in gestione interna autorizzata": la societa' di partenariato in gestione interna iscritta all'albo di cui all'articolo 35-novies.2;)) 
- i-quater.4) (("societa' di partenariato sotto soglia registrata": la societa' di partenariato in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;)) 
- i-quater.5) (("societa' di partenariato in gestione esterna": la societa' di partenariato che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38-bis;)) 
- i-quater.6) (("private equity e venture capital": l'attivita' che consiste nell'investimento in imprese non quotate nei mercati regolamentati, attraverso strumenti di capitale, di debito, o altre forme similari, incluso l'investimento ulteriore nelle predette imprese successivamente all'eventuale ammissione delle stesse alla quotazione;))
-                                    
+                                    LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47; 
+ i-quater.1) "societa' di partenariato": l'Oicr chiuso costituito in forma di societa' in accomandita per azioni con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo nelle forme del private equity e del venture capital del patrimonio raccolto mediante l'offerta delle proprie azioni, di strumenti finanziari partecipativi, nonche' mediante le ulteriori modalita' di raccolta definite nello statuto; 
+ i-quater.2) "societa' di partenariato in gestione interna": la societa' di partenariato che gestisce direttamente il proprio patrimonio; 
+ i-quater.3) "societa' di partenariato in gestione interna autorizzata": la societa' di partenariato in gestione interna iscritta all'albo di cui all'articolo 35-novies.2; 
+ i-quater.4) "societa' di partenariato sotto soglia registrata": la societa' di partenariato in gestione interna iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce il proprio patrimonio nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter; 
+ i-quater.5) "societa' di partenariato in gestione esterna": la societa' di partenariato che designa come gestore esterno una Sgr autorizzata, un gestore di fondi EuVECA disciplinato ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, un gestore di fondi EuSEF disciplinato ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, o un GEFIA UE secondo quanto previsto dall'articolo 38-bis; 
+ i-quater.6) "private equity e venture capital": l'attivita' che consiste nell'investimento in imprese non quotate nei mercati regolamentati, attraverso strumenti di capitale, di debito, o altre forme similari, incluso l'investimento ulteriore nelle predette imprese successivamente all'eventuale ammissione delle stesse alla quotazione; 
+
                                 
                             
                             
@@ -206,7 +205,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 k)
                                 
-                                    'Organismo di investimento collettivo del risparmio' (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio e' raccolto tra una pluralita' di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonche' investito ((nelle attivita' di cui all'articolo 39-bis)) in base a una politica di investimento predeterminata; (60) (132) 
+                                    'Organismo di investimento collettivo del risparmio' (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio e' raccolto tra una pluralita' di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonche' investito nelle attivita' di cui all'articolo 39-bis in base a una politica di investimento predeterminata; (60) (132) 
 
                                 
                             
@@ -221,17 +220,15 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 l)
                                 
-                                    
-                                        (("Oicr italiano": il fondo comune d'investimento, la Sicav, la Sicaf e la societa' di partenariato;))
-                                    
+                                    "Oicr italiano": il fondo comune d'investimento, la Sicav, la Sicaf e la societa' di partenariato; 
+
                                 
                             
                             
                                 m)
                                 
-                                    
-                                        (("Organismo di investimento collettivo in valori mobiliari italiano" (OICVM italiano): il fondo comune di investimento e la Sicav rientranti nell'ambito di applicazione della direttiva 2009/65/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009;))
-                                    
+                                    "Organismo di investimento collettivo in valori mobiliari italiano" (OICVM italiano): il fondo comune di investimento e la Sicav rientranti nell'ambito di applicazione della direttiva 2009/65/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009; 
+
                                 
                             
                             
@@ -244,21 +241,20 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 m-ter)
                                 
-                                    
-                                        (("Oicr alternativo italiano" (FIA italiano): il fondo comune di investimento, la Sicav, la Sicaf e la societa' di partenariato rientranti nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011;)) 
- m-ter.1) (("Oicr societario in gestione esterna": la Sicav in gestione esterna, la Sicaf in gestione esterna e la societa' di partenariato in gestione esterna;)) 
+                                    "Oicr alternativo italiano" (FIA italiano): il fondo comune di investimento, la Sicav, la Sicaf e la societa' di partenariato rientranti nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011; 
+ m-ter.1) "Oicr societario in gestione esterna": la Sicav in gestione esterna, la Sicaf in gestione esterna e la societa' di partenariato in gestione esterna; 
  m-quater)'FIA italiano riservato': il FIA italiano la cui partecipazione e' riservata a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39; 
- m-quater.1) (("FIA italiano immobiliare": il fondo comune di investimento e la Sicaf che investono in beni immobili, diritti reali immobiliari, ivi inclusi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, partecipazioni in societa' immobiliari, parti di altri FIA immobiliari, anche esteri, nella misura indicata dal regolamento di cui all'articolo 39;)) 
- m-quater.2) (("partecipazioni in societa' immobiliari": le partecipazioni in societa' di capitali che svolgono attivita' di costruzione, valorizzazione, acquisto, alienazione e gestione di immobili;)) 
- m-quinquies) (("Oicr alternativo UE" (FIA UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato dell'Unione europea diverso dall'Italia;)) 
- m-sexies) (("Oicr alternativo non UE" (FIA non UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato non appartenente all'Unione europea;)) 
+ m-quater.1) "FIA italiano immobiliare": il fondo comune di investimento e la Sicaf che investono in beni immobili, diritti reali immobiliari, ivi inclusi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, partecipazioni in societa' immobiliari, parti di altri FIA immobiliari, anche esteri, nella misura indicata dal regolamento di cui all'articolo 39; 
+ m-quater.2) "partecipazioni in societa' immobiliari": le partecipazioni in societa' di capitali che svolgono attivita' di costruzione, valorizzazione, acquisto, alienazione e gestione di immobili; 
+ m-quinquies) "Oicr alternativo UE" (FIA UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato dell'Unione europea diverso dall'Italia; 
+ m-sexies) "Oicr alternativo non UE" (FIA non UE): l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, costituito in uno Stato non appartenente all'Unione europea; 
  m-septies)'fondo europeo per il venture capital' (EuVECA): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 345/2013; 
  m-octies) 'fondo europeo per l'imprenditoria sociale' (EuSEF); l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 346/2013; 
  m-octies.1) "fondo di investimento europeo a lungo termine" (ELTIF): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 2015/760; 
  m-octies.2) "fondo comune monetario" (FCM): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) 2017/1131; 
  m-novies) 'Oicr feeder': l'Oicr che investe le proprie attivita' totalmente o in prevalenza nell'Oicr master; 
  m-decies) 'Oicr master': l'Oicr nel quale uno o piu' Oicrfeeder investono totalmente o in prevalenza le proprie attivita'; 
- m-undecies) (("clienti professionali o investitori professionali": i clienti professionali ai sensi dell'articolo 6, commi 2-quater, lettere d-bis) e d-ter), e 2-sexies, nonche' gli enti di cui al decreto legislativo 30 giugno 1994, n. 509 e al decreto legislativo 10 febbraio 1996, n. 103;)) 
+ m-undecies) "clienti professionali o investitori professionali": i clienti professionali ai sensi dell'articolo 6, commi 2-quater, lettere d-bis) e d-ter), e 2-sexies, nonche' gli enti di cui al decreto legislativo 30 giugno 1994, n. 509 e al decreto legislativo 10 febbraio 1996, n. 103; 
  m-undecies.1) "Business Angel": gli investitori a supporto dell'innovazione che hanno investito in maniera diretta o indiretta una somma pari ad almeno euro 40.000 nell'ultimo triennio; 
  m-duodecies) "clienti al dettaglio o investitori al dettaglio": i clienti o gli investitori che non sono clienti professionali o investitori professionali; (73) 
 
@@ -274,10 +270,10 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 o)
                                 
-                                    "societa' di gestione del risparmio" (SGR): la societa' per azioni con sede legale e direzione generale in Italia ((che presta il servizio di gestione collettiva del risparmio)); 
- o.1) (("societa' di gestione del risparmio autorizzata" (Sgr autorizzata): la societa' di gestione del risparmio iscritta all'albo di cui all'articolo 35;)) 
- o.2) (("societa' di gestione del risparmio sotto soglia registrata" (Sgr sotto soglia registrata): la Sgr iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce FIA italiani nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter;))
-                                    
+                                    "societa' di gestione del risparmio" (SGR): la societa' per azioni con sede legale e direzione generale in Italia che presta il servizio di gestione collettiva del risparmio; 
+ o.1) "societa' di gestione del risparmio autorizzata" (Sgr autorizzata): la societa' di gestione del risparmio iscritta all'albo di cui all'articolo 35; 
+ o.2) "societa' di gestione del risparmio sotto soglia registrata" (Sgr sotto soglia registrata): la Sgr iscritta nel registro di cui all'articolo 35-quaterdecies che gestisce FIA italiani nei limiti e alle condizioni previsti dalla parte II, titolo III, capo I-ter; 
+
                                 
                             
                             
@@ -304,19 +300,19 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 q-bis)
                                 
-                                    'gestore': la Sgr, ((la Sicav in gestione interna, la Sicaf in gestione interna, la societa' di partenariato in gestione interna,)) la societa' di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF, il gestore di ELTIF e il gestore di FCM. 
- q-bis.1) (("gestore autorizzato": la Sgr autorizzata, la Sicav in gestione interna autorizzata, la Sicaf in gestione interna autorizzata, la societa' di partenariato in gestione interna autorizzata, il gestore di ELTIF, il gestore di FCM, nonche' i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani;)) 
- q-bis.2) (("gestore di FIA sotto soglia registrato" (GEFIA sotto soglia registrato): la societa' di gestione del risparmio sotto soglia registrata, la Sicaf sotto soglia registrata e la societa' di partenariato sotto soglia registrata;)) 
+                                    'gestore': la Sgr, la Sicav in gestione interna, la Sicaf in gestione interna, la societa' di partenariato in gestione interna, la societa' di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA, il gestore di EuSEF, il gestore di ELTIF e il gestore di FCM. 
+ q-bis.1) "gestore autorizzato": la Sgr autorizzata, la Sicav in gestione interna autorizzata, la Sicaf in gestione interna autorizzata, la societa' di partenariato in gestione interna autorizzata, il gestore di ELTIF, il gestore di FCM, nonche' i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani; 
+ q-bis.2) "gestore di FIA sotto soglia registrato" (GEFIA sotto soglia registrato): la societa' di gestione del risparmio sotto soglia registrata, la Sicaf sotto soglia registrata e la societa' di partenariato sotto soglia registrata; 
  q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
  q-quater) 'depositario dell'Oicr master o dell'Oicrfeeder': il depositario dell'Oicr master o dell'Oicr feeder ovvero, se l'Oicr master o l'Oicr feeder e' unOicr UE o non UE, il soggetto autorizzato nello Stato di origine a svolgere i compiti di depositario; 
- q-quinquies) (("quote e azioni di Oicr": le quote dei fondi comuni di investimento, le azioni di Sicav, le azioni e altri strumenti finanziari partecipativi di Sicaf e delle societa' di partenariato;))
-                                    
+ q-quinquies) "quote e azioni di Oicr": le quote dei fondi comuni di investimento, le azioni di Sicav, le azioni e altri strumenti finanziari partecipativi di Sicaf e delle societa' di partenariato; 
+
                                 
                             
                             
                                 r)
                                 
-                                    "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr ((autorizzate)), le societa' di gestione UE con succursale in Italia, ((le Sicav in gestione interna autorizzate, le Sicaf in gestione interna autorizzate, le societa' di partenariato in gestione interna autorizzate, i gestori di ELTIF, i gestori di FCM, nonche' i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani,)) i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonche' gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attivita' di investimento; (73) 
+                                    "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr autorizzate, le societa' di gestione UE con succursale in Italia, le Sicav in gestione interna autorizzate, le Sicaf in gestione interna autorizzate, le societa' di partenariato in gestione interna autorizzate, i gestori di ELTIF, i gestori di FCM, nonche' i gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e i gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, italiani, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonche' gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attivita' di investimento; (73) 
 
                                 
                             
@@ -374,8 +370,8 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del teso
                             
                                 v)
                                 
-                                    "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti e di ammontare complessivo superiori a quelli indicati nel regolamento previsto dall'articolo 100, comma 3, lettere b) e c); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari; 
-
+                                    "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti e di ammontare complessivo superiori a quelli indicati ((dalla Consob con proprio regolamento)); non costituisce offerta pubblica di acquisto o di scambio quella avente a oggetto titoli emessi dalle banche centrali degli Stati comunitari; ((134))
+                                    
                                 
                             
                             
@@ -457,16 +453,14 @@ Tale definizione non include: 1) i prodotti assicurativi non vita elencati all'a
                             
                                 w-novies)
                                 
-                                    
-                                        (("sistema di intelligenza artificiale": il sistema come definito dall'articolo 3, punto 1), del regolamento (UE) 2024/1689, del Parlamento e del Consiglio, del 13 giugno 2024;))
-                                    
+                                    "sistema di intelligenza artificiale": il sistema come definito dall'articolo 3, punto 1), del regolamento (UE) 2024/1689, del Parlamento e del Consiglio, del 13 giugno 2024; 
+
                                 
                             
                             
                                 w-decies)
                                 
-                                    
-                                        (("rischi informatici": qualunque circostanza ragionevolmente identificabile in relazione all'uso dei sistemi informatici e di rete che, qualora si concretizzi, puo' compromettere la sicurezza dei sistemi informatici e di rete, di eventuali strumenti o processi dipendenti dalle tecnologie, di operazioni e processi, oppure della fornitura dei servizi causando effetti avversi nell'ambiente digitale o fisico.))
+                                    "rischi informatici": qualunque circostanza ragionevolmente identificabile in relazione all'uso dei sistemi informatici e di rete che, qualora si concretizzi, puo' compromettere la sicurezza dei sistemi informatici e di rete, di eventuali strumenti o processi dipendenti dalle tecnologie, di operazioni e processi, oppure della fornitura dei servizi causando effetti avversi nell'ambiente digitale o fisico.
 
 1-bis.
                         
@@ -696,7 +690,7 @@ Per "servizio accessorio" si intende qualsiasi servizio riportato nella sezione 
 
 Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al consiglio di amministrazione, all'organo amministrativo ed agli amministratori si applicano anche al consiglio di gestione e ai suoi componenti.
 
-((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47)).
+COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47.
 
 Per "negoziazione algoritmica" si intende la negoziazione di strumenti finanziari in cui un algoritmo informatizzato determina automaticamente i parametri individuali degli ordini, come ad esempio l'avvio dell'ordine, la relativa tempistica, il prezzo, la quantita' o le modalita' di gestione dell'ordine dopo l'invio, con intervento umano minimo o assente, ad esclusione dei sistemi utilizzati unicamente per trasmettere ordini a una o piu' sedi di negoziazione, per trattare ordini che non comportano la determinazione di parametri di negoziazione, per confermare ordini o per eseguire il regolamento delle operazioni. (73)
 
@@ -944,7 +938,11 @@ Per "formato elettronico" si intende qualsiasi supporto durevole diverso dalla c
                             ---------------
                             AGGIORNAMENTO (132)
                             
- Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
+ Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026". 
+                            ---------------
+                            AGGIORNAMENTO (134)
+                            
+ Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 2) che "La Consob, entro centoventi giorni dall'entrata in vigore del presente decreto adotta le disposizioni attuative delle disposizioni del Testo unico in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come modificate dal presente decreto. Le disposizioni di cui all'articolo 2, comma 1, lettera a), si applicano a decorrere dalla data di entrata in vigore delle disposizioni attuative emanate dalla Consob ai sensi della medesima lettera, come modificata dal presente decreto".
 
 ## Art. 2. — (Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF)
 
@@ -11420,7 +11418,7 @@ L'offerta pubblica di titoli e' disciplinata dal regolamento prospetto e dalle d
 
 La Consob e' l'autorita' nazionale competente ai sensi dell'articolo 31 del regolamento di cui al comma 1.
 
-Coloro che intendono effettuare un'offerta al pubblico di titoli presentano la domanda di approvazione del prospetto alla Consob, allegandone una bozza. ((I termini per l'approvazione del prospetto previsti dall'articolo 20, paragrafi 2, 3 e 6, del regolamento prospetto decorrono dalla data di presentazione del progetto di prospetto. Qualora la Consob accerti che il progetto di prospetto non risponde ai criteri di completezza, comprensibilita' e coerenza necessari per la sua approvazione ovvero che sono necessarie modifiche o informazioni supplementari, si applicano la procedura e i termini di cui all'articolo 20, paragrafo 4, del regolamento prospetto secondo l'approccio proporzionato previsto dall'articolo 41 del regolamento delegato (UE) 2019/980 della Commissione, del 14 marzo 2019)).
+Coloro che intendono effettuare un'offerta al pubblico di titoli presentano la domanda di approvazione del prospetto alla Consob, allegandone una bozza. I termini per l'approvazione del prospetto previsti dall'articolo 20, paragrafi 2, 3 ((, 6 e 6-bis,)), del regolamento prospetto decorrono dalla data di presentazione del progetto di prospetto. Qualora la Consob accerti che il progetto di prospetto non risponde ai criteri di completezza, comprensibilita' e coerenza necessari per la sua approvazione ovvero che sono necessarie modifiche o informazioni supplementari, si applicano la procedura e i termini di cui all'articolo 20, paragrafo 4, del regolamento prospetto secondo l'approccio proporzionato previsto dall'articolo 41 del regolamento delegato (UE) 2019/980 della Commissione, del 14 marzo 2019.
 
 Al fine di assicurare l'efficienza del procedimento di approvazione del prospetto avente ad oggetto titoli bancari, la Consob stipula accordi di collaborazione con la Banca d'Italia.
 
@@ -11428,15 +11426,13 @@ L'emittente o l'offerente, a seconda dei casi, nonche' l'eventuale garante e le 
 
 Le persone responsabili del prospetto e degli eventuali supplementi ai sensi del comma 5, sono chiaramente indicate nel prospetto con i loro nomi e la loro funzione o, nel caso di persone giuridiche, con la denominazione e la sede legale; e' inoltre riportata una loro attestazione certificante che, per quanto a loro conoscenza, le informazioni del prospetto sono conformi ai fatti e che nel prospetto non vi sono omissioni tali da alterarne il senso.
 
-((COMMA ABROGATO DALLA L. 5 MARZO 2024, N. 21)).
+COMMA ABROGATO DALLA L. 5 MARZO 2024, N. 21.
 
 Nessuno puo' essere ritenuto civilmente responsabile esclusivamente in base alla nota di sintesi, redatta ai sensi dell'articolo 7 del regolamento prospetto o alla nota di sintesi specifica di un prospetto UE della crescita ai sensi dell'articolo 15, paragrafo 1, secondo comma, del medesimo regolamento, comprese le sue eventuali traduzioni, a meno che la nota di sintesi sia fuorviante, imprecisa o incoerente se letta insieme con altre parti del prospetto o non offra, se letta insieme con le altre parti del prospetto, le informazioni chiave per aiutare gli investitori al momento di valutare l'opportunita' di investire nei titoli.
 
 Le azioni risarcitorie sono esercitate entro cinque anni dalla pubblicazione del prospetto, salvo che l'investitore provi di avere scoperto le falsita' delle informazioni o le omissioni nei due anni precedenti l'esercizio dell'azione.
 
-## Art. 94-bis. — (( (Offerta al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti). ))
-
-((
+## Art. 94-bis. — (Offerta al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti)
 
 Coloro che intendono effettuare un'offerta al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti pubblicano preventivamente un prospetto. A tal fine, presentano la domanda di approvazione dello stesso alla Consob, allegandone la bozza. Il prospetto non puo' essere pubblicato finche' non e' approvato dalla Consob ai sensi dell'articolo 95, comma 1, lettera b). Il prospetto contiene, in una forma facilmente analizzabile e comprensibile, tutte le informazioni che, a seconda delle caratteristiche dell'emittente e dei prodotti finanziari offerti, siano rilevanti per un investitore affinche' possa procedere ad una valutazione con cognizione di causa della situazione patrimoniale, dei risultati economici, della situazione finanziaria e delle prospettive dell'emittente e degli eventuali garanti, nonche' dei diritti connessi ai titoli, delle ragioni dell'emissione e del suo impatto sull'emittente. Il prospetto contiene, altresi', una nota di sintesi la quale, concisamente e con linguaggio non tecnico, fornisce le informazioni chiave. Il formato e il contenuto della nota di sintesi forniscono, unitamente al prospetto, informazioni adeguate circa le caratteristiche fondamentali dei prodotti finanziari che aiutino gli investitori al momento di valutare se investire in tali prodotti.
 
@@ -11450,11 +11446,9 @@ La Consob pubblica nel proprio sito internet almeno un elenco dei prospetti appr
 
 Ove il prospetto non indichi il prezzo d'offerta definitivo o la quantita' di prodotti finanziari definitiva da offrire al pubblico, ne' siano presenti il prezzo massimo o la quantita' massima di prodotti finanziari o i metodi di valutazione ed i criteri o le condizioni in base ai quali il prezzo di offerta definitivo deve essere determinato, nonche' una spiegazione dei metodi di valutazione utilizzati, l'accettazione dell'acquisto o della sottoscrizione dei prodotti finanziari puo' essere revocata entro il termine indicato nel prospetto e comunque entro un termine non inferiore a due giorni lavorativi calcolati a decorrere dal momento in cui vengono depositati il prezzo d'offerta definitivo o la quantita' dei prodotti finanziari offerti al pubblico.
 
-Gli investitori che hanno gia' accettato di acquistare o sottoscrivere i prodotti finanziari prima della pubblicazione di un supplemento hanno il diritto, esercitabile entro due giorni lavorativi dopo tale pubblicazione, di revocare la loro accettazione, sempre che il fatto nuovo significativo, l'errore o l'imprecisione rilevante siano emersi o siano stati rilevati prima della chiusura del periodo di offerta o della consegna dei prodotti finanziari, se precedente. Tale termine puo' essere prorogato dall'emittente o dall'offerente. La data ultima entro la quale il diritto di revoca dell'accettazione e' esercitabile e' indicata nel supplemento.
+Gli investitori che hanno gia' accettato di acquistare o sottoscrivere i prodotti finanziari prima della pubblicazione di un supplemento hanno il diritto, esercitabile entro ((tre giorni)) lavorativi dopo tale pubblicazione, di revocare la loro accettazione, sempre che il fatto nuovo significativo, l'errore o l'imprecisione rilevante siano emersi o siano stati rilevati prima della chiusura del periodo di offerta o della consegna dei prodotti finanziari, se precedente. Tale termine puo' essere prorogato dall'emittente o dall'offerente. La data ultima entro la quale il diritto di revoca dell'accettazione e' esercitabile e' indicata nel supplemento.
 
 Alle offerte al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti si applica l'articolo 94, commi 5, 6, 7 e 9. Per la predisposizione della nota di sintesi, si applica il regime di responsabilita' previsto dal comma 8 dell'articolo 94.
-
-))
 
 ## Art. 95. — (Disposizioni di attuazione)
 
@@ -11472,6 +11466,15 @@ Alle offerte al pubblico di prodotti finanziari diversi dai titoli e dalle quote
                                 
                             
                             
+                                a-bis)
+                                
+                                    
+                                        ((per le offerte pubbliche di titoli in esenzione dall'obbligo del prospetto, ai sensi dell'articolo 3, paragrafi 2 e 2-quinquies, del regolamento prospetto, gli eventuali obblighi informativi in capo agli emittenti, purche' il controvalore di tali offerte sia superiore a otto milioni di euro;))
+                                        ((134))
+                                    
+                                
+                            
+                            
                                 b)
                                 
                                     con riferimento alle offerte di prodotti finanziari diversi dai titoli, la procedura e i termini di approvazione del prospetto, e degli eventuali supplementi, nonche' il contenuto della domanda di approvazione alla Consob, prevista dall'articolo 94-bis, comma 1, la Consob puo', stabilire con regolamento il contenuto del prospetto in relazione a particolari categorie di prodotti finanziari; 
@@ -11481,7 +11484,7 @@ Alle offerte al pubblico di prodotti finanziari diversi dai titoli e dalle quote
                             
                                 c)
                                 
-                                    le modalita' da osservare per diffondere notizie, per svolgere indagini di mercato ovvero per raccogliere intenzioni di acquisto o di sottoscrizione ((, fermo restando quanto previsto dall'articolo 42-bis)); 
+                                    le modalita' da osservare per diffondere notizie, per svolgere indagini di mercato ovvero per raccogliere intenzioni di acquisto o di sottoscrizione, fermo restando quanto previsto dall'articolo 42-bis; 
 
                                 
                             
@@ -11500,6 +11503,11 @@ Alle offerte al pubblico di prodotti finanziari diversi dai titoli e dalle quote
 La Consob individua con regolamento le norme di correttezza che sono tenuti ad osservare l'emittente, l'offerente e gli intermediari finanziari incaricati dell'offerta pubblica di prodotti finanziari nonche' coloro che si trovano in rapporto di controllo o di collegamento con tali soggetti.
 
 Con proprio regolamento la Consob puo' stabilire, secondo un criterio di proporzionalita' degli oneri amministrativi a carico degli emittenti, i casi in cui vige l'obbligo di sostituzione previsto dall'articolo 7, paragrafo 7, secondo comma, del regolamento prospetto.
+
+---------------
+                            AGGIORNAMENTO (134)
+                            
+ Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 5 giugno 2026.
 
 ## Art. 95-bis.
 
@@ -11715,13 +11723,11 @@ Qualora sussista fondato sospetto di violazione delle disposizioni contenute nel
 
 ))
 
-## Art. 100. — (( (Casi di esenzione). ))
-
-((
+## Art. 100. — (Casi di esenzione)
 
 Le disposizioni del presente Capo non si applicano alle offerte di cui all'articolo 1, paragrafo 2, lettere da b) a f), del regolamento prospetto.
 
-Sono esentate dall'obbligo di pubblicazione del prospetto, ove ricorrano le condizioni di cui all'articolo 3, paragrafo 2, del regolamento prospetto, le offerte di titoli di ammontare complessivo non superiore a quello indicato dalla Consob, comunque nei limiti di importo monetario compreso tra un minimo di 1 milione di euro e un massimo di 8 milioni di euro, con il regolamento di cui alla lettera c) del comma 3.
+Sono esentate dall'obbligo di pubblicazione del prospetto ((le offerte al pubblico di titoli)), ove ricorrano le condizioni di cui all'articolo 3, paragrafo 2, del regolamento prospetto ((...)). ((134))
 
 3.
                         
@@ -11757,7 +11763,10 @@ Sono esentate dall'obbligo di pubblicazione del prospetto, ove ricorrano le cond
 
 La Consob puo' individuare con regolamento le offerte al pubblico di prodotti finanziari diversi dai titoli alle quali le disposizioni del presente Capo non si applicano in tutto o in parte.
 
-))
+---------------
+                            AGGIORNAMENTO (134)
+                            
+ Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 5 giugno 2026.
 
 ## Art. 100-bis. — ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
@@ -15991,11 +16000,9 @@ Non puo' essere assoggettato a sanzione amministrativa ai sensi del presente art
                             
  La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-## Art. 187-ter.1. — (( (Sanzioni relative alle violazioni delle disposizioni del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014). ))
+## Art. 187-ter.1. — (Sanzioni relative alle violazioni delle disposizioni del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014)
 
-((
-
-Nei confronti di un ente o di una societa', in caso di violazione degli obblighi previsti dall'articolo 16, paragrafi 1 e 2, dall'articolo 17, paragrafi 1, 2, 4, 5 e 8, del regolamento (UE) n. 596/2014, dagli atti delegati e dalle relative norme tecniche di regolamentazione e di attuazione, nonche' dell'articolo 114, comma 3, del presente decreto, si applica una sanzione amministrativa pecuniaria da cinquemila euro fino a duemilionicinquecentomila euro, ovvero al due per cento del fatturato, quando tale importo e' superiore a duemilionicinquecentomila euro e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
+Nei confronti di un ente o di una societa', in caso di violazione degli obblighi previsti dall'articolo 16, paragrafi 1 e 2, dall'articolo 17, paragrafi 1, 2, 4, 5 e 8, del regolamento (UE) n. 596/2014, dagli atti delegati e dalle relative norme tecniche di regolamentazione e di attuazione, nonche' dell'articolo 114, comma 3, del presente decreto, si applica una sanzione amministrativa pecuniaria da cinquemila euro fino a duemilionicinquecentomila euro, ovvero al due per cento del fatturato, quando tale importo e' superiore a duemilionicinquecentomila euro e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
 Se le violazioni indicate dal comma 1 sono commesse da una persona fisica, si applica nei confronti di quest'ultima una sanzione amministrativa pecuniaria da cinquemila euro fino a un milione di euro.
 
@@ -16009,49 +16016,29 @@ Fermo quanto previsto dal comma 4, la sanzione indicata dal comma 5 si applica n
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al triplo dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
 
-8.
-                        
-                            
-                                La Consob, anche unitamente alle sanzioni amministrative pecuniarie previste dal presente articolo, puo' applicare una o piu' delle misure amministrative previste dall'articolo 30, paragrafo 2, lettere da 
-                            
-                            
-                                a)
-                                
-                                    a g), del regolamento (UE) n. 596/2014.
+La Consob, anche unitamente alle sanzioni amministrative pecuniarie previste dal presente articolo, puo' applicare una o piu' delle misure amministrative previste dall'articolo 30, paragrafo 2, lettere da a ) a g), del regolamento (UE) n. 596/2014. ((Resta ferma la facolta' di disporre la confisca di cui all'articolo 187-sexies.))
+                                ((135))
 
-9.
-                        
-                            
-                                Quando le infrazioni sono connotate da scarsa offensivita' o pericolosita', in luogo delle sanzioni pecuniarie previste dal presente articolo, la Consob, ferma la facolta' di disporre la confisca di cui all'art. 187-sexies, puo' applicare una delle seguenti misure amministrative: 
- 
-                            
-                            
-                                a)
-                                
-                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle; 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    una dichiarazione pubblica avente ad oggetto la violazione commessa e il soggetto responsabile, quando l'infrazione contestata e' cessata.
+((COMMA ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)). ((135))
 
 L'inosservanza degli obblighi prescritti con le misure di cui all'articolo 30, paragrafo 2, del regolamento (UE) n. 596/2014, entro il termine stabilito, importa l'aumento fino ad un terzo della sanzione amministrativa pecuniaria irrogata ovvero l'applicazione della sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.
 
-Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applicano gli articoli 6, 10, 11 e 16 della legge 24 novembre 1981, n. 689.
+((COMMA ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)). ((135))
 
-))
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 187-quater. — (Sanzioni amministrative accessorie).
-
-((
 
 1.
                         
                             
-                                L'applicazione delle sanzioni amministrative pecuniarie previste dagli articoli 187-bis e 187-ter importa: 
- 
+                                
+                                    ((La Consob, con il provvedimento di applicazione delle sanzioni amministrative previste per la violazione dei divieti di cui dagli articoli 14 e 15 del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile, 2014, puo' applicare:))
+                                    ((135))
+                                
                             
                             
                                 a)
@@ -16086,42 +16073,31 @@ Alle sanzioni amministrative pecuniarie previste dal presente articolo non si ap
                                 
                                     la perdita temporanea dei requisiti di onorabilita' per i partecipanti al capitale dei soggetti indicati alla lettera a).
 
-))
-
-((
-
 Fermo quanto previsto dal comma 1, la Consob, con il provvedimento di applicazione delle sanzioni amministrative pecuniarie previste dall'articolo 187-ter.1, puo' applicare le sanzioni amministrative accessorie indicate dal comma 1, lettere a) e b).
-
-))
-
-((
 
 Le sanzioni amministrative accessorie di cui ai commi 1 e 1-bis hanno una durata non inferiore a due mesi e non superiore a tre anni.
 
-))
-
-((
-
 Quando l'autore dell'illecito ha gia' commesso, due o piu' volte negli ultimi dieci anni, uno dei reati previsti nel Capo II ovvero una violazione, con dolo o colpa grave, delle disposizioni previste dagli articoli 187-bis e 187-ter, si applica la sanzione amministrativa accessoria dell'interdizione permanente dallo svolgimento delle funzioni di amministrazione, direzione e controllo all'interno dei soggetti indicati nel comma 1, lettere a) e b), nel caso in cui al medesimo soggetto sia stata gia' applicata l'interdizione per un periodo complessivo non inferiore a cinque anni.
 
-))
-
-Con il provvedimento di applicazione delle sanzioni amministrative pecuniarie previste dal presente capo la CONSOB, tenuto conto della gravita' della violazione e del grado della colpa, puo' intimare ai soggetti abilitati, ((ai gestori)) del mercato, agli emittenti quotati e alle societa' di revisione di non avvalersi, nell'esercizio della propria attivita' e per un periodo non superiore a tre anni, dell'autore della violazione, e richiedere ai competenti ordini professionali la temporanea sospensione del soggetto iscritto all'ordine dall'esercizio dell'attivita' professionale ((, nonche' applicare nei confronti dell'autore della violazione l'interdizione temporanea dalla conclusione di operazioni, ovvero alla immissione di ordini di compravendita in contropartita diretta di strumenti finanziari, per un periodo non superiore a tre anni)). 
+Con il provvedimento di applicazione delle sanzioni amministrative pecuniarie previste dal presente capo la CONSOB, tenuto conto della gravita' della violazione e del grado della colpa, puo' intimare ai soggetti abilitati, ai gestori del mercato, agli emittenti quotati e alle societa' di revisione di non avvalersi, nell'esercizio della propria attivita' e per un periodo non superiore a tre anni, dell'autore della violazione, e richiedere ai competenti ordini professionali la temporanea sospensione del soggetto iscritto all'ordine dall'esercizio dell'attivita' professionale, nonche' applicare nei confronti dell'autore della violazione l'interdizione temporanea dalla conclusione di operazioni, ovvero alla immissione di ordini di compravendita in contropartita diretta di strumenti finanziari, per un periodo non superiore a tre anni. 
  
  (12)
 
 ---------------
                             AGGIORNAMENTO (12)
                             
- La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
+ La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 187-quinquies. — (Responsabilita' dell'ente).
 
 1.
                         
                             
-                                
-                                    ((L'ente e' punito con la sanzione amministrativa pecuniaria da ventimila euro fino a quindici milioni di euro, ovvero fino al quindici per cento del fatturato, quando tale importo e' superiore a quindici milioni di euro e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, nel caso in cui sia commessa nel suo interesse o a suo vantaggio una violazione del divieto di cui all'articolo 14 o del divieto di cui all'articolo 15 del regolamento (UE) n. 596/2014:))
+                                L'ente e' punito con la sanzione amministrativa pecuniaria da ventimila euro fino a quindici milioni di euro, ovvero fino al quindici per cento del fatturato, quando tale importo e' superiore a quindici milioni di euro e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), nel caso in cui sia commessa nel suo interesse o a suo vantaggio una violazione del divieto di cui all'articolo 14 o del divieto di cui all'articolo 15 del regolamento (UE) n. 596/2014: ((135))
                                 
                             
                             
@@ -16147,17 +16123,24 @@ In relazione agli illeciti di cui al comma 1 si applicano, in quanto compatibili
 ---------------
                             AGGIORNAMENTO (12)
                             
- La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
+ La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 187-sexies. — (Confisca).
 
-L'applicazione delle sanzioni amministrative pecuniarie previste dal presente capo importa la confisca del prodotto o del profitto dell'illecito.
+L'applicazione delle sanzioni amministrative ((...)) previste dal presente capo importa la confisca ((di una somma di denaro pari al profitto dell'illecito)). ((135))
 
 Qualora non sia possibile eseguire la confisca a norma del comma 1, la stessa puo' avere ad oggetto somme di denaro, beni o altre utilita' di valore equivalente.
 
-In nessun caso puo' essere disposta la confisca di beni che non appartengono ad una delle persone cui e' applicata la sanzione amministrativa pecuniaria. 
+In nessun caso puo' essere disposta la confisca di beni che non appartengono ad una delle persone cui e' applicata la sanzione amministrativa pecuniaria.
+
+((In luogo della confisca di cui al comma 1, con il provvedimento di applicazione delle sanzioni amministrative previste dal presente capo puo' ingiungersi, a titolo di sanzione pecuniaria accessoria, il pagamento di una somma di denaro pari al profitto dell'illecito.))
+                                ((135)) 
  
- (12) (81)((87))
+ (12) (81)(87)
 
 ---------------
                             AGGIORNAMENTO (12)
@@ -16170,89 +16153,31 @@ In nessun caso puo' essere disposta la confisca di beni che non appartengono ad 
                             ---------------
                             AGGIORNAMENTO (87)
                             
- La Corte Costituzionale, con sentenza 6 marzo - 10 maggio 2019, n. 112 (in G.U. 1ª s.s. 15/05/2019, n. 20), ha dichiarato "l'illegittimita' costituzionale dell'art. 187-sexies del d.lgs. n. 58 del 1998, nel testo originariamente introdotto dall'art. 9, comma 2, lettera a), della legge 18 aprile 2005, n. 62 [...], nella parte in cui prevede la confisca obbligatoria, diretta o per equivalente, del prodotto dell'illecito e dei beni utilizzati per commetterlo, e non del solo profitto" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...], l'illegittimita' costituzionale dell'art. 187-sexies del d.lgs. n. 58 del 1998, nella versione risultante dalle modifiche apportate dall'art. 4, comma 14, del decreto legislativo 10 agosto 2018, n. 107, recante «Norme di adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 596/2014, relativo agli abusi di mercato e che abroga la direttiva 2003/6/CE e le direttive 2003/124/UE, 2003/125/CE e 2004/72/CE», nella parte in cui prevede la confisca obbligatoria, diretta o per equivalente, del prodotto dell'illecito, e non del solo profitto".
-
-## Art. 187-septies. — (Procedura sanzionatoria).
-
-((61))
-                                ((84))
-
-Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie.
-
-((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72)).((61))
-                                ((84))
-
-((4. Avverso il provvedimento che applica la sanzione e' ammesso ricorso alla corte d'appello nella cui circoscrizione e' la sede legale o la residenza dell'opponente. Se l'opponente non ha la sede legale o la residenza nello Stato, e' competente la corte d'appello del luogo in cui e' stata commessa la violazione. Quando tali criteri non risultano applicabili, e' competente la corte d'appello di Roma.
-Il ricorso e' notificato, a pena di decadenza, all'Autorita' che ha emesso il provvedimento nel termine di trenta giorni dalla comunicazione del provvedimento impugnato, ovvero sessanta giorni se il ricorrente risiede all'estero, ed e' depositato in cancelleria, unitamente ai documenti offerti in comunicazione, nel termine perentorio di trenta giorni dalla notifica.))
-
-((61))
-
-((84))
-
-L'opposizione non sospende l'esecuzione del provvedimento. La corte d'appello, se ricorrono gravi motivi, puo' disporre la sospensione con ((ordinanza non impugnabile.)) (55) (46) ((61))
-                                ((84))
-
-((6. Il Presidente della corte d'appello designa il giudice relatore e fissa con decreto l'udienza pubblica per la discussione dell'opposizione. Il decreto e' notificato alle parti a cura della cancelleria almeno sessanta giorni prima dell'udienza. L'Autorita' deposita memorie e documenti nel termine di dieci giorni prima dell'udienza. Se alla prima udienza l'opponente non si presenta senza addurre alcun legittimo impedimento, il giudice, con ordinanza ricorribile per Cassazione, dichiara il ricorso improcedibile, ponendo a carico dell'opponente le spese del procedimento.))
-
-((61))
-
-((84))
-
-((6-bis. All'udienza la corte d'appello dispone, anche d'ufficio, i mezzi di prova che ritiene necessari, nonche' l'audizione personale delle parti che ne abbiano fatto richiesta. Successivamente le parti procedono alla discussione orale della causa. La sentenza e' depositata in cancelleria entro sessanta giorni. Quando almeno una delle parti manifesta l'interesse alla pubblicazione anticipata del dispositivo rispetto alla sentenza, il dispositivo e' pubblicato mediante deposito in cancelleria non oltre sette giorni dall'udienza di discussione))
-
-((61))
-
-((84))
-
-((6-ter. Con la sentenza la corte d'appello puo' rigettare l'opposizione, ponendo a carico dell'opponente le spese del procedimento o accoglierla, annullando in tutto o in parte il provvedimento o riducendo l'ammontare o la durata della sanzione.))
-
-((61))
-
-((84))
-
-((7. Copia della sentenza e' trasmessa, a cura della cancelleria della corte d'appello, all'Autorita' che ha emesso il provvedimento, anche ai fini della pubblicazione prevista dall'articolo 195-bis.))
-
-((61))
-
-((84))
-
-Alle sanzioni amministrative pecuniarie previste dal presente capo non si applica l'articolo 16 della legge 24 novembre 1981, n. 689. (55) (46) 
- 
- (12)((61))
-
----------------
-                            AGGIORNAMENTO (12)
-                            
- La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito". 
+ La Corte Costituzionale, con sentenza 6 marzo - 10 maggio 2019, n. 112 (in G.U. 1ª s.s. 15/05/2019, n. 20), ha dichiarato "l'illegittimita' costituzionale dell'art. 187-sexies del d.lgs. n. 58 del 1998, nel testo originariamente introdotto dall'art. 9, comma 2, lettera a), della legge 18 aprile 2005, n. 62 [...], nella parte in cui prevede la confisca obbligatoria, diretta o per equivalente, del prodotto dell'illecito e dei beni utilizzati per commetterlo, e non del solo profitto" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...], l'illegittimita' costituzionale dell'art. 187-sexies del d.lgs. n. 58 del 1998, nella versione risultante dalle modifiche apportate dall'art. 4, comma 14, del decreto legislativo 10 agosto 2018, n. 107, recante «Norme di adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 596/2014, relativo agli abusi di mercato e che abroga la direttiva 2003/6/CE e le direttive 2003/124/UE, 2003/125/CE e 2004/72/CE», nella parte in cui prevede la confisca obbligatoria, diretta o per equivalente, del prodotto dell'illecito, e non del solo profitto". 
                             -------------
-                            AGGIORNAMENTO (55)
+                            AGGIORNAMENTO (135)
                             
- Successivamente la Corte Costituzionale, con sentenza 9 - 15 aprile 2014, n. 94 (in G.U. 1a s.s. 23/04/2014, n. 18), ha dichiarato l'illegittimita' costituzionale dell'art. 4, comma 1, numero 19), dell'Allegato 4 del D.Lgs. 2 luglio 2010, n. 104, nella parte in cui abroga i commi da 4 a 8 del presente articolo. 
-                            -------------
-                            AGGIORNAMENTO (46)
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 187-septies. — (( (Procedura sanzionatoria).))
+
+
+
+((Alle sanzioni amministrative pecuniarie previste dal presente capo non si applicano gli articoli 6, 10, 11 e 16 della legge 24 novembre 1981, n. 689.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
                             
- Il D.Lgs. 2 luglio 2010, n. 104, come modificato dal D.Lgs. 14 settembre 2012, n. 160, non prevede piu' (con l'art. 4, comma 1 dell'allegato 4) l'abrogazione dei commi da 4 a 8 del presente articolo. 
-                            -------------
-                            AGGIORNAMENTO (61)
-                            
- Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia secondo le rispettive competenze ai sensi dell'articolo 196-bis del decreto legislativo 24 febbraio 1998, n. 58. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia continuano ad applicarsi le norme della parte V del decreto legislativo 24 febbraio 1998, n. 58 vigenti prima della data di entrata in vigore del presente decreto legislativo". 
- Ha inoltre disposto (con l'art. 6, comma 8) che "Le modifiche dell'articolo 187-septies, commi 4, 5, 6, 6-bis, 6-ter,7, 8 e 9, del decreto legislativo 24 febbraio 1998, n. 58, si applicano ai giudizi proposti a decorrere dall'entrata in vigore del presente decreto legislativo". 
-                            -------------
-                            AGGIORNAMENTO (84)
-                            
- Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo nei commi 1, 3, 4, 5, 6, 6-bis, 6-ter e 7) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998".
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## - ((CAPO IV POTERI DELLA CONSOB))
 
 ## Art. 187-octies. — (Poteri della CONSOB).
 
-((
-
 La Consob e' l'autorita' nazionale competente ai sensi dell'articolo 22 del regolamento (UE) n. 596/2014, relativo agli abusi di mercato.
 
-))
-
-La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni delle disposizioni ((contenute nel regolamento (UE) n. 596/2014 e nel)) presente titolo, utilizzando i poteri ad essa attribuiti dal presente decreto.
+La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni delle disposizioni contenute nel regolamento (UE) n. 596/2014 e nel presente titolo, utilizzando i poteri ad essa attribuiti dal presente decreto.
 
 3.
                         
@@ -16270,7 +16195,8 @@ La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni dell
                             
                                 b)
                                 
-                                    richiedere le registrazioni esistenti relative a conversazioni telefoniche, a comunicazioni elettroniche e allo scambio di dati, stabilendo il termine per la relativa trasmissione;
+                                    richiedere le registrazioni esistenti relative a conversazioni telefoniche, a comunicazioni elettroniche e allo scambio di dati, stabilendo il termine per la relativa trasmissione; 
+
                                 
                             
                             
@@ -16283,7 +16209,8 @@ La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni dell
                             
                                 c-bis)
                                 
-                                    in relazione a strumenti derivati su merci, richiedere dati sulle operazioni e accedere direttamente ai sistemi dei partecipanti al mercato;
+                                    in relazione a strumenti derivati su merci, richiedere dati sulle operazioni e accedere direttamente ai sistemi dei partecipanti al mercato; 
+
                                 
                             
                             
@@ -16296,7 +16223,7 @@ La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni dell
                             
                                 e)
                                 
-                                    procedere ad ispezioni ((, anche mediante autorizzazione di revisori legali o societa' di revisione legale a procedere a verifiche o ispezioni per suo conto quando sussistono particolari necessita' e non sia possibile provvedere con risorse proprie; il soggetto autorizzato a procedere alle predette verifiche ed ispezioni agisce in veste di pubblico ufficiale)); 
+                                    procedere ad ispezioni , anche mediante autorizzazione di revisori legali o societa' di revisione legale a procedere a verifiche o ispezioni per suo conto quando sussistono particolari necessita' e non sia possibile provvedere con risorse proprie; il soggetto autorizzato a procedere alle predette verifiche ed ispezioni agisce in veste di pubblico ufficiale; 
 
                                 
                             
@@ -16321,13 +16248,14 @@ La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni dell
                             
                                 a-bis)
                                 
-                                    accedere direttamente, mediante apposita connessione telematica, ai dati contenuti negli elenchi di cui all'articolo 55, comma 7, del decreto legislativo 1° agosto 2003, n. 259;
+                                    accedere direttamente, mediante apposita connessione telematica, ai dati contenuti negli elenchi di cui all'articolo 55, comma 7, del decreto legislativo 1° agosto 2003, n. 259; 
+
                                 
                             
                             
                                 b)
                                 
-                                    chiedere l'acquisizione presso il fornitore dei dati relativi al traffico di cui al decreto legislativo 30 giugno 2003, n. 196 ((, o acquisire direttamente tali dati mediante connessione telematica)); 
+                                    chiedere l'acquisizione presso il fornitore dei dati relativi al traffico di cui al decreto legislativo 30 giugno 2003, n. 196, o acquisire direttamente tali dati mediante connessione telematica; 
 
                                 
                             
@@ -16357,9 +16285,7 @@ La CONSOB compie tutti gli atti necessari all'accertamento delle violazioni dell
                                 
                                     avvalersi, ove necessario, anche mediante connessione telematica, dei dati contenuti nell'apposita sezione dell'anagrafe tributaria di cui all'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605.
 
-I poteri di cui al comma 3, lettere d) e f), e al comma 4, lettera b), sono esercitati previa autorizzazione del procuratore della Repubblica. Detta autorizzazione e' necessaria anche in caso di esercizio dei poteri di cui al comma 3, lettere b) ed e), e al comma 4, lettera c), nei confronti di soggetti diversi dai soggetti abilitati ((e dagli altri soggetti vigilati ai sensi del regolamento (UE) n. 596/2014 e del presente decreto)).
-
-((
+I poteri di cui al comma 3, lettere d) e f), e al comma 4, lettera b), sono esercitati previa autorizzazione del procuratore della Repubblica. Detta autorizzazione e' necessaria anche in caso di esercizio dei poteri di cui al comma 3, lettere b) ed e), e al comma 4, lettera c), nei confronti di soggetti diversi dai soggetti abilitati e dagli altri soggetti vigilati ai sensi del regolamento (UE) n. 596/2014 e del presente decreto.
 
 6.
                         
@@ -16378,8 +16304,6 @@ I poteri di cui al comma 3, lettere d) e f), e al comma 4, lettera b), sono eser
                                 b)
                                 
                                     salvo quanto previsto dall'articolo 114, comma 5, adottare tutte le misure necessarie a garantire che il pubblico sia correttamente informato con riguardo, tra l'altro, alla correzione di informazioni false o fuorvianti precedentemente divulgate, anche imponendo ai soggetti interessati di pubblicare una dichiarazione di rettifica.
-
-))
 
 E' fatta salva l'applicazione delle disposizioni degli articoli 199, 200, 201, 202 e 203 del codice di procedura penale, in quanto compatibili.
 
@@ -16412,8 +16336,8 @@ Sull'opposizione la decisione e' adottata con provvedimento motivato emesso entr
                             
                                 c)
                                 
-                                    l'atto di contestazione degli addebiti non e' notificato nei termini prescritti dall'articolo ((187-septies, comma 1)); 
-
+                                    l'atto di contestazione degli addebiti non e' notificato nei termini prescritti dall'articolo ((195, comma 1)); ((135))
+                                    
                                 
                             
                             
@@ -16434,7 +16358,11 @@ Quando l'autore della violazione esercita un'attivita' professionale, il provved
 ---------------
                             AGGIORNAMENTO (12)
                             
- La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
+ La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 187-novies. — ((ARTICOLO ABROGATO DAL D.LGS. 10 AGOSTO 2018, N. 107))
 
@@ -16474,14 +16402,21 @@ Nei procedimenti per i reati previsti dagli articoli 184 e 185, la CONSOB eserci
                             
  La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-## Art. 187-duodecies. — (( (Rapporti tra procedimento penale e procedimento amministrativo e di opposizione). ))
+## Art. 187-duodecies. — Rapporti tra procedimento penale e procedimento amministrativo e di opposizione).
 
-((12))
+Il procedimento amministrativo di accertamento e il procedimento ((avverso il provvedimento che irroga la sanzione instaurato ai sensi dell'articolo 195)) non possono essere sospesi per la pendenza del procedimento penale avente ad oggetto i medesimi fatti o fatti dal cui accertamento dipende la relativa definizione. ((135)) 
+ 
+ (12)
 
 ---------------
                             AGGIORNAMENTO (12)
                             
- La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
+ La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito". 
+ 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 187-terdecies. — (( (Applicazione ed esecuzione delle sanzioni penali ed amministrative). ))
 
@@ -16511,11 +16446,11 @@ Fuori dai casi previsti dall'articolo 2638 del codice civile, e' punito ai sensi
 
 Se la violazione e' commessa da una persona fisica, si applica nei confronti di quest'ultima la sanzione amministrativa pecuniaria da euro diecimila fino a euro cinque milioni. (73)
 
-Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro diecimila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, si applica la sanzione amministrativa pecuniaria prevista dal comma 1-bis nei confronti degli esponenti aziendali e del personale della societa' o dell'ente nei casi previsti dall'articolo 190-bis, comma 1, lettera a). (73)
+Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro diecimila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, si applica la sanzione amministrativa pecuniaria prevista dal comma 1-bis nei confronti degli esponenti aziendali e del personale della societa' o dell'ente nei casi previsti dall'articolo 190-bis, comma 1, lettera a). (73) ((135))
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. (73) 
  
- ((105))
+ (105)
 
 ---------------
                             AGGIORNAMENTO (73)
@@ -16528,11 +16463,15 @@ Se il vantaggio ottenuto dall'autore della violazione come conseguenza della vio
  La Corte Costituzionale, con sentenza 13 - 30 aprile 2021, n. 84 (in G.U. 1ª s.s. 05/05/2021, n. 18), ha dichiarato: 
  - "l'illegittimita' costituzionale dell'art. 187-quinquiesdecies del decreto legislativo 24 febbraio 1998, n. 58 (Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52), nel testo originariamente introdotto dall'art. 9, comma 2, lettera b), della legge 18 aprile 2005, n. 62 (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004), nella parte in cui si applica anche alla persona fisica che si sia rifiutata di fornire alla CONSOB risposte che possano far emergere la sua responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo, ovvero per un reato"; 
  - "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 187-quinquiesdecies del d.lgs. n. 58 del 1998, nel testo modificato dall'art. 24, comma 1, lettera c), del decreto-legge 18 ottobre 2012, n. 179 (Ulteriori misure urgenti per la crescita del Paese), convertito, con modificazioni, nella legge 17 dicembre 2012, n. 221, nella parte in cui si applica anche alla persona fisica che si sia rifiutata di fornire alla Banca d'Italia o alla CONSOB risposte che possano far emergere la sua responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo, ovvero per un reato"; 
- - "in via consequenziale, ai sensi dell'art. 27 della legge n. 87 del 1953, l'illegittimita' costituzionale dell'art. 187-quinquiesdecies del d.lgs. n. 58 del 1998, nel testo modificato dall'art. 5, comma 3, del decreto legislativo 3 agosto 2017, n. 129, recante «Attuazione della direttiva 2014/65/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014, relativa ai mercati degli strumenti finanziari e che modifica la direttiva 2002/92/CE e la direttiva 2011/61/UE, cosi', come modificata dalla direttiva 2016/1034/UE del Parlamento europeo e del Consiglio, del 23 giugno 2016, e di adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, sui mercati degli strumenti finanziari e che modifica il regolamento (UE) n. 648/2012, cosi' come modificato dal regolamento (UE) 2016/1033 del Parlamento europeo e del Consiglio, del 23 giugno 2016», nella parte in cui si applica anche alla persona fisica che si sia rifiutata di fornire alla Banca d'Italia o alla CONSOB risposte che possano far emergere la sua responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo, ovvero per un reato".
+ - "in via consequenziale, ai sensi dell'art. 27 della legge n. 87 del 1953, l'illegittimita' costituzionale dell'art. 187-quinquiesdecies del d.lgs. n. 58 del 1998, nel testo modificato dall'art. 5, comma 3, del decreto legislativo 3 agosto 2017, n. 129, recante «Attuazione della direttiva 2014/65/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014, relativa ai mercati degli strumenti finanziari e che modifica la direttiva 2002/92/CE e la direttiva 2011/61/UE, cosi', come modificata dalla direttiva 2016/1034/UE del Parlamento europeo e del Consiglio, del 23 giugno 2016, e di adeguamento della normativa nazionale alle disposizioni del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, sui mercati degli strumenti finanziari e che modifica il regolamento (UE) n. 648/2012, cosi' come modificato dal regolamento (UE) 2016/1033 del Parlamento europeo e del Consiglio, del 23 giugno 2016», nella parte in cui si applica anche alla persona fisica che si sia rifiutata di fornire alla Banca d'Italia o alla CONSOB risposte che possano far emergere la sua responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo, ovvero per un reato". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 188. — (Abuso di denominazione)
 
-L'uso, nella denominazione o in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, delle parole: "Sim" o "societa' di intermediazione mobiliare" o "impresa di investimento"; "Sgr" o "societa' di gestione del risparmio"; "Sicav" o "societa' di investimento a capitale variabile"; "Sicaf" o "societa' di investimento a capitale fisso"; "Eu-VECA" o "fondo europeo per il venture capital"; "Eu-SEF" o "fondo europeo per l'imprenditoria sociale"; "ELTIF" o "fondo di investimento europeo a lungo termine"; "FCM" o "fondo comune monetario"; "APA" o "dispositivo di pubblicazione autorizzato" a cui si applicherebbe la deroga prevista dall'articolo 2, paragrafo 3, del regolamento (UE) n. 600/2014 e dai relativi atti delegati; "ARM" o "meccanismo di segnalazione autorizzato" a cui si applicherebbe la deroga prevista dall'articolo 2, paragrafo 3, del regolamento (UE) n. 600/2014 e dai relativi atti delegati; "mercato regolamentato"; "mercato di crescita per le piccole e medie imprese"; ovvero di altre parole o locuzioni, anche in lingua straniera, idonee a trarre in inganno sulla legittimazione allo svolgimento dei servizi o delle attivita' di investimento o del servizio di gestione collettiva del risparmio o della gestione di un APA o di un ARM o dell'attivita' di gestione di mercati regolamentati e' vietato a soggetti diversi, rispettivamente, dalle imprese di investimento, dalle societa' di gestione del risparmio, dalle Sicav, dalle Sicaf, dai soggetti abilitati a tenore dei regolamenti (UE) n. 345/2013, relativo ai fondi europei per il venture capital (EuVECA), n. 346/2013, relativo ai fondi europei per l'imprenditoria sociale (EuSEF), ((2015/760, relativo ai fondi di investimento europei a lungo termine, e 2017/1131)), relativo ai fondi comuni monetari, dai soggetti di cui all'articolo 79, dai mercati regolamentati e dai sistemi registrati come un mercato di crescita per le piccole e medie imprese, ai sensi del presente decreto. Chiunque contravviene al divieto previsto dal presente articolo e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
+L'uso, nella denominazione o in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, delle parole: "Sim" o "societa' di intermediazione mobiliare" o "impresa di investimento"; "Sgr" o "societa' di gestione del risparmio"; "Sicav" o "societa' di investimento a capitale variabile"; "Sicaf" o "societa' di investimento a capitale fisso"; "Eu-VECA" o "fondo europeo per il venture capital"; "Eu-SEF" o "fondo europeo per l'imprenditoria sociale"; "ELTIF" o "fondo di investimento europeo a lungo termine"; "FCM" o "fondo comune monetario"; "APA" o "dispositivo di pubblicazione autorizzato" a cui si applicherebbe la deroga prevista dall'articolo 2, paragrafo 3, del regolamento (UE) n. 600/2014 e dai relativi atti delegati; "ARM" o "meccanismo di segnalazione autorizzato" a cui si applicherebbe la deroga prevista dall'articolo 2, paragrafo 3, del regolamento (UE) n. 600/2014 e dai relativi atti delegati; "mercato regolamentato"; "mercato di crescita per le piccole e medie imprese"; ovvero di altre parole o locuzioni, anche in lingua straniera, idonee a trarre in inganno sulla legittimazione allo svolgimento dei servizi o delle attivita' di investimento o del servizio di gestione collettiva del risparmio o della gestione di un APA o di un ARM o dell'attivita' di gestione di mercati regolamentati e' vietato a soggetti diversi, rispettivamente, dalle imprese di investimento, dalle societa' di gestione del risparmio, dalle Sicav, dalle Sicaf, dai soggetti abilitati a tenore dei regolamenti (UE) n. 345/2013, relativo ai fondi europei per il venture capital (EuVECA), n. 346/2013, relativo ai fondi europei per l'imprenditoria sociale (EuSEF), 2015/760, relativo ai fondi di investimento europei a lungo termine, e 2017/1131, relativo ai fondi comuni monetari, dai soggetti di cui all'articolo 79, dai mercati regolamentati e dai sistemi registrati come un mercato di crescita per le piccole e medie imprese, ai sensi del presente decreto. Chiunque contravviene al divieto previsto dal presente articolo e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
 Si applica l'articolo 187-quinquiesdecies, comma 1-quater. 
  (73)
@@ -16549,11 +16488,15 @@ Si applica l'articolo 187-quinquiesdecies, comma 1-quater.
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 189. — (Partecipazioni al capitale)
 
-La violazione degli obblighi di comunicazione previsti dagli articoli 15, commi 1 e 3, 64-bis, comma 2, e delle relative disposizioni attuative, e di quelli richiesti ai sensi dell'articolo 17, nonche' di quelli previsti dall'articolo 31, paragrafo 2, del regolamento (UE) n. 648/2012 ((e dall'articolo 27-bis, paragrafo 2,))del regolamento (UE) n. 909/2014, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
+La violazione degli obblighi di comunicazione previsti dagli articoli 15, commi 1 e 3, 64-bis, comma 2, e delle relative disposizioni attuative, e di quelli richiesti ai sensi dell'articolo 17, nonche' di quelli previsti dall'articolo 31, paragrafo 2, del regolamento (UE) n. 648/2012 e dall'articolo 27-bis, paragrafo 2, del regolamento (UE) n. 909/2014, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
 La stessa sanzione si applica in caso di violazione dei divieti di esercizio dei diritti e in caso di inadempimento degli obblighi di alienazione previsti dagli articoli 14, commi 4 e 7; 16, commi 1, 2 e 4; 64-bis, commi 7 e 9; 79-sexies, comma 9; e 79-noviesdecies, comma 1.
 
@@ -16572,13 +16515,17 @@ Si applica l'articolo 187-quinquiesdecies, comma 1-quater.
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 190. — (Sanzioni amministrative pecuniarie in tema di disciplina degli intermediari)
 
-Salvo che il fatto costituisca reato ai sensi dell'articolo 166, nei confronti dei soggetti abilitati, delle holding di investimento come definite all'articolo 4, paragrafo 1, punto 23, del regolamento (UE) 2019/2033, delle societa' di partecipazione finanziaria mista come definite all'articolo 4, paragrafo 1, punto 40, del medesimo regolamento, dei depositari e dei soggetti ai quali sono state esternalizzate funzioni operative essenziali o importanti si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, per la mancata osservanza degli articoli 6; 6-bis; 6-ter; 7, commi 2, 2-bis, 2-ter, 3 e 3-bis; 7-bis, comma 5; 7-ter; 8, comma 1-bis; 9; 11-bis; 12; 13, comma 3; 21; ((21-bis;)) 22; 23, commi 1 e 4-bis; 24, commi 1 e 1-bis; 24-bis; 25; 25-bis; 26, commi 1, 3 e 4; 27, commi 1 e 3; 28, comma 4; 29; 29-bis, comma 1; 29-ter, comma 4; 30, comma 5; 31, commi 1, 2, 2-bis, 3-bis, 5, 6 e 7; 32, comma 2; 33, commi 4 e 4-bis; 34, comma 2-bis; 35-bis, commi 1-bis, 5-bis, 6, 6-bis e 6-ter; 35-novies; 35-novies.1, commi 7 e 8; 35-decies; 36, commi 2, 3 e 4; 37, commi 1, 2 e 3; 38, commi 3 e 5; 38-bis, commi 5 e 7 39; 39-bis; 39-ter; 39-quater; 39-quinquies; 39-sexies; 39-septies; 39-octies; 39-novies; 39-decies; 39-undecies; 40, commi 2, 4 e 5; 40-bis, comma 4; 40-ter, comma 4; 41, commi 2, 2-bis 3 e 4; 41-bis; 41-ter; 41-quater; 42, commi 1, 3 e 4; 42-bis, commi 2, 3, 4, 5, 8, 9 e 10, 43, commi 2, 3, 4, 7, 7-bis, 7-ter, 8 e 9; 44, commi 1, 2, 3, 4, lettera b) e 5; 45; 46, commi 1, 3 e 4; 46-bis, commi 1-bis, 1-ter, 1-quater, 1-quinquies e 1-sexies, primo periodo; 46-ter, commi 2 e 3; 47; 48; 49, commi 3 e 4; 55-ter; 55-quater; 55-quinquies; ovvero delle disposizioni generali o particolari emanate in base ai medesimi articoli. (73) (78) (109) (132) ((134))
+Salvo che il fatto costituisca reato ai sensi dell'articolo 166, nei confronti dei soggetti abilitati, delle holding di investimento come definite all'articolo 4, paragrafo 1, punto 23, del regolamento (UE) 2019/2033, delle societa' di partecipazione finanziaria mista come definite all'articolo 4, paragrafo 1, punto 40, del medesimo regolamento, dei depositari e dei soggetti ai quali sono state esternalizzate funzioni operative essenziali o importanti si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), per la mancata osservanza degli articoli 6; 6-bis; 6-ter; 7, commi 2, 2-bis, 2-ter, 3 e 3-bis; 7-bis, comma 5; 7-ter; 8, comma 1-bis; 9; 11-bis; 12; 13, comma 3; 21; 21-bis; 22; 23, commi 1 e 4-bis; 24, commi 1 e 1-bis; 24-bis; 25; 25-bis; 26, commi 1, 3 e 4; 27, commi 1 e 3; 28, comma 4; 29; 29-bis, comma 1; 29-ter, comma 4; 30, comma 5; 31, commi 1, 2, 2-bis, 3-bis, 5, 6 e 7; 32, comma 2; 33, commi 4 e 4-bis; 34, comma 2-bis; 35-bis, commi 1-bis, 5-bis, 6, 6-bis e 6-ter; 35-novies; 35-novies.1, commi 7 e 8; 35-decies; 36, commi 2, 3 e 4; 37, commi 1, 2 e 3; 38, commi 3 e 5; 38-bis, commi 5 e 7 39; 39-bis; 39-ter; 39-quater; 39-quinquies; 39-sexies; 39-septies; 39-octies; 39-novies; 39-decies; 39-undecies; 40, commi 2, 4 e 5; 40-bis, comma 4; 40-ter, comma 4; 41, commi 2, 2-bis 3 e 4; 41-bis; 41-ter; 41-quater; 42, commi 1, 3 e 4; 42-bis, commi 2, 3, 4, 5, 8, 9 e 10, 43, commi 2, 3, 4, 7, 7-bis, 7-ter, 8 e 9; 44, commi 1, 2, 3, 4, lettera b) e 5; 45; 46, commi 1, 3 e 4; 46-bis, commi 1-bis, 1-ter, 1-quater, 1-quinquies e 1-sexies, primo periodo; 46-ter, commi 2 e 3; 47; 48; 49, commi 3 e 4; 55-ter; 55-quater; 55-quinquies; ovvero delle disposizioni generali o particolari emanate in base ai medesimi articoli. (73) (78) (109) (132) (134) ((135))
 
-Chiunque presti servizi di crowdfunding in assenza dell'autorizzazione prevista dall'articolo 12 del regolamento (UE) 2020/1503 e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. (73)
+Chiunque presti servizi di crowdfunding in assenza dell'autorizzazione prevista dall'articolo 12 del regolamento (UE) 2020/1503 e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). (73) ((135))
 
 2.
                         
@@ -16715,7 +16662,12 @@ COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
                             ---------------
                             AGGIORNAMENTO (134)
                             
- Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 6 giugno 2026.
+ Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 6 giugno 2026. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 2, comma 1, lettera d)) che "all'articolo 190, commi 1 e 1-bis.1, le parole: «comma 1-bis» sono sostituite dalle seguenti: «comma 2»". 
+ Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 190.1. — (Sanzioni amministrative pecuniarie in tema di disciplina della gestione accentrata di strumenti finanziari)
 
@@ -16764,9 +16716,9 @@ medesimo.
 
 ## Art. 190.2. — (Sanzioni amministrative pecuniarie relative alla violazione delle disposizioni previste dal regolamento (UE) n. 909/2014)
 
-Nei confronti dei depositari centrali e delle banche designate ai sensi dell'articolo 54 del regolamento (UE) n. 909/2014, in caso di inosservanza delle disposizioni richiamate dall'articolo 63, paragrafo 1, del medesimo regolamento si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro venti milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro venti milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. La medesima sanzione si applica altresi' in caso di inosservanza delle norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi del predetto regolamento. (73)
+Nei confronti dei depositari centrali e delle banche designate ai sensi dell'articolo 54 del regolamento (UE) n. 909/2014, in caso di inosservanza delle disposizioni richiamate dall'articolo 63, paragrafo 1, del medesimo regolamento si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro venti milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro venti milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). La medesima sanzione si applica altresi' in caso di inosservanza delle norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi del predetto regolamento. (73) ((135))
 
-Chiunque presti i servizi elencati nell'Allegato al regolamento (UE) n. 909/2014 e quelli consentiti, ma non esplicitamente elencati dal medesimo Allegato, in violazione degli articoli 16, 25 e 54 del predetto regolamento, e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro venti milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro venti milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. (73)
+Chiunque presti i servizi elencati nell'Allegato al regolamento (UE) n. 909/2014 e quelli consentiti, ma non esplicitamente elencati dal medesimo Allegato, in violazione degli articoli 16, 25 e 54 del predetto regolamento, e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro venti milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro venti milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). (73) ((135))
 
 3.
                         
@@ -16805,7 +16757,7 @@ Chiunque presti i servizi elencati nell'Allegato al regolamento (UE) n. 909/2014
                             
                                 e)
                                 
-                                    ai depositari centrali, alle controparti centrali e alle sedi di negoziazione, in caso di inosservanza delle disposizioni previste ((dall'articolo 7, paragrafo 7, e dall'articolo 7-bis, paragrafo 11,)) del regolamento di cui al comma 1, e delle relative disposizioni attuative; 
+                                    ai depositari centrali, alle controparti centrali e alle sedi di negoziazione, in caso di inosservanza delle disposizioni previste dall'articolo 7, paragrafo 7, e dall'articolo 7-bis, paragrafo 11, del regolamento di cui al comma 1, e delle relative disposizioni attuative; 
 
                                 
                             
@@ -16819,7 +16771,7 @@ Chiunque presti i servizi elencati nell'Allegato al regolamento (UE) n. 909/2014
                             
                                 g)
                                 
-                                    a chiunque non osservi le disposizioni ((previste dall'articolo 7-bis, paragrafi 4, 8, 9 e 10,)) e dall'articolo 9, paragrafo 1, del regolamento di cui al comma 1 e dalle relative disposizioni attuative.
+                                    a chiunque non osservi le disposizioni previste dall'articolo 7-bis, paragrafi 4, 8, 9 e 10, e dall'articolo 9, paragrafo 1, del regolamento di cui al comma 1 e dalle relative disposizioni attuative.
 
 Alle fattispecie disciplinate dai commi 1 e 2 si applica l'articolo 187-quinquiesdecies, comma 1-quater. (73)
 
@@ -16829,17 +16781,19 @@ COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che "Le modifiche apportate dal presente decreto alla parte V del decreto legislativo 24 febbraio 1998, n. 58, si applicano alle violazioni commesse a partire dal 3 gennaio 2018".
+ Ha inoltre disposto (con l'art. 10, comma 13) che "Le modifiche apportate dal presente decreto alla parte V del decreto legislativo 24 febbraio 1998, n. 58, si applicano alle violazioni commesse a partire dal 3 gennaio 2018". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## Art. 190.3. — Sanzioni amministrative in tema di disciplina dei mercati
-
-
+## Art. 190.3. — (Sanzioni amministrative in tema di disciplina dei mercati)
 
 1.
                         
                             
-                                Salvo che il fatto costituisca reato ai sensi dell'articolo 166, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis: 
- 
+                                Salvo che il fatto costituisca reato ai sensi dell'articolo 166, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)): ((135))
+                                
                             
                             
                                 a)
@@ -16886,10 +16840,9 @@ COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
                             
                                 f)
                                 
-                                    
-                                        ((LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50)).
+                                    LETTERA ABROGATA DAL D.L. 17 MAGGIO 2022, N. 50.
 
-Chiunque viola le disposizioni previste dall'articolo 68, comma 1, e dalle relative norme attuative, ovvero viola le misure adottate in base alle medesime disposizioni e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
+Chiunque viola le disposizioni previste dall'articolo 68, comma 1, e dalle relative norme attuative, ovvero viola le misure adottate in base alle medesime disposizioni e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
 Per la violazione delle disposizioni previste dagli articoli 67-ter, 68, comma 1, e 68-quater, commi 2 e 3, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, puo' essere applicata anche la sanzione amministrativa accessoria dell'interdizione temporanea, per un periodo non inferiore a sei mesi e non superiore a tre anni, a essere membro o partecipante di un mercato regolamentato, di un sistema multilaterale di negoziazione o a essere cliente di un sistema organizzato di negoziazione.
 
@@ -16900,25 +16853,30 @@ Si applica l'articolo 187-quinquiesdecies, comma 1-quater.
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## Art. 190.4. — (( (Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 600/2014, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2014/65/UE e del regolamento (UE) n. 600/2014). ))
+## Art. 190.4. — (Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 600/2014, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2014/65/UE e del regolamento (UE) n. 600/2014)
 
-((
-
-La violazione delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafi 3, lettera b), e 4, lettera b), della direttiva 2014/65/UE e dell'articolo 22, paragrafo 1, del medesimo regolamento, nonche' delle relative disposizioni attuative, ovvero la mancata osservanza delle misure adottate ai sensi dell'articolo 42 del regolamento (UE) n. 600/2014, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
+La violazione delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafi 3, lettera b), e 4, lettera b), della direttiva 2014/65/UE e dell'articolo 22, paragrafo 1, del medesimo regolamento, nonche' delle relative disposizioni attuative, ovvero la mancata osservanza delle misure adottate ai sensi dell'articolo 42 del regolamento (UE) n. 600/2014, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
 La stessa sanzione prevista dal comma 1 si applica anche in caso di violazione delle disposizioni contenute negli atti delegati e nelle norme tecniche di regolamentazione e di attuazione della direttiva 2014/65/UE e del regolamento (UE) n. 600/2014, nelle materie a cui si riferiscono le disposizioni richiamate al comma 1 e agli articoli 190 e 190.3.
 
-3. Si applica l'articolo 187-quinquiesdecies, comma 1-quater.))
-
-((73))
+Si applica l'articolo 187-quinquiesdecies, comma 1-quater. 
+ (73)
 
 ---------------
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 190.5. — (( (Sanzioni amministrative pecuniarie in tema di agenzie di rating del credito relative alle violazioni delle disposizioni previste dal regolamento (CE) n. 1060/2009). ))
 
@@ -16973,13 +16931,13 @@ La stessa sanzione prevista dal comma 1 si applica anche in caso di violazione d
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
  Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
-## Art. 190-bis. — Responsabilita' degli esponenti aziendali e del personale per le violazioni in tema di disciplina degli intermediari, dei mercati, dei depositari centrali e della gestione accentrata di strumenti finanziari e dei servizi di ((di APA e di ARM)) ). (73
+## Art. 190-bis. — Responsabilita' degli esponenti aziendali e del personale per le violazioni in tema di disciplina degli intermediari, dei mercati, dei depositari centrali e della gestione accentrata di strumenti finanziari e dei servizi di di APA e di ARM ). (73
 
 1. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, per l'inosservanza delle disposizioni richiamate dagli articoli 188, 189, 190, 190.1, 190.2, commi 1 e 2, 190.3, 190.4, e 190.5, si applica la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' nei confronti del personale, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e ricorrono una o piu' delle seguenti condizioni: (73) 
  a) la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali, ovvero ha provocato un grave pregiudizio per la tutela degli investitori o per la trasparenza, l'integrita' e il corretto funzionamento del mercato; (73) 
  b) la condotta ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati ai sensi degli articoli 7, comma 2, e 12, comma 5-bis; 
  c) le violazioni riguardano obblighi imposti ai sensi dell'articolo 6, commi, 2-septies, 2-octies, 2-novies, o dell'articolo 13, ovvero obblighi in materia di remunerazione e incentivazione, quando l'esponente o il personale e' la parte interessata. 
- 2. Nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, nei casi in cui la loro condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 194-quater da parte della societa' o dell'ente, si applica la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. (73) 
+ 2. Nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, nei casi in cui la loro condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui ((all'articolo 194-bis.1)) da parte della societa' o dell'ente, si applica la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. (73) ((135)) 
  3. Con il provvedimento di applicazione della sanzione, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, la Banca d'Italia o la Consob possono applicare la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso soggetti autorizzati ai sensi del presente decreto legislativo, del decreto legislativo 1° settembre 1993, n. 385, del decreto legislativo 7 settembre 2005, n. 209, o presso fondi pensione. (73) 
  3-bis. La Banca d'Italia o la Consob, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, possono applicare la sanzione amministrativa accessoria dell'interdizione permanente dallo svolgimento delle funzioni richiamate al comma 3, nel caso in cui al medesimo soggetto sia stata gia' applicata, due o piu' volte negli ultimi dieci anni, sempre per le violazioni commesse con dolo o colpa grave, l'interdizione di cui al comma 3, per un periodo complessivo non inferiore a cinque anni. (73) 
  4. Si applica l'articolo 187-quinquiesdecies, comma 1-quater. (73)  (61) (84)
@@ -16997,11 +16955,13 @@ La stessa sanzione prevista dal comma 1 si applica anche in caso di violazione d
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## Art. 190-bis.1. — (( (Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2016/1011). ))
-
-((
+## Art. 190-bis.1. — (Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2016/1011)
 
 1.
                         
@@ -17012,8 +16972,8 @@ La stessa sanzione prevista dal comma 1 si applica anche in caso di violazione d
                             
                                 a)
                                 
-                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro diecimila fino a euro un milione, ovvero fino al dieci per cento del fatturato totale annuo, quando tale importo e' superiore a euro un milione e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209; 
-
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro diecimila fino a euro un milione, ovvero fino al dieci per cento del fatturato totale annuo, quando tale importo e' superiore a euro un milione e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209; ((135))
+                                    
                                 
                             
                             
@@ -17032,8 +16992,8 @@ Fermo quanto previsto dal comma 1, lettera a), la sanzione indicata dal comma 1,
                             
                                 a)
                                 
-                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro diecimila fino a euro duecentocinquantamila ovvero fino al due per cento del fatturato, quando tale importo e' superiore a euro duecentocinquantamila e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209; 
-
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro diecimila fino a euro duecentocinquantamila ovvero fino al due per cento del fatturato, quando tale importo e' superiore a euro duecentocinquantamila e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209; ((135))
+                                    
                                 
                             
                             
@@ -17047,24 +17007,28 @@ Se il vantaggio ottenuto dall'autore della violazione, come conseguenza della vi
 
 Con il provvedimento di applicazione della sanzione amministrativa pecuniaria, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, puo' essere applicata nei confronti della persona fisica ritenuta responsabile della violazione la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso amministratori di indici di riferimento o contributori di dati sottoposti a vigilanza.
 
-L'applicazione della sanzione amministrativa pecuniaria comporta la confisca del prodotto o del profitto dell'illecito. Si applica, in tal caso, l'articolo 187-sexies, commi 2 e 3.
+(( L'applicazione della sanzione amministrativa comporta la confisca di una somma di denaro pari al profitto dell'illecito. Si applica, in tal caso, l'articolo 187-sexies, commi 2, 3 e 3-bis.))
+                                ((135))
 
-Le sanzioni amministrative previste dal presente articolo sono applicate dalla Banca d'Italia, dalla Consob, dall'IVASS e dalla COVIP, sui soggetti dalle medesime vigilati e secondo le attribuzioni di vigilanza specificate all'articolo 4-septies.1 e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli 194-bis, 194-quater, 194-septies e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore.
+Le sanzioni amministrative previste dal presente articolo sono applicate dalla Banca d'Italia, dalla Consob, dall'IVASS e dalla COVIP, sui soggetti dalle medesime vigilati e secondo le attribuzioni di vigilanza specificate all'articolo 4-septies.1 e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli 194-bis, ((194-bis.1)) e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore. ((135))
 
-))
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 190-bis.2. — Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2017/2402).
 
 1.
                         
                             
-                                Per le violazioni degli articoli 3, 5, 6, 7, 9, 18, 19, 20, 21, 22, 23, 24, 25, 26, ((26-bis, 26-ter, 26-quater, 26-quinquies, 26-sexies,)) 27 paragrafi 1 e 4 e 28 paragrafo 2 del regolamento (UE) 2017/2402 e delle norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, si applica: 
+                                Per le violazioni degli articoli 3, 5, 6, 7, 9, 18, 19, 20, 21, 22, 23, 24, 25, 26, 26-bis, 26-ter, 26-quater, 26-quinquies, 26-sexies, 27 paragrafi 1 e 4 e 28 paragrafo 2 del regolamento (UE) 2017/2402 e delle norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, si applica: 
  
                             
                             
                                 a)
                                 
-                                    nei confronti delle societa' ed enti che rivestono il ruolo di cedente, prestatore originario, promotore, SSPE, investitore istituzionale, venditore di una posizione verso la cartolarizzazione di cui all'articolo 3 del regolamento (UE) 2017/2402, gestore che riceve istruzioni da un investitore istituzionale di cui all'articolo 5,paragrafo, 5 del regolamento (UE) 2017/2402 o verificatore terzo di cui all'articolo 27, ((paragrafo)) 2, del regolamento (UE) 2017/2402, la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato totale annuo, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinato secondo quanto previsto dalla normativa di settore dell'autore della violazione; 
+                                    nei confronti delle societa' ed enti che rivestono il ruolo di cedente, prestatore originario, promotore, SSPE, investitore istituzionale, venditore di una posizione verso la cartolarizzazione di cui all'articolo 3 del regolamento (UE) 2017/2402, gestore che riceve istruzioni da un investitore istituzionale di cui all'articolo 5,paragrafo, 5 del regolamento (UE) 2017/2402 o verificatore terzo di cui all'articolo 27, paragrafo 2, del regolamento (UE) 2017/2402, la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato totale annuo, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinato secondo quanto previsto dalla normativa di settore dell'autore della violazione; 
 
                                 
                             
@@ -17073,7 +17037,7 @@ Le sanzioni amministrative previste dal presente articolo sono applicate dalla B
                                 
                                     nei confronti delle persone fisiche di cui al comma 4 del presente articolo, la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni.
 
-Fermo restando quanto previsto al comma 1, per le violazioni degli articoli 19, 20, 21, 22, 23, 24, 25, 26 ((26-bis, 26-ter, 26-quater, 26-quinquies, 26-sexies)) e 27 paragrafo 1 del regolamento (UE) 2017/2402, si applica nei confronti del cedente e del promotore per un periodo non inferiore a sei mesi e non superiore a tre anni il divieto di notificare, ai sensi dell'articolo 27 paragrafo 1, del regolamento (UE) 2017/2402, che una cartolarizzazione soddisfa i requisiti stabiliti agli articoli ((da 19 a 22, agli articoli da 23 a 26 o agli articoli da 26-bis a 26-sexies del citato regolamento)).
+Fermo restando quanto previsto al comma 1, per le violazioni degli articoli 19, 20, 21, 22, 23, 24, 25, 26 26-bis, 26-ter, 26-quater, 26-quinquies, 26-sexies e 27 paragrafo 1 del regolamento (UE) 2017/2402, si applica nei confronti del cedente e del promotore per un periodo non inferiore a sei mesi e non superiore a tre anni il divieto di notificare, ai sensi dell'articolo 27 paragrafo 1, del regolamento (UE) 2017/2402, che una cartolarizzazione soddisfa i requisiti stabiliti agli articoli da 19 a 22, agli articoli da 23 a 26 o agli articoli da 26-bis a 26-sexies del citato regolamento.
 
 Fermo restando quanto previsto al comma 1, per le violazioni dell'articolo 28 paragrafo 2 del regolamento (UE) 2017/2402, si applica nei confronti del soggetto di cui all'articolo 28 del regolamento (UE) 2017/2402 la sospensione da uno a quattro mesi dell'autorizzazione di cui al medesimo articolo.
 
@@ -17083,7 +17047,13 @@ Alle violazioni previste dal presente articolo si applica l'articolo 187-quinqui
 
 Con il provvedimento di applicazione della sanzione amministrativa pecuniaria, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis e di quelli stabiliti nel paragrafo 2 dell'articolo 33 del regolamento (UE) 2017/2402, puo' essere applicata nei confronti della persona fisica ritenuta responsabile della violazione la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso cedenti, promotori o SSPE.
 
-Le sanzioni amministrative previste dal presente articolo sono disposte e irrogate dalla Banca d'Italia, dalla CONSOB, dall'IVASS e dalla COVIP secondo le rispettive attribuzioni di vigilanza specificate all'articolo 4-septies.2 e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli, 194-quater, 194-septies e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore.
+Le sanzioni amministrative previste dal presente articolo sono disposte e irrogate dalla Banca d'Italia, dalla CONSOB, dall'IVASS e dalla COVIP secondo le rispettive attribuzioni di vigilanza specificate all'articolo 4-septies.2 e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, ((gli articoli 194-bis.1)) e 195-ter, comma 1-bis.
+IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore. ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 190-bis.3. — (Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e dalle relative norme tecniche di regolamentazione e attuazione)
 
@@ -17096,7 +17066,7 @@ Le sanzioni amministrative previste dal presente articolo sono disposte e irroga
                             
                                 a)
                                 
-                                    nei confronti delle societa' di intermediazione mobiliare (SIM), ((delle societa' di gestione del risparmio (Sgr), delle societa' di investimento a capitale variabile (Sicav), delle societa' di investimento a capitale fisso (Sicaf), delle societa' di partenariato,)), delle controparti centrali, dei gestori di mercati regolamentati e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' determinabile; 
+                                    nei confronti delle societa' di intermediazione mobiliare (SIM), delle societa' di gestione del risparmio (Sgr), delle societa' di investimento a capitale variabile (Sicav), delle societa' di investimento a capitale fisso (Sicaf), delle societa' di partenariato, delle controparti centrali, dei gestori di mercati regolamentati e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' determinabile; 
 
                                 
                             
@@ -17153,7 +17123,7 @@ Le sanzioni amministrative previste dal presente articolo sono disposte e irroga
                             
                                 a)
                                 
-                                    nei confronti delle SIM, delle SGR, ((delle Sicav, delle Sicaf, delle societa' di partenariato)), delle controparti centrali, dei gestori di mercati regolamentati e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 3,5 milioni, ovvero fino al 7 per cento del fatturato, quando tale importo e' superiore a euro 3,5 milioni e il fatturato e' determinabile; 
+                                    nei confronti delle SIM, delle SGR, delle Sicav, delle Sicaf, delle societa' di partenariato, delle controparti centrali, dei gestori di mercati regolamentati e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 3,5 milioni, ovvero fino al 7 per cento del fatturato, quando tale importo e' superiore a euro 3,5 milioni e il fatturato e' determinabile; 
 
                                 
                             
@@ -17207,9 +17177,14 @@ Se il vantaggio ottenuto dall'autore della violazione come conseguenza della vio
 
 Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui ai commi 2 e 4 in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto, del decreto legislativo 1° settembre 1993, n. 385, del decreto legislativo 7 settembre 2005, n. 209, del decreto legislativo 5 settembre 2024, n. 129, o presso fondi pensione.
 
-Le sanzioni amministrative previste dal presente articolo sono applicate dalla Banca d'Italia e dalla Consob, secondo le rispettive competenze e secondo la procedura sanzionatoria di cui all'articolo 195, nei casi di cui al comma 1, lettere a), b), c) e d), e al comma 2, lettere a), b), c), e nei casi di cui al comma 3, lettere a), b), c), e d), e al comma 4 lettere a), b) e c). Alle violazioni di competenza della Consob si applica l'articolo 196-ter.
+Le sanzioni amministrative previste dal presente articolo sono applicate dalla Banca d'Italia e dalla Consob, secondo le rispettive competenze e secondo la procedura sanzionatoria di cui all'articolo 195, nei casi di cui al comma 1, lettere a), b), c) e d), e al comma 2, lettere a), b), c), e nei casi di cui al comma 3, lettere a), b), c), e d), e al comma 4 lettere a), b) e c). ((PERIODO SOPPRESSO DAL D.LGS. 25 GIUGNO 2026, N. 128)). ((135))
 
-((Le sanzioni previste dal presente articolo non si applicano ai GEFIA sotto soglia registrati.))
+Le sanzioni previste dal presente articolo non si applicano ai GEFIA sotto soglia registrati.
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 190-ter. — ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -17221,37 +17196,35 @@ Le sanzioni amministrative previste dal presente articolo sono applicate dalla B
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
  Ha inoltre disposto (con l'art. 10, comma 13) che l'abrogazione del presente articolo si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
-## Art. 190-quater. — (( (Sanzioni amministrative in tema di servizi di crowdfunding). ))
+## Art. 190-quater. — (Sanzioni amministrative in tema di servizi di crowdfunding)
 
-((
-
-Nei confronti dei fornitori di servizi di crowdfunding, in caso di inosservanza delle disposizioni richiamate dall'articolo 39, paragrafo 1, del regolamento (UE) 2020/1503 o dei relativi atti delegati e norme tecniche di regolamentazione o in caso di inosservanza delle disposizioni nazionali applicabili alle comunicazioni di marketing individuate dalla Consob con proprio regolamento, nonche' nei confronti dei soggetti che prestano servizi di crowdfunding diversi da quelli indicati all'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2020/1503 in caso di inosservanza dell'articolo 100-ter, comma 9, si applica la sanzione amministrativa pecuniaria da euro 500 fino a euro 500.000, ovvero fino al 5 per cento del fatturato, quando tale importo e' superiore a euro 500.000 e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. Per i casi di cui all'articolo 39, paragrafo 1, lettera b), del regolamento (UE) 2020/1503 e' fatto salvo il rifiuto motivato qualora le informazioni richieste possono fare emergere la propria responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo o per un reato.
+Nei confronti dei fornitori di servizi di crowdfunding, in caso di inosservanza delle disposizioni richiamate dall'articolo 39, paragrafo 1, del regolamento (UE) 2020/1503 o dei relativi atti delegati e norme tecniche di regolamentazione o in caso di inosservanza delle disposizioni nazionali applicabili alle comunicazioni di marketing individuate dalla Consob con proprio regolamento, nonche' nei confronti dei soggetti che prestano servizi di crowdfunding diversi da quelli indicati all'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2020/1503 in caso di inosservanza dell'articolo 100-ter, comma 9, si applica la sanzione amministrativa pecuniaria da euro 500 fino a euro 500.000, ovvero fino al 5 per cento del fatturato, quando tale importo e' superiore a euro 500.000 e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). Per i casi di cui all'articolo 39, paragrafo 1, lettera b), del regolamento (UE) 2020/1503 e' fatto salvo il rifiuto motivato qualora le informazioni richieste possono fare emergere la propria responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo o per un reato. ((135))
 
 Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 1 si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o controllo e del personale dei fornitori di servizi di crowdfunding nei confronti dei quali sono accertate le violazioni, nei casi previsti dall'articolo 190-bis, comma 1, lettera a).
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi edittali indicati al comma 1, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
 
-4. Salvo che il fatto non costituisca reato, con il provvedimento di applicazione delle sanzioni amministrative pecuniarie previste dal comma 2, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, la Banca d'Italia e la Consob, secondo le rispettive competenze, possono disporre l'applicazione delle misure di cui all'articolo 39, paragrafo 2, lettere a), b) e c), del regolamento (UE) 2020/1503. Nel caso di violazione della misura di cui all'articolo 39, paragrafo 2, lett. b), del regolamento (UE) 2020/1503, si applica l'articolo 192-bis, comma 1-quater.))
+Salvo che il fatto non costituisca reato, con il provvedimento di applicazione delle sanzioni amministrative pecuniarie previste dal comma 2, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, la Banca d'Italia e la Consob, secondo le rispettive competenze, possono disporre l'applicazione delle misure di cui all'articolo 39, paragrafo 2, lettere a), b) e c), del regolamento (UE) 2020/1503. Nel caso di violazione della misura di cui all'articolo 39, paragrafo 2, lett. b), del regolamento (UE) 2020/1503, si applica l'articolo 192-bis, comma 1-quater.
 
 ---------------
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 191. — (Offerta al pubblico di sottoscrizione e di vendita di prodotti finanziari e ammissione alla negoziazione di titoli)
 
-Nei confronti degli enti e delle societa' che commettono una violazione delle disposizioni richiamate dall'articolo 38, paragrafo 1, lettera a), del regolamento prospetto e delle relative disposizioni attuative, si applica la sanzione amministrativa pecuniaria da cinquemila euro fino a cinque milioni di euro, ovvero fino al tre per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
+Nei confronti degli enti e delle societa' che commettono una violazione delle disposizioni richiamate dall'articolo 38, paragrafo 1, lettera a), del regolamento prospetto e delle relative disposizioni attuative, si applica la sanzione amministrativa pecuniaria da cinquemila euro fino a cinque milioni di euro, ovvero fino al tre per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
 Se la violazione delle disposizioni di cui al comma 1 e' commessa da una persona fisica si applica la sanzione amministrativa pecuniaria da cinquemila euro a settecentomila euro.
 
 Fermo quanto previsto dal comma 1, la sanzione indicata dal comma 2 si applica nei confronti degli esponenti aziendali e del personale della societa' o dell'ente responsabile della violazione, nei casi previsti dall'articolo 190-bis, comma 1, lettera a).
 
-((
-
 Nei confronti degli enti e delle societa' richiamati dall'articolo 2, lettere a), c) e d), del regolamento (UE) 2019/1156, che commettono una violazione dell'articolo 4 del medesimo regolamento relativamente a fondi di investimento alternativi chiusi, si applica la sanzione prevista dal comma 1. Si applicano altresi' i commi 2 e 3.
-
-))
 
 Chiunque effettua un'offerta al pubblico in assenza di un prospetto approvato dalla Consob ai sensi dell'articolo 94-bis, comma 3, e' punito con la sanzione amministrativa pecuniaria da venticinquemila euro fino a cinque milioni di euro.
 
@@ -17260,6 +17233,11 @@ Chiunque viola gli articoli 94-bis, commi 1 e 4, 96, 97, commi 1 e 3, 101, o le 
 Se all'osservanza delle disposizioni indicate dai commi 4 e 5 e' tenuta una societa' o un ente, le sanzioni amministrative pecuniarie ivi previste si applicano altresi' nei confronti degli esponenti aziendali e del personale dell'ente o della societa' responsabile della violazione, nei casi previsti dall'articolo 190-bis, comma 1, lettera a). Se all'osservanza delle medesime disposizioni e' tenuta una persona fisica, in caso di violazione, la sanzione si applica nei confronti di quest'ultima.
 
 Si applica l'articolo 187-quinquiesdecies, comma 1-quater.
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 191-bis. — (( (Sanzioni accessorie). ))
 
@@ -17316,17 +17294,23 @@ Fermo restando quanto previsto dall'articolo 193-quinquies, chiunque effettua un
 
 Fermo restando quanto previsto dall'articolo 193-quinquies, chiunque viola gli articoli 98-ter, comma 3, e 98-ter.1, commi 3 e 4, ovvero le relative disposizioni generali o particolari emanate dalla Consob ai sensi dell'articolo 98-quater, e' punito con la sanzione amministrativa pecuniaria da cinquemila euro fino a cinque milioni di euro. Le medesime sanzioni si applicano alla violazione dell'articolo 101 e alla violazione dell'articolo 4 del regolamento (UE) 2019/1156, quando le stesse sono commesse nell'ambito di un'offerta di OICR aperti.
 
-Se la violazione e' commessa da una societa' o un ente, l'importo massimo delle sanzioni amministrative pecuniarie previste dai commi 1 e 2 e' elevato fino al dieci per cento del fatturato, quando tale importo e' superiore a cinque milioni di euro e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.
+Se la violazione e' commessa da una societa' o un ente, l'importo massimo delle sanzioni amministrative pecuniarie previste dai commi 1 e 2 e' elevato fino al dieci per cento del fatturato, quando tale importo e' superiore a cinque milioni di euro e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
 Le sanzioni amministrative pecuniarie previste dai commi 1 e 2 si applicano nei confronti degli esponenti aziendali e del personale della societa' o dell'ente responsabile della violazione, nei casi previsti dall'articolo 190-bis, comma 1, lettera a).
 
 Alle violazioni previste dai commi 1 e 2 si applica l'articolo 190-bis, commi 2, 3 e 3-bis.
 
-Fermo restando quanto previsto dal comma 5, l'applicazione delle sanzioni amministrative pecuniarie previste dal comma 1, importa la perdita temporanea dei requisiti di idoneita' previsti dal presente decreto per gli esponenti aziendali dei soggetti abilitati e dei requisiti previsti per i consulenti finanziari abilitati all'offerta fuori sede, per i consulenti finanziari autonomi e per gli esponenti aziendali delle societa' di consulenza finanziaria nonche' l'incapacita' temporanea ad assumere incarichi di amministrazione, direzione e controllo nell'ambito di societa' aventi titoli quotati nei mercati regolamentati ((...)) e di societa' appartenenti al medesimo gruppo. La sanzione amministrativa accessoria ha durata non inferiore a due mesi e non superiore a tre anni.
+((Fermo restando quanto previsto dal comma 5, con il provvedimento di applicazione delle sanzioni amministrative previste dal comma 1, puo' altresi' essere disposta la perdita temporanea dei requisiti di idoneita' previsti dal presente decreto per gli esponenti aziendali dei soggetti abilitati e dei requisiti previsti per i consulenti finanziari abilitati all'offerta fuori sede, per i consulenti finanziari autonomi e per gli esponenti aziendali delle societa' di consulenza finanziaria, nonche' l'incapacita' temporanea ad assumere incarichi di amministrazione, direzione e controllo nell'ambito di societa' aventi titoli quotati nei mercati regolamentati e di societa' appartenenti al medesimo gruppo. La sanzione amministrativa accessoria ha durata non inferiore a due mesi e non superiore a tre anni.))
+                                ((135))
 
 Nei confronti dell'emittente o della persona che chiede l'ammissione alle negoziazioni di quote o azioni di Oicr aperti, in caso di violazione delle disposizioni contenute nell'articolo 113-bis, commi 1, 2, lettere a) e b), e 4, ovvero delle relative disposizioni generali o particolari emanate dalla Consob, si applica la sanzione amministrativa pecuniaria da cinquemila euro a settecentocinquantamila euro.
 
 Alle violazioni previste dal presente articolo si applica l'articolo 187-quinquiesdecies, comma 1-quater.
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 191-quater. — (( (Sanzioni amministrative relative alla violazione delle disposizioni del regolamento (UE) n. 2023/2631).))
 
@@ -17407,62 +17391,17 @@ COMMA ABROGATO DAL D.LGS. 25 SETTEMBRE 2009, N. 146.
 
 ## Art. 192-bis. — (Sanzioni amministrative in tema di informazioni sul governo societario e di politica di remunerazione e compensi corrisposti)
 
-1.
-                        
-                            
-                                Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che omettono le comunicazioni prescritte dall'articolo 123-bis, comma 2, lettera a), si applica una delle seguenti sanzioni amministrative:(73) 
- 
-                            
-                            
-                                a)
-                                
-                                    una dichiarazione pubblica indicante la persona giuridica responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
+((135)) 
+ 1.1 Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che violano le disposizioni previste dall'articolo 123-ter e le relative disposizioni attuative, si applica la sanzione amministrativa pecuniaria da euro diecimila a euro dieci milioni ovvero le sanzioni previste dal comma 1, lettere a) e b). (98) 
+ 1.1-bis. Salvo che il fatto costituisca reato, per le violazioni delle disposizioni indicate dal comma 1.1, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, qualora la loro condotta abbia contribuito a determinare la violazione delle disposizioni del medesimo comma 1.1 da parte della societa', si applica la sanzione amministrativa pecuniaria da euro diecimila a euro due milioni ovvero le sanzioni previste dal comma 1, lettere a) e b). (98)
 
-                                
-                            
-                            
-                                b)
-                                
-                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
-
-                                
-                            
-                            
-                                c)
-                                
-                                    una sanzione amministrativa pecuniaria da euro diecimila a euro dieci milioni, ovvero, fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.(73) 
- 1.1 Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che violano le disposizioni previste dall'articolo 123-ter e le relative disposizioni attuative ((...)), si applica la sanzione amministrativa pecuniaria da euro diecimila a euro ((dieci milioni)) ovvero le sanzioni previste dal comma 1, lettere a) e b). ((98))
-                                        ((1.1-bis. Salvo che il fatto costituisca reato, per le violazioni delle disposizioni indicate dal comma 1.1, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, qualora la loro condotta abbia contribuito a determinare la violazione delle disposizioni del medesimo comma 1.1 da parte della societa', si applica la sanzione amministrativa pecuniaria da euro diecimila a euro due milioni ovvero le sanzioni previste dal comma 1, lettere a) e b).))
-                                        ((98))
-
-1-bis.
-                        
-                            
-                                Per l'omissione delle comunicazioni indicate al comma 1, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), salvo che il fatto costituisca reato, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare l'omissione delle comunicazioni da parte della societa' o dell'ente, si applica una delle seguenti sanzioni amministrative:(73) 
- 
-                            
-                            
-                                a)
-                                
-                                    una dichiarazione pubblica indicante la persona responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
-
-                                
-                            
-                            
-                                c)
-                                
-                                    una sanzione amministrativa pecuniaria da euro diecimila a euro due milioni.
+((Per l'omissione delle comunicazioni indicate al comma 1, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), salvo che il fatto costituisca reato, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare l'omissione delle comunicazioni da parte della societa' o dell'ente, si applica una sanzione amministrativa pecuniaria da euro diecimila a euro due milioni.))
+                                ((135))
 
 Alle omissioni delle comunicazioni prescritte dall'articolo 123-bis, comma 2, lettera a), e richiamate dai commi 1 e 1-bis del presente articolo si applica l'articolo 187-quinquiesdecies, comma 1-quater.
 
-Nei casi di inosservanza dell'ordine di eliminare le infrazioni contestate e di astenersi dal ripeterle, si applica la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo. Fermo restando quanto previsto per le persone giuridiche nei confronti delle quali e' accertata l'inosservanza dell'ordine, si applica la sanzione amministrativa pecuniaria da euro diecimila a euro due milioni nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare l'inosservanza dell'ordine da parte della persona giuridica.
+((PERIODO SOPPRESSO DAL D.LGS. 25 GIUGNO 2026, N. 128)).
+Fermo restando quanto previsto per le persone giuridiche nei confronti delle quali e' accertata l'inosservanza dell'ordine ((di cui all'articolo 194-bis.1)), si applica la sanzione amministrativa pecuniaria da euro diecimila a euro due milioni nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare l'inosservanza dell'ordine ((di cui all'articolo 194-bis.1)) da parte della persona giuridica. ((135))
 
 -------------
                             AGGIORNAMENTO (61)
@@ -17477,15 +17416,14 @@ Nei casi di inosservanza dell'ordine di eliminare le infrazioni contestate e di 
                             
  Il D.Lgs. 29 dicembre 2006, n. 303 ha disposto (con l'art. 3, comma 21) che "All'articolo 192-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, le parole: "ovvero, nelle stesse o in altre comunicazioni rivolte al pubblico, divulgano o lasciano divulgare false informazioni relativamente all'adesione delle stesse societa' a codici di comportamento redatti da societa' di gestione dei mercati regolamentati da associazioni di categoria degli operatori, ovvero all'applicazione dei medesimi," sono soppresse". 
                             ---------------
-                            AGGIORNAMENTO (73)
-                            
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018. 
-                            ---------------
                             AGGIORNAMENTO (98)
                             
  Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 1) che, fermo quanto previsto dall'articolo 7 del decreto legislativo 10 maggio 2019, n. 49, le presenti modifiche si applicano alle violazioni commesse dopo la data di entrata in vigore del D.Lgs.
-medesimo.
+medesimo. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 192-ter. — Ammissione alle negoziazioni
 
@@ -17517,38 +17455,11 @@ Salvo che il fatto costituisca reato, per le violazioni indicate nel comma 1, ne
  Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 1) che, fermo quanto previsto dall'articolo 7 del decreto legislativo 10 maggio 2019, n. 49, le presenti modifiche si applicano alle violazioni commesse dopo la data di entrata in vigore del D.Lgs.
 medesimo.
 
-## Art. 193. — Sanzioni amministrative in tema di informazione societaria e doveri dei ((componenti dell'organo di controllo)), dei revisori legali e delle societa' di revisione legale
+## Art. 193. — (Sanzioni amministrative in tema di informazione societaria e doveri dei componenti dell'organo di controllo, dei revisori legali e delle societa' di revisione legale)
 
-
-
-1.
-                        
-                            
-                                Salvo che il fatto costituisca reato, nei confronti di societa', enti o associazioni tenuti a effettuare le comunicazioni previste dagli articoli 114, commi 5, 7 e 9, 114-bis, 115, 154-bis, 154-ter e 154-quater, per l'inosservanza delle disposizioni degli articoli medesimi o delle relative disposizioni attuative, si applica una delle seguenti sanzioni amministrative:(73) 
- 
-                            
-                            
-                                a)
-                                
-                                    una dichiarazione pubblica indicante la persona giuridica responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
-
-                                
-                            
-                            
-                                c)
-                                
-                                    una sanzione amministrativa pecuniaria da euro cinquemila a euro dieci milioni, ovvero fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. (73) 
- 1.1. Se le comunicazioni indicate nel comma 1 sono dovute da una persona fisica, salvo che il fatto costituisca reato, in caso di violazione si applicano nei confronti di quest'ultima, una delle seguenti sanzioni amministrative:(73) 
- a) una dichiarazione pubblica indicante la persona responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
- b) un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
- c) una sanzione amministrativa pecuniaria da euro cinquemila a euro due milioni. 
+((135)) 
+ 1.1. ((Se le comunicazioni indicate nel comma 1 sono dovute da una persona fisica, salvo che il fatto costituisca reato, in caso di violazione si applica una sanzione amministrativa pecuniaria da euro cinquemila a euro due milioni.))
+                                ((135)) 
  1.2. Per le violazioni indicate nel comma 1, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare dette violazioni da parte della persona giuridica si applicano, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), le sanzioni amministrative previste dal comma 1.1.
 
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72. (61) (84)
@@ -17561,34 +17472,10 @@ COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
 Al soggetto di cui all'articolo 123-ter, comma 8-bis, che omette di verificare l'avvenuta predisposizione della seconda sezione della relazione si applica una sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.
 
-2.
-                        
-                            
-                                Salvo che il fatto costituisca reato, nei casi di omissione delle comunicazioni delle partecipazioni rilevanti e dei patti parasociali previste, rispettivamente dagli articoli 120, commi 2, 2-bis, 4 e 4-bis, e 122, commi 1, 2 e 5, nonche' di violazione dei divieti previsti dagli articoli 120, comma 5, ((121, comma 1)), e 122, comma 4, nei confronti di societa', enti o associazioni, si applica una delle seguenti sanzioni amministrative:(73) 
- 
-                            
-                            
-                                a)
-                                
-                                    una dichiarazione pubblica indicante il soggetto responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
-
-                                
-                            
-                            
-                                c)
-                                
-                                    una sanzione amministrativa pecuniaria da euro diecimila a euro dieci milioni, ovvero fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.(73) 
- 2.1. Salvo che il fatto costituisca reato, ove le comunicazioni indicate nel comma 2 sono dovute da una persona fisica, in caso di violazione si applica una delle seguenti sanzioni amministrative:(73) 
- a) una dichiarazione pubblica indicante la persona responsabile della violazione e la natura della stessa, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;(73) 
- b) un ordine di eliminare le infrazioni contestate, con eventuale indicazione delle misure da adottare e del termine per l'adempimento, e di astenersi dal ripeterle, quando le infrazioni stesse siano connotate da scarsa offensivita' o pericolosita'; 
- c) una sanzione amministrativa pecuniaria da euro diecimila a euro due milioni. 
+((Salvo che il fatto costituisca reato, nei casi di omissione delle comunicazioni delle partecipazioni rilevanti e dei patti parasociali previste, rispettivamente dagli articoli 120, commi 2, 2-bis, 4 e 4-bis, e 122, commi 1, 2 e 5, nonche' di violazione dei divieti previsti dagli articoli 120, comma 5, 121, commi 1 e 3, e 122, comma 4, nei confronti di societa', enti o associazioni, si applica una sanzione amministrativa pecuniaria da euro diecimila a euro dieci milioni ovvero fino al 5 per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 2.))
+                                ((135)) 
+ 2.1. ((Salvo che il fatto costituisca reato, ove le comunicazioni indicate nel comma 2 sono dovute da una persona fisica, in caso di violazione si applica una sanzione amministrativa pecuniaria da euro diecimila a euro due milioni.))
+                                ((135)) 
  2.2. Per le violazioni indicate nel comma 2, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, qualora la loro condotta abbia contribuito a determinare dette violazioni da parte della persona giuridica si applicano, nei casi previsti dall'articolo 190-bis, comma 1, lettera a), le sanzioni amministrative previste dal comma 2.1. 
  2.3. Nei casi di ritardo delle comunicazioni previste dall'articolo 120, commi 2, 2-bis e 4, non superiore a due mesi, l'importo minimo edittale delle sanzioni amministrative pecuniarie indicate nei commi 2 e 2.1 e' pari a euro cinquemila. 
  2.4. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi edittali indicati nei commi 1, 1.1, 2 e 2.1, del presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
@@ -17604,7 +17491,7 @@ COMMA SOPPRESSO DAL D.LGS. 15 FEBBRAIO 2016, N. 25.
                             
                                 a)
                                 
-                                    ai componenti del collegio sindacale, del consiglio di sorveglianza e del comitato per il controllo sulla gestione che commettono irregolarita' nell'adempimento dei doveri previsti ((dall'articolo 149, comma 1, ovvero omettono le comunicazioni previste dall'articolo 149, comma 2)); 
+                                    ai componenti del collegio sindacale, del consiglio di sorveglianza e del comitato per il controllo sulla gestione che commettono irregolarita' nell'adempimento dei doveri previsti dall'articolo 149, comma 1, ovvero omettono le comunicazioni previste dall'articolo 149, comma 2; 
 
                                 
                             
@@ -17627,11 +17514,10 @@ Nel caso di violazione degli ordini previsti dal presente articolo si applica l'
                             AGGIORNAMENTO (84)
                             
  Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato i commi 1, 1-bis, 1-ter, 2, 2-bis, 3, alinea e 3-ter del presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998". 
-                            ---------------
-                            AGGIORNAMENTO (73)
+                            -------------
+                            AGGIORNAMENTO (135)
                             
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che "Le modifiche apportate dal presente decreto alla parte V del decreto legislativo 24 febbraio 1998, n. 58, si applicano alle violazioni commesse a partire dal 3 gennaio 2018".
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 193-bis. — (( (Rapporti con societa' estere aventi sede legale in Stati che non garantiscono la trasparenza societaria). ))
 
@@ -17647,15 +17533,16 @@ Coloro che sottoscrivono il bilancio della societa' estera di  cui all'articolo 
  CONSOB dall'articolo 165-septies, comma 1, e' punita con la 
  sanzione amministrativa pecuniaria prevista dall'articolo 193, comma 1))
 
-## Art. 193-bis.1. — (( (Sanzioni amministrative in tema di trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto). ))
-
-((
+## Art. 193-bis.1. — Sanzioni amministrative in tema di trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto).
 
 Salvo che il fatto costituisca reato, nei confronti degli investitori istituzionali e dei gestori di attivi in caso di violazione degli articoli 124-quinquies, 124-sexies e 124-septies, nonche' nei confronti dei consulenti in materia di voto in caso di violazione dell'articolo 124-octies ovvero delle relative disposizioni attuative, si applica una sanzione amministrativa pecuniaria da euro duemilacinquecento a euro centocinquantamila.
 
-Le sanzioni previste al comma 1 sono applicate, secondo le rispettive competenze e rispettive procedure sanzionatorie, dalla Consob per le violazioni compiute dai gestori di attivi e dai consulenti in materia di voto, dall'IVASS per le violazioni compiute dagli investitori istituzionali come definiti dall'articolo 124-quater, comma 1, lettera b), n. 1) e dalla COVIP per le violazioni compiute dai fondi pensione indicati all'articolo 124-quater, comma 1, lettera b), n. 2). Nei riguardi di IVASS e COVIP trova comunque applicazione l'articolo 194-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore.
+Le sanzioni previste al comma 1 sono applicate, secondo le rispettive competenze e rispettive procedure sanzionatorie, dalla Consob per le violazioni compiute dai gestori di attivi e dai consulenti in materia di voto, dall'IVASS per le violazioni compiute dagli investitori istituzionali come definiti dall'articolo 124-quater, comma 1, lettera b), n. 1) e dalla COVIP per le violazioni compiute dai fondi pensione indicati all'articolo 124-quater, comma 1, lettera b), n. 2). Nei riguardi di IVASS e COVIP ((trovano)) comunque applicazione ((gli articoli 194-bis e 194-bis.1)). IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore. ((135))
 
-))
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 193-ter. — (Sanzioni amministrative pecuniarie relative alle violazioni delle prescrizioni di cui al regolamento (UE) n. 236/2012)
 
@@ -17681,39 +17568,40 @@ Chiunque non osservi le disposizioni previste dagli articoli 5, 6, 7, 8, 9, 15, 
 
 Le sanzioni amministrative pecuniarie previste al comma 2, lettere a) e b), sono aumentate fino al triplo o fino al maggiore importo di dieci volte il prodotto o il profitto conseguito dall'illecito quando, per le qualita' personali del colpevole, per l'entita' del prodotto o del profitto conseguito dall'illecito ovvero per gli effetti prodotti sul mercato, esse appaiono inadeguate anche se applicate nel massimo.
 
-L'applicazione delle sanzioni amministrative pecuniarie previste dal presente articolo comporta sempre la confisca del prodotto o del profitto dell'illecito. Qualora non sia possibile eseguire la confisca, la stessa puo' avere ad oggetto somme di denaro, beni o altre utilita' di valore equivalente.
+((L'applicazione delle sanzioni amministrative previste dal presente articolo comporta sempre la confisca di una somma pari al profitto dell'illecito. Si applica, in tal caso, l'articolo 187-sexies, commi 2, 3 e 3-bis.))
+                                ((135))
 
-((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)).((73))
+COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
 --------------
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che "Le modifiche apportate dal presente decreto alla parte V del decreto legislativo 24 febbraio 1998, n. 58, si applicano alle violazioni commesse a partire dal 3 gennaio 2018".
+ Ha inoltre disposto (con l'art. 10, comma 13) che "Le modifiche apportate dal presente decreto alla parte V del decreto legislativo 24 febbraio 1998, n. 58, si applicano alle violazioni commesse a partire dal 3 gennaio 2018". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## Art. 193-quater. — (( (Sanzioni amministrative relative alla violazione delle disposizioni previste dal regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, dal regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, e dal regolamento (UE) 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020) ))
+## Art. 193-quater. — (Sanzioni amministrative relative alla violazione delle disposizioni previste dal regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, dal regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, e dal regolamento (UE) 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020)
 
-Le controparti centrali, i gestori delle sedi di negoziazione, le controparti finanziarie e le controparti non finanziarie, come definite dall'articolo 2, punti 1), 4), 8) e 9), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, i soggetti che agiscono in qualita' di partecipanti alle controparti centrali o in qualita' di clienti di questi ultimi, come definiti dall'articolo 2, punto 15), del citato regolamento, i quali non osservano le disposizioni previste dai titoli II, III, IV e V del medesimo regolamento e le relative disposizioni attuative, sono puniti con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. (73)
+Le controparti centrali, i gestori delle sedi di negoziazione, le controparti finanziarie e le controparti non finanziarie, come definite dall'articolo 2, punti 1), 4), 8) e 9), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, i soggetti che agiscono in qualita' di partecipanti alle controparti centrali o in qualita' di clienti di questi ultimi, come definiti dall'articolo 2, punto 15), del citato regolamento, i quali non osservano le disposizioni previste dai titoli II, III, IV e V del medesimo regolamento e le relative disposizioni attuative, sono puniti con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. (73) ((135))
 
-Le controparti finanziarie e le controparti non finanziarie, come definite dall'articolo 3, punti 3) e 4), del regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, le quali non osservano le disposizioni previste dall'articolo 4 del medesimo regolamento e le norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, sono punite con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato complessivo annuo, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209.
+Le controparti finanziarie e le controparti non finanziarie, come definite dall'articolo 3, punti 3) e 4), del regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, le quali non osservano le disposizioni previste dall'articolo 4 del medesimo regolamento e le norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, sono punite con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato complessivo annuo, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. ((135))
 
-Nei confronti delle controparti indicate al comma 1-bis, le quali non osservano le disposizioni previste dall'articolo 15 del regolamento (UE) 2015/2365 si applica la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro quindici milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro quindici milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209.
+Nei confronti delle controparti indicate al comma 1-bis, le quali non osservano le disposizioni previste dall'articolo 15 del regolamento (UE) 2015/2365 si applica la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro quindici milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro quindici milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. ((135))
 
-((
-
-Nei confronti delle controparti centrali e dei partecipanti diretti, come definiti dall'articolo 2, punti 1) e 12), del regolamento (UE) 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020, per l'inosservanza degli obblighi che derivano dal medesimo regolamento (UE) 2021/23 e dalla relativa normativa nazionale di attuazione, o dai relativi atti delegati o dalle norme tecniche di regolamentazione e di attuazione emanati dalla Commissione europea, nonche' in caso di inosservanza delle relative disposizioni generali o particolari emanate dalla Banca d'Italia e dalla Consob, si applica la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato, determinato ai sensi dell'articolo 195, comma 1-bis, del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. Per l'inosservanza delle medesime disposizioni, nei confronti delle persone fisiche si applica la sanzione amministrativa pecuniaria da euro 5.000 a euro 5 milioni. La Banca d'Italia e la Consob non procedono alla contestazione delle violazioni nei casi di assoluta mancanza di pregiudizio per la tutela degli investitori e per la trasparenza del mercato del controllo societario e del mercato dei capitali, ovvero per il tempestivo esercizio delle funzioni di vigilanza.
-
-))
+Nei confronti delle controparti centrali e dei partecipanti diretti, come definiti dall'articolo 2, punti 1) e 12), del regolamento (UE) 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020, per l'inosservanza degli obblighi che derivano dal medesimo regolamento (UE) 2021/23 e dalla relativa normativa nazionale di attuazione, o dai relativi atti delegati o dalle norme tecniche di regolamentazione e di attuazione emanati dalla Commissione europea, nonche' in caso di inosservanza delle relative disposizioni generali o particolari emanate dalla Banca d'Italia e dalla Consob, si applica la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato, determinato ai sensi dell'articolo 195, ((comma 2)), del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. Per l'inosservanza delle medesime disposizioni, nei confronti delle persone fisiche si applica la sanzione amministrativa pecuniaria da euro 5.000 a euro 5 milioni. La Banca d'Italia e la Consob non procedono alla contestazione delle violazioni nei casi di assoluta mancanza di pregiudizio per la tutela degli investitori e per la trasparenza del mercato del controllo societario e del mercato dei capitali, ovvero per il tempestivo esercizio delle funzioni di vigilanza. ((135))
 
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72. (61) (84)
 
-Fermo quanto previsto per le societa' e per gli enti nei confronti dei quali sono accertate le violazioni, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o controllo e del personale si applicano le sanzioni previste per le persone fisiche dai commi ((1, 1-bis, 1-ter e 1-quater)), nei casi previsti dall'articolo 190-bis, comma 1, lettera a).
+Fermo quanto previsto per le societa' e per gli enti nei confronti dei quali sono accertate le violazioni, nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o controllo e del personale si applicano le sanzioni previste per le persone fisiche dai commi 1, 1-bis, 1-ter e 1-quater, nei casi previsti dall'articolo 190-bis, comma 1, lettera a).
 
 Con il provvedimento di applicazione della sanzione amministrativa pecuniaria prevista dal comma 2-bis, in ragione della gravita' della violazione accertata e tenuto conto dei criteri stabiliti dall'articolo 194-bis, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso le controparti centrali, i gestori delle sedi di negoziazione e le controparti finanziarie, come definite rispettivamente dagli articoli 2, punto 8), del regolamento (UE) n. 648/2012 e 3, punto 3), del regolamento (UE) 2015/2365.
 
-Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al triplo dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. ((Nei casi di cui al comma 1-quater, se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel medesimo comma, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.))
+Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al triplo dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. Nei casi di cui al comma 1-quater, se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel medesimo comma, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
 
-Le sanzioni previste dal presente articolo sono applicate dalla Banca d'Italia, dalla Consob, dall'IVASS e dalla COVIP, sui soggetti dalle medesime vigilati e secondo le attribuzioni di vigilanza specificate all'articolo 4-quater e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli 194-bis, 194-quater, 194-septies e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore.
+Le sanzioni previste dal presente articolo sono applicate dalla Banca d'Italia, dalla Consob, dall'IVASS e dalla COVIP, sui soggetti dalle medesime vigilati e secondo le attribuzioni di vigilanza specificate all'articolo 4-quater e le rispettive procedure sanzionatorie. Nei riguardi dell'IVASS e della COVIP trovano comunque applicazione, per quanto di rispettiva competenza e ai fini del presente articolo, gli articoli 194-bis, ((194-bis.1)) e 195-ter, comma 1-bis. IVASS e COVIP pubblicano le sanzioni irrogate secondo le procedure di settore. ((135))
 
 COMMA ABROGATO DAL D.LGS. 13 FEBBRAIO 2019, N. 19.
 
@@ -17729,11 +17617,16 @@ COMMA ABROGATO DAL D.LGS. 13 FEBBRAIO 2019, N. 19.
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 2, comma 1, lettera u)) che "all'articolo 193-quater: 1) ai commi 1, 1-bis, 1-ter e 1-quater, le parole: «comma 1-bis» sono sostituite dalle seguenti: «comma 2»". 
+ Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 193-quinquies. — Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 1286/2014).
 
-La violazione delle disposizioni richiamate dall'articolo 24, paragrafo 1, del regolamento (UE) n. 1286/2014, ovvero la mancata osservanza delle misure adottate ai sensi dell'articolo 4-sexies, comma 5, nonche' delle misure adottate ai sensi dell'articolo 4-septies, comma 1, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro settecentomila con provvedimento adottato dalla Consob o dall'IVASS secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al tre per cento del relativo fatturato quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.(73)
+La violazione delle disposizioni richiamate dall'articolo 24, paragrafo 1, del regolamento (UE) n. 1286/2014, ovvero la mancata osservanza delle misure adottate ai sensi dell'articolo 4-sexies, comma 5, nonche' delle misure adottate ai sensi dell'articolo 4-septies, comma 1, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro settecentomila con provvedimento adottato dalla Consob o dall'IVASS secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al tre per cento del relativo fatturato quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). (73) ((135))
 
 COMMA ABROGATO DAL D.LGS. 25 NOVEMBRE 2019, N. 165.
 
@@ -17742,7 +17635,7 @@ Le sanzioni previste ai commi 1 e 2 per le persone fisiche si applicano nei conf
 Se il profitto ottenuto dall'autore della violazione come conseguenza della violazione stessa o la perdita evitata grazie alla violazione sono superiori ai limiti massimi indicati nel comma 1, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare dei profitti ottenuti o delle perdite evitate, purche' tale ammontare sia determinabile.
 
 La Consob e l'IVASS possono imporre, secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies, agli ideatori di PRIIP o ai soggetti che forniscono consulenza sui PRIIP o vendono tali prodotti, di trasmettere una comunicazione diretta all'investitore al dettaglio in PRIIP interessato, fornendogli informazioni circa le sanzioni adottate e comunicando le modalita' per la presentazione di eventuali reclami o domande di risarcimento anche mediante il ricorso ai meccanismi di risoluzione stragiudiziale delle controversie previsti dal decreto legislativo 8 ottobre 2007, n. 179. 
- (69) ((96))
+ (69) (96)
 
 ------------
                             AGGIORNAMENTO (69)
@@ -17756,17 +17649,25 @@ La Consob e l'IVASS possono imporre, secondo le rispettive competenze definite a
                             --------------
                             AGGIORNAMENTO (96)
                             
- Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 33, comma 2-bis) che "Nell'ambito delle misure di cui al presente articolo volte a semplificare gli adempimenti concernenti i contratti finanziari .e assicurativi e in considerazione dello stato di emergenza nel territorio nazionale relativo al rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili, dichiarato con la delibera del Consiglio dei ministri del 31 gennaio 2020, pubblicata nella Gazzetta Ufficiale n. 26 del 1° febbraio 2020, gli articoli 4-sexies;4-septies, 4-decies, 193-quinquies e 194-septies del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, nella formulazione vigente il giorno precedente alla data di entrata in vigore del decreto legislativo 25 novembre 2019, n. 165, e le disposizioni regolamentari emanate dalla Commissione nazionale per le societa' e la borsa ai sensi del menzionato articolo 4-sexies, comma 5, continuano ad applicarsi fino alla data del 31 dicembre 2020".
+ Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 33, comma 2-bis) che "Nell'ambito delle misure di cui al presente articolo volte a semplificare gli adempimenti concernenti i contratti finanziari .e assicurativi e in considerazione dello stato di emergenza nel territorio nazionale relativo al rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili, dichiarato con la delibera del Consiglio dei ministri del 31 gennaio 2020, pubblicata nella Gazzetta Ufficiale n. 26 del 1° febbraio 2020, gli articoli 4-sexies;4-septies, 4-decies, 193-quinquies e 194-septies del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, nella formulazione vigente il giorno precedente alla data di entrata in vigore del decreto legislativo 25 novembre 2019, n. 165, e le disposizioni regolamentari emanate dalla Commissione nazionale per le societa' e la borsa ai sensi del menzionato articolo 4-sexies, comma 5, continuano ad applicarsi fino alla data del 31 dicembre 2020". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## Art. 193-sexies. — (( (Sistemi interni di segnalazione).))
+## Art. 193-sexies. — (Sistemi interni di segnalazione)
 
-((73))
+In caso di inosservanza delle disposizioni previste dall'articolo 4-undecies e dalle relative disposizioni attuative, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). In tal caso, fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, si applica anche la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni nei confronti degli esponenti aziendali e del personale della societa' o dell'ente nei casi previsti dall'articolo 190-bis, comma 1, lettera a). (73) ((135))
 
 -------------
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 194. — Deleghe di voto
 
@@ -17794,13 +17695,78 @@ Se all'osservanza delle disposizioni previste dal comma 2 e' tenuta una societa'
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
  Ha inoltre disposto (con l'art. 10, comma 13) che l'abrogazione del comma 2-quater del presente articolo si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
+## Art. 194.1. — (( (Violazioni di carattere non rilevante).))
+
+1.
+                        
+                            
+                                
+                                    ((Le sanzioni amministrative previste dal presente decreto si applicano quando le violazioni rivestono carattere rilevante secondo quanto stabilito con regolamento dalla Banca d'Italia e dalla Consob in base alle rispettive competenze, tenuto conto dei seguenti criteri, anche in alternativa tra loro:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((incidenza della condotta sulla complessiva organizzazione e sui profili di rischio aziendali;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((carattere sistematico o diffuso delle violazioni;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((significativita' del pericolo per la tutela degli investitori, della sana e prudente gestione dell'impresa o della stabilita' finanziaria;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((incidenza sul tempestivo esercizio delle funzioni di vigilanza o mancata ottemperanza a specifiche prescrizioni provenienti dall'Autorita' di vigilanza competente;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((significativita' del profitto conseguente alla violazione o del pregiudizio causato purche' determinabile;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((incidenza della condotta sulla trasparenza o l'integrita' dei mercati dei capitali e del controllo societario.))
+
+((Rivestono in ogni caso carattere rilevante le violazioni per le quali e' prevista una sanzione amministrativa pecuniaria superiore nel minimo a trentamila euro.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 2) che "La disciplina dettata dagli articoli 194.1, 195, a eccezione dei commi 7 e 8, 195.2, 196-ter e 196-quater del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come introdotti o modificati dal presente decreto, si applica a partire dal nono mese successivo dalla data di entrata in vigore del presente decreto.
+Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle rispettive competenze e secondo le forme di coordinamento applicabili, adottano i regolamenti previsti dai medesimi articoli". 
+ Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
 ## Art. 194-bis. — (Criteri per la determinazione delle sanzioni)
 
 1.
                         
                             
-                                Nella determinazione del tipo e dell'ammontare delle sanzioni amministrative pecuniarie o della durata delle sanzioni accessorie previste dal presente decreto, la Banca d'Italia o la Consob considerano ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: (66) 
- 
+                                Nella determinazione del tipo e dell'ammontare delle sanzioni amministrative pecuniarie o della durata delle sanzioni accessorie previste dal presente decreto, ((a Banca d'Italia e la Consob, secondo le rispettive competenze,)) considerano ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: (66) ((135))
+                                
                             
                             
                                 a)
@@ -17854,7 +17820,8 @@ Se all'osservanza delle disposizioni previste dal comma 2 e' tenuta una societa'
                             
                                 g-bis)
                                 
-                                    la criticita' dell'indice di riferimento per la stabilita' finanziaria;
+                                    la criticita' dell'indice di riferimento per la stabilita' finanziaria; 
+
                                 
                             
                             
@@ -17882,7 +17849,24 @@ Se all'osservanza delle disposizioni previste dal comma 2 e' tenuta una societa'
                             -----------
                             AGGIORNAMENTO (66)
                             
- Il D.Lgs. 18 aprile 2016, n. 71 ha disposto (con l'art. 1, comma 1, lettera i)) che al comma 1 del presente articolo "le parole: «Nella determinazione dell'ammontare delle sanzioni amministrative pecuniarie o della durata delle sanzioni accessorie» sono sostituite dalle seguenti: «Nella determinazione del tipo, della durata e dell'ammontare delle sanzioni»".
+ Il D.Lgs. 18 aprile 2016, n. 71 ha disposto (con l'art. 1, comma 1, lettera i)) che al comma 1 del presente articolo "le parole: «Nella determinazione dell'ammontare delle sanzioni amministrative pecuniarie o della durata delle sanzioni accessorie» sono sostituite dalle seguenti: «Nella determinazione del tipo, della durata e dell'ammontare delle sanzioni»". 
+ 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 194-bis.1. — (( (Ordine di eliminare le infrazioni contestate. Dichiarazione pubblica).))
+
+
+
+((L'inosservanza dell'ordine entro il termine stabilito importa l'aumento fino ad un terzo della sanzione amministrativa pecuniaria irrogata ovvero l'applicazione della sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 194-ter. — Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. (( 575/2013, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2013/36/UE e del regolamento (UE) n. 575/2013) )) (73
 
@@ -17914,426 +17898,181 @@ Si applica l'articolo 187-quinquiesdecies, comma 1-quater.
 
 ))
 
-## Art. 194-quater. — (Ordine di porre termine alle violazioni)
+## Art. 194-quater. — ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128))
 
-1.
-                        
-                            
-                                Quando le violazioni sono connotate da scarsa offensivita' o pericolosita', nei confronti delle societa' o degli enti interessati, puo' essere applicata, in alternativa alle sanzioni amministrative pecuniarie, una sanzione consistente nell'ordine di eliminare le infrazioni contestate, anche indicando le misure da adottare e il termine per l'adempimento, nel caso di inosservanza: 
- 
-                            
-                            
-                                a)
-                                
-                                    delle norme previste dagli articoli 4-undecies; 6; 12; 21; 33, comma 4; 35-decies; 67-ter; 68, commi 1 e 2; 68-quater, commi 2 e 3; 98-ter, comma 3; 98-ter.1, commi 3 e 4, e delle relative disposizioni attuative; 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    delle disposizioni generali o particolari emanate dalla Consob ai sensi dell'articolo 98-quater; 
-
-                                
-                            
-                            
-                                c)
-                                
-                                    delle norme richiamate dall'articolo 63, paragrafo 1, del regolamento (UE) n. 909/2014 e delle relative disposizioni attuative. 
-
-                                
-                            
-                            
-                                c-bis)
-                                
-                                    delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafo 3, lettera b), della direttiva 2014/65/UE e delle relative disposizioni attuative. (73) 
-
-                                
-                            
-                            
-                                c-ter)
-                                
-                                    dell'articolo 59, paragrafi 2, 3 e 5, del regolamento (UE) n. 1031/2010 e delle relative disposizioni di attuazione, richiamate dall'articolo 190, comma 2-quater; 
-
-                                
-                            
-                            
-                                c-quater)
-                                
-                                    delle norme del regolamento (UE) n. 648/2012, del regolamento (UE) 2015/2365 e del regolamento (UE) 2021/23 richiamate dall'articolo 193-quater, commi 1, 1-bis, 1-ter e 1-quater.
-                                
-                            
-                            
-                                c-quinquies)
-                                
-                                    delle norme del regolamento (UE) 2016/1011 richiamate dall'articolo 190-bis.1, commi 1 e 3. 
-
-                                
-                            
-                            
-                                c-sexies)
-                                
-                                    delle norme previste dagli articoli 124-quinquies, 124-sexies, 124-septies, 124-octies e delle relative disposizioni attuative. 
-
-                                
-                            
-                            
-                                c-septies)
-                                
-                                    delle disposizioni richiamate dall'articolo 191, commi 1, 4 e 5; 
-
-                                
-                            
-                            
-                                c-octies)
-                                
-                                    delle norme del regolamento (UE) 2019/2033 richiamate dall'articolo 194-ter.1 e delle relative disposizioni attuative; 
-
-                                
-                            
-                            
-                                c-novies)
-                                
-                                    delle norme del regolamento (UE) n. 575/2013 richiamate dall'articolo 194-ter e delle relative disposizioni attuative. 
-
-                                
-                            
-                            
-                                c-decies)
-                                
-                                    delle norme del regolamento (UE) 2017/2402 richiamate dall'articolo 190-bis.2, comma 1.
-
-Per l'inosservanza dell'ordine entro il termine stabilito si applica la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata fino ad un terzo.
-
---------------
-                            AGGIORNAMENTO (61)
-                            
- Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia secondo le rispettive competenze ai sensi dell'articolo 196-bis del decreto legislativo 24 febbraio 1998, n. 58. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia continuano ad applicarsi le norme della parte V del decreto legislativo 24 febbraio 1998, n. 58 vigenti prima della data di entrata in vigore del presente decreto legislativo". 
-                            --------------
-                            AGGIORNAMENTO (84)
-                            
- Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998". 
-                            ---------------
-                            AGGIORNAMENTO (73)
-                            
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
-
-## Art. 194-quinquies. — (Pagamento in misura ridotta)
-
-1.
-                        
-                            
-                                Possono essere estinte mediante pagamento, nel termine di trenta giorni dalla notificazione della lettera di contestazione, di una somma pari al doppio del minimo della sanzione edittale, quando non sussistano le circostanze previste dal comma 2, le violazioni previste: 
- 
-                            
-                            
-                                a)
-                                
-                                    dall'articolo 190, per la violazione degli articoli 45, comma 1, 46, comma 1, 65, e delle relative disposizioni attuative; (73) 
-
-                                
-                            
-                            
-                                a-bis)
-                                
-                                    dall'articolo 190.1, per la violazione degli articoli 83-quater, comma 3, 83-novies, comma 1, 83-novies.1, comma 1, 83-duodecies, e delle relative disposizioni attuative; (98) 
- a-bis.1) LETTERA ABROGATA DAL D.LGS. 14 LUGLIO 2020, N. 84; (98) 
-                                
-                            
-                            
-                                a-ter)
-                                
-                                    dall'articolo 190.3, per la violazione degli articoli 64-ter, commi 2, 3 e 4, ((...)) e delle relative disposizioni attuative; (73) 
-
-                                
-                            
-                            
-                                a-quater)
-                                
-                                    dall'articolo 190.4, per la violazione dell'articolo 3, paragrafo 1; dell'articolo 6, paragrafo 1; dell'articolo 8, paragrafo 1; dell'articolo 10, paragrafo 1; dell'articolo 12, paragrafo 1; dell'articolo 15, paragrafo 1, primo comma, paragrafo 2 e paragrafo 4, seconda frase; dell'articolo 18, paragrafo 6, primo comma; dell'articolo 20, paragrafi 1 e 2, prima frase; dell'articolo 21, paragrafi 1, 2 e 3; dell'articolo 26, paragrafo 1, primo comma, paragrafi da 2 a 5 e 6, primo comma, e paragrafo 7, commi dal primo al terzo, del regolamento (UE) n. 600/2014, e delle relative disposizioni attuative ((e, in caso di APA o di ARM, degli articoli 27-octies, paragrafi da 1 a 5, e 27-decies, paragrafi da 1 a 4, del medesimo regolamento)); (73) 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    dall'articolo 191, comma 5, per la violazione degli articoli 96 e 101, commi 2 e 3, e relative disposizioni attuative e dall'articolo 191-ter, comma 2, per la violazione dell'articolo 101, commi 2 e 3, e relative disposizioni attuative; 
-
-                                
-                            
-                            
-                                c)
-                                
-                                    dall'articolo 193, commi 1, 1.1 e 1.2, per la violazione degli articoli 113-ter, comma 5, lettera b), 114, commi 2 e 7, e dall'articolo 193, commi 2, 2.1, 2.2 e 2.3, per la violazione dell'articolo 120; 
-
-                                
-                            
-                            
-                                d)
-                                
-                                    dall'articolo 194, comma 2, per la violazione dell'articolo 142, e dell'articolo 194, comma 2-bis e delle relative disposizioni attuative. (73)
-
-Il pagamento in misura ridotta non puo' essere effettuato nel caso in cui il soggetto interessato abbia gia' usufruito di tale misura nei dodici mesi precedenti alla violazione contestata. 
- 
- (61) (84)
-
---------------
-                            AGGIORNAMENTO (61)
-                            
- Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia secondo le rispettive competenze ai sensi dell'articolo 196-bis del decreto legislativo 24 febbraio 1998, n. 58. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia continuano ad applicarsi le norme della parte V del decreto legislativo 24 febbraio 1998, n. 58 vigenti prima della data di entrata in vigore del presente decreto legislativo". 
-                            --------------
-                            AGGIORNAMENTO (84)
-                            
- Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998". 
-                            ---------------
-                            AGGIORNAMENTO (73)
-                            
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018. 
-                            ---------------
-                            AGGIORNAMENTO (98)
-                            
- Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 1) che, fermo quanto previsto dall'articolo 7 del decreto legislativo 10 maggio 2019, n. 49, le presenti modifiche si applicano alle violazioni commesse dopo la data di entrata in vigore del D.Lgs.
-medesimo.
-
-## Art. 194-sexies. — (( (Condotte inoffensive). ))
-
-((61))
-                                ((84))
-
---------------
-                            AGGIORNAMENTO (61)
-                            
- Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia secondo le rispettive competenze ai sensi dell'articolo 196-bis del decreto legislativo 24 febbraio 1998, n. 58. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia continuano ad applicarsi le norme della parte V del decreto legislativo 24 febbraio 1998, n. 58 vigenti prima della data di entrata in vigore del presente decreto legislativo". 
-                            --------------
-                            AGGIORNAMENTO (84)
-                            
- Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998".
-
-## Art. 194-septies. — (Dichiarazione pubblica)
-
-1.
-                        
-                            
-                                Quando le violazioni sono connotate da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata, puo' essere applicata, in alternativa alle sanzioni amministrative pecuniarie, una sanzione consistente nella dichiarazione pubblica avente ad oggetto la violazione commessa e il soggetto responsabile, nel caso di inosservanza: 
- 
-                            
-                            
-                                a)
-                                
-                                    delle norme previste dagli articoli 4-undecies; 6; 12; 21; 22; 24, comma 1-bis; 24-bis;29; 33, comma 4; 35-decies; 67-ter; 68, commi 1 e 2; 68-quater, commi 2 e 3; 98-ter, comma 3; 98-ter.1, commi 3 e 4; e 187-quinquiesdecies, comma 1, e delle relative disposizioni attuative; 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    delle disposizioni generali o particolari emanate dalla Consob ai sensi dell'articolo 98-quater; 
-
-                                
-                            
-                            
-                                c)
-                                
-                                    delle norme richiamate dall'articolo 63, paragrafo 1, del regolamento (UE) n. 909/2014 e delle relative disposizioni attuative; 
-
-                                
-                            
-                            
-                                d)
-                                
-                                    delle norme richiamate dall'articolo 24, paragrafo 1, del regolamento (UE) n. 1286/2014, nonche' per la mancata osservanza delle misure adottate ai sensi dell'articolo 4-sexies, comma 5, e dell'articolo 4-septies, comma 1; 
-
-                                
-                            
-                            
-                                e)
-                                
-                                    delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafo 3, lettera b), della direttiva 2014/65/UE e delle relative disposizioni attuative e delle misure adottate dalla Consob ai sensi dell'articolo 42 del medesimo regolamento. 
-
-                                
-                            
-                            
-                                e-bis)
-                                
-                                    dell'articolo 59, paragrafi 2, 3 e 5, del regolamento (UE) n. 1031/2010 e delle relative disposizioni di attuazione, richiamate dall'articolo 190, comma 2-quater; 
-
-                                
-                            
-                            
-                                e-ter)
-                                
-                                    delle norme del regolamento (UE) n. 648/2012, del regolamento (UE) 2015/2365 e del regolamento (UE) 2021/23 richiamate dall'articolo 193-quater, commi 1, 1-bis, 1-ter e 1-quater.
-                                
-                            
-                            
-                                e-quater)
-                                
-                                    delle norme del regolamento (UE) 2016/1011 richiamate dall'articolo 190-bis.1, commi 1 e 3. 
-
-                                
-                            
-                            
-                                e-quinquies)
-                                
-                                    delle norme previste dagli articoli 124-quinquies, 124-sexies, 124-septies, 124-octies e delle relative disposizioni attuative. 
-
-                                
-                            
-                            
-                                e-sexies)
-                                
-                                    delle disposizioni richiamate dall'articolo 191, commi 1, 4 e 5; 
-
-                                
-                            
-                            
-                                e-septies)
-                                
-                                    delle norme del regolamento (UE) 2019/2033 richiamate dall'articolo 194-ter.1 e delle relative disposizioni attuative; 
-
-                                
-                            
-                            
-                                e-octies)
-                                
-                                    delle norme del regolamento (UE) n. 575/2013 richiamate dall'articolo 194-ter e delle relative disposizioni attuative. 
-
-                                
-                            
-                            
-                                e-novies)
-                                
-                                    delle norme del regolamento (UE) 2017/2402 richiamate dall'articolo 190-bis.2, comma 1. 
- (73) (96)
-
-------------
-                            AGGIORNAMENTO (69)
-                            
- Il D.Lgs. 14 novembre 2016, n. 224 ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dalla data di applicazione del regolamento (UE) n. 1286/2014. 
-                            ---------------
-                            AGGIORNAMENTO (73)
-                            
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018. 
-                            --------------
-                            AGGIORNAMENTO (96)
-                            
- Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 33, comma 2-bis) che "Nell'ambito delle misure di cui al presente articolo volte a semplificare gli adempimenti concernenti i contratti finanziari .e assicurativi e in considerazione dello stato di emergenza nel territorio nazionale relativo al rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili, dichiarato con la delibera del Consiglio dei ministri del 31 gennaio 2020, pubblicata nella Gazzetta Ufficiale n. 26 del 1° febbraio 2020, gli articoli 4-sexies;4-septies, 4-decies, 193-quinquies e 194-septies del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, nella formulazione vigente il giorno precedente alla data di entrata in vigore del decreto legislativo 25 novembre 2019, n. 165, e le disposizioni regolamentari emanate dalla Commissione nazionale per le societa' e la borsa ai sensi del menzionato articolo 4-sexies, comma 5, continuano ad applicarsi fino alla data del 31 dicembre 2020".
-
-## Art. 195. — (Procedura sanzionatoria).
-
-Le sanzioni amministrative previste nel presente titolo sono applicate dalla Banca d'Italia o dalla Consob, secondo le rispettive competenze, con provvedimento motivato, previa contestazione degli addebiti agli interessati, da effettuarsi entro centottanta giorni dall'accertamento ovvero entro trecentosessanta giorni se l'interessato risiede o ha la sede all'estero. I soggetti interessati possono, entro trenta giorni dalla contestazione, presentare deduzioni e chiedere un'audizione personale in sede di istruttoria, cui possono partecipare anche con l'assistenza di un avvocato.(61)(84)
-
-((1-bis. Ai fini dell'applicazione delle sanzioni amministrative pecuniarie previste dal presente titolo, per fatturato si intende il fatturato totale annuo della societa' o dell'ente, risultante dall'ultimo bilancio disponibile approvato dall'organo competente, cosi' come definito dalle disposizioni attuative di cui all'articolo 196-bis.))
-
-((73))
-
-Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie.
-
-COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.(61)(84)
-
-Avverso il provvedimento che applica la sanzione e' ammesso ricorso alla corte d'appello del luogo in cui ha sede la societa' o l'ente cui appartiene l'autore della violazione ovvero, nei casi in cui tale criterio non sia applicabile, del luogo in cui la violazione e' stata commessa. Il ricorso e' notificato, a pena di decadenza, all'Autorita' che ha emesso il provvedimento nel termine di trenta giorni dalla comunicazione del provvedimento impugnato, ovvero sessanta giorni se il ricorrente risiede all'estero, ed e' depositato in cancelleria, unitamente ai documenti offerti in comunicazione, nel termine perentorio di trenta giorni dalla notifica.(61)(84)
-
-L'opposizione non sospende l'esecuzione del provvedimento. La corte d'appello, se ricorrono gravi motivi, puo' disporre la sospensione con ordinanza non impugnabile.(61)(84)
-
-Il Presidente della corte d'appello designa il giudice relatore e fissa con decreto l'udienza pubblica per la discussione dell'opposizione. Il decreto e' notificato alle parti a cura della cancelleria almeno sessanta giorni prima dell'udienza. L'Autorita' deposita memorie e documenti nel termine di dieci giorni prima dell'udienza. Se alla prima udienza l'opponente non si presenta senza addurre alcun legittimo impedimento, il giudice, con ordinanza ricorribile per Cassazione, dichiara il ricorso improcedibile, ponendo a carico dell'opponente le spese del procedimento.(61)(84)
-
-All'udienza la corte d'appello dispone, anche d'ufficio, i mezzi di prova che ritiene necessari, nonche' l'audizione personale delle parti che ne abbiano fatto richiesta. Successivamente le parti procedono alla discussione orale della causa. La sentenza e' depositata in cancelleria entro sessanta giorni. Quando almeno una delle parti manifesta l'interesse alla pubblicazione anticipata del dispositivo rispetto alla sentenza, il dispositivo e' pubblicato mediante deposito in cancelleria non oltre sette giorni dall'udienza di discussione.(61)(84)
-
-Con la sentenza la corte d'appello puo' rigettare l'opposizione, ponendo a carico dell'opponente le spese del procedimento o accoglierla, annullando in tutto o in parte il provvedimento o riducendo l'ammontare o la durata della sanzione.(61)(84)
-
-Copia della sentenza e' trasmessa, a cura della cancelleria della corte d'appello, all'Autorita' che ha emesso il provvedimento, anche ai fini della pubblicazione prevista dall'articolo 195-bis.(61)(84)
-
-COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.(61)(84)
+((135))
 
 -------------
-                            AGGIORNAMENTO (55)
+                            AGGIORNAMENTO (135)
                             
- Successivamente la Corte Costituzionale, con sentenza 9 - 15 aprile 2014, n. 94 (in G.U. 1a s.s. 23/04/2014, n. 18), ha dichiarato l'illegittimita' costituzionale dell'art. 4, comma 1, numero 19), dell'Allegato 4 del D.Lgs. 2 luglio 2010, n. 104, nella parte in cui abroga i commi da 4 a 8 del presente articolo. 
-                            -------------
-                            AGGIORNAMENTO (46)
-                            
- Il D.Lgs. 2 luglio 2010, n. 104, come modificato dal D.Lgs. 14 settembre 2012, n. 160, non prevede piu' (con l'art. 4, comma 1 dell'allegato 4) l'abrogazione dei commi da 4 a 8 del presente articolo. 
-                            --------------
-                            AGGIORNAMENTO (61)
-                            
- Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia secondo le rispettive competenze ai sensi dell'articolo 196-bis del decreto legislativo 24 febbraio 1998, n. 58. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia continuano ad applicarsi le norme della parte V del decreto legislativo 24 febbraio 1998, n. 58 vigenti prima della data di entrata in vigore del presente decreto legislativo". 
- Ha inoltre disposto (con l'art. 6, comma 8) che "Le modifiche all'articolo 195, commi 4, 5, 6, 7, 7-bis, e 8 e 9 del decreto legislativo 24 febbraio 1998, n. 58, si applicano ai giudizi proposti a decorrere dall'entrata in vigore del presente decreto legislativo; nei giudizi pendenti alla medesima data le udienze sono pubbliche". 
-                            --------------
-                            AGGIORNAMENTO (84)
-                            
- Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato i commi 1, 3, 4, 5, 6, 7, 7-bis, 8 e 9 del presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998". 
-                            ---------------
-                            AGGIORNAMENTO (73)
-                            
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## Art. 195-bis. — (Pubblicazione delle sanzioni).
+## Art. 194-quinquies. — ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128))
 
-Il provvedimento di applicazione delle sanzioni previste dal presente decreto e' pubblicato senza ritardo e per estratto nel sito internet della Banca d'Italia o della Consob, in conformita' alla normativa europea di riferimento. Nel caso in cui avverso il provvedimento di applicazione della sanzione sia adita l'autorita' giudiziaria, la Banca d'Italia o la Consob menzionano l'avvio dell'azione giudiziaria e l'esito della stessa a margine della pubblicazione. La Banca d'Italia o la Consob, tenuto conto della natura della violazione e degli interessi coinvolti, possono stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.
+((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 194-sexies. — ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128))
+
+((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 194-septies. — ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128))
+
+((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 195. — (( (Procedura sanzionatoria).))
+
+((135))
+
+((Ai fini dell'applicazione delle sanzioni amministrative pecuniarie previste dal presente decreto, per fatturato si intende il fatturato totale annuo della societa' o dell'ente, risultante dall'ultimo bilancio disponibile approvato dall'organo competente, cosi' come definito dalle disposizioni attuative di cui all'articolo 196-sexies.))
+                                ((135))
+
+((Il procedimento per l'applicazione delle sanzioni amministrative previste dal presente decreto e' retto dai principi del contraddittorio, della piena conoscenza e parita' delle attivita' istruttorie, secondo quanto stabilito dal comma 4, della sollecita verbalizzazione, nonche' della distinzione tra funzioni istruttorie e funzioni decisorie.))
+                                ((135))
+
+4.
+                        
+                            
+                                
+                                    ((La contestazione deve indicare la data in cui si e' concluso l'accertamento e il termine di conclusione del procedimento sanzionatorio, determinato ai sensi del comma 5. L'interessato puo':))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((formulare istanza di accesso agli atti ai sensi del capo V della legge 7 agosto 1990, n. 241;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((entro trenta giorni dalla contestazione, presentare deduzioni e chiedere un'audizione personale nella fase istruttoria del procedimento, cui puo' partecipare anche con l'assistenza di un avvocato, indicare elementi di prova, tra cui documenti, perizie, consulenze, dichiarazioni testimoniali, che la Banca d'Italia e la Consob sono tenute a valutare;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((presentare deduzioni scritte all'organo decidente o, in alternativa, nei casi di particolare complessita' e rilevanza, richiedere l'audizione personale nella fase decisoria, a cui puo' partecipare anche con l'assistenza di un avvocato.))
+                                        ((135))
+
+((La Banca d'Italia e la Consob stabiliscono con regolamento le modalita' e il contenuto della contestazione, le regole applicabili al procedimento sanzionatorio, il termine perentorio di conclusione del procedimento, i casi tassativi di interruzione e sospensione dello stesso nonche' le modalita' per assicurare la distinzione fra funzioni istruttorie e decisorie, nel rispetto di quanto previsto dal presente articolo e dei principi previsti nell'articolo 195.1.))
+                                ((135))
+
+((Ferme restando le altre modalita' previste dall'ordinamento, le comunicazioni e le notificazioni previste dal presente titolo, nonche' dal titolo I-bis, capo III, e dal titolo II-bis, sono effettuate in via telematica all'indirizzo di posta elettronica certificata (PEC), risultante da pubblici elenchi o comunicato dai soggetti interessati nelle forme e secondo le modalita' stabilite dall'Autorita' con il regolamento di cui al comma 5.))
+                                ((135))
+
+((Il ricorso avverso il provvedimento che applica la sanzione e' notificato all'Autorita' che lo ha emesso ed e' devoluto alla giurisdizione esclusiva del giudice amministrativo e alla competenza funzionale del tribunale amministrativo regionale per la Lombardia (TAR Lombardia) sede di Milano, secondo il rito di cui all'articolo 119 del codice del processo amministrativo, di cui all'allegato I al decreto legislativo 2 luglio 2010, n. 104. Il ricorso non sospende l'esecuzione del provvedimento che applica la sanzione.))
+
+((Per quanto concerne le sanzioni di competenza della Consob e della Banca d'Italia, relative alle violazioni di disposizioni diverse da quelle previste dal presente decreto e per la cui applicazione e' richiamato il presente articolo, avverso il provvedimento che applica la sanzione e' ammesso ricorso alla corte d'appello del luogo in cui ha sede la societa' o l'ente cui appartiene l'autore della violazione ovvero, nei casi in cui tale criterio non sia applicabile, del luogo in cui la violazione e' stata commessa. Il ricorso e' notificato, a pena di decadenza, all'Autorita' che ha emesso il provvedimento nel termine di trenta giorni dalla comunicazione del provvedimento impugnato, ovvero sessanta giorni se il ricorrente risiede all'estero, ed e' depositato in cancelleria, unitamente ai documenti offerti in comunicazione, nel termine perentorio di trenta giorni dalla notifica. L'opposizione non sospende l'esecuzione del provvedimento. La corte d'appello, se ricorrono gravi motivi, puo' disporre la sospensione con ordinanza non impugnabile. Il Presidente della corte d'appello designa il giudice relatore e fissa con decreto l'udienza pubblica per la discussione dell'opposizione. Il decreto e' notificato alle parti a cura della cancelleria almeno sessanta giorni prima dell'udienza.
+L'Autorita' deposita memorie e documenti nel termine di dieci giorni prima dell'udienza. Se alla prima udienza l'opponente non si presenta senza addurre alcun legittimo impedimento, il giudice, con ordinanza ricorribile per Cassazione, dichiara il ricorso improcedibile, ponendo a carico dell'opponente le spese del procedimento.
+All'udienza la corte d'appello dispone, anche d'ufficio, i mezzi di prova che ritiene necessari, nonche' l'audizione personale delle parti che ne abbiano fatto richiesta. Successivamente le parti procedono alla discussione orale della causa. La sentenza e' depositata in cancelleria entro sessanta giorni. Quando almeno una delle parti manifesta l'interesse alla pubblicazione anticipata del dispositivo rispetto alla sentenza, il dispositivo e' pubblicato mediante deposito in cancelleria non oltre sette giorni dall'udienza di discussione. Con la sentenza la corte d'appello puo' rigettare l'opposizione, ponendo a carico dell'opponente le spese del procedimento o accoglierla, annullando in tutto o in parte il provvedimento o riducendo l'ammontare o la durata della sanzione.
+Copia della sentenza e' trasmessa, a cura della cancelleria della corte d'appello, all'Autorita' che ha emesso il provvedimento, anche ai fini della pubblicazione prevista dall'articolo 195-bis.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 2) che "La disciplina dettata dagli articoli 194.1, 195, a eccezione dei commi 7 e 8, 195.2, 196-ter e 196-quater del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come introdotti o modificati dal presente decreto, si applica a partire dal nono mese successivo dalla data di entrata in vigore del presente decreto.
+Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle rispettive competenze e secondo le forme di coordinamento applicabili, adottano i regolamenti previsti dai medesimi articoli". 
+ Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 195.1. — (( (Principi sulle sanzioni amministrative).))
+
+
+
+((Fuori dai casi previsti dal comma 1, in caso di modifica del trattamento sanzionatorio per gli illeciti amministrativi previsti dal presente decreto si applica quello piu' favorevole al sanzionato, salvo che il provvedimento di applicazione delle sanzioni sia definitivo. Resta fermo che l'individuazione della violazione avviene sulla base delle disposizioni richiamate nel presente titolo e nel titolo I-bis della presente parte e relative disposizioni di attuazione vigenti al momento della commissione dell'illecito.))
+
+((Salvo che sia diversamente stabilito dalla legge, chi con un'azione od omissione viola diverse disposizioni del presente decreto che prevedono sanzioni amministrative o commette piu` violazioni di una di tali disposizioni, e' soggetto a un'unica procedura sanzionatoria da parte dell'Autorita' competente e soggiace alla sanzione prevista per la violazione piu' grave, aumentata sino al triplo. Alla stessa sanzione prevista dal primo periodo soggiace anche chi con piu' azioni od omissioni, esecutive di un medesimo disegno posto in essere in violazione di norme del presente decreto che stabiliscono sanzioni amministrative, commette, anche in tempi diversi, piu' violazioni della stessa o di diverse disposizioni.))
+
+((Il provvedimento sanzionatorio costituisce titolo esecutivo.))
+
+((Il pagamento delle sanzioni amministrative pecuniarie, ingiunto con il provvedimento sanzionatorio, e' effettuato nel termine di trenta giorni dalla notifica dello stesso ovvero di sessanta giorni se il destinatario risiede all'estero. Salvo quanto previsto dall'articolo 32-ter.1, comma 2, i proventi derivanti dalle sanzioni amministrative pecuniarie di cui al presente decreto affluiscono al bilancio dello Stato.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 195.2. — (( (Concorso di sanzioni amministrative di competenza della Banca d'Italia e della Consob).))
+
+
+
+((La Banca d'Italia e la Consob si informano tempestivamente dei casi che possono dare luogo all'applicazione di sanzioni da parte di entrambe le Autorita' e ne danno notizia all'incolpato, secondo quanto previsto nel regolamento di cui al comma 3.))
+
+((Con regolamento congiunto, la Banca d'Italia e la Consob possono emanare disposizioni attuative del presente articolo, disciplinando in particolare lo scambio di dati, documenti e informazioni, la reciproca consultazione al fine dell'irrogazione delle sanzioni di rispettiva competenza per assicurare l'efficienza e l'effettivita' dell'azione sanzionatoria e la tutela dell'incolpato.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 2) che "La disciplina dettata dagli articoli 194.1, 195, a eccezione dei commi 7 e 8, 195.2, 196-ter e 196-quater del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come introdotti o modificati dal presente decreto, si applica a partire dal nono mese successivo dalla data di entrata in vigore del presente decreto.
+Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle rispettive competenze e secondo le forme di coordinamento applicabili, adottano i regolamenti previsti dai medesimi articoli". 
+ Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 195-bis. — (( (Pubblicazione delle sanzioni).))
+
+
 
 2.
                         
                             
-                                Nel provvedimento di applicazione della sanzione, la Banca d'Italia o la Consob dispongono la pubblicazione in forma anonima del provvedimento sanzionatorio quando quella ordinaria: 
- 
+                                
+                                    ((Nei limiti consentiti dal diritto dell'Unione europea, nel provvedimento di applicazione della sanzione, la Banca d'Italia o la Consob, tenuto conto della natura della violazione e degli interessi coinvolti, dispongono la pubblicazione in forma anonima del provvedimento sanzionatorio o ne differiscono la pubblicazione, quando quella ordinaria:))
+                                
                             
                             
                                 a)
                                 
-                                    abbia ad oggetto dati personali ai sensi del ((regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016)), la cui pubblicazione appaia sproporzionata rispetto alla violazione sanzionata; 
-
+                                    
+                                        ((abbia ad oggetto dati personali ai sensi del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, la cui pubblicazione appaia sproporzionata rispetto alla violazione sanzionata;))
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    possa comportare rischi per la stabilita' dei mercati finanziari o pregiudicare lo svolgimento di un'indagine penale in corso; 
-
+                                    
+                                        ((possa comportare rischi per la stabilita' dei mercati finanziari o pregiudicare lo svolgimento di un'indagine penale in corso;))
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    possa causare un danno sproporzionato ai soggetti coinvolti, purche' tale danno sia determinabile.
+                                    
+                                        ((possa causare un danno sproporzionato ai soggetti coinvolti, purche' tale danno sia determinabile.))
 
-Se le situazioni descritte nel comma 2 hanno carattere temporaneo, la pubblicazione puo' essere rimandata ed effettuata quando dette esigenze sono venute meno.
+((Nei limiti consentiti dal diritto dell'Unione europea, la Banca d'Italia o la Consob possono escludere la pubblicita' del provvedimento sanzionatorio nel caso in cui le opzioni stabilite dal comma 2 siano ritenute insufficienti ad assicurare che la stabilita' dei mercati finanziari non sia messa a rischio ovvero ad assicurare la proporzionalita' della pubblicazione delle decisioni rispetto a misure considerate di scarsa rilevanza.))
+                                ((135))
 
-3-bis.
-                        
+-------------
+                            AGGIORNAMENTO (135)
                             
-                                La Banca d'Italia o la Consob possono escludere la pubblicita' del provvedimento sanzionatorio, se consentito dal diritto dell'Unione europea, nel caso in cui le opzioni stabilite dai commi 2 e 3 siano ritenute insufficienti ad assicurare: 
- 
-                            
-                            
-                                a)
-                                
-                                    che la stabilita' dei mercati finanziari non sia messa a rischio; 
-
-                                
-                            
-                            
-                                b)
-                                
-                                    la proporzionalita' della pubblicazione delle decisioni rispetto all'irrogazione della sanzione prevista dall'articolo 194-quater. 
- 
- (61) (84)
-
---------------
-                            AGGIORNAMENTO (61)
-                            
- Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia secondo le rispettive competenze ai sensi dell'articolo 196-bis del decreto legislativo 24 febbraio 1998, n. 58. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia continuano ad applicarsi le norme della parte V del decreto legislativo 24 febbraio 1998, n. 58 vigenti prima della data di entrata in vigore del presente decreto legislativo". 
-                            --------------
-                            AGGIORNAMENTO (84)
-                            
- Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998".
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 195-ter. — Comunicazione all'ABE e all'AESFEM sulle sanzioni applicate
 
-La Banca d'Italia comunica all'ABE le sanzioni amministrative applicate alle banche alle Sim, alle imprese di investimento UE e alle imprese di paesi terzi diverse dalle banche ai sensi degli articoli 189, 190 190.3, 190-bis, ((194-ter, 194-ter.1, 194-quater)) e 194-septies, ivi comprese quelle pubblicate in forma anonima, nonche' le informazioni ricevute dai soggetti interessati sulle azioni da essi avviate avverso i provvedimenti sanzionatori e sull'esito delle stesse. (73)
+La Banca d'Italia comunica all'ABE le sanzioni amministrative applicate alle banche alle Sim, alle imprese di investimento UE e alle imprese di paesi terzi diverse dalle banche ai sensi degli articoli 189, 190 190.3, 190-bis, 194-ter, 194-ter.1 ((e 194-bis.1)) ivi comprese quelle pubblicate in forma anonima, nonche' le informazioni ricevute dai soggetti interessati sulle azioni da essi avviate avverso i provvedimenti sanzionatori e sull'esito delle stesse. (73) ((135))
 
 La Consob e la Banca d'Italia, secondo le rispettive competenze, comunicano all'AESFEM le informazioni relative alle sanzioni amministrative da esse applicate, nonche' alle sanzioni penali applicate dall'Autorita' giudiziaria, necessarie ai fini dell'adempimento degli obblighi informativi previsti dalla normativa europea nei confronti dell'AESFEM. 
  
@@ -18351,17 +18090,21 @@ La Consob e la Banca d'Italia, secondo le rispettive competenze, comunicano all'
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
+ Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018. 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 195-quater. — (Sanzioni in caso di risoluzione)
 
-Nei confronti delle Sim disciplinate dal Capo II-bis della Parte II, Titolo IV e delle succursali stabilite in Italia delle imprese di paesi terzi diverse dalle banche che svolgono le attivita' indicate all'articolo 55-bis la Banca d'Italia applica la sanzione amministrativa pecuniaria prevista dall'articolo 190, comma 1, per l'inosservanza degli articoli 9, 15, 16, 19, comma 1, 33, comma 6, 50, 58, 59, 60, comma 1, lettere a) ed h), ((68-bis,)) 70, commi 2 e 3, 80, comma 1, 82 e 83 del decreto legislativo 16 novembre 2015, n. 180, in quanto applicabili ai sensi del presente decreto legislativo, o delle relative disposizioni generali o particolari emanate dalla Banca d'Italia. (73) ((108))
+Nei confronti delle Sim disciplinate dal Capo II-bis della Parte II, Titolo IV e delle succursali stabilite in Italia delle imprese di paesi terzi diverse dalle banche che svolgono le attivita' indicate all'articolo 55-bis la Banca d'Italia applica la sanzione amministrativa pecuniaria prevista dall'articolo 190, comma 1, per l'inosservanza degli articoli 9, 15, 16, 19, comma 1, 33, comma 6, 50, 58, 59, 60, comma 1, lettere a) ed h), 68-bis, 70, commi 2 e 3, 80, comma 1, 82 e 83 del decreto legislativo 16 novembre 2015, n. 180, in quanto applicabili ai sensi del presente decreto legislativo, o delle relative disposizioni generali o particolari emanate dalla Banca d'Italia. (73) (108)
 
-Per l'inosservanza delle norme richiamate al comma 1, si applica l'articolo 194-quater, al ricorrere delle condizioni e secondo le modalita' da esso stabilite. In caso di inosservanza dell'ordine di porre termine alle violazioni ivi previsto, si applicano le sanzioni stabilite dagli articoli 194-quater, comma 2, e 190-bis, comma 2, nei confronti dei soggetti e al ricorrere delle condizioni ivi previsti.
+((COMMA ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)). ((135))
 
 Fermo restando quanto previsto dai commi 1 e 2, per l'inosservanza delle norme richiamate dai medesimi commi si applicano le sanzioni amministrative previste dall'articolo 190-bis nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, al ricorrere delle condizioni e secondo le modalita' previste dall'articolo 190-bis.
 
-Alle sanzioni amministrative disciplinate dal presente articolo si applicano gli articoli 194-bis, 195 e 196-bis.
+Alle sanzioni amministrative disciplinate dal presente articolo si applicano gli articoli 194-bis, 195 ((e 196-sexies)). ((135))
 
 Nelle materie a cui si riferiscono le disposizioni richiamate al comma 1, le sanzioni ivi previste si applicano, nella medesima misura e con le stesse modalita', anche in caso di inosservanza degli atti delegati o delle norme tecniche di regolamentazione e di attuazione emanati dalla Commissione europea ai sensi della direttiva 2014/59/UE o degli articoli 10 e 15 del regolamento (UE) n. 1093/2010, o in caso di inosservanza degli atti dell'ABE direttamente applicabili ai soggetti vigilati adottati ai sensi di quest'ultimo regolamento.
 
@@ -18375,7 +18118,11 @@ La Banca d'Italia comunica all'ABE le sanzioni amministrative applicate ai sensi
                             ---------------
                             AGGIORNAMENTO (108)
                             
- Il D.Lgs. 8 novembre 2021, n. 193 ha disposto (con l'art. 8, comma 4) che "Le modifiche apportate dal presente decreto [...] alla parte V del decreto legislativo 24 febbraio 1998, n. 58, [...] si applicano alle violazioni commesse a partire dalla data di entrata in vigore del presente decreto. Alle violazioni commesse prima di tale data continuano ad applicarsi le disposizioni [...] della parte V del decreto legislativo n. 58 del 1998, [...] in vigore il giorno precedente alla data di entrata in vigore del presente decreto".
+ Il D.Lgs. 8 novembre 2021, n. 193 ha disposto (con l'art. 8, comma 4) che "Le modifiche apportate dal presente decreto [...] alla parte V del decreto legislativo 24 febbraio 1998, n. 58, [...] si applicano alle violazioni commesse a partire dalla data di entrata in vigore del presente decreto. Alle violazioni commesse prima di tale data continuano ad applicarsi le disposizioni [...] della parte V del decreto legislativo n. 58 del 1998, [...] in vigore il giorno precedente alla data di entrata in vigore del presente decreto". 
+                            -------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 195-quinquies. — (( (Inapplicabilita' di specifiche disposizioni della legge 24 novembre 1981, n. 689). ))
 
@@ -18429,11 +18176,12 @@ Alle sanzioni amministrative pecuniarie previste dal presente titolo non si appl
 
 Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie. Le sanzioni sono applicate dall'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari previsto dall'articolo 31, comma 4, con provvedimento motivato, previa contestazione degli addebiti agli interessati, da effettuarsi entro centottanta giorni dall'accertamento ovvero entro trecentossessanta giorni se l'interessato risiede o ha la sede all'estero, e valutate le deduzioni da essi presentate nei successivi trenta giorni. Nello stesso termine gli interessati possono altresi' chiedere di essere sentiti personalmente. (73)
 
-((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)). ((73))
+COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129. (73)
 
 Le societa' che si avvalgano dei responsabili delle violazioni rispondono, in solido con essi, del pagamento delle sanzioni pecuniarie e sono tenute ad esercitare il regresso verso i responsabili.
 
-Avverso le decisioni adottate ai sensi del comma 1 dall'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari e' ammesso ricorso dinanzi alla Corte d'Appello. Si applicano i commi 4, 5, 6, 7, 7-bis e 8 dell'articolo 195. (73)
+((Avverso le decisioni adottate ai sensi del comma 1 dall'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari e' ammesso ricorso ai sensi dell'articolo 195, comma 7.))
+                                ((135))
 
 ------------
                             AGGIORNAMENTO (63)
@@ -18443,59 +18191,181 @@ Avverso le decisioni adottate ai sensi del comma 1 dall'Organismo di vigilanza e
                             AGGIORNAMENTO (73)
                             
  Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie". 
- Ha inoltre disposto (con l'art. 10, comma 13) che "Le modifiche apportate dal presente decreto alla parte V del decreto legislativo 24 febbraio 1998, n. 58, si applicano alle violazioni commesse a partire dal 3 gennaio 2018".
-
-## Art. 196-bis. — (( (Disposizioni di attuazione). 
+ Ha inoltre disposto (con l'art. 10, comma 13) che "Le modifiche apportate dal presente decreto alla parte V del decreto legislativo 24 febbraio 1998, n. 58, si applicano alle violazioni commesse a partire dal 3 gennaio 2018". 
  
- 1. La Consob e la Banca d'Italia, secondo le rispettive competenze, emanano disposizioni di attuazione del presente titolo.))
-
-((84))
-
---------------
-                            AGGIORNAMENTO (61)
+                            -------------
+                            AGGIORNAMENTO (135)
                             
- Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia secondo le rispettive competenze ai sensi dell'articolo 196-bis del decreto legislativo 24 febbraio 1998, n. 58. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dalla Consob e dalla Banca d'Italia continuano ad applicarsi le norme della parte V del decreto legislativo 24 febbraio 1998, n. 58 vigenti prima della data di entrata in vigore del presente decreto legislativo". 
-                            --------------
-                            AGGIORNAMENTO (84)
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 196-bis. — ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128))
+
+((135))
+
+-------------
+                            AGGIORNAMENTO (135)
                             
- Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998".
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## - ((TITOLO II-bis)) ((DISPOSIZIONI COMUNI))
 
-## Art. 196-ter. — (( (Impegni). ))
+## Art. 196-ter. — (( (Impegni).))
 
-((
 
-Per le violazioni di competenza della Consob, entro trenta giorni dalla notificazione della lettera di contestazione degli addebiti, il soggetto destinatario della stessa puo' presentare impegni tali da far venir meno i profili di lesione degli interessi degli investitori e del mercato oggetto della contestazione. A tal fine la Consob, valutata la gravita' delle violazioni e l'idoneita' di tali impegni anche in relazione alla tutela degli interessi lesi e previa eventuale consultazione degli operatori di settore, puo', nei limiti previsti dall'ordinamento dell'Unione europea, rendere gli impegni assunti obbligatori per i soggetti destinatari del procedimento sanzionatorio e pubblicare gli impegni medesimi. Tale decisione puo' essere adottata per un periodo di tempo determinato e chiude il procedimento sanzionatorio senza accertare la violazione.
 
-In caso di mancato rispetto degli impegni resi obbligatori ai sensi del comma 1, i limiti edittali massimi della sanzione amministrativa pecuniaria prevista dalla normativa di riferimento sono aumentati del 10 per cento. Al fine di monitorare l'attuazione degli impegni, la Consob puo' esercitare i poteri di vigilanza a essa attribuiti al fine dell'accertamento della violazione contestata.
+((La tempestiva presentazione di una proposta di impegni interrompe tutti i termini del procedimento sanzionatorio e sospende il decorso del termine di prescrizione, che ricomincia a decorrere dalla data del rigetto della proposta o al verificarsi delle circostanze indicate al comma 3. La presentazione di una proposta di impegni comporta la rinuncia a ricorrere in sede giurisdizionale avverso il provvedimento di accoglimento della proposta e l'impegno a impugnare il provvedimento di natura endoprocedimentale che la respinge solo congiuntamente con il provvedimento sanzionatorio.))
 
 3.
                         
                             
-                                La Consob puo' d'ufficio riaprire il procedimento sanzionatorio se: 
- 
+                                
+                                    ((L'Autorita' competente puo' d'ufficio riavviare il procedimento sanzionatorio se:))
+                                
                             
                             
                                 a)
                                 
-                                    si modifica in modo determinante la situazione di fatto rispetto a un elemento su cui si fonda la decisione; 
-
+                                    
+                                        ((si modifica in modo determinante la situazione di fatto rispetto a un elemento su cui si fonda la decisione;))
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    i soggetti interessati contravvengono agli impegni assunti; 
-
+                                    
+                                        ((il soggetto destinatario della contestazione contravviene agli impegni resi obbligatori ai sensi del comma 1;))
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    la decisione si fonda su informazioni trasmesse dalle parti che sono incomplete, inesatte o fuorvianti.
+                                    
+                                        ((la decisione si fonda su informazioni trasmesse dalle parti che sono incomplete, inesatte o fuorvianti.))
 
-4. La Consob definisce con proprio provvedimento generale, in conformita' con l'ordinamento dell'Unione europea e garantendo il diritto al contraddittorio, le regole procedurali che disciplinano la presentazione e la valutazione degli impegni di cui al presente articolo))
+((Nelle ipotesi di cui al comma 3, le lettere b) e c), e' applicata la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata sino a un terzo fermi i limiti edittali massimi.))
+
+((Salvo che sia diversamente stabilito ai sensi del regolamento previsto dal comma 6, la disciplina di cui al presente articolo non si applica nei casi di esercizio dei poteri di intervento ai sensi degli articoli 7, 7-bis, 7-ter e 7-quater e di cui alla parte II, titolo IV, del presente decreto.))
+
+((La Banca d'Italia e la Consob, ciascuna con proprio regolamento, adottano disposizioni di attuazione del presente articolo, stabilendo i criteri applicativi, le regole procedurali per la presentazione e la valutazione degli impegni e i casi in cui non si puo' dar luogo alla presentazione dei medesimi, anche in ragione della mancata ottemperanza a ordini di vigilanza adottati nei confronti dei soggetti interessati.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 2) che "La disciplina dettata dagli articoli 194.1, 195, a eccezione dei commi 7 e 8, 195.2, 196-ter e 196-quater del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come introdotti o modificati dal presente decreto, si applica a partire dal nono mese successivo dalla data di entrata in vigore del presente decreto.
+Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle rispettive competenze e secondo le forme di coordinamento applicabili, adottano i regolamenti previsti dai medesimi articoli". 
+ Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 196-quater. — (( (Applicazione concordata delle sanzioni amministrative).))
+
+
+
+((Qualora l'istanza sia ritenuta ammissibile tenuto conto dei precedenti dell'istante, l'Autorita' competente avvia un confronto con il destinatario della lettera di contestazione e stabilisce il termine entro il quale questi formula, a pena di decadenza, una proposta di applicazione concordata delle sanzioni che indichi le sanzioni applicabili, la loro entita' e la loro durata, in entrambi i casi in misura non inferiore al minimo edittale e non superiore al massimo edittale ridotto di un quinto ed eventuali misure conformative. In ogni caso, la proposta prevede l'impegno a non ricorrere in sede giurisdizionale avverso il provvedimento che la accoglie e a impugnare il provvedimento di natura endoprocedimentale che la respinge solo congiuntamente con il provvedimento sanzionatorio. Entro sessanta giorni dalla ricezione, l'Autorita' accoglie la proposta o la respinge.))
+
+((Quando abbia accolto la proposta, l'Autorita' applica le sanzioni con provvedimento motivato e valuta, alla luce di tutte le circostanze rilevanti, l'accoglimento dell'eventuale istanza di accesso al pagamento rateale della sanzione pecuniaria applicata in modalita' concordata, in rate mensili da tre a trenta, che l'interessato puo' presentare con la proposta di cui al comma 1, anche qualora non versi in condizioni economiche disagiate.))
+
+((Le sanzioni applicate in modalita' concordata rilevano, ai fini dell'articolo 194-bis, comma 1, lettera g), nonche' ai fini dei requisiti degli esponenti aziendali per cinque anni.))
+
+((Fermo restando quanto previsto al comma 4, il provvedimento di applicazione concordata delle sanzioni e' pubblicato ai sensi dell'articolo 195-bis.))
+
+((La tempestiva presentazione di una proposta di applicazione concordata delle sanzioni interrompe tutti i termini del procedimento sanzionatorio e sospende il decorso del termine di prescrizione, che ricomincia a decorrere dalla data del rigetto della istanza per l'applicazione concordata delle sanzioni o al verificarsi delle circostanze indicate al comma 7.))
+
+((In caso di mancato o inesatto rispetto del provvedimento di applicazione concordata e' applicata la sanzione amministrativa pecuniaria prevista per la violazione originariamente contestata aumentata sino a un terzo fermi restando i limiti edittali massimi.))
+
+((La Banca d'Italia e la Consob, in conformita' ai principi dell'ordinamento italiano e dell'Unione europea, possono disciplinare con regolamento le modalita' di presentazione, l'ammissibilita' e la valutazione della proposta di applicazione concordata delle sanzioni.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 2) che "La disciplina dettata dagli articoli 194.1, 195, a eccezione dei commi 7 e 8, 195.2, 196-ter e 196-quater del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come introdotti o modificati dal presente decreto, si applica a partire dal nono mese successivo dalla data di entrata in vigore del presente decreto.
+Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle rispettive competenze e secondo le forme di coordinamento applicabili, adottano i regolamenti previsti dai medesimi articoli". 
+ Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 196-quinquies. — (( (Pagamento in misura ridotta).))
+
+1.
+                        
+                            
+                                
+                                    ((Possono essere estinte mediante pagamento, nel termine di trenta giorni dalla notificazione della lettera di contestazione, di una somma pari al doppio del minimo della sanzione edittale, quando non sussistano le circostanze previste dal comma 2, le violazioni previste:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dall'articolo 190, per la violazione degli articoli 45, comma 1, e 46, comma 1, nonche' delle relative disposizioni attuative;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((dall'articolo 190.1, per la violazione dell'articolo 83-duodecies e delle relative disposizioni attuative;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((dall'articolo 190.3, per la violazione dell'articolo 64-ter, commi 2, 3 e 4, e delle relative disposizioni attuative;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((dall'articolo 190.4, per la violazione degli articoli 3, paragrafo 1, 6, paragrafo 1, 8, paragrafo 1, 10, paragrafo 1, 12, paragrafo 1, 15, paragrafi 1, primo comma, 2 e 4, seconda frase, 20, paragrafi 1 e 2, prima frase, 21, paragrafi 1, 2 e 3, 26, paragrafi 1, primo comma, 2, 3, 4, 5, 6, primo comma, e 7, primo, secondo e terzo comma, del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio del 15 maggio 2014 e delle relative disposizioni attuative e, in caso di APA o di ARM, degli articoli 27-octies, paragrafi 1, 2, 3, 4 e 5, e 27-decies, paragrafi 1, 2, 3 e 4, del medesimo regolamento (UE) n. 600/2014;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((dall'articolo 191, comma 5, per la violazione degli articoli 96 e 101, commi 2 e 3, e delle relative disposizioni attuative e dall'articolo 191-ter, comma 2, per la violazione dell'articolo 101, commi 2 e 3, e delle relative disposizioni attuative;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((dall'articolo 193, commi 1, 1.1 e 1.2, per la violazione degli articoli 113-ter, comma 5, lettera b), 114, comma 2, e dal medesimo articolo 193, commi 2, 2.1, 2.2 e 2.3, per la violazione dell'articolo 120;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((dall'articolo 193-quater, per la violazione dell'articolo 9, paragrafi da 1 a 4, del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio del 4 luglio 2012 e delle relative disposizioni attuative e dell'articolo 4, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, del regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio del 25 novembre 2015 e delle relative disposizioni attuative.))
+
+((Il pagamento in misura ridotta non puo' essere effettuato nel caso in cui il soggetto interessato abbia gia' usufruito di tale misura nei dodici mesi precedenti alla violazione contestata.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
+
+## Art. 196-sexies. — (( (Disposizioni di attuazione).))
+
+
+
+((La Banca d'Italia e la Consob esercitano i poteri di vigilanza a esse attribuiti al fine di accertare l'adempimento dei provvedimenti adottati e degli impegni assunti dagli interessati ai sensi delle disposizioni previste dal titolo I-bis, capo III, nonche' dal titolo II e dal presente titolo.))
+                                ((135))
+
+-------------
+                            AGGIORNAMENTO (135)
+                            
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## - PARTE VI DISPOSIZIONI TRANSITORIE E FINALI
 
@@ -18538,53 +18408,14 @@ Le SICAV che alla data di entrata in vigore del presente decreto
 Le banche che alla data di entrata in vigore del presente 
  decreto sono autorizzate a prestare servizi di investimento restano autorizzate a prestare i servizi medesimi.
 
-## Art. 201. — Agenti di cambio
+## Art. 201. — ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128))
 
-Sono sciolti, a cura del Consiglio Nazionale degli Ordini degli agenti di cambio, gli Ordini professionali previsti dall'articolo 3 della legge 29 maggio 1967, n. 402, a eccezione degli Ordini professionali di Milano e di Roma.
+((135))
 
-Gli agenti di cambio sono iscritti all'Albo professionale tenuto da uno degli Ordini indicati nel comma 1, al quale affluiscono i pagamenti della tassa annuale fissata dall'Ordine medesimo, avuto riguardo all'iscrizione al ruolo speciale o al ruolo nazionale previsti dai commi 5 e 6. L'Ordine e' tenuto a conservare i libri degli agenti di cambio defunti o cancellati dal ruolo unico nazionale.
-
-Restano ferme le altre disposizioni previste dalla legge 29 maggio 1967, n. 402. Non possono essere banditi concorsi per la nomina di agenti di cambio. Gli agenti di cambio cessano di appartenere ai ruoli previsti dai commi 5 e 6 al compimento del settantesimo anno di eta'. Gli agenti di cambio nominati prima dell'entrata in vigore della legge 23 maggio 1956, n. 515, sono collocati nella posizione di fuori ruolo al compimento del settantesimo anno di eta' conservando i diritti e gli obblighi inerenti alla carica.
-
-Le disponibilita' del Fondo comune degli agenti di cambio e delle cauzioni esistenti alla data di entrata in vigore del presente decreto sono restituite agli aventi diritto.
-
-Gli agenti di cambio in carica che siano soci, amministratori, dirigenti, dipendenti o collaboratori di SIM, di banche o di societa' di gestione del risparmio sono iscritti in un ruolo speciale tenuto dal Ministero dell'economia e delle finanze. Essi non possono prestare sevizi di investimento e possono essere dirigenti, dipendenti o collaboratori soltanto di uno dei predetti intermediari.
-Essi restano individualmente assoggettati alle incompatibilita' previste dal comma 11.
-
-Gli agenti di cambio in carica che non siano iscritti nel ruolo speciale previsto dal comma 5 sono iscritti nel ruolo unico nazionale tenuto dal Ministero dell'economia e delle finanze.
-
-Gli agenti di cambio iscritti nel ruolo unico nazionale possono svolgere i servizi di investimento indicati nell'articolo 1, comma 5, lettere b), c-bis), d), e) ed f). Essi possono svolgere altresi' l'offerta fuori sede dei propri servizi di investimento e i servizi accessori indicati ((nell'Allegato I, Sezione B, numero 2), limitatamente alla conclusione di contratti di riporto e altre operazioni in uso sui mercati, e numero 4) )), nonche' attivita' connesse e strumentali, ferme restando le riserve di attivita' previste dalla legge. ((73))
-
-Gli agenti di cambio iscritti nel ruolo unico nazionale devono tenere le scritture contabili previste dagli articoli 2214 e seguenti del codice civile; la CONSOB, con proprio regolamento, stabilisce le modalita' del controllo contabile da parte di societa' di revisione iscritte nell'albo speciale previsto dall'articolo 161.
-
-Il mancato esercizio del servizio di ((esecuzione di ordini per conto dei clienti)) per un periodo di tempo superiore a sei mesi comporta la decadenza dalla carica; il Ministero dell'economia e delle finanze, in presenza di comprovati motivi di salute, puo' prorogare, sentita la CONSOB, detto termine fino a un periodo massimo di 18 mesi. ((73))
-
-Per l'esercizio dei servizi di investimento gli agenti di cambio aderiscono ai sistemi di indennizzo previsti dall'articolo 59.
-Il coordinamento dell'operativita' dei sistemi di indennizzo con la procedura di fallimento dell'agente di cambio e' disciplinato dal regolamento previsto dall'articolo 59, comma 3.
-
-La posizione di agente di cambio iscritto nel ruolo unico nazionale e' incompatibile con l'esercizio di qualsiasi attivita' commerciale, con la partecipazione in qualita' di soci illimitatamente responsabili in societa' di qualsiasi natura, con la qualita' di amministratore o dirigente di societa' che esercitano attivita' commerciale e, in particolare, con la qualita' di socio, amministratore, dirigente, dipendente o collaboratore di banche, SIM, societa' di gestione del risparmio e di ogni altro intermediario finanziario.
-
-((12. Agli agenti di cambio iscritti nel ruolo unico nazionale si applicano gli articoli 6, commi 1, lettera b) e lettera c-bis), 2 e 2-bis; 6-bis e 6-ter, in quanto compatibili; 7-bis; 21; 22; 23; 24; 24-bis; 25; 25-bis; 31; 32; 167; 187-quinquiesdecies; 190; 190.4; 193-sexies; 194-bis; 194-quater; 194-septies; 195; 195-bis e 196-bis.))
-
-((73))
-
-E' vietato agli agenti di cambio, compiere anche per interposta persona qualsiasi negoziazione in proprio di strumenti finanziari, salvo i casi di investimento del patrimonio personale; tali investimenti sono immediatamente comunicati alla CONSOB.
-
-Il Presidente della CONSOB puo' disporre in via d'urgenza, ove ricorrano situazioni di pericolo per i clienti o per i mercati, la sospensione dell'agente di cambio iscritto nel ruolo unico nazionale dall'esercizio delle attivita' svolte e la nomina di un commissario che assume la gestione delle attivita' stesse quando risultino gravi violazioni delle disposizioni legislative o amministrative. Si applicano i commi 2, 3 e 4 dell'articolo ((7-sexies)). ((73))
-
-Il Ministero dell'economia e delle finanze, su proposta della CONSOB, puo' disporre con decreto la cancellazione dell'agente di cambio dal ruolo unico nazionale qualora le irregolarita' o le violazioni delle disposizioni legislative o amministrative siano di eccezionale gravita'. Il provvedimento puo' essere adottato su proposta del commissario previsto dal comma 14 o su richiesta dell'agente di cambio.
-
-Nel caso previsto dal comma 15, il Ministero dell'economia e delle finanze nomina un commissario preposto alla tutela e alla restituzione dei patrimoni di proprieta' dei clienti. Il commissario nell'esercizio delle sue funzioni e' pubblico ufficiale; egli si affianca agli organi delle procedure concorsuali, ove disposte. Il Ministero puo' prevedere speciali cautele e limitazioni all'attivita' del commissario e procedere alla sua revoca o sostituzione.
-L'indennita' spettante al commissario e' determinata dal Ministero ed e' a carico dell'agente di cambio. I provvedimenti previsti dal presente comma possono essere assunti anche successivamente alla morte dell'agente di cambio, su proposta della CONSOB o del commissario nominato ai sensi del comma 14, ovvero su richiesta dei clienti.
-
-La cancellazione dell'agente di cambio dal ruolo unico nazionale consegue di diritto all'accertamento giudiziale dello stato di insolvenza. La CONSOB denuncia al tribunale civile l'insolvenza dichiarata ai sensi dell'articolo 72.
-
-Per la violazione dei commi 8, 11 e 13, si applica l'articolo 190.
-
----------------
-                            AGGIORNAMENTO (73)
+-------------
+                            AGGIORNAMENTO (135)
                             
- Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
+ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
 ## Art. 202. — ((ARTICOLO ABROGATO DAL D.LGS. 24 MARZO 2011, N. 48))
 

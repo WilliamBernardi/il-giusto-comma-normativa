@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-06",
+  "zip_date": "2026-08-07",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -286,13 +286,13 @@
       "out": "Testi Unici/stato-decreto.legislativo-1994-04-16-297.md",
       "urn": "urn:nir:stato:decreto.legislativo:1994-04-16;297"
     },
-    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-08-01_V0.xml": {
-      "sha256": "f7f5fef5bb83cf4af99942b81af58ed9741ea3222dfbf4cf5cbc58373ebdbc7c",
+    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-08-07_V0.xml": {
+      "sha256": "ac65a8f984bc3744bb0e5a2eb0bef93519859ff1e3fa7fe8469bb90474c26cef",
       "out": "Testi Unici/stato-decreto.legislativo-1995-10-26-504.md",
       "urn": "urn:nir:stato:decreto.legislativo:1995-10-26;504"
     },
-    "DECRETO LEGISLATIVO_19980224_58/1998-03-26_098G0073_VIGENZA_2026-06-06_V0.xml": {
-      "sha256": "531e88f08cca6ba95adb61e7ef3fc3e76b60b65db7c36ca50485f52ae2398206",
+    "DECRETO LEGISLATIVO_19980224_58/1998-03-26_098G0073_VIGENZA_2026-08-07_V0.xml": {
+      "sha256": "5f06dd5450ca579cc50ddb5725da624f4445c09d3b0b058e763fe4b50825534f",
       "out": "Testi Unici/stato-decreto.legislativo-1998-02-24-58.md",
       "urn": "urn:nir:stato:decreto.legislativo:1998-02-24;58"
     },

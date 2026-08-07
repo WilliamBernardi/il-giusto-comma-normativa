@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-06",
+  "zip_date": "2026-08-07",
   "entries": {
     "DECRETO LEGISLATIVO_19881109_478/1988-11-11_088G0566_ORIGINALE_V0.xml": {
       "sha256": "75d0c44467cdec57a1e802dceadfb953c5f37608d5175ecc916c0a4a549e438b",
@@ -3796,8 +3796,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-09-04-146.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-09-04;146"
     },
-    "DECRETO LEGISLATIVO_20240905_129/2024-09-13_24G00147_VIGENZA_2025-10-10_V0.xml": {
-      "sha256": "20dc8b112b1e218f36d383fc067a60fa5b6f7494529ce3469c368d4c6c16e943",
+    "DECRETO LEGISLATIVO_20240905_129/2024-09-13_24G00147_VIGENZA_2026-08-07_V0.xml": {
+      "sha256": "ce8d5969a00f7bae249c537f5624ed1c34e3d3fb67808f021ed0957438c18a30",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-09-05-129.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-09-05;129"
     },
@@ -3926,8 +3926,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-03-24-33.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-03-24;33"
     },
-    "DECRETO LEGISLATIVO_20250328_43/2025-04-04_25G00052_VIGENZA_2026-08-01_V0.xml": {
-      "sha256": "f010983225f3444fc7db8ba6354e605f34dd5838b0bacd052d545caced8d8061",
+    "DECRETO LEGISLATIVO_20250328_43/2025-04-04_25G00052_VIGENZA_2026-08-07_V0.xml": {
+      "sha256": "6b17fa2781f40aac96faa0e5818e68d8570dd78ac58a265d625e683ff0b4aa30",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-03-28-43.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-03-28;43"
     },

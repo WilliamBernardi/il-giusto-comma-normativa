@@ -8,9 +8,9 @@ codice_redazionale: 010G0057
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-04-29
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-07
+zip_date: 2026-08-07
+fetched_at: 2026-08-07
 ---
 
 DECRETO LEGISLATIVO
@@ -3310,9 +3310,7 @@ Copia del decreto e' trasmessa a cura della cancelleria della Corte d'appello al
 
 ))
 
-## Art. 26. — (( (Provvedimenti della Consob). ))
-
-((
+## Art. 26. — (Provvedimenti della Consob)
 
 1.
                         
@@ -3409,11 +3407,10 @@ Qualora la violazione delle disposizioni di cui agli articoli 10 e 17, e delle r
 
 La Consob dispone la cancellazione dal Registro del revisore legale, della societa' di revisione legale o del responsabile dell'incarico quando non ottemperino ai provvedimenti indicati nel comma 1, lettere c) e d), e comunica il provvedimento al Ministero dell'economia e delle finanze, ai fini dell'annotazione sul Registro.
 
-Ai procedimenti sanzionatori di cui al presente articolo si applica l'articolo 195 del TUF.
+Ai procedimenti sanzionatori di cui al presente articolo ((si applicano gli articoli 195, 195.1, 195.2 e 196-quater del TUF)).
 
-4-bis. Ai provvedimenti di cui al presente articolo si applicano gli articoli 194-bis e 195-bis del TUF.))
-
-((4))
+Ai provvedimenti di cui al presente articolo si applicano gli articoli 194-bis e 195-bis del TUF. 
+ (4)
 
 --------------
                             AGGIORNAMENTO (4)
@@ -3564,10 +3561,10 @@ La Consob, quando accerta l'inottemperanza agli obblighi di cui all'articolo 14-
 
 Qualora la violazione delle disposizioni di cui agli articoli 10, commi 13-bis e 13-ter e 17, commi 3-bis, 3-ter, 3-quater e 5-bis del presente decreto, e delle relative norme di attuazione sia imputabile ai soci, ai componenti dell'organo di amministrazione o ai dipendenti della societa' di revisione iscritti nel Registro, la Consob puo' adottare nei confronti di tali soggetti i provvedimenti previsti dal comma 1, lettera d).
 
-Ai procedimenti sanzionatori di cui al presente articolo si applica l'articolo 195 del TUF.
+Ai procedimenti sanzionatori di cui al presente articolo ((si applicano gli articoli 195 e 195.1 del TUF)).
 
 Ai provvedimenti di cui al presente articolo si applicano gli articoli 194-bis e 195-bis del TUF. 
- (9) ((12))
+ (9) (12)
 
 --------------
                             AGGIORNAMENTO (9)
