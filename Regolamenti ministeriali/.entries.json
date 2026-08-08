@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-07",
+  "zip_date": "2026-08-08",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19890804_296/1989-08-23_089G0372_ORIGINALE_V0.xml": {
       "sha256": "b4b68b6ec62847ac1692378e52f37d92f63ede4723c9c0a15afe7aaede011ce0",
@@ -901,8 +901,8 @@
       "out": "Regolamenti ministeriali/stato-decreto.del.presidente.del.consiglio.dei.ministri-2019-04-10-89.md",
       "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2019-04-10;89"
     },
-    "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_20190611_78/2019-08-09_19G00085_VIGENZA_2025-10-14_V0.xml": {
-      "sha256": "fa4b7b8eef0bbd337ee8ad19e409174017ea1a23ed761d4d6e9af52fd0690146",
+    "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_20190611_78/2019-08-09_19G00085_VIGENZA_2026-08-08_V0.xml": {
+      "sha256": "c4cfa5459a46939f3b8fb5d03b858c11222152c677d914e30fdf241c7ee00fdc",
       "out": "Regolamenti ministeriali/stato-decreto.del.presidente.del.consiglio.dei.ministri-2019-06-11-78.md",
       "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2019-06-11;78"
     },

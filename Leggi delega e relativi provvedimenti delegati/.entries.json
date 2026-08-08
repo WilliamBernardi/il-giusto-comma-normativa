@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-07",
+  "zip_date": "2026-08-08",
   "entries": {
     "DECRETO LEGISLATIVO_19881109_478/1988-11-11_088G0566_ORIGINALE_V0.xml": {
       "sha256": "75d0c44467cdec57a1e802dceadfb953c5f37608d5175ecc916c0a4a549e438b",
@@ -4196,6 +4196,11 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-07-03-136.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-07-03;136"
     },
+    "DECRETO LEGISLATIVO_20260805_141/2026-08-06_26G00160_ORIGINALE_V0.xml": {
+      "sha256": "f41de7af2f202c27d6bbf0de4ba6d28e5d62d84801ff2e0702ccdf4dc14be96e",
+      "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-08-05-141.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2026-08-05;141"
+    },
     "LEGGE_18961227_558/1896-12-31_096U0558_VIGENZA_2025-10-10_V0.xml": {
       "sha256": "5e25a26c2c774e0c4dd0d8874932afc8444e9c029ccf6aa5d4bd790236c697e0",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-legge-1896-12-27-558.md",
@@ -5341,8 +5346,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-legge-2005-08-17-168.md",
       "urn": "urn:nir:stato:legge:2005-08-17;168"
     },
-    "LEGGE_20051104_230/2005-11-05_005G0225_VIGENZA_2025-10-10_V0.xml": {
-      "sha256": "f95a03e9a0ecbb4e21a8b4bba366b0cd0c90bbe12120bdc9d418f11a911e2419",
+    "LEGGE_20051104_230/2005-11-05_005G0225_VIGENZA_2026-08-08_V0.xml": {
+      "sha256": "f9da3e32f443fc4c2e2390fe5532591ec23e71562b7f75ce5047a413ae0a52a8",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-legge-2005-11-04-230.md",
       "urn": "urn:nir:stato:legge:2005-11-04;230"
     },
@@ -5441,8 +5446,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-legge-2010-11-04-183.md",
       "urn": "urn:nir:stato:legge:2010-11-04;183"
     },
-    "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-05-14_V0.xml": {
-      "sha256": "4139a4788bdc882bfb03677a9888c26bd0d88457cac8959ec34bb30041e64bde",
+    "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-08-08_V0.xml": {
+      "sha256": "998ed928316129f0bb30d94fa3d5a2f2e0d19b24c9c30b745fe711bf4474046b",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-legge-2010-12-30-240.md",
       "urn": "urn:nir:stato:legge:2010-12-30;240"
     },

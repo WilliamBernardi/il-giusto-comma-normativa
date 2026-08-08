@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-07",
+  "zip_date": "2026-08-08",
   "entries": {
     "LEGGE_19910613_190/1991-06-28_091G0229_ORIGINALE_V0.xml": {
       "sha256": "4baef4a6f6503a3792e5df69b4ab27379e0021a8c39e45a1a63aab5154dd60ec",
@@ -151,8 +151,8 @@
       "out": "Leggi contenenti deleghe/stato-legge-2010-08-13-136.md",
       "urn": "urn:nir:stato:legge:2010-08-13;136"
     },
-    "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-05-14_V0.xml": {
-      "sha256": "4139a4788bdc882bfb03677a9888c26bd0d88457cac8959ec34bb30041e64bde",
+    "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-08-08_V0.xml": {
+      "sha256": "998ed928316129f0bb30d94fa3d5a2f2e0d19b24c9c30b745fe711bf4474046b",
       "out": "Leggi contenenti deleghe/stato-legge-2010-12-30-240.md",
       "urn": "urn:nir:stato:legge:2010-12-30;240"
     },

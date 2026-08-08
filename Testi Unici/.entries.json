@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-07",
+  "zip_date": "2026-08-08",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -400,6 +400,11 @@
       "sha256": "94c273a8690009af01ef2ec3cbef2ae121b01baba4370845977451b91d84398d",
       "out": "Testi Unici/stato-decreto.legislativo-2026-06-19-117.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-06-19;117"
+    },
+    "DECRETO LEGISLATIVO_20260805_141/2026-08-06_26G00160_ORIGINALE_V0.xml": {
+      "sha256": "f41de7af2f202c27d6bbf0de4ba6d28e5d62d84801ff2e0702ccdf4dc14be96e",
+      "out": "Testi Unici/stato-decreto.legislativo-2026-08-05-141.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2026-08-05;141"
     },
     "DECRETO LUOGOTENENZIALE_19161105_1526/1916-11-17_016U1526_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "433376fef1b82acadef4bc86648cfc98dddd0f12cc8e5c527256d70b0b9c59dc",
