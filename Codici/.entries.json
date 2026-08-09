@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-08",
+  "zip_date": "2026-08-09",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19520215_328/1952-04-21_052U0328_VIGENZA_2026-05-26_V0.xml": {
       "sha256": "7af57cd54d85dc60384e35547e47ac9c0be99419b1fbffcbdc846c552cc21e08",
@@ -11,8 +11,8 @@
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1973-03-29-156.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-07-28_V0.xml": {
-      "sha256": "4e76e67ce925b349dfca44fb516ce768be4e934f9036f8390ef2b48d02e8d268",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-08-09_V0.xml": {
+      "sha256": "3505cef0c4678e4da4b76123289163aab1a52a2b21062542df20ba6d0d7fe315",
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
     },
@@ -26,8 +26,8 @@
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-2010-10-05-207.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;207"
     },
-    "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-07-28_V0.xml": {
-      "sha256": "69d73b152144a8c34b44cba64aae29b52fe9772223f85693a57902ad74299911",
+    "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-08-09_V0.xml": {
+      "sha256": "bef6e99e8010376f90b65aaeb5c96168d22d343f4a12011caedadc810dd44bd3",
       "out": "Codici/stato-decreto.legislativo-1989-07-28-271.md",
       "urn": "urn:nir:stato:decreto.legislativo:1989-07-28;271"
     },

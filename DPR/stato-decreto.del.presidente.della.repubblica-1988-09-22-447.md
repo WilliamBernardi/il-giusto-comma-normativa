@@ -8,9 +8,9 @@ codice_redazionale: 088G0492
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2026-07-23
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-09
+zip_date: 2026-08-09
+fetched_at: 2026-08-09
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -5486,13 +5486,15 @@ Sulla richiesta del pubblico ministero il giudice provvede con ordinanza.
 
 L' ordinanza contiene altresi' la sottoscrizione dello ausiliario che assiste il giudice, il sigillo dell' ufficio e, se possibile, l' indicazione del luogo in cui probabilmente si trova l'imputato.
 
-L'ordinanza e' nulla se non contiene la valutazione degli elementi a carico e a favore dell'imputato, di cui all'articolo 358, nonche' all'articolo 327-bis ((e, nel caso di cui all'articolo 291, comma 1-quater, una specifica valutazione degli elementi esposti dalla persona sottoposta alle indagini nel corso dell'interrogatorio)).
+L'ordinanza e' nulla se non contiene la valutazione degli elementi a carico e a favore dell'imputato, di cui all'articolo 358, nonche' all'articolo 327-bis e, nel caso di cui all'articolo 291, comma 1-quater, una specifica valutazione degli elementi esposti dalla persona sottoposta alle indagini nel corso dell'interrogatorio.
 
-Quando e' necessario per l'esposizione delle esigenze cautelari e degli indizi, delle comunicazioni e conversazioni intercettate sono riprodotti soltanto i brani essenziali ((, in ogni caso senza indicare i dati personali dei soggetti diversi dalle parti, salvo che cio' sia indispensabile per la compiuta esposizione degli elementi rilevanti)). (253) (260) (263) (267) (270) (275)
+Quando e' necessario per l'esposizione delle esigenze cautelari e degli indizi, delle comunicazioni e conversazioni intercettate sono riprodotti soltanto i brani essenziali, in ogni caso senza indicare i dati personali dei soggetti diversi dalle parti, salvo che cio' sia indispensabile per la compiuta esposizione degli elementi rilevanti. (253) (260) (263) (267) (270) (275)
 
 L'incertezza circa il giudice che ha emesso il provvedimento ovvero circa la persona nei cui confronti la misura e' disposta esime gli ufficiali e gli agenti incaricati dal darvi esecuzione.
 
-((3-bis. L'ordinanza e' nulla se non e' preceduta dall'interrogatorio nei casi previsti dall'articolo 291, comma 1-quater, nonche' quando l'interrogatorio e' nullo per violazione delle disposizioni di cui ai commi 1-septies e 1-octies del medesimo articolo))
+L'ordinanza e' nulla se non e' preceduta dall'interrogatorio nei casi previsti dall'articolo 291, comma 1-quater, nonche' quando l'interrogatorio e' nullo per violazione delle disposizioni di cui ai commi 1-septies e 1-octies del medesimo articolo.
+
+((Quando si procede per i delitti di cui agli articoli 416 e 416-bis del codice penale e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, nonche' per i delitti aggravati ai sensi dell'articolo 416-bis.1 del codice penale, se i fatti riguardano genitori di minorenni, l'ordinanza che dispone la misura della custodia cautelare in carcere o degli arresti domiciliari e' comunicata al procuratore della Repubblica presso il tribunale per i minorenni, affinche' compia le opportune verifiche sulla sussistenza di situazioni pregiudizievoli per l'integrita' psicofisica del minore legittimanti iniziative ai sensi dell'articolo 336 del codice civile o degli articoli 25 e seguenti del regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835)).
 
 ---------------
                             AGGIORNAMENTO (253)
@@ -6787,7 +6789,9 @@ Comunica, inoltre, quando e' possibile, le generalita', il domicilio e quanto al
 
 Qualora siano stati compiuti atti per i quali e' prevista l'assistenza del difensore della persona nei cui confronti vengono svolte le indagini, la comunicazione della notizia di reato e' trasmessa al piu' tardi entro quarantotto ore dal compimento dell'atto, salve le disposizioni di legge che prevedono termini particolari.
 
-Se si tratta di taluno dei delitti indicati nell'articolo 407, comma 2, lettera a), numeri da 1) a 6) ((, del presente codice, o di uno dei delitti previsti dagli articoli 572, 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies, 612-bis e 612-ter del codice penale, ovvero dagli articoli 582 e 583-quinquies del codice penale nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, del medesimo codice penale,)) e, in ogni caso, quando sussistono ragioni di urgenza, la comunicazione della notizia di reato e' data immediatamente anche anche in forma orale. Alla comunicazione orale deve seguire senza ritardo quella scritta con le indicazioni e la documentazione previste dai commi 1 e 2.
+Se si tratta di taluno dei delitti indicati nell'articolo 407, comma 2, lettera a), numeri da 1) a 6), del presente codice, o di uno dei delitti previsti dagli articoli 572, 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies, 612-bis e 612-ter del codice penale, ovvero dagli articoli 582 e 583-quinquies del codice penale nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, del medesimo codice penale, e, in ogni caso, quando sussistono ragioni di urgenza, la comunicazione della notizia di reato e' data immediatamente anche anche in forma orale. Alla comunicazione orale deve seguire senza ritardo quella scritta con le indicazioni e la documentazione previste dai commi 1 e 2.
+
+((Se si tratta di taluno dei delitti di cui agli articoli 416 e 416-bis del codice penale e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, ovvero di delitti aggravati ai sensi dell'articolo 416-bis.1 del codice penale ed emerge una situazione pregiudizievole per l'integrita' psicofisica di minorenni, la polizia giudiziaria ne informa il procuratore della Repubblica distrettuale procedente ai fini della successiva comunicazione al procuratore della Repubblica presso il tribunale per i minorenni)).
 
 Con la comunicazione, la polizia giudiziaria indica il giorno e l'ora in cui ha acquisito la notizia.
 
@@ -13219,6 +13223,8 @@ L'ordine di esecuzione contiene le generalita' della persona nei cui confronti d
 
 L'ordine di esecuzione della sentenza di condanna a pena detentiva nei confronti di madre di prole di minore eta' e' comunicato al procuratore della Repubblica presso il tribunale per i minorenni del luogo di esecuzione della sentenza.
 
+((L'ordine di esecuzione della sentenza di condanna a pena detentiva emessa per i delitti di cui agli articoli 416 e 416-bis del codice penale e 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, ovvero per i delitti aggravati ai sensi dell'articolo 416-bis.1 del codice penale, nei confronti di genitori di minorenni, e' comunicato al procuratore della Repubblica presso il tribunale per i minorenni affinche' compia le opportune verifiche sulla sussistenza di situazioni pregiudizievoli per l'integrita' psicofisica del minore)).
+
 L'ordine che dispone la carcerazione e' eseguito secondo le modalita' previste dall'articolo 277.
 
 Al di fuori dei casi previsti dal comma 9, lett. b), quando la residua pena da espiare, computando le detrazioni previste dall'articolo 54 della legge 26 luglio 1975, n. 354, non supera i limiti indicati dal comma 5, il pubblico ministero, prima di emettere l'ordine di esecuzione, previa verifica dell'esistenza di periodi di custodia cautelare o di pena dichiarata fungibile relativi al titolo esecutivo da eseguire, trasmette gli atti al magistrato di sorveglianza affinche' provveda all'eventuale applicazione della liberazione anticipata. Il magistrato di sorveglianza provvede senza ritardo con ordinanza adottata ai sensi dell'articolo 69-bis della legge 26 luglio 1975, n. 354. La presente disposizione non si applica nei confronti dei condannati per i delitti di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354.
@@ -13246,7 +13252,7 @@ Quando e' provato o appare probabile che il condannato non abbia avuto effettiva
                             
                                 a)
                                 
-                                    nei confronti dei condannati per i delitti di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354, e successive modificazioni nonche' di cui agli articoli 423-bis ((e)) 624-bis del codice penale, fatta eccezione per coloro che si trovano agli arresti domiciliari disposti ai sensi dell'articolo 89 del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni; (179) (236) (246) (297) 
+                                    nei confronti dei condannati per i delitti di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354, e successive modificazioni nonche' di cui agli articoli 423-bis e 624-bis del codice penale, fatta eccezione per coloro che si trovano agli arresti domiciliari disposti ai sensi dell'articolo 89 del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni; (179) (236) (246) (297) 
 
                                 
                             

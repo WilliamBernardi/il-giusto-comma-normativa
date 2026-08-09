@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-08",
+  "zip_date": "2026-08-09",
   "entries": {
     "DECRETO LEGISLATIVO_19470327_1884/1948-12-29_047U1884_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "d27aabe4592de387501987e3f17ae35af01f131202f271ded78b971cbeab3bd2",
@@ -4096,8 +4096,8 @@
       "out": "Decreti Legislativi/stato-decreto.legislativo-1989-07-21-259.md",
       "urn": "urn:nir:stato:decreto.legislativo:1989-07-21;259"
     },
-    "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-07-28_V0.xml": {
-      "sha256": "69d73b152144a8c34b44cba64aae29b52fe9772223f85693a57902ad74299911",
+    "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-08-09_V0.xml": {
+      "sha256": "bef6e99e8010376f90b65aaeb5c96168d22d343f4a12011caedadc810dd44bd3",
       "out": "Decreti Legislativi/stato-decreto.legislativo-1989-07-28-271.md",
       "urn": "urn:nir:stato:decreto.legislativo:1989-07-28;271"
     },
