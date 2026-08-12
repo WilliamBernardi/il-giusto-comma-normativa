@@ -8,9 +8,9 @@ codice_redazionale: 006G0171
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-06-02
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-12
+fetched_at: 2026-08-12
 ---
 
 DECRETO LEGISLATIVO
@@ -8003,11 +8003,11 @@ Allo scopo di incentivare il riutilizzo di acqua reflua o gia' usata nel ciclo p
 
 ## Art. 156. — (riscossione della tariffa)
 
-La tariffa e' riscossa dal gestore del servizio idrico integrato. Qualora il servizio idrico sia gestito separatamente, per effetto di particolari convenzioni e concessioni, la relativa tariffa e' riscossa dal gestore del servizio di acquedotto, il quale provvede al successivo riparto tra i diversi gestori interessati entro trenta giorni dalla riscossione((, in base a quanto stabilito dall'Autorita' per l'energia elettrica, il gas e il sistema idrico.))
+La tariffa e' riscossa dal gestore del servizio idrico integrato. Qualora il servizio idrico sia gestito separatamente, per effetto di particolari convenzioni e concessioni, la relativa tariffa e' riscossa dal gestore del servizio di acquedotto, il quale provvede al successivo riparto tra i diversi gestori interessati entro trenta giorni dalla riscossione, in base a quanto stabilito dall'Autorita' per l'energia elettrica, il gas e il sistema idrico.
 
-Con apposita convenzione, sottoposta al controllo ((dell'Autorita' per l'energia elettrica, il gas ed il sistema idrico)), sono definiti i rapporti tra i diversi gestori per il riparto delle spese di riscossione.
+Con apposita convenzione, sottoposta al controllo dell'Autorita' per l'energia elettrica, il gas ed il sistema idrico, sono definiti i rapporti tra i diversi gestori per il riparto delle spese di riscossione.
 
-La riscossione volontaria della tariffa puo' essere effettuata con le modalita' di cui al capo III del decreto legislativo 9 luglio 1997, n. 241, previa convenzione con l'Agenzia delle entrate. La riscossione, sia volontaria sia coattiva, della tariffa puo' altresi' essere affidata ai soggetti iscritti all'albo previsto dall'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, a seguito di procedimento ad evidenza pubblica.
+((La riscossione, sia volontaria che coattiva, della tariffa puo' essere affidata ai soggetti pubblici e privati iscritti nella sezione prima dell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, mediante procedimento ad evidenza pubblica)).
 
 ## Art. 157. — (opere di adeguamento del servizio idrico)
 
@@ -14595,6 +14595,55 @@ Gli organismi accreditati certificano la presenza del contenuto minimo di materi
 
 Al fine di realizzare attivita' di studio e verifica tecnica e monitoraggio da parte dei competenti istituti di ricerca, e' istituito un apposito Fondo presso il Ministero dell'ambiente e della tutela del territorio e del mare con una dotazione di euro 100.000 a decorrere dall'anno 2019. Con successivo decreto del Ministro dell'ambiente e della tutela del territorio e del mare, da emanare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate le specifiche modalita' di utilizzazione del Fondo.
 
+## Art. 226-quinquies. — (( (Obbligo di compostabilita' per determinate tipologie di imballaggio). ))
+
+
+
+1.
+                        
+                            
+                                
+                                    ((I seguenti imballaggi sono messi a disposizione per la prima volta sul mercato nazionale, oltre che nei formati e per gli utilizzi consentiti dal regolamento (UE) 2025/40 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, qualora certificati da organismi accreditati come biodegradabili e compostabili in conformita' alla norma UNI EN 13432 o a standard di compostabilita' equivalenti riconosciuti a livello europeo:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((imballaggi di plastica monouso per il confezionamento di meno di 1,5 kg di prodotti ortofrutticoli freschi preconfezionati;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((imballaggi di plastica monouso di alimenti e bevande, riempiti e destinati al consumo nei locali del settore alberghiero, della ristorazione e del catering;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((imballaggi di plastica monouso del settore alberghiero, della ristorazione e del catering contenenti porzioni individuali di condimenti, ivi incluse conserve, salse, panna da caffe' e zucchero, ad eccezione degli:)) 
+ 1) ((imballaggi forniti insieme ad alimenti pronti da asporto destinati al consumo immediato senza necessita' di ulteriori preparazioni;)) 
+ 2) ((imballaggi necessari per garantire la sicurezza e l'igiene in strutture in cui vige un requisito medico di cura individuale, quali ospedali, cliniche o residenze sanitarie assistenziali;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((imballaggi flessibili monouso per cosmetici e prodotti per l'igiene per l'utilizzo nel settore ricettivo, come descritti nella classificazione delle attivita' economiche ATECO 2025, destinati esclusivamente a una prenotazione individuale e a essere smaltiti prima dell'arrivo dell'ospite successivo.))
+
+((Fatta eccezione per quanto previsto al comma 3 del presente articolo, le esenzioni di cui all'articolo 25, paragrafo 4, del regolamento (UE) 2025/40 si applicano agli imballaggi di cui alle lettere a), b) e c), numero 2), del comma 1 del presente articolo, alle condizioni stabilite dal medesimo paragrafo 4 dell'articolo 25, nonche' dall'allegato V del regolamento (UE) 2025/40.))
+
+((Resta fermo, per il caso in cui gli imballaggi di cui alle lettere a) e b) del comma 1 del presente articolo consistano nei prodotti di plastica monouso di cui al numero 3) della parte B dell'allegato al decreto legislativo 8 novembre 2021, n. 196, il divieto di cui all'articolo 5, comma 1, del medesimo decreto.))
+
+((Il comma 1 del presente articolo non pregiudica il rispetto degli obblighi di conformita' alla normativa sull'utilizzo dei materiali destinati al contatto con gli alimenti adottata in attuazione del regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio, del 27 ottobre 2004, del regolamento (UE) n. 10/2011 della Commissione, del 14 gennaio 2011, e del regolamento (CE) n. 2023/2006 della Commissione, del 22 dicembre 2006, nonche' delle previsioni sulla gestione dei rifiuti di cui al comma 6 dell'articolo 182-ter del presente decreto.))
+
 ## - - TITOLO III GESTIONE DI PARTICOLARI CATEGORIE DI RIFIUTI
 
 ## Art. 227. — (( (Rifiuti elettrici ed elettronici, rifiuti di pile e accumulatori, rifiuti sanitari, veicoli fuori uso e prodotti contenenti amianto).))
@@ -16879,7 +16928,7 @@ I produttori e gli utilizzatori che non adempiono all'obbligo di raccolta di cui
 
 I produttori di imballaggi che non provvedono ad organizzare un sistema per l'adempimento degli obblighi di cui all'articolo 221, comma 3, e non aderiscono ai consorzi di cui all'articolo 223, ne' adottano un sistema di restituzione dei propri imballaggi ai sensi dell'articolo 221, comma 3, lettere a) e c), sono puniti con la sanzione amministrativa pecuniaria da quindicimilacinquecento euro a quarantaseimilacinquecento euro. La stessa pena si applica agli utilizzatori che non adempiono all'obbligo di cui ali' all'articolo 221, comma 4.
 
-La violazione dei divieti di cui all'articolo 226, commi 1 e 4, e' punita con la sanzione amministrativa pecuniaria da cinquemiladuecento euro a quarantamila euro. ((A chiunque immette sul mercato interno imballaggi privi dei requisiti di cui all'articolo 219, comma 5, si applica la sanzione amministrativa pecuniaria da 5.000 euro a 25.000 euro)).
+La violazione dei divieti di cui all'articolo 226, commi 1 e 4, e' punita con la sanzione amministrativa pecuniaria da cinquemiladuecento euro a quarantamila euro. A chiunque immette sul mercato interno imballaggi privi dei requisiti di cui all'articolo 219, comma 5, si applica la sanzione amministrativa pecuniaria da 5.000 euro a 25.000 euro.
 
 La violazione del disposto di cui all'articolo 226, comma 3, e' punita con la sanzione amministrativa pecuniaria da duemilaseicento euro a quindicimilacinquecento euro.
 
@@ -16888,6 +16937,8 @@ La violazione delle disposizioni di cui agli articoli 226-bis e 226-ter e' punit
 La sanzione amministrativa di cui al comma 4-bis e' aumentata fino al quadruplo del massimo se la violazione del divieto riguarda ingenti quantitativi di borse di plastica oppure un valore di queste ultime superiore al 10 per cento del fatturato del trasgressore, nonche' in caso di utilizzo di diciture o altri mezzi elusivi degli obblighi di cui agli articoli 226-bis e 226-ter.
 
 Le sanzioni di cui ai commi 4-bis e 4-ter sono applicate ai sensi della legge 24 novembre 1981, n. 689; all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa, fermo restando quanto previsto dall'articolo 13 della citata legge n. 689 del 1981.
+
+((Salvo che il fatto costituisca reato, la violazione delle disposizioni di cui all'articolo 226-quinquies, anche attraverso l'utilizzo di dichiarazioni di conformita' o altre diciture ingannevoli o elusive, e' punita con la sanzione amministrativa pecuniaria da 2.500 a 25.000 euro. La sanzione amministrativa di cui al primo periodo e' aumentata fino al quadruplo del massimo se la violazione dell'obbligo riguarda quantitativi di imballaggi il cui valore e' superiore al dieci per cento del fatturato del trasgressore. Le sanzioni di cui al primo e al secondo periodo sono applicate ai sensi della legge 24 novembre 1981, n. 689 e all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa, fermo restando quanto previsto dall'articolo 13 della medesima legge n. 689 del 1981. Il presente comma si applica a partire dal 1° gennaio 2030.))
 
 ## Art. 261-bis. — (( (Sanzioni).))
 

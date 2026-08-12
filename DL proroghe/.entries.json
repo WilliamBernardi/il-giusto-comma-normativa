@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-11",
+  "zip_date": "2026-08-12",
   "entries": {
     "DECRETO-LEGGE_19790924_467/1979-09-25_079U0467_VIGENZA_2025-06-12_V0.xml": {
       "sha256": "5de09c781e69d2d8dd0f8e098b4f535eca50a6596d914c85444b8a27412df4e3",
@@ -361,8 +361,8 @@
       "out": "DL proroghe/stato-decreto.legge-2023-12-30-215.md",
       "urn": "urn:nir:stato:decreto.legge:2023-12-30;215"
     },
-    "DECRETO-LEGGE_20240809_113/2024-08-09_24G00136_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "380f247828276588702ed241fe435e84a770cf57a5c041ac9bf6d4529cb91746",
+    "DECRETO-LEGGE_20240809_113/2024-08-09_24G00136_VIGENZA_2026-08-12_V0.xml": {
+      "sha256": "76073feb4ff412a34a1f6e3a7725cb1753fc4deece537793a0aebbde9881c612",
       "out": "DL proroghe/stato-decreto.legge-2024-08-09-113.md",
       "urn": "urn:nir:stato:decreto.legge:2024-08-09;113"
     },

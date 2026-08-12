@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-11",
+  "zip_date": "2026-08-12",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19890804_296/1989-08-23_089G0372_ORIGINALE_V0.xml": {
       "sha256": "b4b68b6ec62847ac1692378e52f37d92f63ede4723c9c0a15afe7aaede011ce0",
@@ -10415,6 +10415,11 @@
       "sha256": "75decce6adff23f33935e68c70878621e973364ba375af4429f65288677999af",
       "out": "Regolamenti ministeriali/ministero.economia.e.finanze-decreto-2026-05-20-124.md",
       "urn": "urn:nir:ministero.economia.e.finanze:decreto:2026-05-20;124"
+    },
+    "DECRETO_20260526_146/2026-08-10_26G00158_ORIGINALE_V0.xml": {
+      "sha256": "131688c5e137196772f315b7abee6255f1f9397a8261046711839f3ed917cdc5",
+      "out": "Regolamenti ministeriali/ministero.infrastrutture.e.trasporti-decreto-2026-05-26-146.md",
+      "urn": "urn:nir:ministero.infrastrutture.e.trasporti:decreto:2026-05-26;146"
     },
     "DECRETO_20260626_114/2026-06-30_26G00134_ORIGINALE_V0.xml": {
       "sha256": "d9575d49ae0b776efdf5eaa8cbe6a3e801fdd09ba70f2f51c816bd0582c2cd17",

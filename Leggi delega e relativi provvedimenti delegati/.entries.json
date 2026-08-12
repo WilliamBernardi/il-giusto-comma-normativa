@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-11",
+  "zip_date": "2026-08-12",
   "entries": {
     "DECRETO LEGISLATIVO_19881109_478/1988-11-11_088G0566_ORIGINALE_V0.xml": {
       "sha256": "75d0c44467cdec57a1e802dceadfb953c5f37608d5175ecc916c0a4a549e438b",
@@ -1631,8 +1631,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2006-03-24-157.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-03-24;157"
     },
-    "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-06-06_V0.xml": {
-      "sha256": "cc348c04d4a3393c2d2404ecda8762ab9521aff53c1b4213c6b68d031526962e",
+    "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-08-12_V0.xml": {
+      "sha256": "1d447bdf854b1d8a865bbc6c504b52fc46d4ea7e9a658dd09d98d6e5984b959b",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2006-04-03-152.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-04-03;152"
     },
@@ -1736,8 +1736,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2009-09-25-146.md",
       "urn": "urn:nir:stato:decreto.legislativo:2009-09-25;146"
     },
-    "DECRETO LEGISLATIVO_20091027_150/2009-10-31_009G0164_VIGENZA_2026-07-19_V0.xml": {
-      "sha256": "376271d485a616d8812f155ff74da9c78f87c418b36dddf887e5ba800d46cd3b",
+    "DECRETO LEGISLATIVO_20091027_150/2009-10-31_009G0164_VIGENZA_2026-08-12_V0.xml": {
+      "sha256": "6bbda2f98f3c46cf0d5d65bb0af97e0f7b31adb839519bec73df986fb816cbbe",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2009-10-27-150.md",
       "urn": "urn:nir:stato:decreto.legislativo:2009-10-27;150"
     },
@@ -2581,8 +2581,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2017-04-05-52.md",
       "urn": "urn:nir:stato:decreto.legislativo:2017-04-05;52"
     },
-    "DECRETO LEGISLATIVO_20170413_59/2017-05-16_17G00067_VIGENZA_2026-05-20_V0.xml": {
-      "sha256": "b85f716a9d6558b8008bc7e2a907c0f7dffa7e9a79e3e09b6c3f78d123e43cc2",
+    "DECRETO LEGISLATIVO_20170413_59/2017-05-16_17G00067_VIGENZA_2026-08-12_V0.xml": {
+      "sha256": "1962371f48f12bad9444cb15d31b7d782d1cf1e381e12dbd88e3bbbed40d917c",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2017-04-13-59.md",
       "urn": "urn:nir:stato:decreto.legislativo:2017-04-13;59"
     },

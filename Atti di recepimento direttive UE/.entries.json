@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-11",
+  "zip_date": "2026-08-12",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19960206_175/1996-03-30_096G0184_ORIGINALE_V0.xml": {
       "sha256": "b9e6909b6c24b5aa9423a811d28d930fd3228e63ed977c13f9fea8793daafd3e",
@@ -2511,8 +2511,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2005-05-30-145.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-05-30;145"
     },
-    "DECRETO LEGISLATIVO_20050718_171/2005-08-31_005G0200_VIGENZA_2026-05-23_V0.xml": {
-      "sha256": "87ecde3491d4d35411641eac65d7ffac54afb344654f4b60d6b9148dd4e7e433",
+    "DECRETO LEGISLATIVO_20050718_171/2005-08-31_005G0200_VIGENZA_2026-08-12_V0.xml": {
+      "sha256": "4603814669ada23cdeb70395d6b2ecaaebfe64e819d31d5252898b86f2a7d84b",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2005-07-18-171.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-07-18;171"
     },
@@ -5456,8 +5456,8 @@
       "out": "Atti di recepimento direttive UE/stato-legge-2014-10-30-161.md",
       "urn": "urn:nir:stato:legge:2014-10-30;161"
     },
-    "LEGGE_20171120_167/2017-11-27_17G00180_VIGENZA_2025-06-12_V0.xml": {
-      "sha256": "f27c8584154b5b61a7c7fec7aef2917707d7e36032b81e9324a3da4a8d37409a",
+    "LEGGE_20171120_167/2017-11-27_17G00180_VIGENZA_2026-08-12_V0.xml": {
+      "sha256": "5b69e814c60ea3bd5e603ae2a4e4586180549b228d0a75a4cbab82a68ea3fb09",
       "out": "Atti di recepimento direttive UE/stato-legge-2017-11-20-167.md",
       "urn": "urn:nir:stato:legge:2017-11-20;167"
     },

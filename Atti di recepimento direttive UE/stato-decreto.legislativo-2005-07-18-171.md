@@ -8,9 +8,9 @@ codice_redazionale: 005G0200
 vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
-vigenza_date: 2026-05-10
-zip_date: 2026-07-30
-fetched_at: 2026-07-30
+vigenza_date: 2026-08-08
+zip_date: 2026-08-12
+fetched_at: 2026-08-12
 ---
 
 DECRETO LEGISLATIVO
@@ -717,9 +717,15 @@ I controlli alle unita' da diporto sono svolti anche tramite l'accesso all'anagr
 
 ))
 
-## Art. 26-ter. — (( (Prevenzione dei danni ambientali).))
+## Art. 26-ter. — (Prevenzione dei danni ambientali)
 
+Le unita' da diporto fino a 24 metri di bandiera estera che navigano o stazionano nelle acque interne, nel mare territoriale e nella zona di protezione ecologica italiani, di proprieta' di cittadini italiani o persone giuridiche aventi, rispettivamente, residenza o sede legale in Italia, devono dimostrare l'idoneita' alla navigabilita' dell'unita' mediante le certificazioni previste dalle norme dello stato di bandiera ovvero, qualora dette norme non prevedano certificazioni, sottoporre l'imbarcazione a visita presso un organismo tecnico notificato ai sensi del decreto legislativo 11 gennaio 2016, n. 5, che ne rilascia attestazione, onde verificare se lo stato dell'unita' presenta potenziali rischi per l'integrita' dell'ambiente marino e la sicurezza della navigazione. L'attestazione ha durata quinquennale. 
+ ((27))
 
+-----------
+                            AGGIORNAMENTO (27)
+                            
+ Il D.L.7 agosto 2026, n. 144 ha disposto (con l'art. 1, comma 10) che "Al fine di consentire agli organismi di cui al decreto legislativo 11 gennaio 2016, n. 5, di attuare gli adempimenti tecnico-amministrativi relativi alle verifiche previste dall'articolo 26-ter del codice della nautica da diporto, di cui al decreto legislativo 18 luglio 2005, n.171, e di adeguare il sistema dei controlli a cura degli organi accertatori preposti, il termine di entrata in vigore delle disposizioni di cui al medesimo articolo 26-ter e' fissato al 31 ottobre 2026".
 
 ## Art. 27. — (Natanti da diporto e moto d'acqua)
 
@@ -921,7 +927,7 @@ Nelle manifestazioni sportive e negli allenamenti suddetti devono essere osserva
                                 
                                     trasferire unita' da diporto da un luogo all'altro anche per la partecipazione a fiere, saloni e altri eventi espositivi, anche all'estero.
 
-Lo Sportello telematico del diportista (STED) rilascia)) ai cantieri navali, ai costruttori di motori marini ((, ai mediatori del diporto, alle aziende di assemblaggio e di allestimento di unita' da diporto e alle aziende di vendita le autorizzazioni alla navigazione temporanea per le unita' da diporto, non abilitate e non munite dei prescritti documenti ovvero abilitate e provviste di documenti di bordo ed a loro affidate in conto vendita o per riparazioni ed assistenza.
+Lo Sportello telematico del diportista (STED) rilascia ai cantieri navali, ai costruttori di motori marini, ai mediatori del diporto, alle aziende di assemblaggio e di allestimento di unita' da diporto e alle aziende di vendita le autorizzazioni alla navigazione temporanea per le unita' da diporto, non abilitate e non munite dei prescritti documenti ovvero abilitate e provviste di documenti di bordo ed a loro affidate in conto vendita o per riparazioni ed assistenza.
 
 La navigazione temporanea e' effettuata sotto la responsabilita' del titolare dell'autorizzazione.
 
@@ -929,8 +935,8 @@ L'atto di autorizzazione vale come documento di bordo ed abilita alla navigazion
 
 L'autorizzazione di cui al comma 2 e' rinnovabile ogni due anni con annotazione sull'originale e riporta l'annotazione delle attivita' commerciali di cui al comma 1.
 
-((L'autorizzazione di cui al comma 2, ove corredata della DCI, attestante i dati tecnici dell'unita', abilita l'unita' da diporto alla navigazione in acque internazionali e in acque interne e territoriali di Stati esteri per il periodo di tempo necessario all'effettuazione delle attivita' di cui al comma 1, lettere a) e c).
-Il documento, conforme al modello stabilito con decreto del Ministro delle infrastrutture e dei trasporti, e' rilasciato previo pagamento di euro 23,70 per diritti e compensi, da versare all'entrata del bilancio dello Stato. Tali somme sono successivamente riassegnate al Ministero delle infrastrutture e dei trasporti per le finalita' e con le modalita' previste dall'articolo 27, comma 2-bis. L'importo delle somme da versare per diritti e compensi ai sensi del secondo periodo e' aggiornato con cadenza almeno biennale con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sulla base dei costi effettivi delle attivita' amministrative di cui al presente comma)).
+((L'autorizzazione di cui al comma 2, ove corredata della DCI, attestante i dati tecnici dell'unita', abilita l'unita' da diporto alla navigazione in acque internazionali e in acque interne e territoriali di Stati esteri per il periodo di tempo necessario all'effettuazione delle attivita' di cui al comma 1, lettere a ) e c). Il documento, conforme al modello stabilito con decreto del Ministro delle infrastrutture e dei trasporti, e' rilasciato previo pagamento di euro 23,70 per diritti e compensi, da versare all'entrata del bilancio dello Stato. Tali somme sono successivamente riassegnate al Ministero delle infrastrutture e dei trasporti per le finalita' e con le modalita' previste dall'articolo 27, comma 2-bis.
+L'importo delle somme da versare per diritti e compensi ai sensi del secondo periodo e' aggiornato con cadenza almeno biennale con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sulla base dei costi effettivi delle attivita' amministrative di cui al presente comma)).
 
 L'unita' da diporto che fruisce di tale autorizzazione deve essere comandata dal titolare o da persona che abbia un contratto di lavoro ((o di collaborazione)) con il soggetto intestatario dell'autorizzazione medesima abilitati, se richiesto, al comando di quella unita'.
 
@@ -1213,9 +1219,11 @@ La forma del contratto di sublocazione o di quello di cessione e' regolata dal c
 
 ## Art. 42-bis. — (( (Locazione con prescrizione di comandante).))
 
-1. ((Il contratto di locazione puo' prevedere che l'imbarcazione da diporto sia comandata da soggetto munito almeno di titolo professionale di cui all'articolo 36-bis e designato dal locatario in qualita' di comandante.)) 
- 2. ((Nel caso previsto dal comma 1, il numero massimo di persone trasportate non deve essere superiore a dodici, escluso il comandante, fatto salvo il numero massimo delle persone trasportabili, indicato nel certificato di omologazione dell'imbarcazione, se inferiore a tredici.)) 
- 3. ((Il contratto di locazione di cui al comma 1 puo' essere stipulato solo da un unico locatario persona fisica e, unitamente al contratto tra locatario e comandante, e' conservato tra i documenti di bordo per tutta la durata della locazione)).
+
+
+((Nel caso previsto dal comma 1, il numero massimo di persone trasportate non deve essere superiore a dodici, escluso il comandante, fatto salvo il numero massimo delle persone trasportabili, indicato nel certificato di omologazione dell'imbarcazione, se inferiore a tredici.))
+
+((Il contratto di locazione di cui al comma 1 puo' essere stipulato solo da un unico locatario persona fisica e, unitamente al contratto tra locatario e comandante, e' conservato tra i documenti di bordo per tutta la durata della locazione)).
 
 ## Art. 43. — Scadenza del contratto
 
@@ -1267,7 +1275,8 @@ Al fine di incentivare la nautica da diporto e il turismo nautico, il proprietar
 
 Il comando e la condotta dell'imbarcazione da diporto possono essere assunti dal titolare, dall'utilizzatore a titolo di locazione finanziaria dell'imbarcazione ovvero attraverso l'utilizzazione di altro personale, con il solo requisito del possesso da almeno tre anni della patente nautica di cui all'articolo 39 del presente codice, in deroga alle disposizioni recanti l'istituzione e la disciplina dei titoli professionali del diporto. Nel caso di navi da diporto, in luogo della patente nautica, il conduttore deve essere munito di titolo professionale del diporto. Qualora sia utilizzato personale diverso, le relative prestazioni di lavoro si intendono comprese tra le prestazioni occasionali di tipo accessorio di cui all'articolo 70, comma 1, del decreto legislativo 10 settembre 2003, n. 276, e ad esse si applicano le disposizioni di cui all'articolo 72 del citato decreto legislativo n. 276 del 2003.(16)
 
-Ferme restando le previsioni di cui al presente titolo, l'effettuazione del noleggio e' subordinata esclusivamente alla previa comunicazione, da effettuare mediante modalita' telematiche e comunque finalizzate alla semplificazione degli adempimenti, all'Agenzia delle entrate e alla Capitaneria di porto ((o del contrassegno previsto al comma 1-bis)) territorialmente competente, nonche' all'Inps ed all'Inail, nel caso di impiego di personale ai sensi dell'ultimo periodo del comma 2. L'effettuazione del servizio di noleggio in assenza della comunicazione alla Capitaneria di porto comporta l'applicazione della sanzione di cui all'articolo 55, comma 1, del presente codice, mentre la mancata comunicazione all'Inps o all'Inail comporta l'applicazione delle sanzioni di cui all'articolo 3, comma 3, del decreto-legge 22 febbraio 2002, n. 12, convertito, con modificazioni, dalla legge 23 aprile 2002, n. 73.
+Ferme restando le previsioni di cui al presente titolo, l'effettuazione del noleggio e' subordinata esclusivamente alla previa comunicazione, da effettuare mediante modalita' telematiche e comunque finalizzate alla semplificazione degli adempimenti, all'Agenzia delle entrate e alla Capitaneria di porto territorialmente competente, nonche' all'Inps ed all'Inail, nel caso di impiego di personale ai sensi dell'ultimo periodo del comma 2.
+L'effettuazione del servizio di noleggio in assenza della comunicazione alla Capitaneria di porto ((o del contrassegno previsto al comma 1-bis)) comporta l'applicazione della sanzione di cui all'articolo 55, comma 1, del presente codice, mentre la mancata comunicazione all'Inps o all'Inail comporta l'applicazione delle sanzioni di cui all'articolo 3, comma 3, del decreto-legge 22 febbraio 2002, n. 12, convertito, con modificazioni, dalla legge 23 aprile 2002, n. 73.
 
 Il contratto di noleggio deve essere tenuto a bordo in originale o copia conforme.
 
@@ -1825,7 +1834,7 @@ Le sanzioni amministrative e disciplinari in materia di attivita' di scuola naut
                             
                                 c)
                                 
-                                    requisiti di idoneita' e requisiti minimi di capacita' patrimoniale; 
+                                    requisiti di idoneita' e requisiti minimi di capacita' patrimoniale; (26) 
 
                                 
                             
@@ -1867,7 +1876,7 @@ Le sanzioni amministrative e disciplinari in materia di attivita' di scuola naut
                             
                                 i)
                                 
-                                    tariffario minimo; 
+                                    tariffario minimo; (26) 
 
                                 
                             
@@ -1875,6 +1884,11 @@ Le sanzioni amministrative e disciplinari in materia di attivita' di scuola naut
                                 l)
                                 
                                     disciplina delle modalita' di diffida o sospensione dall'esercizio dell'attivita' di scuola nautica.
+
+------------
+                            AGGIORNAMENTO (26)
+                            
+ Successivamente la Corte Costituzionale, con sentenza 8 giugno - 21 luglio 2026 (in G.U. 1ª s.s. 22/07/2026, n. 29), ha dichiarato l'illegittimita' costituzionale dell'art. 23, comma 1 del D.Lgs. 12 novembre 2020, n. 160, nella parte in cui ha introdotto l'art. 49-septies, comma 21, lettere c) e i) al D.Lgs. 18 luglio 2005, n. 171.
 
 ## Art. 49-octies. — (Centri di istruzione per la nautica)
 
@@ -2005,34 +2019,128 @@ Le sanzioni amministrative e disciplinari in materia di attivita' di centri di i
 
 ## - - ((Capo IIquater)) ((Strutture dedicate alla nautica da diporto))
 
-## Art. 49-novies. — Disciplina del transito delle unita' da diporto
+## Art. 49-nonies. — Disciplina del transito delle unita' da diporto
 
-1. I concessionari delle strutture dedicate alla nautica da diporto di cui all'articolo 2, comma 1, lettere a) e b), del decreto del Presidente della Repubblica 2 dicembre 1997, n. 509, devono permanentemente riservare alle unita' da diporto, a vela o a motore, tratti di banchina per gli accosti in transito o che approdano per rifugio, commisurate alle dimensioni delle unita' da ormeggiare in termini di dimensioni, pescaggio, agitazione residua all'ormeggio e apprestamenti impiantistici con prestazioni simili agli altri ormeggi della concessione. I tratti di banchina sono riservati per la durata massima di 72 ore, rinnovabili per un ulteriore periodo di pari durata nei casi di avaria all'unita', salvo che la permanenza oltre tali termini non sia giustificata da ragioni di sicurezza della navigazione. L'ormeggio per le unita' da diporto in transito o che approdano per rifugio e' gratuito per un tempo non inferiore alle 4 ore giornaliere individuato dal concessionario nella fascia oraria dalle ore 9.00 alle ore 19.00 e per non piu' di tre ormeggi nell'arco di ciascun mese. Le tariffe e gli orari relativi all'utilizzazione gratuita degli accosti in transito o per rifugio sono resi pubblici dal gestore dei porti e degli approdi turistici. 
- 2. Nel periodo dal 15 giugno al 15 settembre di ciascun anno il numero degli accosti riservato al transito e' determinato nell'otto per cento dei posti barca disponibili. Negli altri periodi dell'anno il numero dei posti barca e' stabilito come segue: 
- a) fino a 50 posti barca: due; 
- b) fino a 100 posti barca: tre; 
- c) fino a 150 posti barca: cinque; 
- d) fino a 250 posti barca: dieci; 
- e) da 251 a 500 posti barca: quindici; 
- f) da 501 a 750 posti barca: venti; 
- g) oltre 750 posti barca: venticinque. 
- 3. Nel periodo dal 15 giugno al 15 settembre di ciascun anno il numero degli accosti riservato al transito destinato a natanti e a imbarcazioni da diporto, a vela o a motore, condotte da persone con disabilita' o con persone con disabilita' a bordo e' determinato nell'uno per cento dei posti barca disponibili. Negli altri periodi dell'anno il numero dei posti barca e' stabilito come segue: 
- a) fino a 80 posti barca: uno; 
- b) fino a 150 posti barca: due; 
- c) fino a 300 posti barca: tre; 
- d) da 300 a 400 posti barca: quattro; 
- e) da 400 a 700 posti barca: sei; 
- f) oltre 700 posti barca: otto. 
- 4. Per la finalita' di cui al comma 3 e' scelta di preferenza una area che risulta di comodo accesso e collocata alla minore distanza possibile dai punti di erogazione di acqua e di energia elettrica. Il posto di ormeggio deve essere riconoscibile mediante la sua delimitazione a terra con strisce gialle dipinte e mediante il simbolo identificativo della destinazione dell'area e deve prevedere sistemi idonei allo specifico attracco che consentano comodo accesso e uso. 
- 5. La persona con disabilita' che conduce l'unita' da diporto o la persona che conduce una unita' da diporto con disabile a bordo, a pena di decadenza dal diritto di ormeggio nell'attracco di cui al comma 3, deve comunicare al concessionario che gestisce l'ormeggio, via radio o via telefono, la data e l'orario del proprio arrivo, con almeno 24 ore di anticipo. In caso di beni del demanio marittimo non in concessione la citata comunicazione e' fatta all'autorita' marittima competente. 
- 6. Il posto di attracco riservato alle persone con disabilita', quando non impegnato a tale fine, puo' essere occupato da altra unita', con l'esplicita avvertenza che in caso di arrivo di unita' condotta da persona con disabilita' o con persona con disabilita' a bordo, che abbia fatto richiesta del suo utilizzo secondo quanto previsto al comma 5, dovra' essere immediatamente liberato. 
- 7. Lo stazionamento nel punto di attracco di cui al comma 3 e' consentito, qualora non gia' occupato da altra unita' con persona con disabilita', per un giorno e una notte. Nel caso in cui le condizioni metereologiche non consentono di riprendere la navigazione, l'autorita' marittima puo' autorizzare il prolungamento dello stazionamento. 
- 8. Le richieste e le prenotazioni degli accosti di cui ai commi 2 e 3 sono annotate in un registro, numerato e siglato in ogni singola pagina dall'autorita' marittima territorialmente competente. 
- 9. In occasione di manifestazioni sportive o mostre, i posti di ormeggio riservati al transito possono essere utilizzati dalle unita' partecipanti alle gare o presentate per l'esposizione. 
- 10. Negli altri beni del demanio marittimo non in regime di concessione destinati alla navigazione e al trasporto marittimo, con ordinanza del capo del circondario marittimo competente e' disciplinata la riserva per gli accosti alle unita' da diporto in transito o che approdano per rifugio. Con la medesima ordinanza, al fine di garantire la sicurezza portuale e della navigazione, sono altresi' individuati sistemi di regolazione degli accessi alle isole minori da parte dei passeggeri delle unita' da diporto adibite a noleggio e trasporto passeggeri ((nonche' l'accosto per lo sbarco e l'imbarco dei passeggeri di natanti e imbarcazioni da diporto adibiti a noleggio)). 
- 11. Il capo del circondario marittimo, con riferimento alla compatibilita' delle strutture dedicate alla nautica da diporto di cui all'articolo 2, comma 1, del decreto del Presidente della Repubblica 2 dicembre 1997, n. 509, con gli interessi marittimi e con la sicurezza della navigazione esprime il parere di competenza. 
- 12. Nella acque interne, nei laghi, nei parchi e nelle riserve od oasi naturali attraversati da corsi d'acqua o che comprendano bacini normalmente fruiti dall'utenza turistica mediante piccole imbarcazioni, l'autorita' o l'ente competente, con proprio atto determina le modalita' attuative e operative degli accosti alle unita' da diporto, a vela o a motore, in transito o che approdano per rifugio, nonche' dei punti di imbarco di transito idonei alla comoda fruizione da parte delle persone con disabilita'. Le tariffe relative all'utilizzazione degli accosti in transito o per rifugio sono rese pubbliche dal gestore dei punti di accosto e di imbarco. 
- 13. In caso di mancata osservanza delle disposizioni del presente articolo, si applicano le sanzioni amministrative previste dal codice della navigazione in materia di uso del demanio marittimo.
+I concessionari delle strutture dedicate alla nautica da diporto di cui all'articolo 2, comma 1, lettere a) e b), del decreto del Presidente della Repubblica 2 dicembre 1997, n. 509, devono permanentemente riservare alle unita' da diporto, a vela o a motore, tratti di banchina per gli accosti in transito o che approdano per rifugio, commisurate alle dimensioni delle unita' da ormeggiare in termini di dimensioni, pescaggio, agitazione residua all'ormeggio e apprestamenti impiantistici con prestazioni simili agli altri ormeggi della concessione. I tratti di banchina sono riservati per la durata massima di 72 ore, rinnovabili per un ulteriore periodo di pari durata nei casi di avaria all'unita', salvo che la permanenza oltre tali termini non sia giustificata da ragioni di sicurezza della navigazione. L'ormeggio per le unita' da diporto in transito o che approdano per rifugio e' gratuito per un tempo non inferiore alle 4 ore giornaliere individuato dal concessionario nella fascia oraria dalle ore 9.00 alle ore 19.00 e per non piu' di tre ormeggi nell'arco di ciascun mese. Le tariffe e gli orari relativi all'utilizzazione gratuita degli accosti in transito o per rifugio sono resi pubblici dal gestore dei porti e degli approdi turistici.
+
+2.
+                        
+                            
+                                Nel periodo dal 15 giugno al 15 settembre di ciascun anno il numero degli accosti riservato al transito e' determinato nell'otto per cento dei posti barca disponibili. Negli altri periodi dell'anno il numero dei posti barca e' stabilito come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a 50 posti barca: due; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a 100 posti barca: tre; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fino a 150 posti barca: cinque; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fino a 250 posti barca: dieci; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da 251 a 500 posti barca: quindici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da 501 a 750 posti barca: venti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    oltre 750 posti barca: venticinque.
+
+3.
+                        
+                            
+                                Nel periodo dal 15 giugno al 15 settembre di ciascun anno il numero degli accosti riservato al transito destinato a natanti e a imbarcazioni da diporto, a vela o a motore, condotte da persone con disabilita' o con persone con disabilita' a bordo e' determinato nell'uno per cento dei posti barca disponibili. Negli altri periodi dell'anno il numero dei posti barca e' stabilito come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a 80 posti barca: uno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a 150 posti barca: due; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fino a 300 posti barca: tre; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da 300 a 400 posti barca: quattro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da 400 a 700 posti barca: sei; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    oltre 700 posti barca: otto.
+
+Per la finalita' di cui al comma 3 e' scelta di preferenza una area che risulta di comodo accesso e collocata alla minore distanza possibile dai punti di erogazione di acqua e di energia elettrica. Il posto di ormeggio deve essere riconoscibile mediante la sua delimitazione a terra con strisce gialle dipinte e mediante il simbolo identificativo della destinazione dell'area e deve prevedere sistemi idonei allo specifico attracco che consentano comodo accesso e uso.
+
+La persona con disabilita' che conduce l'unita' da diporto o la persona che conduce una unita' da diporto con disabile a bordo, a pena di decadenza dal diritto di ormeggio nell'attracco di cui al comma 3, deve comunicare al concessionario che gestisce l'ormeggio, via radio o via telefono, la data e l'orario del proprio arrivo, con almeno 24 ore di anticipo. In caso di beni del demanio marittimo non in concessione la citata comunicazione e' fatta all'autorita' marittima competente.
+
+Il posto di attracco riservato alle persone con disabilita', quando non impegnato a tale fine, puo' essere occupato da altra unita', con l'esplicita avvertenza che in caso di arrivo di unita' condotta da persona con disabilita' o con persona con disabilita' a bordo, che abbia fatto richiesta del suo utilizzo secondo quanto previsto al comma 5, dovra' essere immediatamente liberato.
+
+Lo stazionamento nel punto di attracco di cui al comma 3 e' consentito, qualora non gia' occupato da altra unita' con persona con disabilita', per un giorno e una notte. Nel caso in cui le condizioni metereologiche non consentono di riprendere la navigazione, l'autorita' marittima puo' autorizzare il prolungamento dello stazionamento.
+
+Le richieste e le prenotazioni degli accosti di cui ai commi 2 e 3 sono annotate in un registro, numerato e siglato in ogni singola pagina dall'autorita' marittima territorialmente competente.
+
+In occasione di manifestazioni sportive o mostre, i posti di ormeggio riservati al transito possono essere utilizzati dalle unita' partecipanti alle gare o presentate per l'esposizione.
+
+Negli altri beni del demanio marittimo non in regime di concessione destinati alla navigazione e al trasporto marittimo, con ordinanza del capo del circondario marittimo competente e' disciplinata la riserva per gli accosti alle unita' da diporto in transito o che approdano per rifugio. Con la medesima ordinanza, al fine di garantire la sicurezza portuale e della navigazione, sono altresi' individuati sistemi di regolazione degli accessi alle isole minori da parte dei passeggeri delle unita' da diporto adibite a noleggio e trasporto passeggeri ((nonche' l'accosto per lo sbarco e l'imbarco dei passeggeri di natanti e imbarcazioni da diporto adibiti a noleggio)).
+
+Il capo del circondario marittimo, con riferimento alla compatibilita' delle strutture dedicate alla nautica da diporto di cui all'articolo 2, comma 1, del decreto del Presidente della Repubblica 2 dicembre 1997, n. 509, con gli interessi marittimi e con la sicurezza della navigazione esprime il parere di competenza.
+
+Nella acque interne, nei laghi, nei parchi e nelle riserve od oasi naturali attraversati da corsi d'acqua o che comprendano bacini normalmente fruiti dall'utenza turistica mediante piccole imbarcazioni, l'autorita' o l'ente competente, con proprio atto determina le modalita' attuative e operative degli accosti alle unita' da diporto, a vela o a motore, in transito o che approdano per rifugio, nonche' dei punti di imbarco di transito idonei alla comoda fruizione da parte delle persone con disabilita'. Le tariffe relative all'utilizzazione degli accosti in transito o per rifugio sono rese pubbliche dal gestore dei punti di accosto e di imbarco.
+
+In caso di mancata osservanza delle disposizioni del presente articolo, si applicano le sanzioni amministrative previste dal codice della navigazione in materia di uso del demanio marittimo.
 
 ## Art. 49-decies. — (( Campi di ormeggio attrezzati ))
 
@@ -2375,7 +2483,7 @@ Salvo che il fatto costituisca reato, in caso di rifiuto dell'accertamento di cu
                             
                                 e)
                                 
-                                    per le violazioni di cui all'articolo 55, comma 3 ((comma 1, e all'articolo 55-bis)); 
+                                    per le violazioni di cui all'articolo 55, ((comma 1, e all'articolo 55-bis)); 
 
                                 
                             

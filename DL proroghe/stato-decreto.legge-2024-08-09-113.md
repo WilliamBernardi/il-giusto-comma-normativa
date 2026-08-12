@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legge:2024-08-09;113
 vigente: true
 source: normattiva-opendata
 collection: DL proroghe
-vigenza_date: 2026-01-01
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-12
+fetched_at: 2026-08-12
 ---
 
 DECRETO-LEGGE
@@ -376,11 +376,9 @@ Con provvedimento del direttore dell'Agenzia delle entrate sono stabiliti termin
 
 Agli oneri derivanti dal presente articolo, valutati in 212.162.500 euro per l'anno 2025, 267.650.000 euro per l'anno 2026, 223.087.500 euro per l'anno 2027, 176.225.000 euro per l'anno 2028 e 108.375.000 euro per l'anno 2029, si provvede, quanto a 63.364.583 euro per l'anno 2025, 65.175.000 euro per l'anno 2026 e 16.293.750 euro per l'anno 2027, mediante corrispondente utilizzo delle maggiori entrate derivanti dal presente articolo e, quanto a 148.797.917 euro per l'anno 2025, 202.475.000 euro per l'anno 2026, 206.793.750 euro per l'anno 2027, 176.225.000 euro per l'anno 2028 e 108.375.000 euro per l'anno 2029, mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209.
 
-## Art. 3.
+## Art. 3. — ((ARTICOLO ABROGATO DAL D.LGS. 19 GENNAIO 2026, N. 10))
 
-Disposizioni in materia di associazioni e societa' sportive dilettantistiche
 
-((Fino alla data di applicazione)) delle disposizioni di cui all'articolo 5, comma 15-quater, del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, ((possono essere applicate)) le disposizioni di cui all'articolo 4, quarto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ((nel testo vigente anteriormente alla data di entrata in vigore del citato comma 15-quater dell'articolo 5 del decreto-legge n. 146 del 2021,)) da parte delle associazioni sportive dilettantistiche e, in virtu' di quanto previsto dall'articolo 90, comma 1, della legge 27 dicembre 2002, n. 289, da parte delle societa' sportive dilettantistiche. Sono fatti salvi i comportamenti dei contribuenti adottati prima della data di entrata in vigore del presente decreto.
 
 ## Art. 4.
 
@@ -403,13 +401,13 @@ Il ((Dipartimento per lo sport)) della Presidenza del Consiglio dei ministri tra
 
 ## Art. 5. — Modifiche alla disciplina in materia di IVA
 
-Alla Tabella A, parte II-bis, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e' aggiunto, in fine, il seguente numero: «1-septies) erogazione di corsi di attivita' sportiva invernale, come individuata dalle Federazioni di sport invernali riconosciute dal Comitato Olimpico Nazionale Italiano, impartiti, anche in forma organizzata, da iscritti in appositi albi regionali o nazionali, nella misura in cui tali corsi non siano esenti dall'imposta sul valore aggiunto.».
 
-((Fino alla data di applicazione)) dell'articolo 5, comma 15-quater, del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, la disposizione di cui al comma 1 si applica sempreche' le prestazioni non rientrino tra quelle di cui all'articolo 4, quarto comma, del decreto del Presidente della Repubblica n. 633 del 1972, ((nel testo vigente anteriormente alla data di entrata in vigore del citato comma 15-quater dell'articolo 5 del decreto-legge n. 146 del 2021,)) tenendo conto anche di quanto previsto dall'articolo 90, comma 1, della legge 27 dicembre 2002, n. 289.
 
-Le prestazioni di cui al comma 1 rese prima della data di entrata in vigore del presente decreto si intendono comprese tra le prestazioni esenti ovvero, qualora ne ricorrano le condizioni, tra quelle di cui all'articolo 4, quarto comma, del decreto del Presidente della Repubblica n. 633 del 1972, ((nel testo vigente anteriormente alla data di entrata in vigore del citato comma 15-quater dell'articolo 5 del decreto-legge n. 146 del 2021,)) tenendo conto anche di quanto previsto dall'articolo 90, comma 1, della legge n. 289 del 2002. Sono fatti salvi i comportamenti dei contribuenti adottati prima della data di entrata in vigore del presente decreto.
+((COMMA ABROGATO DAL D.LGS. 19 GENNAIO 2026, N. 10)).
 
-Al fine di sostenere la filiera equina, alla Tabella A, parte II-bis, del decreto del Presidente della Repubblica n. 633 del 1972, dopo il numero 1-septies) ((, introdotto dal comma 1 del presente articolo)), e' aggiunto il seguente: «1-octies) cavalli vivi destinati a finalita' diverse da quelle alimentari per cessioni che avvengono entro ((il 31 dicembre dell'anno successivo a quello della nascita)).».
+((COMMA ABROGATO DAL D.LGS. 19 GENNAIO 2026, N. 10)).
+
+((COMMA ABROGATO DAL D.LGS. 19 GENNAIO 2026, N. 10)).
 
 Al minor gettito derivante dal comma 4, valutato in 1,54 milioni di euro per l'anno 2024 e in 3,08 milioni di euro annui a decorrere dall'anno 2025, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'economia e delle finanze.
 
@@ -798,19 +796,34 @@ a) al comma 2, la lettera c) e' sostituita dalla seguente: "c) assicura la reali
 
 b) al comma 4, le parole da: "delle disposizioni del codice dei contratti" fino a: "n. 36," sono soppresse))
 
-## Art. 10-bis. — (( (Disposizioni in materia di contributi di cui al comma 29 dell'articolo 1 della legge 27 dicembre 2019, n. 160). ))
+## Art. 10-bis. — (Disposizioni in materia di contributi di cui al comma 29 dell'articolo 1 della legge 27 dicembre 2019, n. 160)
 
-((
+Per i contributi riferiti alle annualita' dal 2020 al 2023, il superamento del termine di cui all'articolo 1, comma 32, primo periodo, della legge 27 dicembre 2019, n. 160, non comporta la revoca del contributo a condizione che alla data del ((31 dicembre 2024)) risulti stipulato il contratto di affidamento dei lavori.
 
-Per i contributi riferiti alle annualita' dal 2020 al 2023, il superamento del termine di cui all'articolo 1, comma 32, primo periodo, della legge 27 dicembre 2019, n. 160, non comporta la revoca del contributo a condizione che alla data del 15 settembre 2024 risulti stipulato il contratto di affidamento dei lavori.
+2.
+                        
+                            
+                                All'articolo 1 della legge 27 dicembre 2019, n. 160, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 31-bis, le parole: "30 aprile 2024" sono sostituite dalle seguenti: "30 novembre 2024"; 
 
-2. All'articolo 1 della legge 27 dicembre 2019, n. 160, sono apportate le seguenti modificazioni:
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 32, dopo il secondo periodo e' inserito il seguente: "Per l'anno 2024 il termine di cui al primo periodo e' fissato al 31 dicembre 2024"; 
 
-a) al comma 31-bis, le parole: "30 aprile 2024" sono sostituite dalle seguenti: "30 novembre 2024";
-
-b) al comma 32, dopo il secondo periodo e' inserito il seguente: "Per l'anno 2024 il termine di cui al primo periodo e' fissato al 31 dicembre 2024";
-
-c) al comma 34, al primo periodo, la parola: "2023" e' sostituita dalla seguente: "2024" e le parole: "31 maggio 2024" sono sostituite dalle seguenti: "28 febbraio 2025" e il terzo periodo e' soppresso))
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 34, al primo periodo, la parola: "2023" e' sostituita dalla seguente: "2024" e le parole: "31 maggio 2024" sono sostituite dalle seguenti: "28 febbraio 2025" e il terzo periodo e' soppresso.
 
 ## Art. 11. — Rifinanziamento di Fondi e interventi in materia di ricerca, assistenza e cura
 

@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-11",
+  "zip_date": "2026-08-12",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -306,8 +306,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-1999-10-29-490.md",
       "urn": "urn:nir:stato:decreto.legislativo:1999-10-29;490"
     },
-    "DECRETO LEGISLATIVO_20000818_267/2000-09-28_000G0304_VIGENZA_2026-03-13_V0.xml": {
-      "sha256": "3d31593e40fdce397d3091681356aa0a8cb747cd5c8695b79926b61d9411b5f0",
+    "DECRETO LEGISLATIVO_20000818_267/2000-09-28_000G0304_VIGENZA_2026-08-12_V0.xml": {
+      "sha256": "b73fb2fc61bddd08c92fd620d3c0ffdedbc164804c424efbd340321a4ae8c39b",
       "out": "Testi Unici/stato-decreto.legislativo-2000-08-18-267.md",
       "urn": "urn:nir:stato:decreto.legislativo:2000-08-18;267"
     },
