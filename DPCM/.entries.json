@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-12",
+  "zip_date": "2026-08-13",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19870408_227/1987-06-11_087U0227_ORIGINALE_V0.xml": {
       "sha256": "f51754d3f279937e1b69efd4cb14aee95bdfa3497e535f6314ee7d0168868c6e",
@@ -1805,6 +1805,11 @@
       "sha256": "9996a8b3776b77426b59b215640af71289030115eea1f4faa4b572890bae7c7e",
       "out": "DPCM/stato-decreto.del.presidente.del.consiglio.dei.ministri-2026-05-22-130.md",
       "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-05-22;130"
+    },
+    "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_20260612_150/2026-08-11_26G00159_ORIGINALE_V0.xml": {
+      "sha256": "a8e3a4993f29a57e102875a8ebb85602e83f7fffe827a62a9474507951f8da06",
+      "out": "DPCM/stato-decreto.del.presidente.del.consiglio.dei.ministri-2026-06-12-150.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-06-12;150"
     }
   }
 }

@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2022-10-10;151
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-06-12
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-13
+fetched_at: 2026-08-13
 ---
 
 DECRETO LEGISLATIVO
@@ -126,14 +126,13 @@ I componenti dell'ufficio per il processo sono tenuti all'obbligo di riservatezz
 
 ## - Capo II Compiti degli uffici per il processo e dell'ufficio spoglio, analisi  e documentazione
 
-## Art. 5. — ((Compiti dell'ufficio per il processo civile presso i tribunali e le corti d'appello))
+## Art. 5. — Compiti dell'ufficio per il processo civile presso i tribunali e le corti d'appello
 
 1.
                         
                             
-                                
-                                    ((All'ufficio per il processo civile costituito presso i tribunali ordinari, i tribunali per i minorenni e le corti di appello sono attribuiti i seguenti compiti:))
-                                
+                                All'ufficio per il processo civile costituito presso i tribunali ordinari, i tribunali per i minorenni e le corti di appello sono attribuiti i seguenti compiti: 
+ 
                             
                             
                                 a)
@@ -182,16 +181,15 @@ I componenti dell'ufficio per il processo sono tenuti all'obbligo di riservatezz
                                 
                                     supporto per l'attuazione dei progetti organizzativi finalizzati ad incrementare la capacita' produttiva dell'ufficio, ad abbattere l'arretrato e a prevenirne la formazione.
 
-((Il personale di cui all'articolo 4, comma 1, lettera f), e' impiegato in via ordinaria nelle attivita' di cui al comma 1, lettere a), b) e c) , salvo i casi di urgente e comprovata necessita'.))
+((Il personale di cui all'articolo 4, comma 1, lettera f), e' impiegato nelle attivita' di cui al comma 1, lettere a), b), c) e d), nelle altre attivita' previste dalla contrattazione collettiva di comparto e, in via residuale, al presidio delle attivita' che la legge attribuisce alle cancellerie, al fine di assicurare un qualificato supporto all'attivita' giurisdizionale.))
 
-## Art. 6. — ((Compiti dell'ufficio per il processo penale presso i tribunali e le corti d'appello))
+## Art. 6. — Compiti dell'ufficio per il processo penale presso i tribunali e le corti d'appello
 
 1.
                         
                             
-                                
-                                    ((All'ufficio per il processo penale costituito presso i tribunali ordinari, i tribunali di sorveglianza, gli uffici di sorveglianza, i tribunali per i minorenni e le corti di appello sono attribuiti i seguenti compiti:))
-                                
+                                All'ufficio per il processo penale costituito presso i tribunali ordinari, i tribunali di sorveglianza, gli uffici di sorveglianza, i tribunali per i minorenni e le corti di appello sono attribuiti i seguenti compiti: 
+ 
                             
                             
                                 a)
@@ -219,7 +217,7 @@ I componenti dell'ufficio per il processo sono tenuti all'obbligo di riservatezz
                                 
                                     fornire supporto al magistrato nell'accelerazione dei processi di innovazione tecnologica.
 
-((Il personale di cui all'articolo 4, comma 1, lettera f), e' impiegato in via ordinaria nelle attivita' di cui al comma 1, lettere a), b) e c), salvo i casi di urgente e comprovata necessita'.))
+((Il personale di cui all'articolo 4, comma 1, lettera f), e' impiegato nelle attivita' di cui al comma 1, lettere a), b), c) e d), nelle altre attivita' previste dalla contrattazione collettiva di comparto e, in via residuale, al presidio delle attivita' che la legge attribuisce alle cancellerie, al fine di assicurare un qualificato supporto all'attivita' giurisdizionale.))
 
 L'ufficio per il processo penale istituito presso la corte di appello effettua prioritariamente uno spoglio mirato dei fascicoli al fine di individuare la prossima scadenza dei termini e la maturazione dell'improcedibilita' per superamento dei termini di durata massima del giudizio di impugnazione.
 

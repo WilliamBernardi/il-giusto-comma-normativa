@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-12",
+  "zip_date": "2026-08-13",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19890804_296/1989-08-23_089G0372_ORIGINALE_V0.xml": {
       "sha256": "b4b68b6ec62847ac1692378e52f37d92f63ede4723c9c0a15afe7aaede011ce0",
@@ -1245,6 +1245,11 @@
       "sha256": "9996a8b3776b77426b59b215640af71289030115eea1f4faa4b572890bae7c7e",
       "out": "Regolamenti ministeriali/stato-decreto.del.presidente.del.consiglio.dei.ministri-2026-05-22-130.md",
       "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-05-22;130"
+    },
+    "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_20260612_150/2026-08-11_26G00159_ORIGINALE_V0.xml": {
+      "sha256": "a8e3a4993f29a57e102875a8ebb85602e83f7fffe827a62a9474507951f8da06",
+      "out": "Regolamenti ministeriali/stato-decreto.del.presidente.del.consiglio.dei.ministri-2026-06-12-150.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-06-12;150"
     },
     "DECRETO MINISTERIALE_19890309_172/1989-05-13_089G0203_ORIGINALE_V0.xml": {
       "sha256": "0e33899d2ab1105312fca725a0e2a798b500e2f20fd6afc087d9741560e0c384",

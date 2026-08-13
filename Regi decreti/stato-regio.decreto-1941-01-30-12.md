@@ -8,9 +8,9 @@ codice_redazionale: 041U0012
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-vigenza_date: 2026-06-12
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-13
+fetched_at: 2026-08-13
 ---
 
 REGIO DECRETO
@@ -146,6 +146,10 @@ Ordine giudiziario.
 Organici; sedi giudiziarie. 
  
  Il numero, le sedi, le circoscrizioni territoriali degli uffici giudiziari indicati nel primo comma dell'art. 1 ed il ruolo organico della magistratura sono determinati dalle tabelle allegate al presente ordinamento, fatta eccezione per i giudici conciliatori.
+
+### Art. 5-bis. — ( (Piante organiche della magistratura ordinaria). )
+
+((Le piante organiche della magistratura ordinaria sono determinate dal Ministro della giustizia, sentito il Consiglio superiore della magistratura. Negli uffici delle procure della Repubblica presso i tribunali per i minorenni non puo' essere previsto un numero di sostituti procuratori inferiore a tre.))
 
 ### Art. 6.
 
@@ -783,7 +787,8 @@ Il tribunale ordinario:
  a) esercita la giurisdizione in primo grado e in appello, contro le sentenze pronunciate dal giudice di pace, in materia civile; 
  b) esercita la giurisdizione in primo grado in materia penale; 
  c) ((LETTERA SOPPRESSA DAL D.LGS. 10 OTTOBRE 2022, N. 149)); ((169))
-                                    ((173)) 
+                                    ((173))
+                                    ((175)) 
  d) esercita nei modi stabiliti dalla legge le altre funzioni ad esso deferite. (109)(110a)
 
 ------------
@@ -801,7 +806,11 @@ Il tribunale ordinario:
                                 ---------------
                                 AGGIORNAMENTO (173)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione della presente lettera dal 18 ottobre 2024 al 18 ottobre 2026.
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione della presente lettera dal 18 ottobre 2024 al 18 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (175)
+                                
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione della presente lettera dal 18 ottobre 2024 al 18 ottobre 2027.
 
 ### Art. 43-bis.
 
@@ -994,7 +1003,7 @@ In ogni sede di corte di appello o di sezione distaccata di corte di appello e' 
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 50. — Composizione dell'ufficio del tribunale per le persone, per i minorenni e per le famiglie
 
@@ -1029,7 +1038,7 @@ Il tribunale per le persone, per i minorenni e per le famiglie e' diretto dal pr
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 50.1. — Funzioni e attribuzioni del tribunale per le persone, per i minorenni e per le famiglie
 
@@ -1058,7 +1067,7 @@ Il tribunale per le persone, per i minorenni e per le famiglie, nell'ambito dell
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 50.2. — Attribuzioni del presidente del tribunale per le persone, per i minorenni e per le famiglie
 
@@ -1081,7 +1090,7 @@ Il presidente del tribunale per le persone, per i minorenni e per le famiglie di
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 50.3. — Attribuzioni del presidente della sezione distrettuale e delle sezioni circondariali
 
@@ -1112,7 +1121,7 @@ La sezione distrettuale e' diretta dal presidente del tribunale per le persone, 
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 50.4. — Composizione dell'organo giudicante
 
@@ -1137,7 +1146,7 @@ La sezione circondariale del tribunale per le persone, per i minorenni e per le 
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 50.5. — Ripartizione degli affari tra la sezione distrettuale e le sezioni circondariali del tribunale per le persone, per i minorenni e per le famiglie
 
@@ -1168,7 +1177,7 @@ Presso la sezione circondariale del tribunale per le persone, per i minorenni e 
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 50-bis. — Giudice per le indagini preliminari
 
@@ -1192,7 +1201,7 @@ L'organizzazione del lavoro dei predetti giudici e' attribuita al piu' anziano. 
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 51.
 
@@ -1200,7 +1209,7 @@ Giudice di sorveglianza presso il tribunale ordinario per le persone, per i mino
  
  Le funzioni di giudice di sorveglianza sono esercitate dal giudice addetto al tribunale ordinario per i minorenni. (162) (169) (173) ((175)) 
  
- COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149. (169) (173)
+ COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149. (169) (173) (175)
 
 ---------------
                                 AGGIORNAMENTO (162)
@@ -1218,7 +1227,7 @@ Giudice di sorveglianza presso il tribunale ordinario per le persone, per i mino
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 2 del presente articolo dal 18 ottobre 2024 al 18 ottobre 2027 e che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 52.
 
@@ -1274,7 +1283,7 @@ Costituzione delle sezioni nelle corti di appello.
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 55.
 
@@ -1300,7 +1309,7 @@ Sezione per le persone, per i minorenni e per le famiglie (162) (169) (173) ((17
  
  La sezione giudica con l'intervento di due consiglieri onorari esperti un uomo ed una donna, aventi i requisiti prescritti dalle legge, i quali si aggiungono ai tre magistrati della sezione. (162) (169) (173) ((175)) 
  
- COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149. (169) (173) 
+ COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149. (169) (173) (175) 
  
  Le funzioni di consigliere delegato per la sorveglianza sono, per i minorenni, esercitate da uno dei magistrati della sezione di corte di appello per le persone, per i minorenni e per le famiglie. (162) (169) (173) ((175))
 
@@ -1319,7 +1328,7 @@ Sezione per le persone, per i minorenni e per le famiglie (162) (169) (173) ((17
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 3 del presente articolo dal 18 ottobre 2024 al 18 ottobre 2027 e che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 59.
 
@@ -1472,7 +1481,7 @@ Questi, se accoglie il reclamo, revoca il decreto di avocazione, disponendo la r
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 70-bis. — ((ARTICOLO ABROGATO DAL D.LGS. 6 SETTEMBRE 2011, N. 159))
 
@@ -1501,7 +1510,7 @@ Presso il tribunale per le persone, per i minorenni e per le famiglie e' istitui
                                 ---------------
                                 AGGIORNAMENTO (175)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100) ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 71.
 

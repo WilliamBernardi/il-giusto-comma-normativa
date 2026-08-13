@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-12",
+  "zip_date": "2026-08-13",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -235846,8 +235846,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2002-05-30-114.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;114"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-07-16_V0.xml": {
-      "sha256": "34270303ce401c3baf577105a4f8310c4a80b9ea5c68ff4dc11cd212a7d5c27a",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-08-13_V0.xml": {
+      "sha256": "f0f9db7e2c0ac7afff42e0f5ccbc4c3b56930f13d3ce336eaa4f40b72148da1c",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2002-05-30-115.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115"
     },

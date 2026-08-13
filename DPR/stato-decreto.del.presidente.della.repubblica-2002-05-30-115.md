@@ -8,9 +8,9 @@ codice_redazionale: 002G0139
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2026-07-16
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-13
+fetched_at: 2026-08-13
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -3020,59 +3020,23 @@ Il decreto e' comunicato al beneficiario e alle parti, compreso il pubblico mini
 
 Nel processo penale il decreto e' titolo provvisoriamente esecutivo solo se sussiste il segreto sugli atti di indagine o sulla iscrizione della notizia di reato ed e' comunicato al beneficiario; alla cessazione del segreto e' comunicato alle parti, compreso il pubblico ministero, nonche' nuovamente al beneficiario ai fini dell'opposizione.
 
-## Art. 168-bis. — (( Decreto di pagamento delle prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e di quelle funzionali all'utilizzo delle medesime ))
+## Art. 168-bis. — (L) 
+Decreto di pagamento delle prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e di quelle funzionali all'utilizzo delle medesime
 
+Concluse le prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e quelle funzionali all'utilizzo delle medesime, l'avente diritto presenta richiesta di pagamento al pubblico ministero.
 
+La liquidazione delle spese relative alle prestazioni di cui al comma 01 e' effettuata con decreto di pagamento del pubblico ministero che ha richiesto o eseguito l'autorizzazione a disporre le operazioni di intercettazione.
 
-((Concluse le prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e quelle funzionali all'utilizzo delle medesime, l'avente diritto presenta richiesta di pagamento al pubblico ministero.))
+((Ricevuta la richiesta di liquidazione delle spese di cui al comma 1 e verificata la conformita' delle prestazioni svolte e della rendicontazione, il pubblico ministero provvede entro trenta giorni.))
 
-La liquidazione delle spese relative alle prestazioni ((di cui al comma 01)) e' effettuata ((...)) con decreto di pagamento del pubblico ministero che ha richiesto o eseguito l'autorizzazione a disporre le operazioni di intercettazione.
+((Nel corso delle indagini preliminari il decreto di pagamento e' titolo esecutivo ed e' comunicato al beneficiario. Dopo la conclusione delle indagini e' comunicato alle parti e nuovamente al beneficiario ai fini dell'eventuale introduzione di un giudizio di opposizione ai sensi dell'articolo 170, diretto a consentire al beneficiario e alle parti di contestare la liquidazione.))
 
-((Ricevuta la richiesta di liquidazione delle spese di cui al comma 1 e verificata la rendicontazione delle prestazioni svolte, il pubblico ministero provvede entro trenta giorni.))
-
-((Nel corso delle indagini preliminari il decreto di pagamento e' titolo provvisoriamente esecutivo ed e' comunicato al beneficiario. Dopo la conclusione delle indagini e' comunicato alle parti e nuovamente al beneficiario ai fini dell'opposizione.))
-
-3.
-                        
-                            
-                                Avverso il decreto di pagamento e' ammessa opposizione ai sensi dell'articolo 170. 
- 3.01. ((Il beneficiario emette fattura soltanto a seguito dell'esecutivita' del decreto del pubblico ministero. Il pagamento e' eseguito entro trenta giorni dalla ricezione della fattura.)) 
- 3.02. ((Se il pagamento e' eseguito successivamente al termine di cui al comma 3.01, al creditore spetta, oltre agli interessi nella misura degli interessi legali di mora, un indennizzo a percentuale sulla somma dovuta calcolato per scaglioni commisurati al ritardo:))
-                                
-                            
-                            
-                                a)
-                                
-                                    
-                                        ((nel caso di ritardo fino a sei mesi: 1 per cento;))
-                                    
-                                
-                            
-                            
-                                b)
-                                
-                                    
-                                        ((nel caso di ritardo superiore a sei mesi e inferiore a un anno: 1,5 per cento;))
-                                    
-                                
-                            
-                            
-                                c)
-                                
-                                    
-                                        ((nel caso di ritardo superiore a un anno e inferiore a due anni: 2 per cento;))
-                                    
-                                
-                            
-                            
-                                d)
-                                
-                                    
-                                        ((nel caso di ritardo superiore a due anni: 2,5 per cento.))
+((Il pagamento e' eseguito entro trenta giorni dal decreto, quando il beneficiario ha gia' emesso fattura, oppure entro trenta giorni dalla ricezione della fattura.)) 
+ 3.1. ((Qualora non siano rispettati i termini di cui al comma 1-bis e al comma 3, per i rispettivi ritardi, sulla somma liquidata sono dovuti interessi nella misura di cui al comma 3-ter.))
 
 L'importo delle spese relative alle operazioni di intercettazione e' specificamente annotato nel foglio delle notizie di cui all'articolo 280.
 
-((Si applica il decreto legislativo 9 ottobre 2002, n. 231, come modificato dal decreto legislativo 9 novembre 2012, n. 192, recante "Modifiche al decreto legislativo 9 ottobre 2002, n. 231, per l'integrale recepimento della direttiva 2011/7/UE relativa alla lotta contro i ritardi di pagamento nelle transazioni commerciali, a norma dell'articolo 10, comma 1, della legge 11 novembre 2011, n. 180", in quanto compatibile tenuto conto che la prestazione deriva da incarico conferito dall'autorita' giudiziaria.))
+((Per tutto quanto attiene agli ulteriori diritti del prestatore del servizio per il caso di ritardo nel pagamento, inclusa la misura degli interessi e il rimborso forfettario, si applica il decreto legislativo 9 ottobre 2002, n. 231, come modificato dal decreto legislativo 9 novembre 2012, n. 192, recante modifiche al decreto legislativo 9 ottobre 2002, n. 231, per l'integrale recepimento della direttiva 2011/7/UE del Parlamento europeo e del Consiglio, del 16 febbraio 2011, relativa alla lotta contro i ritardi di pagamento nelle transazioni commerciali, a norma dell'articolo 10, comma 1, della legge 11 novembre 2011, n. 180.))
 
 ## Art. 169. — Decreto di pagamento delle spese per la demolizione e la riduzione in pristino dei luoghi
 

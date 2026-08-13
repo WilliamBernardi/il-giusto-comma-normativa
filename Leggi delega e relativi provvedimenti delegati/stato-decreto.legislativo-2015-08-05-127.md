@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2015-08-05;127
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-01-01
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-13
+fetched_at: 2026-08-13
 ---
 
 DECRETO LEGISLATIVO
@@ -226,13 +226,13 @@ Il termine di decadenza di cui all'articolo 57, primo comma, del decreto del Pre
                             c)
                             
                                 LETTERA SOPPRESSA DAL D.L. 22 MARZO 2021, N. 41, CONVERTITO CON MODIFICAZIONI DALLA L. 21 MAGGIO 2021, N. 69. 
- ((1.1)). A partire dalle operazioni IVA effettuate dal 1° gennaio 2022, in via sperimentale, oltre alle bozze dei documenti di cui al comma 1, lettere a) e b), l'Agenzia delle entrate mette a disposizione anche la bozza della dichiarazione annuale dell'IVA.
+ 1.1. A partire dalle operazioni IVA effettuate dal 1° gennaio 2022, in via sperimentale, oltre alle bozze dei documenti di cui al comma 1, lettere a) e b), l'Agenzia delle entrate mette a disposizione anche la bozza della dichiarazione annuale dell'IVA.
 
 Per i soggetti passivi dell'IVA che, anche per il tramite di intermediari di cui all'articolo 3, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, in possesso della delega per l'utilizzo dei servizi di fatturazione elettronica, convalidano, nel caso in cui le informazioni proposte dall'Agenzia delle entrate siano complete, ovvero integrano nel dettaglio i dati proposti nelle bozze dei documenti di cui al comma 1, lettera a), viene meno l'obbligo di tenuta dei registri di cui agli articoli 23 e 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, fatta salva la tenuta del registro di cui all'articolo 18, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600. L'obbligo di tenuta dei registri ai fini dell'IVA permane per i soggetti che optano per la tenuta dei registri secondo le modalita' di cui all'articolo 18, comma 5, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600. (5)
 
 Con provvedimento del direttore dell'Agenzia delle entrate sono emanate le disposizioni necessarie per l'attuazione del presente articolo.
 
-L'Agenzia delle entrate mette a disposizione dei contribuenti residenti o stabiliti una piattaforma telematica dedicata alla compensazione di crediti e debiti derivanti da transazioni commerciali tra i suddetti soggetti, ad esclusione delle amministrazioni pubbliche individuate ai sensi dell'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, e risultanti da fatture elettroniche emesse ai sensi dell'articolo 1. La compensazione effettuata mediante piattaforma telematica produce i medesimi effetti dell'estinzione dell'obbligazione ai sensi della sezione III del capo IV del titolo I del libro quarto del codice civile, fino a concorrenza dello stesso valore e a condizione che per nessuna delle parti aderenti siano in corso procedure concorsuali o di ristrutturazione del debito omologate, ovvero piani attestati di risanamento iscritti presso il registro delle imprese. Nei confronti del debito originario insoluto si applicano comunque le disposizioni di cui al decreto legislativo 9 ottobre 2002, n. 231, in materia di ritardi di pagamento nelle transazioni commerciali.
+((COMMA ABROGATO DAL D.L. 7 AGOSTO 2026, N. 144)).
 
 ---------------
                         AGGIORNAMENTO (3)
