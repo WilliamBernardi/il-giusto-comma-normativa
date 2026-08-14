@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-13",
+  "zip_date": "2026-08-14",
   "entries": {
     "DECRETO LEGISLATIVO_19881109_478/1988-11-11_088G0566_ORIGINALE_V0.xml": {
       "sha256": "75d0c44467cdec57a1e802dceadfb953c5f37608d5175ecc916c0a4a549e438b",
@@ -1681,8 +1681,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2007-12-29-262.md",
       "urn": "urn:nir:stato:decreto.legislativo:2007-12-29;262"
     },
-    "DECRETO LEGISLATIVO_20080109_9/2008-02-01_008G0019_VIGENZA_2026-07-03_V0.xml": {
-      "sha256": "d9d0ffd4bfb04a84346a9e59de7343f2b621daf958e0555ee069491b57ceadd2",
+    "DECRETO LEGISLATIVO_20080109_9/2008-02-01_008G0019_VIGENZA_2026-08-14_V0.xml": {
+      "sha256": "15f3c42c3950143a1e0d85c7ca422de67abc7788161a94b2bb00594ee934e4cb",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2008-01-09-9.md",
       "urn": "urn:nir:stato:decreto.legislativo:2008-01-09;9"
     },
@@ -3741,8 +3741,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-03-25-50.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-03-25;50"
     },
-    "DECRETO LEGISLATIVO_20240503_62/2024-05-14_24G00079_VIGENZA_2026-05-12_V0.xml": {
-      "sha256": "e55decf77457aaa9eb90fef92c6e7117d83cfa6f4c0b0ba3dde62c72063ea268",
+    "DECRETO LEGISLATIVO_20240503_62/2024-05-14_24G00079_VIGENZA_2026-08-14_V0.xml": {
+      "sha256": "ca310f4b22ef26627c245152aae590fffda3f1c3f3db2242173975e13ed2aea8",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-05-03-62.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-05-03;62"
     },
@@ -4195,6 +4195,11 @@
       "sha256": "85c942b80f079ca6c2a651e60488f262fe8d73fa6232caea632e6e96ee0c0fb8",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-07-03-136.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-07-03;136"
+    },
+    "DECRETO LEGISLATIVO_20260730_151/2026-08-12_26G00161_ORIGINALE_V0.xml": {
+      "sha256": "84ea80f26e687810296e1be1b04453ea5a8b4b4306b41900a8f5d1af63f433ef",
+      "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-07-30-151.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2026-07-30;151"
     },
     "DECRETO LEGISLATIVO_20260805_141/2026-08-06_26G00160_ORIGINALE_V0.xml": {
       "sha256": "f41de7af2f202c27d6bbf0de4ba6d28e5d62d84801ff2e0702ccdf4dc14be96e",

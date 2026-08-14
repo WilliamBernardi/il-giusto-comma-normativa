@@ -8,9 +8,9 @@ codice_redazionale: 040U0635
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-vigenza_date: 2026-06-26
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-14
+fetched_at: 2026-08-14
 ---
 
 REGIO DECRETO
@@ -594,9 +594,9 @@ L'autorita' di P. S. trasmette al procuratore del registro il foglio contemplato
  
  Il procuratore del registro appone sul foglio la marca da bollo, e attesta della eseguita riscossione della tassa di concessione, restituendolo all'autorita' di P. S.
 
-### Art. 73. — (Fermo restando quanto previsto dall'articolo 251, comma 2, del codice dell'ordinamento militare, di cui al del decreto legislativo 15 marzo 2010, n. 66, il Capo della Polizia
+### Art. 73.
 
-), i Prefetti, i Viceprefetti, gli Ispettori provinciali amministrativi, gli ufficiali di P. S., i pretori e i magistrati addetti al Pubblico ministero o all'ufficio di istruzione, sono autorizzati a portare senza licenza le armi di cui all'art. 42 della legge.
+Fermo restando quanto previsto dall'articolo 251, comma 2, del codice dell'ordinamento militare, ((di cui al)) decreto legislativo 15 marzo 2010, n. 66, il Capo della Polizia, i Prefetti, i Viceprefetti, gli Ispettori provinciali amministrativi, gli ufficiali di P. S., i pretori e i magistrati addetti al Pubblico ministero o all'ufficio di istruzione, sono autorizzati a portare senza licenza le armi di cui all'art. 42 della legge. 
  
  Gli agenti di P. S., contemplati dagli articoli 17 e 18 della legge 31 agosto 1907, n. 690, portano, senza licenza, le armi di cui sono muniti, a termini dei rispettivi regolamenti. 
  

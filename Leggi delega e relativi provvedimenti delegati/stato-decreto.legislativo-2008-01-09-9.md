@@ -8,9 +8,9 @@ codice_redazionale: 008G0019
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-06-26
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-08-14
+fetched_at: 2026-08-14
 ---
 
 DECRETO LEGISLATIVO
@@ -475,9 +475,9 @@ Le risorse economiche e finanziarie derivanti dalla commercializzazione dei diri
 
 ## Art. 22. — (Mutualita' generale)
 
-L'organizzatore delle competizioni facenti capo alla Lega di serie A destina una quota del 10 per cento delle risorse economiche e finanziarie derivanti da tutti i contratti stipulati per la commercializzazione dei diritti di cui all'articolo 3, comma 1, esclusivamente per lo sviluppo dei settori giovanili delle societa', per la formazione e per l'utilizzo di calciatori convocabili per le squadre nazionali giovanili italiane maschili e femminili, per il sostegno degli investimenti per gli impianti sportivi ((...)) e delle attivita' giovanili ((...)).
+L'organizzatore delle competizioni facenti capo alla Lega di serie A destina una quota del 10 per cento delle risorse economiche e finanziarie derivanti da tutti i contratti stipulati per la commercializzazione dei diritti di cui all'articolo 3, comma 1, esclusivamente per lo sviluppo dei settori giovanili delle societa', per la formazione e per l'utilizzo di calciatori convocabili per le squadre nazionali giovanili italiane maschili e femminili, per il sostegno degli investimenti per gli impianti sportivi e delle attivita' giovanili.
 
-La quota di cui al comma 1 e' destinata ((al soggetto che organizza il campionato professionistico di Serie A femminile)), che determina i criteri e le modalita' di erogazione secondo le finalita' di cui al comma 1, previa rendicontazione certificata da parte dei destinatari. Tali fondi sono destinati: nella misura del 6 per cento alla Lega di serie B; nella misura del 2 per cento alla Lega Pro; nella misura dell'1 per cento alla Lega nazionale dilettanti; nella misura dell'1 per cento alla Federazione italiana giuoco calcio.
+La quota di cui al comma 1 e' destinata alla Federazione italiana giuoco calcio, che determina i criteri e le modalita' di erogazione secondo le finalita' di cui al comma 1, previa rendicontazione certificata da parte dei destinatari. Tali fondi sono destinati: nella misura del 6 per cento alla Lega di serie B; nella misura del 2 per cento alla Lega Pro; nella misura dell'1 per cento alla Lega nazionale dilettanti; ((nella misura dello 0,5 per cento al soggetto che organizza il campionato professionistico di serie A femminile e nella misura dello 0,5 per cento al soggetto che organizza il campionato professionistico di serie C con vincolo di destinazione per lo sviluppo dei settori giovanili femminili e maschili delle societa' associate, per favorire gli investimenti nelle infrastrutture e nella qualita' dei formatori dei giovani atleti e atlete selezionabili per le nazionali federali)).
 
 La Federazione italiana giuoco calcio presenta al Presidente del Consiglio dei ministri ovvero, se nominato, al Sottosegretario di Stato alla Presidenza del Consiglio dei ministri con delega allo sport, entro il 31 gennaio di ogni anno, una relazione sull'attivita' svolta nell'anno sportivo precedente.
 
