@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2014-07-04;102
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-04-19
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-15
+zip_date: 2026-08-15
+fetched_at: 2026-08-15
 ---
 
 DECRETO LEGISLATIVO
@@ -65,7 +65,8 @@ Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificat
                             
                                 d)
                                 
-                                    al decreto legislativo 18 aprile 2016, n. 50;
+                                    al decreto legislativo 18 aprile 2016, n. 50; 
+
                                 
                             
                             
@@ -117,7 +118,8 @@ Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificat
                             
                                 c-bis)
                                 
-                                    auditor energetico: figura coincidente con quella dell'EGE per le attivita' previste dal presente decreto in relazione all'esecuzione di diagnosi energetiche;
+                                    auditor energetico: figura coincidente con quella dell'EGE per le attivita' previste dal presente decreto in relazione all'esecuzione di diagnosi energetiche; 
+
                                 
                             
                             
@@ -236,12 +238,14 @@ Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificat
                                 u)
                                 
                                     esercente l'attivita' di misura dell'energia elettrica: soggetto che eroga l'attivita' di misura di cui all'articolo 4, comma6 della deliberazione dell'Autorita' per l'energia elettrica, il gas e il sistema idrico n. 11 del 2007, e successive modificazioni; 
+
                                 
                             
                             
                                 v)
                                 
-                                    grande impresa: ogni entita', a prescindere dalla forma giuridica, che eserciti un'attivita' economica con piu' di 250 occupati e con un fatturato annuo che superi i 50 milioni di euro, oppure il cui totale di bilancio annuo superi i 43 milioni di euro, i cui effettivi e soglie finanziarie sono calcolabili secondo i criteri e i principi stabiliti dalla raccomandazione 2003/362/CE della Commissione europea del 6 maggio 2003;
+                                    grande impresa: ogni entita', a prescindere dalla forma giuridica, che eserciti un'attivita' economica con piu' di 250 occupati e con un fatturato annuo che superi i 50 milioni di euro, oppure il cui totale di bilancio annuo superi i 43 milioni di euro, i cui effettivi e soglie finanziarie sono calcolabili secondo i criteri e i principi stabiliti dalla raccomandazione 2003/362/CE della Commissione europea del 6 maggio 2003; 
+
                                 
                             
                             
@@ -283,18 +287,21 @@ Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificat
                                 ee)
                                 
                                     Piano d'azione per la sostenibilita' ambientale dei consumi nel settore della pubblica amministrazione (PAN GPP): Piano predisposto ai sensi dell'articolo 1, comma 1126, della legge 27 dicembre 2006 n. 296, e approvato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dell'economia e delle finanze e dello sviluppo economico 11 aprile 2008, pubblicato nella Gazzetta Ufficiale n. 107 dell'8 maggio 2008, cosi' come modificato dal decreto del Ministro dell'ambiente e della tutela del territorio e del mare, 10 aprile 2013, pubblicato nella Gazzetta Ufficiale n. 102 del 3 maggio 2013; 
+
                                 
                             
                             
                                 ee-bis)
                                 
-                                    Piano nazionale integrato per l'energia e il clima (PNIEC): Piano predisposto dall'Italia ai sensi degli articoli 3 e da 7 a 12 del regolamento (UE) 2018/1999 e notificato alla Commissione europea;
+                                    Piano nazionale integrato per l'energia e il clima (PNIEC): Piano predisposto dall'Italia ai sensi degli articoli 3 e da 7 a 12 del regolamento (UE) 2018/1999 e notificato alla Commissione europea; 
+
                                 
                             
                             
                                 ff)
                                 
-                                    pubblica amministrazione centrale: le autorita' governative centrali di cui all'allegato III del decreto legislativo 18 aprile 2016, n. 50, nonche' gli organi costituzionali;
+                                    pubblica amministrazione centrale: le autorita' governative centrali di cui all'allegato III del decreto legislativo 18 aprile 2016, n. 50, nonche' gli organi costituzionali; 
+
                                 
                             
                             
@@ -329,12 +336,14 @@ Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificat
                                 mm)
                                 
                                     servizio energetico: la prestazione materiale, l'utilita' o il vantaggio derivante dalla combinazione di energia con tecnologie ovvero con operazioni che utilizzano efficacemente l'energia, che possono includere le attivita' di gestione, di manutenzione e di controllo necessarie alla prestazione del servizio, la cui fornitura e' effettuata sulla base di un contratto e che in circostanze normali ha dimostrato di portare a miglioramenti dell'efficienza energetica e a risparmi energetici primari verificabili e misurabili o stimabili; 
+
                                 
                             
                             
                                 nn)
                                 
-                                    sistema di contabilizzazione: sistema tecnico che consente la misurazione dell'energia termica o frigorifera fornita alle singole unita' immobiliari (utenze) servite da un impianto termico centralizzato o da teleriscaldamento o teleraffreddamento, ai fini della proporzionale suddivisione delle relative spese. Sono ricompresi nei sistemi di contabilizzazione i dispositivi atti alla contabilizzazione indiretta del calore, quali i ripartitori dei costi di riscaldamento e i totalizzatori;
+                                    sistema di contabilizzazione: sistema tecnico che consente la misurazione dell'energia termica o frigorifera fornita alle singole unita' immobiliari (utenze) servite da un impianto termico centralizzato o da teleriscaldamento o teleraffreddamento, ai fini della proporzionale suddivisione delle relative spese. Sono ricompresi nei sistemi di contabilizzazione i dispositivi atti alla contabilizzazione indiretta del calore, quali i ripartitori dei costi di riscaldamento e i totalizzatori; 
+
                                 
                             
                             
@@ -347,8 +356,9 @@ Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificat
                             
                                 pp)
                                 
-                                    sistema di misurazione intelligente: un sistema elettronico in grado di misurare il consumo di energia fornendo maggiori informazioni rispetto ad un dispositivo convenzionale, e di trasmettere e ricevere dati utilizzando una forma di comunicazione elettronica; 
-
+                                    
+                                        ((sistema di misurazione intelligente: un sistema elettronico in grado di misurare il gas naturale o l'idrogeno immesso nella rete o il gas naturale o l'idrogeno consumato e il consumo di energia in generale fornendo maggiori informazioni rispetto ad un dispositivo convenzionale, e di trasmettere e ricevere dati utilizzando una forma di comunicazione elettronica a fini d'informazione, sorveglianza e controllo;))
+                                    
                                 
                             
                             

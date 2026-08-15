@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-08;210
 vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
-vigenza_date: 2026-06-28
-zip_date: 2026-07-30
-fetched_at: 2026-07-30
+vigenza_date: 2026-08-15
+zip_date: 2026-08-15
+fetched_at: 2026-08-15
 ---
 
 DECRETO LEGISLATIVO
@@ -467,13 +467,13 @@ I clienti che ancora non dispongano di contatori intelligenti hanno comunque dir
 1.
                     
                         
-                            Al fine di assicurare la confrontabilita' e la trasparenza delle diverse offerte presenti sul mercato interno dell'energia elettrica, l'ARERA, entro tre mesi dalla data di entrata in vigore del presente decreto, assicura che il portale informatico per la raccolta e la pubblicazione delle offerte nel mercato di vendita al dettaglio di energia elettrica e gas di cui all'articolo 1, comma 61, della legge 4 agosto 2017, n. 124, sia conforme almeno ai seguenti requisiti: 
+                            Al fine di assicurare la confrontabilita' e la trasparenza delle diverse offerte presenti sul mercato interno dell'energia elettrica ((e del gas naturale)), l'ARERA, entro tre mesi dalla data di entrata in vigore del presente decreto, assicura che il portale informatico per la raccolta e la pubblicazione delle offerte nel mercato di vendita al dettaglio di energia elettrica e gas di cui all'articolo 1, comma 61, della legge 4 agosto 2017, n. 124, sia conforme almeno ai seguenti requisiti: 
  
                         
                         
                             a)
                             
-                                indipendenza dai partecipanti al mercato e parita' di trattamento tra le imprese elettriche nei risultati di ricerca; 
+                                indipendenza dai partecipanti al mercato e parita' di trattamento tra le imprese elettriche ((e del gas naturale)) nei risultati di ricerca; 
 
                             
                         
@@ -522,7 +522,15 @@ I clienti che ancora non dispongano di contatori intelligenti hanno comunque dir
                         
                             h)
                             
-                                possibilita' di immettere dati e di eseguire confronti tra diverse offerte, limitando i dati richiesti al cliente a quanto strettamente necessario ai fini del confronto.
+                                possibilita' di immettere dati e di eseguire confronti tra diverse offerte, limitando i dati richiesti al cliente a quanto strettamente necessario ai fini del confronto. 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                
+                                    ((indicazione chiara se il prezzo e' fisso o variabile e in merito alla durata del contratto.))
 
 ## Art. 11.
 

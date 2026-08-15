@@ -8,9 +8,9 @@ codice_redazionale: 011G0136
 vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
-vigenza_date: 2026-02-04
-zip_date: 2026-07-30
-fetched_at: 2026-07-30
+vigenza_date: 2026-08-15
+zip_date: 2026-08-15
+fetched_at: 2026-08-15
 ---
 
 DECRETO LEGISLATIVO
@@ -56,7 +56,7 @@ Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro 
 
 ## Art. 4. — Misure di salvaguardia
 
-In caso di crisi improvvisa sul mercato dell'energia e quando e' minacciata l'integrita' fisica o la sicurezza delle persone, delle apparecchiature o degli impianti o l'integrita' del sistema del gas naturale o del sistema elettrico, il Ministero dello sviluppo economico puo' temporaneamente adottare le necessarie misure di salvaguardia.
+In caso di crisi improvvisa sul mercato dell'energia e quando e' minacciata l'integrita' fisica o la sicurezza delle persone, delle apparecchiature o degli impianti o l'integrita' del sistema del gas naturale o del sistema elettrico, il Ministero dello sviluppo economico puo' temporaneamente adottare le necessarie misure di salvaguardia ((, in particolare quelle previste nel piano nazionale di emergenza e dichiarare, se del caso, uno dei livelli di crisi ai sensi dell'articolo 11 del regolamento (UE) 2017/1938 del Parlamento europeo e del Consiglio, del 25 ottobre 2017)).
 
 Le misure di cui al comma 1 devono causare il minor turbamento possibile nel funzionamento del mercato interno e non devono andare oltre la portata strettamente indispensabile a ovviare alle difficolta' improvvise manifestatesi.
 
@@ -64,11 +64,7 @@ Il Ministero dello sviluppo economico notifica senza indugio le misure di cui ai
 
 Le misure di cui al comma 1 relative al sistema del gas naturale sono indicate nel piano di emergenza di cui all'articolo 8 ed e' fatto obbligo alle imprese del gas naturale di rispettarle.
 
-((
-
 Le misure relative al settore dell'energia elettrica sono indicate nel Piano di preparazione ai rischi di cui all'articolo 8-bis.
-
-))
 
 ## Art. 5. — Obbligo di conservazione dei dati
 
@@ -239,7 +235,8 @@ Il parametro di adeguatezza del sistema elettrico nazionale e' individuato, ai s
 
 ## Art. 9. — Attivita' di trasporto e certificazione dei gestori dei sistemi di trasporto
 
-Entro il 3 marzo 2012 i gestori dei sistemi di trasporto devono essere certificati dall'Autorita' per l'energia elettrica e il gas che, secondo la procedura di cui al presente articolo, vigila sull'osservanza da parte dei gestori medesimi delle prescrizioni di cui all'articolo 9 della direttiva 2009/73/CE.
+Entro il 3 marzo 2012 i gestori dei sistemi di trasporto devono essere certificati dall'Autorita' per l'energia elettrica e il gas che, secondo la procedura di cui al presente articolo, vigila sull'osservanza da parte dei gestori medesimi delle prescrizioni ((sulla separazione dei sistemi di trasporto e dei gestori dei sistemi di trasporto di cui all'articolo 60 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024.
+La certificazione avviene in conformita' ai paragrafi 4, 5 e 6 dell'articolo 71 della direttiva (UE) 2024/1788 e all'articolo 14 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio del 13 giugno 2024 ed e' anteriore alla approvazione e designazione come gestore di sistema di trasporto)).
 
 L'Autorita' per l'energia elettrica e il gas avvia, entro un mese dalla data di entrata in vigore del presente decreto, la procedura di certificazione di ciascuna impresa proprietaria della rete di trasporto del gas naturale che alla medesima data agisce in qualita' di gestore di un sistema di trasporto del gas naturale.
 
@@ -259,7 +256,7 @@ L'Autorita' per l'energia elettrica e il gas avvia, entro un mese dalla data di 
                             
                                 b)
                                 
-                                    di propria iniziativa quando venga a conoscenza del fatto che la prevista modifica dei diritti o dell'influenza nei confronti dei proprietari o dei gestori dei sistemi di trasporto rischia di determinare una violazione dell'articolo 9 della direttiva 2009/73/CE ovvero quando ha motivo di ritenere che tale violazione si sia gia' verificata; 
+                                    di propria iniziativa quando venga a conoscenza del fatto che la prevista modifica dei diritti o dell'influenza nei confronti dei proprietari o dei gestori dei sistemi di trasporto rischia di determinare una violazione dell'((articolo 60 della direttiva (UE) 2024/1788)) ovvero quando ha motivo di ritenere che tale violazione si sia gia' verificata; 
 
                                 
                             
@@ -271,17 +268,46 @@ L'Autorita' per l'energia elettrica e il gas avvia, entro un mese dalla data di 
 L'Autorita' per l'energia elettrica e il gas deve concludere la procedura di cui al presente articolo con la propria decisione di certificazione, entro un termine di quattro mesi decorrenti dalla data della notificazione effettuata dal gestore del sistema di trasporto o dalla data della richiesta della Commissione europea.
 Decorso tale termine, la certificazione si intende accordata.
 
-L'Autorita' per l'energia elettrica e il gas notifica senza indugio alla Commissione europea la decisione, espressa o intervenuta per silenzio assenso, di certificazione del gestore del sistema di trasporto, unitamente alle informazioni rilevanti ai fini della decisione stessa. Tale decisione acquista efficacia dopo l'espressione del prescritto parere della Commissione europea. La Commissione esprime parere, secondo la procedura di cui all'articolo 3 del regolamento (CE) n. 715/2009 del Parlamento europeo e del Consiglio del 13 luglio 2009, entro due mesi dal ricevimento della notifica.
+L'Autorita' per l'energia elettrica e il gas notifica senza indugio alla Commissione europea la decisione, espressa o intervenuta per silenzio assenso, di certificazione del gestore del sistema di trasporto, unitamente alle informazioni rilevanti ai fini della decisione stessa. Tale decisione acquista efficacia dopo l'espressione del prescritto parere della Commissione europea. La Commissione esprime parere, secondo la procedura di cui all'((articolo 14 del regolamento (UE) 2024/1789.)), entro due mesi dal ricevimento della notifica.
 
 Entro due mesi dal ricevimento del parere della Commissione europea l'Autorita' per l'energia elettrica e il gas assume la decisione finale di certificazione tenendo conto del parere stesso.
 
 Le imprese proprietarie di un sistema di trasporto certificate dall'Autorita' per l'energia elettrica e il gas sono autorizzate all'attivita' di trasporto e designate dal Ministero dello sviluppo economico quali gestori dei sistemi di trasporto. Tale designazione e' notificata alla Commissione europea e pubblicata nella Gazzetta Ufficiale dell'Unione europea.
 
-I gestori di sistemi di trasporto notificano all'Autorita' per l'energia elettrica e il gas tutte le transazioni previste che possano richiedere un riesame della loro osservanza delle prescrizioni di cui all'articolo 9 della direttiva 2009/73/CE.
+I gestori di sistemi di trasporto notificano all'Autorita' per l'energia elettrica e il gas tutte le transazioni previste che possano richiedere un riesame della loro osservanza delle prescrizioni di cui all'((articolo 60 della direttiva (UE) 2024/1788)).
 
 L'Autorita' per l'energia elettrica e il gas e la Commissione europea, garantendo la segretezza delle informazioni commercialmente sensibili, possono chiedere ai gestori dei sistemi di trasporto ed alle imprese che esercitano attivita' di produzione o di fornitura le informazioni pertinenti ai fini dell'esercizio dei poteri ad esse conferiti dal presente articolo.
 
 Con decreto del Ministro dello sviluppo economico sono stabiliti i criteri per la certificazione del gestore di un sistema di trasporto nel caso in cui un soggetto di un Paese non appartenente all'Unione europea ne acquisisca il controllo, in base ai quali l'Autorita' per l'energia elettrica e il gas e' tenuta ad adottare una decisione di certificazione. Il predetto decreto deve garantire che il rilascio della certificazione non metta a rischio la sicurezza dell'approvvigionamento energetico dell'Italia e dell'Unione europea e che siano rispettati i diritti e gli obblighi derivanti dal diritto internazionale e da accordi con il Paese terzo interessato purche' conformi al diritto comunitario.
+
+10-bis.
+                        
+                            
+                                
+                                    ((Nei casi di cui al comma 10, qualora la certificazione sia richiesta da un proprietario del sistema di trasporto o da un gestore del sistema di trasporto che sia controllato da una persona di un paese terzo, l'Autorita' di regolazione per energia reti e ambiente (ARERA) lo notifica alla Commissione europea, unitamente a qualsiasi altra circostanza che abbia tale medesimo effetto. Il gestore del sistema di trasporto notifica all'ARERA qualsiasi circostanza che abbia come risultato l'acquisizione del controllo del sistema di trasporto, del gestore del sistema di trasporto, della rete di trasporto dell'idrogeno o del gestore della rete di trasporto dell'idrogeno da parte di un soggetto di un paese terzo. 
+ L'ARERA adotta un progetto di decisione relativa alla certificazione del gestore del sistema di trasporto o del gestore della rete di trasporto dell'idrogeno entro cento giorni lavorativi a decorrere dalla data della notifica effettuata dal gestore stesso.
+Essa rifiuta la certificazione se non e' stato dimostrato:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((che l'interessato ottempera agli obblighi di cui all'articolo 60 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024 e ))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((che il rilascio della certificazione non mettera' a rischio la sicurezza dell'approvvigionamento energetico o gli interessi essenziali nazionali e dell'Unione europea in materia di sicurezza; nell'esaminare la questione l'ARERA, sentito il Ministero dell'ambiente e della sicurezza energetica, tiene conto: 
+ 1) dei diritti e obblighi dell'Unione europea in relazione a tali paesi terzi che discendono dal diritto internazionale, incluso un accordo concluso con uno o piu' paesi terzi di cui l'Unione europea e' parte e che tratta le questioni della sicurezza dell'approvvigionamento energetico; 
+ 2) dei diritti e obblighi in relazione a tale paese terzo che discendono da accordi conclusi con esso, nella misura in cui sono conformi al diritto dell'Unione europea; 
+ 3) della proprieta', della fornitura o di altri rapporti commerciali che potrebbero incidere negativamente sugli incentivi e sulla capacita' del proprietario del sistema di trasporto, del gestore del sistema di trasporto di consegnare gas naturale al Paese o all'Unione europea; 
+ 4) di altri fatti e circostanze specifici del caso e del paese interessato. 
+ L'ARERA notifica tempestivamente la propria decisione preliminare alla Commissione europea, unitamente a tutte le informazioni rilevanti ai fini della decisione stessa. La decisione relativa alla certificazione e' subordinata al previo parere della Commissione europea se l'entita' interessata ottemperi alle prescrizioni di cui all'articolo 60 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024 e se il rilascio della certificazione metta a rischio la sicurezza dell'approvvigionamento energetico dell'Unione europea. L'ARERA dispone di un termine di cinquanta giorni lavorativi dalla scadenza del periodo di rilascio del parere della Commissione per adottare la decisione definitiva relativa alla certificazione. La decisione definitiva tiene nella massima considerazione il parere della Commissione. E' fatto salvo il diritto di rifiutare il rilascio della certificazione se questo mette a rischio la sicurezza del suo approvvigionamento energetico o la sicurezza dell'approvvigionamento energetico di un altro Stato membro. La decisione definitiva e' pubblicata dall'ARERA sul proprio sito internet istituzionale unitamente al parere della Commissione.
+Qualora la decisione definitiva differisca dal parere della Commissione, la motivazione della stessa e' resa altresi' pubblica.))
 
 ## Art. 10. — Separazione dei proprietari dei sistemi di trasporto e dei gestori dei sistemi di trasporto; designazione del gestore della rete di trasporto del gas naturale e definizione delle attivita'/obblighi
 
@@ -462,7 +488,7 @@ Tale personale deve essere assunto dal Gestore medesimo;
                                 
                                     assicurare la fornitura di tutti i servizi, compresi i servizi giuridici, la contabilita' e i servizi informatici e informativi.
 
-Il Gestore e' organizzato in una delle forme giuridiche contemplate all'articolo 1 della direttiva 68/151/CEE del Consiglio, in conformita' alle disposizioni del codice civile.
+Il Gestore e' organizzato in una delle forme giuridiche contemplate all'((allegato II della direttiva (UE) 2017/1132 del Parlamento europeo e del Consiglio del 14 giugno 2017)), in conformita' alle disposizioni del codice civile.
 
 Al Gestore e' fatto divieto di ingenerare confusione sulla sua identita', che deve essere mantenuta distinta da quella dell'impresa verticalmente integrata o di una parte di essa, sulla politica di comunicazione e di marchio nonche' sulla sede dei propri uffici.
 L'Autorita' garante della concorrenza e del mercato vigila sull'applicazione del presente comma.
@@ -508,7 +534,9 @@ Il Gestore informa l'Autorita' per l'energia elettrica e il gas delle risorse fi
 
 L'impresa verticalmente integrata si astiene da qualsiasi azione che impedisca al Gestore di ottemperare agli obblighi di cui al presente articolo o ne pregiudichi l'operato al riguardo e non impone al Gestore l'obbligo di richiedere autorizzazioni relative allo svolgimento dei propri compiti.
 
-Un'impresa certificata conforme ai requisiti del presente articolo dall'Autorita' per l'energia elettrica e il gas e' approvata e designata dal Ministero dello sviluppo economico come gestore del sistema di trasporto. A tal fine si applica la procedura di certificazione di cui all'articolo 10 della direttiva 2009/73/CE e di cui all'articolo 3 del regolamento (CE) n. 715/2009 o di cui all'articolo 11 direttiva 2009/73/CE.
+Un'impresa certificata conforme ai requisiti del presente articolo dall'Autorita' per l'energia elettrica e il gas e' approvata e designata dal ((Ministero dell'ambiente e della sicurezza energetica)) come gestore del sistema di trasporto. A tal fine si applica la procedura di certificazione di cui all'articolo ((71 della direttiva (UE) 2024/1788)) e di cui all'articolo 3 del regolamento (CE) n. 715/2009 o di cui all'articolo ((72 della direttiva (UE) 2024/1788)).
+
+((Il gestore del sistema di trasporto rende pubbliche informazioni dettagliate riguardanti la qualita' del gas naturale trasportato nelle sue reti, sulla base degli articoli 16 e 17 del regolamento (UE) 2015/703 della Commissione.))
 
 ## Art. 13. — Indipendenza del personale e dell'amministrazione del gestore del sistema di trasporto
 
@@ -600,7 +628,7 @@ Il Responsabile della conformita' e' nominato dall'Organo di sorveglianza, fatta
 
 Il Responsabile della conformita' trasmette all'Autorita' per l'energia elettrica e il gas le decisioni proposte riguardanti il piano di investimenti o gli investimenti autonomi nella rete di trasporto del gas naturale. La trasmissione e' effettuata non oltre il momento in cui il competente organo di gestione o amministrativo del Gestore li trasmette all'Organo di sorveglianza.
 
-Qualora l'impresa verticalmente integrata, nel corso dell'assemblea generale o tramite il voto dei membri dell'Organo di sorveglianza da essa nominati, abbia reso impossibile l'adozione di una decisione impedendo o ritardando in tal modo gli investimenti che, in base al piano decennale di sviluppo della rete, avrebbero dovuto essere eseguiti nei tre anni successivi, il Responsabile della conformita' informa il Ministero dello sviluppo economico e l'Autorita' per l'energia elettrica e il gas. ((L'Autorita' per l'energia elettrica, il gas e il sistema idrico adotta le misure di cui all'articolo 16.))
+Qualora l'impresa verticalmente integrata, nel corso dell'assemblea generale o tramite il voto dei membri dell'Organo di sorveglianza da essa nominati, abbia reso impossibile l'adozione di una decisione impedendo o ritardando in tal modo gli investimenti che, in base al piano decennale di sviluppo della rete, avrebbero dovuto essere eseguiti nei tre anni successivi, il Responsabile della conformita' informa il Ministero dello sviluppo economico e l'Autorita' per l'energia elettrica e il gas. L'Autorita' per l'energia elettrica, il gas e il sistema idrico adotta le misure di cui all'articolo 16.
 
 Le condizioni che disciplinano il mandato o le condizioni di impiego del Responsabile della conformita', compresa la durata del suo mandato, sono soggette all'approvazione dell'Autorita' per l'energia elettrica e il gas. Tali condizioni assicurano l'indipendenza del Responsabile della conformita', fornendogli tra l'altro le risorse necessarie per espletare i propri compiti. Nel corso del suo mandato, il Responsabile della conformita' non deve detenere nessun'altra posizione o responsabilita' di natura professionale ne' interessi, direttamente o indirettamente, in alcuna o con alcuna altra parte dell'impresa verticalmente integrata o con i suoi azionisti di controllo.
 
@@ -616,7 +644,7 @@ Inoltre il Responsabile della conformita' presenzia a tutte le riunioni riguarda
                             
                                 a)
                                 
-                                    le condizioni di accesso alla rete, quali definite nel regolamento (CE) n. 715/2009, in particolare per quanto riguarda le tariffe, i servizi di accesso di terzi, l'assegnazione di capacita' e la gestione delle congestioni, la trasparenza, il bilanciamento e i mercati secondari; 
+                                    le condizioni di accesso alla rete, quali definite nel ((regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024)), in particolare per quanto riguarda le tariffe, i servizi di accesso di terzi, l'assegnazione di capacita' e la gestione delle congestioni, la trasparenza, il bilanciamento e i mercati secondari; 
 
                                 
                             
@@ -632,7 +660,7 @@ Inoltre il Responsabile della conformita' presenzia a tutte le riunioni riguarda
                                 
                                     le operazioni di acquisto o vendita di gas naturale di energia elettrica necessarie per la gestione del sistema di trasporto.
 
-Il Responsabile della conformita' verifica che il Gestore ottemperi all'articolo 16 della direttiva 2009/73/CE.
+Il Responsabile della conformita' verifica che il Gestore ottemperi all'((articolo 40 della direttiva (UE) n. 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024)).
 
 Il Responsabile della conformita' ha accesso a tutti i pertinenti dati e agli uffici del Gestore, nonche' ad ogni informazione necessaria per adempiere alle sue mansioni.
 
@@ -640,60 +668,266 @@ Previo accordo dell'Autorita' per l'energia elettrica e il gas, l'Organo di sorv
 
 Il Responsabile della conformita' ha accesso agli uffici del Gestore senza necessita' di preavviso.
 
-## Art. 16. — Sviluppo della rete e poteri decisionali in materia di investimenti
+## Art. 16. — (( (Sviluppo della rete per il gas naturale e l'idrogeno e poteri decisionali in materia di investimenti).))
 
-COMMA ABROGATO DALLA L. 29 LUGLIO 2015, N. 115.
+e al Ministero dell'ambiente e della sicurezza energetica un piano decennale comune di sviluppo della rete del gas naturale e dell'idrogeno basato sulla domanda e sull'offerta esistenti e previste, che contiene misure efficaci atte a garantire l'adeguatezza del sistema e la sicurezza di approvvigionamento, tenendo conto anche dell'economicita' degli investimenti e della tutela dell'ambiente.
+ Il piano comune deve strutturarsi secondo modalita' chiare e trasparenti tali da consentire all'ARERA di individuare chiaramente le esigenze specifiche del settore del gas naturale e le esigenze specifiche del settore dell'idrogeno indicate nel piano. E' eseguita una modellizzazione separata per i rispettivi vettori energetici, con capitoli distinti che illustrano le mappature di rete per il gas naturale e le mappature di rete per l'idrogeno. 
+ I gestori delle reti di trasporto dell'idrogeno collaborano strettamente con i gestori dei sistemi di trasmissione dell'energia elettrica e con i gestori dei sistemi di distribuzione dell'energia elettrica, se del caso, al fine di coordinare i requisiti infrastrutturali comuni, quali l'ubicazione degli elettrolizzatori e le pertinenti infrastrutture di trasporto, e tengono nella massima considerazione il loro parere. 
+ E' fatto salvo il coordinamento delle fasi di pianificazione del piano decennale comune di sviluppo delle reti per il gas naturale e l'idrogeno con il piano decennale di sviluppo dell'energia elettrica. 
+ I gestori di infrastrutture, inclusi i gestori di terminali di GNL, i gestori di sistemi di stoccaggio del gas naturale, i gestori di sistemi di distribuzione, i gestori delle reti di distribuzione dell'idrogeno, i gestori di terminali dell'idrogeno, i gestori di impianti di stoccaggio dell'idrogeno, i gestori delle infrastrutture di teleriscaldamento e i gestori che operano nel settore dell'energia elettrica sono tenuti a fornire tutte le informazioni pertinenti ai gestori dei sistemi di trasporto e ai gestori delle reti di trasmissione dell'idrogeno dei piani decennali di sviluppo della rete e a scambiarle con loro. Il piano decennale comune di sviluppo deve includere misure efficaci atte a garantire l'adeguatezza del sistema del gas naturale e la sicurezza dell'approvvigionamento, in particolare la conformita' allo standard infrastrutturale di cui al regolamento (UE) 2017/1938 del Parlamento europeo e del Consiglio, del 25 ottobre 2017. I piani decennali di sviluppo della rete sono pubblicati e resi accessibili sul sito internet della impresa maggiore di trasporto, unitamente all'esito della consultazione dei soggetti interessati. Il sito internet e' aggiornato regolarmente per garantire che tutti i soggetti interessati siano informati in merito ai tempi, alle modalita' e alla portata della consultazione.))
 
-((L'impresa maggiore di trasporto, anche tenendo conto degli interventi degli altri gestori della rete, trasmette ogni due anni)) all'Autorita' per l'energia elettrica, il gas e il sistema idrico e al Ministero dello sviluppo economico il piano decennale di sviluppo della rete, che contiene misure efficaci atte a garantire l'adeguatezza del sistema e la sicurezza di approvvigionamento, tenendo conto anche dell'economicita' degli investimenti e della tutela dell'ambiente. L'Autorita' per l'energia elettrica, il gas e il sistema idrico, ricevuto il piano, lo sottopone alla consultazione degli utenti della rete effettivi o potenziali secondo modalita' aperte e trasparenti e rende pubblici i risultati della consultazione.
-
-3.
+2.
                         
                             
-                                In particolare, il piano decennale di sviluppo della rete: 
- 
-                            
-                            
-                                a)
                                 
-                                    contiene una descrizione di dettaglio delle caratteristiche della rete di trasporto, delle aree in cui la stessa e' funzionalmente articolata, nonche' delle criticita' e delle congestioni presenti o attese; 
-
+                                    ((Il piano decennale comune di sviluppo della rete gas e dell'idrogeno di cui al comma 1:) 
+ a) ((contiene informazioni complete e dettagliate sulla principale infrastruttura da costruire o potenziare nell'arco dei dieci anni successivi che tengono conto di eventuali rafforzamenti delle infrastrutture necessari per la connessione di impianti di gas rinnovabili e gas a basse emissioni di carbonio e che comprendono le infrastrutture sviluppate per consentire l'inversione dei flussi alla rete di trasporto;))
                                 
                             
                             
                                 b)
                                 
-                                    indica ai partecipanti al mercato le principali infrastrutture di trasporto da costruire o potenziare nell'arco dei dieci anni successivi; 
-
+                                    
+                                        ((contiene informazioni su tutti gli investimenti gia' decisi e individuano nuovi investimenti e soluzioni sul lato della domanda, per cui non sono necessari nuovi investimenti infrastrutturali, da realizzare nel triennio successivo;))
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    contiene tutti gli investimenti gia' decisi ed individua, motivandone la scelta, i nuovi investimenti da realizzare nel triennio successivo, anche ai fini di consentire il superamento delle criticita' presenti o attese; 
-
+                                    
+                                        ((include, nel caso del gas naturale, informazioni complete e dettagliate sull'infrastruttura che puo' o deve essere dismessa;))
+                                    
                                 
                             
                             
                                 d)
                                 
-                                    indica, per tutti i progetti di investimento, la data prevista di realizzazione.
+                                    
+                                        ((include, nel caso dell'idrogeno, informazioni complete e dettagliate sull'infrastruttura che puo' o deve essere riconvertita per il trasporto dell'idrogeno, in particolare per consegnare idrogeno agli utenti finali nei settori difficili da decarbonizzare, tenendo conto del potenziale di riduzione dei gas a effetto serra e dell'efficienza sotto il profilo energetico e in termini di costi rispetto ad altre opzioni;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((prevede uno scadenzario per tutti i progetti di investimento e dismissione;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((si basa su uno scenario comune elaborato ogni due anni dai gestori delle infrastrutture pertinenti, compresi i gestori dei pertinenti sistemi di distribuzione, almeno del gas naturale, dell'idrogeno, dell'energia elettrica e, se del caso, del teleriscaldamento;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((nella sezione dedicata al gas naturale, deve risultare coerente con i risultati delle valutazioni comuni e nazionali del rischio a norma dell'articolo 7 del regolamento (UE) 2017/1938;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((deve risultare in linea con il piano nazionale integrato per l'energia e il clima e i relativi aggiornamenti, tengono conto dello stato dei lavori relativi alle relazioni nazionali integrate sull'energia e il clima presentate nel quadro del regolamento (UE) 2018/1999 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, sono coerenti con gli obiettivi stabiliti dalla direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio dell'11 dicembre 2018 e sostengono l'obiettivo della neutralita' climatica sancito all'articolo 2, paragrafo 1, e all'articolo 4, paragrafo 1, del regolamento (UE) 2021/1119 del Parlamento europeo e del Consiglio, del 30 giugno 2021;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((deve essere coerente con il piano decennale di sviluppo della rete per il gas naturale a livello dell'Unione europea di cui all'articolo 32 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio del 13 giugno 2024 e con il piano decennale di sviluppo della rete per l'idrogeno a livello dell'Unione europea di cui all'articolo 60 del medesimo regolamento, a seconda dei casi;))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((tiene conto del piano di sviluppo della rete di distribuzione dell'idrogeno di cui all'articolo 33-vicies semel e dei piani di dismissione della rete del gas naturale di cui all'articolo 16-bis del presente decreto.))
 
-Nell'elaborare il piano decennale di sviluppo della rete, ((l'impresa maggiore di trasporto)) procede ad una stima ragionevole dell'evoluzione in termini di produzione, fornitura, consumo e scambi di gas naturale con altri Paesi, tenendo conto dei piani di investimento per le reti degli altri Paesi, nonche' dei piani di investimento per lo stoccaggio e per terminali di rigassificazione del GNL.
+((Nell'elaborare il piano comune di sviluppo delle reti, gli scenari comuni di cui alla lettera f), si fondano su stime ragionevoli dell'evoluzione in termini di produzione, fornitura e consumo, in particolare per quanto concerne le esigenze dei settori difficili da decarbonizzare, tenendo conto del potenziale di riduzione dei gas a effetto serra e dell'efficienza sotto il profilo energetico e in termini di costi rispetto ad altre opzioni, e prendono in considerazione le soluzioni sul lato della domanda per cui non sono necessari nuovi investimenti infrastrutturali. Gli scenari analizzano inoltre gli scambi transfrontalieri, anche con i Paesi terzi, e il ruolo dello stoccaggio di idrogeno e dell'integrazione dei terminali dell'idrogeno. I gestori delle infrastrutture conducono una consultazione approfondita su tali scenari aperta ai pertinenti soggetti interessati, compresi i gestori dei sistemi di distribuzione del gas naturale e dell'energia elettrica, i gestori delle reti di distribuzione dell'idrogeno, le associazioni coinvolte nei mercati dell'energia elettrica, del gas naturale e dell'idrogeno, nonche' del riscaldamento e del raffrescamento, le imprese di fornitura e di produzione, gli aggregatori indipendenti, gli operatori di gestione della domanda, le organizzazioni coinvolte nelle soluzioni di efficienza energetica, le associazioni dei consumatori di energia e i rappresentanti della societa' civile. Le consultazioni si svolgono in una fase iniziale, prima dell'elaborazione del piano decennale di sviluppo della rete, in modo aperto, inclusivo e trasparente. Tutti i documenti forniti dai gestori delle infrastrutture per facilitare le consultazioni sono resi pubblici, cosi' come l'esito della consultazione dei soggetti interessati. Il pertinente sito internet e' aggiornato tempestivamente quando tali documenti sono disponibili, in modo che i pertinenti soggetti interessati siano sufficientemente informati e possano cosi' partecipare efficacemente alla consultazione. 
+ Gli scenari comuni sono in linea con gli scenari a livello dell'Unione europea stabiliti a norma dell'articolo 12 del regolamento (UE) 2022/869 del Parlamento europeo e del Consiglio, del 30 maggio 2022 e con il piano nazionale integrato per l'energia e il clima e i relativi aggiornamenti conformemente al regolamento (UE) 2018/1999; sostengono inoltre l'obiettivo della neutralita' climatica sancito all'articolo 2, paragrafo 1, e all'articolo 4, paragrafo 1, del regolamento (UE) 2021/1119. 
+ Tali scenari comuni sono approvati dall' ARERA, che tiene conto di eventuali pareri espressi dal Comitato consultivo scientifico europeo sui cambiamenti climatici istituito a norma dell'articolo 10-bis del regolamento (CE) n. 401/2009 del Parlamento europeo e del Consiglio, del 23 aprile 2009.))
 
-Alle imprese del gas naturale che si dichiarano utenti potenziali di sistema puo' essere fatto obbligo di comprovare le loro affermazioni. I risultati della procedura consultiva sono resi pubblici, ivi inclusi i possibili fabbisogni in termini di investimenti.
+((Nell'elaborare il piano comune decennali di sviluppo della rete, il gestore del sistema di trasporto e il gestore della rete di trasporto dell'idrogeno tengono in debito conto delle potenziali alternative all'espansione del sistema, ad esempio la gestione della domanda, oltre che delle aspettative in termini di consumo in seguito all'applicazione del principio "l'efficienza energetica al primo posto" conformemente all'articolo 27 della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023, degli scambi con altri paesi e dei piani di sviluppo della rete a livello dell'Unione europea. Ove possibile, in vista dell'integrazione del sistema energetico, il gestore del sistema di trasporto e il gestore della rete di trasporto dell'idrogeno valutano come rispondere a un'esigenza con un approccio trasversale ai sistemi dell'energia elettrica, del riscaldamento, se del caso, e del gas naturale e dell'idrogeno, anche considerando informazioni sull'ubicazione e sulle dimensioni ottimali degli attivi di stoccaggio dell'energia e conversione dell'energia elettrica in gas (power-to-gas) nonche' la co-ubicazione della produzione e del consumo di idrogeno. Il gestore della rete di trasporto dell'idrogeno include informazioni sull'ubicazione degli utenti finali nei settori difficili da decarbonizzare al fine di contemplare l'uso dell'idrogeno rinnovabile e a basse emissioni di carbonio in tali settori.))
 
-Il Ministero dello sviluppo economico valuta la coerenza del piano decennale di sviluppo della rete con la strategia energetica nazionale di cui all'articolo 3, con i programmi infrastrutturali derivanti da accordi internazionali firmati dal Governo italiano e con l'esigenza di garantire, nel medio e lungo termine, la sicurezza degli approvvigionamenti di cui all'articolo 8, senza pregiudizio delle competenze dell'autorita' di regolazione per quanto riguarda il piano decennale di sviluppo della rete.
+((L'ARERA consulta tutti gli utenti di sistema effettivi o potenziali sul piano decennale di sviluppo della rete, secondo modalita' aperte e trasparenti. Alle persone o imprese che si dichiarano utenti potenziali di sistema puo' essere fatto obbligo di comprovare le loro affermazioni. L'ARERA rende pubblici i risultati della procedura consultiva, compresi i possibili fabbisogni in termini di investimenti, dismissione degli attivi e soluzioni sul lato della domanda per cui non sono necessari nuovi investimenti infrastrutturali.))
 
-L'Autorita' per l'energia elettrica, il gas e il sistema idrico valuta se il piano decennale di sviluppo della rete contempli tutti i fabbisogni in materia di investimenti individuati nel corso della procedura consultiva e se esso sia coerente con il piano decennale non vincolante di sviluppo della rete a livello europeo, di cui all'articolo 8, paragrafo 3, lettera b), del regolamento (CE) n. 715/2009. Se insorgono dubbi sulla coerenza con il piano decennale di sviluppo della rete a livello europeo, l'Autorita' consulta l'Agenzia per la cooperazione tra i regolatori nazionali dell'energia.
-L'Autorita' per l'energia elettrica, il gas e il sistema idrico puo' chiedere ((all'impresa maggiore di trasporto)) di modificare il suo piano decennale di sviluppo della rete.
+((L'ARERA valuta se il piano comune decennale di sviluppo della rete del gas e dell'idrogeno sia conforme ai commi 1, 2 e 3, che contempli tutti i fabbisogni in materia di investimenti individuati nel corso della procedura consultiva e, se del caso, se sia coerente con la piu' recente simulazione di scenari di interruzione a livello dell'Unione europea svolta dalla Rete europea di gestori del sistema di trasporto del gas (ENTSOG) a norma dell'articolo 7 del regolamento (UE) 2017/1938, con le valutazioni regionali e nazionali del rischio a norma dell'articolo 7 del regolamento (UE) 2017/1938 e con i piani decennali non vincolanti di sviluppo della rete a livello dell'Unione europea ("piani di sviluppo della rete a livello dell'Unione") di cui all'articolo 30, paragrafo 1, lettera b), del regolamento (UE) 2019/943 del Parlamento europeo e del Consiglio, del 5 giugno 2019 nonche' con gli articoli 32 e 60 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio del 13 giugno 2024. Se insorgono dubbi quanto alla coerenza con i piani di sviluppo della rete a livello dell'Unione europea, l'ARERA consulta l'Agenzia per la cooperazione tra i regolatori nazionali dell'energia (ACER). 
+ L'ARERA puo' chiedere all'impresa maggiore di trasporto di modificare il piano comune decennale di sviluppo della rete. 
+ Il Ministero dell'ambiente e della sicurezza energetica valuta la coerenza del piano comune decennale di sviluppo della rete con l'obiettivo della neutralita' climatica di cui all'articolo 2, paragrafo 1, del regolamento (UE) 2021/1119, con il piano nazionale per l'energia e il clima e i relativi aggiornamenti nonche' con le relazioni nazionali integrate sull'energia e il clima presentate nel quadro del regolamento (UE) 2018/1999, nonche' con la strategia energetica nazionale di cui all'articolo 3, con i programmi infrastrutturali derivanti da accordi internazionali firmati dal Governo italiano e con l'esigenza di garantire, nel medio e lungo termine, la sicurezza degli approvvigionamenti di cui all'articolo 8.
+In caso di incoerenza, puo' fornire all'autorita' di regolazione un parere motivato che spieghi tale incoerenza, da tenere in debita considerazione.))
 
-L'Autorita' per l'energia elettrica, il gas e il sistema idrico effettua il monitoraggio dell'attuazione del piano decennale di sviluppo della rete.
+((L'ARERA controlla e valuta l'attuazione del piano decennale di sviluppo della rete.))
 
-Nei casi in cui ((l'impresa maggiore di trasporto, per cause a essa)) imputabili, non realizzi un investimento che, in base al piano decennale di sviluppo della rete, doveva essere realizzato nel triennio successivo, e nei casi in cui la mancata realizzazione costituisca ostacolo all'accesso al sistema o allo sviluppo concorrenziale del mercato del gas naturale, l'Autorita' per l'energia elettrica, il gas e il sistema idrico impone ((all'impresa maggiore di trasporto)) di realizzare l'investimento medesimo entro un termine definito, purche' tale investimento sia ancora pertinente sulla base del piu' recente piano decennale di sviluppo della rete.
+8.
+                        
+                            
+                                
+                                    ((Nei casi in cui il gestore di sistema indipendente o il gestore di trasporto indipendente, ovvero il gestore della rete di trasporto dell'idrogeno integrato o il gestore della rete di trasporto dell'idrogeno indipendente, per motivi che non siano motivi prioritari che sfuggono al suo controllo, non realizza un investimento che in base al piano decennale di sviluppo della rete doveva essere realizzato nel triennio successivo, l'ARERA adotta almeno uno dei seguenti provvedimenti necessari per assicurare che l'investimento in questione sia realizzato, se tale investimento risulta comunque pertinente sulla base del piu' recente piano decennale di sviluppo della rete:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((obbliga il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno di realizzare l'investimento in causa entro un tempo definito;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((indice una gara d'appalto per l'investimento in questione, aperta a tutti gli investitori;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((obbliga il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno di accettare un aumento di capitale per finanziare l'investimento necessario e permettere la partecipazione di investitori indipendenti al capitale.))
 
-Nei casi di cui al comma 8, le pertinenti regolazioni tariffarie coprono i costi degli investimenti in questione.
+9.
+                        
+                            
+                                
+                                    ((Se si e' avvalsa dei poteri di cui al comma 8, lettera b), l'ARERA puo' imporre al gestore del sistema di trasporto o al gestore della rete di trasporto dell'idrogeno di acconsentire a una o piu' delle condizioni seguenti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il finanziamento da parte di terzi;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la costruzione, la riconversione o la dismissione ad opera di terzi;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la costruzione dei nuovi beni in questione a opera del gestore stesso;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((la gestione dei nuovi beni in questione da parte del gestore stesso.))
 
-Le modalita' di valutazione dei piani decennali di sviluppo della rete, di cui al presente articolo, si applicano anche ai piani in corso di valutazione.
+((Il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno comunica agli investitori ogni informazione necessaria a realizzare l'investimento, realizza la connessione dei nuovi beni alla rete di trasporto o alla rete di trasporto dell'idrogeno e in generale fa il possibile per facilitare l'attuazione del progetto di investimento. In tali casi, le pertinenti disposizioni finanziarie sono soggette all'approvazione dell'ARERA.))
+
+((Se l'ARERA si e' avvalsa dei poteri di cui ai commi 8 e 9, le pertinenti tariffe di accesso alla rete coprono i costi dell'investimento in questione.))
+
+## Art. 16-bis. — (( (Piani di dismissione della rete per i gestori dei sistemi di distribuzione).))
+
+((I gestori dei sistemi di distribuzione sono tenuti a elaborare piani di dismissione della rete solo laddove si preveda una riduzione della domanda di gas naturale tale da richiedere la dismissione delle reti di distribuzione del gas naturale o di parti di esse e dove non ci siano prospettive locali per collegare gli impianti a gas rinnovabili e a basse emissioni di carbonio alla rete o qualora non sia tecnicamente realizzabile la riconversione delle reti esistenti per il trasporto dell'idrogeno. Tali piani sono elaborati in stretta cooperazione con i gestori delle reti di distribuzione dell'idrogeno, i gestori dei sistemi di distribuzione dell'energia elettrica e gli operatori di teleriscaldamento e teleraffrescamento, facendo in modo di garantire un'efficace integrazione del sistema energetico e tenendo conto della riduzione dell'uso di gas naturale per il riscaldamento e il raffrescamento degli edifici laddove siano disponibili alternative piu' efficienti sotto il profilo energetico e in termini di costi che includano anche l'uso dei gas rinnovabili e a basse emissioni di carbonio. L'elaborazione di tali piani e' preceduta dalla verifica circa la possibilita' di utilizzo delle reti esistenti per la distribuzione di gas rinnovabili, gas a basse emissioni di carbonio e idrogeno, nonche' dalla valutazione degli effetti economici derivanti dalla dismissione sugli utenti finali e sugli investimenti realizzati. 
+ I gestori dei sistemi di distribuzione e i gestori delle reti di distribuzione dell'idrogeno che operano nella stessa regione possono presentare richiesta di autorizzazione ARERA per elaborare un piano comune qualora parti dell'infrastruttura del gas naturale debbano essere riconvertite. In tale evenienza il piano comune deve risultare sufficientemente trasparente e chiaro da indicare le esigenze specifiche del settore del gas naturale e le esigenze specifiche del settore dell'idrogeno contemplate nel piano. A tal fine, ove applicabile, e' eseguita una modellizzazione separata per ciascun vettore energetico, con capitoli distinti che illustrano le mappature di rete per il gas naturale e le mappature di rete per l'idrogeno.))
+
+2.
+                        
+                            
+                                
+                                    ((I piani di dismissione della rete di distribuzione si conformano ai seguenti principi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((si basano sui piani di riscaldamento e raffrescamento elaborati in conformita' dell'articolo 25, paragrafo 6, della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023 e tengono debitamente conto della domanda dei settori non contemplati dai piani di riscaldamento e raffrescamento;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((si fondano su stime ragionevoli dell'evoluzione in termini di produzione, iniezione e fornitura di gas naturale, compreso il biometano e i gas rinnovabili e a basse emissioni di carbonio, da un lato, e del consumo di gas naturale in tutti i settori a livello di distribuzione, dall'altro. Quando le stime sono ritenute ragionevoli, i piani valorizzano l'infrastruttura di distribuzione e assicurano gli interventi necessari a garantire l'iniezione dei gas rinnovabili e a basse emissioni di carbonio nella rete esistente; l'ARERA garantisce la copertura tariffaria ai costi emergenti;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((prevedono i necessari adattamenti dell'infrastruttura individuati dai gestori dei sistemi di distribuzione, riconoscendosi priorita' alle soluzioni sul lato della domanda per cui non sono necessari nuovi investimenti infrastrutturali, che includono la riconversione della rete e degli allacci previsti agli impianti di produzione di gas rinnovabili e a basse emissioni di carbonio, e elencano le infrastrutture da dismettere, a eccezione di quelle destinate alla riconversione di tali infrastrutture per il trasporto e la distribuzione dell'idrogeno e dei gas rinnovabili e a basse emissioni di carbonio; l'ARERA garantisce la copertura tariffaria ai costi emergenti derivanti dalla riconversione delle infrastrutture gas;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((sono adottati previa procedura consultiva condotta dai gestori dei sistemi di distribuzione che sia aperta ai pertinenti soggetti interessati al fine di consentire la loro partecipazione tempestiva ed effettiva al processo di pianificazione, anche attraverso la comunicazione e lo scambio di tutte le informazioni pertinenti; i risultati della consultazione e il piano di dismissione della rete sono presentati all'autorita' nazionale competente;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((sono pubblicati sui siti internet dei gestori dei sistemi di distribuzione e congiuntamente agli esiti della consultazione dei soggetti interessati; tali siti internet sono aggiornati periodicamente per garantire che i pertinenti soggetti interessati siano sufficientemente informati e possano cosi' partecipare efficacemente alla consultazione;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((sono aggiornati almeno ogni quattro anni, sulla base delle piu' recenti proiezioni della domanda e dell'offerta di gas naturale nella regione interessata, e coprono un periodo di dieci anni;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((i gestori dei sistemi di distribuzione che operano nella stessa regione possono decidere di elaborare un unico piano comune di dismissione della rete;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((sono coerenti con il piano di sviluppo della rete per il gas naturale a livello dell'Unione di cui all'articolo 32 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024 e con i piani decennali nazionali di sviluppo della rete elaborati conformemente all'articolo 55 della direttiva (UE) 2014/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((sono coerenti con i piani nazionali integrati per l'energia e il clima degli Stati membri, con la relazione intermedia nazionale integrata per l'energia e il clima e con la strategia a lungo termine presentati a norma del regolamento (UE) 2018/1999 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, e sostengono l'obiettivo della neutralita' climatica sancito all'articolo 2, paragrafo 1, del regolamento (UE) 2021/1119 del Parlamento europeo e del Consiglio, del 30 giugno 2021.))
+
+((L'ARERA e' l'autorita' competente a valutare se i piani di dismissione della rete di distribuzione rispettano i principi di cui al comma 2 e, anche previa analisi di convenienza e sostenibilita' finanziaria sulla base di specifiche valutazioni tecnico economiche, ad approvarli o respingerli o a richiedere che vi siano apportate modifiche.))
+
+((I piani di dismissione della rete di distribuzione sono elaborati al fine di facilitare la protezione dei clienti finali in conformita' dell'articolo 13 della direttiva (UE) 2024/1788, tenendo altresi' conto dei loro diritti a norma dell'articolo 38, paragrafo 6 della medesima direttiva.))
+
+((I gestori dei sistemi di distribuzione che riforniscono meno di 45 000 clienti allacciati entro il 4 agosto 2024 sono esentati dall'obbligo di presentare piani di dismissione della rete di distribuzione di cui ai commi 1, 2, 3 e 4, e in tal caso informano l'ARERA della dismissione delle reti di distribuzione o di parti di esse.))
+
+((Qualora parti della rete di distribuzione del gas naturale richiedano la dismissione prima della fine del loro ciclo di vita originariamente previsto, l'ARERA, previa consultazione dei soggetti interessati, e in particolare con i gestori dei sistemi di distribuzione e gli organismi a tutela dei consumatori, elabora e adotta orientamenti per un approccio strutturale all'ammortamento di tali attivi e alla fissazione delle tariffe in conformita' all'articolo 78, paragrafo 7, della direttiva (UE) 2024/1788.))
 
 ## Art. 17. — Gestore di sistemi indipendente
 
@@ -729,7 +963,7 @@ Entro il 3 gennaio 2012 le imprese proprietarie di reti di trasporto del gas nat
                             
                                 d)
                                 
-                                    dimostri di essere in grado di ottemperare agli obblighi impostigli dal regolamento (CE) n.715/2009, anche in ordine alla cooperazione con gli altri Gestori dei sistemi di trasporto a livello europeo; 
+                                    dimostri di essere in grado di ottemperare agli obblighi impostigli dal regolamento (( (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024)), anche in ordine alla cooperazione con gli altri Gestori dei sistemi di trasporto a livello europeo ((e regionale)); 
 
                                 
                             
@@ -738,7 +972,7 @@ Entro il 3 gennaio 2012 le imprese proprietarie di reti di trasporto del gas nat
                                 
                                     dimostri che il proprietario del sistema di trasporto sia in grado di ottemperare agli obblighi di cui al comma 5.
 
-Il Ministero dello sviluppo economico trasmette le designazioni di cui al comma 1 alla Commissione europea per l'approvazione.
+((Le imprese che sono state certificate dall'ARERA in quanto conformi alle disposizioni di cui all'articolo 72 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024 e al comma 2 del presente articolo sono approvate e designate come gestori di sistemi indipendenti. Si applica il procedimento di certificazione di cui all'articolo 71 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024 e all'articolo 14 del regolamento (UE) 2024/1789 o all'articolo 72 della direttiva (UE) 2024/1788.)) Il Ministero dello sviluppo economico trasmette le designazioni di cui al comma 1 alla Commissione europea per l'approvazione.
 
 Ogni Gestore di sistemi indipendente e' responsabile della concessione e della gestione dell'accesso dei terzi, compresa la riscossione dei corrispettivi per l'accesso e per la gestione e soluzione delle congestioni, ed e' altresi' responsabile del funzionamento, del mantenimento e dello sviluppo del sistema di trasporto, nonche' della capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di trasporto di gas naturale, tramite l'adeguata programmazione degli investimenti. Nello sviluppare il sistema di trasporto il Gestore di sistema indipendente e' responsabile della programmazione, della progettazione e conseguente presentazione dell'istanza di autorizzazione, della costruzione e dell'entrata in servizio della nuova infrastruttura. A tal fine il Gestore di sistema indipendente agisce in qualita' di gestore di sistema di trasporto. Il proprietario del sistema di trasporto non deve avere alcuna responsabilita' nella concessione o nella gestione dell'accesso dei terzi o nella programmazione degli investimenti.
 
@@ -781,6 +1015,8 @@ L'Autorita' garante della concorrenza e del mercato, in cooperazione con l'Autor
 ## Art. 18. — Separazione dei proprietari dei sistemi di trasporto e dei gestori dei sistemi di stoccaggio
 
 Qualora sia stato nominato un Gestore di sistemi indipendente, un proprietario di un sistema di trasporto e un gestore di un sistema di stoccaggio che fanno parte di un'impresa verticalmente integrata devono essere indipendenti, almeno sotto il profilo della forma giuridica, dell'organizzazione e del potere decisionale, dalle altre attivita' non connesse al trasporto, alla distribuzione e allo stoccaggio.
+
+((I proprietari del sistema di trasporto e della rete di trasporto dell'idrogeno, qualora sia stato nominato un gestore di sistema indipendente o un gestore della rete di trasporto dell'idrogeno indipendente, e i gestori del sistema di stoccaggio del gas naturale o dell'impianto di stoccaggio dell'idrogeno, che fanno parte di un'impresa verticalmente integrata, devono essere indipendenti, quantomeno sotto il profilo della forma giuridica, dell'organizzazione e del potere decisionale, dalle altre attivita' non connesse al trasporto, alla distribuzione e allo stoccaggio di gas naturale e di idrogeno.))
 
 2.
                         
@@ -876,7 +1112,7 @@ L'Autorita' per l'energia elettrica e il gas vigila affinche' i Gestori di cui a
                             
                                 a)
                                 
-                                    gestire, mantenere e sviluppare, a condizioni economicamente accettabili, impianti sicuri, affidabili ed efficienti, per garantire un mercato aperto, nel dovuto rispetto dell'ambiente, predisponendo mezzi adeguati a rispondere agli obblighi di servizio; 
+                                    gestire, mantenere e sviluppare ((o dismettere)), a condizioni economicamente accettabili, impianti sicuri, affidabili ed efficienti, per garantire un mercato aperto, nel dovuto rispetto dell'ambiente ((e del clima e degli obblighi stabiliti nel regolamento (UE) 2024/1787 del Parlamento europeo e del Consiglio, del 13 giugno 2024)), predisponendo mezzi adeguati a rispondere agli obblighi di servizio; 
 
                                 
                             
@@ -899,6 +1135,8 @@ L'Autorita' per l'energia elettrica e il gas vigila affinche' i Gestori di cui a
                                 
                                     fornire agli utenti del sistema le informazioni necessarie ad un efficiente accesso al sistema.
 
+((I gestori dei sistemi di trasporto cooperano con i gestori dei sistemi di distribuzione per garantire la partecipazione effettiva dei partecipanti al mercato collegati alla rete nei mercati al dettaglio, all'ingrosso e di bilanciamento. I gestori dei sistemi di trasporto assicurano una gestione efficiente della qualita' del gas nei propri impianti, in linea con le norme applicabili in materia di qualita' del gas.))
+
 Ogni gestore del sistema di trasporto costruisce sufficiente capacita' nei punti di connessione transfrontaliera per integrare l'infrastruttura europea di trasporto accogliendo tutte le richieste di capacita' economicamente ragionevoli e tecnicamente fattibili e tenendo conto della sicurezza degli approvvigionamenti del gas naturale.
 
 Le regole di bilanciamento del sistema di gas naturale, adottate dai gestori del sistema di trasporto di gas naturale, comprese le regole per addebitare agli utenti della rete lo sbilanciamento energetico, devono essere obiettive, trasparenti e non discriminatorie. Le condizioni di prestazione di questi servizi da parte dei gestori del sistema di trasporto, comprese le regole e le tariffe, sono stabilite in modo non discriminatorio e corrispondente ai costi, secondo criteri stabiliti dall'Autorita' per l'energia elettrica e il gas, e sono oggetto di pubblicazione da parte dei gestori.
@@ -908,6 +1146,8 @@ I gestori del sistema di trasporto e stoccaggio acquisiscono il gas naturale e l
 I gestori di un sistema di trasporto, di stoccaggio o di un impianto di rigassificazione di gas naturale liquefatto sono tenuti al rispetto delle disposizioni in materia di trasparenza, di non discriminazione, di offerta dei servizi di accesso per i terzi alle capacita' disponibili e di assegnazione delle capacita' stesse, in particolare in regime di congestione, di cui al regolamento (CE) n. 715/2009 del Parlamento europeo e del Consiglio del 13 luglio 2009.
 
 I gestori dei gasdotti interconnessi, anche non direttamente, con reti appartenenti ad altri Stati membri adottano modalita' di gestione delle reti tali da assicurare la gestione ottimale delle stesse, promuovere lo sviluppo degli scambi di gas naturale,e l'assegnazione congiunta delle capacita' transfrontaliere.
+
+((I gestori dei sistemi di trasporto e stoccaggio del gas naturale e GNL cooperano, all'interno del Paese e a livello regionale, per garantire l'uso piu' efficiente delle capacita' degli impianti e le sinergie tra questi ultimi, tenendo conto dell'integrita' e del funzionamento dei sistemi ed evitando di creare vincoli per il funzionamento degli impianti GNL e di stoccaggio del gas naturale.))
 
 Il Ministero dello sviluppo economico e l'Autorita' per l'energia elettrica e il gas promuovono la cooperazione fra i gestori transfrontalieri nelle aree geografiche interessate.
 
@@ -958,6 +1198,10 @@ Ai gestori di sistemi di distribuzione verticalmente integrati e' fatto divieto 
 
 L'Autorita' per l'energia elettrica e il gas puo' adottare misure, anche tariffarie, per promuovere l'aggregazione dei distributori di gas naturale con meno di 50.000 clienti.
 
+((Le imprese che possiedono o sono responsabili dei sistemi di distribuzione di gas naturale designano, sulla base di una procedura trasparente, uno o piu' gestori dei sistemi di distribuzione di gas naturale e provvedono affinche' tali gestori agiscano a norma degli articoli 44, 46, 47 e 50 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024.))
+
+((Le disposizioni di cui al comma 1 non ostano alla gestione di un sistema combinato di trasporto, stoccaggio del gas naturale o GNL o distribuzione del gas naturale, ovvero all'interno dei sistemi del gas naturale e dell'idrogeno, a condizione che il gestore ottemperi alle pertinenti disposizioni concernenti il regime di separazione gestori dei sistemi di trasporto di cui al capo IX della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024.))
+
 ## Art. 24. — Valore di rimborso degli impianti di distribuzione
 
 All'articolo 14 del decreto legislativo, n. 164 del 2000, il comma 8 e' sostituito dal seguente: 
@@ -972,11 +1216,11 @@ Fatto salvo quanto previsto dal periodo precedente, a decorrere dalla data di en
 
 ## Art. 25. — Separazione della contabilita'
 
-Fermo restando quanto stabilito dall'articolo 21 del decreto legislativo n.164 del 2000, le imprese del gas naturale sono tenute alla separazione contabile tra le attivita' di trasporto, distribuzione, stoccaggio e rigassificazione di gas naturale liquefatto, in base ai criteri stabiliti dall'autorita' per l'energia elettrica e il gas, conformemente alle disposizioni di cui all'articolo 31 della direttiva 2009/73/CE.
+Fermo restando quanto stabilito dall'articolo 21 del decreto legislativo n.164 del 2000, le imprese del gas naturale sono tenute alla separazione contabile tra le attivita' di trasporto, distribuzione, stoccaggio e rigassificazione di gas naturale liquefatto, in base ai criteri stabiliti dall'autorita' per l'energia elettrica e il gas, conformemente alle disposizioni di cui all'articolo ((75 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024)).
 
 ## Art. 26. — Trasparenza della contabilita'
 
-Le imprese di gas naturale consentono alle autorita' competenti di accedere alla loro contabilita' conformemente alle disposizioni dell'articolo 30 della direttiva 2009/73/CE, mantenendo comunque la riservatezza sulle informazioni commercialmente sensibili.
+Le imprese di gas naturale consentono alle autorita' competenti di accedere alla loro contabilita' conformemente alle disposizioni ((di cui agli articoli 74 e 75 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024)), mantenendo comunque la riservatezza sulle informazioni commercialmente sensibili. ((La divulgazione di tali informazioni e' consentita solo qualora cio' sia necessario per consentire alle autorita' competenti di svolgere le proprie funzioni.))
 
 ## Art. 27. — Disposizioni sullo stoccaggio
 
@@ -1072,6 +1316,1330 @@ Restano ferme le esenzioni e le allocazioni prioritarie accordate, prima della d
 ((COMMA ABROGATO DAL D.LGS. 1 GIUGNO 2020, N. 46)).
 
 La concessione di una esenzione o di una allocazione prioritaria di cui al comma 4 puo' essere subordinata a misure volte a promuovere la concorrenza e la liquidita' del sistema nazionale del gas naturale e a consentire l'accesso dei terzi alla capacita' esentata non utilizzata.
+
+## - ((Titolo II-bis MERCATO DELL'IDROGENO))
+
+## Art. 33-bis. — (( (Definizioni).))
+
+1.
+                        
+                            
+                                
+                                    ((Ai fini del presente titolo, si applicano le seguenti definizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        (("sistema dell'idrogeno": il sistema di infrastrutture, tra cui reti dell'idrogeno, impianti di stoccaggio dell'idrogeno e terminali dell'idrogeno, che contengono idrogeno a elevato grado di purezza;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        (("impianto di stoccaggio dell'idrogeno": l'impianto utilizzato per stoccare idrogeno a elevato grado di purezza: 
+ 1) compresa la parte del terminale dell'idrogeno utilizzata per lo stoccaggio, ma a esclusione della parte utilizzata per operazioni di produzione e degli impianti riservati esclusivamente ai gestori delle reti dell'idrogeno nello svolgimento delle loro funzioni; 
+ 2) compresi gli impianti di stoccaggio dell'idrogeno di grandi dimensioni, in particolare quelli sotterranei, ma a esclusione delle strutture piu' piccole e facilmente replicabili;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        (("gestore dell'impianto di stoccaggio dell'idrogeno": la persona fisica o giuridica che svolge la funzione di stoccaggio dell'idrogeno ed e' responsabile della gestione di un impianto di stoccaggio dell'idrogeno;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        (("linepack di idrogeno": lo stoccaggio di idrogeno a elevato grado di purezza mediante compressione nelle reti dell'idrogeno, a esclusione degli impianti riservati ai gestori delle reti dell'idrogeno nello svolgimento delle loro funzioni;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        (("terminale dell'idrogeno": l'impianto adibito allo scarico e alla trasformazione dell'idrogeno liquido o dell'ammoniaca liquida in idrogeno gassoso da iniettare nella rete dell'idrogeno o nel sistema del gas naturale o alla liquefazione dell'idrogeno gassoso e al suo carico, compresi i servizi ausiliari e lo stoccaggio provvisorio necessari per il processo di trasformazione e la successiva iniezione nella rete dell'idrogeno; sono escluse le parti del terminale dell'idrogeno utilizzate per lo stoccaggio;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        (("gestore del terminale dell'idrogeno": la persona fisica o giuridica che svolge la funzione di scarico e trasformazione dell'idrogeno liquido o dell'ammoniaca liquida in idrogeno gassoso da iniettare nella rete dell'idrogeno o nel sistema del gas naturale o di liquefazione e carico dell'idrogeno gassoso e che e' responsabile della gestione di un terminale dell'idrogeno;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        (("qualita' dell'idrogeno": la purezza dell'idrogeno e i contaminanti in esso contenuti, in linea con le norme sulla qualita' dell'idrogeno applicabili al sistema dell'idrogeno;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        (("idrogeno a basse emissioni di carbonio": l'idrogeno il cui contenuto energetico deriva da fonti non rinnovabili e che rispetta la soglia di riduzione delle emissioni di gas a effetto serra pari al 70 per cento rispetto al carburante fossile di riferimento per i combustibili rinnovabili di origine non biologica di cui alla metodologia per valutare la riduzione delle emissioni di gas a effetto serra ottenuta grazie ai combustibili rinnovabili di origine non biologica e ai carburanti derivanti da carbonio riciclato, adottata a norma dell'articolo 29-bis, comma 3, della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        (("gas a basse emissioni di carbonio": la parte di combustibili gassosi nei carburanti derivanti da carbonio riciclato ai sensi dell'articolo 2, punto 35), della direttiva (UE) 2018/2001, l'idrogeno a basse emissioni di carbonio e i combustibili sintetici gassosi il cui contenuto energetico deriva da idrogeno a basse emissioni di carbonio che rispettano una soglia di riduzione delle emissioni di gas a effetto serra pari al 70 per cento rispetto al carburante fossile di riferimento per i combustibili rinnovabili di origine non biologica di cui alla metodologia adottata a norma dell'articolo 29-bis, comma 3, della direttiva (UE) 2018/2001;))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        (("combustibili a basse emissioni di carbonio": i carburanti derivanti da carbonio riciclato ai sensi dell'articolo 2, punto 35), della direttiva (UE) 2018/2001, l'idrogeno a basse emissioni di carbonio e i combustibili sintetici liquidi e gassosi il cui contenuto energetico deriva da idrogeno a basse emissioni di carbonio che rispettano una soglia di riduzione delle emissioni di gas a effetto serra pari al 70 per cento rispetto al carburante fossile di riferimento per i combustibili rinnovabili di origine non biologica di cui alla metodologia adottata a norma dell'articolo 29-bis, comma 3, della direttiva (UE) 2018/2001;))
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        (("impresa di idrogeno": ogni persona fisica o giuridica, a esclusione dei clienti finali, che svolge almeno una delle funzioni seguenti: produzione, trasporto, fornitura, acquisto o stoccaggio di idrogeno o gestione di un terminale dell'idrogeno, e che e' responsabile per i compiti commerciali, tecnici o di manutenzione legati a queste funzioni;))
+                                    
+                                
+                            
+                            
+                                n)
+                                
+                                    
+                                        (("impresa di gas naturale": ogni persona fisica o giuridica, ad esclusione dei clienti finali che svolge almeno una delle funzioni seguenti: produzione, trasporto, distribuzione, fornitura, acquisto o stoccaggio di gas naturale, compresa la rigassificazione di GNL e che e' responsabile per i compiti commerciali, tecnici o di manutenzione legati a queste funzioni;))
+                                    
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        (("trasporto": il trasporto di gas naturale finalizzato alla fornitura ai clienti, attraverso una rete che comprende soprattutto gasdotti ad alta pressione, diversa da una rete di gasdotti di coltivazione e diversa dalla parte dei gasdotti, anche ad alta pressione, utilizzati principalmente nell'ambito della distribuzione locale del gas naturale, ad esclusione della fornitura;))
+                                    
+                                
+                            
+                            
+                                p)
+                                
+                                    
+                                        (("gestore del sistema di trasporto": qualsiasi persona fisica o giuridica che svolge l'attivita' di trasporto ed e' responsabile della gestione, della manutenzione e, se necessario, dello sviluppo del sistema di trasporto in una data zona e, eventualmente, delle relative interconnessioni con altri sistemi, nonche' di assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di trasporto di gas naturale;))
+                                    
+                                
+                            
+                            
+                                q)
+                                
+                                    
+                                        (("distribuzione": il trasporto di gas naturale attraverso reti di gasdotti locali per la consegna ai clienti, a esclusione della fornitura;))
+                                    
+                                
+                            
+                            
+                                r)
+                                
+                                    
+                                        (("gestore del sistema di distribuzione": qualsiasi persona fisica o giuridica che svolge la funzione di distribuzione ed e' responsabile della gestione, della manutenzione e, se necessario, dello sviluppo del sistema di distribuzione in una data zona ed, eventualmente, delle relative interconnessioni con altri sistemi, nonche' di assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di distribuzione di gas naturale;))
+                                    
+                                
+                            
+                            
+                                s)
+                                
+                                    
+                                        (("rete dell'idrogeno": la rete di condotte onshore e offshore usate per il trasporto di idrogeno a elevato grado di purezza finalizzato alla consegna ai clienti, a esclusione della fornitura;))
+                                    
+                                
+                            
+                            
+                                t)
+                                
+                                    
+                                        (("trasporto dell'idrogeno": il trasporto o la distribuzione di idrogeno finalizzato alla consegna ai clienti attraverso una rete dell'idrogeno, a esclusione della fornitura;))
+                                    
+                                
+                            
+                            
+                                u)
+                                
+                                    
+                                        (("rete di trasporto dell'idrogeno": la rete di condotte per il trasporto dell'idrogeno a elevato grado di purezza, in particolare una rete che comprende gli interconnettori di idrogeno o che e' direttamente collegata agli impianti di stoccaggio dell'idrogeno, ai terminali dell'idrogeno o a due o piu' interconnettori di idrogeno o che serve in primo luogo a trasportare l'idrogeno verso altre reti dell'idrogeno, verso gli impianti di stoccaggio dell'idrogeno o verso i terminali dell'idrogeno, senza escludere la possibilita' che tali reti siano finalizzate all'approvvigionamento diretto dei clienti allacciati;))
+                                    
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        (("rete di distribuzione dell'idrogeno": la rete di condotte per il trasporto locale o regionale di idrogeno a elevato grado di purezza, finalizzata in primo luogo all'approvvigionamento diretto dei clienti allacciati, che non comprende gli interconnettori di idrogeno e che non e' direttamente collegata ne' agli impianti di stoccaggio dell'idrogeno ne' ai terminali dell'idrogeno, a meno che la rete in questione non fosse un sistema di distribuzione del gas naturale al 4 agosto 2024 e sia stata parzialmente o totalmente riconvertita per il trasporto di idrogeno, ne' a due o piu' interconnettori di idrogeno;))
+                                    
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        (("gestore della rete dell'idrogeno": ogni persona fisica o giuridica che svolge la funzione di trasporto dell'idrogeno ed e' responsabile della gestione, della manutenzione e, se necessario, dello sviluppo della rete dell'idrogeno in una data zona ed, eventualmente, delle relative interconnessioni con altre reti dell'idrogeno, e di assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di trasporto di idrogeno;))
+                                    
+                                
+                            
+                            
+                                aa)
+                                
+                                    
+                                        (("gestore della rete di trasporto dell'idrogeno": ogni persona fisica o giuridica responsabile della gestione, della manutenzione e, se necessario, dello sviluppo di una rete di trasporto dell'idrogeno in una data zona ed, eventualmente, delle relative interconnessioni con altre reti dell'idrogeno, e di assicurare la capacita' a lungo termine della rete di soddisfare richieste ragionevoli di trasporto di idrogeno;))
+                                    
+                                
+                            
+                            
+                                bb)
+                                
+                                    
+                                        (("gestore della rete di distribuzione dell'idrogeno": ogni persona fisica o giuridica responsabile della gestione, della manutenzione e, se necessario, dello sviluppo di una rete di distribuzione dell'idrogeno in una data zona e, eventualmente, delle relative interconnessioni con altre reti dell'idrogeno, e di assicurare la capacita' a lungo termine della rete di soddisfare richieste ragionevoli di trasporto di idrogeno;))
+                                    
+                                
+                            
+                            
+                                cc)
+                                
+                                    
+                                        (("fornitura": la vendita ai clienti, compresa la rivendita, di gas naturale, compreso il gas naturale liquefatto (GNL), o di idrogeno, anche sotto forma di vettori di idrogeno organico liquido o idrogeno liquido e di derivati dell'idrogeno tra cui l'ammoniaca o il metanolo;))
+                                    
+                                
+                            
+                            
+                                dd)
+                                
+                                    
+                                        (("impresa fornitrice": ogni persona fisica o giuridica che svolge funzioni di fornitura;))
+                                    
+                                
+                            
+                            
+                                ee)
+                                
+                                    
+                                        (("fornitore di ultima istanza": l'esercente designato che assicura la fornitura di gas naturale ai clienti finali che rimangono senza fornitore;))
+                                    
+                                
+                            
+                            
+                                ff)
+                                
+                                    
+                                        (("sistema interconnesso": un insieme di sistemi reciprocamente collegati;))
+                                    
+                                
+                            
+                            
+                                gg)
+                                
+                                    
+                                        (("interconnettore di idrogeno": la rete dell'idrogeno che attraversa o si estende oltre una frontiera tra Stati membri allo scopo di collegare le reti nazionali dell'idrogeno di tali Stati membri o una rete dell'idrogeno tra uno Stato membro e un paese terzo fino al territorio degli Stati membri o alle acque territoriali di tale Stato membro;))
+                                    
+                                
+                            
+                            
+                                hh)
+                                
+                                    
+                                        (("impresa verticalmente integrata": un'impresa di gas naturale o un gruppo di imprese di gas naturale o un'impresa di idrogeno o un gruppo di imprese di idrogeno nelle quali la stessa persona o le stesse persone, fisiche o giuridiche hanno, direttamente o indirettamente, il potere di esercitare il controllo, e in cui l'impresa o il gruppo di imprese svolge almeno una delle funzioni di trasporto del gas naturale, trasporto dell'idrogeno, distribuzione del gas naturale, distribuzione dell'idrogeno, gestione di terminali dell'idrogeno, rigassificazione di GNL o stoccaggio di gas naturale o di idrogeno, e almeno una delle funzioni di produzione o fornitura di gas naturale o di idrogeno;))
+                                    
+                                
+                            
+                            
+                                ii)
+                                
+                                    
+                                        (("utente del sistema": ogni persona fisica o giuridica che rifornisce di gas naturale o idrogeno o e' rifornita dal sistema;))
+                                    
+                                
+                            
+                            
+                                ll)
+                                
+                                    
+                                        (("clienti": i clienti grossisti o finali di gas naturale o di idrogeno e le imprese di gas naturale o di idrogeno che acquistano gas naturale o idrogeno;))
+                                    
+                                
+                            
+                            
+                                mm)
+                                
+                                    
+                                        (("cliente civile": un cliente che acquista gas naturale o idrogeno per il proprio consumo domestico;))
+                                    
+                                
+                            
+                            
+                                nn)
+                                
+                                    
+                                        (("cliente non civile": un cliente che acquista gas naturale o idrogeno non destinato al proprio uso domestico;))
+                                    
+                                
+                            
+                            
+                                oo)
+                                
+                                    
+                                        (("cliente finale": il cliente che acquista gas naturale o idrogeno per uso proprio, ivi compresi gli impianti di distribuzione di metano per autotrazione che sono considerati clienti finali;))
+                                    
+                                
+                            
+                            
+                                pp)
+                                
+                                    
+                                        (("cliente grossista": una persona fisica o giuridica, diversa dai gestori dei sistemi di trasporto e dai gestori dei sistemi di distribuzione, che acquista gas naturale o idrogeno a scopo di rivendita all'interno o all'esterno del sistema in cui e' stabilita;))
+                                    
+                                
+                            
+                            
+                                qq)
+                                
+                                    
+                                        (("contratto di fornitura di gas": il contratto di fornitura di gas naturale o di idrogeno, a esclusione degli strumenti derivati sul gas naturale;))
+                                    
+                                
+                            
+                            
+                                rr)
+                                
+                                    
+                                        (("controllo": diritti, contratti, o altri mezzi che conferiscono, da soli o congiuntamente, e tenuto conto delle circostanze di fatto o di diritto, la possibilita' di esercitare un'influenza determinante sull'attivita' di un'impresa, in particolare attraverso: 
+ 1) diritti di proprieta' o di godimento sulla totalita' o su parti del patrimonio di un'impresa; 
+ 2) diritti o contratti che conferiscono un'influenza determinante sulla composizione, sulle votazioni, sulle deliberazioni e decisioni degli organi di un'impresa.))
+                                    
+                                
+                            
+                            
+                                ss)
+                                
+                                    
+                                        (("contratto a lungo termine": il contratto di fornitura di gas di durata superiore a un anno;))
+                                    
+                                
+                            
+                            
+                                tt)
+                                
+                                    
+                                        (("sistema di entrata-uscita": un modello di accesso per il gas naturale o l'idrogeno in cui gli utenti del sistema prenotano diritti di capacita' in modo indipendente ai punti di entrata e di uscita, che include il sistema di trasporto e puo' includere l'intero sistema di distribuzione o parte di esso, o le reti dell'idrogeno;))
+                                    
+                                
+                            
+                            
+                                uu)
+                                
+                                    
+                                        (("zona di bilanciamento": il sistema al quale si applica un dato regime di bilanciamento, che include il sistema di trasporto e puo' includere gli interi sistemi di distribuzione o parte di essi;))
+                                    
+                                
+                            
+                            
+                                vv)
+                                
+                                    
+                                        (("punto di scambio virtuale": il punto commerciale non fisico all'interno di un sistema di entrata-uscita presso il quale il gas naturale o l'idrogeno sono scambiati tra venditore e acquirente senza bisogno di prenotare capacita';))
+                                    
+                                
+                            
+                            
+                                zz)
+                                
+                                    
+                                        (("utente della rete": il cliente o il potenziale cliente del gestore del sistema o lo stesso gestore del sistema, nella misura in cui per tale gestore sia necessario svolgere le sue funzioni in relazione al trasporto di gas naturale o idrogeno;))
+                                    
+                                
+                            
+                            
+                                aaa)
+                                
+                                    
+                                        (("punto di entrata": il punto soggetto a procedure di prenotazione da parte degli utenti della rete che da' accesso al sistema di entrata-uscita;))
+                                    
+                                
+                            
+                            
+                                bbb)
+                                
+                                    
+                                        (("punto di uscita": il punto soggetto a procedure di prenotazione da parte degli utenti della rete che consente il flusso di gas in uscita dal sistema di entrata-uscita;))
+                                    
+                                
+                            
+                            
+                                ccc)
+                                
+                                    
+                                        (("punto di interconnessione": il punto fisico o virtuale che collega sistemi di entrata-uscita adiacenti o che collega un sistema di entrata-uscita con un interconnettore, nella misura in cui tale punto e' soggetto a procedure di prenotazione da parte degli utenti della rete;))
+                                    
+                                
+                            
+                            
+                                ddd)
+                                
+                                    
+                                        (("punto di interconnessione virtuale": due o piu' punti di interconnessione che collegano gli stessi due sistemi adiacenti di entrata-uscita integrati tra loro al fine di fornire un unico servizio di capacita';))
+                                    
+                                
+                            
+                            
+                                eee)
+                                
+                                    
+                                        (("partecipante al mercato": la persona fisica o giuridica che acquista, vende o produce gas naturale o idrogeno o che gestisce servizi di stoccaggio, anche attraverso la trasmissione di ordini di compravendita su uno o piu' mercati del gas naturale o dell'idrogeno, compresi i mercati di bilanciamento;))
+                                    
+                                
+                            
+                            
+                                fff)
+                                
+                                    
+                                        (("oneri di risoluzione del contratto": qualsiasi onere o penale imposti ai clienti dai fornitori o dai partecipanti al mercato per risolvere un contratto di fornitura di gas o di servizi attinenti;))
+                                    
+                                
+                            
+                            
+                                ggg)
+                                
+                                    
+                                        (("oneri per cambio di fornitore": qualsiasi onere o penale imposti ai clienti dai fornitori, dai partecipanti al mercato o dai gestori di sistemi, direttamente o indirettamente, in caso di cambiamento di fornitore o di partecipante al mercato, compresi gli oneri di risoluzione del contratto;))
+                                    
+                                
+                            
+                            
+                                hhh)
+                                
+                                    
+                                        (("informazioni di fatturazione": le informazioni fornite nella fattura al cliente finale, esclusa la richiesta di pagamento;))
+                                    
+                                
+                            
+                            
+                                iii)
+                                
+                                    
+                                        (("contatore convenzionale": il contatore analogico o elettronico sprovvisto della capacita' di trasmettere e ricevere dati;))
+                                    
+                                
+                            
+                            
+                                lll)
+                                
+                                    
+                                        (("sistema di misurazione intelligente": un sistema elettronico in grado di misurare il consumo di energia fornendo maggiori informazioni rispetto ad un dispositivo convenzionale, e di trasmettere e ricevere dati utilizzando una forma di comunicazione elettronica;))
+                                    
+                                
+                            
+                            
+                                mmm)
+                                
+                                    
+                                        (("interoperabilita'": nel contesto dei sistemi di misurazione intelligenti, la capacita' di due o piu' reti, sistemi, dispositivi, applicazioni o componenti nei settori dell'energia o delle comunicazioni di interagire e di scambiare e utilizzare informazioni per svolgere le funzioni richieste;))
+                                    
+                                
+                            
+                            
+                                nnn)
+                                
+                                    
+                                        (("piu' recenti disponibili": nel contesto dei sistemi di misurazione intelligenti, dati forniti in un lasso di tempo che corrisponde al piu' breve periodo di regolazione nel mercato nazionale;))
+                                    
+                                
+                            
+                            
+                                ooo)
+                                
+                                    
+                                        (("migliori tecniche disponibili": nel contesto della protezione e della sicurezza dei dati in un ambiente di misurazione intelligente, le tecniche piu' efficaci, avanzate e idonee dal punto di vista pratico a fornire in via di principio le condizioni per il rispetto delle norme dell'Unione europea sulla protezione dei dati e sulla sicurezza;))
+                                    
+                                
+                            
+                            
+                                ppp)
+                                
+                                    
+                                        (("poverta' energetica": la poverta' energetica ai sensi dell'articolo 2, punto 52), della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023;))
+                                    
+                                
+                            
+                            
+                                qqq)
+                                
+                                    
+                                        (("cliente attivo": il cliente finale di gas naturale o il gruppo di clienti finali consorziati di gas naturale che: 
+ 1) consuma o immagazzina il gas rinnovabile prodotto: 
+ 1.1) nei propri locali situati all'interno di un'area delimitata; 
+ 1.2) in altri locali; 
+ 2) purche' le attivita' non costituiscano la principale attivita' commerciale o professionale del cliente finale e siano conformi al diritto applicabile alla produzione di gas rinnovabile, in particolare per quanto riguarda le emissioni di gas a effetto serra alternativamente: 
+ 2.1) vende il gas rinnovabile autoprodotto attraverso il sistema del gas naturale; 
+ 2.2) partecipa a meccanismi di flessibilita' o di efficienza energetica;))
+                                    
+                                
+                            
+                            
+                                rrr)
+                                
+                                    
+                                        (("efficienza energetica al primo posto": il principio "l'efficienza energetica al primo posto" ai sensi dell'articolo 2, punto 18), del regolamento (UE) 2018/1999 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018;))
+                                    
+                                
+                            
+                            
+                                sss)
+                                
+                                    
+                                        (("riconversione": la riconversione ai sensi dell'articolo 2, punto 18), del regolamento (UE) 2022/869 del Parlamento europeo e del Consiglio, del 30 maggio 2022.))
+
+## Art. 33-ter. — (( (Mercato dell'idrogeno competitivo, incentrato sui clienti, flessibile e non discriminatorio).))
+
+
+
+((E' vietato ostacolare indebitamente gli scambi transfrontalieri di idrogeno, l'emergere e il funzionamento di scambi liquidi dell'idrogeno, la partecipazione dei consumatori, gli investimenti, in particolare nel gas rinnovabile e nel gas a basse emissioni di carbonio, o lo stoccaggio di energia. La formazione dei prezzi dell'idrogeno deve avvenire secondo criteri di mercato, in coerenza con le condizioni effettive della domanda e dell'offerta.))
+
+((Nel mercato dell'idrogeno e' vietato introdurre barriere ingiustificate all'ingresso e all'uscita, nonche' agli scambi e alle attivita' all'interno dello stesso.))
+
+((Le imprese che operano nel settore dell'idrogeno sono soggette a norme, a oneri e a un trattamento trasparenti, proporzionati e non discriminatori, in particolare per quanto riguarda la connessione alla rete, l'accesso ai mercati all'ingrosso, l'accesso ai dati, le procedure di cambio di fornitore e i regimi di fatturazione e, ove applicabile, la concessione di licenze.))
+
+((Le imprese provenienti da paesi terzi che operano nel mercato interno dell'idrogeno sono tenute al rispetto della vigente disciplina nazionale ed eurounitaria, anche in materia di ambiente e sicurezza.))
+
+((Nel mercato dell'idrogeno e' garantito un approccio incentrato sui clienti ed efficiente sotto il profilo energetico. L'uso dell'idrogeno e' rivolto ai clienti in settori difficili da decarbonizzare che presentano un elevato potenziale di riduzione dei gas a effetto serra e per i quali non sono disponibili opzioni piu' efficienti sotto il profilo energetico e in termini di costi.))
+
+((E' garantita l'integrazione del sistema energetico senza discriminare indebitamente soluzioni piu' efficienti sotto il profilo energetico, come l'elettrificazione diretta, in linea con il principio "l'efficienza energetica al primo posto".))
+
+## Art. 33-quater. — (( (Prezzi di fornitura basati sul mercato).))
+
+
+
+((I fornitori garantiscono la protezione dei clienti in condizioni di poverta' energetica e dei clienti civili vulnerabili con politiche sociali o mezzi diversi dagli interventi pubblici di fissazione dei prezzi per la fornitura di idrogeno, in ogni caso nell'ambito degli strumenti di sostegno e delle risorse disponibili a legislazione vigente.))
+
+3.
+                        
+                            
+                                
+                                    ((Ogni due anni, nell'ambito delle relazioni intermedie nazionali integrate sull'energia e il clima, e' riportato:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((lo stato di attuazione del presente articolo;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la valutazione dell'opportunita' e della proporzionalita' degli interventi pubblici a norma del presente articolo;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((una valutazione dei progressi compiuti nella creazione di una concorrenza effettiva tra i fornitori e nella transizione verso prezzi basati sul mercato.))
+
+## Art. 33-quinquies. — (( (Obblighi di servizio pubblico).))
+
+
+
+((A norma dell'articolo 106 del Trattato sul funzionamento dell'Unione europea (TFUE), nell'interesse economico generale, alle imprese di idrogeno possono essere imposti obblighi di servizio pubblico concernenti la sicurezza, compresa la sicurezza dell'approvvigionamento, la regolarita' e la qualita' delle forniture, nonche' la tutela dell'ambiente, ivi inclusa l'efficienza energetica, l'energia da fonti rinnovabili e la protezione del clima.
+In fase di attuazione, l'ARERA definisce tali obblighi in modo chiaro, trasparente, non discriminatorio e verificabile e garantisce alle imprese di idrogeno dell'Unione europea parita' di accesso ai consumatori nazionali.))
+
+((Eventuali compensazioni finanziarie o altre forme di compensazione per l'adempimento degli obblighi di cui al presente articolo, sono concesse dall'ARERA in modo trasparente e non discriminatorio, senza nuovi o maggiori oneri a carico della finanza pubblica.))
+
+((L'ARERA comunica alla Commissione europea tutte le misure adottate per adempiere agli obblighi di servizio pubblico, ivi comprese le misure relative alla tutela dei consumatori e dell'ambiente, nonche' ai loro possibili effetti sulla concorrenza nazionale e internazionale, a prescindere dall'eventuale necessita' di una deroga alla direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024. Ogni due anni, l'ARERA comunica alla Commissione europea eventuali modifiche apportate a dette misure.))
+
+((Nell'imporre obblighi di servizio pubblico a norma del comma 2, i soggetti interessati sono consultati nella fase iniziale in modo aperto, inclusivo e trasparente. Tutti i documenti ufficiali relativi alle consultazioni e i documenti utilizzati per l'elaborazione degli obblighi di servizio pubblico sono resi pubblici, pur mantenendo la riservatezza delle informazioni commercialmente sensibili e la protezione dei dati.))
+
+## Art. 33-sexies. — (( (Norme tecniche).))
+
+
+
+((I gestori dei sistemi di trasporto, i gestori dei sistemi di distribuzione e i gestori delle reti dell'idrogeno sono tenuti a pubblicare le norme tecniche di cui al comma 1, in particolare con riferimento alle norme di connessione alla rete, comprendenti requisiti in materia di qualita' e pressione dell'idrogeno sulla base di criteri oggettivi, trasparenti e non discriminatori.))
+
+## Art. 33-septies. — (( (Accesso del gas rinnovabile e del gas a basse emissioni di carbonio al mercato).))
+
+
+
+## Art. 33-octies. — (( (Accesso dei terzi alle reti di idrogeno).))
+
+
+
+((Le tariffe e le metodologie per l'accesso reti dell'idrogeno di cui al comma 1 sono approvate e pubblicate dall'ARERA prima della loro entrata in vigore secondo quanto previsto dall'articolo 33-tricies quater del presente decreto.))
+
+((I gestori delle reti dell'idrogeno, ove necessario al fine di svolgere le loro funzioni, anche in relazione al trasporto transfrontaliero dell'idrogeno nella rete, hanno il diritto di accesso alla rete di altri gestori.))
+
+## Art. 33-novies. — (( (Accesso dei terzi ai terminali dell'idrogeno).))
+
+
+
+((L'ARERA monitora le condizioni di accesso dei terzi ai terminali dell'idrogeno e il relativo impatto sul mercato dell'idrogeno e, ove necessario al fine di preservare la concorrenza, adotta misure tese a migliorare l'accesso nel rispetto dei criteri di cui al comma 1.))
+
+## Art. 33-decies. — (( (Accesso allo stoccaggio dell'idrogeno).))
+
+
+
+## Art. 33-undecies. — (( (Rifiuto dell'accesso e della connessione).))
+
+
+
+((Fatti salvi gli obiettivi di decarbonizzazione dell'Unione europea e nazionali e i requisiti vigenti volti alla riduzione o all'abbandono del consumo di gas di origine fossile, i gestori delle reti dell'idrogeno che rifiutano l'accesso o la connessione al sistema dell'idrogeno per mancanza di capacita' o di connessione provvedono a realizzare i necessari interventi di miglioramento, ove economicamente giustificabile o qualora un potenziale cliente sia disposto a sostenerne il costo.))
+
+((Per il gas rinnovabile e il gas a basse emissioni di carbonio l'accesso al sistema puo' essere rifiutato solo fatti salvi gli articoli 20 e 36 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024.))
+
+((Il rifiuto di accesso o connessione a norma dei commi 1 e 2 del presente articolo deve essere debitamente motivato e tempestivamente comunicato all'ARERA e all'Autorita' garante della concorrenza e del mercato, nonche' al Ministero dell'ambiente e della sicurezza energetica.))
+
+## Art. 33-duodecies. — (( (Poteri decisionali in materia di connessione di impianti di produzione di gas rinnovabile e di gas a basse emissioni di carbonio al sistema di trasporto).))
+
+((Il gestore del sistema di trasporto instaura e rende pubbliche procedure trasparenti ed efficienti per la connessione non discriminatoria di impianti di produzione di gas rinnovabile e di gas a basse emissioni di carbonio, in linea con le capacita' individuate nel piano decennale di sviluppo della rete di cui all'articolo 16.
+Tali procedure sono soggette all'approvazione dell'ARERA. Per gli impianti di produzione di biometano si applica quanto disposto dall'articolo 20 del decreto legislativo 24 gennaio 2011, n. 28.))
+
+((Il gestore del sistema di trasporto non puo' rifiutare le richieste di connessione economicamente ragionevoli e tecnicamente fattibili da parte di un nuovo impianto di produzione di gas rinnovabile e di gas a basse emissioni di carbonio, o di un impianto esistente ma non ancora connesso, salvo quanto previsto dall'articolo 33-undecies.))
+
+## Art. 33-terdecies. — (( (Poteri decisionali in materia di connessione alla rete di trasporto dell'idrogeno).))
+
+
+
+((Il gestore della rete di trasporto dell'idrogeno non puo' rifiutare la connessione di un nuovo impianto di stoccaggio di idrogeno, terminale dell'idrogeno o cliente industriale a causa di eventuali future limitazioni delle capacita' di rete disponibili o di costi supplementari derivanti dalla necessita' di aumentare la capacita'. Il gestore della rete di trasporto dell'idrogeno assicura una capacita' d'entrata e d'uscita sufficiente per la nuova connessione.))
+
+## Art. 33-quaterdecies. — (( (Designazione dei gestori dei sistemi di distribuzione e dei gestori delle reti di distribuzione dell'idrogeno).))
+
+
+
+## Art. 33-quinquiesdecies. — (( (Separazione dei gestori dei sistemi di distribuzione e dei gestori della rete di distribuzione dell'idrogeno).))
+
+
+
+2.
+                        
+                            
+                                
+                                    ((Il gestore della rete di distribuzione dell'idrogeno, qualora sia parte di un'impresa verticalmente integrata, e' indipendente da altre attivita' non connesse alla distribuzione dell'idrogeno per quanto riguarda l'organizzazione e l'adozione di decisioni. Al fine di conseguire tale indipendenza, si applicano i seguenti criteri minimi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'amministrazione del gestore della rete di distribuzione dell'idrogeno non fa parte di strutture societarie dell'impresa verticalmente integrata responsabili, direttamente o indirettamente, della gestione ordinaria delle attivita' di produzione, trasporto e fornitura di idrogeno;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((sono adottate misure idonee ad assicurare che gli interessi professionali delle persone responsabili dell'amministrazione del gestore della rete di distribuzione dell'idrogeno siano presi in considerazione in modo da consentire loro di agire in maniera indipendente;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((il gestore della rete di distribuzione dell'idrogeno dispone di effettivi poteri decisionali, indipendenti o dall'impresa verticalmente integrata, in relazione ai mezzi necessari alla gestione, alla manutenzione o allo sviluppo della rete; ai fini dello svolgimento di tali compiti, il gestore della rete di distribuzione dell'idrogeno dispone delle risorse necessarie, comprese le risorse umane, tecniche, finanziarie e materiali; cio' non osta all'esistenza di appropriati meccanismi di coordinamento intesi a garantire la tutela dei diritti di vigilanza economica e amministrativa della societa' madre per quanto riguarda la redditivita' degli investimenti disciplinata indirettamente ai sensi dell'articolo 78, paragrafo 7, della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024, in una societa' controllata; cio' consente in particolare alla societa' madre di approvare il piano finanziario annuale, o qualsiasi strumento equivalente, del gestore della rete di distribuzione dell'idrogeno e di introdurre limiti globali ai livelli di indebitamento della sua societa' controllata; non e' consentito alla societa' madre dare istruzioni, ne' per quanto riguarda le attivita' di gestione ordinaria, ne' in relazione a singole decisioni concernenti la costruzione o il miglioramento delle linee di distribuzione, che non eccedano i termini del piano finanziario approvato o di qualsiasi strumento equivalente;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((il gestore della rete di distribuzione dell'idrogeno predispone un programma di adempimenti contenente le misure adottate per escludere comportamenti discriminatori e garantisce che ne sia adeguatamente controllata l'osservanza. Il programma di adempimenti illustra gli obblighi specifici cui devono ottemperare i dipendenti per raggiungere questo obiettivo. La persona o l'organo responsabile del controllo del programma di adempimenti, o il responsabile della conformita' del gestore della rete di distribuzione dell'idrogeno presenta ogni anno all'ARERA una relazione sulle misure adottate e la rende pubblica. Il responsabile della conformita' del gestore della rete di distribuzione dell'idrogeno e' pienamente indipendente e deve poter accedere, per lo svolgimento della sua missione, a tutte le informazioni necessarie in possesso del gestore della rete di distribuzione dell'idrogeno e di ogni impresa collegata.))
+
+((Qualora il gestore della rete di distribuzione dell'idrogeno faccia parte di un'impresa verticalmente integrata, le rispettive attivita' sono controllate dall'ARERA affinche' il gestore in questione non possa trarre vantaggio dalla sua integrazione verticale per falsare la concorrenza. In particolare, ai gestori delle reti di distribuzione dell'idrogeno verticalmente integrati e' fatto divieto di creare confusione, nella loro politica di comunicazione e di marchio, circa l'identita' distinta del ramo "fornitura" dell'impresa verticalmente integrata.))
+
+((I commi 1, 2 e 3 non si applicano ai gestori di sistemi di distribuzione appartenenti a un'impresa di gas naturale integrata che rifornisce meno di 100.000 clienti allacciati. Qualora il gestore del sistema di distribuzione benefici di una deroga ai sensi del comma 1 alla data del 4 agosto 2024, non si applicano i commi 1, 2 e 3 anche al gestore della rete di distribuzione dell'idrogeno facente parte della medesima impresa, a condizione che il numero combinato di clienti allacciati del gestore del sistema di distribuzione e del gestore della rete di distribuzione dell'idrogeno rimanga inferiore a 100.000.))
+
+## Art. 33-sexiesdecies. — (( (Compiti dei gestori delle reti, dello stoccaggio e dei terminali dell'idrogeno).))
+
+1.
+                        
+                            
+                                
+                                    ((Il gestore della rete dell'idrogeno, dello stoccaggio di idrogeno o del terminale dell'idrogeno ha la responsabilita' di:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((gestire, mantenere e sviluppare, compresa la riconversione, a condizioni economiche accettabili, un'infrastruttura sicura e affidabile per il trasporto o lo stoccaggio di idrogeno, nel dovuto rispetto dell'ambiente, in stretta collaborazione con i gestori delle reti dell'idrogeno connesse e limitrofe, al fine di ottimizzare la co-ubicazione della produzione e dell'uso dell'idrogeno e sulla base del piano decennale di sviluppo della rete di cui all'articolo 16;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((assicurare la capacita' a lungo termine del sistema dell'idrogeno di soddisfare richieste ragionevoli individuate per il trasporto e lo stoccaggio di idrogeno conformemente al piano decennale di sviluppo della rete di cui all'articolo 16;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((garantire mezzi adeguati ad adempiere ai propri obblighi;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((fornire al gestore di altre reti o altri sistemi interconnessi con il proprio informazioni sufficienti, anche sulla qualita' dell'idrogeno, per garantire il funzionamento sicuro ed efficiente, lo sviluppo coordinato e l'interoperabilita' del sistema interconnesso;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((non operare discriminazioni tra gli utenti del sistema dell'idrogeno o le categorie di utenti dell'infrastruttura, nello specifico a favore di imprese ad essi collegate;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((fornire agli utenti del sistema dell'idrogeno le informazioni necessarie a un efficiente accesso all'infrastruttura;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((adottare tutte le misure ragionevoli disponibili per evitare e ridurre al minimo le emissioni di idrogeno delle proprie operazioni e sottoporre periodicamente a ispezione tutti i componenti pertinenti sotto la propria responsabilita' al fine di rilevare e riparare eventuali perdite di idrogeno;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((presentare all'ARERA una relazione periodica, secondo le modalita' definite dalla stessa ARERA, sul rilevamento delle perdite di idrogeno e, ove opportuno, un programma di riparazione o sostituzione delle stesse, rendendo pubbliche, su base annuale, informazioni statistiche riguardanti il rilevamento e la riparazione delle perdite di idrogeno.))
+
+((I gestori delle reti di trasporto dell'idrogeno assicurano sufficiente capacita' transfrontaliera per integrare l'infrastruttura europea dell'idrogeno, accogliendo tutte le richieste di capacita' economicamente ragionevoli e tecnicamente fattibili, individuate nel piano decennale di sviluppo della rete di cui all'articolo 16 e tenendo conto della sicurezza degli approvvigionamenti di gas.
+Ricevuta la certificazione a norma dell'articolo 33-vicies septies, il Ministero dell'ambiente e della sicurezza energetica affida a uno o a un numero limitato di gestori delle reti di trasporto dell'idrogeno la responsabilita' di assicurare la capacita' transfrontaliera.))
+
+((Ove opportuno per la gestione del sistema e per gli utenti finali, l'ARERA affida ai gestori delle reti dell'idrogeno la responsabilita' di assicurare una gestione efficiente della qualita' dell'idrogeno e una qualita' stabile dell'idrogeno nelle loro reti, in conformita' alle norme applicabili in materia di qualita' dell'idrogeno.))
+
+((I gestori delle reti dell'idrogeno sono responsabili del bilanciamento delle rispettive reti a decorrere dal 1° gennaio 2033 o da una data anteriore se cosi' disposto dall'ARERA. Le regole di bilanciamento della rete dell'idrogeno adottate dai gestori delle reti dell'idrogeno, comprese le regole per addebitare agli utenti della loro rete lo sbilanciamento energetico sono obiettive, trasparenti e non discriminatorie.))
+
+## Art. 33-septiesdecies. — (( (Reti dell'idrogeno esistenti).))
+
+
+
+2.
+                        
+                            
+                                
+                                    ((Le deroghe concesse a norma del comma 1 decadono al verificarsi di almeno una delle seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((quando l'ARERA, su richiesta dell'impresa verticalmente integrata, decide di porre fine alla deroga;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((quando la rete dell'idrogeno che beneficia della deroga viene collegata a un'altra rete dell'idrogeno;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((quando la rete dell'idrogeno che beneficia della deroga viene ampliata o se e' aumentata la sua capacita' di oltre il 5 per cento in termini di lunghezza o capacita' rispetto a quella posseduta alla data del 4 agosto 2024;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((quando l'ARERA conclude, mediante decisione, che l'applicazione continuativa della deroga comporterebbe il rischio di ostacolare la concorrenza o di incidere negativamente sull'efficace realizzazione dell'infrastruttura dell'idrogeno o sullo sviluppo e sul funzionamento del mercato dell'idrogeno nazionale o nell'Unione europea.))
+
+((Ogni sette anni a decorrere dalla data di concessione di una deroga a norma del comma 1, l'ARERA pubblica una valutazione dell'impatto della deroga sulla concorrenza, sull'infrastruttura dell'idrogeno e sullo sviluppo e sul funzionamento del mercato dell'idrogeno nazionale o nell'Unione europea.))
+
+((L'ARERA puo' chiedere ai gestori delle reti dell'idrogeno esistenti di fornire loro tutte le informazioni necessarie per l'esecuzione dei loro compiti.))
+
+## Art. 33-duodevicies. — (( (Reti dell'idrogeno geograficamente limitate).))
+
+1.
+                        
+                            
+                                
+                                    ((L'ARERA puo' concedere una deroga agli articoli 33-vicies quater e 33-vicies septies o all'articolo 33-quinquiesdecies per le reti dell'idrogeno che trasportano idrogeno all'interno di una zona industriale o commerciale geograficamente limitata. Per la durata della deroga, tali reti devono soddisfare tutte le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((non comprendono gli interconnettori di idrogeno;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((non dispongono di connessioni dirette agli impianti di stoccaggio dell'idrogeno o ai terminali dell'idrogeno, a meno che tali impianti di stoccaggio o terminali siano anch'essi collegati a una rete dell'idrogeno che non beneficia di una deroga concessa a norma del presente articolo o dell'articolo 33-septiesdecies;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((servono in primo luogo allo scopo di fornire idrogeno ai clienti direttamente collegati alla rete stessa;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((non sono collegate a nessun'altra rete dell'idrogeno, ad eccezione delle reti che beneficiano anch'esse di una deroga concessa a norma del presente articolo e sono gestite dallo stesso gestore della rete dell'idrogeno.))
+
+((L'ARERA revoca la deroga di cui al comma 1 qualora accerti che l'applicazione continuativa della deroga comporterebbe il rischio di ostacolare la concorrenza o di incidere negativamente sull'efficace realizzazione dell'infrastruttura dell'idrogeno o sullo sviluppo e sul funzionamento del mercato dell'idrogeno nazionale o nell'Unione europea, ovvero laddove non sia piu' soddisfatta una qualsiasi delle condizioni elencate nel comma 1. Ogni sette anni a decorrere dalla concessione di una deroga a norma del comma 1, l'ARERA pubblica una valutazione dell'impatto della deroga sulla concorrenza, sull'infrastruttura dell'idrogeno e sullo sviluppo e sul funzionamento del mercato dell'idrogeno nazionale o nell'Unione europea. Le domande di accesso dei produttori di idrogeno e le domande di connessione dei clienti industriali sono notificate all'ARERA, rese pubbliche e trattate a norma dell'articolo 33-terdecies. La pubblicazione delle domande di accesso deve avvenire nel rispetto della riservatezza delle informazioni commercialmente sensibili.))
+
+## Art. 33-undevicies. — (( (Interconnettori di idrogeno con paesi terzi).))
+
+
+
+((Il comma 1 del presente articolo lascia impregiudicato quanto disciplinato dall'articolo 33-tricies quinquies nonche' la ripartizione delle competenze con l'Unione europea.))
+
+((Il comma 1 non osta alla possibilita', nel rispetto delle rispettive competenze con l'Unione europea e delle procedure applicabili, di avviare dialoghi con paesi terzi connessi, anche per instaurare una cooperazione su questioni pertinenti per la produzione di idrogeno, quali le questioni sociali e ambientali.))
+
+## Art. 33-vicies. — (( (Riservatezza per i gestori delle reti dell'idrogeno, degli impianti di stoccaggio dell'idrogeno e dei terminali dell'idrogeno).))
+
+
+
+((Nell'ambito di operazioni di compravendita di idrogeno da parte di imprese collegate, e' fatto divieto al gestore della rete dell'idrogeno, dell'impianto di stoccaggio dell'idrogeno o del terminale dell'idrogeno di fare uso abusivo delle informazioni commercialmente sensibili acquisite da terzi nel fornire o nel negoziare l'accesso al sistema.))
+
+((Le informazioni necessarie per un'effettiva concorrenza e l'efficiente funzionamento del mercato sono rese pubbliche. Tale obbligo non pregiudica la tutela delle informazioni commercialmente sensibili.))
+
+## Art. 33-viciessemel. — (( (Piano di sviluppo della rete di distribuzione dell'idrogeno).))
+
+
+
+2.
+                        
+                            
+                                
+                                    ((In particolare, il piano di sviluppo della rete di distribuzione dell'idrogeno:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((include informazioni sul fabbisogno di capacita', in termini sia di volume che di durata, negoziato tra gli utenti delle reti di distribuzione dell'idrogeno e i gestori delle reti di distribuzione dell'idrogeno, sulla fornitura di idrogeno e sul fabbisogno di capacita', in termini sia di volume che di durata, dei potenziali futuri utenti finali difficili da decarbonizzare e di quelli esistenti, tenendo conto del potenziale di riduzione dei gas a effetto serra e dell'efficienza sotto il profilo energetico e in termini di costi rispetto ad altre opzioni, come anche dell'ubicazione di tali utenti finali, al fine di contemplare l'uso dell'idrogeno rinnovabile e a basse emissioni di carbonio in tali settori)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((tiene conto dei piani di riscaldamento e raffrescamento stabiliti a norma dell'articolo 25, paragrafo 6, della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023, e della domanda dei settori non contemplati dai piani di riscaldamento e raffrescamento, e valuta in che modo sia rispettato il principio «l'efficienza energetica al primo posto» di cui all'articolo 27 della medesima direttiva (UE) 2023/1791, quando si prende in considerazione l'espansione della rete di distribuzione dell'idrogeno in settori in cui sono disponibili alternative piu' efficienti sotto il profilo energetico)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((include informazioni sulla misura in cui per trasportare idrogeno si debbano utilizzare gasdotti del gas naturale riconvertiti, nonche' sulla misura in cui tale riconversione sia necessaria per soddisfare il fabbisogno di capacita' stabilito in conformita' alla lettera a) )); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((si basa su una procedura consultiva che e' aperta ai pertinenti soggetti interessati al fine di consentire la loro partecipazione tempestiva ed effettiva al processo di pianificazione, anche attraverso la comunicazione e lo scambio di tutte le informazioni pertinenti)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((e' pubblicato nel sito internet del gestore della rete di distribuzione dell'idrogeno contestualmente all'esito della consultazione dei soggetti interessati ed e' trasmesso all'ARERA, unitamente all'esito della consultazione dei soggetti interessati. Il sito internet e' aggiornato periodicamente in modo che i pertinenti soggetti interessati siano sufficientemente informati e possano cosi' partecipare efficacemente alla consultazione)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((e' in linea con il piano nazionale integrato per l'energia e il clima e i relativi aggiornamenti e con le relazioni nazionali integrate sull'energia e il clima presentate nel quadro del regolamento (UE) 2018/1999 e sostiene l'obiettivo della neutralita' climatica di cui all'articolo 2, paragrafo 1, del regolamento (UE) 2021/1119)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((e' coerente con il piano di sviluppo della rete per l'idrogeno a livello dell'Unione di cui all'articolo 60 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024, e con i piani decennali nazionali di sviluppo della rete elaborati conformemente all'articolo 16 del presente decreto)).
+
+((I gestori delle reti di distribuzione dell'idrogeno scambiano tutte le informazioni pertinenti che sono necessarie all'elaborazione del piano con altri gestori delle reti dell'idrogeno, compresi quelli situati in Stati membri confinanti qualora vi sia una connessione diretta)).
+
+((L'ARERA valuta se il piano di sviluppo della rete di distribuzione dell'idrogeno sia conforme al comma 1, esamina il piano e puo' richiederne modifiche in linea con la valutazione. Nel farlo tiene conto della necessita' energetica ed economica globale della rete dell'idrogeno nonche' del quadro di scenari comuni elaborato a norma dell'articolo 16, comma 2, lettera f). Nel caso di piani presentati in relazione alle reti dell'idrogeno che beneficiano di una deroga a norma dell'articolo 33-septiesdecies o 33-duodevicies, l'ARERA puo' astenersi dall'esaminare il piano medesimo e formulare raccomandazioni di modifica)).
+
+((Nell'approvare gli oneri specifici ai sensi dell'articolo 5 del regolamento (UE) 2024/1789, l'ARERA tiene conto dell'esame del piano di sviluppo della rete di distribuzione dell'idrogeno)).
+
+## Art. 33-viciesbis. — (( (Finanziamento dell'infrastruttura transfrontaliera dell'idrogeno).))
+
+
+
+((Qualora i gestori delle reti di trasporto dell'idrogeno presentino il piano di progetto di cui al comma 1, il piano e la domanda di ripartizione transfrontaliera dei costi sono corredati di un'analisi costi-benefici specifica per progetto, che prenda in considerazione i benefici oltre le frontiere degli Stati membri dell'Unione europea interessati, nonche' di un piano aziendale di valutazione della sostenibilita' finanziaria del progetto, che contenga una soluzione di finanziamento e indichi se i gestori delle reti di trasporto dell'idrogeno coinvolti concordano su una proposta dettagliata di ripartizione transfrontaliera dei costi. Le autorita' di regolazione competenti, previa consultazione dei gestori delle reti di trasporto dell'idrogeno, adottano una decisione congiunta in merito alla ripartizione dei costi di investimento a carico di ciascun gestore della rete di trasporto dell'idrogeno per il progetto.))
+
+((A decorrere dal 1° gennaio 2033 tutti i gestori delle reti di trasporto dell'idrogeno interessati negoziano un sistema di compensazione finanziaria al fine di garantire il finanziamento dell'infrastruttura transfrontaliera dell'idrogeno, nel caso in cui non siano applicate tariffe per l'accesso alle reti di trasporto dell'idrogeno nei punti di interconnessione tra Stati membri dell'Unione europea a norma dell'articolo 7, paragrafo 8, del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024. Nello sviluppo di tale sistema i gestori delle reti di trasporto dell'idrogeno conducono un processo di consultazione ad ampio raggio coinvolgendo tutti i pertinenti partecipanti al mercato.))
+
+((I gestori delle reti di trasporto dell'idrogeno coinvolti concordano un sistema di compensazione finanziaria entro il 31 dicembre 2035 e lo sottopongono all'approvazione congiunta dell'ARERA e delle rispettive autorita' di regolazione competenti. Se entro tale termine non e' stato raggiunto un accordo, l'ARERA e le rispettive autorita' di regolazione competenti prendono una decisione congiunta entro due anni. Qualora non si raggiunga un accordo sulla decisione congiunta entro due anni, spetta all'ACER adottare una decisione secondo la procedura di cui all'articolo 6, paragrafo 10, del regolamento (UE) 2019/942 del Parlamento europeo e del Consiglio, del 5 giugno 2019.))
+
+((Il sistema di compensazione finanziaria e' attuato conformemente all'articolo 43.))
+
+((Nel contesto della transizione a un sistema di compensazione finanziaria, il meccanismo istituito non pregiudica i contratti di capacita' esistenti.))
+
+((Gli ulteriori dettagli necessari ai fini dell'attuazione del procedimento disciplinato dal presente articolo, segnatamente le procedure e le tempistiche richieste nonche' la procedura di revisione e, ove opportuno, di modifica del sistema di compensazione finanziaria al fine di tenere conto dell'evolversi delle tariffe e dello sviluppo delle reti dell'idrogeno, sono definiti in un codice di rete redatto a norma dell'articolo 72 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024.))
+
+## Art. 33-viciester. — (( (Separazione dei proprietari dei sistemi di trasporto, dei proprietari della rete di trasporto dell'idrogeno, dei gestori dei sistemi di stoccaggio del gas naturale e dei gestori degli impianti di stoccaggio dell'idrogeno).))
+
+
+
+2.
+                        
+                            
+                                
+                                    ((Al fine di garantire l'indipendenza del proprietario della rete di trasporto dell'idrogeno e del gestore dell'impianto di stoccaggio dell'idrogeno di cui al comma 1, si applicano i seguenti criteri minimi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((i responsabili della direzione dell'impresa proprietaria della rete di trasporto dell'idrogeno e del gestore dell'impianto di stoccaggio dell'idrogeno non devono far parte di strutture dell'impresa di gas naturale integrata responsabili, direttamente o indirettamente, della gestione quotidiana delle attivita' di produzione e fornitura di gas naturale e di idrogeno;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((devono essere adottate misure idonee ad assicurare che gli interessi professionali delle persone responsabili della direzione dell'impresa proprietaria della rete di trasporto dell'idrogeno e del gestore dell'impianto di stoccaggio dell'idrogeno siano presi in considerazione al fine di consentire loro di agire in modo indipendente;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((il gestore dell'impianto di stoccaggio dell'idrogeno e' dotato di efficaci poteri decisionali, indipendenti dalle imprese di gas naturale integrate, in relazione ai mezzi necessari alla gestione, alla manutenzione e allo sviluppo degli impianti di stoccaggio di idrogeno; cio' non osta all'esistenza di appropriati meccanismi di coordinamento volti a garantire la tutela dei diritti di vigilanza economica e amministrativa della societa' controllante con riferimento alla redditivita' degli investimenti della societa' controllata ai sensi dell'articolo 43, comma 4-bis; cio' consente, in particolare, alla societa' controllante di approvare il piano finanziario annuale, o qualsiasi strumento equivalente, del gestore dell'impianto di stoccaggio dell'idrogeno e di introdurre limiti globali ai livelli di indebitamento della sua societa' controllata; non e' consentito alla societa' controllante madre impartire istruzioni relative alle attivita' di gestione ordinaria, ne' in relazione a singole decisioni concernenti la costruzione o il miglioramento degli impianti di stoccaggio dell'idrogeno che non eccedono i termini del piano finanziario approvato o di qualsiasi strumento equivalente;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((il proprietario della rete di trasporto dell'idrogeno e il gestore dell'impianto di stoccaggio dell'idrogeno predispongono un programma di adempimenti, contenente le misure adottate per escludere comportamenti discriminatori e garantire che ne sia adeguatamente controllata l'osservanza. Il programma di adempimenti illustra anche gli obblighi specifici cui devono ottemperare i dipendenti per raggiungere tali obiettivi. La persona o l'organo responsabile del controllo del programma di adempimenti presenta ogni anno all'ARERA una relazione sulle misure adottate che viene pubblicata in forma adeguata a garantirne la conoscenza da parte dei soggetti interessati.))
+
+((Ai fini della piena ed effettiva osservanza del comma 2 del presente articolo, il proprietario del sistema di trasporto o della rete di trasporto dell'idrogeno e il gestore dell'impianto di stoccaggio dell'idrogeno sono tenuti a conformarsi agli orientamenti adottati dalla Commissione europea ai sensi dell'articolo 90 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024.))
+
+## Art. 33-viciesquater. — (( (Separazione dei gestori delle reti di trasporto dell'idrogeno).))
+
+
+
+2.
+                        
+                            
+                                
+                                    ((Ai fini del presente articolo nonche' degli articoli 33-quinquiesdecies e 19, si intende per:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((«produzione o fornitura», anche la produzione e la fornitura di idrogeno;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((«trasporto», anche il trasporto di idrogeno.))
+
+((In alternativa a quanto previsto dal comma 1, qualora le reti di trasporto dell'idrogeno appartengano a un'impresa verticalmente integrata, puo' essere designato un gestore della rete di trasporto dell'idrogeno indipendente separato. I gestori delle reti di trasporto dell'idrogeno e i gestori dei sistemi di trasporto del gas naturale separati conformemente all'articolo 19, possono agire in qualita' di gestori delle reti di trasporto dell'idrogeno indipendenti, purche' rispettino le prescrizioni dell'articolo 33-vicies quinquies.))
+
+((In alternativa a quanto previsto dal comma 1, se una rete di trasporto dell'idrogeno appartiene a uno o piu' gestori dei sistemi di trasporto del gas naturale certificati, ovvero se al 4 agosto 2024 una rete di trasporto dell'idrogeno appartiene a un'impresa verticalmente integrata attiva nella produzione o nella fornitura di idrogeno, puo' essere designato un soggetto sotto il controllo esclusivo del gestore del sistema di trasporto o il controllo congiunto di due o piu' gestori dei sistemi di trasporto, o sotto il controllo esclusivo dell'impresa verticalmente integrata attiva nella produzione o nella fornitura di idrogeno, come un gestore della rete di trasporto dell'idrogeno integrato separato conformemente alle norme relative ai gestori del trasporto di gas naturale indipendenti di cui al presente titolo. In deroga al primo periodo, qualora sia stata concessa una deroga ai sensi dell'articolo 33-vicies quinquies, comma 2, e una rete di trasporto dell'idrogeno appartenga a uno o piu' gestori dei sistemi di trasporto del gas naturale certificati e separati conformemente alle norme relative ai gestori del trasporto di gas naturale indipendenti di cui al presente titolo, puo' essere designato tale soggetto ovvero un soggetto sotto il controllo congiunto di due o piu' gestori dei sistemi di trasporto quale gestore della rete di trasporto dell'idrogeno integrato separato conformemente alle norme relative ai gestori del trasporto di gas naturale indipendenti di cui al presente titolo.))
+
+((L'impresa che comprenda un gestore del sistema di trasporto separato conformemente all'articolo 19 e un gestore della rete di trasporto dell'idrogeno integrato puo' essere attiva nella produzione o nella fornitura di idrogeno, ma non nella produzione o nella fornitura di gas naturale o di energia elettrica. Qualora tale impresa operi nel settore della produzione o della fornitura di idrogeno, il gestore del sistema di trasporto del gas naturale si conforma ai requisiti di cui al presente titolo, e l'impresa e tutte le sue parti non prenotano ne' utilizzano diritti di capacita' per l'iniezione di idrogeno in un sistema di trasporto o di distribuzione del gas naturale gestito dall'impresa medesima.))
+
+((Ai gestori delle reti di trasporto dell'idrogeno si applicano le norme applicabili ai gestori dei sistemi di trasporto di cui all'articolo 33-duodetricies.))
+
+## Art. 33-viciesquinquies. — (( (Separazione orizzontale dei gestori delle reti di trasporto dell'idrogeno).))
+
+
+
+((Il Ministero dell'ambiente e della sicurezza energetica, sulla base di un'analisi costi-benefici positiva pubblicamente disponibile, puo' concedere ai gestori delle reti di trasporto dell'idrogeno deroghe ai requisiti di cui al comma 1, previa valutazione positiva da parte dell'ARERA conformemente a quanto disposto dal comma 4.))
+
+((Le deroghe concesse a norma del comma 2 sono pubblicate e notificate alla Commissione europea, corredate della relativa valutazione di cui al comma 4, nel rispetto della riservatezza delle informazioni commercialmente sensibili.))
+
+((Al momento della concessione di una deroga a norma del comma 2, e successivamente almeno ogni sette anni, oppure su richiesta motivata della Commissione, l'ARERA pubblica una valutazione dell'impatto della deroga sulla trasparenza, sui sussidi incrociati, sulle tariffe di rete e sugli scambi transfrontalieri. Tale valutazione comprende almeno il calendario dei trasferimenti di attivi previsti dal settore del gas naturale al settore dell'idrogeno. Se, sulla base di una valutazione, l'ARERA conclude che l'applicazione continuativa della deroga avrebbe un impatto negativo sulla trasparenza, sui sussidi incrociati, sulle tariffe di rete e sugli scambi transfrontalieri, o una volta concluso il trasferimento di attivi dal settore del gas naturale al settore dell'idrogeno, il Ministero dell'ambiente e della sicurezza energetica revoca la deroga.))
+
+## Art. 33-viciessexies. — (( (Separazione della contabilita' dei gestori delle reti dell'idrogeno).))
+
+
+
+## Art. 33-viciessepties. — (( (Designazione e certificazione dei gestori dei sistemi di trasporto e dei gestori delle reti di trasporto dell'idrogeno).))
+
+
+
+((Le imprese che sono state certificate dall'ARERA come imprese che hanno rispettato le prescrizioni di cui all'articolo 19 o all'articolo 33-vicies quater, secondo la procedura di certificazione, sono approvate e designate dal Ministero dell'ambiente e della sicurezza energetica quali gestori delle reti di trasporto dell'idrogeno. La designazione dei gestori delle reti di trasporto dell'idrogeno e' notificata alla Commissione europea, ai fini della pubblicazione nella Gazzetta Ufficiale dell'Unione europea.))
+
+((Le imprese certificate di cui al comma 1 notificano all'ARERA tutte le transazioni previste che possano richiedere un riesame della loro osservanza delle prescrizioni di cui all'articolo 19 o all'articolo 33-vicies quater.))
+
+4.
+                        
+                            
+                                
+                                    ((L'ARERA vigila sulla costante osservanza delle disposizioni di cui all'articolo 19 e all'articolo 33-vicies quater da parte delle imprese certificate. Al fine di assicurare tale rispetto avvia una procedura di certificazione:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((quando riceve notifica dall'impresa certificata a norma del comma 3;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((di propria iniziativa, quando venga a conoscenza del fatto che la prevista modifica dei diritti o dell'influenza nei confronti delle imprese certificate o dei proprietari dei sistemi di trasporto dell'idrogeno rischia di concretare una violazione dell'articolo 19 o dell'articolo 33-vicies quater ovvero quando ha motivo di ritenere che tale violazione si sia gia' verificata; oppure))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((su richiesta motivata della Commissione europea.))
+
+((L'ARERA adotta una decisione in merito alla certificazione del gestore della rete di trasporto dell'idrogeno entro cento giorni lavorativi a decorrere dalla data della notificazione effettuata dal gestore stesso o dalla data della richiesta della Commissione europea. Decorso tale termine, la certificazione si intende accordata. La decisione espressa o tacita dell'ARERA acquista efficacia solo a seguito della conclusione della procedura di cui al comma 6.))
+
+((L'ARERA notifica tempestivamente alla Commissione europea la decisione espressa ovvero intervenuta per silenzio-assenso in merito alla certificazione, unitamente alle informazioni rilevanti per la decisione stessa, ai fini dell'articolo 14 del regolamento (UE) 2024/1789.))
+
+((L'ARERA puo' chiedere ai gestori delle reti di trasporto dell'idrogeno e alle imprese che esercitano attivita' di produzione o di fornitura di idrogeno le informazioni pertinenti ai fini dell'espletamento dei compiti ad esse conferiti dal presente articolo.))
+
+((L'ARERA garantisce la segretezza delle informazioni commercialmente sensibili.))
+
+## Art. 33-duodetricies. — (( (Certificazione in relazione ai paesi terzi).))
+
+
+
+((Il gestore della rete di trasporto dell'idrogeno notifica all'ARERA qualsiasi circostanza che abbia come risultato l'acquisizione del controllo, della rete di trasporto dell'idrogeno o del gestore della rete di trasporto dell'idrogeno da parte di un soggetto di un paese terzo.))
+
+3.
+                        
+                            
+                                
+                                    ((L'ARERA adotta un progetto di decisione relativa alla certificazione del gestore della rete di trasporto dell'idrogeno entro cento giorni lavorativi a decorrere dalla data della notifica effettuata dal gestore stesso. Essa rifiuta la certificazione se non e' stato dimostrato cumulativamente:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((che la persona fisica o giuridica interessata ottemperi agli obblighi di cui all'articolo 19 o all'articolo 33-vicies quater;)) 
+ b)((che il rilascio della certificazione non mettera' a rischio la sicurezza dell'approvvigionamento energetico o gli interessi essenziali nazionali e dell'Unione europea in materia di sicurezza; nell'esaminare la questione l'ARERA, sentito il Ministero dell'ambiente e della sicurezza energetica, tiene conto: 
+ 1) dei diritti e obblighi dell'Unione europea in relazione a tali paesi terzi che discendono dal diritto internazionale, incluso un accordo concluso con uno o piu' paesi terzi, di cui l'Unione europea e' parte e che tratta le questioni della sicurezza dell'approvvigionamento energetico; 
+ 2) dei diritti e obblighi in relazione a tale paese terzo che discendono da accordi conclusi con esso, nella misura in cui sono conformi al diritto dell'Unione europea; 
+ 3) della proprieta', della fornitura o di altri rapporti commerciali che potrebbero incidere negativamente sugli incentivi e sulla capacita' del proprietario della rete di trasporto dell'idrogeno o del gestore della rete di trasporto dell'idrogeno di consegnare idrogeno allo Stato o all'Unione europea; 
+ 4) di altri fatti e circostanze specifici del caso e del paese interessato.))
+
+((L'ARERA notifica tempestivamente la propria decisione preliminare alla Commissione europea, unitamente a tutte le informazioni rilevanti ai fini della decisione stessa.))
+
+5.
+                        
+                            
+                                
+                                    ((L'ARERA, prima di adottare una decisione relativa alla certificazione, chiede un parere alla Commissione europea in merito a:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((se la persona fisica o giuridica interessata ottemperi alle prescrizioni dei cui all'articolo 68;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((se il rilascio della certificazione metta a rischio la sicurezza dell'approvvigionamento energetico dell'Unione europea.))
+
+((L'ARERA trasmette alla Commissione europea la richiesta di parere di cui al comma 5. Il parere e' reso secondo i termini e le modalita' previsti dall'articolo 72 della direttiva (UE) 2024/1788.
+Qualora il parere non sia reso entro i termini previsti, si intende che non vi siano obiezioni alla decisione dell'ARERA.))
+
+((L'ARERA dispone di un termine di cinquanta giorni lavorativi dalla scadenza del periodo di cui al comma 6 per adottare la decisione definitiva relativa alla certificazione. Nell'adottare la decisione definitiva, l'ARERA tiene nella massima considerazione il parere della Commissione europea. In ogni caso resta fermo il diritto di rifiutare il rilascio della certificazione se questo mette a rischio la sicurezza dell'approvvigionamento energetico nazionale o la sicurezza dell'approvvigionamento energetico di un altro Stato membro. La decisione definitiva dell'ARERA e il parere della Commissione europea sono pubblicati congiuntamente. Qualora la decisione definitiva differisca dal parere della Commissione europea, e' resa pubblica, unitamente a detta decisione, la motivazione della stessa.))
+
+## Art. 33-undetricies. — (( (Designazione dei gestori di impianti di stoccaggio dell'idrogeno e terminali dell'idrogeno).))
+
+
+
+((L'ARERA vigila affinche' i gestori di cui al comma 1 operino nel rispetto dei principi di obiettivita', di trasparenza e di non discriminazione.))
+
+## Art. 33-tricies. — (( (Diritto di accesso alla contabilita').))
+
+
+
+((Le autorita' competenti di cui al comma 1 mantengono la riservatezza sulle informazioni commercialmente sensibili. La divulgazione di tali informazioni e' ammessa solo qualora sia necessario per consentire alle autorita' stesse di svolgere le proprie funzioni.))
+
+## Art. 33-triciessemel. — (( (Separazione della contabilita').))
+
+
+
+((Nella contabilita' interna, le imprese devono tenere conti separati per ciascuna attivita' di trasporto dell'idrogeno, distribuzione, terminale dell'idrogeno e stoccaggio di idrogeno come se ciascuna attivita' fosse svolta da imprese separate, al fine di evitare discriminazioni, sussidi incrociati tra settori e distorsioni della concorrenza. Gli attivi infrastrutturali delle imprese sono assegnati ai conti pertinenti e alla regulatory asset base separatamente per gli attivi di idrogeno e tale assegnazione e' resa trasparente. Le imprese tengono inoltre conti, che possono essere consolidati, per le altre attivita' non riguardanti, i terminali dell'idrogeno, lo stoccaggio di idrogeno o il trasporto dell'idrogeno. Nella contabilita' e' precisato il reddito proveniente dalla proprieta' della rete dell'idrogeno. Le imprese tengono eventualmente conti consolidati per altre attivita' non riguardanti il settore dell'idrogeno. La contabilita' interna comprende uno stato patrimoniale e un conto profitti e perdite per ciascuna attivita'. La separazione della contabilita' e' sottoposta a revisione conformemente alle norme di cui al comma 1 ed e' comunicata all'ARERA.))
+
+((La revisione contabile di cui al comma 1 verifica, in particolare, che sia rispettato l'obbligo di evitare le discriminazioni e i sussidi incrociati di cui al comma 2. Fatto salvo quanto previsto dall'articolo 5 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024, non devono verificarsi sussidi incrociati tra gli utenti del sistema del gas naturale e gli utenti della rete idrogeno.))
+
+((Le imprese specificano nella contabilita' interna le norme di ripartizione dell'attivo e del passivo e dei costi e dei ricavi, nonche' le norme di ammortamento, fatte salve le norme vigenti relative alla contabilita', applicate nella redazione dei conti separati di cui al comma 2. Tali norme interne possono essere modificate solo in casi eccezionali. Le modifiche sono notificate all'ARERA e debitamente motivate.))
+
+((Nell'allegato ai conti annuali le imprese devono indicare ogni operazione di rilevante entita' effettuata con imprese ad esse collegate.))
+
+## Art. 33-triciesbis. — (( (Designazione dell'autorita' di regolazione per l'idrogeno ai sensi della direttiva (UE) 2024/1788).))
+
+
+
+((In ragione delle competenze attribuite all'ARERA ai sensi del comma 1, la pianta organica dell'Autorita' medesima e' incrementata di dodici unita' di ruolo, appartenenti alla carriera dei funzionari FIII livello base, da assumere in conformita' a quanto previsto dall'articolo 22 del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114, anche in deroga all'articolo 1, comma 829, della legge 30 dicembre 2024, n. 207, fermo restando quanto previsto all'articolo 1, comma 834, della medesima legge n. 207 del 2024.))
+
+((Agli oneri derivanti dal comma 2, pari a euro 646.692 per l'anno 2026, a euro 1.293.384 per l'anno 2027, a euro 1.329.306 per l'anno 2028, a euro 1.366.305 per l'anno 2029, a euro 1.404.414 per l'anno 2030, a euro 1.443.667 per l'anno 2031, a euro 1.484.097 per l'anno 2032, a euro 1.525.739 per l'anno 2033, a euro 1.568.632 per l'anno 2034, a euro 1.612.811 per l'anno 2035 e ad euro 1.658.315 annui a decorrere dall'anno 2036, si provvede a valere sul bilancio di ARERA anche ai sensi di quanto previsto dal comma 4.))
+
+((Il contributo di cui all'articolo 2, comma 38, lettera b), della legge 14 novembre 1995, n. 481, e all'articolo 1, comma 68-bis, della legge 23 dicembre 2005, n. 266, e' posto anche a carico dei soggetti operanti nel settore dell'idrogeno, per un importo non superiore all'1 per mille dei ricavi dell'ultimo esercizio di ciascuno dei medesimi soggetti.))
+
+## Art. 33-triciester. — (( (Applicazione della disciplina dell'autorita' di regolazione al settore dell'idrogeno).))
+
+
+
+((Le disposizioni di cui al comma 1 si applicano ai gestori delle reti di trasporto e di distribuzione dell'idrogeno, ai gestori degli impianti di stoccaggio dell'idrogeno e ai gestori dei terminali dell'idrogeno.))
+
+((L'ARERA, nell'esercizio dei poteri di cui al titolo IV, puo' adottare atti di regolazione e provvedimenti attuativi volti a disciplinare le modalita' di applicazione delle predette disposizioni al settore dell'idrogeno, tenendo conto delle relative specificita' tecniche, economiche e infrastrutturali.))
+
+((Fermo restando quanto previsto dal titolo IV, i compiti e le competenze dell'ARERA sono integrati come stabilito dall'articolo 33-tricies quater.))
+
+## Art. 33-triciesquater. — (( (Ulteriori compiti e competenze dell'autorita' di regolazione).))
+
+1.
+                        
+                            
+                                
+                                    ((Fatto salvo quanto disposto dal titolo IV, i compiti e le competenze dell'ARERA sono integrati come segue:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((stabilire o approvare, in base a criteri trasparenti, le tariffe di accesso alla rete dell'idrogeno e le rispettive metodologie di calcolo;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((tenere conto dell'esame e della valutazione dei piani di sviluppo dell'infrastruttura di trasporto dell'idrogeno presentati dai gestori delle reti dell'idrogeno a norma degli articoli 16 e 33-vicies semel, nell'approvare gli oneri specifici ai sensi dell'articolo 5 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((vigilare sull'applicazione delle norme che disciplinano funzioni e responsabilita' dei gestori dei sistemi di trasporto, dei gestori dei sistemi di distribuzione, dei gestori delle reti dell'idrogeno, dei fornitori, dei clienti e di altri partecipanti al mercato a norma del regolamento (UE) 2024/1789;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((approvare e modificare i piani di sviluppo della rete di cui agli articoli 16 e 16-bis;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((procedere all'esame e, ove opportuno, chiedere modifiche del piano di sviluppo della rete di distribuzione dell'idrogeno di cui all'articolo 33-vicies semel, comma 4.))
+
+((Pur mantenendo la propria autonomia, fatte salve le proprie competenze specifiche e in conformita' ai principi in materia di miglioramento della regolamentazione, l'ARERA si consulta, ove opportuno, con i gestori delle reti dell'idrogeno e, se del caso, coopera strettamente nello svolgimento dei compiti di cui al comma 1 con altre autorita' nazionali pertinenti.))
+
+3.
+                        
+                            
+                                
+                                    ((Oltre ai compiti ad essa conferiti dalla normativa vigente, qualora sia stato designato un gestore di sistema indipendente o un gestore della rete di trasporto dell'idrogeno indipendente a norma dall'articolo 17 o dell'articolo 33-vicies quater, l'ARERA:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((controlla l'osservanza, da parte del proprietario del sistema di trasporto e del gestore di sistema indipendente o del proprietario della rete di trasporto dell'idrogeno e del gestore della rete di trasporto dell'idrogeno indipendente, degli obblighi che ad essi incombono a norma del presente decreto e irroga sanzioni in caso di inosservanza di tali obblighi;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((controlla le relazioni e le comunicazioni tra il gestore di sistema indipendente e il proprietario del sistema di trasporto o tra il proprietario della rete di trasporto dell'idrogeno e il gestore della rete di trasporto dell'idrogeno indipendente in modo da assicurare che il gestore di sistema indipendente o il gestore della rete di trasporto dell'idrogeno indipendente ottemperi agli obblighi che ad esso incombono e, in particolare, approva i contratti e agisce in qualita' di organo per la risoluzione delle controversie sorte tra il gestore di sistema indipendente e il proprietario del sistema di trasporto o tra il proprietario della rete di trasporto dell'idrogeno e il gestore della rete di trasporto dell'idrogeno indipendente in seguito a eventuali reclami presentati da uno di essi ai sensi dell'articolo 44, comma 2;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((fatto salvo quanto previsto dall'articolo 17, comma 2, per il primo piano decennale di sviluppo della rete, approva la programmazione degli investimenti e il piano pluriennale di sviluppo della rete presentato annualmente dal gestore di sistema indipendente o dal gestore della rete di trasporto dell'idrogeno indipendente)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((provvede affinche' le tariffe per l'accesso alla rete riscosse dal gestore di sistema indipendente o dal gestore della rete dell'idrogeno indipendente comprendano un corrispettivo per il proprietario della rete o per i proprietari della rete che consenta un compenso adeguato all'utilizzo degli attivi della rete e di eventuali nuovi investimenti in essa effettuati, purche' sostenuti secondo principi di economia ed efficienza;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((esercita poteri ispettivi, anche senza preavviso, presso i locali del proprietario del sistema di trasporto e del gestore di sistema indipendente o del proprietario della rete di trasporto dell'idrogeno e del gestore della rete di trasporto dell'idrogeno indipendente.))
+
+((All'ARERA e' conferito il potere di adottare decisioni vincolanti per le imprese di idrogeno.))
+
+5.
+                        
+                            
+                                
+                                    ((Oltre ai compiti e alle competenze ad essa conferiti dalla normativa vigente, qualora sia stato designato un gestore di trasporto indipendente o un gestore della rete di trasporto dell'idrogeno integrato a norma degli articoli 11 e 15, all'ARERA sono conferiti i seguenti poteri:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((irrogare sanzioni per comportamenti discriminatori a favore dell'impresa verticalmente integrata;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((controllare le comunicazioni tra il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno integrato e l'impresa verticalmente integrata in modo da assicurare che il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno integrato ottemperi agli obblighi ad esso incombenti;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((agire in qualita' di organo di risoluzione delle controversie sorte tra l'impresa verticalmente integrata e il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno integrato in seguito a eventuali reclami presentati dagli stessi;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((controllare le relazioni commerciali e finanziarie, compresi i prestiti, tra l'impresa verticalmente integrata e il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno integrato;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((approvare gli accordi commerciali e finanziari tra l'impresa verticalmente integrata e il gestore del sistema di trasporto o il gestore della rete di trasporto dell'idrogeno integrato, verificando che siano conformi alle condizioni di mercato;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((richiedere all'impresa verticalmente integrata, in caso di notifica da parte del responsabile della conformita' a norma dell'articolo 15, comma 4, ogni informazione necessaria, ivi inclusa la prova che non si sono verificati comportamenti discriminatori a favore dell'impresa verticalmente integrata;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((esercitare poteri ispettivi, anche senza preavviso, presso i locali dell'impresa verticalmente integrata e del gestore del sistema di trasporto o del gestore della rete di trasporto dell'idrogeno integrato;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((attribuire, in tutto o in parte, i compiti specifici del gestore del sistema di trasporto o del gestore della rete di trasporto dell'idrogeno integrato a un gestore di sistema indipendente o a un gestore della rete di trasporto dell'idrogeno indipendente designato a norma dell'articolo 33-vicies quater in caso di reiterata violazione, da parte del gestore del sistema di trasporto o del gestore della rete dell'idrogeno integrato, degli obblighi gravanti su di esso a norma del presente decreto, in particolare in caso di comportamenti discriminatori ripetuti a favore dell'impresa verticalmente integrata.))
+
+((L'ARERA ha il compito di fissare o approvare, con sufficiente anticipo rispetto alla loro entrata in vigore, quantomeno le metodologie usate per calcolare o stabilire le condizioni per determinare la connessione e l'accesso alle reti nazionali dell'idrogeno, comprese le tariffe di rete dell'idrogeno, ove opportuno, e le condizioni e le tariffe per l'accesso allo stoccaggio di idrogeno e ai terminali dell'idrogeno.))
+
+## Art. 33-triciesquinquies. — (( (Accordi tecnici relativi all'esercizio delle linee di condotte per l'idrogeno da e verso paesi terzi).))
+
+
 
 ## - Titolo III MERCATO DELL'ENERGIA ELETTRICA
 
@@ -1500,14 +3068,15 @@ Le politiche di comunicazione e di marchio relative all'attivita' di vendita ai 
 1.
                         
                             
-                                Nel quadro dei compiti e delle funzioni attribuiti dalla vigente normativa, l'Autorita' per l'energia elettrica e il gas adotta tutte le misure ragionevoli e idonee al perseguimento delle seguenti finalita', che integrano quelle previste dalla legge 14 novembre 1995, n. 481: 
+                                Nel quadro dei compiti e delle funzioni attribuiti dalla vigente normativa, l'Autorita' per l'energia elettrica e il gas adotta tutte le misure ragionevoli e idonee al perseguimento delle seguenti finalita', che integrano quelle previste dalla legge 14 novembre 1995, n. 481 ((, in stretta consultazione con le altre autorita' nazionali competenti, inclusa l'Autorita' garante della concorrenza e del mercato e, se del caso, le pertinenti autorita' degli Stati membri limitrofi e dei paesi limitrofi, fatte salve le rispettive competenze)): 
  
                             
                             
                                 a)
                                 
-                                    promuovere, in stretta cooperazione con l'Agenzia per la cooperazione fra i regolatori nazionali dell'energia - ACER, con le autorita' di regolamentazione degli altri Stati membri e con la Commissione europea, mercatiinterni dell'energia elettrica e del gas naturale concorrenziali, ((flessibili,)) sicuri e ecologicamente sostenibili, nonche' l'efficaceapertura del mercato per tutti i clienti e i fornitori dell'Unione europea; 
-
+                                    
+                                        ((promuovere, in stretta cooperazione con l'Agenzia per la cooperazione fra i regolatori nazionali dell'energia - ACER, con le autorita' di regolamentazione degli altri Stati membri e con la Commissione europea, mercati interni dell'energia elettrica e del gas naturale, dei gas rinnovabili, dei gas a basse emissioni di carbonio e dell'idrogeno concorrenziali, flessibili, sicuri e ecologicamente sostenibili nell'Unione europea, nonche' l'efficace apertura del mercato per tutti i clienti e i fornitori dell'Unione europea, oltre a garantire condizioni appropriate per il funzionamento efficace e affidabile delle reti del gas naturale e dell'idrogeno e far avanzare l'integrazione del sistema energetico, tenendo conto degli obiettivi a lungo termine e contribuendo in tal modo all'applicazione coerente, efficiente ed efficace del diritto dell'Unione europea al fine di conseguire gli obiettivi dell'Unione europea in materia di clima ed energia;))
+                                    
                                 
                             
                             
@@ -1520,7 +3089,9 @@ Le politiche di comunicazione e di marchio relative all'attivita' di vendita ai 
                             
                                 a-ter)
                                 
-                                    eliminare le restrizioni agli scambi di energia elettrica tra gli Stati membri e sviluppare adeguate capacita' di trasmissione transfrontaliere, per soddisfare la domanda e migliorare l'integrazione dei mercati nazionali, nonche' al fine di agevolare la circolazione dell'energia elettrica all'interno dell'Unione europea;
+                                    
+                                        ((eliminare le restrizioni agli scambi di energia elettrica, gas naturale e idrogeno tra gli Stati membri, gas naturale e idrogeno e sviluppare adeguate capacita' di trasmissione transfrontaliere, per soddisfare la domanda e migliorare l'integrazione dei mercati nazionali, nonche' al fine di agevolare la circolazione dell'energia elettrica all'interno dell'Unione europea;))
+                                    
                                 
                             
                             
@@ -1533,27 +3104,30 @@ Le politiche di comunicazione e di marchio relative all'attivita' di vendita ai 
                             
                                 c)
                                 
-                                    contribuire a conseguire, nel modo piu' efficace sotto il profilo dei costi, lo sviluppo di sistemi non discriminatori sicuri, affidabili ed efficienti orientati al consumatore e promuovere l'adeguatezza dei sistemi e, in linea con gli obiettivi generali in materia di politica energetica, l'efficienza energetica nonche' l'integrazione della produzione su larga scala e su scala ridotta di energia elettrica e di gas da fonti di energia rinnovabili e la produzione decentrata nelle reti di trasporto, di trasmissione e di distribuzione; 
-
+                                    
+                                        ((contribuire a conseguire, nel modo piu' efficace sotto il profilo dei costi e tenendo conto del principio "l'efficienza energetica al primo posto", lo sviluppo di sistemi non discriminatori sicuri, affidabili ed efficienti orientati al consumatore e promuovere l'adeguatezza dei sistemi e, in linea con agli obiettivi generali in materia di politica energetica e climatica, l'efficienza energetica nonche' l'integrazione della produzione su larga scala e su scala ridotta di energia elettrica e di gas da fonti rinnovabili e la produzione decentrata nelle reti di trasporto, di trasmissione e distribuzione, agevolandone il funzionamento in relazione ad altre reti energetiche dell'energia elettrica e del riscaldamento;))
+                                    
                                 
                             
                             
                                 d)
                                 
-                                    agevolare l'accesso alla rete di nuova capacita' di generazione, in particolare eliminando gli ostacoli che potrebbero impedire l'accesso di nuovi operatori del mercato e l'immissione dell'energia elettrica e del gas da fonti di rinnovabili; 
-
+                                    
+                                        ((agevolare la connessione e l'accesso alla rete di nuove capacita' di produzione e di generazione, in particolare eliminando gli ostacoli che potrebbero impedire la connessione e l'accesso di nuovi operatori nei mercati e l'immissione dell'energia elettrica e del gas e idrogeno da fonti di rinnovabili;))
+                                    
                                 
                             
                             
                                 d-bis)
                                 
-                                    assicurare che ai gestori e agli utenti dei sistemi di distribuzione e di trasmissione dell'energia elettrica siano offerti incentivi adeguati, a breve e a lungo termine, per migliorare l'efficienza, e soprattutto l'efficienza energetica, delle prestazioni dei sistemi, promuovendo l'integrazione dei mercati;
+                                    assicurare che ai gestori e agli utenti dei sistemi di distribuzione e di trasmissione dell'energia elettrica ((, del gas e idrogeno da fonti rinnovabili)) siano offerti incentivi adeguati, a breve e a lungo termine, per migliorare l'efficienza, e soprattutto l'efficienza energetica, delle prestazioni dei sistemi, promuovendo l'integrazione dei mercati; 
+
                                 
                             
                             
                                 e)
                                 
-                                    provvedere affinche' i clienti beneficino del funzionamento efficiente del mercato nazionale, promuovere una concorrenza effettiva e contribuire a garantire la tutela dei consumatori; 
+                                    provvedere affinche' i clienti beneficino del funzionamento efficiente del mercato nazionale, promuovere una concorrenza effettiva e contribuire a garantire la tutela dei consumatori((in stretto coordinamento con le pertinenti autorita' di tutela dei consumatori e in consultazione con i pertinenti organismi dei consumatori)); 
 
                                 
                             
@@ -1582,22 +3156,23 @@ Ferme restando le competenze attribuite all'Autorita' per l'energia elettrica e 
                             
                                 a)
                                 
-                                    l'applicazione effettiva, da parte degli esercenti i servizi, delle misure di tutela dei consumatori, incluse quelle indicate all'Allegato I delle direttive 2009/72/CE e 2009/73/CE; 
+                                    l'applicazione effettiva, da parte degli esercenti i servizi, delle misure di tutela dei consumatori, incluse quelle indicate all'Allegato I ((alla direttiva 2009/72/CE e alla direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024, in particolare, valutando l'esistenza di ostacoli che impediscano ai clienti di esercitare i loro diritti, quali il cambio di fornitore, la risoluzione del contratto e l'accesso a meccanismi di risoluzione extragiudiziale delle controversie)); 
 
                                 
                             
                             
                                 b)
                                 
-                                    l'accesso ai dati del consumo dei clienti, la messa a disposizione di un formato armonizzato facilmente comprensibile per i dati relativi ai consumi e il rapido accesso di tutti i clienti ai dati di cui al paragrafo 1, lettera h), dell'Allegato I delle direttive 2009/72/CE e 2009/73/CE; 
+                                    l'accesso ai dati del consumo dei clienti, la messa a disposizione di un formato armonizzato facilmente comprensibile per i dati relativi ai consumi e il rapido accesso di tutti i clienti ai dati di cui al paragrafo 1, lettera h), dell'Allegato I ((alla direttiva 2009/72/CE e alla direttiva (UE) 2024/1788)); 
 
                                 
                             
                             
                                 c)
                                 
-                                    garantisce che i gestori dei sistemi di trasmissione e i gestori dei sistemi di distribuzione e, se necessario, i proprietari dei rispettivi sistemi, nonche' qualsiasi impresa elettrica o di gas naturale o altro partecipante al mercato dell'energia, ottemperino agli obblighi che ad essi incombono ai sensi del presente decreto e della legislazione nazionale vigente, dei regolamenti (UE) 2019/943 e 2009/715, dei codici di rete e degli orientamenti adottati a norma degli articoli 58, 60 e 61 del regolamento (UE) 2019/943, nonche' di tutte le altre disposizioni di diritto dell'Unione europea, anche per quanto riguarda le questioni transfrontaliere, nonche' in forza delle decisioni dell'Agenzia per la cooperazione tra i regolatori nazionali dell'energia (ACER); 
-
+                                    
+                                        ((garantisce che i gestori dei sistemi di trasmissione e i gestori dei sistemi di distribuzione e, se necessario, i proprietari dei rispettivi sistemi e i gestori delle reti dell'idrogeno, nonche' qualsiasi impresa elettrica o di gas naturale o altro partecipante al mercato dell'energia, ottemperino agli obblighi che ad essi incombono ai sensi della normativa nazionale vigente, dei regolamenti (UE) 2024/1789 e 2019/943 e del regolamento (CE) n. 715/2009/, dei codici di rete e degli orientamenti adottati a norma degli articoli 58, 60 e 61 del regolamento (UE) 2019/943 e degli articoli 70, 71 e 72 del regolamento (UE) 2024/1789, del regolamento (UE) 2017/1938, nonche' di tutte le altre disposizioni di diritto dell'Unione europea, anche per quanto riguarda le questioni transfrontaliere, nonche' in forza delle decisioni dell'Agenzia per la cooperazione tra i regolatori nazionali dell'energia (ACER);))
+                                    
                                 
                             
                             
@@ -1611,21 +3186,22 @@ Ferme restando le competenze attribuite all'Autorita' per l'energia elettrica e 
                                 c-ter)
                                 
                                     
-                                        ((in stretto coordinamento con le altre autorita' di regolazione, garantisce che la piattaforma unica di allocazione istituita a norma del regolamento (UE) 2016/1719 della Commissione, del 26 settembre 2016, l'European network of transmission system operators for electricity (ENTSO-E) e l'European entity for distribution system operators (EU DSO) ottemperino agli obblighi che ad essi incombono alla stregua delle pertinenti disposizioni di diritto dell'Unione europea e della normativa nazionale di recepimento e attuazione, anche per quanto riguarda le questioni transfrontaliere, nonche' delle decisioni dell'ACER;))
+                                        ((in stretto coordinamento con le altre autorita' di regolazione nazionali, garantisce che la rete europea dei gestori dei sistemi di trasmissione per l'energia elettrica (ENTSO-E), il gas (ENTSO-G), l'idrogeno (ENNOH) e l'ente europeo dei gestori dei sistemi di distribuzione dell'UE (EU DSO) ottemperino agli obblighi che ad essi incombono alla stregua della normativa nazionale vigente, del regolamento (UE) 2024/1789, dei codici di rete e degli orientamenti adottati a norma degli articoli da 70 a 74 del regolamento (UE) 2024/1789 e delle pertinenti disposizioni di diritto dell'Unione europea, anche per quanto riguarda le questioni transfrontaliere, nonche' in forza delle decisioni assunte dall'ACER;))
                                     
                                 
                             
                             
                                 c-quater)
                                 
-                                    individua, congiuntamente alle altre autorita' di regolazione europee, l'inadempimento da parte ((della piattaforma unica di allocazione,)) dell'ENTSO-E e dell'EU DSO ai rispettivi obblighi, tenuto conto che, ove le autorita' di regolazione non siano in grado di raggiungere un accordo, la questione e' deferita alla decisione dell'ACER, a norma dell'articolo 6, paragrafo 10, del regolamento (UE) 2019/942; 
-
+                                    
+                                        ((individua congiuntamente alle altre autorita' di regolazione europee l'inadempimento, da parte dell'ENTSO-E, di ENTSOG, dell'EU DSO e dell'ENNOH, dei rispettivi obblighi, tenuto conto che se le autorita' di regolazione non sono in grado di raggiungere un accordo entro un termine di quattro mesi dall'inizio delle consultazioni al fine di individuare congiuntamente l'inadempimento, la questione e' deferita all'ACER per una decisione, a norma dell'articolo 6, paragrafo 10, del regolamento (UE) 2019/942;))
+                                    
                                 
                             
                             
                                 c-quinquies)
                                 
-                                    disciplina l'applicazione dei codici di rete e degli orientamenti adottati a norma degli articoli 58, 60 e 61 del regolamento (UE) 2019/943, mediante misure nazionali o, se richiesto, adottando misure coordinate a livello regionale o di Unione europea; 
+                                    disciplina l'applicazione dei codici di rete e degli orientamenti adottati a norma degli articoli ((70 a 74 del regolamento (UE) 2024/1789)), mediante misure nazionali o, se richiesto, adottando misure coordinate a livello regionale o di Unione europea; 
 
                                 
                             
@@ -1672,24 +3248,85 @@ Ferme restando le competenze attribuite all'Autorita' per l'energia elettrica e 
                             
                                 c-undecies)
                                 
-                                    
-                                        ((monitora l'eliminazione degli ostacoli e delle restrizioni ingiustificati allo sviluppo del consumo di energia elettrica autoprodotta, della condivisione dell'energia, delle comunita' di energia rinnovabile e delle comunita' energetiche dei cittadini, compresi gli ostacoli e le restrizioni che impediscono la connessione di sistemi di generazione dell'energia distribuita flessibili entro un termine ragionevole;))
-                                    
+                                    monitora l'eliminazione degli ostacoli e delle restrizioni ingiustificati allo sviluppo del consumo di energia elettrica autoprodotta, della condivisione dell'energia, delle comunita' di energia rinnovabile e delle comunita' energetiche dei cittadini, compresi gli ostacoli e le restrizioni che impediscono la connessione di sistemi di generazione dell'energia distribuita flessibili entro un termine ragionevole; 
+
                                 
                             
                             
                                 c-duodecies)
                                 
-                                    assicura che ai gestori dei sistemi e agli utenti del sistema siano offerti incentivi adeguati per migliorare l'efficienza energetica delle prestazioni del sistema e promuovere l'integrazione del mercato.» 
-
+                                    
+                                        ((assicura che ai gestori dei sistemi, compresi i gestori delle reti dell'idrogeno, e agli utenti del sistema siano offerti incentivi adeguati per migliorare l'efficienza energetica delle prestazioni del sistema e promuovere l'integrazione del mercato e la sicurezza dell'approvvigionamento e sostenere le attivita' di ricerca correlate;))
+                                    
                                 
                             
                             
                                 c-terdecies)
                                 
-                                    pubblica e aggiorna con continuita' le previsioni di fabbisogno di medio e lungo termine relative alle tariffe applicate agli utenti di energia elettrica e gas, con particolare riguardo agli oneri di rete e di dispacciamento.
+                                    pubblica e aggiorna con continuita' le previsioni di fabbisogno di medio e lungo termine relative alle tariffe applicate agli utenti di energia elettrica e gas, con particolare riguardo agli oneri di rete e di dispacciamento. 
+
+                                
+                            
+                            
+                                c-quaterdecies)
+                                
+                                    
+                                        ((garantisce un processo aperto, trasparente, efficace ed inclusivo per predisporre il piano nazionale di sviluppo della rete in linea con le prescrizioni dell'articolo 55 della direttiva (UE) 2027/1788 il piano di sviluppo della rete di distribuzione dell'idrogeno in linea con le prescrizioni dell'articolo 56 e, se del caso, il piano di dismissione della rete in linea con le prescrizioni dell'articolo 57 della medesima direttiva;))
+                                    
+                                
+                            
+                            
+                                c-quinquiesdecies)
+                                
+                                    
+                                        ((approva e modifica i piani di sviluppo della rete di cui all'articolo 55 e, se del caso, all'articolo 57 della direttiva (UE) 2024/1788;))
+                                    
+                                
+                            
+                            
+                                c-sexiesdecies)
+                                
+                                    
+                                        ((procede all'esame e, se del caso, chiede modifiche del piano di sviluppo della rete di distribuzione dell'idrogeno di cui all'articolo 56, paragrafo 4, della direttiva (UE) 2024/1788;))
+                                    
+                                
+                            
+                            
+                                c-septiesdecies)
+                                
+                                    
+                                        ((definisce gli orientamenti di cui all'articolo 57, paragrafo 6, della direttiva (UE) 2024/1788 che forniscono criteri e metodologie per un approccio strutturale alla dismissione di parti della rete di distribuzione del gas naturale, tenendo conto dei costi di dismissione e del caso specifico degli attivi che potrebbero comportare la dismissione prima della fine del loro ciclo di vita originariamente previsto, nonche' fornire orientamenti per quanto riguarda la fissazione delle tariffe in tali casi;))
+                                    
+                                
+                            
+                            
+                                c-duodevicies)
+                                
+                                    
+                                        ((monitora l'eliminazione degli ostacoli e delle restrizioni ingiustificati allo sviluppo del consumo di gas naturale rinnovabile autoprodotto;))
+                                    
+                                
+                            
+                            
+                                c-undevicies)
+                                
+                                    
+                                        ((svolge qualsiasi altro compito conferito a norma della direttiva (UE) 2024/1788 e del regolamento (UE) 2024/1789;))
+                                    
+                                
+                            
+                            
+                                c-vicies)
+                                
+                                    
+                                        ((esercita i poteri seguenti: 
+ 1) fissa e approva, con sufficiente anticipo rispetto alla loro entrata in vigore, quantomeno le metodologie usate per calcolare o stabilire le condizioni per la prestazione di servizi di bilanciamento, che devono essere svolti nel modo piu' economico, fornisce incentivi adeguati agli utenti della rete per bilanciare l'immissione e il prelievo di energia, in modo equo e non discriminatorio, e basarsi su criteri obiettivi; 
+ 2) approva e monitora gli oneri specifici ai sensi dell'articolo 5 del regolamento (UE) 2024/1789;)) 
+ c-vicies semel) ((controlla la gestione della congestione all'interno delle reti di trasporto e delle reti di trasporto dell'idrogeno nazionali, compresi gli interconnettori e gli interconnettori di idrogeno, e l'attuazione delle norme di gestione della congestione. A tal fine, i gestori dei sistemi di trasporto, i gestori delle reti di trasporto dell'idrogeno o gli operatori di mercato presentano all'autorita' le loro procedure di gestione della congestione, inclusa l'allocazione della capacita', che se del caso puo' chiedere la modifica di tali regole.))
 
 In attuazione dell'allegato I, punto 1, lettera j), della direttiva 2009/72/CE e della direttiva 2009/73/CE, i consumatori ricevono un conguaglio definitivo a seguito di un eventuale cambio del fornitore di energia elettrica o di gas naturale non oltre sei settimane dopo aver effettuato il cambio di fornitore.
+
+((L'Autorita' approva gli scenari comuni per il piano decennale comune di sviluppo della rete del gas e dell'idrogeno conformemente all'articolo 55, paragrafo 2, lettera f), della direttiva (UE) 2024/1788.))
 
 3.
                         
@@ -1700,7 +3337,7 @@ In attuazione dell'allegato I, punto 1, lettera j), della direttiva 2009/72/CE e
                             
                                 a)
                                 
-                                    sui programmi di investimento dei gestori dei sistemi di trasmissione e dei gestori dei sistemi di trasporto; 
+                                    sui programmi di investimento dei gestori dei sistemi di trasmissione e dei gestori dei sistemi di trasporto((e dei gestori delle reti di trasporto dell'idrogeno, e fornisce, nella relazione annuale, un'analisi dei programmi di investimento dei gestori dei sistemi di trasporto e dei gestori delle reti di trasporto dell'idrogeno sotto il profilo della loro conformita' con i piani di sviluppo della rete a livello dell'Unione europea di cui agli articoli 32 e 60 del regolamento (UE) 2024/1789, comprendente le raccomandazioni per la modifica di tali programmi di investimento)); 
 
                                 
                             
@@ -1714,7 +3351,15 @@ In attuazione dell'allegato I, punto 1, lettera j), della direttiva 2009/72/CE e
                             
                                 c)
                                 
-                                    sull'applicazione, da parte degli operatori, delle misure di salvaguardia adottate dal Ministero dello sviluppo economico di cui all'articolo 42 della direttiva 2009/72/CE e di cui all'articolo 46 della direttiva 2009/73/CE.
+                                    sull'applicazione, da parte degli operatori, delle misure di salvaguardia adottate dal Ministero dello sviluppo economico di cui all'articolo 42 della direttiva 2009/72/CE e di cui all'articolo 46 della direttiva 2009/73/CE; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((sul tempo impiegato dai gestori dei sistemi di trasporto e distribuzione del gas naturale o dai gestori delle reti dell'idrogeno per effettuare connessioni e riparazioni, comprese le richieste di connessione alla rete da parte degli impianti di produzione di biometano.))
 
 4.
                         
@@ -1725,25 +3370,60 @@ In attuazione dell'allegato I, punto 1, lettera j), della direttiva 2009/72/CE e
                             
                                 a)
                                 
-                                    il grado e l'efficacia di apertura dei mercati all'ingrosso e al dettaglio, compresi le borse dell'energia elettrica e del gas naturale, i prezzi fatturati ai clienti civili inclusi i sistemi di prepagamento e gli anticipi, la percentuale dei clienti che cambiano fornitore, la percentuale delle disattivazioni, le spese per i servizi di manutenzione e per la loro esecuzione; 
-
+                                    
+                                        ((il grado e l'efficacia di apertura dei mercati all'ingrosso e al dettaglio, compresi le borse dell'energia elettrica e del gas naturale e dell'idrogeno, i prezzi fatturati ai clienti civili inclusi i sistemi di prepagamento e gli anticipi, la percentuale dei clienti che cambiano fornitore, la percentuale delle disattivazioni, le spese per i servizi di manutenzione e per la loro esecuzione; la trasparenza delle offerte, le impennate dei prezzi e il loro impatto sui prezzi al dettaglio e al consumo, il rapporto tra i prezzi per i clienti civili e i prezzi all'ingrosso, i reclami dei clienti civili e le eventuali distorsioni o restrizioni della concorrenza, comunicando in particolare ogni informazione pertinente all'attenzione delle autorita' garanti della concorrenza e deferendo alle stesse tutti i casi che essa ritenga di loro competenza, in particolare per quanto riguarda i clienti vulnerabili e i clienti in condizioni di poverta' energetica;))
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    la sussistenza di pratiche contrattuali restrittive, comprese le clausole di esclusiva, che possono impedire ai grandi clienti non civili di impegnarsi simultaneamente con piu' di un fornitore o limitare la loro scelta in tal senso; 
+                                    la sussistenza di pratiche contrattuali restrittive, comprese le clausole di esclusiva, che possono impedire ai grandi clienti non civili di impegnarsi simultaneamente con piu' di un fornitore o limitare la loro scelta in tal senso((, e, se del caso, informare l'Autorita' garante della concorrenza e del mercato (AGCM) in merito a tali pratiche)); 
 
                                 
                             
                             
                                 c)
                                 
-                                    la cooperazione tecnica tra operatori dei sistemi di trasmissione degli Stati membri dell'Unione europea, nonche' dei Paesi terzi.
+                                    la cooperazione tecnica tra operatori dei sistemi di trasmissione degli Stati membri dell'Unione europea, nonche' dei Paesi terzi; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((l'evoluzione della qualita' del gas e della relativa gestione a opera dei gestori dei sistemi di trasporto e, se del caso, dei gestori dei sistemi di distribuzione, ivi compreso il monitoraggio dell'andamento dei costi connessi alla gestione della qualita' del gas a opera dei gestori dei sistemi e gli sviluppi legati alla miscelazione e alla demiscelazione di idrogeno nel sistema del gas naturale a opera dei gestori dei sistemi di stoccaggio del gas naturale e dei gestori degli impianti GNL;))
+                                    
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    
+                                        ((l'evoluzione della qualita' dell'idrogeno e della relativa gestione a opera dei gestori delle reti dell'idrogeno, se del caso, come previsto all'articolo 50, ivi compreso il monitoraggio dell'andamento dei costi connessi alla gestione della qualita' dell'idrogeno;))
+                                    
+                                
+                            
+                            
+                                c-quater)
+                                
+                                    
+                                        ((affinche' sia rispettata la liberta' contrattuale per quanto concerne i contratti a lungo termine, a condizione che siano conformi al diritto dell'Unione europea, siano coerenti con le politiche dell'Unione europea e contribuiscano al conseguimento degli obiettivi di decarbonizzazione, purche' per la fornitura di gas di origine fossile non soggetto ad abbattimento non siano stipulati contratti a lungo termine la cui durata si protragga oltre il 31 dicembre 2049;))
+                                    
+                                
+                            
+                            
+                                c-quinquies)
+                                
+                                    
+                                        ((sul livello di trasparenza, anche dei prezzi all'ingrosso, e garantisce l'osservanza, da parte delle imprese di gas naturale e di idrogeno, degli obblighi in materia di trasparenza.))
 
 Nelle ipotesi in cui la legge prevede un potere dell'ARERA di verificare le tariffe ovvero le metodologie di calcolo delle tariffe richieste dal gestore della distribuzione ovvero dal gestore della rete di trasmissione nazionale, la medesima Autorita' puo' fissare, in caso di ritardo, tariffe o metodologie provvisorie, pubblicandole sul proprio sito web e prevedendo misure compensatorie nell'ipotesi in cui le tariffe ovvero le metodologie definitivamente stabilite dal gestore della distribuzione o della trasmissione si discostino da quelle stabilite in via provvisoria.
 
-Al fine dell'efficace svolgimento dei propri compiti, ivi compresi quelli operativi, ispettivi, di vigilanza e monitoraggio, l'Autorita' per l'energia elettrica e il gas puo' effettuare indagini sul funzionamento dei mercati dell'energia elettrica e del gas naturale, nonche' adottare e imporre i provvedimenti opportuni, necessari e proporzionati per promuovere una concorrenza effettiva e garantire il buon funzionamento dei mercati. In funzione della promozione della concorrenza, l'Autorita' puo' in particolare adottare misure temporanee di regolazione asimmetrica.
+((L'ARERA provvede affinche' siano esclusi i sussidi incrociati fra attivita' di trasporto, distribuzione, trasporto dell'idrogeno, stoccaggio di gas naturale e idrogeno, terminali di idrogeno e GNL e fornitura di gas naturale e idrogeno, fermo restando l'articolo 5, paragrafo 2, del regolamento (UE) 2024/1789)).
+
+Al fine dell'efficace svolgimento dei propri compiti, ivi compresi quelli operativi, ispettivi, di vigilanza e monitoraggio, l' ((ARERA puo' effettuare indagini sul funzionamento dei mercati dell'energia elettrica, del gas naturale e dell'idrogeno)), nonche' adottare e imporre i provvedimenti opportuni, necessari e proporzionati per promuovere una concorrenza effettiva e garantire il buon funzionamento dei mercati. In funzione della promozione della concorrenza, l'Autorita' puo' in particolare adottare misure temporanee di regolazione asimmetrica.
 
 L'Autorita' per l'energia elettrica e il gas trasmette alle Autorita' di regolazione competenti degli Stati membri dell'Unione europea, all'ACER e alla Commissione europea la relazione annuale di cui all'articolo 2, comma 12, lettera i), della legge 14 novembre 1995, n. 481. Nella relazione annuale medesima, l'Autorita' per l'energia elettrica e il gas, oltre a descrivere le iniziative assunte e i risultati conseguiti in ordine ai propri compiti, fornisce un'analisi dei programmi di investimento dei gestori dei sistemi di trasmissione e di trasporto sotto il profilo della loro conformita' di sviluppo della rete a livello comunitario di cui all'articolo 8, paragrafo 3, lettera b), del regolamento (CE) n. 714/2009 e del regolamento (CE) n. 715/2009. Tale analisi puo' includere raccomandazioni per la modifica dei predetti piani di investimento.
 
@@ -1751,19 +3431,15 @@ All'attuazione del presente articolo l'Autorita' per l'energia elettrica e il ga
 
 ## Art. 44. — Reclami
 
-L'Autorita' per l'energia elettrica e il gas decide sui reclami presentati contro un gestore di un sistema di trasmissione, di trasporto, di stoccaggio, di un sistema GNL o di distribuzione per quanto concerne gli obblighi a tali gestori imposti in attuazione delle direttive comunitarie sui mercati interni dell'energia elettrica e del gas naturale.
+
 
 La decisione sui reclami di cui al comma 1 deve essere adottata entro due mesi dalla ricezione del reclamo. Tale termine puo' essere prorogato di non oltre due mesi qualora l'Autorita' per l'energia elettrica e il gas richieda ulteriori informazioni alle parti interessate. Con il consenso del soggetto che ha presentato il reclamo, il termine medesimo puo' essere ulteriormente prorogato, in ogni caso, per un periodo non piu' lungo di ulteriori due mesi.
-
-((
 
 Nei casi in cui la legge attribuisce all'ARERA il potere di valutare le tariffe o le metodologie di calcolo delle tariffe richieste dal gestore della distribuzione ovvero dal gestore della rete di trasmissione nazionale, i partecipanti al mercato possono proporre reclamo avverso le relative decisioni dinanzi all'Autorita' stessa, entro trenta giorni dalla pubblicazione della decisione ovvero della proposta di decisione. L'Autorita' decide il reclamo entro trenta giorni dal ricevimento del reclamo. Il reclamo non produce alcun effetto sospensivo.
 
 Le decisioni sui reclami di cui ai due commi precedenti sono pubblicate in un'apposita sezione del sito web dell'ARERA, ferma la riservatezza delle informazioni commercialmente sensibili.
 
-))
-
-L'Autorita' per l'energia elettrica e il gas emana specifiche direttive per la disciplina, ai sensi dell'articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481, delle procedure di risoluzione delle controversie di cui al comma precedente. ((La partecipazione delle imprese elettriche alle procedure di risoluzione delle controversie di cui al presente comma e' obbligatoria.))
+L'Autorita' per l'energia elettrica e il gas emana specifiche direttive per la disciplina, ai sensi dell'articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481, delle procedure di risoluzione delle controversie di cui al comma precedente. La partecipazione delle imprese elettriche alle procedure di risoluzione delle controversie di cui al presente comma e' obbligatoria.
 
 L'Autorita' per l'energia elettrica e il gas assicura il trattamento efficace dei reclami e delle procedure di conciliazione dei clienti finali nei confronti dei venditori e dei distributori di gas naturale ed energia elettrica avvalendosi dell'Acquirente unico Spa e vigila affinche' siano applicati i principi in materia di tutela dei consumatori di cui all'Allegato I delle direttive 2009/73/CE e 2009/72/CE.
 
@@ -1772,7 +3448,7 @@ L'Autorita' per l'energia elettrica e il gas assicura il trattamento efficace de
 1.
                         
                             
-                                Fermo restando quanto previsto dalla legge 14 novembre 1995, n. 481, l'Autorita' per l'energia elettrica e il gas irroga sanzioni amministrative pecuniarie in caso di inosservanza delle prescrizioni e degli obblighi previsti dalle seguenti disposizioni: 
+                                Fermo restando quanto previsto dalla legge 14 novembre 1995, n. 481, l'Autorita' per l'energia elettrica e il gas irroga sanzioni amministrative pecuniarie ((alle imprese di gas naturale e di idrogeno)) in caso di inosservanza delle prescrizioni e degli obblighi previsti ((dalla direttiva (UE) 2024/1788, dal regolamento (UE) 2024/1789 e)) dalle seguenti disposizioni: 
  
                             
                             
@@ -1797,7 +3473,7 @@ Ai procedimenti sanzionatori dell'Autorita' per l'energia elettrica e il gas non
 
 L'Autorita' per l'energia elettrica e il gas disciplina, con proprio regolamento, nel rispetto della legislazione vigente in materia, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, i procedimenti sanzionatori di sua competenza, in modo da assicurare agli interessati la piena conoscenza degli atti istruttori, il contraddittorio in forma scritta e orale, la verbalizzazione e la separazione tra funzioni istruttorie e funzioni decisorie. Il regolamento disciplina altresi' le modalita' procedurali per la valutazione degli impegni di cui al comma 3 del presente articolo, nonche', i casi in cui, con l'accordo dell'impresa destinataria dell'atto di avvio del procedimento sanzionatorio, possono essere adottate modalita' procedurali semplificate di irrogazione delle sanzioni amministrative pecuniarie.
 
-Nei casi di particolare urgenza l'Autorita' per l'energia elettrica e il gas puo', d'ufficio, deliberare, con atto motivato, l'adozione di misure cautelari ((che assicurino il piu' utile e tempestivo perseguimento degli interessi tutelati)), anche prima dell'avvio del procedimento sanzionatorio ((avvalendosi, ove necessario, delle facolta' disciplinate dall'articolo 2, comma 20, della legge 14 novembre 1995, n. 481)).
+Nei casi di particolare urgenza l'Autorita' per l'energia elettrica e il gas puo', d'ufficio, deliberare, con atto motivato, l'adozione di misure cautelari che assicurino il piu' utile e tempestivo perseguimento degli interessi tutelati, anche prima dell'avvio del procedimento sanzionatorio avvalendosi, ove necessario, delle facolta' disciplinate dall'articolo 2, comma 20, della legge 14 novembre 1995, n. 481.
 
 Le disposizioni di cui al presente articolo si applicano ai procedimenti sanzionatori di competenza dell'Autorita' per l'energia elettrica e il gas avviati successivamente all'entrata in vigore del presente decreto.
 
@@ -1805,9 +3481,9 @@ In caso di violazione persistente da parte del Gestore degli obblighi su di esso
 
 ## Art. 46. — Disposizioni in materia di rapporti istituzionali
 
-Nell'osservanza delle rispettive competenze, l'Autorita' per l'energia elettrica e il gas e l'Autorita' garante della concorrenza e del mercato collaborano tra loro e si prestano reciproca assistenza, anche al fine di assicurare la piu' efficace regolazione dei mercati dell'energia elettrica e del gas naturale in funzione della loro competitivita' e della tutela degli utenti.
+Nell'osservanza delle rispettive competenze, l'Autorita' per l'energia elettrica e il gas e l'Autorita' garante della concorrenza e del mercato collaborano tra loro e si prestano reciproca assistenza, anche al fine di assicurare la piu' efficace regolazione dei mercati dell'energia elettrica e del gas naturale ((e dell'idrogeno)) in funzione della loro competitivita' e della tutela degli utenti.
 
-I rapporti tra l'Autorita' per l'energia elettrica e il gas e l'Autorita' garante della concorrenza e del mercato sono informati al principio della leale cooperazione e si svolgono, in particolare, mediante istruttorie congiunte, segnalazioni e scambi di informazioni. Nello svolgimento di tali rapporti di reciproca collaborazione, non e' opponibile il segreto d'ufficio.
+I rapporti tra l'Autorita' per l'energia elettrica e il gas e l'Autorita' garante della concorrenza e del mercato sono informati al principio della leale cooperazione e si svolgono, in particolare, mediante istruttorie congiunte, segnalazioni e scambi di informazioni. Nello svolgimento di tali rapporti di reciproca collaborazione, non e' opponibile il segreto d'ufficio. ((L'autorita' che riceve le informazioni garantisce ad esse lo stesso grado di riservatezza prescritto dall'autorita' che le comunica.))
 
 Al fine dello svolgimento efficace e coordinato delle attivita' e delle funzioni di cui ai commi 1 e 2, l'Autorita' per l'energia elettrica e il gas e l'Autorita' garante della concorrenza e del mercato stipulano tra loro appositi protocolli d'intesa.
 
@@ -1838,15 +3514,19 @@ L'Autorita' per l'energia elettrica e il gas coopera con le autorita' di regolaz
                             
                                 c)
                                 
-                                    coordinare lo sviluppo delle norme che disciplinano la gestione delle congestioni.
+                                    coordinare lo sviluppo delle norme che disciplinano la gestione delle congestioni. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((assicurare l'osservanza della normativa da parte dei soggetti giuridici che espletano i compiti dei gestori di trasporto e dei gestori delle reti a livello transfrontaliero o regionale.))
 
 L'Autorita' per l'energia elettrica e il gas promuove la stipula di accordi di collaborazione con le altre autorita' nazionali di regolamentazione, al fine di promuovere la cooperazione in ambito regolamentare.
 
-((
-
-L'Autorita' di regolazione per energia reti e ambiente puo' consultare le pertinenti autorita' dei paesi terzi e cooperare con esse relativamente all'esercizio dell'infrastruttura del gas da e verso i paesi terzi al fine di garantire, per quanto concerne l'infrastruttura interessata, la coerente applicazione della direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE, nel territorio e nelle acque territoriali italiane.
-
-))
+((L'Autorita' di regolazione per energia reti e ambiente puo' consultare le pertinenti autorita' dei paesi terzi, segnatamente quelle delle parti contraenti della Comunita' dell'energia, dopo aver consultato le autorita' di regolazione degli altri Stati membri interessati, e cooperare con esse relativamente all'esercizio dell'infrastruttura del gas e dell'idrogeno da e verso i paesi terzi al fine di garantire, per quanto concerne l'infrastruttura interessata, la coerente applicazione della direttiva (UE) 2024/1788, nel territorio e nelle acque territoriali italiane.))
 
 ## Art. 46-bis. — (( (Accordi tecnici relativi all'esercizio degli interconnettori).))
 
@@ -1870,17 +3550,13 @@ Nei casi in cui il gasdotto di trasporto e' situato, oltre che nel territorio it
 
 ))
 
-## Art. 46-quater. — (( (Procedura di abilitazione).))
-
-((
+## Art. 46-quater. — (Procedura di abilitazione)
 
 Fatta salva la ripartizione della competenza tra l'Unione europea e gli Stati membri, gli accordi esistenti relativi all'esercizio di un interconnettore o di una rete di gasdotti di coltivazione conclusi tra l'Italia e un paese terzo sono mantenuti in vigore fino all'entrata in vigore di un accordo tra l'Unione e lo stesso paese terzo o fino all'applicazione della procedura di cui ai commi successivi.
 
-Fatta salva la ripartizione della competenza tra l'Unione europea e gli Stati membri, qualora l'Italia intenda avviare un negoziato con un paese terzo per modificare, prorogare, adattare, rinnovare o concludere un accordo relativo all'esercizio di un interconnettore con un paese terzo su questioni che rientrano, in tutto o in parte, nell'ambito di applicazione della direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE, il Ministero dello sviluppo economico notifica tale intendimento alla Commissione, allegando la documentazione pertinente e indicando le disposizioni che saranno oggetto dei negoziati o da rinegoziare, gli obiettivi dei negoziati, nonche' qualsiasi altra informazione pertinente, almeno cinque mesi prima dell'avvio dei negoziati, ai fini della valutazione di cui all'articolo 49-ter, paragrafi da 3 a 10 della direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE.
+Fatta salva la ripartizione della competenza tra l'Unione europea e gli Stati membri, qualora l'Italia intenda avviare un negoziato con un paese terzo per modificare, prorogare, adattare, rinnovare o concludere un accordo relativo all'esercizio di un interconnettore con un paese terzo su questioni che rientrano, in tutto o in parte, nell'ambito di applicazione della ((direttiva (UE) 2024/1788)), il Ministero dello sviluppo economico notifica tale intendimento alla Commissione, allegando la documentazione pertinente e indicando le disposizioni che saranno oggetto dei negoziati o da rinegoziare, gli obiettivi dei negoziati, nonche' qualsiasi altra informazione pertinente, almeno cinque mesi prima dell'avvio dei negoziati, ai fini della valutazione ((di cui all'articolo 89, paragrafi da 3 a 15, della direttiva (UE) 2024/1788)).
 
-Una volta ricevuta l'autorizzazione ad avviare i negoziati da parte della Commissione europea a seguito della notifica di cui al comma 2, il Ministero dello sviluppo economico avvia i negoziati per modificare, prorogare, adattare, rinnovare o concludere un accordo con un paese terzo e tiene conto di eventuali orientamenti forniti dalla Commissione e di eventuali richieste di inserimento di clausole nell'accordo. Il Ministero dello sviluppo economico notifica alla Commissione europea i risultati del negoziato e trasmette il testo dell'accordo ai fini della autorizzazione alla firma e, qualora acquisita tale autorizzazione nei termini di cui ai paragrafi 12 e 13 dell'articolo 49-ter della direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE, notifica alla Commissione la conclusione e l'entrata in vigore dell'accordo, nonche' ogni successiva modifica allo status di tale accordo.
-
-))
+Una volta ricevuta l'autorizzazione ad avviare i negoziati da parte della Commissione europea a seguito della notifica di cui al comma 2, il Ministero dello sviluppo economico avvia i negoziati per modificare, prorogare, adattare, rinnovare o concludere un accordo con un paese terzo e tiene conto di eventuali orientamenti forniti dalla Commissione e di eventuali richieste di inserimento di clausole nell'accordo. Il Ministero dello sviluppo economico notifica alla Commissione europea i risultati del negoziato e trasmette il testo dell'accordo ai fini della autorizzazione alla firma e, qualora acquisita tale autorizzazione nei termini ((di cui all'articolo 89 della direttiva (UE) 2024/1788,)) notifica alla Commissione la conclusione e l'entrata in vigore dell'accordo, nonche' ogni successiva modifica allo status di tale accordo.
 
 ## - Titolo V NORME FINALI
 

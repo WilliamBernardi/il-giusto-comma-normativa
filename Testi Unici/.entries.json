@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-14",
+  "zip_date": "2026-08-15",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -391,13 +391,13 @@
       "out": "Testi Unici/stato-decreto.legislativo-2025-08-01-123.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-08-01;123"
     },
-    "DECRETO LEGISLATIVO_20260119_10/2026-01-30_26G00022_VIGENZA_2026-06-10_V0.xml": {
-      "sha256": "1a567fc09983297081c2fc662cbee99e9ccc2ed100a9122b146d756455990a06",
+    "DECRETO LEGISLATIVO_20260119_10/2026-01-30_26G00022_VIGENZA_2026-08-15_V0.xml": {
+      "sha256": "8c30752a3630423991b60063aad04be29653de7662c3f07b416e91b300d7497d",
       "out": "Testi Unici/stato-decreto.legislativo-2026-01-19-10.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-01-19;10"
     },
-    "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_ORIGINALE_V0.xml": {
-      "sha256": "94c273a8690009af01ef2ec3cbef2ae121b01baba4370845977451b91d84398d",
+    "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-08-15_V0.xml": {
+      "sha256": "ce44d3e2b28dd76c52527129c2743811c6818bd4e32dee6956b79dca82bc0c61",
       "out": "Testi Unici/stato-decreto.legislativo-2026-06-19-117.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-06-19;117"
     },

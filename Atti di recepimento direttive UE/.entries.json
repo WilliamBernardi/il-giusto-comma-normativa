@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-14",
+  "zip_date": "2026-08-15",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19960206_175/1996-03-30_096G0184_ORIGINALE_V0.xml": {
       "sha256": "b9e6909b6c24b5aa9423a811d28d930fd3228e63ed977c13f9fea8793daafd3e",
@@ -1901,8 +1901,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2000-05-21-172.md",
       "urn": "urn:nir:stato:decreto.legislativo:2000-05-21;172"
     },
-    "DECRETO LEGISLATIVO_20000523_164/2000-06-20_000G0210_VIGENZA_2025-06-12_V0.xml": {
-      "sha256": "c54583a0a062bd8c73c4ef3e2fe447dbc42c2caf5e0679f5ad4288af498f43b4",
+    "DECRETO LEGISLATIVO_20000523_164/2000-06-20_000G0210_VIGENZA_2026-08-15_V0.xml": {
+      "sha256": "4e250b4d76620f8b26374effabbf2142e9bd7248fd33f8cf13ef884deb70cd7c",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2000-05-23-164.md",
       "urn": "urn:nir:stato:decreto.legislativo:2000-05-23;164"
     },
@@ -3281,8 +3281,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2011-03-03-24.md",
       "urn": "urn:nir:stato:decreto.legislativo:2011-03-03;24"
     },
-    "DECRETO LEGISLATIVO_20110303_28/2011-03-28_011G0067_VIGENZA_2026-05-01_V0.xml": {
-      "sha256": "169430d272052030d8bb9b8ce3bb6288a2be402e37632463717ec706fb8b7523",
+    "DECRETO LEGISLATIVO_20110303_28/2011-03-28_011G0067_VIGENZA_2026-08-15_V0.xml": {
+      "sha256": "1f1f97bc5e36a83133bc9e78b58979830b88fd4c5b0d07d587576d596fa41978",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2011-03-03-28.md",
       "urn": "urn:nir:stato:decreto.legislativo:2011-03-03;28"
     },
@@ -3351,8 +3351,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2011-05-23-79.md",
       "urn": "urn:nir:stato:decreto.legislativo:2011-05-23;79"
     },
-    "DECRETO LEGISLATIVO_20110601_93/2011-06-28_011G0136_VIGENZA_2026-02-12_V0.xml": {
-      "sha256": "bd789101598a1be6793f2248c73ae9f9d81c6b74a8eb7b63691db08b164a7607",
+    "DECRETO LEGISLATIVO_20110601_93/2011-06-28_011G0136_VIGENZA_2026-08-15_V0.xml": {
+      "sha256": "819ba1723981d5b75c9e5b73d2c1a5d925ceb314b3ffe0334d1f37e6b6de3758",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2011-06-01-93.md",
       "urn": "urn:nir:stato:decreto.legislativo:2011-06-01;93"
     },
@@ -3661,8 +3661,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2014-07-01-101.md",
       "urn": "urn:nir:stato:decreto.legislativo:2014-07-01;101"
     },
-    "DECRETO LEGISLATIVO_20140704_102/2014-07-18_14G00113_VIGENZA_2026-04-30_V0.xml": {
-      "sha256": "2e591dc8c2618ba15c05e216cfb73dfea24767c6baed0060ef52ccf270f08397",
+    "DECRETO LEGISLATIVO_20140704_102/2014-07-18_14G00113_VIGENZA_2026-08-15_V0.xml": {
+      "sha256": "432973e983b827f3b27ffc341e888e8ea332c0581d6b2e907ba75454a12f33e3",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2014-07-04-102.md",
       "urn": "urn:nir:stato:decreto.legislativo:2014-07-04;102"
     },
@@ -4416,8 +4416,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2021-11-08-208.md",
       "urn": "urn:nir:stato:decreto.legislativo:2021-11-08;208"
     },
-    "DECRETO LEGISLATIVO_20211108_210/2021-12-11_21G00233_VIGENZA_2026-07-07_V0.xml": {
-      "sha256": "eda2ec009fc250e0280374e317914e6361d592d096e741b72ab3aa47bad585e1",
+    "DECRETO LEGISLATIVO_20211108_210/2021-12-11_21G00233_VIGENZA_2026-08-15_V0.xml": {
+      "sha256": "fda6e92334151e96859c77793fe27c9d2c0a129303f6b1d899d7b04c5bb7a7f3",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2021-11-08-210.md",
       "urn": "urn:nir:stato:decreto.legislativo:2021-11-08;210"
     },

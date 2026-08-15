@@ -8,9 +8,9 @@ codice_redazionale: 000G0210
 vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
-vigenza_date: 2023-12-31
-zip_date: 2026-07-30
-fetched_at: 2026-07-30
+vigenza_date: 2026-08-15
+zip_date: 2026-08-15
+fetched_at: 2026-08-15
 ---
 
 DECRETO LEGISLATIVO
@@ -33,11 +33,9 @@ Nei limiti delle disposizioni del presente decreto le attivita' di importazione,
 
 Resta in vigore la disciplina vigente per le attivita' di coltivazione e di stoccaggio di gas naturale, salvo quanto disposto dal presente decreto.
 
-((
+Le norme del presente decreto relative al gas naturale, compreso il gas naturale liquefatto, si applicano in modo non discriminatorio anche ((al gas rinnovabile, al gas a basse emissioni di carbonio, al biometano)) al biogas e al gas derivante dalla biomassa o ad altri tipi di gas, nella misura in cui i suddetti gas possono essere iniettati nel sistema del gas naturale e trasportati attraverso tale sistema senza porre problemi di ordine tecnico o di sicurezza ((, al fine di realizzare mercati del gas concorrenziali, sicuri e sostenibili dal punto di vista ambientale)). ((Non sono ammesse discriminazioni tra le imprese riguardo ai loro diritti o obblighi)).
 
-Le norme del presente decreto relative al gas naturale, compreso il gas naturale liquefatto, si applicano in modo non discriminatorio anche al biogas e al gas derivante dalla biomassa o ad altri tipi di gas, nella misura in cui i suddetti gas possono essere iniettati nel sistema del gas naturale e trasportati attraverso tale sistema senza porre problemi di ordine tecnico o di sicurezza.
-
-))
+((Al fine di favorire la decarbonizzazione, e' sempre ammessa la stipulazione di contratti a lungo termine per i gas rinnovabili e i gas a basse emissioni di carbonio che siano pur sempre conformi alle norme sulla concorrenza dell'Unione europea. E' ammessa la stipulazione di contratti a lungo termine per la fornitura di gas di origine fossile non soggetto ad abbattimento purche' la durata non si protragga oltre il 31 dicembre 2049)).
 
 ## Art. 2. — Definizioni
 
@@ -50,14 +48,14 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 a)
                                 
-                                    cliente finale: il cliente che acquista gas naturale per uso proprio, ivi compresi gli impianti di distribuzione di metano per autotrazione che sono considerati clienti finali; 
+                                    cliente finale: il cliente che acquista gas naturale ((o idrogeno)) per uso proprio, ivi compresi gli impianti di distribuzione di metano per autotrazione che sono considerati clienti finali; 
 
                                 
                             
                             
                                 b)
                                 
-                                    cliente grossista: una persona fisica o giuridica, diversa dai gestori dei sistemi di trasporto e dai gestori dei sistemi di distribuzione, che acquista gas naturale a scopo di rivendita all'interno o all'esterno del sistema in cui e' stabilita; 
+                                    cliente grossista: una persona fisica o giuridica, diversa dai gestori dei sistemi di trasporto e dai gestori dei sistemi di distribuzione, che acquista gas naturale ((o idrogeno)) a scopo di rivendita all'interno o all'esterno del sistema in cui e' stabilita; 
 
                                 
                             
@@ -71,7 +69,7 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 d)
                                 
-                                    "clienti": i clienti grossisti o finali di gas naturale e le imprese di gas naturale che acquistano gas naturale; 
+                                    "clienti": i clienti grossisti o finali di gas naturale ((o idrogeno)) e le imprese di gas naturale ((o idrogeno)) che acquistano gas naturale ((o idrogeno)); 
 
                                 
                             
@@ -141,14 +139,14 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 n)
                                 
-                                    "distribuzione": il trasporto di gas naturale attraverso reti di gasdotti locali per la consegna ai clienti; 
+                                    "distribuzione": il trasporto di gas naturale attraverso reti di gasdotti locali per la consegna ai clienti ((, a esclusione della fornitura)); 
 
                                 
                             
                             
                                 o)
                                 
-                                    fornitura: la vendita, compresa la rivendita, di gas naturale, compreso il gas naturale liquefatto (GNL), ai clienti; 
+                                    fornitura: la vendita, compresa la rivendita, di gas naturale, compreso il gas naturale liquefatto (GNL), ((o di idrogeno, anche sotto forma di vettori di idrogeno organico liquido o idrogeno liquido e di derivati dell'idrogeno tra cui l'ammoniaca o il metanolo,)) ai clienti; 
 
                                 
                             
@@ -169,7 +167,8 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 r)
                                 
-                                    "impresa collegata": un'impresa collegata ai sensi dell'articolo 2359, comma 3°, del codice civile; 
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 3 LUGLIO 2026, N. 136)); 
 
                                 
                             
@@ -197,8 +196,9 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 v)
                                 
-                                    impresa verticalmente integrata: un'impresa di gas naturale o un gruppo di imprese di gas naturale nelle quali la stessa persona o le stesse persone, fisiche o giuridiche hanno, direttamente o indirettamente, il potere di esercitare il controllo, e in cui l'impresa o il gruppo di imprese svolge almeno una delle funzioni di trasporto, distribuzione, rigassificazione di GNL o stoccaggio e almeno una delle funzioni di produzione o fornitura di gas naturale; 
-
+                                    
+                                        ((impresa verticalmente integrata: un'impresa di gas naturale o un gruppo di imprese di gas naturale o un'impresa di idrogeno o un gruppo di imprese di idrogeno in cui la stessa persona o le stesse persone hanno, direttamente o indirettamente, il potere di esercitare un controllo e in cui l'impresa o il gruppo di imprese svolge almeno una delle funzioni di trasporto del gas naturale, trasporto dell'idrogeno, distribuzione del gas naturale, distribuzione dell'idrogeno, gestione di terminali dell'idrogeno, rigassificazione di GNL o stoccaggio di gas naturale o di idrogeno, e almeno una delle funzioni di produzione o fornitura di gas naturale o di idrogeno;))
+                                    
                                 
                             
                             
@@ -260,7 +260,7 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 ee)
                                 
-                                    sistema: reti di trasporto, reti di distribuzione, impianti di GNL o impianti di stoccaggio di proprieta' o gestiti da un'impresa di gas naturale, compresi il linepack e i relativi impianti che forniscono servizi ausiliari nonche' quelli di imprese collegate necessari per dare accesso al trasporto, alla distribuzione e alla rigassificazione di GNL; 
+                                    sistema ((del gas naturale)): reti di trasporto, reti di distribuzione, impianti di GNL o impianti di stoccaggio di proprieta' o gestiti da un'impresa di gas naturale, compresi il linepack e i relativi impianti che forniscono servizi ausiliari nonche' quelli di imprese collegate necessari per dare accesso al trasporto, alla distribuzione e alla rigassificazione di GNL; 
 
                                 
                             
@@ -295,7 +295,7 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 jj)
                                 
-                                    "utente del sistema": la persona fisica o giuridica che rifornisce o e' rifornita dal sistema; 
+                                    "utente del sistema": la persona fisica o giuridica che rifornisce((di gas naturale o idrogeno il sistema)) o e' rifornita dal sistema; 
 
                                 
                             
@@ -316,7 +316,7 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 kk-ter)
                                 
-                                    impresa collegata: un'impresa collegata come definita all'articolo 41 della settima direttiva 83/349/CEE del Consiglio, del 13 giugno 1983, basata sull'articolo 44, paragrafo 2, lettera g) del trattato e relativa ai conti consolidati, o un'impresa associata come definita all'articolo 33, paragrafo 1 della medesima direttiva, o un'impresa appartenente agli stessi soci; 
+                                    impresa collegata: un'impresa collegata come definita all'articolo 41 della settima direttiva 83/349/CEE del Consiglio, del 13 giugno 1983, basata sull'articolo 44, paragrafo 2, lettera g) del trattato e relativa ai conti consolidati, o un'impresa associata come definita all'articolo 33, paragrafo 1 della medesima direttiva, ((ai sensi dell'articolo 2, punto 12), della direttiva 2013/34/UE del Parlamento europeo e del Consiglio)) o un'impresa appartenente agli stessi soci; 
 
                                 
                             
@@ -379,20 +379,21 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 kk-duodecies)
                                 
-                                    "interconnettore": un gasdotto di trasporto che attraversa o si estende oltre una frontiera tra Stati membri allo scopo di collegare i sistemi nazionali di trasporto di tali Stati membri o un gasdotto di trasporto tra uno Stato membro e un paese terzo fino al territorio degli Stati membri o alle acque territoriali di tale Stato membro;
+                                    "interconnettore": un gasdotto di trasporto che attraversa o si estende oltre una frontiera tra Stati membri allo scopo di collegare i sistemi nazionali di trasporto di tali Stati membri o un gasdotto di trasporto tra uno Stato membro e un paese terzo fino al territorio degli Stati membri o alle acque territoriali di tale Stato membro; 
+
                                 
                             
                             
                                 kk-terdecies)
                                 
-                                    cliente civile: un cliente che acquista gas naturale per il proprio consumo domestico; 
+                                    cliente civile: un cliente che acquista gas naturale ((o idrogeno)) per il proprio consumo domestico; 
 
                                 
                             
                             
                                 kk-quaterdecies)
                                 
-                                    cliente non civile: un cliente che acquista gas naturale non destinato al proprio uso domestico; 
+                                    cliente non civile: un cliente che acquista gas naturale ((o idrogeno)) non destinato al proprio uso domestico; 
 
                                 
                             
@@ -406,7 +407,7 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                             
                                 kk-sexiesdecies)
                                 
-                                    contratto di fornitura: un contratto di fornitura di gas naturale ad esclusione degli strumenti derivati sul gas naturale; 
+                                    contratto di fornitura: un contratto di fornitura di gas naturale ((o idrogeno)) ad esclusione degli strumenti derivati sul gas naturale ((o idrogeno)); 
 
                                 
                             
@@ -415,7 +416,59 @@ Le norme del presente decreto relative al gas naturale, compreso il gas naturale
                                 
                                     controllo: diritti, contratti, o altri mezzi che conferiscono, da soli o congiuntamente, e tenuto conto delle circostanze di fatto o di diritto, la possibilita' di esercitare un'influenza determinante sull'attivita' di un'impresa, in particolare attraverso: 
  1) diritti di proprieta' o di godimento sulla totalita' o su parti del patrimonio di un'impresa; 
- 2) diritti o contratti che conferiscono un'influenza determinante sulla composizione, sulle votazioni, sulle deliberazioni e decisioni degli organi di un'impresa.
+ 2) diritti o contratti che conferiscono un'influenza determinante sulla composizione, sulle votazioni, sulle deliberazioni e decisioni degli organi di un'impresa. 
+
+                                
+                            
+                            
+                                kk-duodevicies)
+                                
+                                    
+                                        ((gas naturale: gas costituito principalmente di metano, incluso biometano, o altri tipi di gas, che puo' essere iniettato nel sistema del gas naturale e trasportato attraverso tale sistema senza porre problemi di ordine tecnico o di sicurezza)); 
+
+                                
+                            
+                            
+                                kk-undevicies)
+                                
+                                    
+                                        ((gas rinnovabile: combustibile gassoso prodotto dalle biomasse, incluso il biogas che e' stato trasformato in biometano e i combustibili rinnovabili di origine non biologica ai sensi dell'articolo 2, comma 1, lettera ll) del decreto legislativo 8 novembre 2021, n. 199)); 
+
+                                
+                            
+                            
+                                kk-vicies)
+                                
+                                    
+                                        ((gas a basse emissioni di carbonio: la parte di combustibili gassosi nei carburanti derivanti da carbonio riciclato ai sensi dell'articolo 2, punto 35), della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, l'idrogeno a basse emissioni di carbonio e i combustibili sintetici gassosi il cui contenuto energetico deriva da idrogeno a basse emissioni di carbonio che rispettano una soglia di riduzione delle emissioni di gas a effetto serra pari al 70 per cento rispetto al carburante fossile di riferimento per i combustibili rinnovabili di origine non biologica di cui alla metodologia adottata a norma dell'articolo 29-bis, paragrafo 3, della medesima direttiva (UE) 2018/2001)); 
+ kk-vicies semel) ((combustibili a basse emissioni di carbonio: i carburanti derivanti da carbonio riciclato ai sensi dell'articolo 2, punto 35), della direttiva (UE) 2018/2001, l'idrogeno a basse emissioni di carbonio e i combustibili sintetici liquidi e gassosi il cui contenuto energetico deriva da idrogeno a basse emissioni di carbonio che rispettano una soglia di riduzione delle emissioni di gas a effetto serra pari al 70 per cento rispetto al carburante fossile di riferimento per i combustibili rinnovabili di origine non biologica di cui alla metodologia adottata a norma dell'articolo 29-bis, paragrafo 3, della medesima direttiva (UE) 2018/2001)); 
+ kk-vicies bis) ((fornitore di ultima istanza: l'esercente designato che assicura la fornitura di gas naturale ai clienti finali che rimangono senza fornitore)); 
+ kk-vicies ter) ((impresa di gas naturale integrata: l'impresa integrata verticalmente o orizzontalmente)); 
+ kk-vicies quater) ((contratto a lungo termine: il contratto di fornitura di gas di durata superiore a un anno)); 
+ kk-vicies quinquies) ((sistema di entrata-uscita: un modello di accesso per il gas naturale o l'idrogeno in cui gli utenti del sistema prenotano diritti di capacita' in modo indipendente ai punti di entrata e di uscita, che include il sistema di trasporto e puo' includere l'intero sistema di distribuzione o parte di esso, o le reti dell'idrogeno)); 
+ kk-vicies sexies) ((zona di bilanciamento: il sistema al quale si applica un dato regime di bilanciamento, che include il sistema di trasporto e puo' includere gli interi sistemi di distribuzione o parte di essi)); 
+ kk-vicies septies) ((punto di scambio virtuale: il punto commerciale non fisico all'interno di un sistema di entrata-uscita presso il quale il gas naturale o l'idrogeno sono scambiati tra venditore e acquirente senza bisogno di prenotare capacita')); 
+ kk-duodetricies) ((utente della rete: il cliente o il potenziale cliente del gestore del sistema o lo stesso gestore del sistema, nella misura in cui per tale gestore sia necessario svolgere le sue funzioni in relazione al trasporto di gas naturale o idrogeno)); 
+ kk-undetricies) ((punto di entrata: il punto soggetto a procedure di prenotazione da parte degli utenti della rete che da' accesso al sistema di entrata-uscita)); 
+ kk-tricies) ((punto di uscita: il punto soggetto a procedure di prenotazione da parte degli utenti della rete che consente il flusso di gas in uscita dal sistema di entrata-uscita)); 
+ kk-tricies semel) ((punto di interconnessione: il punto fisico o virtuale che collega sistemi di entrata-uscita adiacenti o che collega un sistema di entrata-uscita con un interconnettore, nella misura in cui tale punto e' soggetto a procedure di prenotazione da parte degli utenti della rete)); 
+ kk-tricies bis) ((punto di interconnessione virtuale: due o piu' punti di interconnessione che collegano gli stessi due sistemi adiacenti di entrata-uscita integrati tra loro al fine di fornire un unico servizio di capacita')); 
+ kk-tricies ter) ((partecipante al mercato: la persona fisica o giuridica che acquista, vende o produce gas naturale o idrogeno o che gestisce servizi di stoccaggio, anche attraverso la trasmissione di ordini di compravendita su uno o piu' mercati del gas naturale o dell'idrogeno, compresi i mercati di bilanciamento)); 
+ kk-tricies quater) ((oneri di risoluzione del contratto: qualsiasi onere o penale imposti ai clienti dai fornitori o dai partecipanti al mercato per risolvere un contratto di fornitura di gas o di servizi attinenti)); 
+ kk-tricies quinquies) ((oneri per cambio di fornitore: qualsiasi onere o penale imposti ai clienti dai fornitori, dai partecipanti al mercato o dai gestori di sistemi, direttamente o indirettamente, in caso di cambiamento di fornitore o di partecipante al mercato, compresi gli oneri di risoluzione del contratto)); 
+ kk-tricies sexies) ((informazioni di fatturazione: le informazioni fornite nella fattura al cliente finale, esclusa la richiesta di pagamento)); 
+ kk-tricies septies) ((contatore convenzionale: il contatore analogico o elettronico sprovvisto della capacita' di trasmettere e ricevere dati)); 
+ kk-duodequadragies) ((interoperabilita': nel contesto dei sistemi di misurazione intelligenti, la capacita' di due o piu' reti, sistemi, dispositivi, applicazioni o componenti nei settori dell'energia o delle comunicazioni di interagire e di scambiare e utilizzare informazioni per svolgere le funzioni richieste)); 
+ kk-undequadragies) ((piu' recenti disponibili: nel contesto dei sistemi di misurazione intelligenti, dati forniti in un lasso di tempo che corrisponde al piu' breve periodo di regolazione nel mercato nazionale)); 
+ kk-quadragies) ((migliori tecniche disponibili: nel contesto della protezione e della sicurezza dei dati in un ambiente di misurazione intelligente, le tecniche piu' efficaci, avanzate e idonee dal punto di vista pratico a fornire in via di principio le condizioni per il rispetto delle norme dell'Unione europea sulla protezione dei dati e sulla sicurezza)); 
+ kk-quadragies semel) ((poverta' energetica: la poverta' energetica ai sensi dell'articolo 2, punto 52), della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023)); 
+ kk-quadragies bis) ((cliente attivo: il cliente finale di gas naturale o il gruppo di clienti finali consorziati di gas naturale che: 
+ 1) consuma o immagazzina il gas rinnovabile prodotto nei propri locali situati all'interno di un'area delimitata; 
+ 2) purche' le attivita' non costituiscano la principale attivita' commerciale o professionale del cliente finale e siano conformi al diritto applicabile alla produzione di gas rinnovabile, in particolare per quanto riguarda le emissioni di gas a effetto serra, alternativamente: 
+ 2.1) vende il gas rinnovabile autoprodotto attraverso il sistema del gas naturale; 
+ 2.2) partecipa a meccanismi di flessibilita' o di efficienza energetica)); 
+ kk-quadragies ter) ((efficienza energetica al primo posto: il principio "l'efficienza energetica al primo posto" ai sensi dell'articolo 2, punto 18), del regolamento (UE) 2018/1999 del Parlamento europeo e del Consiglio dell'11 dicembre 2018)); 
+ kk-quadragies quater) ((riconversione: la riconversione ai sensi dell'articolo 2, punto 18), del regolamento (UE) 2022/869 del Parlamento europeo e del Consiglio, del 30 maggio 2022)).
 
 -------------
                             AGGIORNAMENTO (7)
@@ -643,13 +696,16 @@ Con decreto del Ministro dell'industria, del commercio e dell'artigianato, da em
 
 Ai fini della tutela del giacimento e della sicurezza delle lavorazioni, l'accesso alle infrastrutture minerarie di cui al comma 1 e' sottoposto ad autorizzazione rilasciata dal Ministero dell'industria, del commercio e dell'artigianato.
 
-((
-
-L'Autorita' di regolazione per energia reti e ambiente e' competente a risolvere le controversie, anche transfrontaliere, relative all'accesso alle infrastrutture di coltivazione del gas naturale. In caso di controversie transfrontaliere si applicano le disposizioni sulla risoluzione delle controversie relative allo Stato membro che ha giurisdizione sulla rete di gasdotti di coltivazione che nega l'accesso. Se, nelle controversie transfrontaliere, la rete interessata fa capo all'Italia e almeno ad un altro Stato membro, l'Autorita' di regolazione per energia reti e ambiente si consulta con le competenti autorita' degli altri Stati membri interessati al fine di garantire che le disposizioni della direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE, siano coerentemente applicate. Se la rete di gasdotti di coltivazione ha origine in un paese terzo e si collega alla rete italiana, l'Autorita' di regolazione per energia reti e ambiente si consulta con le Autorita' di regolazione degli Stati membri interessati e, nel caso il primo punto di ingresso verso la rete degli Stati membri sia in Italia, consulta il paese terzo interessato in cui ha origine la rete di gasdotti di coltivazione al fine di garantire, per quanto concerne la rete interessata, che la direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE, sia coerentemente applicata nel territorio degli Stati membri.
-
-))
+L'Autorita' di regolazione per energia reti e ambiente e' competente a risolvere le controversie, anche transfrontaliere, relative all'accesso alle infrastrutture di coltivazione del gas naturale. In caso di controversie transfrontaliere si applicano le disposizioni sulla risoluzione delle controversie relative allo Stato membro che ha giurisdizione sulla rete di gasdotti di coltivazione che nega l'accesso. Se, nelle controversie transfrontaliere, la rete interessata fa capo all'Italia e almeno ad un altro Stato membro, l'Autorita' di regolazione per energia reti e ambiente si consulta con le competenti autorita' degli altri Stati membri interessati al fine di garantire che le disposizioni della ((direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024)), siano coerentemente applicate. Se la rete di gasdotti di coltivazione ha origine in un paese terzo e si collega alla rete italiana, l'Autorita' di regolazione per energia reti e ambiente si consulta con le Autorita' di regolazione degli Stati membri interessati e, nel caso il primo punto di ingresso verso la rete degli Stati membri sia in Italia, consulta il paese terzo interessato in cui ha origine la rete di gasdotti di coltivazione al fine di garantire, per quanto concerne la rete interessata, che la direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE, sia coerentemente applicata nel territorio degli Stati membri. ((38))
 
 Nel caso di contitolarita' della concessione, tutti gli effetti derivanti dall'accesso di cui al comma 1 si verificano direttamente in capo ai singoli contitolari in ragione delle diverse quote detenute, non realizzandosi nella specie, anche ai fini fiscali, un autonomo centro di imputazione di rapporti giuridici.
+
+((Le misure relative all'accesso sono notificate alla Commissione europea)).
+
+-------------
+                            AGGIORNAMENTO (38)
+                            
+ Il D.Lgs. 3 luglio 2026, n. 136 ha disposto (con l'art. 12, comma 1, lettera a)) che, nel presente articolo, "al comma 4, al secondo e al terzo periodo, le parole: «direttiva 2009/73/CE, come modificata dalla direttiva 2019/692/UE» sono sostituite dalle seguenti: «direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024»".
 
 ## Art. 7. — Razionalizzazione dell'uso delle
  infrastrutture minerarie per la coltivazione
@@ -826,7 +882,8 @@ In caso di assenza di presentazione di domande di concessione di stoccaggio, il 
 
 ## Art. 14. — Attivita' di distribuzione
 
-L'attivita' di distribuzione di gas naturale e' attivita' di servizio pubblico. Il servizio e' affidato esclusivamente mediante gara per periodi non superiori a dodici anni. Gli enti locali che affidano il servizio, anche in forma associata, svolgono attivita' di indirizzo, di vigilanza, di programmazione e di controllo sulle attivita' di distribuzione, ed i loro rapporti con il gestore del servizio sono regolati da appositi contratti di servizio, sulla base di un contratto tipo predisposto dall'Autorita' per l'energia elettrica e il gas ed approvato dal Ministero dell'industria, del commercio e dell'artigianato entro sei mesi dalla data di entrata in vigore del presente decreto.
+L'attivita' di distribuzione di gas naturale e' attivita' di servizio pubblico. ((I gestori del sistema di distribuzione sono responsabili nell'assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di distribuzione di gas naturale, ivi incluso per l'iniezione del biometano, e di gestire, mantenere e sviluppare o dismettere nella sua area, a condizioni economiche accettabili, un sistema sicuro, affidabile ed efficiente, nel dovuto rispetto dell'ambiente, degli obblighi stabiliti nel regolamento (UE) 2024/1787 del Parlamento europeo e del Consiglio, del 13 giugno 2024 e dell'efficienza energetica.)) Il servizio e' affidato esclusivamente mediante gara per periodi non superiori a dodici anni.
+Gli enti locali che affidano il servizio, anche in forma associata, svolgono attivita' di indirizzo, di vigilanza, di programmazione e di controllo sulle attivita' di distribuzione, ed i loro rapporti con il gestore del servizio sono regolati da appositi contratti di servizio, sulla base di un contratto tipo predisposto dall'Autorita' per l'energia elettrica e il gas ed approvato dal Ministero dell'industria, del commercio e dell'artigianato entro sei mesi dalla data di entrata in vigore del presente decreto. ((Il contratto tipo deve prevedere la responsabilita' del gestore del sistema di distribuzione di assicurare una gestione efficiente della qualita' del gas nei suoi sistemi, in linea con le norme applicabili in materia di qualita' del gas, ove cio' sia necessario per la gestione del sistema a motivo dell'iniezione di gas rinnovabile e di gas a basse emissioni di carbonio)).
 
 Ai fini del presente decreto, per enti locali si intendono comuni, unioni di comuni e comunita' montane.
 
@@ -840,13 +897,37 @@ Nel rispetto degli standard qualitativi, quantitativi, ambientali, di equa distr
 
 Gli enti locali avviano la procedura di gara non oltre un anno prima della scadenza dell'affidamento, in modo da evitare soluzioni di continuita' nella gestione del servizio. Il gestore uscente resta comunque obbligato a proseguire la gestione del servizio, limitatamente all'ordinaria amministrazione, fino alla data di decorrenza del nuovo affidamento. Ove l'ente locale non provveda entro il termine indicato, la regione, anche attraverso la nomina di un commissario ad acta, avvia la procedura di gara.(17)
 
-((7-bis. Il gestore uscente e' tenuto a fornire all'ente locale tutte le informazioni necessarie per predisporre il bando di gara, entro un termine, stabilito dallo stesso ente in funzione dell'entita' delle informazioni richieste, comunque non superiore a sessanta giorni. Qualora il gestore uscente, senza giustificato motivo, ometta di fornire le informazioni richieste ovvero fornisca informazioni inesatte o fuorvianti oppure non fornisca le informazioni entro il termine stabilito, l'ente locale puo' imporre una sanzione amministrativa pecuniaria, il cui importo puo' giungere fino all'1 per cento del fatturato totale realizzato durante l'esercizio sociale precedente, e valutare il comportamento tenuto dal gestore uscente ai fini dell'applicazione dell'articolo 80, comma 5, lettera c-bis), del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50))
+Il gestore uscente e' tenuto a fornire all'ente locale tutte le informazioni necessarie per predisporre il bando di gara, entro un termine, stabilito dallo stesso ente in funzione dell'entita' delle informazioni richieste, comunque non superiore a sessanta giorni.
+Qualora il gestore uscente, senza giustificato motivo, ometta di fornire le informazioni richieste ovvero fornisca informazioni inesatte o fuorvianti oppure non fornisca le informazioni entro il termine stabilito, l'ente locale puo' imporre una sanzione amministrativa pecuniaria, il cui importo puo' giungere fino all'1 per cento del fatturato totale realizzato durante l'esercizio sociale precedente, e valutare il comportamento tenuto dal gestore uscente ai fini dell'applicazione dell'articolo 80, comma 5, lettera c-bis), del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50.
 
-Il nuovo gestore, con riferimento agli investimenti realizzati sugli impianti oggetto di trasferimento di proprieta' nei precedenti affidamenti o concessioni, e' tenuto a subentrare nelle garanzie e nelle obbligazioni relative ai contratti di finanziamento in essere o ad estinguere queste ultime e a corrispondere una somma al distributore uscente in misura pari al valore di rimborso per gli impianti la cui proprieta' e' trasferita dal distributore uscente al nuovo gestore. Nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi del comma 1, il valore di rimborso al gestore uscente e' pari al valore delle immobilizzazioni nette di localita' del servizio di distribuzione e misura, relativo agli impianti la cui proprieta' viene trasferita dal distributore uscente al nuovo gestore, incluse le immobilizzazioni in corso di realizzazione, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', calcolato secondo la metodologia della regolazione tariffaria vigente e sulla base della consistenza degli impianti al momento del trasferimento della proprieta'. ((31))
+Il nuovo gestore, con riferimento agli investimenti realizzati sugli impianti oggetto di trasferimento di proprieta' nei precedenti affidamenti o concessioni, e' tenuto a subentrare nelle garanzie e nelle obbligazioni relative ai contratti di finanziamento in essere o ad estinguere queste ultime e a corrispondere una somma al distributore uscente in misura pari al valore di rimborso per gli impianti la cui proprieta' e' trasferita dal distributore uscente al nuovo gestore. Nella situazione a regime, al termine della durata delle nuove concessioni di distribuzione del gas naturale affidate ai sensi del comma 1, il valore di rimborso al gestore uscente e' pari al valore delle immobilizzazioni nette di localita' del servizio di distribuzione e misura, relativo agli impianti la cui proprieta' viene trasferita dal distributore uscente al nuovo gestore, incluse le immobilizzazioni in corso di realizzazione, al netto dei contributi pubblici in conto capitale e dei contributi privati relativi ai cespiti di localita', calcolato secondo la metodologia della regolazione tariffaria vigente e sulla base della consistenza degli impianti al momento del trasferimento della proprieta'. (31)
 
 Gli oneri gravanti sul nuovo gestore ai sensi del comma 8 sono indicati nel bando di gara stimando il valore di rimborso delle immobilizzazioni previste dopo l'emissione del bando di gara. Il bando di gara riporta le modalita' per regolare il valore di rimborso relativo a queste ultime immobilizzazioni. Il gestore subentrante acquisisce la disponibilita' degli impianti dalla data del pagamento della somma corrispondente agli oneri suddetti, ovvero dalla data di offerta reale della stessa.
 
 Le imprese di gas che svolgono l'attivita' di distribuzione sono tenute alla certificazione di bilancio a decorrere dal 1o gennaio 2002.
+
+10-bis.
+                        
+                            
+                                
+                                    ((Con deliberazione dell'Autorita' di regolazione per energia reti e ambiente (ARERA) sono definiti e classificati come sistema di distribuzione chiuso i sistemi che distribuiscono gas naturale all'interno di un sito industriale, commerciale o di servizi condivisi geograficamente limitato e che, fatto salvo i casi di uso accidentale da un numero limitato di clienti civili, non rifornisce i clienti civili, purche' alternativamente)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((per specifiche ragioni tecniche o di sicurezza, le operazioni o il processo di produzione degli utenti di tale sistema siano integrati)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il sistema distribuisca gas naturale principalmente al proprietario o al gestore del sistema o a imprese ad essi collegate)).
+
+((L'ARERA provvede a esentare i gestori di sistemi di distribuzione chiusi del gas naturale dall'obbligo che le tariffe o le relative metodologie di calcolo siano approvate prima della loro entrata in vigore. In tali casi di esenzione concessa da ARERA le tariffe applicabili o le relative metodologie di calcolo sono rivedute e approvate conformemente all'articolo 78 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024, su richiesta di un utente del sistema di distribuzione chiuso del gas naturale. Il riconoscimento della esenzione concessa dall'ARERA non subisce pregiudizi nei casi di uso accidentale da parte di un numero limitato di clienti civili assunti dal proprietario del sistema di distribuzione, o legati a quest'ultimo da un vincolo simile, e situati nell'area servita da un sistema di distribuzione chiuso. I sistemi di distribuzione chiusi sono considerati sistemi di distribuzione)).
 
 ---------------
                             AGGIORNAMENTO (17)
@@ -929,7 +1010,9 @@ In caso di rifiuto l'utente ne informa l'Autorita' per l'energia elettrica e il 
 Le imprese di distribuzione perseguono il risparmio energetico e lo sviluppo delle fonti rinnnovabili. Gli obiettivi quantitativi nazionali, definiti in coerenza con gli impegni previsti dal protocollo di Kyoto, ed i principi di valutazione dell'ottenimento dei risultati sono individuati con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro dell'ambiente, sentita la Conferenza unificata, da emanare entro tre mesi dalla data di entrata in vigore del presente decreto.
 Gli obiettivi regionali e le relative modalita' di raggiungimento, utilizzando anche lo strumento della remunerazione delle iniziative di cui al comma 4 dell'articolo 23, nel cui rispetto operano le imprese di distribuzione, sono determinati con provvedimenti di pianificazione energetica regionale, sentiti gli organismi di raccordo regione-autonomie locali. In sede di Conferenza unificata e' verificata annualmente la coerenza degli obiettivi regionali con quelli nazionali.
 
-((COMMA ABROGATO DALLA L. 23 AGOSTO 2004, N. 239)).
+((Nel caso in cui un gestore del sistema di distribuzione sia responsabile del bilanciamento di quest'ultimo, le regole da esso adottate a tal fine, nonche' le regole per addebitare agli utenti del sistema lo sbilanciamento energetico, sono obiettive, trasparenti e non discriminatorie. Le condizioni di prestazione di questi servizi da parte dei gestori dei sistemi di distribuzione, comprese le regole e le tariffe, sono stabilite in modo non discriminatorio e corrispondente ai costi, secondo una metodologia compatibile con l'articolo 78, paragrafo 7, della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024 e sono oggetto di pubblicazione)).
+
+COMMA ABROGATO DALLA L. 23 AGOSTO 2004, N. 239.
 
 Le imprese di distribuzione di gas naturale sospendono altresi' la fornitura di gas agli impianti su richiesta dell'ente locale competente per i controlli ai sensi dell'articolo 31, comma 3, della legge 9 gennaio 1991, n. 10, motivata dalla riscontrata non conformita' dell'impianto alle norme o dal reiterato rifiuto del responsabile dell'impianto a consentire i controlli di cui alla citata legge n. 10 del 1991.
 
@@ -950,26 +1033,17 @@ L'Elenco dei soggetti abilitati alla vendita di gas naturale ai clienti finali e
 
 Per motivi di continuita' del servizio, o su segnalazione dell'Autorita' per l'energia elettrica e il gas, con decreto del Ministero dell'industria, del commercio e dell'artigianato le imprese distributrici possono essere autorizzate in via eccezionale a svolgere transitoriamente l'attivita' di vendita ai clienti finali nell'area di loro operativita'. Tale attivita' e' esercitata a condizioni e modalita' stabilite dall'Autorita' per l'energia elettrica e il gas.
 
-## Art. 18. — Disciplina dell'attivita' di vendita
+## Art. 18. — (( (Disciplina dell'attivita' di vendita). ))
 
-A decorrere dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 2002 i soggetti che svolgono l'attivita' di trasporto, nell'ambito della loro attivita' di dispacciamento sulla rete nazionale di gasdotti devono fornire ai clienti non idonei, direttamente o indirettamente connessi alla porzione di rete su cui svolgono la loro attivita', la disponibilita' del servizio di modulazione stagionale e di punta stagionale e giornaliera adeguata alla domanda di un anno con inverno rigido con frequenza ventennale.
-L'Autorita' per l'energia elettrica ed il gas vigila sull'espletamento dell'obbligo suddetto.
 
-((
 
-Il servizio di cui al comma 1 e' fornito dai soggetti che svolgono l'attivita' di vendita. Il Ministero dello sviluppo economico determina i criteri per il calcolo degli obblighi di modulazione per il periodo di punta stagionale per aree di prelievo omogenee in funzione dei valori climatici, tenendo conto degli obblighi di garanzia delle forniture di gas naturale ai clienti protetti di cui all'articolo 6 del regolamento (UE) 2017/1938 del Parlamento europeo e del Consiglio, del 25 ottobre 2017, concernente misure volte a garantire la sicurezza dell'approvvigionamento di gas e che abroga il regolamento (UE) n. 994/2010, di seguito "regolamento (UE) 2017/1938".
+((I soggetti che svolgono attivita' di vendita ai clienti protetti di cui all'articolo 22, comma 2, a decorrere dal 1° ottobre 2011 forniscono agli stessi clienti il servizio di modulazione stagionale e di punta stagionale e giornaliera adeguato alla garanzia delle forniture di gas naturale ai clienti protetti ai sensi dell'articolo 6 del regolamento (UE) 2017/1938 del Parlamento europeo e del Consiglio, del 25 ottobre 2017, ovvero, ove abbiano installato misuratori multiorari di gas naturale, il servizio richiesto direttamente dai clienti stessi)).
 
-))
+((I soggetti che svolgono l'attivita' di vendita a clienti diversi da quelli individuati al comma 2 devono fornire contestualmente agli stessi clienti la disponibilita' del servizio di modulazione stagionale e di punta stagionale, giornaliera e oraria richiesta dai clienti stessi)).
 
-I soggetti che svolgono attivita' di vendita ai clienti civili, ivi comprese le utenze relative ad attivita' di servizio pubblico, tra cui ospedali, case di cura e di riposo, carceri, scuole, e altre strutture pubbliche o private che svolgono un'attivita' riconosciuta di assistenza, nonche' a clienti non civili con consumi non superiori a 50.000 metri cubi annui, a decorrere dal 1° ottobre 2011 forniscono agli stessi clienti il servizio di modulazione di cui al comma 2, ovvero, ove abbiano installato misuratori multiorari di gas naturale, il servizio richiesto direttamente dai clienti stessi. L'Autorita' per l'energia elettrica ed il gas vigila sulla trasparenza delle condizioni contrattuali e, con proprie deliberazioni, puo' stabilire un codice di condotta commerciale in cui sono determinate le modalita' e i contenuti delle informazioni minime che i soggetti che svolgono l'attivita' di vendita devono fornire ai clienti stessi.
+((Per i clienti finali con consumo annuo superiore a 200.000 Smc la misurazione del gas e' effettuata su base oraria a decorrere dal 1° luglio 2002. L'ARERA, con proprie deliberazioni, puo' prorogare, su specifica istanza di imprese di trasporto o di distribuzione, il suddetto termine temporale, e puo' estendere l'obbligo di misurazione su base oraria ad altre tipologie di clienti)).
 
-A decorrere dalla data di entrata in vigore del presente decreto i soggetti che svolgono l'attivita' di vendita a clienti idonei devono fornire contestualmente agli stessi clienti la disponibilita' del servizio di modulazione stagionale e di punta stagionale, giornaliera e oraria richiesta dai clienti stessi. I criteri per la determinazione delle capacita' di stoccaggio associate alla domanda degli stessi clienti sono stabiliti nell'ambito del codice di stoccaggio.
-
-Per i clienti finali con consumo annuo superiore a 200.000 Smc la misurazione del gas e' effettuata su base oraria a decorrere dal 1 luglio 2002; l'Autorita' per l'energia elettrica ed il gas, con proprie deliberazioni, puo' prorogare, su specifica istanza di imprese di trasporto o di distribuzione, il suddetto termine temporale, e puo' estendere l'obbligo di misurazione su base oraria ad altre tipologie di clienti.
-
-I soggetti che effettuano la vendita di gas naturale devono disporre di capacita' di trasporto, modulazione e stoccaggio adeguate alle forniture ad essi richieste. Nel caso essi utilizzino, per sopperire a temporanee richieste dei clienti superiori a quanto concordato, ulteriori capacita' di trasporto, stoccaggio e di modulazione oltre quanto impegnato, sono tenuti a versare ai soggetti che svolgono le connesse attivita' di trasporto e dispacciamento e di stoccaggio un corrispettivo, determinato dall'Autorita' per l'energia elettrica ed il gas entro il 1 gennaio 2001, ai fini del bilanciamento del sistema o per la tempestiva reintegrazione degli stoccaggi.
-
-Le imprese di gas che svolgono l'attivita' di vendita sono tenute alla certificazione di bilancio a decorrere dal 1 gennaio 2002.
+((I soggetti che effettuano la vendita di gas naturale devono disporre di capacita' di trasporto in uscita dalla rete di trasporto adeguata alle forniture ai propri clienti e risorse adeguate a garantirne il servizio di modulazione e il bilanciamento)).
 
 ## - Titolo VI Norme per la tutela e lo sviluppo della concorrenza
 
@@ -987,13 +1061,11 @@ I limiti di cui ai commi 2 e 3 si intendono superati qualora la media delle perc
 
 A decorrere dalla data di entrata in vigore del presente decreto le norme in materia di metanizzazione del Mezzogiorno che riservino incentivi o contributi in qualunque forma a favore della societa' ENI, o di societa' da essa controllate o ad essa collegate, sono applicabili a qualunque impresa del gas, avente sede nell'Unione europea, operante nel settore del trasporto o della distribuzione di gas naturale.
 
-((
-
 Per l'ammissibilita' ai contributi di cui all'articolo 9 della legge 7 agosto 1997, n. 266, come modificato dall'articolo 28 della legge 17 maggio 1999, n. 144, i soggetti titolari di una concessione per la costruzione degli impianti e per la gestione del servizio di distribuzione del gas sono tenuti a dare conferma ai comuni dell'esecuzione della concessione stessa entro due mesi dalla data di pubblicazione delle nuove tariffe di distribuzione del gas determinate dall'Autorita' per l'energia elettrica e il gas ai sensi dell'articolo 23, comma 2. Decorso tale termine, la concessione si intende risolta e i comuni possono procedere ad una gara per l'affidamento ad altro concessionario, fermi restando la validita' delle domande di contributo presentate per l'ottenimento dei benefici di cui alle leggi citate e l'ammontare dei contributi eventualmente gia' determinati. Nel caso di bacini di utenza non sono ammissibili rinunce parziali da parte del concessionario. Il termine per la presentazione delle domande di contributo e' prorogato al 30 giugno 2001.
 
-))
-
 Nel caso di superamento dei limiti di cui ai commi 2 e 3, l'Autorita' garante della concorrenza e del mercato adotta i provvedimenti di cui all'articolo 15 della legge 10 ottobre 1990, n. 287.
+
+((I gestori dei sistemi di distribuzione cooperano con i gestori dei sistemi di trasporto per garantire la partecipazione effettiva dei partecipanti al mercato collegati alla loro infrastruttura nei mercati al dettaglio, all'ingrosso e di bilanciamento nell'ambito del sistema di entrata-uscita cui appartiene o e' collegato il sistema di distribuzione)).
 
 ## Art. 20. — Obblighi di informazione delle imprese del gas
 
@@ -1007,14 +1079,10 @@ Le imprese di cui al comma 1 non possono utilizzare a proprio vantaggio le infor
 
 Le imprese di cui al comma 1 non operano discriminazioni tra gli utenti del sistema o categorie di utenti del sistema, in particolare a favore di imprese loro collegate.
 
-((
-
 Le imprese di cui al comma 1 impediscono che le informazioni concernenti le proprie attivita', che potrebbero essere commercialmente vantaggiose, siano divulgate in modo discriminatorio.
-In particolare, le informazioni commercialmente sensibili non sono divulgate ad altre parti dell'impresa salvo risulti necessario per effettuare una operazione commerciale. Il proprietario di una impresa di trasporto e la restante parte dell'impresa non devono utilizzare servizi comuni, quali servizi legali comuni, ad eccezione delle funzioni meramente amministrative o dei servizi informatici.
+In particolare, le informazioni commercialmente sensibili non sono divulgate ad altre parti dell'impresa salvo risulti necessario per effettuare una operazione commerciale. Il proprietario di una impresa di trasporto e la restante parte dell'impresa non devono utilizzare servizi comuni, quali servizi legali comuni, ad eccezione delle funzioni meramente amministrative o dei servizi informatici. ((Se il gestore del sistema di trasporto, stoccaggio del gas naturale o di GNL, o il proprietario del sistema di trasporto e' parte di un'impresa verticalmente integrata, esso non divulga, in particolare, alcuna informazione commercialmente sensibile alle altre parti dell'impresa verticalmente integrata diverse dai gestori dei sistemi di trasporto, dai gestori dei sistemi di distribuzione o dai gestori delle reti dell'idrogeno, salvo che cio' risulti necessario per effettuare un'operazione commerciale. Al fine di garantire la piena osservanza delle norme sulla separazione delle informazioni, lo Stato membro assicura che il proprietario del sistema di trasporto, compreso, nel caso del gestore di un sistema combinato, il gestore del sistema di distribuzione, e le restanti parti dell'impresa che non siano gestori dei sistemi di trasporto o di distribuzione ne' gestori delle reti dell'idrogeno non utilizzino servizi comuni, quali servizi legali comuni, ad eccezione delle funzioni meramente amministrative o dei servizi informatici)).
 
 Nel corso di operazioni di compravendita da parte di imprese collegate, alle imprese di cui al comma 1 e' fatto divieto di abuso delle informazioni commercialmente sensibili acquisite da terzi nel negoziare o fornire l'accesso ai sistemi e agli impianti gestiti dalle stesse imprese.
-
-))
 
 ## Art. 21. — Separazione contabile e societaria per le imprese del gas naturale
 
@@ -1032,7 +1100,7 @@ In deroga a quanto stabilito nei commi precedenti, e' fatta salva la facolta' de
 
 ## Art. 22. — Obblighi relativi al servizio pubblico e tutela dei consumatori
 
-Tutti i clienti sono idonei.
+
 
 Sono considerati clienti protetti i clienti domestici, le utenze relative ad attivita' di servizio pubblico, tra cui ospedali, case di cura e di riposo, carceri, scuole, e altre strutture pubbliche e private che svolgono un'attivita' riconosciuta di assistenza nonche' i clienti civili e non civili con consumo non superiore a 50.000 metri cubi annui. Per essi vige l'obbligo di assicurare, col piu' alto livello di sicurezza possibile, le forniture di gas naturale anche in momenti critici o in situazioni di emergenza del sistema del gas naturale. PERIODO SOPPRESSO DALLA L. 4 AGOSTO 2017, N. 124.(19) (20) (27)(33)
 
@@ -1074,11 +1142,11 @@ Sono considerati clienti protetti i clienti domestici, le utenze relative ad att
                                 e)
                                 
                                     di eta' superiore ai 75 anni. 
- 2-bis.1. ((A decorrere dal 10 gennaio 2024)), i fornitori e gli esercenti il servizio di fornitura di ultima istanza sono tenuti a offrire ai clienti vulnerabili di cui al comma 2-bis la fornitura di gas naturale a un prezzo che rifletta il costo effettivo di approvvigionamento nel mercato all'ingrosso, i costi efficienti del servizio di commercializzazione e le condizioni contrattuali e di qualita' del servizio, cosi' come definiti dall'Autorita' di regolazione per energia, reti e ambiente (ARERA) con uno o piu' provvedimenti e periodicamente aggiornati. L'ARERA definisce altresi' le specifiche misure perequative a favore degli esercenti il servizio di fornitura di ultima istanza.
+ 2-bis.1. A decorrere dal 10 gennaio 2024, i fornitori e gli esercenti il servizio di fornitura di ultima istanza sono tenuti a offrire ai clienti vulnerabili di cui al comma 2-bis la fornitura di gas naturale a un prezzo che rifletta il costo effettivo di approvvigionamento nel mercato all'ingrosso, i costi efficienti del servizio di commercializzazione e le condizioni contrattuali e di qualita' del servizio, cosi' come definiti dall'Autorita' di regolazione per energia, reti e ambiente (ARERA) con uno o piu' provvedimenti e periodicamente aggiornati. L'ARERA definisce altresi' le specifiche misure perequative a favore degli esercenti il servizio di fornitura di ultima istanza.
 
 Sono considerati "clienti protetti nel quadro della solidarieta'" ai sensi del regolamento (UE) 2017/1938, i clienti civili che sono connessi ad una rete di distribuzione del gas, inclusi i servizi sociali essenziali diversi dai servizi di istruzione e di pubblica amministrazione e gli impianti di teleriscaldamento che servono clienti civili o servizi sociali essenziali diversi dai servizi di istruzione e di pubblica amministrazione.
 
-Tutti i clienti hanno il diritto di essere riforniti di gas naturale da un fornitore, ove questi lo accetti, a prescindere dallo Stato membro in cui il fornitore e' registrato, a condizione che il fornitore rispetti le norme applicabili in materia di scambi e bilanciamento e fatti salvi i requisiti in materia di sicurezza degli approvvigionamenti.
+((COMMA ABROGATO DAL D.LGS. 3 LUGLIO 2026, N. 136)).
 
 4.
                         
@@ -1089,7 +1157,8 @@ Tutti i clienti hanno il diritto di essere riforniti di gas naturale da un forni
                             
                                 a)
                                 
-                                    qualora un cliente, nel rispetto delle condizioni contrattuali, intenda cambiare fornitore, l'operatore o gli operatori interessati effettuino tale cambiamento entro tre settimane assicurando comunque che l'inizio della fornitura coincida con il primo giorno del mese; 
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 3 LUGLIO 2026, N. 136)); 
 
                                 
                             
@@ -1107,9 +1176,13 @@ Tutti i clienti hanno il diritto di essere riforniti di gas naturale da un forni
 
 Allo scopo di promuovere l'efficienza energetica l'Autorita' per l'energia elettrica e il gas stabilisce criteri in base ai quali le imprese di gas naturale ottimizzino l'utilizzo del gas naturale, anche fornendo servizi di gestione dell'energia, sviluppando formule tariffarie innovative, introducendo sistemi di misurazione intelligenti o, se del caso, reti intelligenti.
 
-L'Autorita' per l'energia elettrica e il gas, anche avvalendosi dell'Acquirente unico Spa, ai sensi dell'articolo 27, comma 2, della legge 23 luglio 2009, n. 99, provvede affinche' siano istituiti sportelli unici al fine di mettere a disposizione dei clienti tutte le informazioni necessarie concernenti i loro diritti, la normativa in vigore e le modalita' di risoluzione delle controversie di cui dispongono.
+L'Autorita' per l'energia elettrica e il gas, anche avvalendosi dell'Acquirente unico Spa, ai sensi dell'articolo 27, comma 2, della legge 23 luglio 2009, n. 99, provvede affinche' siano istituiti sportelli unici al fine di mettere a disposizione dei clienti tutte le informazioni necessarie concernenti i loro diritti, la normativa in vigore e le modalita' di risoluzione delle controversie di cui dispongono ((gli strumenti di confronto, le misure di sostegno disponibili, ivi comprese quelle destinate ai clienti vulnerabili e in poverta' energetica)).
 
-Con decreto del Ministero dello sviluppo economico, anche in base a quanto previsto all'articolo 30, commi 5 e 8, della legge 23 luglio 2009, n. 99, sono individuati e aggiornati i criteri e le modalita' per la fornitura di gas naturale nell'ambito del servizio di ultima istanza, a condizioni che incentivino la ricerca di un nuovo fornitore sul mercato, per tutti i clienti civili e i clienti non civili con consumi pari o inferiori a 50.000 metri cubi all'anno nonche' per le utenze relative ad attivita' di servizio pubblico, tra cui ospedali, case di cura e di riposo, carceri, scuole, e altre strutture pubbliche e private che svolgono un'attivita' riconosciuta di assistenza, nonche' nelle aree geografiche nelle quali non si e' ancora sviluppato un mercato concorrenziale nell'offerta di gas naturale, ai sensi dell'articolo 1, comma 46, della legge 23 agosto 2004, n. 239.
+((Con decreto del Ministro dell'ambiente e della sicurezza energetica, su proposta dell'ARERA, sono individuati i criteri e le modalita' per la fornitura, da parte di esercenti selezionati dalla societa' Acquirente unico S.p.A. all'esito di procedure a evidenza pubblica, di gas naturale nell'ambito del servizio di ultima istanza, a condizioni che incentivino la ricerca di un nuovo fornitore sul mercato, per i clienti di cui al comma 2, nonche' nelle aree geografiche nelle quali non si e' ancora sviluppato un mercato concorrenziale nell'offerta di gas naturale)).
+
+((I clienti finali trasferiti a un fornitore di ultima istanza conservano tutti i diritti riconosciuti in qualita' di clienti finali. I fornitori comunicano ai clienti, a mezzo posta elettronica certificata o, in mancanza, a mezzo raccomandata con avviso di ricevimento, i termini e le condizioni del servizio di ultima istanza e garantiscono loro la continuita' del servizio medesimo per il periodo necessario alla scelta di un nuovo fornitore e per almeno sei mesi)).
+
+((L'ARERA assicura, nell'ambito della disciplina della gestione della morosita' dei clienti finali, la tutela dei clienti vulnerabili e in condizioni di poverta' energetica dal rischio di interruzione della fornitura)).
 
 --------------
                             AGGIORNAMENTO (19)
@@ -1142,17 +1215,24 @@ Le estensioni e i potenziamenti di reti e di impianti esistenti nei comuni gia' 
 
 Fino al 31 dicembre 2000 le imprese che svolgono attivita' di trasporto e dispacciamento, di stoccaggio determinano transitoriamente e pubblicano le tariffe applicate. Successivamente alla pubblicazione delle tariffe determinate dall'Autorita' per l'energia elettrica e il gas, esse procedono a compensazione nei confronti degli utenti interessati, con riferimento al periodo di applicazione della tariffa transitoria.
 
-## Art. 24. — Disciplina dei casi di rifiuto di accesso per mancanza di capacita', per obblighi di servizio pubblico o per gravi difficolta' economiche dovute a contratti "take or pay"
+## Art. 24.
+
+Disciplina dei casi di rifiuto di accesso per mancanza di capacita', per obblighi di servizio pubblico o per gravi difficolta' economiche dovute a contratti "take or pay"
 
 Le imprese di gas naturale hanno l'obbligo di permettere l'accesso al sistema a coloro che ne facciano richiesta nel rispetto delle condizioni tecniche di accesso e di interconnessione di cui al presente decreto.
 
-In deroga a quanto previsto al comma 1 le imprese di gas naturale possono rifiutare l'accesso al sistema del gas alle altre imprese o ai clienti idonei che ne facciano richiesta solo nel caso in cui esse non dispongano della capacita' necessaria, o nel caso in cui l'accesso al sistema impedirebbe loro di svolgere gli obblighi di servizio pubblico cui sono soggette, ovvero nel caso in cui dall'accesso derivino gravi difficolta' economiche e finanziarie ad imprese del gas naturale operanti nel sistema, in relazione a contratti di tipo "take or pay" sottoscritti prima dell'entrata in vigore della direttiva 98/30/CE.
+In deroga a quanto previsto al comma 1 le imprese di gas naturale possono rifiutare l'accesso al sistema del gas alle altre imprese o ai clienti idonei che ne facciano richiesta solo nel caso in cui esse non dispongano della capacita' necessaria, o nel caso in cui l'accesso al sistema impedirebbe loro di svolgere gli obblighi di servizio pubblico cui sono soggette, ovvero nel caso in cui dall'accesso derivino gravi difficolta' economiche e finanziarie ad imprese del gas naturale operanti nel sistema, in relazione a contratti di tipo "take or pay" sottoscritti prima dell'entrata in vigore della direttiva 98/30/CE. ((I gestori dei sistemi di trasporto o i gestori dei sistemi di distribuzione che rifiutano l'accesso o la connessione al sistema del gas naturale per mancanza di capacita' o di connessione sono tenuti ad apportare i miglioramenti del caso, ove economicamente giustificabile o qualora un cliente potenziale sia disposto a sostenerne il costo)).
 
-Il rifiuto e' manifestato con dichiarazione motivata ed e' comunicato immediatamente all'Autorita' per l'energia elettrica e il gas e all'Autorita' garante della concorrenza e del mercato, nonche' al Ministero dell'industria, del commercio e dell'artigianato.
+((Per il gas rinnovabile e il gas a basse emissioni di carbonio l'accesso al sistema puo' essere rifiutato solo fatti salvi gli articoli 20 e 36 del regolamento (UE) 2024/1789 del Parlamento europeo e del Consiglio, del 13 giugno 2024.))
+
+((Il rifiuto e l'eventuale disconnessione sono manifestati con dichiarazione motivata ed e' comunicato immediatamente all'ARERA e all'Autorita' garante della concorrenza e del mercato, nonche' al Ministero dell'ambiente e della sicurezza energetica.))
 
 In nessun caso puo' essere rifiutato l'accesso alle imprese relativamente al gas naturale prodotto nel territorio nazionale, nel mare territoriale e nella piattaforma continentale italiana.
 
-L'Autorita' per l'energia elettrica e il gas, con delibera da emanare entro sei mesi dalla data di entrata in vigore del presente decreto, fissa i criteri atti a garantire a tutti gli utenti della rete la liberta' di accesso a parita' di condizioni, la massima imparzialita' e la neutralita' del trasporto e del dispacciamento e dell'utilizzo dei terminali di GNL in condizioni di normale esercizio e gli obblighi dei soggetti che svolgono le attivita' di trasporto e dispacciamento del gas e che detengono terminali di GNL. Entro tre mesi dalla pubblicazione della citata delibera i soggetti di cui al comma 1 adottano il proprio codice di rete, che e' trasmesso all'Autorita' per l'energia elettrica e il gas che ne verifica la conformita' ai suddetti criteri. Trascorsi tre mesi dalla trasmissione senza comunicazioni da parte dell'Autorita' per l'energia elettrica e il gas, il codice di rete si intende conforme.
+L'Autorita' per l'energia elettrica e il gas, con delibera da emanare entro sei mesi dalla data di entrata in vigore del presente decreto, fissa i criteri atti a garantire a tutti gli utenti della rete la liberta' di accesso a parita' di condizioni, la massima imparzialita' e la neutralita' del trasporto e del dispacciamento e dell'utilizzo dei terminali di GNL in condizioni di normale esercizio e gli obblighi dei soggetti che svolgono le attivita' di trasporto e dispacciamento del gas e che detengono terminali di GNL. Entro tre mesi dalla pubblicazione della citata delibera i soggetti di cui al comma 1 adottano il proprio codice di rete, che e' trasmesso all'Autorita' per l'energia elettrica e il gas che ne verifica la conformita' ai suddetti criteri. Trascorsi tre mesi dalla trasmissione senza comunicazioni da parte dell'Autorita' per l'energia elettrica e il gas, il codice di rete si intende conforme. ((L'ARERA provvede affinche' i gestori dei sistemi di trasporto e i gestori dei sistemi di distribuzione siano autorizzati a rifiutare l'accesso o la connessione degli utenti alla rete del gas naturale, o a interrompere la fornitura, specie per garantire il rispetto dell'attuazione dell'obiettivo della neutralita' climatica di cui all'articolo 2, paragrafo 1, del regolamento (UE) 2021/1119 del Parlamento europeo e del Consiglio, del 30 giugno 2021, a condizione che: 
+ a) il piano di sviluppo della rete istituito a norma dell'articolo 55 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024 preveda la dismissione del sistema di trasporto o di parti pertinenti dello stesso; 
+b) la stessa ARERA abbia approvato il piano di dismissione della rete a norma dell'articolo 57, paragrafo 3 della direttiva (UE) 2024/1788; 
+c) il pertinente gestore della rete di distribuzione, esentato dall'obbligo di presentare un piano di dismissione della rete, a norma dell'articolo 57, paragrafo 5, della direttiva (UE) 2024/1788, abbia informato l'ARERA della dismissione della rete di distribuzione o di parti pertinenti della stessa. Nei casi indicati al periodo precedente, con delibera dell'ARERA sono indicate le modalita' per il rifiuto dell'accesso o della connessione, o per la disconnessione, basato su criteri obiettivi, trasparenti e non discriminatori, tenuto conto degli interessi in causa, dei requisiti esistenti volti alla riduzione o all'abbandono del consumo di gas di origine fossile e dei pertinenti piani locali di riscaldamento e raffrescamento stabiliti a norma dell'articolo 25, paragrafo 6, della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023. Sono altresi' adottate le misure adeguate per proteggere gli utenti della rete, a norma dell'articolo 13 della direttiva (UE) 2024/1788 allorche' autorizzano la disconnessione.))
 
 ## Art. 25. — Procedure di verifica in caso di rifiuto di accesso per mancanza di capacita', di connessione o per obblighi di servizio pubblico
 
@@ -1172,12 +1252,12 @@ Il Ministero dell'industria, del commercio e dell'artigianato, acquisito il pare
 
 In caso di rifiuto definitivo a concedere la deroga, l'impresa e' obbligata a fornire l'accesso al sistema all'impresa richiedente.
 
-## Art. 27. — Norme per garantire l'interconnessione e
- l'interoperabilita' del sistema gas
+## Art. 27. — Norme per garantire l'interconnessione e l'interoperabilita' del sistema gas
 
-Con decreto del Ministero dell'industria, del commercio e dell'artigianato, da emanare entro sei mesi dalla data di entrata in vigore del presente decreto, sono emanate le norme tecniche sui requisiti minimi di progettazione, costruzione ed esercizio delle opere e impianti di trasporto, di distribuzione, di linee dirette, di stoccaggio di gas, e degli impianti di GNL, per la connessione al sistema del gas, nonche' le norme tecniche sulle caratteristiche chimico-fisiche e del contenuto di altre sostanze del gas da vettoriare, al fine di garantire la possibilita' di interconnessione e l'interoperabilita' dei sistemi, in modo obiettivo e non discriminatorio, anche nei confronti degli scambi transfrontalieri con altri Paesi dell'Unione europea.
+Con decreto del Ministero dell'industria, del commercio e dell'artigianato, da emanare entro sei mesi dalla data di entrata in vigore del presente decreto, sono emanate le norme tecniche sui requisiti minimi di progettazione, costruzione ed esercizio delle opere e impianti di trasporto, di distribuzione, di linee dirette, di stoccaggio di gas, e degli impianti di GNL, per la connessione al sistema del gas, nonche' le norme tecniche sulle caratteristiche chimico-fisiche e del contenuto di altre sostanze del gas da vettoriare, al fine di garantire la possibilita' di interconnessione e l'interoperabilita' dei sistemi, in modo obiettivo e non discriminatorio, anche nei confronti degli scambi transfrontalieri con altri Paesi dell'Unione europea. ((Il decreto di cui al primo periodo e' aggiornato in conformita' alle prescrizioni di cui all'articolo 10 paragrafo 1 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024 sui criteri tecnici di sicurezza e le relative norme tecniche aggiornate necessarie.))
 
-Le norme tecniche di cui al comma 1 sono notificate alla Commissione ai sensi dell'articolo 8 della direttiva 98/34/CE del 28 marzo 1983, che prevede una procedura di informazione nel settore delle norme e delle regolamentazioni tecniche, e pubblicate nel bollettino ufficiale degli idrocarburi e geotermia.
+Le norme tecniche di cui al comma 1 sono notificate alla Commissione ai sensi dell'articolo 8 della direttiva 98/34/CE del 28 marzo 1983, che prevede una procedura di informazione nel settore delle norme e delle regolamentazioni tecniche, e pubblicate nel bollettino ufficiale degli idrocarburi e geotermia. 
+ 1-bis. ((I gestori dei sistemi di trasporto, dei sistemi di distribuzione e i gestori delle reti dell'idrogeno sono tenuti a pubblicare le norme tecniche in conformita' del presente articolo, in particolare riguardo alle norme di connessione alla rete, comprendenti requisiti in materia di qualita', odorizzazione e pressione del gas. I gestori dei sistemi di trasporto e di distribuzione sono altresi' tenuti a pubblicare gli oneri per la connessione del gas da fonti rinnovabili sulla base di criteri oggettivi, trasparenti e non discriminatori.))
 
 ## - Titolo VIII Organizzazione del settore
 
