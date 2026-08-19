@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-18",
+  "zip_date": "2026-08-19",
   "entries": {
     "DECRETO LEGISLATIVO_19881109_478/1988-11-11_088G0566_ORIGINALE_V0.xml": {
       "sha256": "75d0c44467cdec57a1e802dceadfb953c5f37608d5175ecc916c0a4a549e438b",
@@ -3921,8 +3921,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-03-10-23.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-03-10;23"
     },
-    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-06-11_V0.xml": {
-      "sha256": "d20152e0904998a57a5c8c698e076ed73ef82e47f67f463ec5ecaaabf823524a",
+    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-08-19_V0.xml": {
+      "sha256": "dc4aaa4cb2935b08eb7c32c1449f5a577eb34674705148cc2f08902dac00936e",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-03-24-33.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-03-24;33"
     },

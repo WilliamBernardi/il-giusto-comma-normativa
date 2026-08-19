@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-18",
+  "zip_date": "2026-08-19",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -381,8 +381,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2024-11-14-175.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-11-14;175"
     },
-    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-06-11_V0.xml": {
-      "sha256": "d20152e0904998a57a5c8c698e076ed73ef82e47f67f463ec5ecaaabf823524a",
+    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-08-19_V0.xml": {
+      "sha256": "dc4aaa4cb2935b08eb7c32c1449f5a577eb34674705148cc2f08902dac00936e",
       "out": "Testi Unici/stato-decreto.legislativo-2025-03-24-33.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-03-24;33"
     },
