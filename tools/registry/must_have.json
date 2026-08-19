@@ -4,6 +4,15 @@
   "note": "Calibrated from the first corpus-build run of the official Codici VIGENTE AKN collection (2026-08-01 zip). Windows: min=actual-15, max=actual+25 to allow amendment-driven growth while catching regressions.",
   "entries": [
     {
+      "urn": "urn:nir:stato:costituzione:1947-12-27",
+      "codice_redazionale": "047U0001",
+      "name": "Costituzione della Repubblica Italiana",
+      "expected_articles_min": 139,
+      "expected_articles_max": 160,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
       "urn": "urn:nir:stato:regio.decreto:1942-03-16;262",
       "codice_redazionale": "042U0262",
       "name": "Codice Civile",
