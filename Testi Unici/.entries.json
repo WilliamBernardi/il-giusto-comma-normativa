@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-19",
+  "zip_date": "2026-08-20",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -366,8 +366,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2018-05-21-75.md",
       "urn": "urn:nir:stato:decreto.legislativo:2018-05-21;75"
     },
-    "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-02-21_V0.xml": {
-      "sha256": "3347a9473b34eb42e57944864513e32a329c86954eedecf61c60b666b2461989",
+    "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-08-20_V0.xml": {
+      "sha256": "5028f5ffe97b6652a82f32c37df5ee5bf789e199a23681ebb6a272b2f7722d25",
       "out": "Testi Unici/stato-decreto.legislativo-2024-11-05-173.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-11-05;173"
     },
@@ -376,8 +376,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2024-11-05-174.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-11-05;174"
     },
-    "DECRETO LEGISLATIVO_20241114_175/2024-11-28_24G00193_VIGENZA_2026-05-13_V0.xml": {
-      "sha256": "b03309fdacdca5e48c6e71d58b4a2698fb666f936d98710e3c5e9947f1489ae4",
+    "DECRETO LEGISLATIVO_20241114_175/2024-11-28_24G00193_VIGENZA_2026-08-20_V0.xml": {
+      "sha256": "bedca9fe971c737a10859ffa45e16937b4a360ce00715d221c590a83e931b9aa",
       "out": "Testi Unici/stato-decreto.legislativo-2024-11-14-175.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-11-14;175"
     },
