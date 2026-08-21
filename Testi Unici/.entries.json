@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-20",
+  "zip_date": "2026-08-21",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -176,8 +176,8 @@
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1988-03-31-148.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-03-31;148"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-05-26_V0.xml": {
-      "sha256": "18363fa1ee79f752b1e4112008873811df73fa2673ebc8bb02668c4233dcf532",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-08-21_V0.xml": {
+      "sha256": "47826d82301ed994739fd00686d165241651522c5490d2859bba66bb24df3ce4",
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1990-10-09-309.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309"
     },

@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-20",
+  "zip_date": "2026-08-21",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19890804_296/1989-08-23_089G0372_ORIGINALE_V0.xml": {
       "sha256": "b4b68b6ec62847ac1692378e52f37d92f63ede4723c9c0a15afe7aaede011ce0",
@@ -4906,8 +4906,8 @@
       "out": "Regolamenti ministeriali/ministero.interno-decreto-1999-05-26-243.md",
       "urn": "urn:nir:ministero.interno:decreto:1999-05-26;243"
     },
-    "DECRETO_19990531_164/1999-06-11_099G0243_VIGENZA_2025-10-14_V0.xml": {
-      "sha256": "27aa9835718bbd156d0242672f907386dee0d27401e42dd296fa6e37d43f2a01",
+    "DECRETO_19990531_164/1999-06-11_099G0243_VIGENZA_2026-08-21_V0.xml": {
+      "sha256": "0260b09392c0a51642978011d25f1a9eec1f25b79537e41111de8cfb09e8bf62",
       "out": "Regolamenti ministeriali/ministero.finanze-decreto-1999-05-31-164.md",
       "urn": "urn:nir:ministero.finanze:decreto:1999-05-31;164"
     },

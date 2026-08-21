@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-20",
+  "zip_date": "2026-08-21",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -171061,8 +171061,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1973-09-29-600.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;600"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19730929_601/1973-10-16_073U0601_VIGENZA_2025-07-30_V0.xml": {
-      "sha256": "ea1505bb4411a5dc3659cc428870d634639c90645b1cab99314edebba65321a2",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19730929_601/1973-10-16_073U0601_VIGENZA_2026-08-21_V0.xml": {
+      "sha256": "6ed142ea9bd48e81e3445c556263c943f7e2f6b48f801d34b4518895cd6bb060",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1973-09-29-601.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-29;601"
     },
@@ -231456,8 +231456,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-09-443.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-09;443"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-08-09_V0.xml": {
-      "sha256": "3505cef0c4678e4da4b76123289163aab1a52a2b21062542df20ba6d0d7fe315",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-08-21_V0.xml": {
+      "sha256": "3aa5b272ce687fde1d9388875bf6673ace5ef5ffe390366158774775327558c5",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
     },
@@ -231931,8 +231931,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1990-09-28-371.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-09-28;371"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-05-26_V0.xml": {
-      "sha256": "18363fa1ee79f752b1e4112008873811df73fa2673ebc8bb02668c4233dcf532",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-08-21_V0.xml": {
+      "sha256": "47826d82301ed994739fd00686d165241651522c5490d2859bba66bb24df3ce4",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1990-10-09-309.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309"
     },
