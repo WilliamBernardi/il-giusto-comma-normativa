@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-21",
+  "zip_date": "2026-08-22",
   "entries": {
     "LEGGE_18950804_470/1895-08-07_095U0470_VIGENZA_2026-02-14_V0.xml": {
       "sha256": "66354b39bd0e9aa76cfadb65c5ccac5c61e792d006f0e54ce13940f3b11bfac8",
@@ -48740,6 +48740,11 @@
       "sha256": "d2090de25ab5663df6dd7e76b47e3cb51609c5fb4b3e7d2bc2487c2d741c206a",
       "out": "DL e leggi di conversione/stato-legge-2026-08-07-145.md",
       "urn": "urn:nir:stato:legge:2026-08-07;145"
+    },
+    "LEGGE_20260807_152/2026-08-20_26G00165_ORIGINALE_V0.xml": {
+      "sha256": "71ce41c0bf1bfc5a2623839071a476255e631116f77f134582acf949c76e58a1",
+      "out": "DL e leggi di conversione/stato-legge-2026-08-07-152.md",
+      "urn": "urn:nir:stato:legge:2026-08-07;152"
     }
   }
 }
