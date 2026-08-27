@@ -6,9 +6,9 @@ urn: urn:nir:stato:decreto.legislativo:2024-01-08;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2025-06-13
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-01-01
+zip_date: 2026-08-27
+fetched_at: 2026-08-27
 ---
 
 DECRETO LEGISLATIVO
@@ -168,8 +168,7 @@ La disposizione di cui al comma 4 si applica ai compensi corrisposti a decorrere
                                 
                                     dopo il secondo periodo, e' aggiunto, in fine, il seguente: «Il versamento delle ritenute operate nel mese di dicembre e' comunque effettuato entro il giorno 16 del mese successivo.».
 
-## Art. 10. — Sospensione dell'invio di comunicazioni 
- e inviti
+## Art. 10. — Sospensione dell'invio di comunicazioni e inviti
 
 1.
                     
@@ -263,32 +262,29 @@ Innalzamento della soglia per l'esonero dall'apposizione
 All'articolo 9-bis, comma 11, del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, le lettere a) e b) sono sostituite dalle seguenti: «a) l'esonero dall'apposizione del visto di conformita' per la compensazione di crediti per un importo non superiore a 70.000 euro annui relativamente all'imposta sul valore aggiunto e per un importo non superiore a 50.000 euro annui relativamente alle imposte dirette e all'imposta regionale sulle attivita' produttive; 
  b) l'esonero dall'apposizione del visto di conformita' ovvero dalla prestazione della garanzia per i rimborsi dell'imposta sul valore aggiunto per un importo non superiore a 70.000 euro annui;».
 
-## Art. 15. — Semplificazione dei modelli di dichiarazione relativi 
- alle imposte sui redditi, all'IRAP e all'IVA
+## Art. 15. — Semplificazione dei modelli di dichiarazione relativi alle imposte sui redditi, all'IRAP e all'IVA
 
-Al fine di semplificare la modulistica relativa all'adempimento degli obblighi dichiarativi, a decorrere dal periodo d'imposta in corso al 31 dicembre 2023, con i provvedimenti del direttore dell'Agenzia delle entrate, sentito il Garante per la protezione dei dati personali nei casi previsti dall'articolo 36, comma 1, del Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, che approvano i modelli dichiarativi di cui agli articoli 1 e 8 del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono progressivamente eliminate da ciascun modello le informazioni che non sono rilevanti ai fini della liquidazione dell'imposta o che l'Agenzia delle entrate puo' acquisire tramite sistemi di interoperabilita' delle banche dati proprie e nella titolarita' di altre amministrazioni. Con i medesimi provvedimenti del direttore dell'Agenzia delle entrate sono progressivamente ridotte, le informazioni relative ai crediti d'imposta derivanti da agevolazioni concesse agli operatori economici da indicare nei modelli dichiarativi.
+
 
 A decorrere dal medesimo periodo indicato al comma 1, all'articolo 2, comma 36-vicies ter, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, le parole: «e nelle dichiarazioni in materia di imposte sui redditi e imposte sul valore aggiunto indicano gli estremi identificativi dei rapporti con gli operatori finanziari di cui all'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, in corso nel periodo di imposta» sono soppresse.
 
 A decorrere dalle opzioni da esercitarsi per i periodi d'imposta successivi a quello in corso al 31 dicembre 2024, all'articolo 1 della legge 27 dicembre 2006, n. 296, il comma 120, primo periodo, e' sostituito dal seguente: «L'opzione per il regime speciale e' esercitata nella dichiarazione dei redditi presentata nel periodo d'imposta anteriore a quello dal quale il contribuente intende avvalersene.».
 
-## Art. 16. — Semplificazione della dichiarazione annuale 
- dei sostituti d'imposta
+## Art. 16. — Semplificazione della dichiarazione annuale dei sostituti d'imposta
 
-Al fine di semplificare la dichiarazione annuale presentata dai sostituti d'imposta, i soggetti indicati nel titolo III del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, obbligati a operare ritenute alla fonte, che corrispondono compensi che costituiscono redditi di lavoro dipendente o autonomo, sotto qualsiasi forma, effettuano i versamenti mensili delle ritenute e delle trattenute indicando anche l'importo delle ritenute e delle trattenute operate, gli eventuali importi a credito e gli altri dati individuati con il provvedimento del direttore dell'Agenzia delle entrate di cui al comma 7.
 
-Le comunicazioni dei dati effettuate ai sensi del presente articolo sono equiparate a tutti gli effetti alla esposizione dei medesimi dati nella dichiarazione dei sostituti d'imposta di cui all'articolo 4, comma 1, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322.
 
-In via sperimentale, possono avvalersi delle disposizioni del presente articolo i sostituti d'imposta di cui al comma 1 con un numero complessivo di dipendenti al 31 dicembre dell'anno precedente non superiore a cinque. Con provvedimento del direttore dell'Agenzia delle entrate puo' essere ampliato il numero massimo di dipendenti.
-L'adesione al sistema semplificato di cui al comma 1 tramite comportamento concludente e' vincolante per l'intero anno d'imposta per cui e' esercitata.
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
-Il pagamento delle ritenute e delle trattenute di cui al comma 1 e' effettuato con le modalita' di cui all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, presentando il modello F24 esclusivamente mediante i servizi telematici dell'Agenzia delle entrate. Contestualmente all'invio dei dati di cui al comma 1, ai fini del pagamento delle ritenute, il sostituto d'imposta autorizza l'Agenzia delle entrate all'addebito sul proprio conto identificato dal relativo codice IBAN, intrattenuto presso una banca, Poste Italiane o un prestatore di servizi di pagamento, convenzionati con la medesima Agenzia.
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
-La trasmissione dei dati e il versamento di cui al comma 1 sono effettuati direttamente dal sostituto d'imposta o tramite gli incaricati di cui all'articolo 3, commi 2-bis e 3, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322.
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
-Le disposizioni di cui al presente articolo si applicano a decorrere dai versamenti relativi alle dichiarazioni dei sostituti d'imposta dell'anno d'imposta 2025.
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
-Con provvedimento del direttore dell'Agenzia delle entrate sono individuati gli ulteriori elementi informativi da comunicare e sono definiti modalita' e termini per la trasmissione dei dati, nonche' ogni altra disposizione di attuazione.
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
+
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
 Alle attivita' di cui al presente articolo si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
@@ -348,8 +344,7 @@ Alle attivita' di cui al presente articolo si provvede con le risorse umane, fin
                                 
                                     al comma 4, dopo le parole: «dei dati relativi alle spese che danno diritto a deduzioni dal reddito o detrazioni dall'imposta diverse da quelle indicate nei commi 1, 2 e 3», sono inserite le seguenti: «e dei dati relativi ai redditi percepiti dai contribuenti».
 
-## Art. 21. — Modello Unico di delega per l'accesso 
- ai servizi dell'Agenzia
+## Art. 21. — Modello Unico di delega per l'accesso ai servizi dell'Agenzia
 
 Il contribuente puo' delegare gli intermediari di cui all'articolo 3, comma 3, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322 all'utilizzo dei servizi resi disponibili dall'Agenzia delle entrate e dall'Agenzia delle entrate-Riscossione, compilando un unico modello.
 
@@ -363,67 +358,19 @@ Con provvedimento del direttore dell'Agenzia delle entrate, da adottarsi entro c
 
 ## Art. 22. — Rafforzamento dei servizi digitali
 
-1.
-                    
-                        
-                            L'Agenzia delle entrate mette a disposizione dei contribuenti servizi digitali per: 
- 
-                        
-                        
-                            a)
-                            
-                                potenziare i canali di assistenza a distanza; 
 
-                            
-                        
-                        
-                            b)
-                            
-                                consentire la registrazione delle scritture private; 
 
-                            
-                        
-                        
-                            c)
-                            
-                                consentire la richiesta e l'ottenimento di certificati rilasciati dall'Agenzia stessa; 
-
-                            
-                        
-                        
-                            d)
-                            
-                                consentire il confronto a distanza tra contribuente e uffici dell'Agenzia, nonche' lo scambio di documentazione relativa ad attivita' di controllo e accertamento; 
-
-                            
-                        
-                        
-                            e)
-                            
-                                consentire il calcolo e il versamento degli importi dovuti a seguito di attivita' di controllo e accertamento nonche' liquidazione dei tributi gestiti dall'Agenzia delle entrate; 
-
-                            
-                        
-                        
-                            f)
-                            
-                                l'effettuazione di ulteriori adempimenti.
-
-Con uno o piu' provvedimenti del direttore dell'Agenzia delle entrate, sentito il Garante per la protezione dei dati personali nei casi previsti dall'articolo 36, comma 1, del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, sono definite le regole tecniche e amministrative per la messa a disposizione, l'accesso e l'utilizzo dei predetti servizi digitali ai contribuenti ed eventualmente agli intermediari da loro delegati.
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
 Alle attivita' di cui al presente articolo si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 ## Art. 23. — Rafforzamento dei contenuti conoscitivi del cassetto fiscale
 
-((
 
-L'Agenzia delle entrate mette a disposizione dei contribuenti, all'interno di apposita area riservata, servizi digitali per la consultazione e l'acquisizione dei dati, degli atti e delle comunicazioni gestiti dall'Agenzia delle entrate che li riguardano, compresi quelli riguardanti i ruoli dell'Agenzia delle entrate-Riscossione relativi ad atti impositivi emessi dall'Agenzia delle entrate.
 
-))
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
-L'acquisizione dei documenti di cui al comma 1 e' effettuata anche attraverso servizi di trasferimento massivo e in forma strutturata dei dati contenuti nei documenti stessi.
-
-Con uno o piu' provvedimenti del direttore dell'Agenzia delle entrate, sentito il Garante per la protezione dei dati personali nei casi previsti dall'articolo 36, comma 1, del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, sono definite le regole tecniche e amministrative per la messa a disposizione, l'accesso e l'utilizzo dei servizi digitali di cui al comma 1 ai contribuenti ed eventualmente agli intermediari da loro delegati.
+((COMMA ABROGATO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
 Alle attivita' di cui al presente articolo si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
