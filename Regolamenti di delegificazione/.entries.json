@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-30",
+  "zip_date": "2026-08-31",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19671222_1518/1968-06-06_067U1518_VIGENZA_2025-07-02_V0.xml": {
       "sha256": "c1560363a5beb4dbdb74fc07739d46510b65e30be9479e18c9c7e8d7fe694be2",
@@ -1875,6 +1875,11 @@
       "sha256": "6e9a295553309ce8fc93c33622793b7945a98ea3bc48a1cb0bdd10f0eb3351d9",
       "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2026-02-20-73.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-02-20;73"
+    },
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260619_155/2026-08-31_26G00171_ORIGINALE_V0.xml": {
+      "sha256": "18e217c8d1a737e6bc7260c7599d7a7d814a98500b99b7996febb0432a32f245",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2026-06-19-155.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-06-19;155"
     }
   }
 }
