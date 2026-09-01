@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-31",
+  "zip_date": "2026-09-01",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480128_175/1948-03-29_048U0175_ORIGINALE_V0.xml": {
       "sha256": "0287b9f3d82321554ab8afeab064ad8059cd5926174170cab03feb6d7da7ebfd",
@@ -9705,6 +9705,11 @@
       "sha256": "1b454b2aa524f2b6150cb977e8abc7f8fc2946a4c52241242e4fd92514987fed",
       "out": "Regolamenti governativi/stato-decreto.del.presidente.della.repubblica-2026-04-13-102.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-04-13;102"
+    },
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260619_155/2026-08-31_26G00171_ORIGINALE_V0.xml": {
+      "sha256": "18e217c8d1a737e6bc7260c7599d7a7d814a98500b99b7996febb0432a32f245",
+      "out": "Regolamenti governativi/stato-decreto.del.presidente.della.repubblica-2026-06-19-155.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-06-19;155"
     }
   }
 }

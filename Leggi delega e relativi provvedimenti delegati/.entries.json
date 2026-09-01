@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-30",
+  "zip_date": "2026-09-01",
   "entries": {
     "DECRETO LEGISLATIVO_19881109_478/1988-11-11_088G0566_ORIGINALE_V0.xml": {
       "sha256": "75d0c44467cdec57a1e802dceadfb953c5f37608d5175ecc916c0a4a549e438b",
@@ -2911,8 +2911,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2018-12-27-148.md",
       "urn": "urn:nir:stato:decreto.legislativo:2018-12-27;148"
     },
-    "DECRETO LEGISLATIVO_20190112_14/2019-02-14_19G00007_VIGENZA_2025-10-10_V0.xml": {
-      "sha256": "ee5b8f5a81ec9b86de6034f8af20370907993bff783a49bddd75eb59788ad10d",
+    "DECRETO LEGISLATIVO_20190112_14/2019-02-14_19G00007_VIGENZA_2026-09-01_V0.xml": {
+      "sha256": "b687bbc07fc481a470f75a2d06510aa82aec443f55208a8c87e48c383c48766c",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2019-01-12-14.md",
       "urn": "urn:nir:stato:decreto.legislativo:2019-01-12;14"
     },
