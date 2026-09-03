@@ -8,9 +8,9 @@ codice_redazionale: 011G0112
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-01-01
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-03
+fetched_at: 2026-09-03
 ---
 
 DECRETO LEGISLATIVO
@@ -55,11 +55,11 @@ A ciascuna regione a statuto ordinario spetta una compartecipazione al gettito d
 
 ## Art. 5. — Riduzione dell'imposta regionale sulle attivita' produttive
 
-A decorrere dall'anno 2013 ciascuna regione a statuto ordinario, con propria legge, puo' ridurre le aliquote dell'imposta regionale sulle attivita' produttive (IRAP) fino ad azzerarle e disporre deduzioni dalla base imponibile, nel rispetto della normativa dell'Unione europea e degli orientamenti giurisprudenziali della Corte di giustizia dell'Unione europea. Resta in ogni caso fermo il potere di variazione dell'aliquota di cui all'articolo 16, comma 3, del decreto legislativo 15 dicembre 1997, n. 446.
+A decorrere dall'anno 2013 ciascuna regione a statuto ordinario, con propria legge, puo' ridurre le aliquote dell'imposta regionale sulle attivita' produttive (IRAP) fino ad azzerarle e disporre ((detrazioni e)) deduzioni dalla base imponibile, nel rispetto della normativa dell'Unione europea e degli orientamenti giurisprudenziali della Corte di giustizia dell'Unione europea. Resta in ogni caso fermo il potere di variazione dell'aliquota di cui all'articolo 16, comma 3, del decreto legislativo 15 dicembre 1997, n. 446.
 
 Gli effetti finanziari derivanti dagli interventi di cui al comma 1 sono esclusivamente a carico del bilancio della regione e non comportano alcuna forma di compensazione da parte dei fondi di cui all'articolo 15.
 
-Non puo' essere disposta la riduzione dell'IRAP se la maggiorazione di cui all'articolo 6, comma 1, e' superiore a 0,5 punti percentuali.
+((COMMA ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 147)).
 
 Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel settore sanitario nei casi di squilibrio economico, nonche' le disposizioni in materia di applicazione di incrementi delle aliquote fiscali per le regioni sottoposte ai Piani di rientro dai deficit sanitari.
 
@@ -68,7 +68,8 @@ Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel se
 1.
                         
                             
-                                A decorrere dall'anno 2012 ciascuna regione a Statuto ordinario puo', con propria legge, aumentare o diminuire l'aliquota dell'addizionale regionale all'IRPEF di base. La predetta aliquota di base e' pari a 1,23 per cento sino alla rideterminazione effettuata ai sensi dell'articolo 2, comma 1, primo periodo. La maggiorazione non puo' essere superiore: 
+                                A decorrere dall'anno 2012 ciascuna regione a Statuto ordinario puo', con propria legge, aumentare o diminuire l'aliquota dell'addizionale regionale all'IRPEF di base ((fino ad azzerarla)).
+La predetta aliquota di base e' pari a 1,23 per cento sino alla rideterminazione effettuata ai sensi dell'articolo 2, comma 1, primo periodo. La maggiorazione non puo' essere superiore: 
  
                             
                             
@@ -92,16 +93,16 @@ Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel se
 
 Fino al 31 dicembre 2011, rimangono ferme le aliquote della addizionale regionale all'IRPEF delle regioni che, alla data di entrata in vigore del presente decreto, sono superiori alla aliquota di base, salva la facolta' delle medesime regioni di deliberare la loro riduzione fino alla medesima aliquota di base.
 
-Resta fermo il limite della maggiorazione di 0,5 punti percentuali, se la regione abbia disposto la riduzione dell'IRAP. La maggiorazione oltre i 0,5 punti percentuali non trova applicazione sui redditi ricadenti nel primo scaglione di cui all'articolo 11 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; con decreto di natura non regolamentare del Ministro dell'economia e delle finanze sono stabilite le modalita' per l'attuazione del presente periodo. In caso di riduzione, l'aliquota deve assicurare un gettito che, unitamente a quello derivante dagli altri tributi regionali di cui all'articolo 12, comma 2, non sia inferiore all'ammontare dei trasferimenti regionali ai comuni, soppressi in attuazione del medesimo articolo 12.
+((PERIODO SOPPRESSO DAL D.LGS. 7 AGOSTO 2026, N. 147)). La maggiorazione oltre i 0,5 punti percentuali non trova applicazione sui redditi ricadenti nel primo scaglione di cui all'articolo 11 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; con decreto di natura non regolamentare del Ministro dell'economia e delle finanze sono stabilite le modalita' per l'attuazione del presente periodo. In caso di riduzione, l'aliquota deve assicurare un gettito che, unitamente a quello derivante dagli altri tributi regionali di cui all'articolo 12, comma 2, non sia inferiore all'ammontare dei trasferimenti regionali ai comuni, soppressi in attuazione del medesimo articolo 12.
 
-Per assicurare la razionalita' del sistema tributario nel suo complesso e la salvaguardia dei criteri di progressivita' cui il sistema medesimo e' informato, le regioni possono stabilire aliquote dell'addizionale regionale all' IRPEF differenziate esclusivamente in relazione agli scaglioni di reddito corrispondenti a quelli stabiliti dalla legge statale.
+Per assicurare la razionalita' del sistema tributario nel suo complesso e la salvaguardia dei criteri di progressivita' cui il sistema medesimo e' informato, le regioni possono stabilire aliquote dell'addizionale regionale all' IRPEF differenziate esclusivamente in relazione agli scaglioni di reddito corrispondenti a quelli stabiliti dalla legge statale. ((Le regioni possono stabilire una soglia di esenzione in ragione del possesso di specifici requisiti reddituali, intesa come limite di reddito al di sotto del quale l'addizionale regionale all'IRPEF non e' dovuta e al di sopra del quale la stessa si applica al reddito complessivo.))
 
 Le regioni, nell'ambito della addizionale di cui al presente articolo, possono disporre, con propria legge, detrazioni in favore della famiglia, maggiorando le detrazioni previste dall'articolo 12 del citato decreto del Presidente della Repubblica n. 917 del 1986.
 Le regioni adottano altresi' con propria legge misure di erogazione di misure di sostegno economico diretto, a favore dei soggetti IRPEF, il cui livello di reddito e la relativa imposta netta, calcolata anche su base familiare, non consente la fruizione delle detrazioni di cui al presente comma.
 
 Al fine di favorire l'attuazione del principio di sussidiarieta' orizzontale di cui all'articolo 118, quarto comma, della Costituzione, le regioni, nell'ambito della addizionale di cui al presente articolo, possono inoltre disporre, con propria legge, detrazioni dall'addizionale stessa in luogo dell'erogazione di sussidi, voucher, buoni servizio e altre misure di sostegno sociale previste dalla legislazione regionale.
 
-Le disposizioni di cui ai commi 3, 4, 5 e 6 si applicano ((a decorrere dal 2015)).
+Le disposizioni di cui ai commi 3, 4, 5 e 6 si applicano a decorrere dal 2015.
 
 L'applicazione delle detrazioni previste dai commi 5 e 6 e' esclusivamente a carico del bilancio della regione che le dispone e non comporta alcuna forma di compensazione da parte dello Stato. In ogni caso deve essere garantita la previsione di cui al comma 3, ultimo periodo.
 
@@ -109,7 +110,7 @@ La possibilita' di disporre le detrazioni di cui ai commi 5 e 6 e' sospesa per l
 
 Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel settore sanitario nei casi di squilibrio economico, nonche' le disposizioni in materia di applicazione di incrementi delle aliquote fiscali per le regioni sottoposte ai piani di rientro dai deficit sanitari.
 
-L'eventuale riduzione dell'addizionale regionale all'IRPEF e' esclusivamente a carico del bilancio della regione e non comporta alcuna forma di compensazione da parte dei fondi di cui all'articolo 15.
+L'eventuale riduzione((o azzeramento)) dell'addizionale regionale all'IRPEF ((sono esclusivamente)) a carico del bilancio della regione e non ((comportano)) alcuna forma di compensazione da parte dei fondi di cui all'articolo 15.
 
 -------------
                             AGGIORNAMENTO (2)
@@ -129,11 +130,11 @@ In caso di trasferimento di funzioni amministrative dallo Stato alle regioni, in
 
 Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342.
 
-Fermi restando i limiti massimi di manovrabilita' previsti dalla legislazione statale, le regioni disciplinano la tassa automobilistica regionale.
+Fermi restando i limiti massimi di manovrabilita' previsti dalla legislazione statale, le regioni disciplinano la tassa automobilistica regionale ((quale tributo proprio derivato dotato di maggiore autonomia impositiva)).
 
 Alle regioni a statuto ordinario spettano gli altri tributi ad esse riconosciuti dalla legislazione vigente alla data di entrata in vigore del presente decreto. I predetti tributi costituiscono tributi propri derivati.
 
-((COMMA ABROGATO DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214)).
+COMMA ABROGATO DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214.
 
 Fermo restando quanto previsto dall'articolo 4, spettano altresi' alle regioni a statuto ordinario le altre compartecipazioni al gettito di tributi erariali, secondo quanto previsto dalla legislazione vigente alla data di entrata in vigore del presente decreto.
 

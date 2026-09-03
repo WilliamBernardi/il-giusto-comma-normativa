@@ -8,9 +8,9 @@ codice_redazionale: 053U0039
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2016-07-23
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-03
+fetched_at: 2026-09-03
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA

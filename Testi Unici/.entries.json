@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-02",
+  "zip_date": "2026-09-03",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -31,8 +31,8 @@
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1951-07-05-573.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1951-07-05;573"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19530205_39/1953-02-10_053U0039_VIGENZA_2025-06-17_V0.xml": {
-      "sha256": "925af2f238cbd279318479379aef569437c142eea7b09c90e42d77541d4f9eb5",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19530205_39/1953-02-10_053U0039_VIGENZA_2026-09-03_V0.xml": {
+      "sha256": "410427ccd4642ae09a759cb451820850c89cbca349133061a92385c670614e96",
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1953-02-05-39.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-05;39"
     },
