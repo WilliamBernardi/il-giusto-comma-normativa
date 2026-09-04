@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-03",
+  "zip_date": "2026-09-04",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -166,8 +166,8 @@
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1986-04-26-131.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19861222_917/1986-12-31_086U0917_VIGENZA_2026-07-29_V0.xml": {
-      "sha256": "176fee82ace4bb30fe3bd8ca0786854616066b0985e715917fe1b3bb8f826f89",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19861222_917/1986-12-31_086U0917_VIGENZA_2026-09-04_V0.xml": {
+      "sha256": "edf8350d4da4220df339a268ef4d7b682f6c4583d386f0dc64e5b3788eb9b4be",
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1986-12-22-917.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917"
     },

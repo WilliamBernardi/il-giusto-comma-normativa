@@ -8,9 +8,9 @@ codice_redazionale: 086U0917
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2026-07-04
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-04
+fetched_at: 2026-09-04
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -770,8 +770,7 @@ Se il rapporto di cui al comma 1, lettera a), numero 1), e' uguale a uno, la det
 
 Ai fini del comma 1 il reddito complessivo e' assunto al netto del reddito dell'unita' immobiliare adibita ad abitazione principale e di quello delle relative pertinenze di cui all'articolo 10, comma 3-bis. (133)
 
-((Quando le disposizioni fiscali fanno riferimento alle persone indicate nel presente articolo, si considerano, ancorche' non spetti una detrazione per carichi di famiglia, il coniuge non legalmente ed effettivamente separato, i figli, compresi i figli nati fuori del matrimonio riconosciuti, i figli adottivi, affiliati o affidati, e i figli conviventi del coniuge deceduto, nonche' le altre persone elencate nell'articolo 433 del codice civile che convivono con il contribuente o percepiscono assegni alimentari non risultanti da provvedimenti dell'autorita' giudiziaria. Qualora siano anche richiamate le condizioni previste dal comma 2, ovvero se si fa riferimento ai familiari fiscalmente a carico, si considerano i soggetti di cui al primo periodo che possiedono un reddito complessivo non superiore ai limiti indicati nello stesso comma 2.))
-                                ((241))
+Quando le disposizioni fiscali fanno riferimento alle persone indicate nel presente articolo, si considerano, ancorche' non spetti una detrazione per carichi di famiglia, il coniuge non legalmente ed effettivamente separato, i figli, compresi i figli nati fuori del matrimonio riconosciuti, i figli adottivi, affiliati o affidati, e i figli conviventi del coniuge deceduto, nonche' le altre persone elencate nell'articolo 433 del codice civile ((...)). Qualora siano anche richiamate le condizioni previste dal comma 2, ovvero se si fa riferimento ai familiari fiscalmente a carico, si considerano i soggetti di cui al primo periodo che possiedono un reddito complessivo non superiore ai limiti indicati nello stesso comma 2 ((e, limitatamente alle altre persone elencate nell'articolo 433 del codice civile, che convivono con il contribuente o percepiscono assegni alimentari non risultanti da provvedimenti dell'autorita' giudiziaria)). (241) ((249))
 
 -------------
                             AGGIORNAMENTO (133)
@@ -788,7 +787,11 @@ Ai fini del comma 1 il reddito complessivo e' assunto al netto del reddito dell'
                             -------------
                             AGGIORNAMENTO (241)
                             
- Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1 si applicano a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto".
+ Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1 si applicano a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
+                            -------------
+                            AGGIORNAMENTO (249)
+                            
+ Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 1, comma 3) che le presenti modifiche si applicano a partire dal periodo d'imposta in corso alla data del 20 dicembre 2025.
 
 ## Art. 13. — (Altre detrazioni)
 
@@ -2219,13 +2222,13 @@ Ai fini del presente articolo il fondo rustico deve essere costituito da partice
 
 ## Art. 32. — Reddito agrario
 
-((235))
+Il reddito agrario e' costituito dalla parte del reddito medio ordinario dei terreni imputabile al capitale d'esercizio e al lavoro di organizzazione impiegati nell'esercizio delle attivita' agricole di cui all'articolo 2135 del codice civile. (235)
 
 2.
                         
                             
-                                Sono considerate attivita' agricole ((produttive di reddito agrario)): ((235))
-                                
+                                Sono considerate attivita' agricole produttive di reddito agrario: (235) 
+ 
                             
                             
                                 a)
@@ -2242,15 +2245,27 @@ Ai fini del presente articolo il fondo rustico deve essere costituito da partice
                                 
                             
                             
+                                b-bis)
+                                
+                                    le attivita' dirette alla produzione di vegetali tramite l'utilizzo di immobili oggetto di censimento al catasto dei fabbricati, rientranti nelle categorie catastali C/1, C/2, C/3, C/6, C/7, D/1, D/7, D/8, D/9 e D/10, entro il limite di superficie adibita alla produzione non eccedente il doppio della superficie agraria di riferimento definita con il decreto di cui al comma 3-bis; (235) 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    le attivita' dirette alla produzione di beni, anche immateriali, realizzate mediante la coltivazione, l'allevamento e la silvicoltura che concorrono alla tutela dell'ambiente e alla lotta ai cambiamenti climatici, nei limiti dei corrispettivi delle cessioni di beni, registrate o soggette a registrazione agli effetti dell'imposta sul valore aggiunto, derivanti dall'esercizio delle attivita' di cui all'articolo 2135 del codice civile; (235) 
+
+                                
+                            
+                            
                                 c)
                                 
-                                    le attivita' di cui al terzo comma dell'articolo 2135 del codice civile, dirette alla manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione, ancorche' non svolte sul terreno, di prodotti ottenuti prevalentemente dalla coltivazione del fondo o del bosco o dall'allevamento di animali, con riferimento ai beni individuati, ogni due anni e tenuto conto dei criteri di cui al comma 1, con decreto del Ministro dell'economia e delle finanze su proposta del Ministro delle politiche agricole e forestali.
+                                    le attivita' di cui al terzo comma dell'articolo 2135 del codice civile, dirette alla manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione, ancorche' non svolte sul terreno, di prodotti ottenuti prevalentemente dalla coltivazione del fondo o del bosco (( o tramite l'utilizzo di immobili di cui alla lettera b-bis) )) o dall'allevamento di animali, con riferimento ai beni individuati, ogni due anni e tenuto conto dei criteri di cui al comma 1, con decreto del Ministro dell'economia e delle finanze su proposta del Ministro delle politiche agricole e forestali.
 
 Con decreto del Ministro delle finanze, di concerto con il Ministro dell'agricoltura e delle foreste, e' stabilito per ciascuna specie animale il numero dei capi che rientra nei limiti di cui alla lettera b) del comma 2, tenuto conto della potenzialita' produttiva dei terreni e delle unita' foraggere occorrenti a seconda della specie allevata.
 
-((3-bis. Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, sono individuate, per i terreni, nuove classi e qualita' di coltura al fine di tenere conto dei piu' evoluti sistemi di coltivazione, nonche' sono disciplinate le modalita' di dichiarazione in catasto dell'utilizzazione degli immobili oggetto di censimento al catasto dei fabbricati per attivita' di produzione di vegetali e le modalita' di determinazione della relativa superficie agraria di riferimento di cui al comma 2, lettera b-bis).))
-
-((235))
+Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, sono individuate, per i terreni, nuove classi e qualita' di coltura al fine di tenere conto dei piu' evoluti sistemi di coltivazione, nonche' sono disciplinate le modalita' di dichiarazione in catasto dell'utilizzazione degli immobili oggetto di censimento al catasto dei fabbricati per attivita' di produzione di vegetali e le modalita' di determinazione della relativa superficie agraria di riferimento di cui al comma 2, lettera b-bis). (235)
 
 Non si considerano produttivi di reddito agrario i terreni indicati nel comma 2 dell'articolo 24. 
  (115)
@@ -3042,8 +3057,10 @@ Ai fini dell'applicazione dei commi 2 e 3, l'erogazione di beni, prestazioni, op
                             
                                 a)
                                 
-                                    per gli autoveicoli indicati nell'articolo 54, comma 1, lettere a), c) e m), del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, i motocicli e i ciclomotori di nuova immatricolazione, concessi in uso promiscuo con contratti stipulati a decorrere dal 1° gennaio 2025, si assume il 50 per cento dell'importo corrispondente ad una percorrenza convenzionale di 15.000 chilometri calcolato sulla base del costo chilometrico di esercizio desumibile dalle tabelle nazionali che l'Automobile club d'Italia elabora entro il 30 novembre di ciascun anno e comunica al Ministero dell'economia e delle finanze, il quale provvede alla pubblicazione entro il 31 dicembre, con effetto dal periodo d'imposta successivo, al netto delle somme eventualmente trattenute al dipendente. La predetta percentuale e' ridotta al 10 per cento per i veicoli a batteria a trazione esclusivamente elettrica e al 20 per cento per i veicoli elettrici ibridi plug-in. 
-
+                                    
+                                        ((per gli autoveicoli indicati nell'articolo 54, comma 1, lettere a), c) e m), del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, i motocicli e i ciclomotori, concessi in uso promiscuo, si assume il 50 per cento dell'importo corrispondente a una percorrenza convenzionale di 15.000 chilometri calcolato sulla base del costo chilometrico di esercizio desumibile dalle tabelle nazionali che l'Automobile club d'Italia elabora entro il 30 novembre di ciascun anno e comunica al Ministero dell'economia e delle finanze, il quale provvede alla pubblicazione entro il 31 dicembre, con effetto dal periodo d'imposta successivo, al netto delle somme eventualmente trattenute al dipendente in relazione alla concessione del veicolo, incluse quelle relative agli accessori e allestimenti. La predetta percentuale e' ridotta al 10 per cento per i veicoli a batteria a trazione esclusivamente elettrica e al 20 per cento per i veicoli elettrici ibridi plug-in. I valori determinati ai sensi del primo e del secondo periodo sono incrementati del 50 per cento dopo il 31 dicembre del quinto anno successivo a quello di prima immatricolazione. In presenza di accessori o di allestimenti non valorizzati nelle tabelle di cui al primo periodo e non direttamente acquistati dal lavoratore, il valore, determinato a norma dei periodi primo, secondo e terzo, e' incrementato del 5 per cento;))
+                                        ((249))
+                                    
                                 
                             
                             
@@ -3078,7 +3095,7 @@ Le indennita' di trasferimento, quelle di prima sistemazione e quelle equipollen
 Gli assegni di sede e le altre indennita' percepite per servizi prestati all'estero costituiscono reddito nella misura del 50 per cento. Se per i servizi prestati all'estero dai dipendenti delle amministrazioni statali la legge prevede la sorresponsione di una indennita' base e di maggiorazioni ad esse collegate concorre a formare il reddito la sola indennita' base nella misura del 50 per cento nonche' il 50 per cento delle maggiorazioni percepite fino alla concorrenza di ottantasette quarantesimi dell'indennita' base o, limitatamente alle indennita' di cui all'articolo 1808, comma 1, lettera b), del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, due volte l'indennita' base.
 Qualora l'indennita' per servizi prestati all'estero comprenda emolumenti spettanti anche con riferimento all'attivita' prestata nel territorio nazionale, la riduzione compete solo sulla parte eccedente gli emolumenti predetti. L'applicazione di questa disposizione esclude l'applicabilita' di quella di cui al comma 5. (169)(189)(211)
 
-In deroga alle disposizioni dei commi da 1 a 8, il reddito di lavoro dipendente, prestato all'estero in via continuativa e come oggetto esclusivo del rapporto da dipendenti che nell'arco di dodici mesi soggiornano nello Stato estero per un periodo superiore a 183 giorni, e' determinato sulla base delle retribuzioni convenzionali definite annualmente con il decreto del Ministro del lavoro e della previdenza sociale di cui all'articolo 4, comma 1, del decreto-legge 31 luglio 1987, n. 317, convertito, con modificazioni, dalla legge 3 ottobre 1987, n. 398. ((Le disposizioni del primo periodo non si applicano ai redditi di lavoro dipendente percepiti dai lavoratori marittimi imbarcati sulle navi)). (236)
+In deroga alle disposizioni dei commi da 1 a 8, il reddito di lavoro dipendente, prestato all'estero in via continuativa e come oggetto esclusivo del rapporto da dipendenti che nell'arco di dodici mesi soggiornano nello Stato estero per un periodo superiore a 183 giorni, e' determinato sulla base delle retribuzioni convenzionali definite annualmente con il decreto del Ministro del lavoro e della previdenza sociale di cui all'articolo 4, comma 1, del decreto-legge 31 luglio 1987, n. 317, convertito, con modificazioni, dalla legge 3 ottobre 1987, n. 398. Le disposizioni del primo periodo non si applicano ai redditi di lavoro dipendente percepiti dai lavoratori marittimi imbarcati sulle navi. (236)
 
 Gli ammontari degli importi che ai sensi del presente articolo non concorrono a formare il reddito di lavoro dipendente possono essere rivalutati con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, quando la variazione percentuale del valore medio dell'indice dei prezzi al consumo per le famiglie di operai e impiegati relativo al periodo di dodici mesi terminante al 31 agosto supera il 2 per cento rispetto al valore medio del medesimo indice rilevato con riferimento allo stesso periodo dell'anno 1998. A tal fine, entro il 30 settembre, si provvede alla ricognizione della predetta percentuale di variazione.
 Nella legge finanziaria relativa all'anno per il quale ha effetto il suddetto decreto si fara' fronte all'onere derivante dall'applicazione del medesimo decreto. (116) 
@@ -3156,7 +3173,12 @@ Nella legge finanziaria relativa all'anno per il quale ha effetto il suddetto de
                             -------------
                             AGGIORNAMENTO (241)
                             
- Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 2, comma 2) che "La disposizione di cui al comma 1 si applica per la determinazione dei redditi di lavoro dipendente percepiti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto".
+ Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 2, comma 2) che "La disposizione di cui al comma 1 si applica per la determinazione dei redditi di lavoro dipendente percepiti a partire dal periodo d'imposta in corso alla data di entrata in vigore del presente decreto". 
+                            -------------
+                            AGGIORNAMENTO (249)
+                            
+ Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 2, comma 4) che "A partire dal 1° gennaio 2026, le disposizioni dell'articolo 51, comma 4, lettera a), quarto periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, introdotte dal comma 1, si applicano anche in relazione ai veicoli concessi in uso promiscuo che rientrano fra quelli di cui all'articolo 1, comma 48-bis, della legge 30 dicembre 2024, n. 207. Sono fatti salvi i comportamenti, assunti dai datori di lavoro fino al 31 dicembre 2025, riguardanti le modalita' di tassazione dei valori relativi agli accessori o agli allestimenti disciplinati dall'articolo 51, comma 4, lettera a), quarto periodo, del citato testo unico delle imposte sui redditi, introdotto dal comma 1; non si da' luogo al rimborso delle maggiori imposte eventualmente versate". 
+ Ha inoltre disposto (con l'art. 2, comma 5) che "Le disposizioni dei commi 1 e 2 si applicano a partire dal periodo d'imposta 2026. Le medesime disposizioni si applicano anche per i veicoli concessi in uso promiscuo nell'anno 2025 che non rientrano fra quelli di cui all'articolo 1, comma 48-bis, della legge 30 dicembre 2024, n. 207, come modificato dal comma 3".
 
 ## Art. 52. — (Determinazione dei redditi assimilati a quelli di lavoro dipendente)
 
@@ -3337,16 +3359,19 @@ Il reddito derivante dall'esercizio di arti e professioni e' costituito dalla di
                                 
                                     riaddebito ad altri soggetti delle spese sostenute per l'uso comune degli immobili utilizzati, anche promiscuamente, per l'esercizio dell'attivita' e per i servizi a essi connessi.
 
-((In deroga a quanto previsto al comma 2, lettera b), le somme percepite a titolo di rimborso delle spese, sostenute nel territorio dello Stato, relative a vitto, alloggio, viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, concorrono alla formazione del reddito se i pagamenti non sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241.))
-                                ((238))
+In deroga a quanto previsto al comma 2, lettera b), le somme percepite a titolo di rimborso delle spese, sostenute nel territorio dello Stato, relative a vitto, alloggio, viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, concorrono alla formazione del reddito se i pagamenti non sono eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241. (238)
 
 Le spese relative all'esecuzione di un incarico conferito e sostenute direttamente dal committente non costituiscono compensi in natura per il professionista.
 
-((Gli interessi e gli altri proventi finanziari di cui al capo III, percepiti nell'esercizio di arti e professioni, costituiscono redditi di capitale.))
-                                ((238))
+Gli interessi e gli altri proventi finanziari di cui al capo III, percepiti nell'esercizio di arti e professioni, costituiscono redditi di capitale. (238)
 
-((Le plusvalenze e le minusvalenze derivanti dalla cessione a titolo oneroso di partecipazioni in associazioni e societa' che esercitano un'attivita' artistica o professionale, ivi comprese quelle in societa' tra professionisti e in altre societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico di cui all'articolo 177-bis, costituiscono redditi diversi.))
-                                ((238)) 
+Le plusvalenze e le minusvalenze derivanti dalla cessione a titolo oneroso di partecipazioni in associazioni e societa' che esercitano un'attivita' artistica o professionale, ivi comprese quelle in societa' tra professionisti e in altre societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico di cui all'articolo 177-bis, costituiscono redditi diversi. (238)
+
+((I differenziali positivi derivanti dalla cessione o dalla compensazione di crediti d'imposta diversi da quelli emergenti dalla liquidazione delle imposte, compresi quelli relativi agli incentivi per gli interventi di cui all'articolo 121, comma 2, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, costituiscono reddito. In caso di compensazione i differenziali di cui al primo periodo sono determinati con riferimento alla parte del costo o valore di acquisto proporzionalmente corrispondente alle somme compensate nel periodo d'imposta.))
+
+((I differenziali positivi di cui al comma 3-quater sono soggetti a imposta sostitutiva, con la stessa aliquota prevista per l'imposta sostitutiva di cui all'articolo 5 del decreto legislativo 21 novembre 1997, n. 461, da corrispondere mediante versamento diretto nei termini e nei modi previsti per il versamento delle imposte sui redditi dovute a saldo in base alla dichiarazione.
+Le disposizioni di cui al primo periodo non si applicano ai crediti di imposta che costituiscono il corrispettivo di una prestazione artistica o professionale, il quale concorre alla formazione del reddito per la parte corrispondente alle somme compensate in ciascun periodo d'imposta. Per la liquidazione, l'accertamento, la riscossione, le sanzioni, i rimborsi e il contenzioso in materia di imposta sostitutiva si applicano le disposizioni previste in materia di imposte sui redditi.))
+                                ((249)) 
  (235) (236)
 
 ---------------
@@ -3363,7 +3388,11 @@ Le spese relative all'esecuzione di un incarico conferito e sostenute direttamen
                             AGGIORNAMENTO (238)
                             
  Il D.L. 17 giugno 2025, n. 84 ha disposto (con l'art. 1, comma 5) che "Le disposizioni del comma 1, lettera c), numero 1), lettera d), e lettera e), numero 2), limitatamente alla parte che regola la deducibilita' delle spese rimborsate analiticamente ai dipendenti per le trasferte ovvero ad altri lavoratori autonomi per l'esecuzione di incarichi, nonche' la disposizione del comma 2, si applicano alle spese relative a vitto, alloggio, viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, sostenute a partire dal periodo di imposta in corso alla data di entrata in vigore del presente decreto". 
- Ha inoltre disposto (con l'art. 1, comma 6) che "Le disposizioni di cui al comma 1, lettera a), lettera c), numero 2, lettera f), lettera i), si applicano per la determinazione dei redditi prodotti a partire dal periodo di imposta in corso al 31 dicembre 2024".
+ Ha inoltre disposto (con l'art. 1, comma 6) che "Le disposizioni di cui al comma 1, lettera a), lettera c), numero 2, lettera f), lettera i), si applicano per la determinazione dei redditi prodotti a partire dal periodo di imposta in corso al 31 dicembre 2024". 
+                            ---------------
+                            AGGIORNAMENTO (249)
+                            
+ Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 3, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano ai crediti di imposta acquistati a decorrere dalla data di entrata in vigore del presente decreto. Gli esercenti arti e professioni che determinano il reddito ai sensi degli articoli 54 e seguenti del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, possono applicare le disposizioni di cui ai commi 1 e 2 ai crediti d'imposta acquistati gia' a decorrere dal periodo d'imposta in corso al 31 dicembre 2024".
 
 ## Art. 54-bis. — (( (Plusvalenze e altri proventi).))
 
@@ -3631,11 +3660,9 @@ La deducibilita' delle spese, sostenute nel territorio dello Stato, relative a v
 
 ## - Capo VI REDDITI DI IMPRESA
 
-## Art. 55. — ((Redditi d'impresa ))
+## Art. 55. — Redditi d'impresa
 
-((
-
-Sono redditi d'impresa quelli che derivano dall'esercizio di imprese commerciali. Per esercizio di imprese commerciali si intende l'esercizio per professione abituale, ancorche' non esclusiva, delle attivita' indicate nell'art. 2195 c.c., e delle attivita' indicate alle lettere b) e c) del comma 2 dell'art. 32 che eccedono i limiti ivi stabiliti, anche se non organizzate in forma d'impresa.
+Sono redditi d'impresa quelli che derivano dall'esercizio di imprese commerciali. Per esercizio di imprese commerciali si intende l'esercizio per professione abituale, ancorche' non esclusiva, delle attivita' indicate nell'art. 2195 c.c., e delle attivita' indicate alle (( lettere b), b-bis), b-ter) e c) )) del comma 2 dell'art. 32 che eccedono i limiti ivi stabiliti, anche se non organizzate in forma d'impresa.
 
 2.
                         
@@ -3662,9 +3689,8 @@ Sono redditi d'impresa quelli che derivano dall'esercizio di imprese commerciali
                                 
                                     i redditi dei terreni, per la parte derivante dall'esercizio delle attivita' agricole di cui all'articolo 32, pur se nei limiti ivi stabiliti, ove spettino alle societa' in nome collettivo e in accomandita semplice nonche' alle stabili organizzazioni di persone fisiche non residenti esercenti attivita' di impresa.
 
-3. Le disposizioni in materia di imposte sui redditi che fanno riferimento alle attivita' commerciali si applicano, se non risulta diversamente, a tutte le attivita' indicate nel presente articolo.))
-
-((115))
+Le disposizioni in materia di imposte sui redditi che fanno riferimento alle attivita' commerciali si applicano, se non risulta diversamente, a tutte le attivita' indicate nel presente articolo. 
+ (115)
 
 -----------
                             AGGIORNAMENTO (115)
@@ -3728,7 +3754,7 @@ Nei confronti dei soggetti che esercitano attivita' di allevamento di animali ol
 
 ## Art. 56-bis. — (Altre attivita' agricole)
 
-((235))
+Per le attivita' dirette alla produzione di vegetali esercitate oltre i limiti di cui all'articolo 32, comma 2, lettere b) e b-bis), il reddito relativo alla parte eccedente concorre a formare il reddito di impresa nell'ammontare corrispondente al reddito agrario relativo alla superficie sulla quale la produzione insiste ovvero relativo alla superficie di riferimento come definita dal decreto di cui all'articolo 32, comma 3-bis, in proporzione alla superficie eccedente. (235)
 
 Per le attivita' dirette alla manipolazione, conservazione, trasformazione, valorizzazione e commercializzazione di prodotti diversi da quelli indicati nell' articolo 32, comma 2, lettera c), ottenuti prevalentemente dalla coltivazione del fondo o del bosco o dall'allevamento di animali, il reddito e' determinato applicando all'ammontare dei corrispettivi delle operazioni registrate o soggette a registrazione agli effetti dell'imposta sul valore aggiunto, conseguiti con tali attivita', il coefficiente di redditivita' del 15 per cento.
 
@@ -3736,13 +3762,9 @@ Per le attivita' dirette alla fornitura di servizi di cui al terzo comma dell'ar
 
 Per le attivita' dirette alla commercializzazione di piante vive e prodotti della floricoltura acquistate da imprenditori agricoli florovivaistici di cui all'articolo 2135 del codice civile, nei limiti del 10 per cento del volume di affari, da altri imprenditori agricoli florovivaistici, il reddito e' determinato applicando all'ammontare dei corrispettivi delle operazioni registrate o soggette a registrazione agli effetti dell'imposta sul valore aggiunto il coefficiente di redditivita' del 5 per cento.
 
-((3-ter. Il reddito derivante dalla produzione e cessioni di beni di cui all'articolo 32, comma 2, lettera b-ter), oltre il limite ivi indicato, e' determinato applicando all'ammontare dei corrispettivi delle operazioni registrate o soggette a registrazione agli effetti dell'imposta sul valore aggiunto il coefficiente di redditivita' del 25 per cento.))
+Il reddito derivante dalla produzione e cessioni di beni di cui all'articolo 32, comma 2, lettera b-ter), oltre il limite ivi indicato, e' determinato applicando all'ammontare dei corrispettivi delle operazioni registrate o soggette a registrazione agli effetti dell'imposta sul valore aggiunto il coefficiente di redditivita' del 25 per cento. (235)
 
-((235))
-
-((4. Le disposizioni del presente articolo si applicano anche ai soggetti che hanno esercitato l'opzione di cui all'articolo 1, comma 1093, della legge 27 dicembre 2006, n. 296.))
-
-((235))
+((Le disposizioni del presente articolo si applicano agli imprenditori individuali, alle societa' semplici e ai soggetti che hanno esercitato l'opzione di cui all'articolo 1, comma 1093, della legge 27 dicembre 2006, n. 296)).
 
 Il contribuente ha facolta' di non avvalersi delle disposizioni di cui al presente articolo. In tal caso l'opzione o la revoca per la determinazione del reddito nel modo normale si esercitano con le modalita' stabilite dal regolamento recante norme per il riordino della disciplina delle opzioni in materia di imposta sul valore aggiunto e di imposte dirette, di cui al decreto del Presidente della Repubblica 10 novembre 1997, n. 442, e successive modificazioni.
 
@@ -4738,10 +4760,10 @@ Le disposizioni dei commi precedenti si applicano anche al riporto delle ecceden
 
 Si comprende inoltre tra i ricavi il valore normale dei beni di cui al comma 1 assegnati ai soci o destinati a finalita' estranee all'esercizio dell'impresa.
 
-I beni di cui alle lettere c), d) ed e) del comma 1 costituiscono immobilizzazioni finanziarie se sono iscritti come tali nel bilancio. (133)
+I beni di cui alle lettere c), d) ed e) del comma 1 costituiscono immobilizzazioni finanziarie se sono iscritti come tali nel bilancio. (133) ((248))
 
-In deroga al comma 3, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, si considerano immobilizzazioni finanziarie gli strumenti finanziari diversi da quelli detenuti per la negoziazione. (133) 
- (115) ((172))
+In deroga al comma 3, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, si considerano immobilizzazioni finanziarie gli strumenti finanziari diversi da quelli detenuti per la negoziazione. (133) ((248)) 
+ (115) (172)
 
 -----------
                             AGGIORNAMENTO (115)
@@ -4754,7 +4776,12 @@ In deroga al comma 3, per i soggetti che redigono il bilancio in base ai princip
                             --------------
                             AGGIORNAMENTO (172)
                             
- Il D.Lgs. 14 settembre 2015, n. 147 ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, ovvero delle imposte ipotecaria e catastale di cui al decreto legislativo 31 ottobre 1990, n. 347.
+ Il D.Lgs. 14 settembre 2015, n. 147 ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, ovvero delle imposte ipotecaria e catastale di cui al decreto legislativo 31 ottobre 1990, n. 347. 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58 della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e dal comma 1 del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 86. — Plusvalenze patrimoniali
 
@@ -4837,8 +4864,8 @@ Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo
                             
                                 a)
                                 
-                                    ininterrotto possesso dal primo giorno del dodicesimo mese precedente quello dell'avvenuta cessione considerando cedute per prime le azioni o quote acquisite in data piu' recente; (122) 
-
+                                    ininterrotto possesso dal primo giorno del dodicesimo mese precedente quello dell'avvenuta cessione considerando cedute per prime le azioni o quote acquisite in data piu' recente; (122) ((248))
+                                    
                                 
                             
                             
@@ -4866,8 +4893,8 @@ Le cessioni delle azioni o quote appartenenti alla categoria delle immobilizzazi
 Il requisito di cui al comma 1, lettera c), deve sussistere, ininterrottamente, sin dal primo periodo di possesso; tuttavia, per i rapporti detenuti da piu' di cinque periodi di imposta e oggetto di realizzo con controparti non appartenenti allo stesso gruppo del dante causa, e' sufficiente che tale condizione sussista, ininterrottamente, per i cinque periodi d'imposta anteriori al realizzo stesso. Ai fini del precedente periodo si considerano appartenenti allo stesso gruppo i soggetti residenti o meno nel territorio dello Stato tra i quali sussiste un rapporto di controllo ai sensi del comma 2 dell'articolo 167 ovvero che, ai sensi del medesimo comma 2, sono sottoposti al comune controllo da parte di altro soggetto residente o non residente nel territorio dello Stato.
 Il requisito di cui al comma 1, lettera d), deve sussistere ininterrottamente, al momento del realizzo, almeno dall'inizio del terzo periodo d'imposta anteriore al realizzo stesso. (192)
 
-((L'esenzione di cui al comma 1 si applica, alle stesse condizioni ivi previste, alle plusvalenze realizzate e determinate ai sensi dell'articolo 86, commi 1, 2 e 3, relativamente alle partecipazioni al capitale o al patrimonio, ai titoli e agli strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a) ed ai contratti di cui all'articolo 109, comma 9, lettera b). Concorrono in ogni caso alla formazione del reddito per il loro intero ammontare gli utili relativi ai contratti di cui all'articolo 109, comma 9, lettera b), che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo.))
-                                ((245))
+L'esenzione di cui al comma 1 si applica, alle stesse condizioni ivi previste, alle plusvalenze realizzate e determinate ai sensi dell'articolo 86, commi 1, 2 e 3, relativamente alle partecipazioni al capitale o al patrimonio, ai titoli e agli strumenti finanziari similari alle azioni ai sensi dell'articolo 44, comma 2, lettera a) ed ai contratti di cui all'articolo 109, comma 9, lettera b).
+Concorrono in ogni caso alla formazione del reddito per il loro intero ammontare gli utili relativi ai contratti di cui all'articolo 109, comma 9, lettera b), che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo. (245)
 
 Fermi rimanendo quelli di cui alle lettere a), b) e c), il requisito di cui alla lettera d) del comma 1 non rileva per le partecipazioni in societa' i cui titoli sono negoziati nei mercati regolamentati. Alle plusvalenze realizzate mediante offerte pubbliche di vendita si applica l'esenzione di cui ai commi 1 e 3 indipendentemente dal verificarsi del requisito di cui alla predetta lettera d).
 
@@ -4911,7 +4938,12 @@ Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo
                             ---------------
                             AGGIORNAMENTO (245)
                             
- Il D.L. 27 marzo 2026, n. 38, ha disposto (con l'art. 11, comma 5) che "Le disposizioni di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026".
+ Il D.L. 27 marzo 2026, n. 38, ha disposto (con l'art. 11, comma 5) che "Le disposizioni di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58 della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e dal comma 1 del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 88. — Sopravvenienze attive
 
@@ -4936,7 +4968,7 @@ Se le indennita' di cui alla lettera b) del comma 1 dell'articolo 86 vengono con
                                 b)
                                 
                                     i proventi in denaro o in natura conseguiti a titolo di contributo o di liberalita', esclusi i contributi di cui alle lettere g) e h) del comma 1 dell'articolo 85 e quelli per l'acquisto di beni ammortizzabili indipendentemente dal tipo di finanziamento adottato.
-Tali proventi concorrono a formare il reddito nell'esercizio in cui sono stati incassati. Sono fatte salve le agevolazioni connesse alla realizzazione di investimenti produttivi concesse nei territori montani di cui alla legge 31 gennaio 1994, n. 97, nonche' quelle concesse ai sensi del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, per la decorrenza prevista al momento della concessione delle stesse. Non si considerano contributi o liberalita' i finanziamenti erogati dallo Stato, dalle Regioni e dalle Province autonome per la costruzione, ristrutturazione e manutenzione straordinaria ed ordinaria di immobili di edilizia residenziale pubblica concessi agli Istituti autonomi per le case popolari, comunque denominati, e agli enti aventi le stesse finalita' sociali dei predetti Istituti, istituiti nella forma di societa' che rispondono ai requisiti della legislazione dell'Unione europea in materia di "in house providing" e che siano costituiti e operanti alla data del 31 dicembre 2013, nonche' quelli erogati alle cooperative edilizie a proprieta' indivisa e di abitazione per la costruzione, ristrutturazione e manutenzione ordinaria e straordinaria di immobili destinati all'assegnazione in godimento o locazione. (235)
+Tali proventi concorrono a formare il reddito nell'esercizio in cui sono stati incassati. Sono fatte salve le agevolazioni connesse alla realizzazione di investimenti produttivi concesse nei territori montani di cui alla legge 31 gennaio 1994, n. 97, nonche' quelle concesse ai sensi del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, per la decorrenza prevista al momento della concessione delle stesse. Non si considerano contributi o liberalita' i finanziamenti erogati dallo Stato, dalle Regioni e dalle Province autonome per la costruzione, ristrutturazione e manutenzione straordinaria ed ordinaria di immobili di edilizia residenziale pubblica concessi agli Istituti autonomi per le case popolari, comunque denominati, e agli enti aventi le stesse finalita' sociali dei predetti Istituti, istituiti nella forma di societa' che rispondono ai requisiti della legislazione dell'Unione europea in materia di "in house providing" e che siano costituiti e operanti alla data del 31 dicembre 2013, nonche' quelli erogati alle cooperative edilizie a proprieta' indivisa e di abitazione per la costruzione, ristrutturazione e manutenzione ordinaria e straordinaria di immobili destinati all'assegnazione in godimento o locazione. (235) ((248))
 
 Non costituiscono sopravvenienze attive, in quanto esclusi, i contributi percepiti a titolo di liberalita' dai soggetti sottoposti alle procedure concorsuali previste dal Regio decreto 16 marzo 1942, n. 267, dal decreto legislativo 8 luglio 1999, n. 270, dal decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, ovvero alle procedure di crisi di cui all'articolo 20 del decreto legislativo 16 novembre 2015, n. 180 nonche' alla procedura di amministrazione straordinaria di cui agli articoli 70 e seguenti del decreto legislativo 1° settembre 1993, n. 385, ad esclusione di quelli provenienti da societa' controllate dall'impresa o controllate dalla stessa societa' che controlla l'impresa. Le disposizioni del precedente periodo si applicano anche ai contributi percepiti nei ventiquattro mesi successivi alla chiusura delle predette procedure. (175)
 
@@ -4945,7 +4977,7 @@ Non si considerano sopravvenienze attive i versamenti in denaro o in natura fatt
 La rinuncia dei soci ai crediti si considera sopravvenienza attiva per la parte che eccede il relativo valore fiscale. A tal fine, il socio, con dichiarazione sostitutiva di atto notorio, comunica alla partecipata tale valore; in assenza di tale comunicazione, il valore fiscale del credito e' assunto pari a zero.
 Nei casi di operazioni di conversione del credito in partecipazioni si applicano le disposizioni dei periodi precedenti e il valore fiscale delle medesime partecipazioni viene assunto in un importo pari al valore fiscale del credito oggetto di conversione, al netto delle perdite sui crediti eventualmente deducibili per il creditore per effetto della conversione stessa. (172)
 
-Non si considerano, altresi', sopravvenienze attive le riduzioni dei debiti dell'impresa in sede di concordato fallimentare o preventivo liquidatorio o di procedure estere equivalenti, previste in Stati o territori con i quali esiste un adeguato scambio di informazioni, o per effetto della partecipazione delle perdite da parte dell'associato in partecipazione. In caso di concordato di risanamento, di accordo di ristrutturazione dei debiti omologato ai sensi dell'articolo 182-bis del regio decreto 16 marzo 1942, n. 267, ovvero di un piano attestato ai sensi dell'articolo 67, terzo comma, lettera d), del citato regio decreto n. 267 del 1942, pubblicato nel registro delle imprese, o di procedure estere a queste equivalenti, la riduzione dei debiti dell'impresa non costituisce sopravvenienza attiva per la parte che eccede le perdite, pregresse e di periodo, di cui all'articolo 84, senza considerare il limite dell'ottanta per cento, la deduzione di periodo e l'eccedenza relativa all'aiuto alla crescita economica di cui all'articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e gli interessi passivi e gli oneri finanziari assimilati di cui al comma 4 dell'articolo 96 del presente testo unico. Ai fini del presente comma rilevano anche le perdite trasferite al consolidato nazionale di cui all'articolo 117 e non ancora utilizzate. Le disposizioni del presente comma si applicano anche per le operazioni di cui al comma 4-bis. (172) ((240))
+Non si considerano, altresi', sopravvenienze attive le riduzioni dei debiti dell'impresa in sede di concordato fallimentare o preventivo liquidatorio o di procedure estere equivalenti, previste in Stati o territori con i quali esiste un adeguato scambio di informazioni, o per effetto della partecipazione delle perdite da parte dell'associato in partecipazione. In caso di concordato di risanamento, di accordo di ristrutturazione dei debiti omologato ai sensi dell'articolo 182-bis del regio decreto 16 marzo 1942, n. 267, ovvero di un piano attestato ai sensi dell'articolo 67, terzo comma, lettera d), del citato regio decreto n. 267 del 1942, pubblicato nel registro delle imprese, o di procedure estere a queste equivalenti, la riduzione dei debiti dell'impresa non costituisce sopravvenienza attiva per la parte che eccede le perdite, pregresse e di periodo, di cui all'articolo 84, senza considerare il limite dell'ottanta per cento, la deduzione di periodo e l'eccedenza relativa all'aiuto alla crescita economica di cui all'articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e gli interessi passivi e gli oneri finanziari assimilati di cui al comma 4 dell'articolo 96 del presente testo unico. Ai fini del presente comma rilevano anche le perdite trasferite al consolidato nazionale di cui all'articolo 117 e non ancora utilizzate. Le disposizioni del presente comma si applicano anche per le operazioni di cui al comma 4-bis. (172) (240)
 
 In caso di cessione del contratto di locazione finanziaria il valore normale del bene costituisce sopravvenienza attiva. 
  (115)
@@ -4979,21 +5011,25 @@ Conseguentemente, l'articolo 88, comma 3, lettera a), del testo unico delle impo
                             -------------
                             AGGIORNAMENTO (240)
                             
- Il D.Lgs. 4 dicembre 2025, n. 186, ha disposto (con l'art. 8, comma 1) che "L'articolo 88, comma 4-ter, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, si interpreta nel senso che non si considerano sopravvenienze attive, ai sensi del primo periodo di tale disposizione, le riduzioni dei debiti dell'impresa anche in sede di concordato nella liquidazione giudiziale, di concordato minore liquidatorio e di concordato semplificato per la liquidazione del patrimonio e non costituiscono sopravvenienze attive, ai sensi del secondo periodo del medesimo comma 4-ter, le riduzioni dei debiti dell'impresa anche nei casi di concordato minore in continuita' aziendale, di accordo di ristrutturazione dei debiti omologato ai sensi degli articoli 57, 60 e 61 del decreto legislativo 12 gennaio 2019, n. 14, di un piano attestato ai sensi dell'articolo 56 del citato decreto legislativo n. 14 del 2019, pubblicato nel registro delle imprese, ovvero di un piano di ristrutturazione soggetto a omologazione".
+ Il D.Lgs. 4 dicembre 2025, n. 186, ha disposto (con l'art. 8, comma 1) che "L'articolo 88, comma 4-ter, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, si interpreta nel senso che non si considerano sopravvenienze attive, ai sensi del primo periodo di tale disposizione, le riduzioni dei debiti dell'impresa anche in sede di concordato nella liquidazione giudiziale, di concordato minore liquidatorio e di concordato semplificato per la liquidazione del patrimonio e non costituiscono sopravvenienze attive, ai sensi del secondo periodo del medesimo comma 4-ter, le riduzioni dei debiti dell'impresa anche nei casi di concordato minore in continuita' aziendale, di accordo di ristrutturazione dei debiti omologato ai sensi degli articoli 57, 60 e 61 del decreto legislativo 12 gennaio 2019, n. 14, di un piano attestato ai sensi dell'articolo 56 del citato decreto legislativo n. 14 del 2019, pubblicato nel registro delle imprese, ovvero di un piano di ristrutturazione soggetto a omologazione". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 9 del
+D.Lgs. 13 dicembre 2024, n. 192, ha conseguentemente disposto (con l'art. 374, comma 7, alinea) che "Le disposizioni di cui all'articolo 9 del decreto legislativo 13 dicembre 2024, n. 192, e agli articoli 276 e 277, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ## Art. 89. — Dividendi ed interessi
 
 Per gli utili derivanti dalla partecipazione in societa' semplici, in nome collettivo e in accomandita semplice residenti nel territorio dello Stato si applicano le disposizioni dell'articolo 5.
 
-((Gli utili distribuiti, in qualsiasi forma e sotto qualsiasi denominazione, anche nei casi di cui all'articolo 47, comma 7, dalle societa' ed enti di cui all'articolo 73, comma 1, lettere a), b) e c), non concorrono a formare il reddito dell'esercizio in cui sono percepiti in quanto esclusi dalla formazione del reddito della societa' o dell'ente ricevente per il 95 per cento del loro ammontare.))La stessa esclusione si applica alla remunerazione corrisposta relativamente ai contratti di cui all'articolo 109, comma 9, lettera b) ((...)). (123) (242) ((245)) 
+Gli utili distribuiti, in qualsiasi forma e sotto qualsiasi denominazione, anche nei casi di cui all'articolo 47, comma 7, dalle societa' ed enti di cui all'articolo 73, comma 1, lettere a), b) e c), non concorrono a formare il reddito dell'esercizio in cui sono percepiti in quanto esclusi dalla formazione del reddito della societa' o dell'ente ricevente per il 95 per cento del loro ammontare. La stessa esclusione si applica alla remunerazione corrisposta relativamente ai contratti di cui all'articolo 109, comma 9, lettera b). (123) (242) (245) 
  2.1. COMMA ABROGATO DAL D.L. 27 MARZO 2026, N. 38.
 
-In deroga al comma 2, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, gli utili distribuiti relativi ad azioni, quote e strumenti finanziari similari alle azioni detenuti per la negoziazione concorrono per il loro intero ammontare alla formazione del reddito nell'esercizio in cui sono percepiti. (133)
+In deroga al comma 2, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, gli utili distribuiti relativi ad azioni, quote e strumenti finanziari similari alle azioni detenuti per la negoziazione concorrono per il loro intero ammontare alla formazione del reddito nell'esercizio in cui sono percepiti. (133) ((248))
 
-Verificandosi la condizione dell'articolo 44, comma 2, lettera a), ultimo periodo, l'esclusione del comma 2 si applica agli utili provenienti da soggetti di cui all'articolo 73, comma 1, lettera d) ((...)), e alle remunerazioni derivanti da contratti di cui all'articolo 109, comma 9, lettera b) ((...)), stipulati con tali soggetti, se diversi da quelli residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, o, se ivi residenti o localizzati, sia dimostrato, anche a seguito dell'esercizio dell'interpello di cui al medesimo articolo 47-bis, comma 3, il rispetto, sin dal primo periodo di possesso della partecipazione, della condizione indicata nel medesimo articolo, comma 2, lettera b).
-Gli utili provenienti dai soggetti di cui all'articolo 73, comma 1, lettera d) ((...)), residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, e le remunerazioni derivanti dai contratti di cui all'articolo 109, comma 9, lettera b) ((...)), stipulati con tali soggetti, non concorrono a formare il reddito dell'esercizio in cui sono percepiti in quanto esclusi dalla formazione del reddito dell'impresa o dell'ente ricevente per il 50 per cento del loro ammontare, a condizione che sia dimostrata, anche a seguito dell'esercizio dell'interpello di cui all'articolo 47-bis, comma 3, la sussistenza della condizione di cui al comma 2, lettera a), del medesimo articolo; in tal caso, e' riconosciuto al soggetto controllante, ai sensi del comma 2 dell'articolo 167, residente nel territorio dello Stato, ovvero alle sue controllate residenti percipienti gli utili, un credito d'imposta ai sensi dell'articolo 165 in ragione delle imposte assolte dall'impresa o ente partecipato sugli utili maturati durante il periodo di possesso della partecipazione, in proporzione alla quota imponibile degli utili conseguiti e nei limiti dell'imposta italiana relativa a tali utili.
+Verificandosi la condizione dell'articolo 44, comma 2, lettera a), ultimo periodo, l'esclusione del comma 2 si applica agli utili provenienti da soggetti di cui all'articolo 73, comma 1, lettera d), e alle remunerazioni derivanti da contratti di cui all'articolo 109, comma 9, lettera b), stipulati con tali soggetti, se diversi da quelli residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, o, se ivi residenti o localizzati, sia dimostrato, anche a seguito dell'esercizio dell'interpello di cui al medesimo articolo 47-bis, comma 3, il rispetto, sin dal primo periodo di possesso della partecipazione, della condizione indicata nel medesimo articolo, comma 2, lettera b). Gli utili provenienti dai soggetti di cui all'articolo 73, comma 1, lettera d), residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, e le remunerazioni derivanti dai contratti di cui all'articolo 109, comma 9, lettera b), stipulati con tali soggetti, non concorrono a formare il reddito dell'esercizio in cui sono percepiti in quanto esclusi dalla formazione del reddito dell'impresa o dell'ente ricevente per il 50 per cento del loro ammontare, a condizione che sia dimostrata, anche a seguito dell'esercizio dell'interpello di cui all'articolo 47-bis, comma 3, la sussistenza della condizione di cui al comma 2, lettera a), del medesimo articolo; in tal caso, e' riconosciuto al soggetto controllante, ai sensi del comma 2 dell'articolo 167, residente nel territorio dello Stato, ovvero alle sue controllate residenti percipienti gli utili, un credito d'imposta ai sensi dell'articolo 165 in ragione delle imposte assolte dall'impresa o ente partecipato sugli utili maturati durante il periodo di possesso della partecipazione, in proporzione alla quota imponibile degli utili conseguiti e nei limiti dell'imposta italiana relativa a tali utili.
 Ai soli fini dell'applicazione dell'imposta, l'ammontare del credito d'imposta di cui al periodo precedente e' computato in aumento del reddito complessivo. Se nella dichiarazione e' stato omesso soltanto il computo del credito d'imposta in aumento del reddito complessivo, si puo' procedere di ufficio alla correzione anche in sede di liquidazione dell'imposta dovuta in base alla dichiarazione dei redditi. Ai fini del presente comma, si considerano provenienti da imprese o enti residenti o localizzati in Stati o territori a regime privilegiato gli utili relativi al possesso di partecipazioni dirette in tali soggetti o di partecipazioni di controllo, ai sensi del comma 2 dell'articolo 167, in societa' residenti all'estero che conseguono utili dalla partecipazione in imprese o enti residenti o localizzati in Stati o territori a regime privilegiato e nei limiti di tali utili. Qualora il contribuente intenda far valere la sussistenza, sin dal primo periodo di possesso della partecipazione, della condizione indicata nella lettera b) del comma 2 dell'articolo 47-bis ma non abbia presentato l'istanza di interpello prevista dal comma 3 del medesimo articolo ovvero, avendola presentata, non abbia ricevuto risposta favorevole, la percezione di utili provenienti da partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, deve essere segnalata nella dichiarazione dei redditi da parte del socio residente; nei casi di mancata o incompleta indicazione nella dichiarazione dei redditi si applica la sanzione amministrativa prevista dall'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471.
-Concorrono in ogni caso alla formazione del reddito per il loro intero ammontare gli utili relativi ai contratti di cui all'articolo 109, comma 9, lettera b), che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo. (123) (133) (172) (189) (192) (242) ((245))
+Concorrono in ogni caso alla formazione del reddito per il loro intero ammontare gli utili relativi ai contratti di cui all'articolo 109, comma 9, lettera b), che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo. (123) (133) (172) (189) (192) (242) (245)
 
 3-bis.
                         
@@ -5004,8 +5040,8 @@ Concorrono in ogni caso alla formazione del reddito per il loro intero ammontare
                             
                                 a)
                                 
-                                    alle remunerazioni sui titoli, sugli strumenti finanziari e sui contratti indicati dall'articolo 109, comma 9, lettere a) e b), ((...)) limitatamente al 95 per cento della quota di esse non deducibile ai sensi dello stesso articolo 109. (242) ((245))
-                                    
+                                    alle remunerazioni sui titoli, sugli strumenti finanziari e sui contratti indicati dall'articolo 109, comma 9, lettere a) e b), limitatamente al 95 per cento della quota di esse non deducibile ai sensi dello stesso articolo 109. (242) (245) 
+
                                 
                             
                             
@@ -5078,7 +5114,12 @@ Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo
                             ---------------
                             AGGIORNAMENTO (245)
                             
- Il D.L. 27 marzo 2026, n. 38, ha disposto (con l'art. 11, comma 5) che "Le disposizioni di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026".
+ Il D.L. 27 marzo 2026, n. 38, ha disposto (con l'art. 11, comma 5) che "Le disposizioni di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58 della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e dal comma 1 del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 90. — Proventi immobiliari
 
@@ -5128,56 +5169,33 @@ Le spese e gli altri componenti negativi relativi ai beni immobili indicati nel 
 
 ## Art. 92. — Variazioni delle rimanenze
 
-Le variazioni delle rimanenze finali dei beni indicati 
- all'articolo 85, comma 1, lettere a) e b), rispetto alle esistenze  iniziali, concorrono a formare il reddito dell'esercizio. A tal 
- fine le rimanenze finali, la cui valutazione non sia effettuata a  costi specifici o a norma dell'articolo 93, sono assunte per un 
- valore non inferiore a quello che risulta raggruppando i beni in 
- categorie omogenee per natura e per valore e attribuendo a ciascun  gruppo un valore non inferiore a quello determinato a norma delle disposizioni che seguono.
+Le variazioni delle rimanenze finali dei beni indicati all'articolo 85, comma 1, lettere a) e b), rispetto alle esistenze iniziali, concorrono a formare il reddito dell'esercizio. A tal fine le rimanenze finali, la cui valutazione non sia effettuata a costi specifici o a norma dell'articolo 93, sono assunte per un valore non inferiore a quello che risulta raggruppando i beni in categorie omogenee per natura e per valore e attribuendo a ciascun gruppo un valore non inferiore a quello determinato a norma delle disposizioni che seguono.
 
-Nel primo esercizio in cui si verificano, le rimanenze sono 
- valutate attribuendo ad ogni unita' il valore risultante dalla 
- divisione del costo complessivo dei beni prodotti e acquistati nell'esercizio stesso per la loro quantita'.
+Nel primo esercizio in cui si verificano, le rimanenze sono valutate attribuendo ad ogni unita' il valore risultante dalla divisione del costo complessivo dei beni prodotti e acquistati nell'esercizio stesso per la loro quantita'.
 
-Negli esercizi successivi, se la quantita' delle rimanenze e'  aumentata rispetto all'esercizio precedente, le maggiori quantita', 
- valutate a norma del comma 2, costituiscono voci distinte per 
- esercizi di formazione. Se la quantita' e' diminuita, la 
- diminuzione si imputa agli incrementi formati nei precedenti esercizi, a partire dal piu' recente.
+Negli esercizi successivi, se la quantita' delle rimanenze e' aumentata rispetto all'esercizio precedente, le maggiori quantita', valutate a norma del comma 2, costituiscono voci distinte per esercizi di formazione. Se la quantita' e' diminuita, la diminuzione si imputa agli incrementi formati nei precedenti esercizi, a partire dal piu' recente.
 
-Per le imprese che valutano in bilancio le rimanenze finali 
- con il metodo della media ponderata o del "primo entrato, primo 
- uscito" o con varianti di quello di cui al comma 3, le rimanenze 
- finali sono assunte per il valore che risulta dall'applicazione del metodo adottato.
+Per le imprese che valutano in bilancio le rimanenze finali con il metodo della media ponderata o del "primo entrato, primo uscito" o con varianti di quello di cui al comma 3, le rimanenze finali sono assunte per il valore che risulta dall'applicazione del metodo adottato.
 
-Se in un esercizio il valore unitario medio dei beni, 
- determinato a norma dei commi 2, 3 e 4, e' superiore al valore 
- normale medio di essi nell'ultimo mese dell'esercizio, il valore 
- minimo di cui al comma 1, e' determinato moltiplicando l'intera 
- quantita' dei beni, indipendentemente dall'esercizio di formazione, 
- per il valore normale. Per le valute estere si assume come valore  normale il valore secondo il cambio alla data di chiusura 
- dell'esercizio. Il minor valore attribuito alle rimanenze in 
- conformita' alle disposizioni del presente comma vale anche per gli 
- esercizi successivi sempre che le rimanenze non risultino iscritte nello stato patrimoniale per un valore superiore.
+Se in un esercizio il valore unitario medio dei beni, determinato a norma dei commi 2, 3 e 4, e' superiore al valore normale medio di essi nell'ultimo mese dell'esercizio, il valore minimo di cui al comma 1, e' determinato moltiplicando l'intera quantita' dei beni, indipendentemente dall'esercizio di formazione, per il valore normale. Per le valute estere si assume come valore normale il valore secondo il cambio alla data di chiusura dell'esercizio. Il minor valore attribuito alle rimanenze in conformita' alle disposizioni del presente comma vale anche per gli esercizi successivi sempre che le rimanenze non risultino iscritte nello stato patrimoniale per un valore superiore.
 
-((6. I prodotti in corso di lavorazione e le opere, le forniture e i servizi, per i quali non trova applicazione l'articolo 93, in corso di esecuzione al termine dell'esercizio, sono valutati in base alle spese sostenute nell'esercizio stesso. Tuttavia, le imprese che contabilizzano in bilancio tali opere, forniture e servizi con il metodo della percentuale di completamento, in conformita' ai corretti principi contabili, applicano il predetto metodo anche ai fini della determinazione del reddito.))
+I prodotti in corso di lavorazione e le opere, le forniture e i servizi, per i quali non trova applicazione l'articolo 93, in corso di esecuzione al termine dell'esercizio, sono valutati in base alle spese sostenute nell'esercizio stesso. Tuttavia, le imprese che contabilizzano in bilancio tali opere, forniture e servizi con il metodo della percentuale di completamento, in conformita' ai corretti principi contabili, applicano il predetto metodo anche ai fini della determinazione del reddito. (235) ((248))
 
-((235))
+Le rimanenze finali di un esercizio nell'ammontare indicato dal contribuente costituiscono le esistenze iniziali dell'esercizio successivo.
 
-Le rimanenze finali di un esercizio nell'ammontare indicato 
- dal contribuente costituiscono le esistenze iniziali dell'esercizio successivo.
-
-Per gli esercenti attivita' di commercio al minuto che 
- valutano le rimanenze delle merci con il metodo del prezzo al 
- dettaglio si tiene conto del valore cosi' determinato anche in 
- deroga alla disposizione del comma 1, a condizione che nella 
- dichiarazione dei redditi o in apposito allegato siano illustrati i 
- criteri e le modalita' di applicazione del detto metodo, con 
- riferimento all'oggetto e alla struttura organizzativa dell'impresa.
+Per gli esercenti attivita' di commercio al minuto che valutano le rimanenze delle merci con il metodo del prezzo al dettaglio si tiene conto del valore cosi' determinato anche in deroga alla disposizione del comma 1, a condizione che nella dichiarazione dei redditi o in apposito allegato siano illustrati i criteri e le modalita' di applicazione del detto metodo, con riferimento all'oggetto e alla struttura organizzativa dell'impresa.
 
 -------------
                             AGGIORNAMENTO (235)
                             
+ 
  Il D.Lgs. 13 dicembre 2024, n. 192, ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
- Ha inoltre disposto (con l'art. 13, comma 3) che "Per le opere, i prodotti, le forniture e i servizi di cui agli articoli 92, comma 6, e 93, comma 6, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 21 dicembre 1986, n. 917, ancora in corso di lavorazione o di esecuzione al termine del periodo di imposta in corso al 31 dicembre 2023 si applicano le disposizioni nel testo vigente anteriormente alle modifiche di cui al presente decreto".
+ Ha inoltre disposto (con l'art. 13, comma 3) che "Per le opere, i prodotti, le forniture e i servizi di cui agli articoli 92, comma 6, e 93, comma 6, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 21 dicembre 1986, n. 917, ancora in corso di lavorazione o di esecuzione al termine del periodo di imposta in corso al 31 dicembre 2023 si applicano le disposizioni nel testo vigente anteriormente alle modifiche di cui al presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 9 del
+D.Lgs. 13 dicembre 2024, n. 192, ha conseguentemente disposto (con l'art. 374, comma 7, alinea) che "Le disposizioni di cui all'articolo 9 del decreto legislativo 13 dicembre 2024, n. 192, e agli articoli 276 e 277, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ## Art. 92-bis. — (( (Valutazione delle rimanenze di alcune categorie di imprese).))
 
@@ -5219,15 +5237,13 @@ Le variazioni delle rimanenze finali delle opere, forniture e servizi pattuiti c
 La valutazione e' fatta sulla base dei corrispettivi pattuiti.
 Delle maggiorazioni di prezzo richieste in applicazione di disposizioni di legge o di clausole contrattuali si tiene conto, finche' non siano state definitivamente stabilite, in misura non inferiore al 50 per cento. Per la parte di opere, forniture e servizi coperta da stati di avanzamento la valutazione e' fatta in base ai corrispettivi liquidati.
 
-COMMA ABROGATO DAL D.L. 4 LUGLIO 2006, N.223 CONVERTITO CON MODIFICAZIONI DALLA L. 4 AGOSTO 2006, N. 248. (126)
+COMMA ABROGATO DAL D.L. 4 LUGLIO 2006, N.223 CONVERTITO CON MODIFICAZIONI DALLA L. 4 AGOSTO 2006, N. 248. (126) ((248))
 
 I corrispettivi liquidati a titolo definitivo dal committente si comprendono tra i ricavi e la valutazione tra le rimanenze, in caso di liquidazione parziale, e' limitata alla parte non ancora liquidata. Ogni successiva variazione dei corrispettivi e' imputata al reddito dell'esercizio in cui e' stata definitivamente stabilita.
 
 COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296. (128)
 
-((6. In deroga alle disposizioni dei commi 1, 2 e 4, le imprese che contabilizzano in bilancio le opere, forniture e servizi valutando le rimanenze al costo e imputando i corrispettivi all'esercizio nel quale sono consegnate le opere o ultimati i servizi e le forniture, in conformita' ai corretti principi contabili, applicano tale metodo anche ai fini della determinazione del reddito.))
-
-((235))
+In deroga alle disposizioni dei commi 1, 2 e 4, le imprese che contabilizzano in bilancio le opere, forniture e servizi valutando le rimanenze al costo e imputando i corrispettivi all'esercizio nel quale sono consegnate le opere o ultimati i servizi e le forniture, in conformita' ai corretti principi contabili, applicano tale metodo anche ai fini della determinazione del reddito. (235)
 
 COMMA ABROGATO DAL D.LGS. 18 NOVEMBRE 2005, N. 247. (123) 
  (115)
@@ -5252,7 +5268,12 @@ COMMA ABROGATO DAL D.LGS. 18 NOVEMBRE 2005, N. 247. (123)
                             AGGIORNAMENTO (235)
                             
  Il D.Lgs. 13 dicembre 2024, n. 192, ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
- Ha inoltre disposto (con l'art. 13, comma 3) che "Per le opere, i prodotti, le forniture e i servizi di cui agli articoli 92, comma 6, e 93, comma 6, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 21 dicembre 1986, n. 917, ancora in corso di lavorazione o di esecuzione al termine del periodo di imposta in corso al 31 dicembre 2023 si applicano le disposizioni nel testo vigente anteriormente alle modifiche di cui al presente decreto".
+ Ha inoltre disposto (con l'art. 13, comma 3) che "Per le opere, i prodotti, le forniture e i servizi di cui agli articoli 92, comma 6, e 93, comma 6, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 21 dicembre 1986, n. 917, ancora in corso di lavorazione o di esecuzione al termine del periodo di imposta in corso al 31 dicembre 2023 si applicano le disposizioni nel testo vigente anteriormente alle modifiche di cui al presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 9 del
+D.Lgs. 13 dicembre 2024, n. 192, ha conseguentemente disposto (con l'art. 374, comma 7, alinea) che "Le disposizioni di cui all'articolo 9 del decreto legislativo 13 dicembre 2024, n. 192, e agli articoli 276 e 277, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ## Art. 94. — Valutazione dei titoli
 
@@ -5265,25 +5286,22 @@ Ai fini del raggruppamento in categorie omogenee non si tiene conto del valore e
 4.
                         
                             
-                                
-                                    ((Le disposizioni dell'articolo 92, comma 5, si applicano solo per la valutazione dei titoli di cui all'articolo 85, comma 1, lettera e); a tal fine il valore minimo e' determinato:))
-                                
+                                Le disposizioni dell'articolo 92, comma 5, si applicano solo per la valutazione dei titoli di cui all'articolo 85, comma 1, lettera e); a tal fine il valore minimo e' determinato: 
+ 
                             
                             
                                 a)
                                 
-                                    
-                                        ((per i titoli negoziati in mercati regolamentati, in base alla media aritmetica dei prezzi rilevati nell'ultimo semestre;))
-                                    
+                                    per i titoli negoziati in mercati regolamentati, in base alla media aritmetica dei prezzi rilevati nell'ultimo semestre; 
+
                                 
                             
                             
                                 b)
                                 
-                                    
-                                        ((per gli altri titoli, applicando al valore fiscalmente riconosciuto l'eventuale decremento desunto dall'andamento complessivo del mercato telematico delle obbligazioni italiano nell'ultimo semestre)).
+                                    per gli altri titoli, applicando al valore fiscalmente riconosciuto l'eventuale decremento desunto dall'andamento complessivo del mercato telematico delle obbligazioni italiano nell'ultimo semestre.
 
-In deroga al comma 4, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, la valutazione dei beni indicati nell'articolo 85, comma 1, lettere c), d) ed e), operata in base alla corretta applicazione di tali principi assume rilievo anche ai fini fiscali. (133)
+In deroga al comma 4, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, la valutazione dei beni indicati nell'articolo 85, comma 1, lettere c), d) ed e), operata in base alla corretta applicazione di tali principi assume rilievo anche ai fini fiscali. (133) ((248))
 
 In caso di aumento del capitale della societa' emittente mediante passaggio di riserve a capitale il numero delle azioni ricevute gratuitamente si aggiunge al numero di quelle gia' possedute in proporzione alle quantita' delle singole voci della corrispondente categoria e il valore unitario si determina, per ciascuna voce, dividendo il costo complessivo delle azioni gia' possedute per il numero complessivo delle azioni.
 
@@ -5304,7 +5322,12 @@ Le disposizioni dei commi precedenti si applicano anche per la valutazione delle
                             AGGIORNAMENTO (172)
                             
  Il D.Lgs. 14 settembre 2015, n. 147 ha disposto (con l'art. 13, comma 2), che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello di entrata in vigore del D.Lgs.
-medesimo.
+medesimo. 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58 della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e dal comma 1 del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 95. — Spese per prestazioni di lavoro
 
@@ -5701,11 +5724,11 @@ Le erogazioni liberali diverse da quelle considerate nei precedenti commi e nel 
 
 Le minusvalenze dei beni relativi all'impresa, diversi da quelli indicati negli articoli 85, comma 1, e 87, determinate con gli stessi criteri stabiliti per la determinazione delle plusvalenze, sono deducibili se sono realizzate ai sensi dell'articolo 86, commi 1, lettere a) e b), e 2. (126)
 
-COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244.
+COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. ((248))
 
-Per la valutazione dei beni indicati nell'articolo 85, comma 1, lettere c), d) ed e), che costituiscono immobilizzazioni finanziarie si applicano le disposizioni dell'articolo 94; tuttavia, per i titoli di cui alla citata lettera e) negoziati nei mercati regolamentati italiani o esteri, le minusvalenze sono deducibili in misura non eccedente la differenza tra il valore fiscalmente riconosciuto e quello determinato in base alla media aritmetica dei prezzi rilevati nell'ultimo semestre. ((Ai fini del primo periodo, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, le minusvalenze assumono rilievo fiscale se imputate a conto economico)). (123)
+Per la valutazione dei beni indicati nell'articolo 85, comma 1, lettere c), d) ed e), che costituiscono immobilizzazioni finanziarie si applicano le disposizioni dell'articolo 94; tuttavia, per i titoli di cui alla citata lettera e) negoziati nei mercati regolamentati italiani o esteri, le minusvalenze sono deducibili in misura non eccedente la differenza tra il valore fiscalmente riconosciuto e quello determinato in base alla media aritmetica dei prezzi rilevati nell'ultimo semestre. Ai fini del primo periodo, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, le minusvalenze assumono rilievo fiscale se imputate a conto economico. (123)
 
-In deroga al comma 2, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, la valutazione dei beni indicati nell'articolo 85, comma 1, lettere (( c) e d) )), che si considerano immobilizzazioni finanziarie ai sensi dell'articolo 85, comma 3-bis, rileva secondo le disposizioni dell'articolo 110, comma 1-bis.
+In deroga al comma 2, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, la valutazione dei beni indicati nell'articolo 85, comma 1, lettere c) e d), che si considerano immobilizzazioni finanziarie ai sensi dell'articolo 85, comma 3-bis, rileva secondo le disposizioni dell'articolo 110, comma 1-bis. ((248))
 
 Per le immobilizzazioni finanziarie costituite da partecipazioni in imprese controllate o collegate, iscritte in bilancio a norma dell'articolo 2426, n. 4), del codice civile o di leggi speciali, non e' deducibile, anche a titolo di ammortamento, la parte del costo di acquisto eccedente il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio dell'impresa partecipata.
 
@@ -5745,7 +5768,12 @@ I versamenti in denaro o in natura fatti a fondo perduto o in conto capitale all
                             ---------------
                             AGGIORNAMENTO (193)
                             
- La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 24) che, in deroga all'articolo 3, comma 1, della legge 27 luglio 2000, n. 212, la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017.
+ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 24) che, in deroga all'articolo 3, comma 1, della legge 27 luglio 2000, n. 212, la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2017. 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58 della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e dal comma 1 del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 102. — Ammortamento dei beni materiali
 
@@ -5868,9 +5896,7 @@ Le quote di ammortamento del costo dei diritti di concessione e degli altri diri
 
 Le quote di ammortamento del valore di avviamento iscritto nell'attivo del bilancio sono deducibili in misura non superiore a un diciottesimo del valore stesso. (122)
 
-((3-bis. Per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, la deduzione del costo dei marchi d'impresa e dell'avviamento e' ammessa alle stesse condizioni e con gli stessi limiti annuali previsti dai commi 1 e 3, a prescindere dall'imputazione al conto economico))
-
-((133))
+Per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, la deduzione del costo dei marchi d'impresa e dell'avviamento e' ammessa alle stesse condizioni e con gli stessi limiti annuali previsti dai commi 1 e 3, a prescindere dall'imputazione al conto economico. (133) ((248))
 
 Si applica la disposizione del comma 8 dell'articolo 102. 
  (115)
@@ -5890,7 +5916,15 @@ Si applica la disposizione del comma 8 dell'articolo 102.
                             ------------
                             AGGIORNAMENTO (133)
                             
- La L. 24 dicembre 2007, n. 244 ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+ La L. 24 dicembre 2007, n. 244 ha disposto (con l'art. 1, comma 61) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007. 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58
+della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e
+dal comma 1 del presente articolo si applicano a decorrere dal
+periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 103-bis. — ((IL D.LGS. 12 DICEMBRE 2003, N.344 HA DISPOSTO LA TOTALE MODIFICA DEL PRESENTE PROVVEDIMENTO RIDEFINENDONE LA STRUTTURA DI TITOLI, CAPI ED ARTICOLI))
 
@@ -6109,7 +6143,7 @@ Le disposizioni del comma 3-bis si applicano con riferimento alle azioni, quote 
 
 Resta ferma l'applicazione dell'articolo 37-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, anche con riferimento ai differenziali negativi di natura finanziaria derivanti da operazioni iniziate nel periodo d'imposta o in quello precedente sulle azioni, quote e strumenti finanziari similari alle azioni di cui al comma 3-bis. (122)
 
-I commi 3-bis, 3-ter e 3-quater non si applicano ai soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002.
+I commi 3-bis, 3-ter e 3-quater non si applicano ai soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002. ((248))
 
 Al fine di disapplicare le disposizioni di cui ai commi 3-bis e 3-ter il contribuente interpella l'amministrazione ai sensi dell'articolo 11, comma 2, della legge 27 luglio 2000, n. 212, recante lo Statuto dei diritti del contribuente.
 
@@ -6134,11 +6168,9 @@ Sono tuttavia deducibili: (182)
 
 Le spese e gli altri componenti negativi diversi dagli interessi passivi, tranne gli oneri fiscali, contributivi e di utilita' sociale, sono deducibili se e nella misura in cui si riferiscono ad attivita' o beni da cui derivano ricavi o altri proventi che concorrono a formare il reddito o che non vi concorrono in quanto esclusi. Se si riferiscono indistintamente ad attivita' o beni produttivi di proventi computabili e ad attivita' o beni produttivi di proventi non computabili in quanto esenti nella determinazione del reddito sono deducibili per la parte corrispondente al rapporto tra l'ammontare dei ricavi e altri proventi che concorrono a formare il reddito d'impresa o che non vi concorrono in quanto esclusi e l'ammontare complessivo di tutti i ricavi e proventi. Le plusvalenze di cui all'articolo 87, non rilevano ai fini dell'applicazione del periodo precedente. Fermo restando quanto previsto dai periodi precedenti, le spese relative a prestazioni alberghiere e a somministrazioni di alimenti e bevande, diverse da quelle di cui al comma 3 dell'articolo 95, sono deducibili nella misura del 75 per cento. (133) (136)
 
-((Le spese di vitto e alloggio e quelle per viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, sostenute nel territorio dello Stato, nonche' i rimborsi analitici relativi alle medesime spese, sono deducibili a condizione che i pagamenti siano stati eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241.))
-                                ((238))
+Le spese di vitto e alloggio e quelle per viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, sostenute nel territorio dello Stato, nonche' i rimborsi analitici relativi alle medesime spese, sono deducibili a condizione che i pagamenti siano stati eseguiti con versamento bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241. (238)
 
-((Le spese di vitto e alloggio e quelle per viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, sostenute nel territorio dello Stato per le prestazioni di servizi commissionate ai lavoratori autonomi, nonche' i rimborsi analitici relativi alle medesime spese, sono deducibili alle condizioni di cui al comma 5-bis.))
-                                ((238))
+Le spese di vitto e alloggio e quelle per viaggio e trasporto mediante autoservizi pubblici non di linea di cui all'articolo 1 della legge 15 gennaio 1992, n. 21, sostenute nel territorio dello Stato per le prestazioni di servizi commissionate ai lavoratori autonomi, nonche' i rimborsi analitici relativi alle medesime spese, sono deducibili alle condizioni di cui al comma 5-bis. (238)
 
 COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244. (133)
 
@@ -6204,7 +6236,15 @@ In deroga al comma 5 non e' deducibile il costo sostenuto per l'acquisto del dir
                             ---------------
                             AGGIORNAMENTO (238)
                             
- Il D.L. 17 giugno 2025, n. 84 ha disposto (con l'art. 1, comma 8) che "Le disposizioni di cui al comma 1, lettera g), numero 2), e lettera h), si applicano alle spese sostenute a decorrere dalla data di entrata in vigore del presente decreto, per i periodi d'imposta successivi a quelli in corso al 31 dicembre 2024".
+ Il D.L. 17 giugno 2025, n. 84 ha disposto (con l'art. 1, comma 8) che "Le disposizioni di cui al comma 1, lettera g), numero 2), e lettera h), si applicano alle spese sostenute a decorrere dalla data di entrata in vigore del presente decreto, per i periodi d'imposta successivi a quelli in corso al 31 dicembre 2024". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58
+della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e
+dal comma 1 del presente articolo si applicano a decorrere dal
+periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 109-bis. — ((IL D.LGS. 12 DICEMBRE 2003, N.344 HA DISPOSTO LA TOTALE MODIFICA DEL PRESENTE PROVVEDIMENTO RIDEFINENDONE LA STRUTTURA DI TITOLI, CAPI ED ARTICOLI))
 
@@ -6266,8 +6306,7 @@ Tuttavia per i beni materiali e immateriali strumentali per l'esercizio dell'imp
                             
                                 a)
                                 
-                                    
-                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199)); 
+                                    LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199; 
 
                                 
                             
@@ -6281,13 +6320,13 @@ Tuttavia per i beni materiali e immateriali strumentali per l'esercizio dell'imp
                             
                                 c)
                                 
-                                    per le azioni, le quote e gli strumenti finanziari similari alle azioni, posseduti per un periodo inferiore a quello indicato nell'articolo 87, comma 1, lettera a), aventi gli altri requisiti previsti al comma 1 del medesimo articolo 87, il costo e' ridotto dei relativi utili percepiti durante il periodo di possesso per la quota esclusa dalla formazione del reddito. (133)
+                                    per le azioni, le quote e gli strumenti finanziari similari alle azioni, posseduti per un periodo inferiore a quello indicato nell'articolo 87, comma 1, lettera a), aventi gli altri requisiti previsti al comma 1 del medesimo articolo 87, il costo e' ridotto dei relativi utili percepiti durante il periodo di possesso per la quota esclusa dalla formazione del reddito. (133) ((248))
 
-Per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al citato regolamento (CE) n. 1606/2002, i componenti positivi e negativi che derivano dalla valutazione, operata in base alla corretta applicazione di tali principi, delle passivita' assumono rilievo anche ai fini fiscali. (133)
+Per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al citato regolamento (CE) n. 1606/2002, i componenti positivi e negativi che derivano dalla valutazione, operata in base alla corretta applicazione di tali principi, delle passivita' assumono rilievo anche ai fini fiscali. (133) ((248))
 
 Per la determinazione del valore normale dei beni e dei servizi e, con riferimento alla data in cui si considerano conseguiti o sostenuti, per la valutazione dei corrispettivi, proventi, spese e oneri in natura o in valuta estera, si applicano, quando non e' diversamente disposto, le disposizioni dell'articolo 9; tuttavia i corrispettivi, i proventi, le spese e gli oneri in valuta estera, percepiti o effettivamente sostenuti in data precedente, si valutano con riferimento a tale data. La conversione in euro dei saldi di conto delle stabili organizzazioni all'estero si effettua secondo il cambio utilizzato nel bilancio in base ai corretti principi contabili e le differenze rispetto ai saldi di conto dell'esercizio precedente non concorrono alla formazione del reddito. Per le imprese che intrattengono in modo sistematico rapporti in valuta estera e' consentita la tenuta della contabilita' plurimonetaria con l'applicazione del cambio utilizzato nel bilancio in base ai corretti principi contabili ai saldi dei relativi conti. (178)
 
-COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2024, N. 192. (235)
+COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2024, N. 192. (235) ((248))
 
 In deroga alle norme degli articoli precedenti del presente capo e ai commi da 1 a 1-ter del presente articolo, non concorrono alla formazione del reddito i componenti positivi e negativi che risultano dalla valutazione delle cripto-attivita' alla data di chiusura del periodo di imposta a prescindere dall'imputazione al conto economico.
 
@@ -6361,7 +6400,16 @@ Sono fatti salvi i comportamenti pregressi posti in essere in conformita' alle d
                             -------------
                             AGGIORNAMENTO (235)
                             
- Il D.Lgs. 13 dicembre 2024, n. 192, ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+ Il D.Lgs. 13 dicembre 2024, n. 192, ha disposto (con l'art. 13, comma 1) che " Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58
+della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e
+dal comma 1 del presente articolo si applicano a decorrere dal
+periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58". 
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 9 del D.Lgs. 13 dicembre 2024, n. 192, ha conseguentemente disposto (con l'art. 374, comma 7, alinea) che "Le disposizioni di cui all'articolo 9 del decreto legislativo 13 dicembre 2024, n. 192, e agli articoli 276 e 277, commi 1 e 2, si applicano dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ## Art. 110-bis. — ((IL D.LGS. 12 DICEMBRE 2003, N.344 HA DISPOSTO LA TOTALE MODIFICA DEL PRESENTE PROVVEDIMENTO RIDEFINENDONE LA STRUTTURA DI TITOLI, CAPI ED ARTICOLI))
 
@@ -6431,13 +6479,11 @@ Le provvigioni stesse, se iscritte tra gli elementi dell'attivo a copertura dell
                             
  Ai sensi di quanto disposto dall'art. 2, comma 4 del D.Lgs. 12 dicembre 2003, n. 344, il riferimento al presente articolo, da parte di norme vigenti alla data di entrata in vigore di cui al medesimo decreto, si intende alle corrispondenti disposizioni contenute nell'art. 150.
 
-## Art. 112. — ((Strumenti finanziari derivati))
+## Art. 112. — Strumenti finanziari derivati
 
+COMMA ABROGATO DAL D.L. 30 DICEMBRE 2016, N. 244, CONVERTITO CON MODIFICAZIONI DALLA L. 27 FEBBRAIO 2017, N. 19. (182)
 
-
-((COMMA ABROGATO DAL D.L. 30 DICEMBRE 2016, N. 244, CONVERTITO CON MODIFICAZIONI DALLA L. 27 FEBBRAIO 2017, N. 19)). ((182))
-
-Alla formazione del reddito concorrono i componenti positivi e negativi che risultano dalla valutazione ((degli strumenti finanziari derivati)) alla data di chiusura dell'esercizio. ((182))
+Alla formazione del reddito concorrono i componenti positivi e negativi che risultano dalla valutazione degli strumenti finanziari derivati alla data di chiusura dell'esercizio. (182)
 
 3.
                         
@@ -6471,15 +6517,14 @@ Alla formazione del reddito concorrono i componenti positivi e negativi che risu
                                 
                                     in tutti gli altri casi, il valore determinato secondo i criteri di cui alla lettera c) del comma 4 dell'articolo 9.
 
-In deroga al comma 3, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, ((e per i soggetti, diversi dalle micro-imprese di cui all'articolo 2435-ter del codice civile, che redigono il bilancio in conformita' alle disposizioni del codice civile,)) i componenti negativi imputati al conto economico in base alla corretta applicazione di tali principi assumono rilievo anche ai fini fiscali. (133) ((182))
+In deroga al comma 3, per i soggetti che redigono il bilancio in base ai principi contabili internazionali di cui al regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, e per i soggetti, diversi dalle micro-imprese di cui all'articolo 2435-ter del codice civile, che redigono il bilancio in conformita' alle disposizioni del codice civile, i componenti negativi imputati al conto economico in base alla corretta applicazione di tali principi assumono rilievo anche ai fini fiscali. (133) (182) ((248))
 
-Se ((gli strumenti finanziari derivati di cui al comma 2 sono iscritti in bilancio)) con finalita' di copertura di attivita' o passivita', ovvero sono coperte da attivita' o passivita', i relativi componenti positivi e negativi derivanti da valutazione o da realizzo concorrono a formare il reddito secondo le medesime disposizioni che disciplinano i componenti positivi e negativi, derivanti da valutazione o da realizzo, delle attivita' o passivita' rispettivamente coperte o di copertura. ((182))
+Se gli strumenti finanziari derivati di cui al comma 2 sono iscritti in bilancio con finalita' di copertura di attivita' o passivita', ovvero sono coperte da attivita' o passivita', i relativi componenti positivi e negativi derivanti da valutazione o da realizzo concorrono a formare il reddito secondo le medesime disposizioni che disciplinano i componenti positivi e negativi, derivanti da valutazione o da realizzo, delle attivita' o passivita' rispettivamente coperte o di copertura. (182)
 
-Se ((gli strumenti finanziari derivati di cui al comma 2 sono iscritti in bilancio)) con finalita' di copertura dei rischi relativi ad attivita' e passivita' produttive di interessi, i relativi componenti positivi e negativi concorrono a formare il reddito, secondo lo stesso criterio di imputazione degli interessi, se le operazioni hanno finalita' di copertura di rischi connessi a specifiche attivita' e passivita', ovvero secondo la durata del contratto, se le operazioni hanno finalita' di copertura di rischi connessi ad insiemi di attivita' e passivita'. ((182))
+Se gli strumenti finanziari derivati di cui al comma 2 sono iscritti in bilancio con finalita' di copertura dei rischi relativi ad attivita' e passivita' produttive di interessi, i relativi componenti positivi e negativi concorrono a formare il reddito, secondo lo stesso criterio di imputazione degli interessi, se le operazioni hanno finalita' di copertura di rischi connessi a specifiche attivita' e passivita', ovvero secondo la durata del contratto, se le operazioni hanno finalita' di copertura di rischi connessi ad insiemi di attivita' e passivita'. (182)
 
-((6. Ai fini del presente articolo lo strumento finanziario derivato si considera con finalita' di copertura in base alla corretta applicazione dei principi contabili adottati dall'impresa))
-
-((182))
+Ai fini del presente articolo lo strumento finanziario derivato si considera con finalita' di copertura in base alla corretta applicazione dei principi contabili adottati dall'impresa. (182) 
+ (115)
 
 -----------
                             AGGIORNAMENTO (115)
@@ -6496,7 +6541,15 @@ Se ((gli strumenti finanziari derivati di cui al comma 2 sono iscritti in bilanc
 In deroga al periodo precedente: 
  a) la valutazione degli strumenti finanziari derivati differenti da quelli iscritti in bilancio con finalita' di copertura di cui al comma 6 dell'articolo 112 del testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in essere nell'esercizio in corso al 31 dicembre 2015, ma non iscritti nel relativo bilancio, assume rilievo ai fini della determinazione del reddito al momento del realizzo; 
  b) alla valutazione degli strumenti finanziari derivati differenti da quelli iscritti in bilancio con finalita' di copertura di cui al comma 6 dell'articolo 112 del testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, gia' iscritti in bilancio nell'esercizio in corso al 31 dicembre 2015, si applica l'articolo 112 del predetto testo unico, nel testo vigente prima della data di entrata in vigore della legge di conversione del presente decreto". 
- Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139, e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
+ Ha inoltre disposto (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139, e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa". 
+                            ---------------
+                            AGGIORNAMENTO (248)
+                            
+ Il D.Lgs. 19 giugno 2026, n. 117, nel modificare l'art. 1, comma 58
+della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 164, comma 2) che "Le disposizioni recate dall'articolo 1, commi 58 e 59, primo periodo, della legge 24 dicembre 2007, n. 244, e
+dal comma 1 del presente articolo si applicano a decorrere dal
+periodo d'imposta successivo a quello in corso al 31 dicembre 2007.
+Per i periodi d'imposta precedenti, sono fatti salvi gli effetti sulla determinazione dell'imposta prodotti dai comportamenti adottati sulla base della corretta applicazione dei principi contabili internazionali, purche' coerenti con quelli che sarebbero derivati dall'applicazione delle disposizioni introdotte dal predetto comma 58".
 
 ## Art. 113. — (Partecipazioni acquisite per il recupero di crediti bancari)
 
