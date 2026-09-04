@@ -84,6 +84,8 @@ jobs:
                 pushed=1
                 break
               fi
+              echo "push attempt $attempt failed; pulling with rebase before retry..."
+              git pull --rebase origin main || true
               sleep 10
             done
             if [ "$pushed" = "0" ]; then
