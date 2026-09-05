@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2023-12-27;209
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2025-12-20
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-05
+fetched_at: 2026-09-05
 ---
 
 DECRETO LEGISLATIVO
@@ -343,15 +343,13 @@ Se nel corso di un esercizio un'impresa cambia la propria localizzazione, essa s
 
 ## - Capo II Imposta minima integrativa, imposta minima suppletiva e imposta  minima nazionale
 
-## Art. 13. — Applicazione dell'imposta minima 
- integrativa alla controllante capogruppo
+## Art. 13. — Applicazione dell'imposta minima integrativa alla controllante capogruppo
 
 La controllante capogruppo localizzata nel territorio dello Stato italiano che ha detenuto, in qualsiasi momento dell'esercizio, direttamente o indirettamente partecipazioni in imprese a bassa imposizione localizzate in un altro Paese o che sono entita' apolidi, per quell'esercizio deve versare l'imposta minima integrativa in misura pari all'importo di imposizione integrativa ad essa attribuita, relativa a tali imprese a bassa imposizione.
 
 La controllante capogruppo di un gruppo multinazionale o nazionale localizzata nel territorio dello Stato italiano che, in un dato esercizio, e' un'impresa a bassa imposizione deve versare l'imposta minima integrativa ad essa riferibile e l'importo dell'imposizione integrativa ad essa attribuita relativa alle imprese a bassa imposizione localizzate nel territorio dello Stato italiano detenute in qualsiasi momento di tale esercizio.
 
-## Art. 14. — Applicazione dell'imposta minima 
- integrativa alle partecipanti intermedie
+## Art. 14. — Applicazione dell'imposta minima integrativa alle partecipanti intermedie
 
 Una partecipante intermedia localizzata nel territorio dello Stato italiano e detenuta da una controllante capogruppo localizzata in un Paese terzo, che ha detenuto, in qualsiasi momento dell'esercizio, direttamente o indirettamente partecipazioni in imprese a bassa imposizione localizzate in un altro Paese o che sono entita' apolidi, deve versare per quell'esercizio l'imposta minima integrativa in misura pari all'importo di imposizione integrativa ad essa attribuita relativa a tali imprese a bassa imposizione.
 
@@ -454,32 +452,32 @@ Se una controllante localizzata nel territorio dello Stato italiano detiene indi
 1.
                         
                             
-                                
-                                    ((Se in un esercizio l'aliquota di imposizione effettiva, relativa alle imprese e alle entita' a controllo congiunto localizzate nel territorio dello Stato italiano e alle entita' trasparenti apolidi costituite in base alla legge dello Stato italiano appartenenti a un gruppo multinazionale o nazionale, e' inferiore alla aliquota minima di imposta, e' dovuta una imposta minima nazionale pari all'imposizione integrativa relativa a tutte le suddette imprese ed entita'.)) Ai fini dell'imposta minima nazionale, da calcolare indipendentemente dalla quota di partecipazione detenuta nelle imprese localizzate nel territorio dello Stato italiano da parte di qualsiasi controllante del gruppo multinazionale o nazionale: ((13))
-                                
+                                Se in un esercizio l'aliquota di imposizione effettiva, relativa alle imprese e alle entita' a controllo congiunto localizzate nel territorio dello Stato italiano e alle entita' trasparenti apolidi costituite in base alla legge dello Stato italiano appartenenti a un gruppo multinazionale o nazionale, e' inferiore alla aliquota minima di imposta, e' dovuta una imposta minima nazionale pari all'imposizione integrativa relativa a tutte le suddette imprese ed entita'. Ai fini dell'imposta minima nazionale, ((da calcolare indipendentemente dalla quota di partecipazione detenuta nelle imprese e nelle entita' di cui al primo periodo)) da parte di qualsiasi controllante del gruppo multinazionale o nazionale: (13) 
+ 
                             
                             
                                 a)
                                 
-                                    si applicano le diposizioni di cui al presente titolo, incluse quelle dell'articolo 36 e dell'articolo 39 e le definizioni contenute nell'allegato A, nel rispetto di quanto indicato nei commi che seguono e avuto riguardo ai soli valori relativi alle imprese ed entita' a controllo congiunto localizzate nel territorio dello Stato italiano; 
-
+                                    
+                                        ((si applicano le diposizioni di cui al presente titolo, incluse quelle degli articoli 36, 39 e 39-bis), e le definizioni contenute nell'allegato A, nel rispetto di quanto indicato nei commi da 2 a 9 e avuto riguardo ai soli valori relativi alle imprese e alle entita' di cui al primo periodo dell'alinea del presente comma;))
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    non si tiene conto, in relazione ai commi 1, 3, 4, 5 e 6 dell'articolo 31, delle imposte rilevanti dovute in altri Paesi da un'impresa proprietaria e da una casa madre ivi localizzate relativamente ad imprese o entita' a controllo congiunto localizzate nel territorio dello Stato italiano; 
+                                    non si tiene conto, in relazione ai commi 1, 3, 4, 5 e 6 dell'articolo 31, delle imposte rilevanti dovute in altri Paesi da un'impresa proprietaria e da una casa madre ivi localizzate ((relativamente alle imprese e alle entita' di cui al primo periodo dell'alinea del presente comma;)); 
 
                                 
                             
                             
                                 c)
                                 
-                                    l'imposizione integrativa relativa a tutte le imprese ed entita' localizzate nel territorio dello Stato italiano in un esercizio e' pari al prodotto tra il profitto eccedente del Paese e l'aliquota di imposizione integrativa, maggiorato dell'imposizione integrativa addizionale relativa al Paese, determinata ai sensi dell'articolo 36.
+                                    l'imposizione integrativa ((relativa a tutte le imprese e a tutte le entita' di cui al primo periodo dell'alinea del presente comma)) in un esercizio e' pari al prodotto tra il profitto eccedente del Paese e l'aliquota di imposizione integrativa, maggiorato dell'imposizione integrativa addizionale relativa al Paese, determinata ai sensi dell'articolo 36.
 
-Il profitto eccedente di tutte le imprese e di tutte le entita' a controllo congiunto localizzate nel territorio dello Stato italiano e l'importo dell'imposta minima nazionale sono calcolati sulla base dei bilanci o rendiconti redatti in conformita' ai principi contabili da queste adottati in ottemperanza alla normativa fiscale o societaria italiana oppure sulla base dei bilanci o rendiconti soggetti a revisione contabile esterna qualora questi siano redatti in conformita' a tali principi contabili sebbene la normativa fiscale o societaria italiana non le obblighi ad adottarli.
+((Il profitto eccedente di tutte le imprese e di tutte le entita' di cui al comma 1)) e l'importo dell'imposta minima nazionale sono calcolati sulla base dei bilanci o rendiconti redatti in conformita' ai principi contabili da queste adottati in ottemperanza alla normativa fiscale o societaria italiana oppure sulla base dei bilanci o rendiconti soggetti a revisione contabile esterna qualora questi siano redatti in conformita' a tali principi contabili sebbene la normativa fiscale o societaria italiana non le obblighi ad adottarli.
 
-Se una o piu' imprese o entita' a controllo congiunto localizzate nel territorio dello Stato italiano non soddisfano le condizioni di cui al comma 2 o redigono il bilancio o rendiconto avendo a riferimento un esercizio differente da quello del bilancio consolidato del gruppo, il profitto eccedente e l'imposta minima nazionale sono calcolati sulla base dei principi contabili adottati nel bilancio consolidato predisposto dalla controllante capogruppo in conformita' all'articolo 22, comma 1, secondo periodo o dei principi contabili adottati in conformita' all'articolo 22, comma 2.
+((Se una o piu' imprese o entita' di cui al comma 1 non soddisfano le condizioni previste al comma 2)) o redigono il bilancio o rendiconto avendo a riferimento un esercizio differente da quello del bilancio consolidato del gruppo, il profitto eccedente e l'imposta minima nazionale sono calcolati sulla base dei principi contabili adottati nel bilancio consolidato predisposto dalla controllante capogruppo in conformita' all'articolo 22, comma 1, secondo periodo o dei principi contabili adottati in conformita' all'articolo 22, comma 2.
 
 Nei casi di cui al comma 2, se tutte le imprese o le entita' a controllo congiunto localizzate nel territorio dello Stato italiano adottano l'euro come valuta funzionale, le disposizioni del presente articolo sono applicate utilizzando importi denominati in euro.
 Viceversa, se non tutte le imprese o le entita' a controllo congiunto localizzate nel territorio dello Stato italiano adottano l'euro come valuta funzionale, l'impresa dichiarante puo' esercitare un'opzione quinquennale per scegliere di effettuare i calcoli dell'imposta minima nazionale in relazione a tutte le imprese o entita' a controllo congiunto localizzate nel territorio dello Stato italiano utilizzando la valuta di presentazione del bilancio consolidato oppure l'euro. Le suddette imprese o entita' a controllo congiunto che utilizzano una diversa valuta funzionale rispetto a quella prescelta operano la conversione sulla base delle regole di conversione valutaria previste nel principio contabile adottato ai fini della predisposizione del bilancio consolidato.
@@ -488,9 +486,11 @@ Nei casi di cui al comma 3, le disposizioni del presente articolo sono applicate
 
 Ai fini dell'imposta minima nazionale, non si applicano le esclusioni previste nell'articolo 56 per i gruppi multinazionali o nazionali di imprese.
 
-Tutte le imprese del gruppo, diverse dalle entita' di investimento, e le entita' a controllo congiunto localizzate nel territorio dello Stato sono tra loro solidalmente e congiuntamente responsabili per il pagamento della imposta minima nazionale di cui al comma 1. Il gruppo multinazionale o nazionale individua l'impresa localizzata in Italia quale responsabile dell'imposta minima nazionale di cui al comma 1 e stabilisce la ripartizione del relativo onere tra le imprese localizzate nel territorio dello Stato italiano.
+((Tutte le imprese del gruppo, diverse dalle entita' di investimento, e le entita' a controllo congiunto localizzate nel territorio dello Stato italiano e le entita' trasparenti apolidi costituite in base alla legge dello Stato italiano sono tra loro solidalmente e congiuntamente responsabili per il pagamento della imposta minima nazionale di cui al comma 1. Il gruppo multinazionale o nazionale individua l'impresa o l'entita', tra quelle indicate nel primo periodo, quale responsabile dell'imposta minima nazionale e stabilisce la ripartizione del relativo onere tra le suddette imprese ed entita'.))
 
 Non assumono rilevanza fiscale le somme percepite e versate a fronte del riaddebito dell'imposta minima nazionale di cui al comma 1 effettuato tra le imprese e entita' a controllo congiunto.
+
+((Le disposizioni del presente articolo riguardanti le entita' a controllo congiunto si applicano anche alle entita' sussidiarie a controllo congiunto localizzate nel territorio dello Stato italiano)).
 
 Le disposizioni attuative del presente articolo sono adottate con decreto del Ministro dell'economia e delle finanze, entro novanta giorni dalla data di entrata in vigore del presente decreto.
 
@@ -507,8 +507,7 @@ Il gruppo multinazionale individua l'impresa localizzata nel territorio dello St
 
 Non assumono rilevanza fiscale le somme percepite o versate dalle imprese a fronte del riaddebito dell'imposta minima suppletiva di cui al comma 1.
 
-## Art. 20. — Applicazione dell'imposta minima suppletiva 
- nel Paese della controllante capogruppo
+## Art. 20. — Applicazione dell'imposta minima suppletiva nel Paese della controllante capogruppo
 
 Nel caso in cui la controllante capogruppo e' localizzata in un Paese terzo a bassa imposizione, tutte le imprese del gruppo localizzate nel territorio dello Stato italiano, diverse dalle entita' di investimento, sono tra loro solidalmente e congiuntamente responsabili per il pagamento, a titolo di imposta minima suppletiva, dell'importo pari all'imposizione integrativa attribuita, per l'esercizio, allo Stato italiano ai sensi dell'articolo 21.
 
@@ -518,8 +517,7 @@ Il gruppo multinazionale individua l'impresa localizzata nel territorio dello St
 
 Non assumono rilevanza fiscale le somme percepite o versate dalle imprese a fronte del riaddebito dell'imposta minima suppletiva di cui al comma 1.
 
-## Art. 21. — Calcolo e imputazione dell'imposta 
- minima suppletiva
+## Art. 21. — Calcolo e imputazione dell'imposta minima suppletiva
 
 L'imposta minima suppletiva attribuita allo Stato italiano si determina moltiplicando l'importo complessivo dell'imposta minima suppletiva, calcolata ai sensi del comma 2, per la percentuale di sua pertinenza, determinata ai sensi del comma 5.
 
@@ -598,6 +596,8 @@ In deroga a quanto previsto al comma 5, la percentuale dell'imposta minima suppl
 Resta ferma l'applicazione delle disposizioni di cui al comma 5 se, conformemente alle disposizioni di cui al comma 7, in un esercizio, la percentuale di imposta suppletiva relativa a un gruppo multinazionale imputabile a tutti i Paesi in cui sono localizzate le sue imprese e' pari a zero.
 
 Su opzione dell'impresa dichiarante, per gli esercizi di durata non superiore a dodici mesi che iniziano entro il 31 dicembre 2025 e terminano prima del 31 dicembre 2026, l'imposta minima suppletiva dovuta in relazione al Paese di localizzazione della controllante capogruppo e' pari a zero se tale Paese applica l'imposta sul reddito delle societa' con un'aliquota nominale pari o superiore al 20 per cento.
+
+((Per i gruppi con esercizi di durata non superiore a 53 settimane, l'opzione del comma 9 puo' essere esercitata in relazione agli esercizi di oltre dodici mesi che iniziano entro il 31 dicembre 2025 e terminano entro il 3 gennaio 2027.))
 
 ## - Capo III Determinazione del reddito o perdita rilevante
 
@@ -856,8 +856,7 @@ Ai fini del calcolo del reddito o perdita rilevante, all'utile o perdita contabi
  Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 9, comma 1, lettera e)) che "all'articolo 23, comma 6, decimo periodo, le parole: «disciplina ne terzo periodo» sono sostituite dalle seguenti: «disciplinato nel terzo periodo»". 
  Ha inoltre disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
-## Art. 24. — Utile derivante dal trasporto 
- marittimo internazionale
+## Art. 24. — Utile derivante dal trasporto marittimo internazionale
 
 L'utile derivante dall'attivita' di trasporto marittimo internazionale e l'utile derivante dalle attivita' accessorie al trasporto marittimo internazionale conseguiti da un'impresa non concorrono a formare il suo reddito o perdita rilevante a condizione che la sede di direzione effettiva dell'impresa di trasporto marittimo che consegue tali utili e' ubicata nel Paese in cui la stessa impresa e' localizzata. Ai fini del primo periodo, per direzione effettiva si intende il luogo ove sono prese le decisioni strategiche o commerciali riguardanti le navi interessate al traffico internazionale.
 
@@ -869,8 +868,7 @@ I costi sostenuti da un'impresa direttamente derivanti dalle sue attivita' di tr
 
 I costi sostenuti da un'impresa che, ai sensi del comma 4, sono direttamente o indirettamente inerenti all'utile derivante dal trasporto marittimo internazionale e da attivita' accessorie al trasporto marittimo internazionale non concorrono a formare il reddito o perdita rilevante.
 
-## Art. 25. — Reddito o perdita rilevante 
- della stabile organizzazione
+## Art. 25. — Reddito o perdita rilevante della stabile organizzazione
 
 L'utile o perdita contabile netta di esercizio di un'impresa che risponde alla definizione di stabile organizzazione di cui all'allegato A, numero 52) lettere a), b) e c), e' il risultato emergente dal suo rendiconto sezionale predisposto secondo principi contabili conformi o autorizzati a condizione, in tale ultimo caso, che siano rimosse eventuali distorsioni competitive rilevanti. Se una stabile organizzazione non predispone un tale rendiconto, l'importo del suo utile o perdita contabile di esercizio e' pari a quello che sarebbe stato registrato come tale qualora essa ne fosse stata obbligata e avesse adottato i principi contabili utilizzati dalla controllante capogruppo per il bilancio consolidato.
 
@@ -884,8 +882,7 @@ La perdita rilevante di una stabile organizzazione e' un onere che concorre escl
 
 ## Art. 26.
 
-Imputazione del reddito o della perdita 
- rilevante di una entita' trasparente
+Imputazione del reddito o della perdita rilevante di una entita' trasparente
 
 1.
                         
@@ -1126,8 +1123,7 @@ Ai fini del comma 7, nel caso in cui un gruppo multinazionale o nazionale ceda u
                             
  Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
-## Art. 29. — Modifiche ai valori delle imposte anticipate 
- e delle imposte differite
+## Art. 29. — Modifiche ai valori delle imposte anticipate e delle imposte differite
 
 1.
                         
@@ -1254,8 +1250,7 @@ Se una entita' trasparente che e' la controllante capogruppo di un gruppo multin
 
 ## Art. 31.
 
-Imputazione delle imposte rilevanti 
- di alcune tipologie di entita'
+Imputazione delle imposte rilevanti di alcune tipologie di entita'
 
 L'importo delle imposte rilevanti contabilizzate nel bilancio di un'impresa relative al reddito o perdita rilevante di una stabile organizzazione sono imputate a quest'ultima.
 
@@ -1288,8 +1283,7 @@ Se un importo superiore a un milione di euro di imposte correnti che sono state 
 
 ## - Capo V Calcolo dell'aliquota d'imposizione effettiva e dell'imposizione  integrativa
 
-## Art. 33. — Determinazione dell'aliquota 
- di imposizione effettiva
+## Art. 33. — Determinazione dell'aliquota di imposizione effettiva
 
 L'aliquota di imposizione effettiva di un gruppo multinazionale o nazionale di imprese deve essere calcolata separatamente per ogni esercizio e per ogni Paese di localizzazione, a condizione che nel Paese vi sia un reddito netto rilevante. L'aliquota di imposizione effettiva e' pari al rapporto tra le imposte rilevanti rettificate del Paese e il reddito netto rilevante del Paese e, salvo quanto previsto all'articolo 34, comma 2, detto rapporto puo' essere negativo o positivo.
 
@@ -1596,6 +1590,24 @@ Le disposizioni attuative dei regimi semplificati di cui al comma 1 sono adottat
                             
  Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
+## Art. 39-bis. — (( (Regime coesistente qualificato, regime qualificato della controllante capogruppo e incentivi fiscali qualificati).))
+
+
+
+((A seguito di opzione dell'impresa dichiarante, l'imposta minima integrativa e l'imposta minima suppletiva sono pari a zero con riguardo alle imprese ed entita' la cui controllante capogruppo e' localizzata in un Paese che adotta un regime coesistente qualificato.))
+
+((A seguito di opzione dell'impresa dichiarante, l'imposta minima suppletiva e' pari a zero con riguardo alle imprese ed entita' localizzate in un Paese che adotta un regime qualificato della controllante capogruppo.))
+
+((A seguito di opzione dell'impresa dichiarante, l'imposizione integrativa corrispondente agli incentivi fiscali qualificati e' pari a zero. Per imposizione integrativa corrispondente agli incentivi fiscali qualificati si intende la differenza, in valore assoluto, tra: 
+ a) l'imposizione integrativa calcolata in base al comma 5; 
+b) l'imposizione integrativa che sarebbe stata calcolata senza l'esercizio dell'opzione di cui al primo periodo.))
+
+((In caso di esercizio dell'opzione di cui al comma 4, le imposte rilevanti rettificate delle imprese ed entita' localizzate in un Paese vengono aumentate del minore tra l'importo dell'incentivo fiscale qualificato utilizzato e il limite massimo basato sulla sostanza.))
+
+((A seguito di opzione dell'impresa dichiarante, i crediti d'imposta rimborsabili qualificati e i crediti d'imposta negoziabili, che sono parametrati alle spese effettivamente sostenute oppure legati al livello della produzione, sono trattati come incentivi fiscali qualificati. In tal caso, ai fini del calcolo dell'imposizione integrativa si applicano le disposizioni dei commi 4 e 5 e i suddetti crediti non concorrono alla formazione del reddito o perdita rilevante e diminuiscono le imposte rilevanti rettificate.))
+
+((Con decreto del Ministro dell'economia e delle finanze sono stabiliti modalita', termini, elementi e condizioni per fruire dei regimi del presente articolo, in conformita' alle regole OCSE e alla direttiva)).
+
 ## - Capo VI Operazioni di riorganizzazione e societa' holding
 
 ## Art. 40. — Calcolo della soglia rilevante di ricavi in caso di fusioni e scissioni di gruppi multinazionali e nazionali
@@ -1840,8 +1852,7 @@ Le controllanti capogruppo di un gruppo a controllante multipla devono presentar
 
 ## Art. 45.
 
-Entita' trasparente con qualifica 
- di controllante capogruppo
+Entita' trasparente con qualifica di controllante capogruppo
 
 1.
                         
@@ -1901,8 +1912,7 @@ Le imposte rilevanti di una entita' trasparente che e' la controllante capogrupp
                                 
                                     alla stabile organizzazione attraverso la quale una entita' fiscalmente trasparente esercita in tutto o in parte la propria attivita' commerciale a condizione che la partecipazione in detta entita' sia direttamente detenuta dalla controllante capogruppo ovvero indirettamente detenuta attraverso una struttura fiscalmente trasparente.
 
-## Art. 46. — Controllante capogruppo soggetta 
- al regime del dividendo deducibile
+## Art. 46. — Controllante capogruppo soggetta al regime del dividendo deducibile
 
 1.
                         
@@ -2060,8 +2070,7 @@ Un'impresa che detiene indirettamente una partecipazione in un'entita' d'investi
 
 L'opzione di cui al comma 1 e' effettuata ai sensi dell'articolo 52, comma 1. Se l'opzione e' revocata, qualsiasi utile o perdita derivante dalla dismissione di un'attivita' o di una passivita' detenuta dall'entita' d'investimento o da un'entita' assicurativa di investimento si determina sulla base del fair value dell'attivita' o della passivita' individuato il primo giorno dell'esercizio cui la revoca si riferisce.
 
-## Art. 50. — Opzione per il regime 
- della distribuzione imponibile
+## Art. 50. — Opzione per il regime della distribuzione imponibile
 
 1.
                         
@@ -2355,8 +2364,7 @@ In caso di trasferimenti di immobilizzazioni posti in essere tra imprese in data
 
 ## Art. 55.
 
-Disciplina transitoria in tema di riduzione 
- da attivita' economica sostanziale
+Disciplina transitoria in tema di riduzione da attivita' economica sostanziale
 
 Ai fini dell'applicazione delle disposizioni dell'articolo 35, commi 3 e 4, l'aliquota del 5 per cento e' sostituita da quella indicata nell'allegato B, riportata in corrispondenza di ciascuno degli esercizi che iniziano nell'anno solare ivi indicato.
 
@@ -2409,8 +2417,7 @@ L'entita' localizzata nel territorio dello Stato, designata a presentare la comu
                             
  Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
-## Art. 57. — Differimento dell'imposta minima integrativa 
- e dell'imposta minima suppletiva
+## Art. 57. — Differimento dell'imposta minima integrativa e dell'imposta minima suppletiva
 
 Se l'entita' controllante capogruppo di un gruppo multinazionale di imprese e' localizzata in uno Stato membro che ha scelto di differire l'applicazione dell'imposta minima integrativa equivalente e dell'imposta minima suppletiva equivalente, secondo quanto previsto nell'articolo 50 della direttiva, le imprese di tale gruppo multinazionale localizzate nel territorio dello Stato italiano sono soggette all'importo dell'imposta minima suppletiva assegnato all'Italia, ai sensi dell'articolo 21, per gli esercizi che decorrono a partire dal 31 dicembre 2023.
 
@@ -2418,8 +2425,7 @@ Se l'entita' controllante capogruppo di cui al comma 1 nomina un'entita' designa
 
 Ai fini dell'articolo 21, comma 5, la percentuale dell'imposta minima suppletiva equivalente imputabile allo Stato membro che ha effettuato la scelta di cui al comma 1 e' considerata pari a zero per l'esercizio.
 
-## Art. 58. — Esenzione transitoria 
- per gli obblighi di comunicazione
+## Art. 58. — Esenzione transitoria per gli obblighi di comunicazione
 
 In deroga a quanto previsto nell'articolo 51, comma 7, la comunicazione rilevante e le altre comunicazioni di cui all'articolo 51 sono presentate entro il diciottesimo mese successivo al termine finale dell'esercizio transitorio di cui all'articolo 54.
 
