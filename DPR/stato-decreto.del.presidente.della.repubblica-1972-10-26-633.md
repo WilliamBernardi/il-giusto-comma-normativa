@@ -8,9 +8,9 @@ codice_redazionale: 072U0633
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2026-05-23
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-08
+fetched_at: 2026-09-08
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1261,7 +1261,7 @@ La base imponibile delle cessioni di beni e delle prestazioni di servizi e` cost
                                 
                                     
                                         ((per le cessioni e le prestazioni di servizi di cui all'articolo 11, dal valore monetario dei beni e dei servizi che formano oggetto di ciascuna di esse, come determinato dal contratto.
-In ogni caso, tale valore non puo' essere inferiore all'ammontare complessivo dei costi riferibili alle cessioni effettuate e alle prestazioni rese da ciascuna delle parti, determinato nel momento in cui si effettuano dette operazioni)). (256) (257) ((260))
+In ogni caso, tale valore non puo' essere inferiore all'ammontare complessivo dei costi riferibili alle cessioni effettuate e alle prestazioni rese da ciascuna delle parti, determinato nel momento in cui si effettuano dette operazioni)). (256) ((258))
                                     
                                 
                             
@@ -1333,12 +1333,9 @@ La base imponibile della operazione soggetta ad imposta ai sensi del comma 3 del
                             
  La L. 30 dicembre 2025, n. 199 ha disposto (con l'art. 1, comma 139) che "Le disposizioni di cui al comma 138 si applicano alle operazioni effettuate successivamente alla data di entrata in vigore della presente legge. Sono fatti salvi i comportamenti pregressi adottati anteriormente alla predetta data di entrata in vigore". 
                             ---------------
-                            AGGIORNAMENTO (257)
+                            AGGIORNAMENTO (258)
                             
  La L. 30 dicembre 2025, n. 199, come modificata dal D.L. 27 marzo 2026, n. 38, ha disposto (con l'art. 1, comma 139) che "Le disposizioni di cui al comma 138 si applicano alle operazioni effettuate in esecuzione di contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026". 
-                            ---------------
-                            AGGIORNAMENTO (260)
-                            
  Il D.L. 27 marzo 2026, n. 38, convertito con modificazioni dalla L. 22 maggio 2026, n. 88, ha disposto (con l'art. 1, comma 2) che "La disposizione di cui al comma 1 si applica alle operazioni effettuate in esecuzione di contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026. Sono fatti salvi i comportamenti adottati in conformita' all'articolo 1, comma 138, della legge 30 dicembre 2025, n. 199, dal 1° gennaio 2026 alla data di entrata in vigore della legge di conversione del presente decreto. Per le operazioni effettuate in esecuzione di contratti stipulati prima del 1° gennaio 2026 sono fatti salvi i comportamenti adottati in conformita' alla disciplina vigente alla data del 31 dicembre 2025 fino alla data di entrata in vigore della legge di conversione del presente decreto.
 Non si fa luogo, in ogni caso, a rimborsi d'imposta o a variazioni rispetto all'imposta precedentemente liquidata".
 
@@ -1573,7 +1570,7 @@ che le presenti modifiche hanno effetto dal 1 gennaio 1975.
 
 ## Art. 19. — (Detrazione)
 
-Per la determinazione dell'imposta dovuta a norma del primo comma dell'articolo 17 o dell'eccedenza di cui al secondo comma dell'articolo 30, e' detraibile dall'ammontare dell'imposta relativa alle operazioni effettuate, quello dell'imposta assolta o dovuta dal soggetto passivo o a lui addebitata a titolo di rivalsa in relazione ai beni ed ai servizi importati o acquistati nell'esercizio dell'impresa, arte o professione. Il diritto alla detrazione dell'imposta relativa ai beni e servizi acquistati o importati sorge nel momento in cui l'imposta diviene esigibile ed e' esercitato al piu' tardi con la dichiarazione relativa all' anno in cui il diritto alla detrazione e' sorto ed alle condizioni esistenti al momento della nascita del diritto medesimo. (186a)
+Per la determinazione dell'imposta dovuta a norma del primo comma dell'articolo 17 o dell'eccedenza di cui al secondo comma dell'articolo 30, e' detraibile dall'ammontare dell'imposta relativa alle operazioni effettuate, quello dell'imposta assolta o dovuta dal soggetto passivo o a lui addebitata a titolo di rivalsa in relazione ai beni ed ai servizi importati o acquistati nell'esercizio dell'impresa, arte o professione. Il diritto alla detrazione dell'imposta relativa ai beni e servizi acquistati o importati sorge nel momento in cui l'imposta diviene esigibile ed e' esercitato al piu' tardi con la dichiarazione relativa ((al secondo anno successivo a quello)) in cui il diritto alla detrazione e' sorto ed alle condizioni esistenti al momento della nascita del diritto medesimo. (186a)
 
 Non e' detraibile l'imposta relativa all'acquisto o all'mportazione di beni e servizi afferenti operazioni esenti o comunque non soggette all'imposta, salvo il disposto dell'articolo 19-bis2. In nessun caso e' detraibile l'imposta relativa all'acquisto o all'importazione di beni o servizi utilizzati per l'effettuazione di manifestazioni a premio.(106a) (181a)
 
@@ -1600,8 +1597,8 @@ Non e' detraibile l'imposta relativa all'acquisto o all'mportazione di beni e se
                             
                                 b)
                                 
-                                    operazioni ((, diverse da quelle in regime transfrontaliero di franchigia IVA di cui al titolo V-ter,)) effettuate fuori dal territorio dello Stato le quali, se effettuate nel territorio dello Stato, darebbero diritto alla detrazione dell'imposta; ((237))
-                                    
+                                    operazioni, diverse da quelle in regime transfrontaliero di franchigia IVA di cui al titolo V-ter, effettuate fuori dal territorio dello Stato le quali, se effettuate nel territorio dello Stato, darebbero diritto alla detrazione dell'imposta; (237) 
+
                                 
                             
                             
@@ -1637,7 +1634,7 @@ Non e' detraibile l'imposta relativa all'acquisto o all'mportazione di beni e se
                                 
                                     le operazioni inerenti e connesse all'organizzazione ed all' esercizio delle attivita' di cui all'articolo 10, numeri 6) e 7), e le prestazioni di mandato, mediazione e intermediazione relative a dette operazioni.(137a)
 
-Per i beni ed i servizi in parte utilizzati per operazioni non soggette all'imposta la detrazione non e' ammessa per la quota imputabile a tali utilizzazioni e l'ammontare indetraibile e' determinato secondo criteri oggettivi, coerenti con la natura dei beni e servizi acquistati. Gli stessi criteri si applicano per determinare la quota di imposta indetraibile relativa ai beni e servizi in parte utilizzati per fini privati o comunque estranei all'esercizio dell'impresa, arte e professione ((, nonche' per determinare la quota di imposta indetraibile per i beni e i servizi in parte utilizzati per operazioni in regime transfrontaliero di franchigia di cui al titolo V-ter)). ((237))
+Per i beni ed i servizi in parte utilizzati per operazioni non soggette all'imposta la detrazione non e' ammessa per la quota imputabile a tali utilizzazioni e l'ammontare indetraibile e' determinato secondo criteri oggettivi, coerenti con la natura dei beni e servizi acquistati. Gli stessi criteri si applicano per determinare la quota di imposta indetraibile relativa ai beni e servizi in parte utilizzati per fini privati o comunque estranei all'esercizio dell'impresa, arte e professione, nonche' per determinare la quota di imposta indetraibile per i beni e i servizi in parte utilizzati per operazioni in regime transfrontaliero di franchigia di cui al titolo V-ter. (237)
 
 Ai contribuenti che esercitano sia attivita' che danno luogo ad operazioni che conferiscono il diritto alla detrazione sia attivita' che danno luogo ad operazioni esenti ai sensi dell'articolo 10, il diritto alla detrazione dell'imposta spetta in misura proporzionale alla prima categoria di operazioni e il relativo ammontare e' determinato applicando la percentuale di detrazione di cui all'articolo 19-bis. Nel corso dell'anno la detrazione e' provvisoriamente operata con l'applicazione della percentuale di detrazione dell'anno precedente, salvo conguaglio alla fine dell'anno. I soggetti che iniziano l'attivita' operano la detrazione in base ad una percentuale di detrazione determinata presuntivamente, salvo conguaglio alla fine dell'anno. La disposizione di cui al presente comma non si applica alle operazioni di cui all'articolo 10, numeri 6) e 7), e alle prestazioni di mandato, mediazione e intermediazione relative a dette operazioni.(91)(137a)
 
@@ -2337,8 +2334,9 @@ I commercianti al minuto e gli altri contribuenti di cui all'art. 22, in luogo d
 
 ## Art. 25. — Registrazione degli acquisti
 
-COMMA ABROGATO DAL D.P.R. 9 DICEMBRE 1996, N. 695. 
- Dalla registrazione devono risultare la data della fattura o bolletta, ((...)) la ditta, denominazione o ragione sociale del cedente del bene o prestatore del servizio, ovvero il nome e cognome se non si tratta di imprese, societa' o enti, nonche' l'ammontare imponibile e l'ammontare dell'imposta distinti secondo l'aliquota. 
+Il contribuente deve annotare in un apposito registro le fatture e le bollette doganali relative ai beni e ai servizi acquistati o importati nell'esercizio dell'impresa, arte o professione, comprese quelle emesse a norma del secondo comma dell'articolo 17, anteriormente alla liquidazione periodica nella quale e' esercitato il diritto alla detrazione della relativa imposta e comunque entro il termine di presentazione della dichiarazione annuale relativa ((al secondo anno successivo a quello di ricezione della fattura)). (79) (180) 
+ COMMA ABROGATO DAL D.P.R. 9 DICEMBRE 1996, N. 695. 
+ Dalla registrazione devono risultare la data della fattura o bolletta, la ditta, denominazione o ragione sociale del cedente del bene o prestatore del servizio, ovvero il nome e cognome se non si tratta di imprese, societa' o enti, nonche' l'ammontare imponibile e l'ammontare dell'imposta distinti secondo l'aliquota. 
  Per le fatture relative alle operazioni di cui all'articolo 21, commi 6 e 6-bis, devono essere indicati, in luogo dell'ammontare dell'imposta, il titolo di inapplicabilita' di essa e, eventualmente, la relativa norma. (144) 
  COMMA ABROGATO DAL D.P.R. 9 DICEMBRE 1996, N. 695. 
  La disposizione del comma precedente si applica anche per le fatture relative a prestazioni di trasporto e per quelle pervenute tramite spedizionieri o agenzie di viaggi, quale ne sia l'importo. (20)
@@ -3593,44 +3591,71 @@ Il contribuente ha diritto di averne copia.
 ## Art. 53. — Presunzioni di cessione e di acquisto
 
 Si presumono ceduti i beni acquistati, importati o prodotti che 
- non si trovano nei luoghi in cui il contribuente esercita la sua attivita', comprese le sedi secondarie, filiali, succursali, dipendenze, stabilimenti, negozi o depositi dell'impresa, ne' presso suoi rappresentanti, salvo che sia dimostrato che i beni stessi: 
+ non si trovano nei luoghi in cui il contribuente esercita la sua  attivita', comprese le sedi secondarie, filiali, succursali, 
+ dipendenze, stabilimenti, negozi o depositi dell'impresa, ne' 
+ presso suoi rappresentanti, salvo che sia dimostrato che i beni stessi: 
  a) sono stati utilizzati per la produzione, perduti o 
  distrutti; 
- b) sono stati consegnati a terzi in lavorazione, deposito o  comodato o in dipendenza di contratti estimatori o di contratti di opera, appalto, trasporto, mandato, commissione o altro titolo non traslativo della proprieta'. 
+ b) sono stati consegnati a terzi in lavorazione, deposito o  comodato o in dipendenza di contratti estimatori o di contratti  di opera, appalto, trasporto, mandato, commissione o altro titolo non traslativo della proprieta'. 
  Con decreto del Ministro delle finanze sono stabilite le 
  modalita' con le quali devono essere effettuate: 
  a) la donazione dei beni ad enti di beneficienza; 
  b) la distruzione dei beni. 
  Le sedi secondarie, filiali o succursali devono risultare dalla 
- iscrizione alla camera di commercio o da altro pubblico registro: le dipendenze, gli stabilimenti, i negozi e i depositi devono essere stati indicati a norma dell'art. 35 o del primo comma dell'art. 81. La rappresentanza deve risultare da atto pubblico, da scrittura privata registrata o da lettera annotata in apposito registro, in data anteriore a quella in cui e' avvenuto il passaggio dei beni, presso l'ufficio competente in relazione al domicilio fiscale del rappresentante o del rappresentato. La consegna dei beni a terzi, di cui alla lettera b), deve risultare dal libro giornale o da altro libro tenuto a norma del codice civile o da apposito registro tenuto in conformita' all'art. 39 del presente decreto, ovvero da altro documento conservato a norma dello stesso articolo ((o da atto registrato presso l'ufficio del registro.)) 
- I beni che si trovano nel luogo o in uno dei luoghi in cui il  contribuente esercita la sua attivita' si presumono acquistati se il contribuente non dimostra, nei casi e nei modi indicati nel primo e nel secondo comma, di averli ricevuti in base ad un rapporto di rappresentanza o di lavorazione o ad uno degli altri titoli di cui al primo comma. (20)
+ iscrizione alla camera di commercio o da altro pubblico registro: 
+ le dipendenze, gli stabilimenti, i negozi e i depositi devono 
+ essere stati indicati a norma dell'art. 35 o del primo comma 
+ dell'art. 81. La rappresentanza deve risultare da atto pubblico,  da scrittura privata registrata o da lettera annotata in apposito 
+ registro, in data anteriore a quella in cui e' avvenuto il 
+ passaggio dei beni, presso l'ufficio competente in relazione al  domicilio fiscale del rappresentante o del rappresentato. La 
+ consegna dei beni a terzi, di cui alla lettera b), deve risultare 
+ dal libro giornale o da altro libro tenuto a norma del codice 
+ civile o da apposito registro tenuto in conformita' all'art. 39  del presente decreto, ovvero da altro documento conservato a 
+ norma dello stesso articolo ((o da atto registrato presso l'ufficio del registro.)) 
+ I beni che si trovano nel luogo o in uno dei luoghi in cui il  contribuente esercita la sua attivita' si presumono acquistati se 
+ il contribuente non dimostra, nei casi e nei modi indicati nel 
+ primo e nel secondo comma, di averli ricevuti in base ad un 
+ rapporto di rappresentanza o di lavorazione o ad uno degli altri titoli di cui al primo comma. (20)
 
 ---------------
                             AGGIORNAMENTO (20)
                             
  Il D.P.R. 29 gennaio 1979, n. 24 ha disposto (con l'art. 3) che 
- "Le integrazioni e correzioni apportate agli articoli 4, 6, 25, ultimo comma, 37, 53 e 58, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, nonche' al n. 6) della parte terza della tabella A e al n. 6) della tabella B allegate al decreto stesso, si applicano dal 1 gennaio 1973. Resta tuttavia ferma, per i soggetti indicati nel quarto comma dell'art. 4, la non imponibilita': 1) delle operazioni effettuate senza distinta organizzazione fino al 31 dicembre 1974; 2) delle cessioni e prestazioni fatte ai propri soci, associati o partecipanti, verso pagamento di corrispettivi specifici o di contributi supplementari, fino al 31 marzo 1979; 3) delle operazioni relative alle attivita' indicate alle lettere d) e g) del quinto comma dell'art. 4 effettuate fino al 31 marzo 1979. I mutui per l'acquisto di abitazioni e i prestiti concessi da enti o casse di previdenza ai propri iscritti si intendono compresi nella esenzione gia' prevista dall'art. 10, n. 18), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633".
+ "Le integrazioni e correzioni apportate agli articoli 4, 6, 25,  ultimo comma, 37, 53 e 58, del decreto del Presidente della 
+ Repubblica 26 ottobre 1972, n. 633, nonche' al n. 6) della parte  terza della tabella A e al n. 6) della tabella B allegate al 
+ decreto stesso, si applicano dal 1 gennaio 1973. Resta tuttavia  ferma, per i soggetti indicati nel quarto comma dell'art. 4, la  non imponibilita': 1) delle operazioni effettuate senza distinta  organizzazione fino al 31 dicembre 1974; 2) delle cessioni e 
+ prestazioni fatte ai propri soci, associati o partecipanti, verso 
+ pagamento di corrispettivi specifici o di contributi 
+ supplementari, fino al 31 marzo 1979; 3) delle operazioni 
+ relative alle attivita' indicate alle lettere d) e g) del quinto  comma dell'art. 4 effettuate fino al 31 marzo 1979. I mutui per  l'acquisto di abitazioni e i prestiti concessi da enti o casse di 
+ previdenza ai propri iscritti si intendono compresi nella 
+ esenzione gia' prevista dall'art. 10, n. 18), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633".
 
 ## Art. 54. — Rettifica delle dichiarazioni
 
-L'ufficio dell'imposta sul valore aggiunto procede alla rettifica della dichiarazione annuale presentata dal contribuente quando ritiene che ne risulti un'imposta inferiore a quella dovuta ovvero una eccedenza detraibile o rimborsabile superiore a quella spettante.
-L'infedelta' della dichiarazione, qualora non emerga o direttamente dal contenuto di essa o dal confronto con gli elementi di calcolo delle liquidazioni di cui agli articoli 27 e 33 e con le precedenti dichiarazioni annuali, deve essere accertata mediante il confronto tra gli elementi indicati nella dichiarazione e quelli annotati nei registri di cui agli articoli 23, 24 e 25 e mediante il controllo della completezza, esattezza e veridicita' delle registrazioni sulla scorta delle fatture ed altri documenti, delle risultanze di altre scritture contabili e degli altri dati e notizie raccolti nei modi previsti negli articoli 51 e 51-bis . Le omissioni e le false o inesatte indicazioni possono essere indirettamente desunte da tali risultanze, dati e notizie a norma dell'art. 53 o anche sulla base di presunzioni semplici, purche' queste siano gravi, precise e concordanti.
- L'ufficio puo` tuttavia procedere alla rettifica indipendentemente dalla previa ispezione della contabilita` del contribuente qualora l'esistenza di operazioni imponibili per ammontare superiore a quello indicato nella dichiarazione, o l'inesattezza delle indicazioni relative alle operazioni che danno diritto alla detrazione, risulti in modo certo e diretto, e non in via presuntiva, da verbali, questionari e fatture di cui ai numeri 2), 3) e 4) del secondo comma dell'articolo 51, dagli elenchi allegati alle dichiarazioni di altri contribuenti o da verbali relativi ad ispezioni eseguite nei confronti di altri contribuenti, nonche´ da altri atti e documenti in suo possesso.
- COMMA ABROGATO DAL D.L. 30 SETTEMBRE 2005, N.203 CONVERTITO CON MODIFICAZIONI DALLA L. 2 DICEMBRE 2005, N. 248.
- Senza pregiudizio dell'ulteriore azione accertatrice nei termini stabiliti dall'articolo 57, i competenti uffici dell'Agenzia delle entrate, qualora ((dalle attivita` istruttorie di cui all'articolo 51, secondo comma, numeri da 1) a 4),)) nonche' dalle segnalazioni effettuati dalla Direzione centrale accertamento, da una Direzione regionale ovvero da un ufficio della medesima Agenzia ovvero di altre Agenzie fiscali, dalla Guardia di finanza o da pubbliche amministrazioni ed enti pubblici oppure dai dati in possesso dell'anagrafe tributaria, risultino elementi che consentono di stabilire l'esistenza di corrispettivi o di imposta in tutto o in parte non dichiarati o di detrazioni in tutto o in parte non spettanti, puo' limitarsi ad accertare, in base agli elementi predetti, l'imposta o la maggiore imposta dovuta o il minor credito spettante , nonche' l'imposta o la maggiore imposta non versata, escluse le ipotesi di cui all'articolo 54-bis, anche avvalendosi delle procedure previste dal decreto legislativo 19 giugno 1997, n. 218.
- Le disposizioni di cui al comma precedente possono trovare applicazione anche con riguardo all'accertamento induttivo del volume di affari, di cui all'articolo 12 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, della legge 27 aprile 1989, n. 154, e successive modificazioni, tenendo conto dell'indicazione dei motivi addotti dal contribuente con le modalita' di cui al comma 1 dello stesso articolo 12. (54)
- Gli avvisi di accertamento parziale possono essere notificati mediante invio di lettera raccomandata con avviso di ricevimento. La notifica si considera avvenuta alla data indicata nell'avviso di ricevimento sottoscritto dal destinatario ovvero da persona di famiglia o addetto alla casa.
+L'ufficio dell'imposta sul valore aggiunto procede alla rettifica della dichiarazione annuale presentata dal contribuente quando ritiene che ne risulti un'imposta inferiore a quella dovuta ovvero una eccedenza detraibile o rimborsabile superiore a quella spettante. 
+L'infedelta' della dichiarazione, qualora non emerga o direttamente dal contenuto di essa o dal confronto con gli elementi di calcolo delle liquidazioni di cui agli articoli 27 e 33 e con le precedenti dichiarazioni annuali, deve essere accertata mediante il confronto tra gli elementi indicati nella dichiarazione e quelli annotati nei registri di cui agli articoli 23, 24 e 25 e mediante il controllo della completezza, esattezza e veridicita' delle registrazioni sulla scorta delle fatture ed altri documenti, delle risultanze di altre scritture contabili e degli altri dati e notizie raccolti nei modi previsti negli articoli 51 e 51-bis . Le omissioni e le false o inesatte indicazioni possono essere indirettamente desunte da tali risultanze, dati e notizie a norma dell'art. 53 o anche sulla base di presunzioni semplici, purche' queste siano gravi, precise e concordanti. 
+ L'ufficio puo` tuttavia procedere alla rettifica indipendentemente dalla previa ispezione della contabilita` del contribuente qualora l'esistenza di operazioni imponibili per ammontare superiore a quello indicato nella dichiarazione, o l'inesattezza delle indicazioni relative alle operazioni che danno diritto alla detrazione, risulti in modo certo e diretto, e non in via presuntiva, da verbali, questionari e fatture di cui ai numeri 2), 3) e 4) del secondo comma dell'articolo 51, dagli elenchi allegati alle dichiarazioni di altri contribuenti o da verbali relativi ad ispezioni eseguite nei confronti di altri contribuenti, nonche´ da altri atti e documenti in suo possesso. 
+ COMMA ABROGATO DAL D.L. 30 SETTEMBRE 2005, N.203 CONVERTITO CON MODIFICAZIONI DALLA L. 2 DICEMBRE 2005, N. 248. 
+ Senza pregiudizio dell'ulteriore azione accertatrice nei termini stabiliti dall'articolo 57, i competenti uffici dell'Agenzia delle entrate, qualora ((dalle attivita` istruttorie di cui all'articolo 51, secondo comma, numeri da 1) a 4),)) nonche' dalle segnalazioni effettuati dalla Direzione centrale accertamento, da una Direzione regionale ovvero da un ufficio della medesima Agenzia ovvero di altre Agenzie fiscali, dalla Guardia di finanza o da pubbliche amministrazioni ed enti pubblici oppure dai dati in possesso dell'anagrafe tributaria, risultino elementi che consentono di stabilire l'esistenza di corrispettivi o di imposta in tutto o in parte non dichiarati o di detrazioni in tutto o in parte non spettanti, puo' limitarsi ad accertare, in base agli elementi predetti, l'imposta o la maggiore imposta dovuta o il minor credito spettante , nonche' l'imposta o la maggiore imposta non versata, escluse le ipotesi di cui all'articolo 54-bis, anche avvalendosi delle procedure previste dal decreto legislativo 19 giugno 1997, n. 218. 
+ Le disposizioni di cui al comma precedente possono trovare applicazione anche con riguardo all'accertamento induttivo del volume di affari, di cui all'articolo 12 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, della legge 27 aprile 1989, n. 154, e successive modificazioni, tenendo conto dell'indicazione dei motivi addotti dal contribuente con le modalita' di cui al comma 1 dello stesso articolo 12. (54) 
+ Gli avvisi di accertamento parziale possono essere notificati mediante invio di lettera raccomandata con avviso di ricevimento. La notifica si considera avvenuta alla data indicata nell'avviso di ricevimento sottoscritto dal destinatario ovvero da persona di famiglia o addetto alla casa. 
  Gli avvisi di accertamento parziale sono annullati dall'ufficio che li ha emessi se, dalla documentazione prodotta dal contribuente, risultano infondati in tutto o in parte. (51)
 
 -----------------
                             AGGIORNAMENTO (20)
-                             Il D.P.R. 29 gennaio 1979, n. 24 ha disposto (con l'art. 3) che le modifiche al presente articolo hanno effetto dal 1 aprile 1979.
-                            -----------------
-                            AGGIORNAMENTO (51)
-                             La L. 30 dicembre 1991, n.413 ha disposto (con l'art. 3 comma 2) che "Le disposizioni di cui al sesto comma dell'articolo 54 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, introdotto dal comma 1 del presente articolo, si applicano a partire dagli accertamenti relativi al periodo di imposta in corso alla data di entrata in vigore della presente legge."
-                            -----------------
-                            AGGIORNAMENTO (54)
-                             Il D.L. 30 agosto 1993, n.331 convertito con modificazioni dalla L. ottobre 1993, n. 427 ha disposto (con l'art. 62-quater comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo d'imposta in corso alla data di entrata in vigore della legge di conversione del presente decreto."
+                            Il D.P.R. 29 gennaio 1979, n. 24 ha disposto (con l'art. 3) che le
+modifiche al presente articolo hanno effetto dal 1 aprile 1979.
+-----------------
+ 
+AGGIORNAMENTO (51) 
+ La L. 30 dicembre 1991, n.413 ha disposto (con l'art. 3 comma 2) che "Le disposizioni di cui al sesto comma dell'articolo 54 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, introdotto dal comma 1 del presente articolo, si applicano a partire dagli accertamenti relativi al periodo di imposta in corso alla data di entrata in vigore della presente legge." 
+ 
+-----------------
+ 
+AGGIORNAMENTO (54) 
+ Il D.L. 30 agosto 1993, n.331 convertito con modificazioni dalla L. ottobre 1993, n. 427 ha disposto (con l'art. 62-quater comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo d'imposta in corso alla data di entrata in vigore della legge 
+di conversione del presente decreto."
 
 ## Art. 54-bis. — (Liquidazione dell'imposta dovuta in base 
  alle dichiarazioni)
@@ -3748,25 +3773,26 @@ Nei casi di cui all'articolo 74-quinquies, comma 5, ((all'articolo 74-sexies, co
 
 ## Art. 55. — Accertamento induttivo
 
-Se il contribuente non ha presentato la dichiarazione annuale l'ufficio dell'imposta sul valore aggiunto puo' procedere in ogni caso all'accertamento dell'imposta dovuta indipendentemente dalla previa ispezione della contabilita'. In tal caso l'ammontare imponibile complessivo e l'aliquota applicabile sono determinati induttivamente sulla base dei dati e delle notizie comunque raccolte o venuti a conoscenza dell'ufficio e sono computati in detrazione soltanto i versamenti eventualmente eseguiti dal contribuente e le imposte detraibili ai sensi dell'art. 19 risultanti dalle liquidazioni prescritte dagli articoli 27 e 33.
- Le disposizioni del precedente comma si applicano anche se la dichiarazione ((...)) reca le indicazioni di cui ai numeri 1) e 3) dell'art. 28 senza le distinzioni e specificazioni ivi richieste, sempreche' le indicazioni stesse non siano state regolarizzate entro il mese successivo a quello di presentazione della dichiarazione. Le disposizioni stesse si applicano, in deroga alle disposizioni dell'art. 54, anche nelle seguenti ipotesi:
- 1) quando risulta, attraverso il verbale di ispezione redatto ai sensi dell'art. 52, che il contribuente non ha tenuto, ha rifiutato di esibire o ha comunque sottratto all'ispezione i registri previsti dal presente decreto le altre scritture contabili obbligatorie a norma del primo comma dell'art. 2214 del codice civile e delle leggi in materia di imposte sui redditi, o anche soltanto alcuni ditali registri e scritture;
- 2) quando dal verbale di ispezione risulta che il contribuente non ha emesso le fatture per una parte rilevante delle operazioni ovvero non ha conservato ha rifiuta tu di esibire o ha comunque sottratto all'ispezione, totalmente o per una parte rilevante, le fatture emesse;
- 3) quando le omissioni e le false o inesatte indicazioni o annotazioni accertate ai sensi dell'art. 54, ovvero le irregolarita' formali dei registri e delle altre scritture contabili risultanti dal verbale di ispezione, sono cosi' gravi, numerose e ripetute da rendere inattendibile la contabilita' del contribuente.
+Se il contribuente non ha presentato la dichiarazione annuale l'ufficio dell'imposta sul valore aggiunto puo' procedere in ogni caso all'accertamento dell'imposta dovuta indipendentemente dalla previa ispezione della contabilita'. In tal caso l'ammontare imponibile complessivo e l'aliquota applicabile sono determinati induttivamente sulla base dei dati e delle notizie comunque raccolte o venuti a conoscenza dell'ufficio e sono computati in detrazione soltanto i versamenti eventualmente eseguiti dal contribuente e le imposte detraibili ai sensi dell'art. 19 risultanti dalle liquidazioni prescritte dagli articoli 27 e 33. 
+ Le disposizioni del precedente comma si applicano anche se la dichiarazione ((...)) reca le indicazioni di cui ai numeri 1) e 3) dell'art. 28 senza le distinzioni e specificazioni ivi richieste, sempreche' le indicazioni stesse non siano state regolarizzate entro il mese successivo a quello di presentazione della dichiarazione. Le disposizioni stesse si applicano, in deroga alle disposizioni dell'art. 54, anche nelle seguenti ipotesi: 
+ 1) quando risulta, attraverso il verbale di ispezione redatto ai sensi dell'art. 52, che il contribuente non ha tenuto, ha rifiutato di esibire o ha comunque sottratto all'ispezione i registri previsti dal presente decreto le altre scritture contabili obbligatorie a norma del primo comma dell'art. 2214 del codice civile e delle leggi in materia di imposte sui redditi, o anche soltanto alcuni ditali registri e scritture; 
+ 2) quando dal verbale di ispezione risulta che il contribuente non ha emesso le fatture per una parte rilevante delle operazioni ovvero non ha conservato ha rifiuta tu di esibire o ha comunque sottratto all'ispezione, totalmente o per una parte rilevante, le fatture emesse; 
+ 3) quando le omissioni e le false o inesatte indicazioni o annotazioni accertate ai sensi dell'art. 54, ovvero le irregolarita' formali dei registri e delle altre scritture contabili risultanti dal verbale di ispezione, sono cosi' gravi, numerose e ripetute da rendere inattendibile la contabilita' del contribuente. 
  Se vi e' pericolo per la riscossione dell'imposta l'ufficio puo' procedere all'accertamento induttivo, per la frazione di anno solare gia' decorsa, senza attendere la scadenza del termine stabilito per la dichiarazione annuale e con riferimento alle liquidazioni prescritte dagli articoli 27 e 33. (20)
 
 -----------------
                             AGGIORNAMENTO (20)
-                             Il D.P.R. 29 gennaio 1979, n. 24 ha disposto (con l'art. 3) che le modifiche al presente articolo hanno effetto dal 1 aprile 1979.
+                            Il D.P.R. 29 gennaio 1979, n. 24 ha disposto (con l'art. 3) che le
+modifiche al presente articolo hanno effetto dal 1 aprile 1979.
 
 ## Art. 56. — Notificazione e motivazione degli accertamenti
 
-Le rettifiche e gli accertamenti sono notificati ai contribuenti, mediante avvisi motivati, nei modi stabiliti per le notificazioni in materia di imposte sui redditi, da messi speciali autorizzati dagli uffici dell'imposta sul valore aggiunto o dai messi comunali.
- Negli avvisi relativi alle rettifiche di cui all'art. 54 devono essere indicati specificamente, a pena di nullita', gli errori, le omissioni e le false o inesatte indicazioni su cui e' fondata la rettifica e i relativi elementi probatori. Per le omissioni e le inesattezze desunte in via presuntiva devono essere indicati i fatti certi che danno fondamento alla presunzione.
- Negli avvisi relativi agli accertamenti induttivi devono essere indicati, a pena di nullita', l'imponibile determinato dall'ufficio, l'aliquota o le aliquote e le detrazioni applicate e le ragioni per cui sono state ritenute applicabili le disposizioni del primo o del secondo comma dell'art. 55.
- Nelle ipotesi di cui al quarto comma dell'art. 54 e al terzo comma dell'art. 55 devono essere inoltre indicate, a pena di nullita', le ragioni di pericolo per la riscossione dell'imposta.
+Le rettifiche e gli accertamenti sono notificati ai contribuenti, mediante avvisi motivati, nei modi stabiliti per le notificazioni in materia di imposte sui redditi, da messi speciali autorizzati dagli uffici dell'imposta sul valore aggiunto o dai messi comunali. 
+ Negli avvisi relativi alle rettifiche di cui all'art. 54 devono essere indicati specificamente, a pena di nullita', gli errori, le omissioni e le false o inesatte indicazioni su cui e' fondata la rettifica e i relativi elementi probatori. Per le omissioni e le inesattezze desunte in via presuntiva devono essere indicati i fatti certi che danno fondamento alla presunzione. 
+ Negli avvisi relativi agli accertamenti induttivi devono essere indicati, a pena di nullita', l'imponibile determinato dall'ufficio, l'aliquota o le aliquote e le detrazioni applicate e le ragioni per cui sono state ritenute applicabili le disposizioni del primo o del secondo comma dell'art. 55. 
+ Nelle ipotesi di cui al quarto comma dell'art. 54 e al terzo comma dell'art. 55 devono essere inoltre indicate, a pena di nullita', le ragioni di pericolo per la riscossione dell'imposta. 
  La motivazione dell'atto deve indicare i presupposti di fatto e le ragioni giuridiche che lo hanno determinato. Se la motivazione fa riferimento ad un altro atto non conosciuto ne' ricevuto dal contribuente, questo deve essere allegato all'atto che lo richiama salvo che quest'ultimo non ne riproduca il contenuto essenziale.
-L'accertamento e' nullo se non sono osservate le disposizioni di cui al presente comma.
+L'accertamento e' nullo se non sono osservate le disposizioni di cui al presente comma. 
  ((I provvedimenti emanati ai sensi degli articoli 38-bis1, 38-bis2 e 38-ter possono essere notificati anche tramite mezzi elettronici.))
 
 ## Art. 57. — (Termine per gli accertamenti)
@@ -3896,36 +3922,37 @@ modifiche al presente articolo hanno effetto dal 1 aprile 1979.
 
 ## Art. 63. — Collaborazione della guardia di finanza
 
-La Guardia di finanza coopera con gli uffici dell'imposta sul valore aggiunto per l'acquisizione e il reperimento degli elementi utili ai fini dell'accertamento della imposta e per la repressione delle violazioni del presente decreto, procedendo di propria iniziativa o su richiesta degli uffici, secondo le norme e con le facolta' di cui agli articoli agli articoli 51 e 52, alle operazioni ivi indicate e trasmettendo agli uffici stessi i relativi verbali e rapporti. Essa inoltre, ((previa autorizzazione dell'autorita' giudiziaria, che puo' essere concessa anche in deroga all'articolo 329 del codice di procedura penale)), utilizza e trasmette agli uffici documenti, dati e notizie acquisiti, direttamente o riferiti ed ottenuti dalle altre Forze di polizia, nell'esercizio dei poteri di polizia giudiziaria.
- Ai fini del necessario coordinamento dell'azione della guardia di finanza con quella degli uffici finanziari saranno presi accordi, periodicamente e nei casi in cui si debba procedere ad indagini sistematiche, tra la Direzione generale delle tasse e delle imposte indirette sugli affari e il Comando generale della guardia di finanza e, nell'ambito delle singole circoscrizioni, fra i capi degli ispettorati e degli uffici e i comandi territoriali.
+La Guardia di finanza coopera con gli uffici dell'imposta sul valore aggiunto per l'acquisizione e il reperimento degli elementi utili ai fini dell'accertamento della imposta e per la repressione delle violazioni del presente decreto, procedendo di propria iniziativa o su richiesta degli uffici, secondo le norme e con le facolta' di cui agli articoli agli articoli 51 e 52, alle operazioni ivi indicate e trasmettendo agli uffici stessi i relativi verbali e rapporti. Essa inoltre, ((previa autorizzazione dell'autorita' giudiziaria, che puo' essere concessa anche in deroga all'articolo 329 del codice di procedura penale)), utilizza e trasmette agli uffici documenti, dati e notizie acquisiti, direttamente o riferiti ed ottenuti dalle altre Forze di polizia, nell'esercizio dei poteri di polizia giudiziaria. 
+ Ai fini del necessario coordinamento dell'azione della guardia di finanza con quella degli uffici finanziari saranno presi accordi, periodicamente e nei casi in cui si debba procedere ad indagini sistematiche, tra la Direzione generale delle tasse e delle imposte indirette sugli affari e il Comando generale della guardia di finanza e, nell'ambito delle singole circoscrizioni, fra i capi degli ispettorati e degli uffici e i comandi territoriali. 
  Gli uffici finanziari e i comandi della guardia di finanza, per evitare la reiterazione di accessi presso gli stessi contribuenti, devono darsi reciprocamente tempestiva comunicazione delle ispezioni e verifiche intraprese. L'ufficio o il comando che riceve la comunicazione puo' richiedere all'organo che sta eseguendo l'ispezione o la verifica l'esecuzione di determinati controlli e l'acquisizione di determinati elementi utili ai fini dell'accertamento.
 
 ## Art. 64. — Collaborazione degli uffici doganali e degli uffici tecnici delle imposte di fabbricazione
 
-((Gli uffici doganali eseguono i controlli necessari per l'accertamento delle violazioni di cui al quinto comma dell'art. 46 e ne riferiscono ai competenti uffici dell'imposta sul valore aggiunto.
-Per le controversie relative alla qualita' e quantita' dei beni si applicano le disposizioni della legge doganale)).((27))
+((Gli uffici doganali eseguono i controlli necessari per l'accertamento delle violazioni di cui al quinto comma dell'art. 46 e ne riferiscono ai competenti uffici dell'imposta sul valore aggiunto. 
+Per le controversie relative alla qualita' e quantita' dei beni si applicano le disposizioni della legge doganale)).((27)) 
  Gli uffici tecnici delle imposte di fabbricazione cooperano con gli uffici dell'imposta sul valore aggiunto per l'accertamento dell'imposta dovuta dalle imprese i cui depositi e stabilimenti sono sottoposti alla vigilanza degli uffici stessi.
 
 --------------
                             AGGIORNAMENTO (27)
-                             Il D.P.R. 30 dicembre 1980, n. 897, ha disposto (con l'art. 45, comma 2) che le modifiche al presente articolo hanno effetto dal 1 gennaio 1981.
+                            
+ Il D.P.R. 30 dicembre 1980, n. 897, ha disposto (con l'art. 45, comma 2) che le modifiche al presente articolo hanno effetto dal 1 gennaio 1981.
 
-## Art. 65. — ((Obblighi dell'amministrazione finanziaria
-
- L'amministrazione finanziaria provvede allo scambio, con le altre autorita' competenti degli Stati membri della Comunita' economica europea, delle informazioni necessarie per assicurare il corretto accertamento dell'imposta sul valore aggiunto. Essa, a tal fine, puo' autorizzare la presenza nel territorio dello Stato di funzionari delle amministrazioni fiscali degli altri Stati membri.
+## Art. 65. — ((Obblighi dell'amministrazione finanziaria 
+ 
+ L'amministrazione finanziaria provvede allo scambio, con le altre autorita' competenti degli Stati membri della Comunita' economica europea, delle informazioni necessarie per assicurare il corretto accertamento dell'imposta sul valore aggiunto. Essa, a tal fine, puo' autorizzare la presenza nel territorio dello Stato di funzionari delle amministrazioni fiscali degli altri Stati membri. 
  L'amministrazione finanziaria provvede alla raccolta delle informazioni da fornire alle predette autorita' con le modalita' ed entro i limiti previsti per l'accertamento dell'imposta sul valore aggiunto))
 
 ## Art. 66. — Segreto d'ufficio
 
-Gli impiegati dell'Amministrazione finanziaria e gli ufficiali e agenti della guardia di finanza sono obbligati al segreto per tutto cio' che riguarda i dati e le notizie di cui vengono a conoscenza nell'adempimento dei compiti e nell'esercizio dei poteri previsti dal presente decreto.
+Gli impiegati dell'Amministrazione finanziaria e gli ufficiali e agenti della guardia di finanza sono obbligati al segreto per tutto cio' che riguarda i dati e le notizie di cui vengono a conoscenza nell'adempimento dei compiti e nell'esercizio dei poteri previsti dal presente decreto. 
  Non e' considerata violazione del segreto d'ufficio la comunicazione da parte dell'Amministrazione finanziaria alle competenti autorita' degli Stati membri della Comunita' economica europea delle informazioni atte a permettere il corretto accertamento dell'imposta sul valore aggiunto, ((in attuazione della direttiva 2003/93/CE e del regolamento (CE) n. 1798/2003.))
 
 ## Art. 66-bis. — Pubblicazione degli elenchi di contribuenti.
 
-Il Ministro delle finanze dispone annualmente la pubblicazione di elenchi di contribuenti nei cui confronti l'ufficio dell'imposta sul valore aggiunto ha proceduto a rettifica o ad accertamento ai sensi degli articoli 54 e 55. Sono ricompresi nell'elenco solo quei contribuenti che non hanno presentato la dichiarazione annuale e quelli dalla cui dichiarazione risulta un'imposta inferiore di oltre un decimo a quella dovuta ovvero un'eccedenza detraibile o rimborsabile superiore di oltre un decimo a quella spettante. Negli elenchi deve essere specificato se gli accertamenti sono definitivi o in contestazione e deve essere indicato, in caso di rettifica, anche il volume di affari dichiarato dai contribuenti.
- Gli uffici dell'imposta sul valore aggiunto formano ((...)) annualmente per ciascuna provincia compresa nella propria circoscrizione un elenco nominativo dei contribuenti che hanno presentato la dichiarazione annuale ai fini dell'imposta sul valore aggiunto, con la specificazione, per ognuno, del volume di affari. ((Gli elenchi sono depositati per la durata di un anno sia presso lo stesso ufficio delle imposte, sia presso i Comuni interessati. Nel predetto periodo, e' ammessa la visione e l'estrazione di copia degli elenchi nei modi e con i limiti stabiliti dalla disciplina in materia di accesso ai documenti amministrativi di cui agli articoli 22 e seguenti nella legge 7 agosto 1990, n. 241, e successive modificazioni, dalla relativa normativa di attuazione, nonche' da specifiche disposizioni di legge. Per l'accesso non sono dovuti i tributi speciali di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 648)).
- COMMA ABROGATO DALLA L. 30 DICEMBRE 1991, N.413.
- Gli stessi uffici ((formano, per le finalita' di cui al secondo comma)), inoltre, un elenco cronologico contenente i nominativi dei contribuenti che hanno richiesto i rimborsi dell'imposta sul valore aggiunto e di quelli che li hanno ottenuti.
+Il Ministro delle finanze dispone annualmente la pubblicazione di elenchi di contribuenti nei cui confronti l'ufficio dell'imposta sul valore aggiunto ha proceduto a rettifica o ad accertamento ai sensi degli articoli 54 e 55. Sono ricompresi nell'elenco solo quei contribuenti che non hanno presentato la dichiarazione annuale e quelli dalla cui dichiarazione risulta un'imposta inferiore di oltre un decimo a quella dovuta ovvero un'eccedenza detraibile o rimborsabile superiore di oltre un decimo a quella spettante. Negli elenchi deve essere specificato se gli accertamenti sono definitivi o in contestazione e deve essere indicato, in caso di rettifica, anche il volume di affari dichiarato dai contribuenti. 
+ Gli uffici dell'imposta sul valore aggiunto formano ((...)) annualmente per ciascuna provincia compresa nella propria circoscrizione un elenco nominativo dei contribuenti che hanno presentato la dichiarazione annuale ai fini dell'imposta sul valore aggiunto, con la specificazione, per ognuno, del volume di affari. ((Gli elenchi sono depositati per la durata di un anno sia presso lo stesso ufficio delle imposte, sia presso i Comuni interessati. Nel predetto periodo, e' ammessa la visione e l'estrazione di copia degli elenchi nei modi e con i limiti stabiliti dalla disciplina in materia di accesso ai documenti amministrativi di cui agli articoli 22 e seguenti nella legge 7 agosto 1990, n. 241, e successive modificazioni, dalla relativa normativa di attuazione, nonche' da specifiche disposizioni di legge. Per l'accesso non sono dovuti i tributi speciali di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 648)). 
+ COMMA ABROGATO DALLA L. 30 DICEMBRE 1991, N.413. 
+ Gli stessi uffici ((formano, per le finalita' di cui al secondo comma)), inoltre, un elenco cronologico contenente i nominativi dei contribuenti che hanno richiesto i rimborsi dell'imposta sul valore aggiunto e di quelli che li hanno ottenuti. 
  ((Fuori dei casi previsti dai commi precedenti, la comunicazione o diffusione, totale o parziale, con qualsiasi mezzo, degli elenchi o di dati personali ivi contenuti, ove il fatto non costituisca reato, e' punita con la sanzione amministrativa del pagamento di una somma da cinquemila euro a trentamila euro. La somma puo' essere aumentata sino al triplo quando risulta inefficace in ragione delle condizioni economiche del contravventore.))
 
 ## - TITOLO QUINTO IMPORTAZIONI
@@ -5439,12 +5466,13 @@ Con il decreto di cui al comma 1 sono altresi' stabilite le modalita' di riparti
 
 ## Art. 75. — Norme applicabili
 
-Per quanto non e' diversamente disposto dal presente decreto si applicano, in materia di accertamento delle violazioni e di sanzioni, le norme del codice penale e del codice di procedura penale, della legge 7 gennaio 1929, n. 4 e del regio decreto-legge 3 gennaio 1926, n. 63, convertito nella legge 24 maggio 1926, n. 898, e successive modificazioni.
+Per quanto non e' diversamente disposto dal presente decreto si applicano, in materia di accertamento delle violazioni e di sanzioni, le norme del codice penale e del codice di procedura penale, della legge 7 gennaio 1929, n. 4 e del regio decreto-legge 3 gennaio 1926, n. 63, convertito nella legge 24 maggio 1926, n. 898, e successive modificazioni. 
  ((Il venti per cento dei proventi delle sanzioni pecuniarie e' devoluto ai fondi costituiti presso l'amministrazione o il corpo cui appartengono gli accertatori, con le modalita' previste con decreto del Ministro per le finanze. Si applica il quarto comma dell'art. 6 della legge 15 novembre 1973, n. 734)). ((5))
 
 ----------------
                             AGGIORNAMENTO (5)
-                             Il D.P.R. 23 dicembre 1974, n. 687, ha disposto (con l'art. 3) che le presenti modifiche hanno effetto dal 1 gennaio 1975.
+                            Il D.P.R. 23 dicembre 1974, n. 687, ha disposto (con l'art. 3) che
+le presenti modifiche hanno effetto dal 1 gennaio 1975.
 
 ## - TITOLO SETTIMO DISPOSIZIONI TRANSITORIE E FINALI
 
