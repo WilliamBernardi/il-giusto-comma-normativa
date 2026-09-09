@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2024-02-12;13
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-05-23
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-09
+fetched_at: 2026-09-09
 ---
 
 DECRETO LEGISLATIVO
@@ -261,8 +261,7 @@ Dall'attuazione del presente articolo, a esclusione del comma 1, lettera a), non
 
 ## Art. 2.
 
-Razionalizzazione e riordino delle disposizioni normative 
- in materia di attivita' di analisi del rischio
+Razionalizzazione e riordino delle disposizioni normative in materia di attivita' di analisi del rischio
 
 1.
                         
@@ -540,7 +539,23 @@ Il contribuente puo' aderire alla proposta di concordato entro il 30 settembre, 
                             
                                 c)
                                 
-                                    del 25 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 8 ma inferiore a 9.
+                                    del 25 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 8 ma inferiore a 9; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((del 30 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 6 ma inferiore a 8;))
+                                    
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    
+                                        ((del 35 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 1 ma inferiore a 6)).
 
 Laddove la proposta, tenuto conto di quanto disposto al comma 3-bis, risulti inferiore rispetto ai valori di riferimento settoriali individuati nella metodologia di cui al comma 1, la limitazione di cui al comma 3-bis non trova applicazione.
 
@@ -559,11 +574,9 @@ Concordato per i soggetti che applicano gli indici sintetici di affidabilita' fi
 
 I contribuenti esercenti attivita' d'impresa, arti o professioni che applicano gli indici sintetici di affidabilita' di cui all'articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, accedono al concordato preventivo biennale secondo le modalita' indicate nel presente titolo, a eccezione di quanto previsto nel capo III.
 
-((
-
 Possono accedere al concordato preventivo biennale i contribuenti di cui al comma 1 che, con riferimento al periodo d'imposta precedente a quelli cui si riferisce la proposta, non hanno debiti per tributi amministrati dall'Agenzia delle entrate o debiti contributivi. I debiti di cui al primo periodo rilevano se definitivamente accertati con sentenza irrevocabile o con atti impositivi non piu' soggetti a impugnazione. Possono comunque accedere al concordato i contribuenti che nel rispetto dei termini previsti dall'articolo 9, comma 3, hanno estinto i debiti di cui al primo periodo se l'ammontare complessivo del debito residuo, compresi interessi e sanzioni, e' inferiore alla soglia di 5.000 euro. Non concorrono al predetto limite i debiti oggetto di provvedimenti di sospensione o di rateazione sino a decadenza dei relativi benefici secondo le specifiche disposizioni applicabili.
 
-))
+((L'adesione al concordato in assenza dei requisiti di cui ai commi 1 e 2 e' priva di effetti.))
 
 ## Art. 11. — Cause di esclusione
 
@@ -604,25 +617,23 @@ Possono accedere al concordato preventivo biennale i contribuenti di cui al comm
                             
                                 b-quater)
                                 
-                                    nel primo anno cui si riferisce la proposta di concordato la societa' o l'ente risulta interessato da operazioni di fusione, scissione, conferimento, ovvero, la societa' o l'associazione di cui all'articolo 5 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 e' interessata da modifiche della compagine sociale che ne aumentano il numero dei soci o degli associati, fatto salvo il subentro di due o piu' eredi in caso di decesso del socio o associato; 
-
+                                    nel primo anno cui si riferisce la proposta di concordato la societa' o l'ente risulta interessato da operazioni di fusione, scissione, conferimento, ovvero, la societa' o l'associazione di cui all'articolo 5 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 e' interessata da modifiche della compagine sociale che ne aumentano il numero dei soci o degli associati, fatto salvo il subentro di due o piu' eredi in caso di decesso del socio o associato; ((in ipotesi di rinnovo dell'adesione al concordato sono fatte salve le eventuali modifiche della compagine sociale di cui alla presente lettera in caso di ingresso di soci o associati che nell'anno precedente hanno percepito redditi di lavoro dipendente e redditi assimilati a quelli di lavoro dipendente, di cui rispettivamente agli articoli 49 e 50 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero abbiano conseguito reddito d'impresa o di lavoro autonomo per importi complessivamente non superiori a 35.000 euro;))
+                                    
                                 
                             
                             
                                 b-quinquies)
                                 
-                                    
-                                        ((con riferimento al periodo d'imposta precedente a quelli cui si riferisce la proposta, hanno dichiarato individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e, contemporaneamente, partecipato a un'associazione di cui all'articolo 5, comma 3, lettera c), del medesimo testo unico o a una societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero a una societa' tra avvocati di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247. La predetta causa di esclusione non opera se l'associazione o la societa' partecipata aderiscono al concordato preventivo biennale per i medesimi periodi d'imposta cui aderisce il socio o l'associato;))
-                                        ((4))
-                                    
+                                    con riferimento al periodo d'imposta precedente a quelli cui si riferisce la proposta, hanno dichiarato individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e, contemporaneamente, partecipato a un'associazione di cui all'articolo 5, comma 3, lettera c), del medesimo testo unico o a una societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero a una societa' tra avvocati di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247 ((, che esercitano attivita' economiche riconducibili al medesimo indice sintetico di affidabilita' fiscale applicato individualmente dal contribuente)). La predetta causa di esclusione non opera se l'associazione o la societa' partecipata aderiscono al concordato preventivo biennale per i medesimi periodi d'imposta cui aderisce il socio o l'associato; (4) 
+
                                 
                             
                             
                                 b-sexies)
                                 
-                                    
-                                        ((l'associazione di cui all'articolo 5, comma 3, lettera c), del citato testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica n. 917 del 1986, ovvero la societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero la societa' di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247, nelle ipotesi in cui non aderiscono al concordato preventivo biennale, nei medesimi periodi d'imposta, tutti i soci o associati, che dichiarano individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del suddetto testo unico delle imposte sui redditi.))
-                                        ((4))
+                                    l'associazione di cui all'articolo 5, comma 3, lettera c), del citato testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica n. 917 del 1986, ovvero la societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero la societa' di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247, nelle ipotesi in cui non aderiscono al concordato preventivo biennale, nei medesimi periodi d'imposta, tutti i soci o associati, che dichiarano individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del suddetto testo unico delle imposte sui redditi ((, derivanti dall'esercizio di attivita' economiche riconducibili al medesimo indice sintetico di affidabilita' fiscale applicato dalle predette societa' o associazioni)). (4)
+
+((L'adesione al concordato in presenza di una delle cause di esclusione di cui al comma 1, e' priva di effetti.))
 
 ---------------
                             AGGIORNAMENTO (4)
@@ -658,6 +669,13 @@ L'Agenzia delle entrate provvede al controllo automatizzato ai sensi dell'artico
 ## Art. 14. — Rinnovo del concordato
 
 Decorso il biennio oggetto di concordato, permanendo i requisiti di cui all'articolo 10 e in assenza delle cause di esclusione di cui all'articolo 11, l'Agenzia delle entrate formula, con le modalita' di cui all'articolo 9, una nuova proposta di concordato biennale relativa al biennio successivo, a cui il contribuente puo' aderire nei termini di cui all'articolo 9, comma 3.
+
+((In caso di rinnovo del concordato, ferma l'applicazione dell'articolo 19, comma 3, i benefici di cui all'articolo 9-bis, comma 11, lettere a), b) ed e), del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, sono cosi' riconosciuti: 
+ a) l'esonero dall'apposizione del visto di conformita' per la compensazione di crediti per un importo non superiore a 100.000 euro annui relativamente all'imposta sul valore aggiunto e per un importo non superiore a 70.000 euro annui relativamente alle imposte dirette e all'imposta regionale sulle attivita' produttive; 
+b) l'esonero dall'apposizione del visto di conformita' ovvero dalla prestazione della garanzia per i rimborsi dell'imposta sul valore aggiunto per un importo non superiore a 100.000 euro annui; 
+c) l'anticipazione di due anni dei termini di decadenza per l'attivita' di accertamento previsti dall'articolo 43, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, con riferimento al reddito di impresa e di lavoro autonomo, e dall'articolo 57, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.))
+
+((In caso di rinnovo del concordato, per il biennio 2026-2027, per i versamenti rateali delle imposte, effettuati ai sensi dell'articolo 20 del decreto legislativo 9 luglio 1997, n. 241, per le medesime annualita' d'imposta non sono dovuti gli interessi.))
 
 ## Art. 15. — Reddito di lavoro autonomo oggetto di concordato
 
@@ -727,11 +745,17 @@ Il saldo netto tra le plusvalenze e le minusvalenze, nonche' i corrispettivi per
                             
                                 b-bis)
                                 
-                                    
-                                        ((maggiorazione del costo del lavoro spettante ai sensi dell'articolo 4 del decreto legislativo 30 dicembre 2023, n. 216.))
-                                        ((4))
+                                    maggiorazione del costo del lavoro spettante ai sensi dell'articolo 4 del decreto legislativo 30 dicembre 2023, n. 216. (4) 
 
-Il saldo netto tra le plusvalenze, le sopravvenienze attive, le minusvalenze e le sopravvenienze passive, nonche' gli utili e le perdite derivanti dalle partecipazioni di cui al comma 1 determinano una corrispondente variazione del reddito concordato secondo i meccanismi previsti dalle singole disposizioni a esse applicabili. (1) ((4))
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    
+                                        ((maggiorazione delle quote di ammortamento e dei canoni di locazione finanziaria spettanti ai sensi dell'articolo 1, commi da 427 a 436, della legge 30 dicembre 2025, n. 199)).
+
+Il saldo netto tra le plusvalenze, le sopravvenienze attive, le minusvalenze e le sopravvenienze passive, nonche' gli utili e le perdite derivanti dalle partecipazioni di cui al comma 1 determinano una corrispondente variazione del reddito concordato secondo i meccanismi previsti dalle singole disposizioni a esse applicabili. (1) (4) ((6))
 
 Le perdite fiscali conseguite dal contribuente nei periodi di imposta precedenti riducono il reddito determinato ai sensi del presente articolo secondo le disposizioni di cui agli articoli 8 e 84 del citato testo unico delle imposte sui redditi.
 
@@ -745,7 +769,11 @@ In ogni caso il reddito assoggettato a imposizione non puo' essere inferiore a 2
                             AGGIORNAMENTO (4)
                             
  Il D.Lgs. 12 giugno 2025, n. 81 ha disposto (con l'art. 13, comma 1, lettera b)) che "al comma 2, le parole: «e le perdite su crediti,» sono sostituite dalle seguenti: «, le perdite su crediti, la maggiorazione del costo del lavoro»". 
- Ha inoltre disposto (con l'art. 13, comma 2) che "In deroga all'articolo 3 della legge 27 luglio 2000, 212, le disposizioni di cui al comma 1 si applicano a decorrere dalle opzioni esercitate per l'adesione al concordato relative al biennio 2025- 2026".
+ Ha inoltre disposto (con l'art. 13, comma 2) che "In deroga all'articolo 3 della legge 27 luglio 2000, 212, le disposizioni di cui al comma 1 si applicano a decorrere dalle opzioni esercitate per l'adesione al concordato relative al biennio 2025- 2026". 
+                            ---------------
+                            AGGIORNAMENTO (6)
+                            
+ Il D.L. 27 marzo 2026, n. 38, convertito con modificazioni dalla L. 22 maggio 2026, n. 88, ha disposto (con l'art. 7, comma 3-bis, lettera b)) che "al comma 2, dopo le parole: "la maggiorazione del costo del lavoro" sono inserite le seguenti: ", la maggiorazione delle quote di ammortamento e dei canoni di locazione finanziaria"".
 
 ## Art. 17. — (( (Valore della produzione netta oggetto di concordato). ))
 
@@ -757,8 +785,7 @@ Il saldo netto tra le componenti di cui al comma 1 determina una corrispondente 
 
 ))
 
-## Art. 18. — Effetti del concordato ai fini dell'imposta 
- sul valore aggiunto
+## Art. 18. — Effetti del concordato ai fini dell'imposta sul valore aggiunto
 
 L'adesione al concordato non produce effetti ai fini dell'imposta sul valore aggiunto, la cui applicazione avviene secondo le regole ordinarie.
 
@@ -766,13 +793,13 @@ L'adesione al concordato non produce effetti ai fini dell'imposta sul valore agg
 
 Fermo restando quanto previsto agli articoli 15, 16 e 17 e al successivo comma 2, gli eventuali maggiori o minori redditi effettivi, o maggiori o minori valori della produzione netta effettivi, nel periodo di vigenza del concordato, non rilevano ai fini della determinazione delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive, nonche' dei contributi previdenziali obbligatori. Resta ferma la possibilita' per il contribuente di versare i contributi sul reddito effettivo se di importo superiore a quello concordato come integrato ai sensi degli articoli 15 e 16.
 
-In presenza di circostanze eccezionali, individuate con decreto del Ministro dell'economia e delle finanze, che determinano minori redditi effettivi o minori valori della produzione netta effettivi ((, eccedenti la misura del 30 per cento)) rispetto a quelli oggetto del concordato, quest'ultimo cessa di produrre effetti a partire dal periodo di imposta in cui tale differenza si realizza.
+In presenza di circostanze eccezionali, individuate con decreto del Ministro dell'economia e delle finanze, che determinano minori redditi effettivi o minori valori della produzione netta effettivi, eccedenti la misura del 30 per cento rispetto a quelli oggetto del concordato, quest'ultimo cessa di produrre effetti a partire dal periodo di imposta in cui tale differenza si realizza.
 
-Per i periodi d'imposta oggetto di concordato, ai contribuenti che aderiscono alla proposta formulata dall'Agenzia delle entrate sono riconosciuti i benefici ((, compresi quelli relativi all'imposta sul valore aggiunto,)) previsti dall'articolo 9-bis, comma 11, del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96.
+Per i periodi d'imposta oggetto di concordato, ai contribuenti che aderiscono alla proposta formulata dall'Agenzia delle entrate sono riconosciuti i benefici, compresi quelli relativi all'imposta sul valore aggiunto, previsti dall'articolo 9-bis, comma 11, del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96.
 
-## Art. 20. — (( (Determinazione degli acconti). ))
+((In caso di modifica o integrazione della dichiarazione dei redditi, ai sensi dell'articolo 2, comma 8, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, per rimuovere errori od omissioni relativi ai ricavi, compensi o altri dati indicati nella dichiarazione dei redditi o comunicati ai fini della definizione della proposta di concordato, il reddito o il valore netto della produzione concordati sono rideterminati sulla base dei dati modificati o integrati. Le sanzioni correlate alle violazioni di cui al primo periodo, compresa la sanzione disposta dall'articolo 8 del decreto legislativo 18 dicembre 1997, n. 471, possono essere definite mediante il ricorso all'istituto del ravvedimento operoso di cui all'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472.))
 
-((
+## Art. 20. — (Determinazione degli acconti)
 
 L'acconto delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive relativo ai periodi d'imposta oggetto del concordato e' determinato secondo le regole ordinarie tenendo conto dei redditi e del valore della produzione netta concordati.
 
@@ -803,7 +830,7 @@ L'acconto delle imposte sui redditi e dell'imposta regionale sulle attivita' pro
 
 Le maggiorazioni di cui al comma 2, lettere a) e b), sono versate entro il termine previsto per il versamento della seconda o unica rata dell'acconto.
 
-))
+((In caso di rinnovo del concordato, le disposizioni di cui ai commi 2 e 3 non si applicano.))
 
 ## Art. 20-bis. — (Regime opzionale di imposizione sostitutiva sul maggior reddito concordato per i soggetti che applicano gli indici sintetici di affidabilita' fiscale)
 
@@ -895,8 +922,8 @@ L'imposta sostitutiva e' corrisposta entro il termine di versamento del saldo de
                             
                                 b-ter)
                                 
-                                    la societa' o l'ente risulta interessato da operazioni di fusione, scissione, conferimento, ovvero, la societa' o l'associazione di cui all'articolo 5 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 e' interessata da modifiche della compagine sociale che ne aumentano il numero dei soci o degli associati, fatto salvo il subentro di due o piu' eredi in caso di decesso del socio o associato; 
-
+                                    la societa' o l'ente risulta interessato da operazioni di fusione, scissione, conferimento, ovvero, la societa' o l'associazione di cui all'articolo 5 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 e' interessata da modifiche della compagine sociale che ne aumentano il numero dei soci o degli associati, fatto salvo il subentro di due o piu' eredi in caso di decesso del socio o associato; ((in ipotesi di rinnovo dell'adesione al concordato sono fatte salve le eventuali modifiche della compagine sociale di cui alla presente lettera in caso di ingresso di soci o associati che nell'anno precedente hanno percepito redditi di lavoro dipendente e/o assimilati a quelli di lavoro dipendente, di cui rispettivamente agli articoli 49 e 50 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero abbiano conseguito reddito d'impresa o di lavoro autonomo per importi complessivamente non superiori a 35.000 euro;))
+                                    
                                 
                             
                             
@@ -909,18 +936,14 @@ L'imposta sostitutiva e' corrisposta entro il termine di versamento del saldo de
                             
                                 b-quinquies)
                                 
-                                    
-                                        ((il contribuente che dichiara individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del testo unico delle imposte sui redditi di cui decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e l'associazione di cui all'articolo 5, comma 3, lettera c), del citato testo unico, ovvero la societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero la societa' tra avvocati di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247, cui partecipa, non determinano il reddito sulla base dell'adesione alla proposta di concordato nei medesimi periodi d'imposta cui aderisce il socio o l'associato;))
-                                        ((4))
-                                    
+                                    il contribuente che dichiara individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del testo unico delle imposte sui redditi di cui decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e l'associazione di cui all'articolo 5, comma 3, lettera c), del citato testo unico, ovvero la societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero la societa' tra avvocati di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247, cui partecipa, non determinano il reddito sulla base dell'adesione alla proposta di concordato nei medesimi periodi d'imposta cui aderisce il socio o l'associato ((. E' fatta salva l'ipotesi in cui l'associazione, la societa' tra professionisti, ovvero la societa' tra avvocati di cui al primo periodo non esercitano attivita' economiche riconducibili al medesimo indice sintetico di affidabilita' fiscale applicato individualmente dal socio o dall'associato)); (4) 
+
                                 
                             
                             
                                 b-sexies)
                                 
-                                    
-                                        ((l'associazione di cui all'articolo 5, comma 3, lettera c) del citato testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica n. 917 del 1986, ovvero la societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero la societa' tra avvocati di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247 e uno dei soci o degli associati, che dichiarano individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del suddetto testo unico delle imposte sui redditi non determinano il reddito sulla base dell'adesione proposta di concordato nei medesimi periodi d'imposta cui aderisce l'associazione o la societa' partecipata.))
-                                        ((4))
+                                    l'associazione di cui all'articolo 5, comma 3, lettera c) del citato testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica n. 917 del 1986, ovvero la societa' tra professionisti di cui all'articolo 10 della legge 12 novembre 2011, n. 183, ovvero la societa' tra avvocati di cui all'articolo 4-bis della legge 31 dicembre 2012, n. 247 e uno dei soci o degli associati, che dichiarano individualmente redditi di lavoro autonomo di cui all'articolo 54, comma 1, del suddetto testo unico delle imposte sui redditi non determinano il reddito sulla base dell'adesione ((alla)) proposta di concordato nei medesimi periodi d'imposta cui aderisce l'associazione o la societa' partecipata. ((E' fatta salva l'ipotesi in cui l'associazione, la societa' tra professionisti, ovvero la societa' tra avvocati di cui al primo periodo non esercitano attivita' economiche riconducibili al medesimo indice sintetico di affidabilita' fiscale applicato individualmente dal socio o dall'associato.)) (4)
 
 ---------------
                             AGGIORNAMENTO (4)
@@ -938,40 +961,43 @@ L'imposta sostitutiva e' corrisposta entro il termine di versamento del saldo de
                             
                                 a)
                                 
-                                    a seguito di accertamento, nei periodi di imposta oggetto del concordato o in quello precedente, risulta l'esistenza di attivita' non dichiarate o l'inesistenza o l'indeducibilita' di passivita' dichiarate, per un importo superiore al 30 per cento dei ricavi dichiarati, ovvero risultano commesse altre violazioni di non lieve entita' di cui al comma 2; 
+                                    a seguito di accertamento, nei periodi di imposta oggetto del concordato o in quello precedente, risulta l'esistenza di attivita' non dichiarate o l'inesistenza o l'indeducibilita' di passivita' dichiarate, per un importo superiore al 30 per cento dei ricavi ((o compensi)) dichiarati ((...)); 
 
                                 
                             
                             
                                 b)
                                 
-                                    a seguito di modifica o integrazione della dichiarazione dei redditi ai sensi dell'articolo 2, comma 8, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, i dati e le informazioni dichiarate dal contribuente determinano una quantificazione diversa dei redditi o del valore della produzione netta rispetto a quelli in base ai quali e' avvenuta l'accettazione della proposta di concordato; 
-
+                                    
+                                        ((a seguito di accertamento, nel periodo d'imposta precedente a quelli oggetto del concordato, risulta la presenza di errori od omissioni nei dati comunicati ai fini della definizione della proposta di concordato, tali che il reddito o il valore netto della produzione calcolati sulla base dei dati corretti risultino superiori di almeno il 30 per cento rispetto al reddito o al valore netto della produzione concordati;))
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    sono indicati, nella dichiarazione dei redditi, dati non corrispondenti a quelli comunicati ai fini della definizione della proposta di concordato; 
-
+                                    
+                                        ((risultano commesse altre violazioni di non lieve entita' di cui al comma 2;))
+                                    
                                 
                             
                             
                                 d)
                                 
-                                    ricorre una delle ipotesi di cui all'articolo 11 ovvero vengono meno i requisiti di cui all'articolo 10, comma 2; 
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 7 AGOSTO 2026, N. 148)); 
 
                                 
                             
                             
                                 e)
                                 
-                                    e' omesso il versamento delle somme dovute a seguito delle attivita' di cui all'articolo 12, comma 2 ((, qualora il pagamento di tali somme non sia avvenuto, ai sensi dell'articolo 2 del decreto legislativo 18 dicembre 1997, n. 462, entro sessanta giorni dal ricevimento della comunicazione prevista dall'articolo 36-bis, comma 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600)).
+                                    e' omesso il versamento delle somme dovute a seguito delle attivita' di cui all'articolo 12, comma 2, qualora il pagamento di tali somme non sia avvenuto, ai sensi dell'articolo 2 del decreto legislativo 18 dicembre 1997, n. 462, entro sessanta giorni dal ricevimento della comunicazione prevista dall'articolo 36-bis, comma 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
 
 2.
                         
                             
-                                Con riferimento alla lettera a) del comma 1, sono di non lieve entita': 
+                                Con riferimento (( alla lettera c) )) del comma 1, sono di non lieve entita': 
  
                             
                             
@@ -997,7 +1023,7 @@ L'imposta sostitutiva e' corrisposta entro il termine di versamento del saldo de
  3) all'articolo 9, comma 2, del decreto legislativo 18 dicembre 1997, n. 471; 
  4) all'articolo 11, commi 5 e 5-bis, del decreto legislativo 18 dicembre 1997, n. 471, nonche' all'articolo 2 della legge 26 gennaio 1983, n. 18.
 
-Le violazioni di cui ((...)) al comma 2, lettere a) e b), non rilevano ai fini della decadenza nel caso in cui il contribuente abbia regolarizzato la propria posizione mediante ravvedimento ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, sempreche' la violazione non sia stata gia' constatata e comunque non siano iniziati accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali l'autore o i soggetti solidalmente obbligati abbiano avuto formale conoscenza.
+Le violazioni di cui al comma 2, lettere a) e b), non rilevano ai fini della decadenza nel caso in cui il contribuente abbia regolarizzato la propria posizione mediante ravvedimento ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, sempreche' la violazione non sia stata gia' constatata e comunque non siano iniziati accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali l'autore o i soggetti solidalmente obbligati abbiano avuto formale conoscenza.
 
 Nel caso di decadenza dal concordato restano dovute le imposte e i contributi determinati tenendo conto del reddito e del valore della produzione netta concordati se maggiori di quelli effettivamente conseguiti.
 
