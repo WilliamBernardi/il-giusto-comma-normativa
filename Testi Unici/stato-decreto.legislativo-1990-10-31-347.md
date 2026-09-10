@@ -8,9 +8,9 @@ codice_redazionale: 090G0385
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2024-10-03
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-10
+fetched_at: 2026-09-10
 ---
 
 DECRETO LEGISLATIVO
@@ -110,7 +110,7 @@ Privilegio
                                 --------------
                                 AGGIORNAMENTO (23)
                                 
- Il D.Lgs. 14 giugno 2024, n. 87, ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+ Il D.Lgs. 14 giugno 2024, n. 87, ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 10.
 
@@ -141,8 +141,8 @@ Uffici competenti
 
 Procedimenti e termini 
  1. Per l'accertamento e la liquidazione delle imposte ipotecaria e catastale, per la irrogazione delle relative sanzioni, per le modalita' e i termini della riscossione e per la prescrizione, si applicano, in quanto non disposto nel presente testo unico le disposizioni relative all'imposta di registro e all'imposta sulle successioni e donazioni. 
- 2. Gli uffici dei registri immobiliari riscuotono l'imposta ipotecaria di loro competenza all'atto della richiesta della formalita', salvo quanto disposto dall'articolo 33, ((comma 1)), del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con decreto legislativo 31 ottobre 1990, n. 346. ((24)) 
- 2-bis. Gli uffici del registro, in sede di liquidazione di imposta di successione, provvedono a correggere gli errori e le omissioni commessi dagli eredi e dai legatari nell'adempimento degli obblighi previsti dall'articolo 33, comma 1-bis, del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con decreto legislativo 31 ottobre 1990, n. 346. In caso di omesso o insufficiente versamento gli uffici liquidano la maggiore imposta che risulta dovuta con le modalita' e nei termini di cui all'articolo 27 del suddetto decreto legislativo n. 346 del 1990. 
+ 2. Gli uffici dei registri immobiliari riscuotono l'imposta ipotecaria di loro competenza all'atto della richiesta della formalita', salvo quanto disposto dall'articolo 33, comma 1, del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con decreto legislativo 31 ottobre 1990, n. 346. (24) 
+ 2-bis. Gli uffici del registro, in sede di liquidazione di imposta di successione, provvedono a correggere gli errori e le omissioni commessi dagli eredi e dai legatari nell'adempimento degli obblighi previsti dall'articolo 33, ((comma 1)), del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con decreto legislativo 31 ottobre 1990, n. 346. In caso di omesso o insufficiente versamento gli uffici liquidano la maggiore imposta che risulta dovuta con le modalita' e nei termini di cui all'articolo 27 del suddetto decreto legislativo n. 346 del 1990. 
  3. Il pagamento delle imposte non puo' essere dilazionato. 
  4. Gli interessi di mora sulle somme dovute all'erario e su quelle da rimborsare al contribuente si applicano nella misura del 4,50 per cento per ogni semestre compiuto. (16a)
 

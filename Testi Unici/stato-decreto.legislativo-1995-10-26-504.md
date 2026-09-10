@@ -8,9 +8,9 @@ codice_redazionale: 095G0523
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2026-08-11
-zip_date: 2026-08-11
-fetched_at: 2026-08-11
+vigenza_date: 2026-08-12
+zip_date: 2026-09-10
+fetched_at: 2026-09-10
 ---
 
 DECRETO LEGISLATIVO
@@ -391,7 +391,7 @@ Il regime del deposito fiscale e' autorizzato dall'Amministrazione finanziaria n
                             
                                 a)
                                 
-                                    fatte salve le disposizioni stabilite per i singoli prodotti, a prestare cauzione nella misura del 10 per cento dell'imposta che grava sulla quantita' massima di prodotti che possono essere detenuti nel deposito fiscale, in relazione alla capacita' di stoccaggio dei serbatoi utilizzabili e, in ogni caso, l'importo della cauzione non puo' essere inferiore alla media aritmetica degli importi mensili dell'imposta dovuta sulle immissioni in consumo avvenute nei dodici mesi solari precedenti; il depositario autorizzato adegua la cauzione entro trenta giorni dal termine previsto per il pagamento dell'imposta dovuta sulle immissioni in consumo che hanno determinato la variazione dell'importo da prestare, dandone comunicazione all'Agenzia delle dogane e dei monopoli entro dieci giorni dalla data dell'adeguamento. Si applicano le disposizioni dell'articolo 64. In presenza di cauzione prestata da altri soggetti, la cauzione dovuta dal depositario si riduce di pari ammontare, fermo restando quanto previsto dall'articolo 2, comma 4, lettera a). ((Sono esonerate dall'obbligo di prestazione della cauzione le amministrazioni dello Stato e degli enti pubblici nonche' l'organismo centrale di stoccaggio istituito dallo Stato ai sensi della direttiva (UE) 2009/119/CE del Consiglio, del 14 settembre 2009, per garantire il mantenimento delle scorte nazionali di prodotti petroliferi)); (87)(129) 
+                                    fatte salve le disposizioni stabilite per i singoli prodotti, a prestare cauzione nella misura del 10 per cento dell'imposta che grava sulla quantita' massima di prodotti che possono essere detenuti nel deposito fiscale, in relazione alla capacita' di stoccaggio dei serbatoi utilizzabili e, in ogni caso, l'importo della cauzione non puo' essere inferiore alla media aritmetica degli importi mensili dell'imposta dovuta sulle immissioni in consumo avvenute nei dodici mesi solari precedenti; il depositario autorizzato adegua la cauzione entro trenta giorni dal termine previsto per il pagamento dell'imposta dovuta sulle immissioni in consumo che hanno determinato la variazione dell'importo da prestare, dandone comunicazione all'Agenzia delle dogane e dei monopoli entro dieci giorni dalla data dell'adeguamento. Si applicano le disposizioni dell'articolo 64. In presenza di cauzione prestata da altri soggetti, la cauzione dovuta dal depositario si riduce di pari ammontare, fermo restando quanto previsto dall'articolo 2, comma 4, lettera a). Sono esonerate dall'obbligo di prestazione della cauzione le amministrazioni dello Stato e degli enti pubblici nonche' l'organismo centrale di stoccaggio istituito dallo Stato ai sensi della direttiva (UE) 2009/119/CE del Consiglio, del 14 settembre 2009, per garantire il mantenimento delle scorte nazionali di prodotti petroliferi; ((i prodotti soggetti ad accisa, detenuti dalle predette Amministrazioni presso depositi fiscali di terzi, non sono considerati al fine della determinazione della cauzione di cui alla presente lettera;)) (87)(129) 
 
                                 
                             
@@ -889,16 +889,16 @@ c) 100 per cento, per il SOAC di livello avanzato.))
                             
  Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
 
-## Art. 9-septies. — (( (Monitoraggio e revoca della qualifica di soggetto obbligato accreditato). ))
+## Art. 9-septies. — (Monitoraggio e revoca della qualifica di soggetto obbligato accreditato)
 
+L'Agenzia delle dogane e dei monopoli monitora la permanenza dei requisiti di ammissione di cui all'articolo 9-quater, i profili di affidabilita' e il relativo punteggio sintetico anche attraverso la richiesta di informazioni e documenti al SOAC, il quale provvede entro ((quarantacinque)) giorni dalla richiesta.
 
+Se dal monitoraggio emergono elementi o motivi che comportano il venir meno dei requisiti di ammissione di cui all'articolo 9-quater, delle condizioni per l'accesso alla qualifica di SOAC o dei profili di affidabilita' di cui all'articolo 9-quinquies oppure la modifica del livello di affidabilita' attribuito, l'Agenzia delle dogane e dei monopoli, con provvedimento motivato, e previo contraddittorio con l'interessato, revoca la qualifica di SOAC o ne ridetermina il livello di affidabilita' rimodulando i benefici gia' riconosciuti.
 
-((Se dal monitoraggio emergono elementi o motivi che comportano il venir meno dei requisiti di ammissione di cui all'articolo 9-quater, delle condizioni per l'accesso alla qualifica di SOAC o dei profili di affidabilita' di cui all'articolo 9-quinquies oppure la modifica del livello di affidabilita' attribuito, l'Agenzia delle dogane e dei monopoli, con provvedimento motivato, e previo contraddittorio con l'interessato, revoca la qualifica di SOAC o ne ridetermina il livello di affidabilita' rimodulando i benefici gia' riconosciuti.))
+Nel caso di persone giuridiche e di societa', la qualifica di cui all'articolo 9-ter, comma 1, e' revocata se le fattispecie di cui al comma 2 ricorrono con riferimento alle persone che rivestono funzioni di rappresentanza, di amministrazione o direzione, nonche' alle persone che ne esercitano, anche di fatto, la gestione e il controllo.
 
-((Nel caso di persone giuridiche e di societa', la qualifica di cui all'articolo 9-ter, comma 1, e' revocata se le fattispecie di cui al comma 2 ricorrono con riferimento alle persone che rivestono funzioni di rappresentanza, di amministrazione o direzione, nonche' alle persone che ne esercitano, anche di fatto, la gestione e il controllo.))
-
-((Nei casi, previsti dai commi 2 e 3, di variazione del livello di affidabilita' o di revoca della qualifica di SOAC, la cauzione dovuta e' adeguata rispettivamente entro trenta giorni dalla notifica del provvedimento di variazione del livello di affidabilita' o entro quindici giorni dalla notifica del provvedimento di revoca.))
-                                ((129))
+Nei casi, previsti dai commi 2 e 3, di variazione del livello di affidabilita' o di revoca della qualifica di SOAC, la cauzione dovuta e' adeguata rispettivamente entro trenta giorni dalla notifica del provvedimento di variazione del livello di affidabilita' o entro quindici giorni dalla notifica del provvedimento di revoca. 
+ (129)
 
 ---------------
                             AGGIORNAMENTO (129)
@@ -2225,7 +2225,7 @@ Non sono sottoposte ad accisa le miscele gassose di cui al comma 2, originate da
                                 
                                     al riempimento dei serbatoi di autoveicoli mediante impianti derivati dalla rete di distribuzione del medesimo gas a servizio degli immobili di cui al presente comma.
 
-Sono considerati usi non domestici gli impieghi del gas naturale diversi da quelli di cui al comma 4 nonche', limitatamente ai quantitativi di gas naturale utilizzati per la produzione di energia termica, l'impiego del gas naturale destinato alla combustione in impianti cogenerativi per teleriscaldamento che abbiano le caratteristiche tecniche di cui all'articolo 11, comma 2, lettera b), della legge 9 gennaio 1991, n. 10, anche se la rete di teleriscaldamento rifornisce utenze domestiche.
+Sono considerati usi non domestici gli impieghi del gas naturale diversi da quelli di cui al comma 4 nonche', limitatamente ai quantitativi di gas naturale utilizzati per la produzione di energia termica, l'impiego del gas naturale destinato alla combustione in impianti cogenerativi per teleriscaldamento che abbiano le caratteristiche tecniche di cui all'articolo 11, comma 2, lettera b), della legge 9 gennaio 1991, n. 10, anche se la rete di teleriscaldamento rifornisce utenze domestiche. ((Sono, inoltre, considerati usi non domestici gli impieghi del gas naturale, destinato alla combustione, nelle attivita' ricettive svolte da istituzioni finalizzate all'assistenza dei disabili, degli orfani, degli anziani e degli indigenti.))
 
 E' considerato uso promiscuo l'utilizzo contestuale del gas naturale, fornito a un unico punto di riconsegna, in impieghi differenti, con esclusione dell'uso per autotrazione, relativamente ai quali e' prevista l'applicazione di distinte aliquote di accisa, l'esenzione o la non sottoposizione ad accisa. In tale ipotesi il soggetto obbligato di cui al comma 7 applica, su richiesta del consumatore finale, l'accisa in relazione ai quantitativi di gas naturale utilizzati nei differenti impieghi.
 
@@ -2263,7 +2263,7 @@ E' considerato uso promiscuo l'utilizzo contestuale del gas naturale, fornito a 
                             
                                 b)
                                 
-                                    acquistano il gas naturale, confezionato in bombole o in altro recipiente, ((anche)) da altri Stati dell'Unione europea o da Paesi terzi; 
+                                    acquistano il gas naturale, confezionato in bombole o in altro recipiente, anche da altri Stati dell'Unione europea o da Paesi terzi; 
 
                                 
                             
@@ -3909,21 +3909,63 @@ E' considerato uso promiscuo l'utilizzo contestuale dell'energia elettrica, forn
                             
  Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-## Art. 53. — ((Soggetti obbligati))
+## Art. 53. — Soggetti obbligati
 
+Sono obbligati al pagamento dell'accisa, secondo le modalita' previste dall'articolo 55, con diritto di rivalsa sui consumatori finali, i soggetti che fatturano energia elettrica ai consumatori finali, comprese le societa' aventi sede legale nel territorio dello Stato che sono designate da soggetti di altri Paesi dell'Unione europea non aventi sede nel territorio dello Stato che forniscono l'energia elettrica direttamente a consumatori finali; le predette societa' designate hanno l'obbligo di registrarsi presso l'Agenzia delle dogane e dei monopoli prima dell'inizio dell'attivita' di fornitura.
 
+2.
+                        
+                            
+                                Sono altresi' obbligati al pagamento dell'accisa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli esercenti le officine di produzione di energia elettrica utilizzata per uso proprio; 
 
-((Sono altresi' obbligati al pagamento dell'accisa: 
- a) gli esercenti le officine di produzione di energia elettrica utilizzata per uso proprio; 
-b) i soggetti che utilizzano energia elettrica per uso proprio, con impiego promiscuo, con potenza disponibile superiore a 200 kW; 
-c) i soggetti che acquistano, per uso proprio, energia elettrica dal mercato elettrico di cui all'articolo 5, comma 1, del decreto legislativo 16 marzo 1999, n. 79, limitatamente al consumo di detta energia.))
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti che utilizzano energia elettrica per uso proprio, con impiego promiscuo, con potenza disponibile superiore a 200 kW; 
 
-((Previa istanza all'Agenzia delle dogane e dei monopoli sono riconosciuti soggetti obbligati i soggetti che acquistano, per uso proprio, energia elettrica: 
- a) utilizzata con impiego unico previa trasformazione o conversione comunque effettuata, con potenza disponibile superiore a 200 kW; 
-b) da due o piu' fornitori, qualora abbiano consumi mensili nello stesso sito superiori a 200.000 kWh.))
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti che acquistano, per uso proprio, energia elettrica dal mercato elettrico di cui all'articolo 5, comma 1, del decreto legislativo 16 marzo 1999, n. 79, limitatamente al consumo di detta energia.
 
-((Sono considerati consumatori finali dell'energia elettrica utilizzata per la ricarica degli accumulatori dei veicoli a trazione elettrica gli operatori dei punti di ricarica accessibili al pubblico.))
-                                ((129))
+3.
+                        
+                            
+                                Previa istanza all'Agenzia delle dogane e dei monopoli sono riconosciuti soggetti obbligati i soggetti che acquistano, per uso proprio, energia elettrica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzata con impiego unico previa trasformazione o conversione comunque effettuata, con potenza disponibile superiore a 200 kW; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da due o piu' fornitori, qualora abbiano consumi mensili nello stesso sito superiori a 200.000 kWh. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((per i consumi dei servizi ausiliari connessi alla produzione di un'officina elettrica, diversa da quelle di cui al comma 2, lettera a), collegata alla rete di trasmissione o distribuzione.))
+
+Sono considerati consumatori finali dell'energia elettrica utilizzata per la ricarica degli accumulatori dei veicoli a trazione elettrica gli operatori dei punti di ricarica accessibili al pubblico. 
+ (129)
 
 ---------------
                             AGGIORNAMENTO (129)
@@ -4018,18 +4060,18 @@ b) nei cui confronti e' stata pronunciata sentenza irrevocabile di condanna o se
                             
  Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-## Art. 56. — ((Particolari modalita' di pagamento dell'accisa))
+## Art. 56. — Particolari modalita' di pagamento dell'accisa
 
+I soggetti di cui all'articolo 53, comma 2, lettera a), esercenti officine elettriche non fornite di misuratori o di altri strumenti integratori della misura dell'energia elettrica consumata, corrispondono l'accisa dovuta mediante un canone annuo di abbonamento.
 
+Gli esercenti officine elettriche costituite da impianti di produzione combinata di energia elettrica e calore ((e impianti azionati da fonti rinnovabili ai sensi della normativa vigente)), con potenza elettrica disponibile non superiore a 100 kW, possono corrispondere l'imposta mediante canone annuo di abbonamento.
 
-((Gli esercenti officine elettriche costituite da impianti di produzione combinata di energia elettrica e calore, con potenza elettrica disponibile non superiore a 100 kW, possono corrispondere l'imposta mediante canone annuo di abbonamento.))
+I canoni di abbonamento di cui ai commi 1 e 2 sono determinati dall'Agenzia delle dogane e dei monopoli in base alla potenza elettrica disponibile delle relative officine elettriche e delle modalita' previste per il loro funzionamento.
 
-((I canoni di abbonamento di cui ai commi 1 e 2 sono determinati dall'Agenzia delle dogane e dei monopoli in base alla potenza elettrica disponibile delle relative officine elettriche e delle modalita' previste per il loro funzionamento.))
+Per le forniture di energia elettrica a cottimo, per usi soggetti ad accisa, i soggetti di cui all'articolo 53, comma 1, corrispondono l'accisa mediante un canone annuo stabilito dall'Agenzia delle dogane e dei monopoli in relazione alla potenza installata presso i consumatori, tenuti presente i contratti ed i dati di fatto riscontrati.
 
-((Per le forniture di energia elettrica a cottimo, per usi soggetti ad accisa, i soggetti di cui all'articolo 53, comma 1, corrispondono l'accisa mediante un canone annuo stabilito dall'Agenzia delle dogane e dei monopoli in relazione alla potenza installata presso i consumatori, tenuti presente i contratti ed i dati di fatto riscontrati.))
-
-((I soggetti di cui ai commi 1, 2 e 4, versano il canone annuo di abbonamento all'atto della stipula della convenzione e, per gli anni successivi, anticipatamente, entro il mese di gennaio di ciascun anno; i medesimi soggetti dichiarano all'Agenzia delle dogane e dei monopoli, anticipatamente, le variazioni che comportano un aumento superiore al 10 per cento del consumo preso a base nella determinazione del canone ai fini della sua revisione da parte dell'Agenzia. Non si da' luogo alla restituzione dell'accisa versata nel caso di cessazione dell'attivita' in corso d'anno.))
-                                ((129))
+I soggetti di cui ai commi 1, 2 e 4, versano il canone annuo di abbonamento all'atto della stipula della convenzione e, per gli anni successivi, anticipatamente, entro il mese di gennaio di ciascun anno; i medesimi soggetti dichiarano all'Agenzia delle dogane e dei monopoli, anticipatamente, le variazioni che comportano un aumento superiore al 10 per cento del consumo preso a base nella determinazione del canone ai fini della sua revisione da parte dell'Agenzia. Non si da' luogo alla restituzione dell'accisa versata nel caso di cessazione dell'attivita' in corso d'anno. 
+ (129)
 
 ---------------
                             AGGIORNAMENTO (129)
@@ -4183,7 +4225,8 @@ Le disposizioni del presente titolo, ad eccezione di quanto disposto dall'artico
                             
                                 c)
                                 
-                                    l'immissione in consumo si verifica: 
+                                    
+                                        ((fatto salvo quanto previsto dall'articolo 62, comma 7-bis,)) l'immissione in consumo si verifica: 
  1) per i prodotti nazionali, all'atto della cessione sia ai diretti utilizzatori o consumatori sia a ditte esercenti il commercio che ne effettuano la rivendita; 
  2) per i prodotti di provenienza comunitaria, all'atto del ricevimento della merce da parte del soggetto acquirente ovvero nel momento in cui si considera effettuata, ai fini dell'imposta sul valore aggiunto, la cessione, da parte del venditore residente in altro Stato membro, a privati consumatori o a soggetti che agiscono nell'esercizio di una impresa, arte o professione; 
  3) per i prodotti di provenienza da Paesi terzi, all'atto dell'importazione; 
@@ -4217,10 +4260,9 @@ Le disposizioni del presente titolo, ad eccezione di quanto disposto dall'artico
                                 
                                     per i tardivi pagamenti dell'imposta si applicano le indennita' di mora e gli interessi previsti nell'art. 3, comma 4.
 
-Per i tributi disciplinati dal presente titolo si applicano le disposizioni dell'articolo 3, comma 4, ((sesto periodo)), dell'articolo 4, dell'articolo 5, commi 3 e 4, dell'articolo 6, commi 5 e 13, dell'articolo 14, dell'articolo 15, dell'articolo 16, dell'articolo 17, dell'articolo 18 e dell'articolo 19. ((129))
+Per i tributi disciplinati dal presente titolo si applicano le disposizioni dell'articolo 3, comma 4, sesto periodo, dell'articolo 4, dell'articolo 5, commi 3 e 4, dell'articolo 6, commi 5 e 13, dell'articolo 14, dell'articolo 15, dell'articolo 16, dell'articolo 17, dell'articolo 18 e dell'articolo 19. (129)
 
-((L'Agenzia delle dogane e dei monopoli ha facolta' di esonerare i soggetti affidabili e di notoria solvibilita' esercenti fabbriche o depositi di prodotti di cui al presente titolo dall'obbligo di prestare cauzione, ai sensi dell'articolo 5, comma 3, lettera a). Tale esonero puo' essere revocato nel caso in cui mutino le condizioni che ne avevano consentito la concessione ed in tal caso la cauzione e' prestata entro quindici giorni dalla notifica della revoca.))
-                                ((129))
+L'Agenzia delle dogane e dei monopoli ha facolta' di esonerare i soggetti affidabili e di notoria solvibilita' esercenti fabbriche o depositi di prodotti di cui al presente titolo dall'obbligo di prestare cauzione, ai sensi dell'articolo 5, comma 3, lettera a). Tale esonero puo' essere revocato nel caso in cui mutino le condizioni che ne avevano consentito la concessione ed in tal caso la cauzione e' prestata entro quindici giorni dalla notifica della revoca. (129)
 
 L'inosservanza degli obblighi previsti dal comma 1, lettera d) e del divieto di estrazione di cui all'art. 3, comma 4, come richiamato al comma 2, indipendentemente dall'azione penale per le violazioni che costituiscono reato, comporta la revoca della licenza di cui al predetto comma 1, lettera d).
 
@@ -4239,30 +4281,60 @@ Con decreto del Ministro dell'economia e delle finanze, da emanare ai sensi dell
  Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
  Ha inoltre disposto (con l'art. 8, comma 5) che l'introduzione del comma 2-bis decorre dalla data di cui al comma 3 dell'art. 8 del suddetto D.Lgs. 28 marzo 2025, n. 43.
 
-## Art. 62. — ((Imposizione sugli oli lubrificanti, sui bitumi di petrolio ed altri prodotti))
+## Art. 62. — Imposizione sugli oli lubrificanti, sui bitumi di petrolio ed altri prodotti
 
-((Fermo restando quanto previsto dall'articolo 21, sono sottoposti ad imposta di consumo, con l'aliquota stabilita nell'allegato I: 
- a) gli oli lubrificanti (codice NC da 2710 19 81 a 2710 19 99), anche ottenuti dalla rigenerazione di oli usati derivanti da oli a base minerale o sintetica gia' immessi in consumo, qualora: 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 21, sono sottoposti ad imposta di consumo, con l'aliquota stabilita nell'allegato I: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli oli lubrificanti (codice NC da 2710 19 81 a 2710 19 99), anche ottenuti dalla rigenerazione di oli usati derivanti da oli a base minerale o sintetica gia' immessi in consumo, qualora: 
  1) destinati, messi in vendita o impiegati per usi diversi dalla combustione o carburazione; 
  2) utilizzati in miscela con i carburanti con funzione di lubrificazione; 
-b) i bitumi di petrolio (codice NC 2713 20 00).))
 
-((Fermo restando quanto previsto dall'articolo 21, gli oli minerali greggi (codice NC 2709 00), gli estratti aromatici (codice NC 2713 90 90), le miscele di alchilbenzoli sintetici (codice NC 3817 00) e i polimeri poliolefinici sintetici (codice NC 3902) sono sottoposti alla medesima imposizione prevista per gli oli lubrificanti, quando sono destinati, messi in vendita o usati per la lubrificazione meccanica. Ai fini dell'applicazione dell'imposta si considerano miscele di alchilbenzoli sintetici i miscugli di idrocarburi archilarilici aventi almeno una catena alchilica con otto o piu' atomi di carbonio, ottenuti per alchilazione del benzolo con procedimento di sintesi, liquide alla temperatura di 15° Celsius, contenenti anche impurezze purche' non superiori al 5 per cento in volume.))
+                                
+                            
+                            
+                                b)
+                                
+                                    i bitumi di petrolio (codice NC 2713 20 00).
 
-((L'imposta di consumo di cui al comma 1 si applica altresi' agli oli lubrificanti e ai bitumi, limitatamente al loro quantitativo e con l'applicazione delle rispettive aliquote indicate nell'allegato I, contenuti nelle preparazioni lubrificanti (codice NC 3403) e negli altri prodotti o merci definitivamente importati o provenienti da altri Stati membri dell'Unione europea.))
+Fermo restando quanto previsto dall'articolo 21, gli oli minerali greggi (codice NC 2709 00), gli estratti aromatici (codice NC 2713 90 90), le miscele di alchilbenzoli sintetici (codice NC 3817 00) e i polimeri poliolefinici sintetici (codice NC 3902) sono sottoposti alla medesima imposizione prevista per gli oli lubrificanti, quando sono destinati, messi in vendita o usati per la lubrificazione meccanica. Ai fini dell'applicazione dell'imposta si considerano miscele di alchilbenzoli sintetici i miscugli di idrocarburi archilarilici aventi almeno una catena alchilica con otto o piu' atomi di carbonio, ottenuti per alchilazione del benzolo con procedimento di sintesi, liquide alla temperatura di 15° Celsius, contenenti anche impurezze purche' non superiori al 5 per cento in volume.
 
-((Sono esenti dall'imposta di consumo gli oli lubrificanti utilizzati nei medesimi impieghi in relazione ai quali i prodotti energetici sono esenti dall'accisa, ai sensi della tabella A, punti 2 e 3, allegata al presente testo unico.))
+L'imposta di consumo di cui al comma 1 si applica altresi' agli oli lubrificanti e ai bitumi, limitatamente al loro quantitativo e con l'applicazione delle rispettive aliquote indicate nell'allegato I, contenuti nelle preparazioni lubrificanti (codice NC 3403) e negli altri prodotti o merci definitivamente importati o provenienti da altri Stati membri dell'Unione europea.
 
-((L'imposta di consumo non si applica: 
- a) ai bitumi utilizzati nella fabbricazione di pannelli in genere nonche' di manufatti per l'edilizia e a quelli impiegati come combustibile nei cementifici; 
-b) agli oli lubrificanti impiegati nella produzione e nella lavorazione della gomma naturale e sintetica per la fabbricazione dei relativi manufatti, nella produzione delle materie plastiche e delle resine artificiali o sintetiche, comprese le colle adesive, nella produzione degli antiparassitari per le piante da frutta e nei consumi di cui all'articolo 22, comma 1.))
+Sono esenti dall'imposta di consumo gli oli lubrificanti utilizzati nei medesimi impieghi in relazione ai quali i prodotti energetici sono esenti dall'accisa, ai sensi della tabella A, punti 2 e 3, allegata al presente testo unico.
 
-((Per i prodotti energetici ottenuti, congiuntamente agli oli lubrificanti, durante il processo di rigenerazione degli oli usati trovano applicazione le disposizioni di cui all'articolo 21; le medesime disposizioni non si applicano invece agli oli lubrificanti usati destinati alla combustione e ai prodotti energetici contenuti nei residui di lavorazione della rigenerazione degli oli lubrificanti.))
+5.
+                        
+                            
+                                L'imposta di consumo non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai bitumi utilizzati nella fabbricazione di pannelli in genere nonche' di manufatti per l'edilizia e a quelli impiegati come combustibile nei cementifici; 
 
-((Per la circolazione e per il deposito degli oli lubrificanti e dei bitumi assoggettati a imposta si applicano le disposizioni degli articoli 12 e 25. Ai fini dell'esecuzione degli inventari periodici dei prodotti di cui ai commi 1, lettera a), 2 e 3, e della determinazione delle giacenze fiscalmente rilevanti, e' consentita, previa approvazione dell'Agenzia delle dogane e dei monopoli, la tenuta delle contabilita' in forma aggregata di prodotti, sottoposti al medesimo trattamento tributario, che possono essere considerati omogenei.))
+                                
+                            
+                            
+                                b)
+                                
+                                    agli oli lubrificanti impiegati nella produzione e nella lavorazione della gomma naturale e sintetica per la fabbricazione dei relativi manufatti, nella produzione delle materie plastiche e delle resine artificiali o sintetiche, comprese le colle adesive, nella produzione degli antiparassitari per le piante da frutta e nei consumi di cui all'articolo 22, comma 1.
 
-((Le disposizioni attuative del presente articolo sono stabilite con uno o piu' decreti del Ministro dell'economia e delle finanze.))
-                                ((129))
+Per i prodotti energetici ottenuti, congiuntamente agli oli lubrificanti, durante il processo di rigenerazione degli oli usati trovano applicazione le disposizioni di cui all'articolo 21; le medesime disposizioni non si applicano invece agli oli lubrificanti usati destinati alla combustione e ai prodotti energetici contenuti nei residui di lavorazione della rigenerazione degli oli lubrificanti.
+
+Per la circolazione e per il deposito degli oli lubrificanti e dei bitumi assoggettati a imposta si applicano le disposizioni degli articoli 12 e 25. Ai fini dell'esecuzione degli inventari periodici dei prodotti di cui ai commi 1, lettera a), 2 e 3, e della determinazione delle giacenze fiscalmente rilevanti, e' consentita, previa approvazione dell'Agenzia delle dogane e dei monopoli, la tenuta delle contabilita' in forma aggregata di prodotti, sottoposti al medesimo trattamento tributario, che possono essere considerati omogenei.
+
+((Non sono considerati immessi in consumo i prodotti di cui ai commi 1, 2 e 3 ricevuti da altri Paesi dell'Unione europea o da Paesi terzi in impianti nazionali nei quali sono sottoposti a lavorazione o confezionamento; per tali prodotti l'immissione in consumo si verifica all'atto della cessione ai diretti utilizzatori o consumatori o a ditte esercenti il commercio che ne effettuano la rivendita.))
+
+Le disposizioni attuative del presente articolo sono stabilite con uno o piu' decreti del Ministro dell'economia e delle finanze. 
+ (129)
 
 ---------------
                             AGGIORNAMENTO (129)
@@ -4495,9 +4567,7 @@ Con determinazione del direttore dell'Agenzia delle dogane e dei monopoli sono s
  Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 6, comma 6) che "Il termine di scadenza delle autorizzazioni alla vendita dei prodotti contenenti nicotina di cui all'articolo 62-quater.1, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, per i soggetti che gestiscono gli esercizi di vicinato, le farmacie e le parafarmacie di cui al medesimo articolo 62-quater.1, comma 13, che risultano in corso di validita' alla data del 1° gennaio 2026, e' differito di due anni". 
  Ha inoltre disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-## Art. 62-quater.2. — (( (Prodotti da inalazione senza combustione costituiti da sostanze solide diverse dal tabacco). ))
-
-((
+## Art. 62-quater.2. — (Prodotti da inalazione senza combustione costituiti da sostanze solide diverse dal tabacco)
 
 I prodotti da inalazione senza combustione, costituiti da sostanze solide diverse dal tabacco, contenenti o meno nicotina, con esclusione di quelli autorizzati all'immissione in commercio come medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219, sono assoggettati a imposta di consumo nella stessa misura prevista dall'articolo 39-terdecies, comma 3, per i prodotti di cui all'articolo 39-bis, comma 1, lettera e-bis), nel rispetto del criterio di equivalenza ivi previsto. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma. Entro il 1° marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette.
 
@@ -4564,7 +4634,7 @@ I prodotti di cui al comma 1 destinati a essere immessi in consumo nel territori
                                 
                                     all'atto della definitiva importazione per i prodotti di cui al comma 1 provenienti da Stati non appartenenti all'Unione europea.
 
-Per i prodotti di cui al comma 1 si applicano, per la presentazione e la vendita, i requisiti di cui all'articolo 21, comma 6, lettera c), del decreto legislativo 12 gennaio 2016, n. 6, nonche' le disposizioni di cui ai commi 9 e 10 dell'articolo 21 del medesimo decreto; trovano altresi' applicazione, per la riduzione dell'offerta e la tutela dei minori, le disposizioni di cui all'articolo 24 del medesimo decreto legislativo. La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza dell'Agenzia delle dogane e dei monopoli ai sensi delle disposizioni di cui all'articolo 18, per quanto applicabili.
+Per i prodotti di cui al comma 1 si applicano, per la presentazione e la vendita, i requisiti di cui all'articolo 21, comma 6, lettera c), del decreto legislativo 12 gennaio 2016, n. 6, nonche' le disposizioni di cui ai commi 9 e 10 dell'articolo 21 del medesimo decreto; trovano altresi' applicazione, per la riduzione dell'offerta e la tutela dei minori, le disposizioni di cui all'articolo 24 del medesimo decreto legislativo. La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza dell'Agenzia delle dogane e dei monopoli ai sensi delle disposizioni di cui all'articolo 18, per quanto applicabili. ((Si applicano le disposizioni di cui all'articolo 50.))
 
 Il trasferimento dei prodotti di cui al comma 1 nella fase antecedente alla loro immissione in consumo e' consentito esclusivamente dal deposito del soggetto di cui al comma 2, lettera a), al deposito del soggetto di cui al comma 2, lettera b), numero 1).
 
@@ -4620,8 +4690,6 @@ Le disposizioni di cui all'articolo 62-quater, commi 7-bis, 7-bis.1, 7-bis.2 e 7
                                 
                                     la documentazione di accompagnamento e le modalita' per la circolazione dei prodotti di cui al comma 1 nella fase antecedente alla loro immissione in consumo.
 
-))
-
 ## Art. 62-quinquies. — (Imposta di consumo sui prodotti accessori ai tabacchi da fumo)
 
 Le cartine, le cartine arrotolate senza tabacco e i filtri funzionali ad arrotolare le sigarette sono assoggettati ad imposta di consumo in misura pari a euro 0,0036 il pezzo contenuto in ciascuna confezione destinata alla vendita al pubblico.
@@ -4636,8 +4704,6 @@ Con determinazione del direttore dell'Agenzia delle dogane e dei monopoli sono d
 
 E' vietata la vendita a distanza, anche transfrontaliera, di prodotti di cui al comma 1 ai consumatori che acquistano nel territorio dello Stato. L'Agenzia delle dogane e dei monopoli, fermi i poteri dell'autorita' e della polizia giudiziaria ove il fatto costituisca reato, comunica ai fornitori di connettivita' alla rete internet ovvero ai gestori di altre reti telematiche o di telecomunicazione o agli operatori che in relazione ad esse forniscono servizi telematici o di telecomunicazione, i siti web ai quali inibire l'accesso, attraverso le predette reti, offerenti prodotti di cui al comma 1.
 
-((
-
 Le disposizioni previste dagli articoli 84 e 85 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111, si applicano anche ai prodotti di cui al comma 1 secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 5 grammi di prodotti di cui al comma 1.
 
 Fuori dai casi di cui al comma 7, per le violazioni costituenti fattispecie di sottrazione dei prodotti di cui al comma 1 all'accertamento o al pagamento dell'imposta di consumo, si applicano le disposizioni di cui all'articolo 40-bis, commi 1, 2, 3 e 4, e 40-ter, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 5 grammi di prodotti di cui al comma 1. Per le medesime violazioni trova altresi' applicazione l'articolo 40-quater.
@@ -4646,7 +4712,8 @@ Si applicano le disposizioni di cui all'articolo 40-quinquies, quando le condott
 
 Ai prodotti di cui al comma 1 si applicano, inoltre, le disposizioni di cui agli articoli 40-sexies, 44, 44-bis e 44-ter.
 
-))
+((La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza dell'Amministrazione finanziaria, ai sensi delle disposizioni, per quanto applicabili, dell'articolo 18.
+Si applicano le disposizioni di cui all'articolo 50.))
 
 ## - TITOLO IV DISPOSIZIONI DIVERSE E FINALI
 
