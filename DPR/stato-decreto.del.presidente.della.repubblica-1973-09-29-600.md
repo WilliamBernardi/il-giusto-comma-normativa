@@ -8,9 +8,9 @@ codice_redazionale: 073U0600
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2026-05-23
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-12
+fetched_at: 2026-09-12
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -152,7 +152,8 @@ I soggetti di cui al comma 1 devono conservare, per il periodo previsto dall'art
 
 I sostituti d'imposta ed i soggetti comunque incaricati ai sensi dell'articolo 12 di trasmettere la dichiarazione all'Amministrazione finanziaria, possono trattare i dati connessi alle dichiarazioni per le sole finalita' di prestazione del servizio e per il tempo a cio' necessario, adottando specifiche misure individuate nelle convenzioni di cui al comma 11 del predetto articolo 12, volte ad assicurare la riservatezza e la sicurezza delle informazioni anche con riferimento ai soggetti da essi designati come responsabili o incaricati ai sensi della legge 31 dicembre 1996, n. 675. Con il decreto di cui al comma 11 dell'articolo 12 sono individuate, altresi', le modalita' per inserire nei modelli di dichiarazione l'informativa all'interessato e l'espressione del consenso relativo ai trattamenti, da parte dei soggetti di cui al precedente periodo, dei dati personali di cui all'articolo 22, comma 1, della legge 31 dicembre 1996, n. 675, connessi alle dichiarazioni.
 
-Limitatamente alle dichiarazioni presentate nel 1998, l'informativa di cui all'articolo 10 della legge 31 dicembre 1996, n. 675, s'intende resa attraverso i modelli di dichiarazione ed il consenso di cui al comma 1 e' validamente espresso con la sottoscrizione delle dichiarazioni.
+Limitatamente alle dichiarazioni presentate nel 1998, l'informativa di cui all'articolo 10 della legge 31 dicembre 1996, n. 
+675, s'intende resa attraverso i modelli di dichiarazione ed il consenso di cui al comma 1 e' validamente espresso con la sottoscrizione delle dichiarazioni.
 
 ))
 
@@ -160,17 +161,18 @@ Limitatamente alle dichiarazioni presentate nel 1998, l'informativa di cui all'a
 
 ## Art. 13. — Soggetti obbligati alla tenuta di scritture contabili
 
-Ai fini dell'accertamento sono obbligati alla tenuta di scritture contabili, secondo le disposizioni di questo titolo:
- a) le societa' soggette all'imposta sul reddito delle persone giuridiche;
- b) gli enti pubblici e privati diversi dalle societa', soggetti all'imposta sul reddito delle persone giuridiche, ((nonche' i trust,)) che hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali;
- c) le societa' in nome collettivo, le societa' in accomandita semplice e le societa' ad esse equiparate ai sensi dell'art. 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597;
- d) le persone fisiche che esercitano imprese commerciali ai sensi dell'art. 51 del decreto indicato alla lettera precedente.
- Sono inoltre obbligate alla tenuta di scritture contabili, a norma degli articoli 19 e 20:
- e) le persone fisiche che esercitano arti e professioni, ai sensi dell'art. 49, commi primo e secondo del decreto indicato al primo comma, lettera c);
- f) le societa' o associazioni fra artisti e professionisti di cui all'art. 5, lettera c), del decreto indicato alla precedente lettera;
- g) gli enti pubblici e privati diversi dalle societa', soggetti all'imposta sul reddito delle persone giuridiche, ((nonche' i trust,)) che non hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali.
- I soggetti obbligati ad operare ritenute alla fonte a titolo di acconto sui compensi corrisposti, di cui al successivo art. 21, devono tenere le scritture ivi indicate ai fini dell'accertamento del reddito dei percipienti.
- I soggetti i quali, fuori dell'ipotesi di cui all'art. 28, lettera b), del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, svolgono attivita' di allevamento di animali, devono tenere le scritture contabili indicate nell'art. 18-bis.
+Ai fini dell'accertamento sono obbligati alla tenuta di scritture contabili, secondo le disposizioni di questo titolo: 
+ a) le societa' soggette all'imposta sul reddito delle persone giuridiche; 
+ b) gli enti pubblici e privati diversi dalle societa', soggetti all'imposta sul reddito delle persone giuridiche, ((nonche' i trust,)) che hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali; 
+ c) le societa' in nome collettivo, le societa' in accomandita semplice e le societa' ad esse equiparate ai sensi dell'art. 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597; 
+ d) le persone fisiche che esercitano imprese commerciali ai sensi dell'art. 51 del decreto indicato alla lettera precedente. 
+ Sono inoltre obbligate alla tenuta di scritture contabili, a norma degli articoli 19 e 20: 
+ e) le persone fisiche che esercitano arti e professioni, ai sensi dell'art. 49, commi primo e secondo del decreto indicato al primo comma, lettera c); 
+ f) le societa' o associazioni fra artisti e professionisti di cui all'art. 5, lettera c), del decreto indicato alla precedente lettera; 
+ g) gli enti pubblici e privati diversi dalle societa', soggetti all'imposta sul reddito delle persone giuridiche, ((nonche' i trust,)) che non hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali. 
+ I soggetti obbligati ad operare ritenute alla fonte a titolo di acconto sui compensi corrisposti, di cui al successivo art. 21, devono tenere le scritture ivi indicate ai fini dell'accertamento del reddito dei percipienti. 
+ I soggetti i quali, fuori dell'ipotesi di cui all'art. 28, lettera b), del decreto del Presidente della Repubblica 29 settembre 1973, n. 
+597, svolgono attivita' di allevamento di animali, devono tenere le scritture contabili indicate nell'art. 18-bis.
 
 ## Art. 14. — Scritture contabili delle imprese commerciali, delle societa' e degli enti equiparati
 
@@ -265,9 +267,10 @@ Ai fini del presente articolo si assumono come ricavi conseguiti nel periodo d'i
                             
  La L. 11 dicembre 2016, n. 232 ha disposto (con l'art. 1, comma 23) che la presente modifica decorre dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
 
-## Art. 18-bis. — ((Scritture contabili delle imprese di allevamento.
-
- I soggetti i quali, fuori dell'ipotesi di cui all'art. 28, lettera b), del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, svolgono attivita' di allevamento di animali devono tenere un registro cronologico di carico e scarico degli animali allevati, distintamente per specie e ciclo di allevamento, con l'indicazione degli incrementi e decrementi verificatisi per qualsiasi causa nel periodo d'imposta))
+## Art. 18-bis. — ((Scritture contabili delle imprese di allevamento. 
+ 
+ I soggetti i quali, fuori dell'ipotesi di cui all'art. 28, lettera b), del decreto del Presidente della Repubblica 29 settembre 1973, n. 
+597, svolgono attivita' di allevamento di animali devono tenere un registro cronologico di carico e scarico degli animali allevati, distintamente per specie e ciclo di allevamento, con l'indicazione degli incrementi e decrementi verificatisi per qualsiasi causa nel periodo d'imposta))
 
 ## Art. 18-ter. — (((Scritture contabili per le altre attivita' agricole). ))
 
@@ -279,23 +282,25 @@ I soggetti che si avvalgono dei regimi di cui all'articolo 56-bis del decreto de
 
 ## Art. 19. — Scritture contabili degli esercenti arti e professioni
 
-Le persone fisiche che esercitano arti e professioni e le societa' o associazioni fra artisti e professionisti di cui alle lettere e) ed f), dell'art. 13, devono annotare cronologicamente in un apposito registro le somme percepite sotto qualsiasi forma e denominazione nell'esercizio dell'arte o della professione, anche a' titolo di partecipazione agli utili, indicando per ciascuna riscossione:
- a) il relativo importo, al lordo e al netto della parte che costituisce rimborso di spese diverse da quelle inerenti alla produzione del reddito eventualmente anticipate per conto del soggetto che ha effettuato il pagamento, e l'ammontare della ritenuta d'acconto subita;
- b) le generalita', il comune di residenza anagrafica e l'indirizzo del soggetto che ha effettuato il pagamento;
- c) gli estremi della fattura, parcella, nota o altro documento emesso.
- Nello stesso registro devono essere annotate cronologicamente, con le indicazioni di cui alle lettere b) e c), le spese inerenti all'esercizio dell'arte o professione delle quali si richiede la deduzione analitica ai sensi dell'art. 50 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597. Deve esservi inoltre annotato, entro il termine stabilito per la presentazione della dichiarazione, il valore dei beni per i quali si richiede la deduzione di quote di ammortamento ai sensi del detto articolo, raggruppati in categorie omogenee e distinti per anno di acquisizione.
- I soggetti di cui al primo comma sono obbligati a tenere uno o piu' conti correnti bancari o postali ai quali affluiscono, obbligatoriamente, le somme riscosse nell'esercizio dell'attivita' e dai quali sono effettuati i prelevamenti per il pagamento delle spese.
- I compensi in denaro per l'esercizio di arti e professioni sono riscossi esclusivamente mediante assegni non trasferibili o bonifici ovvero altre modalita' di pagamento bancario o postale nonche' mediante sistemi di pagamento elettronico, salvo per importi unitari inferiori a 100 euro. (95) ((96))
- COMMA ABROGATO DAL D.P.R. 9 DICEMBRE 1996, N.695.
- COMMA ABROGATO DAL D.P.R. 9 DICEMBRE 1996, N.695.
+Le persone fisiche che esercitano arti e professioni e le societa' o associazioni fra artisti e professionisti di cui alle lettere e) ed f), dell'art. 13, devono annotare cronologicamente in un apposito registro le somme percepite sotto qualsiasi forma e denominazione nell'esercizio dell'arte o della professione, anche a' titolo di partecipazione agli utili, indicando per ciascuna riscossione: 
+ a) il relativo importo, al lordo e al netto della parte che costituisce rimborso di spese diverse da quelle inerenti alla produzione del reddito eventualmente anticipate per conto del soggetto che ha effettuato il pagamento, e l'ammontare della ritenuta d'acconto subita; 
+ b) le generalita', il comune di residenza anagrafica e l'indirizzo del soggetto che ha effettuato il pagamento; 
+ c) gli estremi della fattura, parcella, nota o altro documento emesso. 
+ Nello stesso registro devono essere annotate cronologicamente, con le indicazioni di cui alle lettere b) e c), le spese inerenti all'esercizio dell'arte o professione delle quali si richiede la deduzione analitica ai sensi dell'art. 50 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597. Deve esservi inoltre annotato, entro il termine stabilito per la presentazione della dichiarazione, il valore dei beni per i quali si richiede la deduzione di quote di ammortamento ai sensi del detto articolo, raggruppati in categorie omogenee e distinti per anno di acquisizione. 
+ I soggetti di cui al primo comma sono obbligati a tenere uno o piu' conti correnti bancari o postali ai quali affluiscono, obbligatoriamente, le somme riscosse nell'esercizio dell'attivita' e dai quali sono effettuati i prelevamenti per il pagamento delle spese. 
+ I compensi in denaro per l'esercizio di arti e professioni sono riscossi esclusivamente mediante assegni non trasferibili o bonifici ovvero altre modalita' di pagamento bancario o postale nonche' mediante sistemi di pagamento elettronico, salvo per importi unitari inferiori a 100 euro. (95) ((96)) 
+ COMMA ABROGATO DAL D.P.R. 9 DICEMBRE 1996, N.695. 
+ COMMA ABROGATO DAL D.P.R. 9 DICEMBRE 1996, N.695. 
  Con decreti del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale, possono essere stabiliti appositi modelli dei registri di cui al comma precedente con classificazione delle categorie di componenti positivi e negativi rilevanti ai fini della determinazione del reddito, individuate anche in relazione a quelle risultanti dai modelli di dichiarazione dei redditi e possono essere prescritte particolari modalita' per la tenuta meccanografica del registro.
 
 ---------------
                             AGGIORNAMENTO (95)
-                             Il D.L. 4 luglio 2006, n.223 convertito con modificazioni dalla L. 4 agosto 2006, n. 248 ha disposto (con l'art. 35 comma 12-bis) che "Il limite di 100 euro di cui al quarto comma dell'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, introdotto dal comma 12 del presente articolo, si applica a decorrere dal 1° luglio 2008. Dalla data di entrata in vigore della legge di conversione del presente decreto e fino al 30 giugno 2007 il limite e' stabilito in 1.000 euro. Dal 1° luglio 2007 al 30 giugno 2008 il limite e' stabilito in 500 euro."
+                            
+ Il D.L. 4 luglio 2006, n.223 convertito con modificazioni dalla L. 4 agosto 2006, n. 248 ha disposto (con l'art. 35 comma 12-bis) che "Il limite di 100 euro di cui al quarto comma dell'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, introdotto dal comma 12 del presente articolo, si applica a decorrere dal 1° luglio 2008. Dalla data di entrata in vigore della legge di conversione del presente decreto e fino al 30 giugno 2007 il limite e' stabilito in 1.000 euro. Dal 1° luglio 2007 al 30 giugno 2008 il limite e' stabilito in 500 euro." 
                             ---------------
                             AGGIORNAMENTO (96)
-                             Il D.L. 4 luglio 2006, n.223 convertito con modificazioni dalla L. 4 agosto 2006, n. 248 come modificato dalla L. 27 dicembre 2006, n.296 ha disposto (con l'art. 35 comma 12-bis) che "Il limite di 100 euro di cui al quarto comma dell'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, introdotto dal comma 12 del presente articolo, si applica a decorrere dal 1° luglio 2009. Dalla data di entrata in vigore della legge di conversione del presente decreto e sino al 30 giugno 2008 il limite e' stabilito in 1.000 euro. Dal 1° luglio 2008 al 30 giugno 2009 il limite e' stabilito in 500 euro. Entro il 31 gennaio 2008 il Ministro dell'economia e delle finanze presenta al Parlamento una relazione sull'applicazione del presente comma. Il Ministro dell'economia e delle finanze e' autorizzato ad emanare apposito decreto che individua le condizioni impeditive del soggetto tenuto al pagamento, che consentono di derogare ai limiti indicati nel presente comma."
+                            
+ Il D.L. 4 luglio 2006, n.223 convertito con modificazioni dalla L. 4 agosto 2006, n. 248 come modificato dalla L. 27 dicembre 2006, n.296 ha disposto (con l'art. 35 comma 12-bis) che "Il limite di 100 euro di cui al quarto comma dell'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, introdotto dal comma 12 del presente articolo, si applica a decorrere dal 1° luglio 2009. Dalla data di entrata in vigore della legge di conversione del presente decreto e sino al 30 giugno 2008 il limite e' stabilito in 1.000 euro. Dal 1° luglio 2008 al 30 giugno 2009 il limite e' stabilito in 500 euro. Entro il 31 gennaio 2008 il Ministro dell'economia e delle finanze presenta al Parlamento una relazione sull'applicazione del presente comma. Il Ministro dell'economia e delle finanze e' autorizzato ad emanare apposito decreto che individua le condizioni impeditive del soggetto tenuto al pagamento, che consentono di derogare ai limiti indicati nel presente comma."
 
 ## Art. 20. — Scritture contabili degli enti non commerciali
 
@@ -528,7 +533,7 @@ I soggetti indicati nel primo comma dell'articolo 23, escluse le imprese agricol
  La ritenuta e' commisurata al cinquanta per cento dell'ammontare delle provvigioni indicate nel primo comma. Se i percipienti dichiarano ai loro committenti, preponenti o mandanti che nell'esercizio della loro attivita' si avvalgono in via continuativa dell'opera di dipendenti o di terzi, la ritenuta e' commisurata al venti per cento dell'ammontare delle stesse provvigioni. 
  La ritenuta di cui ai commi precedenti e' scomputata dall'imposta relativa al periodo di imposta di competenza, purche' gia' operata al momento della presentazione della dichiarazione annuale, o, alternativamente, dall'imposta relativa al periodo di imposta nel quale e' stata operata. Qualora la ritenuta sia operata successivamente, la stessa e' scomputata dall'imposta relativa al periodo di imposta in cui e' stata effettuata. 
  Se le provvigioni, per disposizioni normative o accordi contrattuali, sono direttamente trattenute sull'ammontare delle somme riscosse, i percipienti sono tenuti a rimettere ai committenti, preponenti o mandanti l'importo corrispondente alla ritenuta. Ai fini del computo dei termini per il relativo versamento da parte dei committenti, preponenti o mandanti, la ritenuta si considera operata nel mese successivo a quello in cui le provvigioni sono state trattenute dai percipienti. I committenti, preponenti o mandanti possono tener conto di eventuali errori nella determinazione dell'importo della ritenuta anche in occasione di successivi versamenti, non oltre il terzo mese dell'anno successivo a quello in cui le provvigioni sono state trattenute dai percipienti. 
- Le disposizioni dei precedenti commi non si applicano alle provvigioni percepite dai rivenditori autorizzati di documenti di viaggio relativi ai trasporti di persone, dai soggetti che esercitano attivita' di distribuzione di pellicole cinematografiche, dalle aziende ed istituti di credito e dalle societa' finanziarie e di locazione finanziaria per le prestazioni rese nell'esercizio delle attivita' di collocamento e di compravendita di titoli e valute nonche' di raccolta e di finanziamento, dai mediatori e rappresentanti di produttori agricoli ed ittici e di imprese esercenti la pesca marittima, dai commissionari che operano nei mercati ortoflorofrutticoli, ittici e di bestiame, nonche' dai consorzi e cooperative tra imprese agricole, commerciali ed artigiane non aventi finalita' di lucro. (176) (190) ((191)) 
+ Le disposizioni dei precedenti commi non si applicano alle provvigioni percepite dai rivenditori autorizzati di documenti di viaggio relativi ai trasporti di persone, ((nonche' dalle agenzie di viaggio e turismo, limitatamente ai compensi comunque denominati percepiti per la vendita, l'emissione, la prenotazione o l'intermediazione dei medesimi documenti di viaggio,)) dai soggetti che esercitano attivita' di distribuzione di pellicole cinematografiche, dalle aziende ed istituti di credito e dalle societa' finanziarie e di locazione finanziaria per le prestazioni rese nell'esercizio delle attivita' di collocamento e di compravendita di titoli e valute nonche' di raccolta e di finanziamento, dai mediatori e rappresentanti di produttori agricoli ed ittici e di imprese esercenti la pesca marittima, dai commissionari che operano nei mercati ortoflorofrutticoli, ittici e di bestiame, nonche' dai consorzi e cooperative tra imprese agricole, commerciali ed artigiane non aventi finalita' di lucro. (176) (190) (191) 
  Per le prestazioni rese dagli incaricati alle vendite a domicilio di cui all'articolo 19 del decreto legislativo 31 marzo 1998, n. 114, la ritenuta e' applicata a titolo d'imposta ed e' commisurata all'ammontare delle provvigioni percepite ridotto del 22 per cento a titolo di deduzione forfetaria delle spese di produzione del reddito.
 Per le prestazioni derivanti da mandato di agenzia si applicano le disposizioni indicate nei commi che precedono. 
  Con decreto del Ministro dell'economia e delle finanze sono determinati i criteri, i termini e le modalita' per la presentazione della dichiarazione indicata nel secondo comma. Tali modalita' devono prevedere la trasmissione anche tramite posta elettronica certificata della predetta dichiarazione. La dichiarazione non potra' avere limiti di tempo e sara' valida fino a revoca ovvero fino alla perdita dei requisiti da parte del contribuente. L'omissione della comunicazione relativa alle variazioni che comportano il venir meno delle predette condizioni comporta l'applicazione delle sanzioni previste dall'articolo 11, del decreto legislativo 18 dicembre 1997, n. 471, e successive modificazioni. 
@@ -1567,9 +1572,9 @@ Per l'esecuzione di accessi, ispezioni e verifiche si applicano le disposizioni 
 
 ## Art. 36. — Comunicazione di violazioni tributarie
 
-COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N.340.
- COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N.340.
- COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N.340.
+COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N.340. 
+ COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N.340. 
+ COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N.340. 
  I soggetti pubblici incaricati istituzionalmente di svolgere attivita' ispettive o di vigilanza ((nonche' gli organi giurisdizionali, requirenti e giudicanti, penali, civili e amministrativi e, previa autorizzazione, gli organi di polizia giudiziaria)) che, a causa o nell'esercizio delle loro funzioni, vengono a conoscenza di fatti che possono configurarsi come violazioni tributarie devono comunicarli direttamente ovvero, ove previste, secondo le modalita' stabilite da leggi o norme regolamentari per l'inoltro della denuncia penale, al comando della Guardia di finanza competente in relazione al luogo di rilevazione degli stessi, fornendo l'eventuale documentazione atta a comprovarli.
 
 ## Art. 36-bis. — (Liquidazioni delle imposte, dei contributi, dei premi e dei rimborsi dovuti in base alle dichiarazioni)
@@ -1845,11 +1850,10 @@ Il reddito d'impresa dei soggetti indicati nel quarto comma dell'art. 18, che no
 
 ## Art. 40. — Rettifica delle dichiarazioni dei soggetti diversi dalle persone fisiche
 
-Alla rettifica delle dichiarazioni presentate dai soggetti all'imposta sul reddito delle persone giuridiche si procede con unico atto agli effetti di tale imposta e dell'imposta locale sui redditi, con riferimento unitario al reddito complessivo imponibile ma tenendo distinti i redditi fondiari. Per quanto concerne il reddito complessivo imponibile si applicano le disposizioni dell'articolo 39 relative al reddito d'impresa, con riferimento al bilancio o rendiconto e se del caso ai prospetti di cui all'art. 5 e tenendo presenti, ai fini della lettera b) del secondo comma dell'art. 39, anche le disposizioni del decreto del Presidente della Repubblica 29 settembre 1973, n. 598, concernenti la determinazione del reddito complessivo imponibile.
+Alla rettifica delle dichiarazioni presentate dai soggetti all'imposta sul reddito delle persone giuridiche si procede con unico atto agli effetti di tale imposta e dell'imposta locale sui redditi, con riferimento unitario al reddito complessivo imponibile ma tenendo distinti i redditi fondiari. Per quanto concerne il reddito complessivo imponibile si applicano le disposizioni dell'articolo 39 relative al reddito d'impresa, con riferimento al bilancio o rendiconto e se del caso ai prospetti di cui all'art. 5 e tenendo presenti, ai fini della lettera b) del secondo comma dell'art. 39, anche le disposizioni del decreto del Presidente della Repubblica 29 settembre 1973, n. 598, concernenti la determinazione del reddito complessivo imponibile. 
  Alla rettifica delle dichiarazioni presentate dalle societa' e associazioni indicate nell'art. 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, si procede con unico atto ai fini dell'imposta locale sui redditi dovuta dalle societa' stesse e ai fini delle imposte sul reddito delle persone fisiche o delle persone giuridiche dovute dai singoli soci o associati. Si applicano le disposizioni del primo comma del presente articolo o quelle dell'art. 38 secondo che si tratti di societa' in nome collettivo, in accomandita semplice ed equiparate ovvero di societa' semplici o di societa' o associazioni equiparate.
 
-## Art. 40-bis. — (( Rettifica delle dichiarazioni dei soggetti aderenti
- al consolidato nazionale ))
+## Art. 40-bis. — (( Rettifica delle dichiarazioni dei soggetti aderenti al consolidato nazionale ))
 
 ((
 
@@ -1868,14 +1872,16 @@ Le attivita' di controllo della dichiarazione dei redditi del consolidato e le r
 
 ---------------
                             AGGIORNAMENTO (107)
-                             il D.L. 31 maggio 2010, n. 78, convertito, con modificazioni, dalla L. 30 luglio 2010, n. 122 ha disposto (con l'art. 35, comma 4) che "Le disposizioni di cui ai commi precedenti entrano in vigore il 1° gennaio 2011, con riferimento ai periodi di imposta per i quali, alla predetta data, sono ancora pendenti i termini di cui all'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600."
+                            
+ il D.L. 31 maggio 2010, n. 78, convertito, con modificazioni, dalla L. 30 luglio 2010, n. 122 ha disposto (con l'art. 35, comma 4) che "Le disposizioni di cui ai commi precedenti entrano in vigore il 1° gennaio 2011, con riferimento ai periodi di imposta per i quali, alla predetta data, sono ancora pendenti i termini di cui all'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 
+600."
 
 ## Art. 41. — Accertamento d'ufficio
 
-Gli uffici delle imposte procedono all'accertamento d'ufficio nei casi di omessa presentazione della dichiarazione o di presentazione di dichiarazioni nulle ai sensi delle disposizioni del titolo I.
- Nelle ipotesi di cui al precedente comma l'ufficio determina il reddito complessivo del contribuente, e in quanto possibile i singoli redditi delle persone fisiche soggetti all'imposta locale sui redditi, sulla base dei dati e delle notizie comunque raccolti o venuti a sua conoscenza, con facolta' di avvalersi anche di presunzioni prive dei requisiti di cui al terzo comma dell'art. 38 e di prescindere in tutto o in parte dalle risultanze della dichiarazione, se presentata, e dalle eventuali scritture contabili del contribuente ancorche' regolarmente tenute.
- I redditi fondiari sono in ogni caso determinati in base alle risultanze catastali.
- Se il reddito complessivo e' determinato sinteticamente, non sono deducibili gli oneri di cui all'articolo 10 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597. Si applica il quinto comma dell'articolo 38.
+Gli uffici delle imposte procedono all'accertamento d'ufficio nei casi di omessa presentazione della dichiarazione o di presentazione di dichiarazioni nulle ai sensi delle disposizioni del titolo I. 
+ Nelle ipotesi di cui al precedente comma l'ufficio determina il reddito complessivo del contribuente, e in quanto possibile i singoli redditi delle persone fisiche soggetti all'imposta locale sui redditi, sulla base dei dati e delle notizie comunque raccolti o venuti a sua conoscenza, con facolta' di avvalersi anche di presunzioni prive dei requisiti di cui al terzo comma dell'art. 38 e di prescindere in tutto o in parte dalle risultanze della dichiarazione, se presentata, e dalle eventuali scritture contabili del contribuente ancorche' regolarmente tenute. 
+ I redditi fondiari sono in ogni caso determinati in base alle risultanze catastali. 
+ Se il reddito complessivo e' determinato sinteticamente, non sono deducibili gli oneri di cui all'articolo 10 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597. Si applica il quinto comma dell'articolo 38. 
  Agli effetti dell'imposta locale sui redditi, il reddito complessivo delle persone fisiche determinato d'ufficio senza attribuzione totale o parziale alle categorie di redditi indicate nell'art. 6 del decreto indicato nel precedente comma e' considerato reddito di capitale, salvo il disposto del terzo comma.
 
 ## Art. 41-bis. — (Accertamento parziale)
@@ -1915,9 +1921,15 @@ Gli accertamenti in rettifica e gli accertamenti d'ufficio sono portati a conosc
 
 Gli avvisi di accertamento devono essere notificati, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui e' stata presentata la dichiarazione. (140)(151) (152)
 
-Nei casi di omessa presentazione della dichiarazione o di presentazione di dichiarazione nulla l'avviso di accertamento puo' essere notificato entro il 31 dicembre del settimo anno successivo a quello in cui la dichiarazione avrebbe dovuto essere presentata. (140)
+Nei casi di omessa presentazione della dichiarazione o di presentazione di dichiarazione nulla l'avviso di accertamento puo' essere notificato entro il 31 dicembre del settimo anno successivo a quello in cui la dichiarazione avrebbe dovuto essere presentata. (140) 
+ 1-bis. ((Per i componenti negativi del reddito d'impresa a efficacia pluriennale, fatta eccezione per quelli relativi a operazioni inesistenti, il termine di cui al comma 1 decorre a partire dalla dichiarazione relativa al periodo d'imposta nel quale, per la prima volta, una quota di detti componenti e' stata dedotta.
+Intervenuta la notifica dell'avviso di accertamento, per il periodo d'imposta in corso al momento della notifica, per quello precedente e per quelli successivi, si applica il comma 1. Restano fermi i poteri di controllo sulla spettanza dei rimborsi eventualmente richiesti.
+Resta inoltre ferma l'applicazione dell'articolo 1, comma 640, lettera b), della legge 23 dicembre 2014, n. 190.))
+                                ((194)) 
+ 1-ter. ((Con riferimento alle quote di ammortamento dei beni materiali e immateriali, nonche' alle quote delle spese relative a piu' esercizi, la disposizione del comma 1-bis si applica per le violazioni riscontrabili al momento dell'acquisto del bene o del sostenimento della spesa.))
+                                ((194))
 
-((Gli avvisi di accertamento aventi ad oggetto il recupero delle somme relative a misure di natura fiscale che costituiscono aiuti di Stato e aiuti de minimis non subordinati all'emanazione di provvedimenti di concessione ovvero subordinati all'emanazione di provvedimenti di concessione o di autorizzazione alla fruizione comunque denominati, il cui importo non e' determinabile nei predetti provvedimenti, ma solo a seguito della presentazione della dichiarazione resa a fini fiscali nella quale sono dichiarati, di cui all'articolo 10 del decreto del Ministro dello sviluppo economico 31 maggio 2017, n. 115, devono essere notificati a pena di decadenza entro il 31 dicembre dell'ottavo anno successivo a quello in cui e' stata presentata la dichiarazione.))
+Gli avvisi di accertamento aventi ad oggetto il recupero delle somme relative a misure di natura fiscale che costituiscono aiuti di Stato e aiuti de minimis non subordinati all'emanazione di provvedimenti di concessione ovvero subordinati all'emanazione di provvedimenti di concessione o di autorizzazione alla fruizione comunque denominati, il cui importo non e' determinabile nei predetti provvedimenti, ma solo a seguito della presentazione della dichiarazione resa a fini fiscali nella quale sono dichiarati, di cui all'articolo 10 del decreto del Ministro dello sviluppo economico 31 maggio 2017, n. 115, devono essere notificati a pena di decadenza entro il 31 dicembre dell'ottavo anno successivo a quello in cui e' stata presentata la dichiarazione.
 
 Fino alla scadenza del termine stabilito nei commi precedenti l'accertamento puo' essere integrato o modificato in aumento mediante la notificazione di nuovi avvisi, in base alla sopravvenuta conoscenza di nuovi elementi da parte dell'Agenzia delle entrate.
 Nell'avviso devono essere specificamente indicati, a pena di nullita', i nuovi elementi e gli atti o fatti attraverso i quali sono venuti a conoscenza dell'ufficio delle imposte. 
@@ -1997,7 +2009,11 @@ Nell'avviso devono essere specificamente indicati, a pena di nullita', i nuovi e
                             ---------------
                             AGGIORNAMENTO (183)
                             
- Il D.L. 9 agosto 2024, n. 113, convertito con modificazioni dalla L. 7 ottobre 2024, n. 143, ha disposto (con l'art. 2-quater, comma 14) che "In deroga all'articolo 3, comma 3, della legge 27 luglio 2000, n. 212, per i soggetti a cui si applicano gli indici sintetici di affidabilita' fiscale che aderiscono al concordato preventivo biennale e che hanno adottato, per una o piu' annualita' tra i periodi d'imposta 2018, 2019, 2020 e 2021, il regime di ravvedimento di cui al comma 1 del presente articolo, i termini di decadenza per l'accertamento, di cui all'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e all'articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, relativi alle annualita' oggetto di ravvedimento sono prorogati al 31 dicembre 2027. In ogni caso, per i soggetti a cui si applicano gli indici sintetici di affidabilita' fiscale che aderiscono al concordato preventivo biennale i termini di decadenza per l'accertamento, di cui all'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e all'articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in scadenza al 31 dicembre 2024 sono prorogati al 31 dicembre 2025".
+ Il D.L. 9 agosto 2024, n. 113, convertito con modificazioni dalla L. 7 ottobre 2024, n. 143, ha disposto (con l'art. 2-quater, comma 14) che "In deroga all'articolo 3, comma 3, della legge 27 luglio 2000, n. 212, per i soggetti a cui si applicano gli indici sintetici di affidabilita' fiscale che aderiscono al concordato preventivo biennale e che hanno adottato, per una o piu' annualita' tra i periodi d'imposta 2018, 2019, 2020 e 2021, il regime di ravvedimento di cui al comma 1 del presente articolo, i termini di decadenza per l'accertamento, di cui all'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e all'articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, relativi alle annualita' oggetto di ravvedimento sono prorogati al 31 dicembre 2027. In ogni caso, per i soggetti a cui si applicano gli indici sintetici di affidabilita' fiscale che aderiscono al concordato preventivo biennale i termini di decadenza per l'accertamento, di cui all'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e all'articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in scadenza al 31 dicembre 2024 sono prorogati al 31 dicembre 2025". 
+                            ---------------
+                            AGGIORNAMENTO (194)
+                            
+ Il D.Lgs. 7 agosto 2026, n. 148, ha disposto che "Il presente articolo si applica ai beni e servizi acquistati a partire dal periodo di imposta in corso al 31 dicembre 2027".
 
 ## Art. 44. — Partecipazione dei comuni all'accertamento
 
@@ -2272,9 +2288,9 @@ Chi in forza di disposizioni di legge e' obbligato al pagamento di imposte in lu
 
 ## Art. 65. — Eredi del contribuente
 
-Gli eredi rispondono in solido delle obbligazioni tributarie il cui presupposto si e' verificato anteriormente alla morte del dante causa.
- Gli eredi del contribuente devono comunicare all'ufficio delle imposte del domicilio fiscale del dante causa le proprie generalita' e il proprio domicilio fiscale. La comunicazione puo' essere presentata direttamente all'ufficio o trasmessa mediante lettera raccomandata con avviso di ricevimento, nel qual caso si intende fatta nel giorno di spedizione.
- Tutti i termini pendenti alla data della morte del contribuente o scadenti entro quattro mesi da essa, compresi il termine per la presentazione della dichiarazione e il termine per ricorrere contro l'accertamento, sono prorogati di sei mesi in favore degli eredi. ((I soggetti incaricati dagli eredi, ai sensi del comma 2 dell'articolo 12, devono trasmettere in via telematica la dichiarazione entro il mese di gennaio dell'anno successivo a quello in cui e' scaduto il termine prorogato.))
+Gli eredi rispondono in solido delle obbligazioni tributarie il cui presupposto si e' verificato anteriormente alla morte del dante causa. 
+ Gli eredi del contribuente devono comunicare all'ufficio delle imposte del domicilio fiscale del dante causa le proprie generalita' e il proprio domicilio fiscale. La comunicazione puo' essere presentata direttamente all'ufficio o trasmessa mediante lettera raccomandata con avviso di ricevimento, nel qual caso si intende fatta nel giorno di spedizione. 
+ Tutti i termini pendenti alla data della morte del contribuente o scadenti entro quattro mesi da essa, compresi il termine per la presentazione della dichiarazione e il termine per ricorrere contro l'accertamento, sono prorogati di sei mesi in favore degli eredi. ((I soggetti incaricati dagli eredi, ai sensi del comma 2 dell'articolo 12, devono trasmettere in via telematica la dichiarazione entro il mese di gennaio dell'anno successivo a quello in cui e' scaduto il termine prorogato.)) 
  La notifica degli atti intestati al dante causa puo' essere effettuata agli eredi impersonalmente e collettivamente nell'ultimo domicilio dello stesso ed e' efficace nei confronti degli eredi che, almeno trenta giorni prima, non abbiano effettuato la comunicazione di cui al secondo comma.
 
 ## Art. 66. — Computo dei termini
@@ -2283,18 +2299,19 @@ Per il computo dei termini si applicano le disposizioni dell'art. 2963 del codic
 
 ## Art. 67. — Divieto della doppia imposizione
 
-La stessa imposta non puo' essere applicata piu' volte in dipendenza dello stesso presupposto, neppure nei confronti di soggetti diversi.
+La stessa imposta non puo' essere applicata piu' volte in dipendenza dello stesso presupposto, neppure nei confronti di soggetti diversi. 
  ((L'imposta personale pagata dal soggetto erogante a titolo definitivo a seguito di accertamento e' scomputata dall'imposta dovuta dal percipiente il medesimo reddito)).
 
 ## Art. 68. — Segreto d'ufficio
 
-E' considerata violazione del segreto di ufficio qualunque informazione o comunicazione riguardante l'accertamento, data senza ordine del giudice, salvo i casi previsti dalla legge, a persone estranee alle rispettive amministrazioni, diverse dal contribuente o da chi lo rappresenta, dal personale dell'amministrazione finanziaria e dalla guardia di finanza nonche' dai componenti delle commissioni di cui all'articolo 45, dai membri dei consigli comunali e dei consigli tributari, dai membri dei comitati che esercitano il controllo di legittimita' sugli atti dei comuni e dal personale dei comuni che partecipano all'accertamento. Non e' considerata violazione del segreto d'ufficio la comunicazione dei dati contenuti nelle dichiarazioni dei redditi. (7)
- Qualora l'Amministrazione finanziaria si avvalga, delle facolta' previste nel successivo art. 69, quarto comma, nell'art. 12 della legge 13 giugno 1952, n. 693 e nell'art. 12, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, non sono considerate violazioni del segreto di ufficio la trasmissione al consorzio obbligatorio tra gli esattori delle imposte dirette in carica delle dichiarazioni presentate dai contribuenti e la comunicazione di dati e notizie necessari per l'esecuzione dei compiti affidati al consorzio. Le persone che comunque attendono agli adempienti relativi a tali compiti sono tenute a mantenere il segreto di ufficio.
+E' considerata violazione del segreto di ufficio qualunque informazione o comunicazione riguardante l'accertamento, data senza ordine del giudice, salvo i casi previsti dalla legge, a persone estranee alle rispettive amministrazioni, diverse dal contribuente o da chi lo rappresenta, dal personale dell'amministrazione finanziaria e dalla guardia di finanza nonche' dai componenti delle commissioni di cui all'articolo 45, dai membri dei consigli comunali e dei consigli tributari, dai membri dei comitati che esercitano il controllo di legittimita' sugli atti dei comuni e dal personale dei comuni che partecipano all'accertamento. Non e' considerata violazione del segreto d'ufficio la comunicazione dei dati contenuti nelle dichiarazioni dei redditi. (7) 
+ Qualora l'Amministrazione finanziaria si avvalga, delle facolta' previste nel successivo art. 69, quarto comma, nell'art. 12 della legge 13 giugno 1952, n. 693 e nell'art. 12, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, non sono considerate violazioni del segreto di ufficio la trasmissione al consorzio obbligatorio tra gli esattori delle imposte dirette in carica delle dichiarazioni presentate dai contribuenti e la comunicazione di dati e notizie necessari per l'esecuzione dei compiti affidati al consorzio. Le persone che comunque attendono agli adempienti relativi a tali compiti sono tenute a mantenere il segreto di ufficio. 
  ((COMMA ABROGATO DAL D.LGS. 19 SETTEMBRE 2005, N.215)).
 
 ---------------
                             AGGIORNAMENTO (7)
-                             La L. 19 luglio 1977, n.412, ha disposto (con l'art. 6 comma 2) che "La disposizione dell'ultima parte del primo comma dell'articolo 68 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, come modificato dal presente articolo ha effetto dal 1 gennaio 1974".
+                            
+ La L. 19 luglio 1977, n.412, ha disposto (con l'art. 6 comma 2) che "La disposizione dell'ultima parte del primo comma dell'articolo 68 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, come modificato dal presente articolo ha effetto dal 1 gennaio 1974".
 
 ## Art. 69. — (Pubblicazione degli elenchi dei contribuenti).
 
@@ -2307,13 +2324,13 @@ Negli elenchi sono compresi tutti i contribuenti che non hanno presentato la dic
 4.
                         
                             
-                                Il centro informativo delle imposte dirette, entro il 31 dicembre dell'anno successivo a quello di presentazione delle dichiarazioni dei redditi, forma per ciscun comune, i seguenti elenchi nominativi da distribuire agli uffici delle imposte territorialmente competenti:
+                                Il centro informativo delle imposte dirette, entro il 31 dicembre dell'anno successivo a quello di presentazione delle dichiarazioni dei redditi, forma per ciscun comune, i seguenti elenchi nominativi da distribuire agli uffici delle imposte territorialmente competenti: 
  
                             
                             
                                 a)
                                 
-                                    elenco nominativo dei contribuenti che hanno presentato la dichiarazione dei redditi;
+                                    elenco nominativo dei contribuenti che hanno presentato la dichiarazione dei redditi; 
 
                                 
                             
@@ -2332,7 +2349,7 @@ Ai comuni che dispongono di apparecchiature informatiche, i dati potranno essere
 
 ## Art. 70. — Norme applicabili
 
-Per quanto non e' diversamente disposto dal presente decreto si applicano, in materia di accertamento delle violazioni e di sanzioni, le norme del codice penale e del codice di procedura penale, della legge 7 gennaio 1929, n. 4 e del regio decreto-legge 3 gennaio 1926, n. 898, e successive integrazioni.
+Per quanto non e' diversamente disposto dal presente decreto si applicano, in materia di accertamento delle violazioni e di sanzioni, le norme del codice penale e del codice di procedura penale, della legge 7 gennaio 1929, n. 4 e del regio decreto-legge 3 gennaio 1926, n. 898, e successive integrazioni. 
  ((Il venti per cento dei proventi delle sanzioni pecuniarie e' devoluto ai fondi costituiti presso l'amministrazione o il corpo cui appartengono gli accertatori, con le modalita' previste con decreto del Ministro per le finanze. Si applica il quarto comma dell'art. 6 della legge 15 novembre 1973, n. 734)).
 
 ## - TITOLO VII DISPOSIZIONI TRANSITORIE E FINALI
