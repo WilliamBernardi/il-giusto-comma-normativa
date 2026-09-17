@@ -8,9 +8,9 @@ codice_redazionale: 002G0139
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2026-08-08
-zip_date: 2026-08-13
-fetched_at: 2026-08-13
+vigenza_date: 2026-08-26
+zip_date: 2026-09-17
+fetched_at: 2026-09-17
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -2421,7 +2421,7 @@ Sino a quando non sono emanate disposizioni particolari, il patrocinio a spese d
 
 
 
-Presso ogni commissione tributaria e' costituita una commissione del patrocinio a spese dello Stato composta da un presidente di sezione, che la presiede, da un giudice tributario designato dal presidente della commissione, nonche' da tre iscritti negli albi o elenchi di cui all'articolo 12, comma 2, del decreto legislativo 31 dicembre 1992, n. 546 e successive modificazioni, designati al principio di ogni anno a turno da ciascun ordine professionale del capoluogo in cui ha sede la commissione e dalla direzione regionale delle entrate. Per ciascun componente e' designato anche un membro supplente. Al presidente e ai componenti non spetta alcun compenso. Esercita le funzioni di segretario un funzionario dell'ufficio di segreteria della commissione tributaria.
+((Presso ogni corte di giustizia tributaria e' costituita una commissione del patrocinio a spese dello Stato composta da un presidente di sezione, che la presiede, da un componente della corte di giustizia tributaria designato dal presidente della corte, nonche' da tre iscritti negli albi o elenchi di cui all'articolo 12, comma 3, del decreto legislativo 31 dicembre 1992, n. 546, nonche' all'articolo 57, comma 3, del decreto legislativo 24 novembre 2024, n. 175, recante testo unico della giustizia tributaria, designati al principio di ogni anno a turno da ciascun ordine professionale del capoluogo in cui ha sede la corte e dalla direzione regionale delle entrate. Per ciascun componente e' designato anche un membro supplente. L'individuazione del presidente di sezione e la designazione del componente di cui al primo periodo avvengono, con priorita' nei confronti dei magistrati tributari sulla base dei criteri indicati dal Consiglio di presidenza della giustizia tributaria. Al presidente e ai componenti della commissione del patrocinio non spetta alcun compenso. Esercita le funzioni di segretario un funzionario dell'ufficio di segreteria della corte di giustizia tributaria.))
 
 ## Art. 139. — Funzioni della commissione
 
@@ -3032,6 +3032,8 @@ La liquidazione delle spese relative alle prestazioni di cui al comma 01 e' effe
 ((Nel corso delle indagini preliminari il decreto di pagamento e' titolo esecutivo ed e' comunicato al beneficiario. Dopo la conclusione delle indagini e' comunicato alle parti e nuovamente al beneficiario ai fini dell'eventuale introduzione di un giudizio di opposizione ai sensi dell'articolo 170, diretto a consentire al beneficiario e alle parti di contestare la liquidazione.))
 
 ((Il pagamento e' eseguito entro trenta giorni dal decreto, quando il beneficiario ha gia' emesso fattura, oppure entro trenta giorni dalla ricezione della fattura.)) 
+ 3.01. ((COMMA NON PIU' PREVISTO DAL D.L. 7 AGOSTO 2026, N. 144)). 
+ 3.02. ((COMMA NON PIU' PREVISTO DAL D.L. 7 AGOSTO 2026, N. 144)). 
  3.1. ((Qualora non siano rispettati i termini di cui al comma 1-bis e al comma 3, per i rispettivi ritardi, sulla somma liquidata sono dovuti interessi nella misura di cui al comma 3-ter.))
 
 L'importo delle spese relative alle operazioni di intercettazione e' specificamente annotato nel foglio delle notizie di cui all'articolo 280.
