@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-17",
+  "zip_date": "2026-09-18",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19890804_296/1989-08-23_089G0372_ORIGINALE_V0.xml": {
       "sha256": "b4b68b6ec62847ac1692378e52f37d92f63ede4723c9c0a15afe7aaede011ce0",
@@ -9491,8 +9491,8 @@
       "out": "Regolamenti ministeriali/ministero.economia.e.finanze-decreto-2021-02-03-26.md",
       "urn": "urn:nir:ministero.economia.e.finanze:decreto:2021-02-03;26"
     },
-    "DECRETO_20210209_67/2021-05-19_21G00076_ORIGINALE_V0.xml": {
-      "sha256": "6d13d00235ff0f05ed1676f116664c1a5b8ae4dc2e126c199ab9f36309329644",
+    "DECRETO_20210209_67/2021-05-19_21G00076_VIGENZA_2026-09-18_V0.xml": {
+      "sha256": "da5c6f81fc191773544d8548b949b5ed11877d1920d3d06e86e23fe19823d687",
       "out": "Regolamenti ministeriali/ministero.universita.e.ricerca-decreto-2021-02-09-67.md",
       "urn": "urn:nir:ministero.universita.e.ricerca:decreto:2021-02-09;67"
     },
@@ -10435,6 +10435,11 @@
       "sha256": "d9575d49ae0b776efdf5eaa8cbe6a3e801fdd09ba70f2f51c816bd0582c2cd17",
       "out": "Regolamenti ministeriali/ministero.giustizia-decreto-2026-06-26-114.md",
       "urn": "urn:nir:ministero.giustizia:decreto:2026-06-26;114"
+    },
+    "DECRETO_20260721_161/2026-09-16_26G00177_ORIGINALE_V0.xml": {
+      "sha256": "3faaa0325ff116a286e95afa0896845c22fb4f76251e65f1a66a6fb5e3323e70",
+      "out": "Regolamenti ministeriali/imprese.italy.made.ministero-decreto-2026-07-21-161.md",
+      "urn": "urn:nir:imprese.italy.made.ministero:decreto:2026-07-21;161"
     }
   }
 }

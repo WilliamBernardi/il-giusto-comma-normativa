@@ -7,8 +7,9 @@ urn: urn:nir:ministero.universita.e.ricerca:decreto:2021-02-09;67
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-28
+zip_date: 2026-09-18
+fetched_at: 2026-09-18
 ---
 
 DECRETO
