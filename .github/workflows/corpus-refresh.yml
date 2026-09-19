@@ -47,10 +47,25 @@ jobs:
           fi
           if [ -n "$COLLECTION" ]; then args+=(--collection "$COLLECTION"); fi
           set +e
-          "$GITHUB_WORKSPACE/tools/corpus-build" "${args[@]}"
-          rc=$?
+          rc=1
+          for attempt in 1 2 3; do
+            echo "Running corpus-build (attempt $attempt/3)..."
+            chmod +x "$GITHUB_WORKSPACE/tools/corpus-build"
+            "$GITHUB_WORKSPACE/tools/corpus-build" "${args[@]}"
+            rc=$?
+            echo "corpus-build exit code: $rc"
+            if [ "$rc" -eq 0 ] || [ "$rc" -eq 2 ]; then
+              break
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              echo "corpus-build exited $rc; resetting working tree and waiting 60s before retry..."
+              git checkout -- .
+              git clean -fd
+              rm -f "$COMMIT_MSG"
+              sleep 60
+            fi
+          done
           set -e
-          echo "corpus-build exit code: $rc"
           echo "rc=$rc" >> "$GITHUB_OUTPUT"
 
       # Commit successful collections even when the run was partial (rc=3:
