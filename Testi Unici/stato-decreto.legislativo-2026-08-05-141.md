@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2026-08-05;141
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2026-08-12
-zip_date: 2026-09-10
-fetched_at: 2026-09-10
+vigenza_date: 2026-09-17
+zip_date: 2026-09-19
+fetched_at: 2026-09-19
 ---
 
 DECRETO LEGISLATIVO
@@ -1808,8 +1808,7 @@ Quando l'importo del versamento diretto effettuato ai sensi dell'articolo 3 e' s
                             
                                 all'articolo 6, comma 7, le parole: «articolo 38-bis, comma 5, 
  del decreto del Presidente della Repubblica 26 ottobre 1972, n. 
- 633» sono sostituite dalle seguenti: «articolo 116, comma 5, del 
- testo unico delle disposizioni legislative in materia di imposta 
+633» sono sostituite dalle seguenti: «articolo 116, comma 5, del testo unico delle disposizioni legislative in materia di imposta 
  sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»; 
 
                             
@@ -1869,8 +1868,7 @@ Quando l'importo del versamento diretto effettuato ai sensi dell'articolo 3 e' s
                             f)
                             
                                 all'articolo 27: 
- 1) alla sotto-rubrica, dopo le parole «n. 471 del 1997», sono 
- inserite le seguenti «; articolo 6, comma 6, secondo e quarto 
+1) alla sotto-rubrica, dopo le parole «n. 471 del 1997», sono inserite le seguenti «; articolo 6, comma 6, secondo e quarto 
  periodo, decreto-legge 21 ottobre 2021, n. 146, convertito, con  modificazioni, dalla legge 17 dicembre 2021, n.215; articolo 8,  comma 2, secondo e terzo periodo, decreto-legge 2 marzo 2012, n.  16, convertito, con modificazioni, dalla legge 26 aprile 2012, n. 44»; 
  2) ai commi 2 e 4, le parole: «articolo 43 del decreto del 
  Presidente della Repubblica 29 settembre 1973, n. 600» sono 
@@ -2031,8 +2029,7 @@ Quando l'importo del versamento diretto effettuato ai sensi dell'articolo 3 e' s
  «6-bis. Le sanzioni del presente articolo si applicano nel caso 
  di emissione di fattura, tra soggetti residenti o stabiliti nel 
  territorio dello Stato, con modalita' diverse da quelle 
- previste dall'articolo 77, comma 3, del testo unico delle 
- disposizioni legislative in materia di imposta sul valore 
+previste dall'articolo 77, comma 3, del testo unico delle disposizioni legislative in materia di imposta sul valore 
  aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10.»; 
  5) al comma 8, le parole: «articoli 19 e seguenti del decreto del 
  Presidente della Repubblica 26 ottobre 1973, n. 633» sono 
@@ -2198,9 +2195,9 @@ Quando l'importo del versamento diretto effettuato ai sensi dell'articolo 3 e' s
  10) al comma 10, le parole: «articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127» sono sostituite dalle seguenti: «articolo 82, comma 6, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»; 
  11) al comma 11, le parole: «articolo 53, comma 3, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427» sono sostituite dalle seguenti: «articolo 154, comma 3, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»; 
  12) al comma 12, le parole: «articolo 38-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 116 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10» e le parole: «articolo 73, terzo comma, del medesimo decreto» sono sostituite dalle seguenti: «articolo 91, comma 3, del medesimo testo unico»; 
- 11) al comma 14, le parole: «articolo 35, commi 15-bis e 15-bis.1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 68, commi 19 e 20, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»; 
- 12) al comma 15, le parole: «articolo 17, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 64, comma 3, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10» e le parole: «articolo 35, comma 7-quater, terzo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 68, comma 10, del medesimo testo unico»; 
- 13) dopo il comma 15 e' inserito il seguente: 
+ (( 13) )) al comma 14, le parole: «articolo 35, commi 15-bis e 15-bis.1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 68, commi 19 e 20, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»; 
+ (( 14) )) al comma 15, le parole: «articolo 17, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 64, comma 3, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10» e le parole: «articolo 35, comma 7-quater, terzo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 68, comma 10, del medesimo testo unico»; 
+ (( 15) )) dopo il comma 15 e' inserito il seguente: 
  «15-bis - L'inosservanza degli obblighi previsti dall'articolo 40, comma 4, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, comporta l'applicazione delle sanzioni previste dal comma 1.»; 
 
                             
@@ -2495,7 +2492,7 @@ Qualora sia accertata la mancata sussistenza, anche parziale, dei requisiti che 
  Articolo 69-noviesdecies - Violazioni relative alle comunicazioni di informazioni concernenti lo scambio di informazioni raccolte dai gestori di piattaforme (articolo 12, decreto legislativo 30 luglio 2020, n. 100) 
  1. Nei casi di omessa comunicazione delle informazioni di cui all'articolo 206 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa pecuniaria prevista dall'articolo 35, comma 1, aumentata della meta'. 
  2. Nei casi di incompleta o inesatta comunicazione delle informazioni di cui all'articolo 206 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa pecuniaria prevista dall'articolo 35, comma 1, ridotta della meta'. 
- Capo VI-ter - Disposizioni speciali in materia di aumento e riduzione della sanzione amministrativa 
+ ((Capo IV-ter)) - Disposizioni speciali in materia di aumento e riduzione della sanzione amministrativa 
  Sezione I - Riduzioni della sanzione amministrativa 
  Articolo 69-vicies - Riduzione delle sanzioni amministrative in caso di violazioni relative a operazioni effettuate con strumenti di pagamento diversi dal contante (articolo 2, comma 36-vicies ter, decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148) 
  1. L'ammontare delle sanzioni previste dagli articoli 27, 30 e 31 e' ridotto alla meta' per gli esercenti imprese o arti e professioni, con ricavi e compensi dichiarati non superiori a 5 milioni di euro, i quali per tutte le operazioni attive e passive effettuate nell'esercizio dell'attivita' utilizzano esclusivamente strumenti di pagamento diversi dal denaro contante. 
@@ -2561,7 +2558,7 @@ Qualora sia accertata la mancata sussistenza, anche parziale, dei requisiti che 
                                 all'articolo 101, comma 1: 
  1) dopo la lettera aa) sono inserite le seguenti: «aa-bis) articolo 37, comma 29, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248;
 aa-ter) articolo 1, comma 132, secondo periodo, della legge 24 dicembre 2007, n. 244;»; 
- 2) dopo la lettera bb) e' inserita la seguente: «bb-bis) articolo 6, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 218;».
+ 2) dopo la lettera bb) e' inserita la seguente: «bb-bis) articolo 6, comma 3-bis, del decreto legislativo 5 agosto 2015, ((n. 128));».
 
 All'articolo 20, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, le parole: «nonche' a irrogare la sanzione amministrativa nella misura del 30 per cento della differenza medesima» sono sostituite dalle seguenti: «nonche' a irrogare la sanzione di cui all'articolo 44-bis, comma 2, del testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo 5 novembre 2024, n. 173».
 
@@ -5685,6 +5682,10 @@ Controllo delle dichiarazioni
  4. Il contribuente puo' comunque richiedere un parere all'amministrazione in ordine all'applicazione delle disposizioni di cui al comma 3 al caso concreto, ai sensi dell'articolo 11, comma 1, lettera a), della legge 27 luglio 2000, n. 212, recante lo Statuto dei diritti del contribuente. 
  5. Le persone interposte, che provino di aver pagato imposte in relazione a redditi successivamente imputati, a norma del comma 3, ad altro contribuente, possono chiederne il rimborso. L'amministrazione procede al rimborso dopo che l'accertamento, nei confronti del soggetto interponente, e' divenuto definitivo e in misura non superiore all'imposta effettivamente percepita a seguito di tale accertamento.
 
+### Art. 252-bis. — (( (Accertamento per antieconomicita').))
+
+1. ((Ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive, la difformita' tra il corrispettivo pattuito e il valore di mercato del bene o del servizio scambiato puo' costituire un indice sintomatico dell'esistenza di un maggior componente positivo o della carenza di inerenza di un componente negativo soltanto in presenza di ulteriori elementi indiziari che, valutati anche unitamente a tale difformita', siano gravi, precisi e concordanti o, in ogni caso, qualora la difformita' in questione risulti manifesta e rilevante.))
+
 ### Art. 253.
 
 Rettifica delle dichiarazioni delle persone fisiche 
@@ -5734,6 +5735,13 @@ Rettifica delle dichiarazioni dei soggetti diversi dalle persone fisiche
  
  1. Alla rettifica delle dichiarazioni presentate dai soggetti all'imposta sul reddito delle societa' si procede con unico atto agli effetti di tale imposta, con riferimento unitario al reddito complessivo imponibile ma tenendo distinti i redditi fondiari. Per quanto concerne il reddito complessivo imponibile, si applicano le disposizioni dell'articolo 254 relative al reddito d'impresa, con riferimento al bilancio o rendiconto e se del caso ai prospetti di cui all'articolo 56 e tenendo presenti anche le disposizioni del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, concernenti la determinazione del reddito complessivo imponibile. 
  2. Alla rettifica delle dichiarazioni presentate dalle societa' e associazioni indicate nell'articolo 5 del predetto testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, si procede con unico atto ai fini delle imposte sul reddito delle persone fisiche o delle societa' dovute dai singoli soci o associati. Si applicano le disposizioni del comma 1 o quelle dell'articolo 253, secondo che si tratti di societa' in nome collettivo, in accomandita semplice ed equiparate ovvero di societa' semplici o di societa' o associazioni equiparate.
+
+### Art. 256-bis. — (( (Societa' di capitali a ristretta base partecipativa).))
+
+1. ((1. In caso di accertamento del reddito delle societa' di capitali a ristretta base partecipativa si presume, salvo prova contraria, che i corrispondenti utili siano stati distribuiti ai soci esclusivamente se sia accertata, sulla base di elementi certi e precisi, anche di natura presuntiva, l'esistenza:)) 
+ a) ((di componenti reddituali positivi imponibili non contabilizzati e non dichiarati;)) 
+ b) ((di componenti reddituali negativi che hanno concorso a formare il reddito ma che sono indeducibili perche' inesistenti. 2.)) 
+ 2. ((Gli utili dei quali si presume la distribuzione sono imponibili in capo ai soci ai sensi degli articoli 49, 70 e 98 del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117.))
 
 ### Art. 257.
 
@@ -6151,12 +6159,23 @@ Termine per gli accertamenti
 (articolo 43 decreto del Presidente della Repubblica 29 settembre 1973, n. 600; articolo 57 decreto del Presidente della Repubblica 26 ottobre del 1972, n. 633; articolo 1, comma 640, lettera b), legge 23 dicembre 2014, n. 190; articolo 3 decreto legislativo 5 agosto 2015, n. 127) 
  
  1. Gli avvisi relativi alle rettifiche e agli accertamenti devono essere notificati, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui e' stata presentata la dichiarazione. 
+ 1-bis. ((Per i componenti negativi del reddito d'impresa a efficacia pluriennale, fatta eccezione per quelli relativi a operazioni inesistenti, il termine di cui al comma 1 decorre a partire dalla dichiarazione relativa al periodo d'imposta nel quale, per la prima volta, una quota di detti componenti e' stata dedotta.
+Intervenuta la notifica dell'avviso di accertamento, per il periodo d'imposta in corso al momento della notifica, per quello precedente e per quelli successivi, si applica il comma 1. Restano fermi i poteri di controllo sulla spettanza dei rimborsi eventualmente richiesti.
+Resta inoltre ferma l'applicazione dell'articolo 293, comma 6.))
+                                    ((1)) 
+ 1-ter. ((Con riferimento alle quote di ammortamento dei beni materiali e immateriali, nonche' alle quote delle spese relative a piu' esercizi, la disposizione del comma 1-bis si applica per le violazioni riscontrabili al momento dell'acquisto del bene o del sostenimento della spesa.))
+                                    ((1)) 
  2. Nei casi di omessa presentazione della dichiarazione o di presentazione di dichiarazione nulla l'avviso di accertamento puo' essere notificato entro il 31 dicembre del settimo anno successivo a quello in cui la dichiarazione avrebbe dovuto essere presentata. 
  3. Gli avvisi di accertamento aventi a oggetto il recupero delle somme relative a misure di natura fiscale che costituiscono aiuti di Stato e aiuti de minimis non subordinati all'emanazione di provvedimenti di concessione ovvero subordinati all'emanazione di provvedimenti di concessione o di autorizzazione alla fruizione comunque denominati, il cui importo non e' determinabile nei predetti provvedimenti, ma solo a seguito della presentazione della dichiarazione resa a fini fiscali nella quale sono dichiarati, di cui all'articolo 10 del decreto del Ministro dello sviluppo economico 31 maggio 2017, n. 115, devono essere notificati a pena di decadenza entro il 31 dicembre dell'ottavo anno successivo a quello in cui e' stata presentata la dichiarazione. 
  4. Fino alla scadenza del termine stabilito nei commi 1, 2, 3 e 5 le rettifiche e gli accertamenti possono essere integrati o modificati mediante la notificazione di nuovi avvisi, in base alla sopravvenuta conoscenza di nuovi elementi da parte dell'Agenzia delle entrate. Nell'avviso devono essere specificamente indicati, a pena di annullabilita', i nuovi elementi e gli atti o fatti attraverso i quali sono venuti a conoscenza dell'ufficio dell'Agenzia delle entrate. 
  5. Nel caso di richiesta di rimborso dell'eccedenza dell'imposta sul valore aggiunto detraibile risultante dalla dichiarazione annuale, se tra la data di notifica della richiesta di documenti da parte dell'ufficio e la data della loro consegna intercorre un periodo superiore a quindici giorni, il termine di decadenza, relativo agli anni in cui si e' formata l'eccedenza detraibile chiesta a rimborso, e' differito di un periodo di tempo pari a quello compreso tra il sedicesimo giorno e la data di consegna. 
  6. Nelle ipotesi di presentazione di dichiarazione integrativa ai sensi degli articoli 2, comma 8, e 8, comma 6-bis, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e dell'articolo 14 del testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo 5 novembre 2024, n. 173, ovvero, quando non e' prevista dichiarazione periodica, nei casi di regolarizzazione dell'omissione o dell'errore i termini per l'accertamento di cui al comma 1 decorrono dalla presentazione della dichiarazione integrativa, limitatamente agli elementi oggetto dell'integrazione. 
  7. I termini di decadenza del comma 1 sono ridotti di due anni solo per i soggetti passivi di cui all'articolo 77 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, che garantiscono, nei modi stabiliti con decreto del Ministro dell'economia e delle finanze, la tracciabilita' dei pagamenti ricevuti ed effettuati relativi a operazioni di ammontare superiore a euro 500.
+
+-------------
+                                AGGIORNAMENTO (1)
+                                
+ Il D.Lgs. 7 agosto 2026, n. 148, ha disposto (con l'art. 22, comma 3) che "Il presente articolo si applica ai beni e servizi acquistati a partire dal periodo di imposta in corso al 31 dicembre 2027".
 
 ### Art. 294.
 
@@ -7100,10 +7119,7 @@ Abrogazioni
  e) articolo 29, comma 6, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2; 
  f) articolo 1, commi 103 e 104 della legge 27 dicembre 2006, n. 296, con effetto per le dichiarazioni dei redditi presentate a decorrere dall'anno 2015, relative al periodo d'imposta 2014; 
  g) l'articolo 10-bis della legge 8 maggio 1998, n. 146, e l'articolo 7-bis del decreto-legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1° dicembre 2016, n. 225. 
- 3. Salvo che sia diversamente previsto dal presente testo unico e fuori dei casi di abrogazione per incompatibilita', quando leggi, regolamenti, decreti, o altre norme o provvedimenti, fanno riferimento a disposizioni espressamente abrogate dal comma 1, il riferimento si intende alle corrispondenti disposizioni del presente testo unico, come riportate da ciascun articolo. 
- ALLEGATI: 
- Allegato 1 Tabella (articolo 6) 
- Allegato 2 (Art. 202)
+ 3. Salvo che sia diversamente previsto dal presente testo unico e fuori dei casi di abrogazione per incompatibilita', quando leggi, regolamenti, decreti, o altre norme o provvedimenti, fanno riferimento a disposizioni espressamente abrogate dal comma 1, il riferimento si intende alle corrispondenti disposizioni del presente testo unico, come riportate da ciascun articolo. ((...))
 
 ### Art. 368.
 
