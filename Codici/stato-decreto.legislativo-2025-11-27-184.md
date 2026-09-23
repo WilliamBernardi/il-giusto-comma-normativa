@@ -7,8 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2025-11-27;184
 vigente: true
 source: normattiva-opendata
 collection: Codici
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-08-21
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +27,7 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 
 Sulla proposta del Ministro delle imprese e del made in Italy, di concerto con i Ministri dell'economia e delle finanze, per gli affari europei, il PNRR e le politiche di coesione, dell'ambiente e della sicurezza energetica, per gli affari regionali e le autonomie, per le riforme istituzionali e la semplificazione normativa, del lavoro e delle politiche sociali, degli affari esteri e della cooperazione internazionale, per la famiglia, la natalita' e le pari opportunita' e per le disabilita';
 
-## - Capo I Disposizioni generali
+## - - Capo I Disposizioni generali
 
 ## Art. 1. — Oggetto e ambito di applicazione
 
@@ -318,7 +319,7 @@ I protocolli tecnici dei servizi previsti al comma 2, adottati con decreto diret
 
 Agli oneri derivanti dalle attivita' di sviluppo dei servizi di cui al presente articolo si provvede a valere sulle risorse nazionali ed europee disponibili per l'attuazione della Riforma 3 della Missione 1, Componente 2, del Piano nazionale di ripresa e resilienza, come modificato con decisione del Consiglio dell'Unione europea dell'8 dicembre 2023.
 
-## - Capo II Della programmazione degli incentivi e del coordinamento istituzionale
+## - - Capo II Della programmazione degli incentivi e del coordinamento istituzionale
 
 ## Art. 4. — Programma degli incentivi
 
@@ -563,13 +564,13 @@ Il Tavolo e' convocato dal Ministero delle imprese e del made in Italy almeno du
                                 
                                     raccordare, tenendo conto anche delle risultanze del monitoraggio di cui alla lettera a), le strategie di politica industriale attuata attraverso gli incentivi, definendo, in esito alle riunioni del Tavolo, accordi programmatici che individuano gli indirizzi e le posizioni comuni nonche' le sinergie tra le amministrazioni partecipanti rispetto a temi oggetto di incentivazione e rispetto a individuati incentivi.
 
-Per lo svolgimento delle proprie funzioni, le riunioni di cui al comma 3 sono preparate dal previo svolgimento di uno o piu' tavoli tecnici di lavoro, convocati anche per l'approfondimento di specifiche tematiche e composti da rappresentanti delle amministrazioni responsabili partecipanti al Tavolo permanente degli incentivi. Il Ministero delle imprese e del made in Italy assicura lo svolgimento degli adempimenti strumentali, preliminari e conseguenti, alle riunioni tecniche e del Tavolo permanente degli incentivi e ogni altro adempimento necessario per il regolare funzionamento dello stesso.
+Per lo svolgimento delle proprie funzioni, le riunioni di cui al comma 3 sono preparate dal previo svolgimento di uno o piu' tavoli tecnici di lavoro, convocati anche per l'approfondimento di specifiche tematiche e composti da rappresentanti delle amministrazioni responsabili partecipanti al Tavolo permanente degli incentivi. Il Ministero delle imprese e del made in Italy assicura lo svolgimento degli adempimenti strumentali, preliminari e conseguenti, alle riunioni tecniche e del Tavolo permanente degli incentivi e ogni altro adempimento necessario per il regolare funzionamento dello stesso ((, tra cui la pubblicazione di verbali sintetici dei lavori)).
 
 Alle riunioni del Tavolo permanente degli incentivi e alle riunioni tecniche preparatorie possono essere chiamati a partecipare, in relazione agli argomenti da trattare, rappresentanti di amministrazioni e associazioni di categoria comparativamente piu' rappresentative a livello nazionale o soggetti interessati ovvero esperti negli ambiti di volta in volta oggetto di confronto.
 
 Ai soggetti partecipanti al Tavolo permanente degli incentivi e alle riunioni tecniche preparatorie non spetta alcun compenso, indennita', gettone di presenza, rimborso di spese o altro emolumento comunque denominato.
 
-## - Capo III Dell'attuazione degli incentivi
+## - - Capo III Dell'attuazione degli incentivi
 
 ## Art. 6. — Bando-tipo
 
@@ -1215,7 +1216,7 @@ Agli incentivi contributivi la disciplina di cui al presente capo si applica lim
 Nel caso di incentivi contributivi, i lavoratori autonomi accedono alle condizioni previste per le PMI in quanto compatibili.
 E' fatta salva la disciplina speciale definita dalle disposizioni normative che regolano l'incentivo.
 
-## - Capo IV Della valutazione, del monitoraggio e della informazione e pubblicità
+## - - Capo IV Della valutazione, del monitoraggio e della informazione e pubblicità
 
 ## Art. 20. — Monitoraggio degli incentivi
 
@@ -1229,13 +1230,13 @@ Con decreto direttoriale del Ministero dell'economia e delle finanze, adottato, 
 
 ## Art. 21. — Valutazione degli incentivi
 
-Al fine di assicurare un processo decisionale basato su evidenze e di rafforzare la capacita' di programmazione e revisione della spesa, in coerenza con quanto previsto dall'ordinamento europeo in materia di programmazione della politica di bilancio e delle politiche economiche nazionali, le iniziative di sostegno pubblico realizzate attraverso gli incentivi sono oggetto di valutazione ex ante, di valutazione in itinere e di valutazione ex post. La valutazione in itinere ed ex post e' svolta in modo continuativo e sistematico, secondo un programma pluriennale aggiornato periodicamente.
+Al fine di assicurare un processo decisionale basato su evidenze e di rafforzare la capacita' di programmazione ((, razionalizzazione)) e revisione della spesa, in coerenza con quanto previsto dall'ordinamento europeo in materia di programmazione della politica di bilancio e delle politiche economiche nazionali, le iniziative di sostegno pubblico realizzate attraverso gli incentivi sono oggetto di valutazione ex ante, ((avente ad oggetto anche le loro eventuali duplicazioni o sovrapposizioni,)) di valutazione in itinere e di valutazione ex post. La valutazione in itinere ed ex post e' svolta in modo continuativo e sistematico, secondo un programma pluriennale aggiornato periodicamente.
 
-Le valutazioni sono condotte secondo modalita' che garantiscano autonomia e indipendenza, assicurando la pubblicita' dei risultati.
+Le valutazioni sono condotte secondo modalita' che garantiscano autonomia e indipendenza, assicurando la pubblicita' dei risultati ((, anche attraverso il sistema Incentivi Italia con tempi coerenti con la programmazione di bilancio)).
 
-La selezione degli incentivi, o dell'insieme di incentivi accomunati da legami settoriali, territoriali, o tematici, oggetto di valutazione, tiene conto della loro rilevanza sociale, economica o ambientale, dell'entita' della spesa interessata, della rilevanza conoscitiva dei risultati della valutazione e delle necessita' di coordinamento con altre valutazioni o indagini aventi il medesimo oggetto. Gli incentivi non oggetto di valutazione sono comunque oggetto di monitoraggio sulla base delle disposizioni contenute nei bandi, secondo quanto previsto all'articolo 20.
+La selezione degli incentivi, o dell'insieme di incentivi accomunati da legami settoriali, territoriali, o tematici, oggetto di valutazione, tiene conto della loro rilevanza sociale, economica o ambientale, dell'entita' della spesa interessata, della rilevanza conoscitiva dei risultati della valutazione e delle necessita' di coordinamento con altre valutazioni o indagini aventi il medesimo oggetto ((, anche al fine della loro razionalizzazione)). Gli incentivi non oggetto di valutazione sono comunque oggetto di monitoraggio sulla base delle disposizioni contenute nei bandi, secondo quanto previsto all'articolo 20.
 
-Le amministrazioni responsabili predispongono le procedure necessarie per produrre e raccogliere i dati necessari alle valutazioni ex ante, in itinere ed ex post definendo apposite disposizioni anche nell'ambito dei bandi e favorendo, ove possibile, l'utilizzo di appositi sistemi informativi.
+Le amministrazioni responsabili predispongono le procedure necessarie per produrre e raccogliere i dati necessari alle valutazioni ex ante, in itinere ed ex post definendo apposite disposizioni anche nell'ambito dei bandi e favorendo, ove possibile, l'utilizzo di appositi sistemi informativi. ((Nella relazione illustrativa di cui all'articolo 1, comma 1, della legge 7 agosto 1997, n. 266, e' contenuta un'apposita sezione dedicata allo stato di attuazione della riforma degli incentivi, anche con riferimento agli esiti delle valutazioni ex ante, in itinere ed ex post di cui al presente articolo nonche' alle eventuali duplicazioni o sovrapposizioni riscontrate e agli interventi di razionalizzazione promossi)).
 
 La determinazione delle eventuali risorse da destinare alle attivita' di valutazione e' operata nell'ambito dell'attivita' di programmazione degli incentivi, ai sensi dell'articolo 4, comma 1, lettera d).
 
@@ -1271,7 +1272,7 @@ Attraverso il RNA sono assolti, altresi', per gli aiuti ivi registrati, gli obbl
 
 Per gli incentivi cofinanziati con risorse europee, si applicano gli ulteriori obblighi di pubblicita' previsti dalla specifica normativa di riferimento.
 
-## - Capo V Disposizioni transitorie e finali
+## - - Capo V Disposizioni transitorie e finali
 
 ## Art. 23. — Ulteriori disposizioni
 

@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2017-07-03;117
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2025-12-13
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-10
+fetched_at: 2026-09-10
 ---
 
 DECRETO LEGISLATIVO
@@ -2072,6 +2072,15 @@ L'imposta sugli intrattenimenti non e' dovuta per le attivita' indicate nella ta
 
 Gli atti e i provvedimenti relativi agli enti di cui al comma 1 del presente articolo sono esenti dalle tasse sulle concessioni governative di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641.
 
+## Art. 82-bis. — (( (Disposizioni in materia di IRAP).))
+
+((31))
+
+------------
+                            AGGIORNAMENTO (31)
+                            
+ Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 30, comma 2) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2025.
+
 ## Art. 83. — Detrazioni e deduzioni per erogazioni liberali
 
 Dall'imposta lorda sul reddito delle persone fisiche si detrae un importo pari al 30 per cento degli oneri sostenuti dal contribuente per le erogazioni liberali in denaro o in natura a favore degli ((enti del Terzo settore di cui all'articolo 82, comma 1)), per un importo complessivo in ciascun periodo d'imposta non superiore a 30.000 euro. L'importo di cui al precedente periodo e' elevato al 35 per cento degli oneri sostenuti dal contribuente, qualora l'erogazione liberale sia a favore di organizzazioni di volontariato. La detrazione e' consentita, per le erogazioni liberali in denaro, a condizione che il versamento sia eseguito tramite banche o uffici postali ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241.
@@ -2787,7 +2796,7 @@ Dall'attuazione delle ulteriori disposizioni del presente decreto non devono der
 
 ## Art. 104. — Entrata in vigore
 
-Le disposizioni di cui agli articoli 77, 78, 81, 82, 83 e 84, comma 2, 85 comma 7 e dell'articolo 102, comma 1, lettere e), f) e g) si applicano in via transitoria a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2017 e fino al periodo d'imposta di entrata in vigore delle disposizioni di cui al titolo X secondo quanto indicato al comma 2, alle Organizzazioni non lucrative di utilita' sociale di cui all'articolo 10, del decreto legislativo 4 dicembre 1997, n. 460 iscritte negli appositi registri, alle organizzazioni di volontariato iscritte nei registri di cui alla legge 11 agosto 1991, n. 266, e alle associazioni di promozione sociale iscritte nei registri nazionali, regionali e delle provincie autonome di Trento e Bolzano previsti dall'articolo 7 della legge 7 dicembre 2000, n. 383. Le disposizioni richiamate al primo periodo si applicano, a decorrere dall'operativita' del Registro unico nazionale del Terzo settore, agli enti del Terzo settore iscritti nel medesimo Registro. Le disposizioni richiamate al primo periodo si applicano, a decorrere dall'operativita' del Registro unico nazionale del Terzo settore, agli enti del Terzo settore iscritti nel medesimo Registro. (1)
+Le disposizioni di cui agli articoli 77, 78, 81, 82, 83 e 84, comma 2, 85 comma 7 e dell'articolo 102, comma 1, lettere e), f) e g) si applicano in via transitoria a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2017 e fino al periodo d'imposta di entrata in vigore delle disposizioni di cui al titolo X secondo quanto indicato al comma 2, alle Organizzazioni non lucrative di utilita' sociale di cui all'articolo 10, del decreto legislativo 4 dicembre 1997, n. 460 iscritte negli appositi registri, alle organizzazioni di volontariato iscritte nei registri di cui alla legge 11 agosto 1991, n. 266, e alle associazioni di promozione sociale iscritte nei registri nazionali, regionali e delle provincie autonome di Trento e Bolzano previsti dall'articolo 7 della legge 7 dicembre 2000, n. 383. Le disposizioni richiamate al primo periodo si applicano, a decorrere dall'operativita' del Registro unico nazionale del Terzo settore, agli enti del Terzo settore iscritti nel medesimo Registro. (1)
 
 Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo ((a quello in corso al 31 dicembre 2025)).(1)
 

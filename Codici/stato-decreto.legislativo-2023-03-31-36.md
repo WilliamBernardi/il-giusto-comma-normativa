@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2023-03-31;36
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-04-07
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-08-26
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -4695,29 +4695,26 @@ Salvo quanto disposto dall'articolo 1669 del codice civile, l'appaltatore rispon
 4.
                         
                             
-                                
-                                    ((Per effettuare le attivita' di collaudo dei lavori:))
-                                
+                                Per effettuare le attivita' di collaudo dei lavori: 
+ 
                             
                             
                                 a)
                                 
-                                    
-                                        ((le stazioni appaltanti e gli enti concedenti che sono amministrazioni pubbliche nominano da uno a tre collaudatori scelti tra il proprio personale o tra il personale di altre amministrazioni pubbliche, con qualificazione rapportata alla tipologia e caratteristica del contratto, in possesso dei requisiti di moralita', competenza e professionalita'. I collaudatori dipendenti della stessa amministrazione appartengono a strutture funzionalmente indipendenti;))
-                                    
+                                    le stazioni appaltanti e gli enti concedenti che sono amministrazioni pubbliche nominano da uno a tre collaudatori scelti tra il proprio personale o tra il personale di altre amministrazioni pubbliche, con qualificazione rapportata alla tipologia e caratteristica del contratto, in possesso dei requisiti di moralita', competenza e professionalita'. I collaudatori dipendenti della stessa amministrazione appartengono a strutture funzionalmente indipendenti; 
+
                                 
                             
                             
                                 b)
                                 
-                                    
-                                        ((le stazioni appaltanti e gli enti concedenti che non sono amministrazioni pubbliche nominano da uno a tre collaudatori di cui almeno uno deve essere individuato tra il personale di amministrazioni pubbliche. Tutti i collaudatori devono possedere qualificazione rapportata alla tipologia e alle caratteristiche del contratto e requisiti di moralita', competenza e professionalita')).
+                                    le stazioni appaltanti e gli enti concedenti che non sono amministrazioni pubbliche nominano da uno a tre collaudatori di cui almeno uno deve essere individuato tra il personale di amministrazioni pubbliche. Tutti i collaudatori devono possedere qualificazione rapportata alla tipologia e alle caratteristiche del contratto e requisiti di moralita', competenza e professionalita'.
 
-((Tra le unita' di personale della stazione appaltante o di altre amministrazioni pubbliche e' individuato anche il collaudatore delle strutture per la redazione del collaudo statico. Per accertata carenza nell'organico della stazione appaltante, o nei casi di particolare complessita' tecnica, la stazione appaltante puo' verificare la possibilita' di nominare il collaudatore tra i dipendenti di altre amministrazioni pubbliche formulando, anche contestualmente, apposita richiesta ad almeno tre amministrazioni, e, in caso di mancato riscontro entro il termine di trenta giorni, affidare l'incarico con le modalita' previste dal codice. Il compenso spettante per l'attivita' di collaudo e' contenuto per il personale della stessa amministrazione nell'ambito dell'incentivo di cui all'articolo 45, mentre per il personale di altre amministrazioni pubbliche e' determinato ai sensi dell'articolo 29, comma 1, dell'allegato II.14.))
+Tra le unita' di personale della stazione appaltante o di altre amministrazioni pubbliche e' individuato anche il collaudatore delle strutture per la redazione del collaudo statico. Per accertata carenza nell'organico della stazione appaltante, o nei casi di particolare complessita' tecnica, la stazione appaltante puo' verificare la possibilita' di nominare il collaudatore tra i dipendenti di altre amministrazioni pubbliche formulando, anche contestualmente, apposita richiesta ad almeno tre amministrazioni, e, in caso di mancato riscontro entro il termine di trenta giorni, affidare l'incarico con le modalita' previste dal codice. Il compenso spettante per l'attivita' di collaudo e' contenuto per il personale della stessa amministrazione nell'ambito dell'incentivo di cui all'articolo 45, mentre per il personale di altre amministrazioni pubbliche e' determinato ai sensi dell'articolo 29, comma 1, dell'allegato II.14.
 
-((Il collaudatore o la commissione di collaudo, per lavori di particolare complessita', in qualsiasi momento, puo' decidere di avvalersi, previa adeguata motivazione, di una segreteria tecnico-amministrativa in possesso di specifiche competenze per le attivita' istruttorie e di supporto organizzativo. Il membro o i componenti della segreteria tecnico-amministrativa sono scelti dal collaudatore o dal presidente della commissione. Gli oneri della segreteria sono a carico del collaudatore o dei membri della commissione di collaudo e vengono liquidati con le modalita' di cui all'articolo 29-bis. dell'allegato II.14.))
+Il collaudatore o la commissione di collaudo, per lavori di particolare complessita', in qualsiasi momento, puo' decidere di avvalersi, previa adeguata motivazione, di una segreteria tecnico-amministrativa in possesso di specifiche competenze per le attivita' istruttorie e di supporto organizzativo. Il membro o i componenti della segreteria tecnico-amministrativa sono scelti dal collaudatore o dal presidente della commissione. Gli oneri della segreteria sono a carico del collaudatore o dei membri della commissione di collaudo e vengono liquidati con le modalita' di cui all'articolo 29-bis. dell'allegato II.14.
 
-Per i contratti di servizi e forniture la verifica di conformita' e' effettuata dal RUP o, se nominato, dal direttore dell'esecuzione. Per servizi e forniture caratterizzati da elevato contenuto tecnologico oppure da elevata complessita' o innovazione, le stazioni appaltanti ((e gli enti concedenti)) possono prevedere la nomina di uno o piu' verificatori della conformita' diversi dal RUP o dal direttore dell'esecuzione del contratto. Per la nomina e il compenso dei verificatori si applica il comma 4.
+Per i contratti di servizi e forniture la verifica di conformita' e' effettuata dal RUP o, se nominato, dal direttore dell'esecuzione. Per servizi e forniture caratterizzati da elevato contenuto tecnologico oppure da elevata complessita' o innovazione, le stazioni appaltanti e gli enti concedenti possono prevedere la nomina di uno o piu' verificatori della conformita' diversi dal RUP o dal direttore dell'esecuzione del contratto. Per la nomina e il compenso dei verificatori si applica il comma 4.
 
 6.
                         
@@ -4728,7 +4725,8 @@ Per i contratti di servizi e forniture la verifica di conformita' e' effettuata 
                             
                                 a)
                                 
-                                    ai magistrati ordinari, amministrativi e contabili, e agli avvocati e procuratori dello Stato, in attivita' di servizio ((...)); 
+                                    
+                                        ((ai magistrati ordinari, amministrativi, contabili, tributari)), e agli avvocati e procuratori dello Stato, in attivita' di servizio; 
 
                                 
                             
@@ -4736,16 +4734,15 @@ Per i contratti di servizi e forniture la verifica di conformita' e' effettuata 
                                 a-bis)
                                 
                                     
-                                        ((ai magistrati ordinari, amministrativi e contabili, e agli avvocati e procuratori dello stato in quiescenza che a qualsiasi titolo siano intervenuti in fase di aggiudicazione o di esecuzione del contratto oggetto del collaudo o che abbiano altri motivi di conflitto di interesse di cui all'articolo 16;))
-                                    
+                                        ((ai magistrati ordinari, amministrativi, contabili, tributari)), e agli avvocati e procuratori dello stato in quiescenza che a qualsiasi titolo siano intervenuti in fase di aggiudicazione o di esecuzione del contratto oggetto del collaudo o che abbiano altri motivi di conflitto di interesse di cui all'articolo 16; 
+
                                 
                             
                             
                                 b)
                                 
-                                    
-                                        ((ai dipendenti appartenenti ai ruoli della pubblica amministrazione in servizio o in trattamento di quiescenza per i quali sussistono motivi di conflitto di interesse di cui all'articolo 16;))
-                                    
+                                    ai dipendenti appartenenti ai ruoli della pubblica amministrazione in servizio o in trattamento di quiescenza per i quali sussistono motivi di conflitto di interesse di cui all'articolo 16; 
+
                                 
                             
                             
@@ -4798,7 +4795,7 @@ Salvo motivate esigenze, le attivita' di verifica di conformita' sono svolte dur
                                 
                                     dai professionisti afferenti alle rispettive competenze, una relazione tecnico-scientifica, con l'esplicitazione dei risultati culturali e scientifici raggiunti.
 
-Gli accertamenti di laboratorio e le verifiche tecniche obbligatorie inerenti alle attivita' di cui al presente articolo e alle attivita' di cui all'allegato II.14 oppure specificamente previsti dal capitolato speciale d'appalto di lavori, sono disposti dalla direzione dei lavori o dall'organo di collaudo o di verifica di conformita', imputando la spesa a carico delle somme a disposizione accantonate a tale titolo nel quadro economico. ((Le spese relative alle verifiche tecniche obbligatorie)) non sono soggette a ribasso. I criteri per la determinazione dei costi sono individuati dall'allegato II.15. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
+Gli accertamenti di laboratorio e le verifiche tecniche obbligatorie inerenti alle attivita' di cui al presente articolo e alle attivita' di cui all'allegato II.14 oppure specificamente previsti dal capitolato speciale d'appalto di lavori, sono disposti dalla direzione dei lavori o dall'organo di collaudo o di verifica di conformita', imputando la spesa a carico delle somme a disposizione accantonate a tale titolo nel quadro economico. Le spese relative alle verifiche tecniche obbligatorie non sono soggette a ribasso. I criteri per la determinazione dei costi sono individuati dall'allegato II.15. PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209.
 
 ## Art. 117. — Garanzie definitive
 

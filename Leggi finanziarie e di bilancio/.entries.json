@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-13",
+  "zip_date": "2026-08-14",
   "entries": {
     "LEGGE_19781221_843/1978-12-29_078U0843_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "589610d3400d7c6254e2d515f4b7967ff8cabc2980f11f101d96a6a875df04cc",
@@ -246,13 +246,13 @@
       "out": "Leggi finanziarie e di bilancio/stato-legge-2017-12-27-205.md",
       "urn": "urn:nir:stato:legge:2017-12-27;205"
     },
-    "LEGGE_20181230_145/2018-12-31_18G00172_VIGENZA_2026-07-31_V0.xml": {
-      "sha256": "3b56ff5d9f0ed3951f91806052284984789de4bff1002649405a0810a9cce872",
+    "LEGGE_20181230_145/2018-12-31_18G00172_VIGENZA_2026-08-14_V0.xml": {
+      "sha256": "f0c7eb1319b0b1d29eb1c764cfc4bfa662c3a48fe20f5ff5d5702c90d7fe7dae",
       "out": "Leggi finanziarie e di bilancio/stato-legge-2018-12-30-145.md",
       "urn": "urn:nir:stato:legge:2018-12-30;145"
     },
-    "LEGGE_20191227_160/2019-12-30_19G00165_VIGENZA_2026-06-11_V0.xml": {
-      "sha256": "ee8732c7e0b2e271170531b6af37c8d576358067680922569e0fd8f8c63c7fbd",
+    "LEGGE_20191227_160/2019-12-30_19G00165_VIGENZA_2026-08-14_V0.xml": {
+      "sha256": "4bf118e5f5304aa46077446a359214f25476532eba2294c6de2dc0a482d1ca03",
       "out": "Leggi finanziarie e di bilancio/stato-legge-2019-12-27-160.md",
       "urn": "urn:nir:stato:legge:2019-12-27;160"
     },
@@ -271,18 +271,18 @@
       "out": "Leggi finanziarie e di bilancio/stato-legge-2022-12-29-197.md",
       "urn": "urn:nir:stato:legge:2022-12-29;197"
     },
-    "LEGGE_20231230_213/2023-12-30_23G00223_VIGENZA_2026-06-12_V0.xml": {
-      "sha256": "bf91e3c4e26a687359d1509846be1f359dc3dc98ebaf71ce1b285b514b8690df",
+    "LEGGE_20231230_213/2023-12-30_23G00223_VIGENZA_2026-08-14_V0.xml": {
+      "sha256": "9532f44d6c273a7586494908db35c5c439090a5f408f0e953ef2bdf4cd1b39e3",
       "out": "Leggi finanziarie e di bilancio/stato-legge-2023-12-30-213.md",
       "urn": "urn:nir:stato:legge:2023-12-30;213"
     },
-    "LEGGE_20241230_207/2024-12-31_24G00229_VIGENZA_2026-07-06_V0.xml": {
-      "sha256": "7dba49f1da9368b948b416c8c07496f10d836eb2e6cbc012d45f0bcd635db263",
+    "LEGGE_20241230_207/2024-12-31_24G00229_VIGENZA_2026-08-14_V0.xml": {
+      "sha256": "2872fa065aa914b8ec0891d2d0f45bdaa78cce2567f56fd2d3b0a3201a24a8b4",
       "out": "Leggi finanziarie e di bilancio/stato-legge-2024-12-30-207.md",
       "urn": "urn:nir:stato:legge:2024-12-30;207"
     },
-    "LEGGE_20251230_199/2025-12-30_25G00212_VIGENZA_2026-07-06_V0.xml": {
-      "sha256": "92f54fb26728762b700590e0bda7d9decb82076baa6dfce98cd0d4515c645125",
+    "LEGGE_20251230_199/2025-12-30_25G00212_VIGENZA_2026-08-14_V0.xml": {
+      "sha256": "6d9ad5861ff1c64b3ee0a0fa1d512ee5a1a3168f5c729dcf745b68626d0e51ba",
       "out": "Leggi finanziarie e di bilancio/stato-legge-2025-12-30-199.md",
       "urn": "urn:nir:stato:legge:2025-12-30;199"
     }

@@ -8,9 +8,9 @@ codice_redazionale: 010G0089
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-07-04
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-08-08
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -511,7 +511,7 @@ L'organizzazione, i compiti e le funzioni dell'Agenzia industrie difesa e della 
 
 Nel regolamento sono disciplinati gli enti di cui alle lettere c), d), e), f), g) e h), del comma 1; la disciplina relativa alle componenti ausiliarie delle Forze armate dell'Associazione italiana della Croce rossa e' contenuta negli articoli 196, 197 e da 1626 a 1760.
 
-((La vigilanza sull'ente di cui al comma 1, lettera e) e' finalizzata alla verifica dei documenti contabili preventivi e consuntivi e del rendiconto generale, redatti esclusivamente per la parte relativa alle funzioni istituzionali dell'ente.))
+La vigilanza sull'ente di cui al comma 1, lettera e) ((,)) e' finalizzata alla verifica dei documenti contabili preventivi e consuntivi e del rendiconto generale, redatti esclusivamente per la parte relativa alle funzioni istituzionali dell'ente.
 
 ## Art. 21. — Servizio di assistenza al volo
 
@@ -790,6 +790,19 @@ Le norme disciplinanti l'ordinamento del Comando operativo di vertice interforze
 ## Art. 30. — Reparto informazioni e sicurezza dello Stato maggiore della difesa
 
 Il Reparto informazioni e sicurezza dello Stato maggiore della difesa svolge i compiti previsti dall'articolo 8 della legge 3 agosto 2007, n. 124.
+
+## Art. 30-bis. — (( (Organizzazione sportiva della Difesa).))
+
+((Presso lo Stato maggiore della difesa e' istituito il Gruppo sportivo della Difesa, che svolge, sulla base dell'indirizzo politico definito dal Ministro della difesa, le seguenti funzioni: 
+ a) definisce gli obiettivi strategici della Difesa con riferimento allo sport olimpico, paralimpico e di alto livello e individua gli indirizzi strategici della programmazione delle attivita' sportive della Difesa nonche' le discipline sportive di interesse, valorizzando quelle gia' consolidate e favorendone la piu' ampia diffusione; 
+b) assicura il raccordo istituzionale con il Comitato olimpico nazionale italiano, il Comitato italiano paralimpico, la societa' Sport e salute S.p.A., le federazioni sportive nazionali, le discipline sportive associate e gli organismi sportivi nazionali e internazionali ed esercita la rappresentanza esterna delle attivita' sportive della Difesa nell'ambito dell'ordinamento sportivo nazionale e internazionale; 
+c) coordina la programmazione dei reclutamenti e dell'impiego sportivo dei militari atleti nel rispetto delle competenze attribuite alle Forze armate e all'Arma dei carabinieri dalla normativa vigente; 
+d) definisce gli indirizzi della programmazione e dell'utilizzo delle risorse destinate al finanziamento delle attivita' sportive della Difesa; 
+e) coordina la partecipazione della Difesa ai grandi eventi sportivi e alle attivita' del Consiglio internazionale dello sport militare; 
+f) promuove iniziative finalizzate alla diffusione della cultura dello sport, della difesa e della legalita' nonche' attivita' sportive giovanili e iniziative di promozione istituzionale; 
+g) coordina le attivita' di comunicazione istituzionale della Difesa connesse allo sport.))
+
+((Con decreto del Ministro della difesa sono definiti l'organizzazione interna, l'articolazione ordinativa e le modalita' di funzionamento del Gruppo sportivo della Difesa nonche' i suoi rapporti con i centri sportivi delle Forze armate e dell'Arma dei carabinieri e con il Centro sportivo paralimpico della Difesa)).
 
 ## Art. 31. — Comandi regione militare interforze
 
@@ -7149,11 +7162,11 @@ I campi di tiro a segno di cui al comma 1 ((sono dati in uso, a titolo gratuito,
 
 Coloro che prestano servizio armato presso enti pubblici o privati sono obbligati a iscriversi a una sezione di tiro a segno nazionale e devono superare ogni anno un corso di lezioni regolamentari di tiro a segno.
 
-L'iscrizione e la frequenza a una sezione di tiro a segno nazionale sono obbligatorie, ai fini della richiesta del permesso di porto d'armi per la caccia o per uso personale, per coloro che non hanno prestato o non prestano servizio presso le Forze armate dello Stato ((e i Corpi armati dello Stato)).
+L'iscrizione e la frequenza a una sezione di tiro a segno nazionale sono obbligatorie, ai fini della richiesta del permesso di porto d'armi per la caccia o per uso personale, per coloro che non hanno prestato o non prestano servizio presso le Forze armate dello Stato e i Corpi armati dello Stato.
 
-((Nell'ambito degli obblighi previsti dai commi 1 e 2 l'Unione italiana tiro a segno provvede alla formazione sulla legislazione in materia di armi e all'addestramento mediante protocolli che prevedono quattro giorni di esercitazioni applicate all'uso delle armi.))
+Nell'ambito degli obblighi previsti dai commi 1 e 2 l'Unione italiana tiro a segno provvede alla formazione sulla legislazione in materia di armi e all'addestramento mediante protocolli che prevedono ((tre)) giorni di esercitazioni applicate all'uso delle armi.
 
-((La quota annua per l'iscrizione obbligatoria all'Unione italiana tiro a segno per le categorie indicate ai commi 1 e 2 e' stabilita in euro 25.)) Con decreto dirigenziale della competente struttura del Ministero della difesa, di concerto con i Ministeri dell'interno, della giustizia, dell'economia e delle finanze e delle politiche agricole, alimentari e forestali, si provvede ad adeguare annualmente detta quota, sulla base delle variazioni percentuali del costo della vita quale risulta ai fini delle rilevazioni ISTAT per i conti economici nazionali pubblicati a marzo di ogni anno nella relazione sulla situazione economica del Paese. Gli aumenti decorrono dal 1° gennaio dell'anno successivo a quello di rilevazione.
+La quota annua per l'iscrizione obbligatoria all'Unione italiana tiro a segno per le categorie indicate ai commi 1 e 2 e' stabilita in euro 25. Con decreto dirigenziale della competente struttura del Ministero della difesa, di concerto con i Ministeri dell'interno, della giustizia, dell'economia e delle finanze e delle politiche agricole, alimentari e forestali, si provvede ad adeguare annualmente detta quota, sulla base delle variazioni percentuali del costo della vita quale risulta ai fini delle rilevazioni ISTAT per i conti economici nazionali pubblicati a marzo di ogni anno nella relazione sulla situazione economica del Paese. Gli aumenti decorrono dal 1° gennaio dell'anno successivo a quello di rilevazione.
 
 ## - - CAPO VI ZONE MONUMENTALI DI GUERRA, PATRIMONIO STORICO DELLA PRIMA GUERRA MONDIALE, SEPOLCRETI DI GUERRA SEZIONE I ZONE MONUMENTALI DI GUERRA
 
@@ -11696,6 +11709,12 @@ Il regolamento, in tale parte adottato di concerto con il Ministro dell'economia
 Al fine di assicurare gli interventi di protezione sociale a favore del personale militare e civile delle Forze armate e dei loro familiari, sono concessi in uso alle organizzazioni costituite tra il personale dipendente ai sensi dell'articolo 1475, oppure a enti e terzi, i locali demaniali, i mezzi, le strutture, i servizi e gli impianti necessari per i predetti interventi. Con il regolamento, di concerto con il Ministro dell'economia e delle finanze, sono determinati le consistenze e il valore di tali apporti nonche' le relative norme d'uso.
 
 Per l'esercizio delle attivita' connesse con gli interventi di protezione sociale di cui al comma 1, l'Amministrazione della difesa provvede mediante affidamento in concessione alle organizzazioni di cui al comma 1, oppure a enti e terzi, previo esperimento di indagini comparative secondo le procedure in economia applicabili alla Difesa e con le modalita' che sono stabilite con il regolamento, di concerto con il Ministro dell'economia e delle finanze.
+
+## Art. 547-bis. — (( (Attivita' sportiva dilettantistica).))
+
+
+
+((Le amministrazioni competenti provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica)).
 
 ## - - TITOLO III BILANCIO, NORME DI SPESA, FONDI DA RIPARTIRE CAPO I BILANCIO SEZIONE I FORMAZIONE DEL BILANCIO
 
@@ -30484,9 +30503,7 @@ Ferme restando le specifiche peculiarita' organizzative, le articolazioni perife
 
 ))
 
-## Art. 1477-ter. — (( (Cariche direttive). ))
-
-((
+## Art. 1477-ter. — (Cariche direttive)
 
 Le cariche direttive delle APCSM sono elettive, rispettano il principio di parita' di genere, e possono essere ricoperte solo da militari in servizio effettivo, che abbiano compiuto almeno cinque anni di servizio nelle Forze armate o nelle Forze di polizia a ordinamento militare e da militari in ausiliaria iscritti all'associazione stessa.
 
@@ -30522,11 +30539,9 @@ Le cariche direttive delle APCSM sono elettive, rispettano il principio di parit
                                 
                                     gli ufficiali che rivestono l'incarico di comandante di Corpo.
 
-La durata delle cariche direttive e' di quattro anni e non puo' essere frazionata. Non e' consentita la rielezione per piu' di due mandati consecutivi. Coloro che hanno ricoperto per due mandati consecutivi le cariche di cui al comma 1 sono nuovamente rieleggibili trascorsi tre anni dalla scadenza del secondo mandato.
+((La durata delle cariche direttive e' di quattro anni e non puo' essere frazionata. Non e' consentita la rielezione per piu' di tre mandati consecutivi. Coloro che hanno ricoperto per tre mandati consecutivi le cariche di cui al comma 1 sono nuovamente rieleggibili trascorsi tre anni dalla scadenza del terzo mandato.))
 
-Nessun militare puo' essere posto in distacco sindacale per piu' di cinque volte.
-
-))
+Nessun militare puo' essere posto in distacco sindacale per piu' di ((quattro)) volte.
 
 ## - - ((SEZIONE III)) ((ASSOCIAZIONI PROFESSIONALI A CARATTERE SINDACALE TRA MILITARI RAPPRESENTATIVE A LIVELLO NAZIONALE))
 
@@ -30604,21 +30619,17 @@ Ai fini del calcolo della consistenza associativa, la forza effettiva complessiv
 
 ))
 
-## Art. 1479-ter. — (( (Obblighi informativi). ))
-
-((
+## Art. 1479-ter. — (Obblighi informativi)
 
 Le amministrazioni militari del Ministero della difesa e del Ministero dell'economia e delle finanze comunicano alle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 il contenuto delle circolari e delle direttive da emanare in riferimento alle materie indicate nell'articolo 1476-ter, comma 2.
 
-Le procedure di informazione e consultazione delle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 sono disciplinate con il regolamento di attuazione di cui all'articolo 1475, comma 2.
+((Ai fini di cui al comma 1, la documentazione su cui richiedere il parere previsto dalla legge e dai regolamenti e' inviata, di norma, entro un termine non inferiore ai dieci giorni.))
 
-))
+Le procedure di informazione e consultazione delle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 sono disciplinate con il regolamento di attuazione di cui all'articolo 1475, comma 2.
 
 ## - - ((SEZIONE IV)) ((ATTIVITÀ SINDACALI, FINANZIAMENTO E TRASPARENZA DEI BILANCI))
 
-## Art. 1480. — (( (Svolgimento dell'attivita' di carattere sindacale).))
-
-((
+## Art. 1480. — (Svolgimento dell'attivita' di carattere sindacale)
 
 I rappresentanti delle APCSM svolgono l'attivita' sindacale fuori dal servizio.
 
@@ -30652,7 +30663,7 @@ Le APCSM possono procedere alla revoca dei distacchi e delle aspettative in ogni
 
 Sono vietati l'utilizzo della ripartizione dei distacchi in forma compensativa nonche' il loro utilizzo in forma frazionata.
 
-I distacchi e le aspettative sindacali non retribuite possono durare non piu' di tre anni. Nessun militare puo' essere posto in distacco o in aspettativa sindacale non retribuita piu' di cinque volte. Tra ciascun distacco o aspettativa sindacale non retribuita deve intercorrere almeno un triennio di servizio effettivo.
+I distacchi e le aspettative sindacali non retribuite possono durare non piu' di ((quattro)) anni. Nessun militare puo' essere posto in distacco o in aspettativa sindacale non retribuita piu' di ((quattro)) volte. ((PERIODO SOPPRESSO DAL D.L. 7 AGOSTO 2026, N. 144)).
 
 Le modalita' di impiego del militare che riprende servizio al termine di ogni periodo di distacco sindacale o aspettativa sindacale non retribuita sono disciplinate con il regolamento di attuazione di cui all'articolo 1475, comma 2.
 
@@ -30664,7 +30675,7 @@ L'effettiva utilizzazione dei permessi sindacali deve essere certificata entro t
 
 I permessi sindacali sono equiparati al servizio. Tenuto conto della specificita' delle funzioni istituzionali e della particolare organizzazione delle Forze armate e delle Forze di polizia a ordinamento militare, i permessi sono autorizzati in misura corrispondente al turno di servizio giornaliero e non possono superare mensilmente, per ciascun rappresentante sindacale, nove turni giornalieri di servizio.
 
-15. Per i permessi sindacali retribuiti e' corrisposto il trattamento economico corrispondente a quello di servizio, con esclusione delle indennita' e dei compensi per il lavoro straordinario e di quelli collegati all'effettivo svolgimento delle prestazioni.))
+Per i permessi sindacali retribuiti e' corrisposto il trattamento economico corrispondente a quello di servizio, con esclusione delle indennita' e dei compensi per il lavoro straordinario e di quelli collegati all'effettivo svolgimento delle prestazioni.
 
 ---------------
                             AGGIORNAMENTO (88)

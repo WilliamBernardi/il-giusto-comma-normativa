@@ -8,9 +8,9 @@ codice_redazionale: 010G0127
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2025-12-11
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-08-26
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -1466,7 +1466,7 @@ Materie di giurisdizione estesa al merito
 Competenza funzionale inderogabile del Tribunale amministrativo regionale del Lazio, sede di Roma 
  
  1. Sono devolute alla competenza inderogabile del Tribunale amministrativo regionale del Lazio, sede di Roma, salvo ulteriori previsioni di legge: 
- a) le controversie relative ai provvedimenti riguardanti i magistrati ordinari adottati ai sensi dell'articolo 17, primo comma, della legge 24 marzo 1958, n. 195, nonche' quelle relative ai provvedimenti riguardanti i magistrati amministrativi adottati dal Consiglio di Presidenza della Giustizia Amministrativa; 
+ a) ((le controversie relative ai provvedimenti riguardanti i magistrati ordinari adottati ai sensi dell'articolo 17, primo comma, della legge 24 marzo 1958, n. 195, quelle relative ai provvedimenti riguardanti i magistrati amministrativi adottati dal Consiglio di presidenza della giustizia amministrativa nonche' quelle relative ai provvedimenti riguardanti i magistrati tributari adottati ai sensi del decreto legislativo 31 dicembre 1992, n. 545 e del decreto legislativo 14 novembre 2024, n. 175;)) 
  b) le controversie aventi ad oggetto i provvedimenti dell'Autorita' garante per la concorrenza ed il mercato e quelli dell'Autorita' per le garanzie nelle comunicazioni; 
  c) le controversie di cui all'articolo 133, comma 1, lettera l), fatta eccezione per quelle di cui all'articolo 14, comma 2, nonche' le controversie di cui all'articolo 104, comma 2, del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385; (6) (11) 
  d) le controversie contro i provvedimenti ministeriali di cui all'articolo 133, comma 1, lettera m), nonche' i giudizi riguardanti l'assegnazione di diritti d'uso delle frequenze, la gara e le altre procedure di cui ai commi da 8 al 13 dell'articolo 1, della legge 13 dicembre 2010, n. 220, incluse le procedure di cui all'articolo 4 del decreto-legge 31 marzo 2011, n. 34, convertito, con modificazioni, dalla legge 26 maggio 2011, n. 75; 
@@ -1487,7 +1487,7 @@ Competenza funzionale inderogabile del Tribunale amministrativo regionale del La
  q-quater) le controversie aventi ad oggetto i provvedimenti emessi dall'Amministrazione autonoma dei monopoli di Stato in materia di giochi pubblici con vincita in denaro e quelli emessi dall'Autorita' di polizia relativi al rilascio di autorizzazioni in materia di giochi pubblici con vincita in denaro. (12) 
  q-quinquies) le controversie relative alle decisioni adottate ai sensi dell'articolo 24, paragrafo 2, lettera b), del regolamento (CE) n. 1987/2006 del Parlamento europeo e del Consiglio del 20 dicembre 2006 sull'istituzione, l'esercizio e l'uso del sistema d'informazione Schengen di seconda generazione (SIS II). 
  q-sexies) le controversie relative ai provvedimenti di ammissione ed esclusione dalle competizioni professionistiche delle societa' o associazioni sportive professionistiche, o comunque incidenti sulla partecipazione a competizioni professionistiche.(26) 
- ((q-septies) le controversie relative alle procedure di risanamento e risoluzione delle controparti centrali di cui al regolamento (UE) 2021/23.)) 
+ q-septies) le controversie relative alle procedure di risanamento e risoluzione delle controparti centrali di cui al regolamento (UE) 2021/23. 
  2. Restano esclusi dai casi di competenza inderogabile di cui al comma 1 le controversie sui rapporti di lavoro dei pubblici dipendenti, salvo quelle di cui alla lettera o) dello stesso comma 1.
 
 -------------

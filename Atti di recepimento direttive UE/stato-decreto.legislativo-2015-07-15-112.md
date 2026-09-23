@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2015-07-15;112
 vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
-vigenza_date: 2026-04-21
-zip_date: 2026-07-30
-fetched_at: 2026-07-30
+vigenza_date: 2026-08-21
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -90,7 +90,7 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro
 7.
                         
                             
-                                Il Ministero delle infrastrutture e dei trasporti trasmette contestualmente alle competenti Commissioni parlamentari, alla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nonche' all'Autorita' di regolazione dei trasporti di cui all'articolo 37 del ((decreto-legge 6 dicembre)) 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, entro il 31 marzo dell'anno di scadenza del contratto di programma di cui all'articolo 15, un documento strategico, con durata almeno decennale, denominato Documento strategico pluriennale della mobilita' (DSPM). Il DSPM definisce gli indirizzi strategici di lungo termine per lo sviluppo della rete, la mobilita' di passeggeri e merci per ferrovia, la promozione del trasporto multimodale e la piena integrazione delle esigenze del settore industriale e dei poli logistici nella pianificazione infrastrutturale ((e contiene)): 
+                                Il Ministero delle infrastrutture e dei trasporti trasmette contestualmente alle competenti Commissioni parlamentari, alla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nonche' all'Autorita' di regolazione dei trasporti di cui all'articolo 37 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, entro il 31 marzo dell'anno di scadenza del contratto di programma di cui all'articolo 15, un documento strategico, con durata almeno decennale, denominato Documento strategico pluriennale della mobilita' (DSPM). Il DSPM definisce gli indirizzi strategici di lungo termine per lo sviluppo della rete, la mobilita' di passeggeri e merci per ferrovia, la promozione del trasporto multimodale e la piena integrazione delle esigenze del settore industriale e dei poli logistici nella pianificazione infrastrutturale e contiene: 
  
                             
                             
@@ -118,12 +118,12 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro
                                 d)
                                 
                                     la descrizione degli assi strategici in materia di mobilita' ferroviaria, con particolare riferimento a: 
- 1) programmi di sicurezza e di resilienza delle infrastrutture, anche ((in ottemperanza a)) specifici obblighi di legge; 
+ 1) programmi di sicurezza e di resilienza delle infrastrutture, anche in ottemperanza a specifici obblighi di legge; 
  2) programmi di sviluppo tecnologico per aumentare la capacita' e migliorare le prestazioni con riferimento alla rete del Sistema nazionale integrato dei trasporti (SNIT) di primo e secondo livello; 
  3) interventi prioritari sulle direttrici, nonche' interventi prioritari da sottoporre a revisione progettuale; 
  4) attivita' relative al fondo per la progettazione degli interventi e le relative indicazioni di priorita' strategica; 
  5) individuazione delle priorita' strategiche relative ai collegamenti di ultimo miglio dei porti e degli aeroporti; 
- 6) localizzazione degli interventi, con la specifica indicazione di quelli da realizzarsi nelle regioni del Mezzogiorno in conformita' ((agli obiettivi)) di cui all'articolo 7-bis, comma 2, del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 18; 
+ 6) localizzazione degli interventi, con la specifica indicazione di quelli da realizzarsi nelle regioni del Mezzogiorno in conformita' agli obiettivi di cui all'articolo 7-bis, comma 2, del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 18; 
 
                                 
                             
@@ -151,9 +151,9 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro
                             
                                 h)
                                 
-                                    la definizione della strategia nazionale pluriennale di pianificazione degli investimenti infrastrutturali, recante delle priorita' di investimento per la promozione del trasporto multimodale, anche finalizzato alla connessione delle principali aree industriali e dei nodi logistici alla rete di trasporto.
+                                    la definizione della strategia nazionale pluriennale di pianificazione degli investimenti infrastrutturali, recante delle priorita' di investimento per la promozione del trasporto multimodale, ((specificamente calibrate sulla base della ricognizione dei fabbisogni logistici del settore industriale e della rete dei poli logistici, al fine di favorire lo sviluppo del trasporto ferroviario delle merci, nonche')) anche finalizzato alla connessione delle principali aree industriali e dei nodi logistici alla rete di trasporto.
 
-Le Commissioni parlamentari e la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nonche' l'Autorita' di regolazione dei trasporti di cui all'articolo 37 del ((decreto-legge 6 dicembre)) 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, quest'ultima in relazione alla coerenza degli investimenti previsti con le esigenze del mercato raccolte mediante i meccanismi di coordinamento di cui all'articolo 7-sexies della direttiva 2012/34/UE ((del Parlamento europeo e del Consiglio, del 21 novembre 2012)), si esprimono sul DSPM di cui al comma 7 nel termine di trenta giorni dalla sua ricezione, decorso il quale il Ministero delle infrastrutture e dei trasporti procede all'approvazione di detto documento con proprio decreto. Il documento strategico e' sottoposto ad aggiornamento dopo tre anni o comunque in caso di mutamento degli scenari di carattere eccezionale, secondo le modalita' indicate nel comma 7 e nel presente comma.
+Le Commissioni parlamentari e la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nonche' l'Autorita' di regolazione dei trasporti di cui all'articolo 37 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, quest'ultima in relazione alla coerenza degli investimenti previsti con le esigenze del mercato raccolte mediante i meccanismi di coordinamento di cui all'articolo 7-sexies della direttiva 2012/34/UE del Parlamento europeo e del Consiglio, del 21 novembre 2012, si esprimono sul DSPM di cui al comma 7 nel termine di trenta giorni dalla sua ricezione, decorso il quale il Ministero delle infrastrutture e dei trasporti procede all'approvazione di detto documento con proprio decreto. Il documento strategico e' sottoposto ad aggiornamento dopo tre anni o comunque in caso di mutamento degli scenari di carattere eccezionale, secondo le modalita' indicate nel comma 7 e nel presente comma.
 
 Le disposizioni del presente decreto non pregiudicano la direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014, sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la direttiva 2004/17/CE, recepita dal codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50.
 

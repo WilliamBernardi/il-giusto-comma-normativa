@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-20",
+  "zip_date": "2026-09-23",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19960206_175/1996-03-30_096G0184_ORIGINALE_V0.xml": {
       "sha256": "b9e6909b6c24b5aa9423a811d28d930fd3228e63ed977c13f9fea8793daafd3e",
@@ -3716,8 +3716,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2015-06-26-105.md",
       "urn": "urn:nir:stato:decreto.legislativo:2015-06-26;105"
     },
-    "DECRETO LEGISLATIVO_20150715_112/2015-07-24_15G00126_VIGENZA_2026-05-14_V0.xml": {
-      "sha256": "19f4e0f8815ad92c8dbef304c40b002041b8736497484dd892ec98695d353ffe",
+    "DECRETO LEGISLATIVO_20150715_112/2015-07-24_15G00126_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "9d58141a929649b72998188fea237bb7cfb2b663fdb6276f4dfbbe76288ef15c",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2015-07-15-112.md",
       "urn": "urn:nir:stato:decreto.legislativo:2015-07-15;112"
     },

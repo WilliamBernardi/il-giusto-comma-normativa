@@ -8,9 +8,9 @@ codice_redazionale: 005G0233
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-06-19
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-08-12
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -7946,14 +7946,14 @@ Gli importi stabiliti nella tabella unica nazionale ((di cui al comma 1, lettera
                                 a)
                                 
                                     a titolo di danno biologico permanente, e' liquidato per i postumi da lesioni pari o inferiori al 9 per cento un importo crescente in misura piu' che proporzionale in relazione a ogni punto percentuale di invalidita'; tale importo e' calcolato in base all'applicazione a ciascun punto percentuale di invalidita' del relativo coefficiente secondo la correlazione stabilita dal comma 6.
-L'importo cosi' determinato si riduce con il crescere dell'eta' del soggetto in ragione dello 0,5 per cento per ogni anno di eta' a partire dall'undicesimo anno di eta'. Il valore del primo punto e' pari a 795,91 euro;(44) (50) (55) (65) (69) (73a) ((78))
+L'importo cosi' determinato si riduce con il crescere dell'eta' del soggetto in ragione dello 0,5 per cento per ogni anno di eta' a partire dall'undicesimo anno di eta'. Il valore del primo punto e' pari a 795,91 euro;(44) (50) (55) (65) (69) (73a) (78) ((86))
                                     
                                 
                             
                             
                                 b)
                                 
-                                    a titolo di danno biologico temporaneo, e' liquidato un importo di 39,37 euro per ogni giorno di inabilita' assoluta; in caso di inabilita' temporanea inferiore al 100 per cento, la liquidazione avviene in misura corrispondente alla percentuale di inabilita' riconosciuta per ciascun giorno.(44) (50) (55) (65) (69) (73a) ((78))
+                                    a titolo di danno biologico temporaneo, e' liquidato un importo di 39,37 euro per ogni giorno di inabilita' assoluta; in caso di inabilita' temporanea inferiore al 100 per cento, la liquidazione avviene in misura corrispondente alla percentuale di inabilita' riconosciuta per ciascun giorno.(44) (50) (55) (65) (69) (73a) (78) ((86))
 
 Ai fini di cui al comma 1, per danno biologico si intende la lesione temporanea o permanente all'integrita' psico-fisica della persona, suscettibile di accertamento medico-legale, che esplica un'incidenza negativa sulle attivita' quotidiane e sugli aspetti dinamico-relazionali della vita del danneggiato, indipendentemente da eventuali ripercussioni sulla sua capacita' di produrre reddito. In ogni caso, le lesioni di lieve entita', che non siano suscettibili di accertamento clinico strumentale obiettivo, ovvero visivo, con riferimento alle lesioni, quali le cicatrici, oggettivamente riscontrabili senza l'ausilio di strumentazioni, non possono dar luogo a risarcimento per danno biologico permanente.
 
@@ -8059,7 +8059,13 @@ Ai fini del calcolo dell'importo di cui al comma 1, lettera a), per un punto per
                             
  Il Decreto 18 luglio 2025 (in G.U. 31/07/2025, n. 176) ha disposto (con l'art. 1, comma 1, lettere a) e b)) che "A decorrere dal mese di aprile 2025, gli importi indicati nel comma 1, dell'art. 139 del codice delle assicurazioni private e rideterminati, da ultimo, con il decreto del Ministro delle imprese e del made in Italy del 16 luglio 2024, sono aggiornati nelle seguenti misure: 
  a) novecentosessantatre' euro e quaranta centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
- b) cinquantasei euro e diciotto centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)".
+ b) cinquantasei euro e diciotto centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (86)
+                            
+ Il Decreto 20 luglio 2026 (in G.U. 28/7/2026, n. 173) ha disposto (con l'art. 1, comma 1, lettere a) e b)) che "A decorrere dal mese di aprile 2026, gli importi indicati nel comma 1, dell'art. 139 del codice delle assicurazioni private e rideterminati, da ultimo, con il decreto del Ministro delle imprese e del made in Italy del 18 luglio 2025, sono aggiornati nelle seguenti misure: 
+ a) novecentottantotto euro e quarantacinque centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ b) cinquantasette euro e sessantaquattro centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)".
 
 ## Art. 140. — Pluralita' di danneggiati e supero del massimale
 

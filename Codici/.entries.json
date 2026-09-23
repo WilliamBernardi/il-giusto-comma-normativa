@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-10",
+  "zip_date": "2026-09-23",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19520215_328/1952-04-21_052U0328_VIGENZA_2026-05-26_V0.xml": {
       "sha256": "7af57cd54d85dc60384e35547e47ac9c0be99419b1fbffcbdc846c552cc21e08",
@@ -11,8 +11,8 @@
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1973-03-29-156.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-08-09_V0.xml": {
-      "sha256": "3505cef0c4678e4da4b76123289163aab1a52a2b21062542df20ba6d0d7fe315",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "3aa5b272ce687fde1d9388875bf6673ace5ef5ffe390366158774775327558c5",
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
     },
@@ -46,8 +46,8 @@
       "out": "Codici/stato-decreto.legislativo-2003-06-30-196.md",
       "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;196"
     },
-    "DECRETO LEGISLATIVO_20030801_259/2003-09-15_003G0280_VIGENZA_2026-07-23_V0.xml": {
-      "sha256": "bcfd30ef227b1b10840779a9b528e19789d5b42e49eb4739894f4504897dcbb9",
+    "DECRETO LEGISLATIVO_20030801_259/2003-09-15_003G0280_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "dafc24ab891759c0f3ccbca03d0a8638cd4eb166122fd11e7601a913ff4df338",
       "out": "Codici/stato-decreto.legislativo-2003-08-01-259.md",
       "urn": "urn:nir:stato:decreto.legislativo:2003-08-01;259"
     },
@@ -66,8 +66,8 @@
       "out": "Codici/stato-decreto.legislativo-2005-03-07-82.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-03-07;82"
     },
-    "DECRETO LEGISLATIVO_20050718_171/2005-08-31_005G0200_VIGENZA_2026-05-23_V0.xml": {
-      "sha256": "87ecde3491d4d35411641eac65d7ffac54afb344654f4b60d6b9148dd4e7e433",
+    "DECRETO LEGISLATIVO_20050718_171/2005-08-31_005G0200_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "4603814669ada23cdeb70395d6b2ecaaebfe64e819d31d5252898b86f2a7d84b",
       "out": "Codici/stato-decreto.legislativo-2005-07-18-171.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-07-18;171"
     },
@@ -76,13 +76,13 @@
       "out": "Codici/stato-decreto.legislativo-2005-09-06-206.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-09-06;206"
     },
-    "DECRETO LEGISLATIVO_20050907_209/2005-10-13_005G0233_VIGENZA_2026-06-19_V0.xml": {
-      "sha256": "3b857482314569606ae6eff4d8e2681b2b1a2269800118107741ce1fb971a8f0",
+    "DECRETO LEGISLATIVO_20050907_209/2005-10-13_005G0233_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "34e4118c0eb4cc786d28e462efa1bebdb00871804a967edc5e6d00593db38acb",
       "out": "Codici/stato-decreto.legislativo-2005-09-07-209.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-09-07;209"
     },
-    "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-06-06_V0.xml": {
-      "sha256": "cc348c04d4a3393c2d2404ecda8762ab9521aff53c1b4213c6b68d031526962e",
+    "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "25db50ac9f0f19e6b2c6e70e64c55b969311c56e5495a9176d1821077ba55608",
       "out": "Codici/stato-decreto.legislativo-2006-04-03-152.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-04-03;152"
     },
@@ -96,13 +96,13 @@
       "out": "Codici/stato-decreto.legislativo-2006-04-12-163.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-04-12;163"
     },
-    "DECRETO LEGISLATIVO_20100315_66/2010-05-08_010G0089_VIGENZA_2026-07-09_V0.xml": {
-      "sha256": "29188004a2a177fd2349f2a70503e09be3d3c95b80e126894a40fc3c5ad8e88f",
+    "DECRETO LEGISLATIVO_20100315_66/2010-05-08_010G0089_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "6adc93106e4f27877f9d634120e05356e2fed71c96d49dd42e99cddf83a62225",
       "out": "Codici/stato-decreto.legislativo-2010-03-15-66.md",
       "urn": "urn:nir:stato:decreto.legislativo:2010-03-15;66"
     },
-    "DECRETO LEGISLATIVO_20100702_104/2010-07-07_010G0127_VIGENZA_2025-12-12_V0.xml": {
-      "sha256": "3cc7635f573cb9d9307304f1de15aaad3066dd173340339fba1a0e84d7f11554",
+    "DECRETO LEGISLATIVO_20100702_104/2010-07-07_010G0127_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "6d7a46379faad9d5379e2637bf7804c0309f903f182ba26c4df7f81dd48decd5",
       "out": "Codici/stato-decreto.legislativo-2010-07-02-104.md",
       "urn": "urn:nir:stato:decreto.legislativo:2010-07-02;104"
     },
@@ -126,8 +126,8 @@
       "out": "Codici/stato-decreto.legislativo-2016-08-26-174.md",
       "urn": "urn:nir:stato:decreto.legislativo:2016-08-26;174"
     },
-    "DECRETO LEGISLATIVO_20170703_117/2017-08-02_17G00128_VIGENZA_2026-02-10_V0.xml": {
-      "sha256": "5da95696afa323db50887509e611a76d9f8870d8b95e3ee440402f6cbed1441a",
+    "DECRETO LEGISLATIVO_20170703_117/2017-08-02_17G00128_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "37515ea548b27461e23efb224ce7a3da3cf3439f1525a00cd7c602afe165574b",
       "out": "Codici/stato-decreto.legislativo-2017-07-03-117.md",
       "urn": "urn:nir:stato:decreto.legislativo:2017-07-03;117"
     },
@@ -136,18 +136,18 @@
       "out": "Codici/stato-decreto.legislativo-2018-01-02-1.md",
       "urn": "urn:nir:stato:decreto.legislativo:2018-01-02;1"
     },
-    "DECRETO LEGISLATIVO_20190112_14/2019-02-14_19G00007_VIGENZA_2025-12-12_V0.xml": {
-      "sha256": "ee5b8f5a81ec9b86de6034f8af20370907993bff783a49bddd75eb59788ad10d",
+    "DECRETO LEGISLATIVO_20190112_14/2019-02-14_19G00007_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "d60b3415e27171ebdcf2b0477a4e3e179c5fb28e8bae6cfc7fecb89e7676a3a8",
       "out": "Codici/stato-decreto.legislativo-2019-01-12-14.md",
       "urn": "urn:nir:stato:decreto.legislativo:2019-01-12;14"
     },
-    "DECRETO LEGISLATIVO_20230331_36/2023-03-31_23G00044_VIGENZA_2026-04-07_V0.xml": {
-      "sha256": "0dc11b9663db8b78b9c1ad0f2213279a13c5fbf2edc1d00e0295cdf6d47e0e17",
+    "DECRETO LEGISLATIVO_20230331_36/2023-03-31_23G00044_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "3a16469a84a34ee8445c195e0e5542d922ac8b1e234bb42d4a317f93ff9f6a49",
       "out": "Codici/stato-decreto.legislativo-2023-03-31-36.md",
       "urn": "urn:nir:stato:decreto.legislativo:2023-03-31;36"
     },
-    "DECRETO LEGISLATIVO_20251127_184/2025-12-10_25G00192_ORIGINALE_V0.xml": {
-      "sha256": "3eee0828fc231a6159a174e474e77881875fcca1bea85889b8703e86638eda66",
+    "DECRETO LEGISLATIVO_20251127_184/2025-12-10_25G00192_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "759b5435b5d564d596ddc753d53a292d918353740fc592e44878fb0bf5920a43",
       "out": "Codici/stato-decreto.legislativo-2025-11-27-184.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-11-27;184"
     },

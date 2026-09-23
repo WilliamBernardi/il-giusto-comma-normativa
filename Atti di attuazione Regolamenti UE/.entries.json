@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-08",
+  "zip_date": "2026-09-23",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960722_447/1996-08-30_096G0470_ORIGINALE_V0.xml": {
       "sha256": "bab119d2fa71595ee95eb4772bdf8329f3f84dbf597ee1fcb1c05e98fa87977c",
@@ -26,8 +26,8 @@
       "out": "Atti di attuazione Regolamenti UE/stato-decreto.legislativo-2019-11-25-165.md",
       "urn": "urn:nir:stato:decreto.legislativo:2019-11-25;165"
     },
-    "DECRETO LEGISLATIVO_20211108_210/2021-12-11_21G00233_VIGENZA_2026-07-07_V0.xml": {
-      "sha256": "eda2ec009fc250e0280374e317914e6361d592d096e741b72ab3aa47bad585e1",
+    "DECRETO LEGISLATIVO_20211108_210/2021-12-11_21G00233_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "fda6e92334151e96859c77793fe27c9d2c0a129303f6b1d899d7b04c5bb7a7f3",
       "out": "Atti di attuazione Regolamenti UE/stato-decreto.legislativo-2021-11-08-210.md",
       "urn": "urn:nir:stato:decreto.legislativo:2021-11-08;210"
     },

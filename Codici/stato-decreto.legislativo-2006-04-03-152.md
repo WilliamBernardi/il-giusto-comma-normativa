@@ -8,9 +8,9 @@ codice_redazionale: 006G0171
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-06-02
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-08-29
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -8003,11 +8003,11 @@ Allo scopo di incentivare il riutilizzo di acqua reflua o gia' usata nel ciclo p
 
 ## Art. 156. — (riscossione della tariffa)
 
-La tariffa e' riscossa dal gestore del servizio idrico integrato. Qualora il servizio idrico sia gestito separatamente, per effetto di particolari convenzioni e concessioni, la relativa tariffa e' riscossa dal gestore del servizio di acquedotto, il quale provvede al successivo riparto tra i diversi gestori interessati entro trenta giorni dalla riscossione((, in base a quanto stabilito dall'Autorita' per l'energia elettrica, il gas e il sistema idrico.))
+La tariffa e' riscossa dal gestore del servizio idrico integrato. Qualora il servizio idrico sia gestito separatamente, per effetto di particolari convenzioni e concessioni, la relativa tariffa e' riscossa dal gestore del servizio di acquedotto, il quale provvede al successivo riparto tra i diversi gestori interessati entro trenta giorni dalla riscossione, in base a quanto stabilito dall'Autorita' per l'energia elettrica, il gas e il sistema idrico.
 
-Con apposita convenzione, sottoposta al controllo ((dell'Autorita' per l'energia elettrica, il gas ed il sistema idrico)), sono definiti i rapporti tra i diversi gestori per il riparto delle spese di riscossione.
+Con apposita convenzione, sottoposta al controllo dell'Autorita' per l'energia elettrica, il gas ed il sistema idrico, sono definiti i rapporti tra i diversi gestori per il riparto delle spese di riscossione.
 
-La riscossione volontaria della tariffa puo' essere effettuata con le modalita' di cui al capo III del decreto legislativo 9 luglio 1997, n. 241, previa convenzione con l'Agenzia delle entrate. La riscossione, sia volontaria sia coattiva, della tariffa puo' altresi' essere affidata ai soggetti iscritti all'albo previsto dall'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, a seguito di procedimento ad evidenza pubblica.
+((La riscossione, sia volontaria che coattiva, della tariffa puo' essere affidata ai soggetti pubblici e privati iscritti nella sezione prima dell'albo di cui all'articolo 53 del decreto legislativo 15 dicembre 1997, n. 446, mediante procedimento ad evidenza pubblica)).
 
 ## Art. 157. — (opere di adeguamento del servizio idrico)
 
@@ -12654,8 +12654,9 @@ Ferma restando la valutazione delle eventuali responsabilita' ai sensi della nor
                             
                                 g)
                                 
-                                    le garanzie finanziarie richieste, che devono essere prestate solo al momento dell'avvio effettivo dell'esercizio dell'impianto; le garanzie finanziarie per la gestione della discarica, anche per la fase successiva alla sua chiusura, dovranno essere prestate conformemente a quanto diposto dall'articolo 14 del decreto legislativo 13 gennaio 2003, n. 36; (45) 
-
+                                    
+                                        ((le garanzie finanziarie richieste, che devono essere prestate solo al momento dell'avvio effettivo dell'esercizio dell'impianto; le garanzie finanziarie per la gestione della discarica, anche per la fase successiva alla sua chiusura, dovranno essere prestate conformemente a quanto disposto dall'articolo 14 del decreto legislativo 13 gennaio 2003, n. 36. Per le societa' ammesse alla procedura di amministrazione straordinaria ai sensi del decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, che gestiscono almeno un impianto dichiarato di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, le garanzie finanziarie di cui alla presente lettera, comprese quelle riferite agli impianti di discarica ai sensi dell'articolo 14 del decreto legislativo n. 36 del 2003, possono essere prestate, per il periodo dell'amministrazione straordinaria e sino alla cessione a terzi del compendio aziendale, su base annuale e comunque per una durata non inferiore a un anno, anche qualora l'autorizzazione o il periodo di gestione autorizzato abbia durata superiore. La garanzia cosi' prestata e' considerata conforme ai requisiti di legge per il relativo periodo di efficacia, senza necessita' di ulteriori previsioni contrattuali riferite ai periodi successivi o alle modalita' di escussione. Resta fermo che, in ogni caso, nessuna attivita' di discarica puo' essere effettuata in mancanza della predetta garanzia finanziaria;))
+                                    
                                 
                             
                             
@@ -12703,7 +12704,7 @@ Per impianti di smaltimento o di recupero di rifiuti ricompresi in un'installazi
 
 Il controllo e l'autorizzazione delle operazioni di carico, scarico, trasbordo, deposito e maneggio di rifiuti in aree portuali sono disciplinati dalle specifiche disposizioni di cui alla legge 28 gennaio 1994, n. 84 e di cui al decreto legislativo 24 giugno 2003, n. 182 di attuazione della direttiva 2000/59/CE sui rifiuti prodotti sulle navi e dalle altre disposizioni previste in materia dalla normativa vigente. Nel caso di trasporto transfrontaliero di rifiuti, l'autorizzazione delle operazioni di imbarco e di sbarco non puo' essere rilasciata se il richiedente non dimostra di avere ottemperato agli adempimenti di cui all'articolo 193, comma 1, del presente decreto.
 
-Gli impianti mobili di smaltimento o di recupero, esclusi gli impianti mobili che effettuano la disidratazione dei fanghi generati da impianti di depurazione e reimmettono l'acqua in testa al processo depurativo presso il quale operano, ed esclusi i casi in cui si provveda alla sola riduzione volumetrica e separazione delle frazioni estranee, sono autorizzati, in via definitiva, dalla regione ove l'interessato ha la sede legale o la societa' straniera proprietaria dell'impianto ha la sede di rappresentanza. Per lo svolgimento delle singole campagne di attivita' sul territorio nazionale, l'interessato, almeno venti giorni prima dell'installazione dell'impianto, deve comunicare alla regione nel cui territorio si trova il sito prescelto le specifiche dettagliate relative alla campagna di attivita', allegando l'autorizzazione di cui al comma 1 e l'iscrizione all'Albo nazionale gestori ambientali, nonche' l'ulteriore documentazione richiesta. La regione puo' adottare prescrizioni integrative oppure puo' vietare l'attivita' con provvedi mento motivato qualora lo svolgimento della stessa nello specifico sito non sia compatibile con la tutela dell'ambiente o della salute pubblica. (127) ((218))
+Gli impianti mobili di smaltimento o di recupero, esclusi gli impianti mobili che effettuano la disidratazione dei fanghi generati da impianti di depurazione e reimmettono l'acqua in testa al processo depurativo presso il quale operano, ed esclusi i casi in cui si provveda alla sola riduzione volumetrica e separazione delle frazioni estranee, sono autorizzati, in via definitiva, dalla regione ove l'interessato ha la sede legale o la societa' straniera proprietaria dell'impianto ha la sede di rappresentanza. Per lo svolgimento delle singole campagne di attivita' sul territorio nazionale, l'interessato, almeno venti giorni prima dell'installazione dell'impianto, deve comunicare alla regione nel cui territorio si trova il sito prescelto le specifiche dettagliate relative alla campagna di attivita', allegando l'autorizzazione di cui al comma 1 e l'iscrizione all'Albo nazionale gestori ambientali, nonche' l'ulteriore documentazione richiesta. La regione puo' adottare prescrizioni integrative oppure puo' vietare l'attivita' con provvedi mento motivato qualora lo svolgimento della stessa nello specifico sito non sia compatibile con la tutela dell'ambiente o della salute pubblica. (127) (218)
 
 Le disposizioni di cui al presente articolo si applicano anche ai procedimenti in corso alla data di entrata in vigore della parte quarta del presente decreto, eccetto quelli per i quali sia completata la procedura di valutazione di impatto ambientale.
 
@@ -12768,15 +12769,11 @@ In caso di eventi incidenti sull'autorizzazione, questi sono comunicati, previo 
 
 Le procedure di cui al presente articolo si applicano anche per la realizzazione di varianti sostanziali in corso d'opera o di esercizio che comportino modifiche a seguito delle quali gli impianti non sono piu' conformi all'autorizzazione rilasciata.
 
-Alle utenze non domestiche che effettuano il compostaggio aerobico individuale per residui costituiti da sostanze naturali non pericolose prodotti nell'ambito delle attivita' agricole e vivaistiche e alle utenze domestiche che effettuano compostaggio aerobico individuale per i propri rifiuti organici da cucina, sfalci e potature da giardino e' applicata una riduzione della tariffa dovuta per la gestione dei rifiuti urbani.
+COMMA ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 147.
 
 COMMA ABROGATO DAL D.LGS. 3 DICEMBRE 2010, N. 205.
 
 -------------
-                            AGGIORNAMENTO (45)
-                            
- Il D.L. 26 novembre 2010, n. 196, convertito con modificazioni dalla L. 24 gennaio 2011, n. 1, ha disposto (con l'art. 3, comma 2-bis) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, e' ridotto del 50 per cento, per le imprese registrate ai sensi del regolamento (CE) n. 1221/2009 del Parlamento europeo e del Consiglio, del 25 novembre 2009 (Emas), e del 40 per cento, per quelle in possesso della certificazione ambientale ai sensi della norma UNI EN ISO 14001, l'importo delle garanzie finanziarie di cui all'articolo 208, comma 11, lettera g), del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni". 
-                            -------------
                             AGGIORNAMENTO (127)
                             
  Il D.L. 17 ottobre 2016, n. 189, convertito con modificazioni dalla L. 15 dicembre 2016, n. 229, come modificato dal D.L. 24 ottobre 2019, n. 123, ha disposto (con l'art. 28, comma 7-bis) che "Nel caso in cui nel sito temporaneo di deposito siano da effettuare operazioni di trattamento delle macerie con l'ausilio di impianti mobili, il termine di cui all'articolo 208, comma 15, secondo periodo, del decreto legislativo 3 aprile 2006, n. 152, e' ridotto a quindici giorni". 
@@ -14595,6 +14592,55 @@ Gli organismi accreditati certificano la presenza del contenuto minimo di materi
 
 Al fine di realizzare attivita' di studio e verifica tecnica e monitoraggio da parte dei competenti istituti di ricerca, e' istituito un apposito Fondo presso il Ministero dell'ambiente e della tutela del territorio e del mare con una dotazione di euro 100.000 a decorrere dall'anno 2019. Con successivo decreto del Ministro dell'ambiente e della tutela del territorio e del mare, da emanare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate le specifiche modalita' di utilizzazione del Fondo.
 
+## Art. 226-quinquies. — (( (Obbligo di compostabilita' per determinate tipologie di imballaggio). ))
+
+
+
+1.
+                        
+                            
+                                
+                                    ((I seguenti imballaggi sono messi a disposizione per la prima volta sul mercato nazionale, oltre che nei formati e per gli utilizzi consentiti dal regolamento (UE) 2025/40 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, qualora certificati da organismi accreditati come biodegradabili e compostabili in conformita' alla norma UNI EN 13432 o a standard di compostabilita' equivalenti riconosciuti a livello europeo:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((imballaggi di plastica monouso per il confezionamento di meno di 1,5 kg di prodotti ortofrutticoli freschi preconfezionati;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((imballaggi di plastica monouso di alimenti e bevande, riempiti e destinati al consumo nei locali del settore alberghiero, della ristorazione e del catering;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((imballaggi di plastica monouso del settore alberghiero, della ristorazione e del catering contenenti porzioni individuali di condimenti, ivi incluse conserve, salse, panna da caffe' e zucchero, ad eccezione degli:)) 
+ 1) ((imballaggi forniti insieme ad alimenti pronti da asporto destinati al consumo immediato senza necessita' di ulteriori preparazioni;)) 
+ 2) ((imballaggi necessari per garantire la sicurezza e l'igiene in strutture in cui vige un requisito medico di cura individuale, quali ospedali, cliniche o residenze sanitarie assistenziali;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((imballaggi flessibili monouso per cosmetici e prodotti per l'igiene per l'utilizzo nel settore ricettivo, come descritti nella classificazione delle attivita' economiche ATECO 2025, destinati esclusivamente a una prenotazione individuale e a essere smaltiti prima dell'arrivo dell'ospite successivo.))
+
+((Fatta eccezione per quanto previsto al comma 3 del presente articolo, le esenzioni di cui all'articolo 25, paragrafo 4, del regolamento (UE) 2025/40 si applicano agli imballaggi di cui alle lettere a), b) e c), numero 2), del comma 1 del presente articolo, alle condizioni stabilite dal medesimo paragrafo 4 dell'articolo 25, nonche' dall'allegato V del regolamento (UE) 2025/40.))
+
+((Resta fermo, per il caso in cui gli imballaggi di cui alle lettere a) e b) del comma 1 del presente articolo consistano nei prodotti di plastica monouso di cui al numero 3) della parte B dell'allegato al decreto legislativo 8 novembre 2021, n. 196, il divieto di cui all'articolo 5, comma 1, del medesimo decreto.))
+
+((Il comma 1 del presente articolo non pregiudica il rispetto degli obblighi di conformita' alla normativa sull'utilizzo dei materiali destinati al contatto con gli alimenti adottata in attuazione del regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio, del 27 ottobre 2004, del regolamento (UE) n. 10/2011 della Commissione, del 14 gennaio 2011, e del regolamento (CE) n. 2023/2006 della Commissione, del 22 dicembre 2006, nonche' delle previsioni sulla gestione dei rifiuti di cui al comma 6 dell'articolo 182-ter del presente decreto.))
+
 ## - - TITOLO III GESTIONE DI PARTICOLARI CATEGORIE DI RIFIUTI
 
 ## Art. 227. — (( (Rifiuti elettrici ed elettronici, rifiuti di pile e accumulatori, rifiuti sanitari, veicoli fuori uso e prodotti contenenti amianto).))
@@ -15871,43 +15917,9 @@ Il proprietario o il gestore degli impianti sono tenuti a fornire tutte le infor
 
 ## - - TITOLO IV TARIFFA PER LA GESTIONE DEI RIFIUTI URBANI
 
-## Art. 238. — Tariffa per la gestione dei rifiuti urbani
+## Art. 238. — (( (Corrispettivi dovuti per il conferimento di rifiuti al servizio pubblico.))
 
-Chiunque possegga o detenga a qualsiasi titolo locali, o aree scoperte ad uso privato o pubblico non costituenti accessorio o pertinenza dei locali medesimi, a qualsiasi uso adibiti, esistenti nelle zone del territorio comunale, che producano rifiuti urbani, e' tenuto al pagamento di una tariffa. La tariffa costituisce il corrispettivo per lo svolgimento del servizio di raccolta, recupero e smaltimento dei rifiuti solidi urbani e ricomprende anche i costi indicati dall'articolo 15 del decreto legislativo 13 gennaio 2003, n. 
-36. La tariffa di cui all'articolo 49 del decreto legislativo 5 febbraio 1997, n. 22, e' soppressa a decorrere dall'entrata in vigore del presente articolo, salvo quanto previsto dal comma 11.
 
-La tariffa per la gestione dei rifiuti e' commisurata alle quantita' e qualita' medie ordinarie di rifiuti prodotti per unita' di superficie, in relazione agli usi e alla tipologia di attivita' svolte, sulla base di parametri, determinati con il regolamento di cui al comma 6, che tengano anche conto di indici reddituali articolati per fasce di utenza e territoriali.
-
-La tariffa e' determinata, entro tre mesi dalla data di entrata in vigore del decreto di cui al comma 6, dalle Autorita' d'ambito ed e' applicata e riscossa dai soggetti affidatari del servizio di gestione integrata sulla base dei criteri fissati dal regolamento di cui al comma 6. Nella determinazione della tariffa e' prevista la copertura anche di costi accessori relativi alla gestione dei rifiuti urbani quali, ad esempio, le spese di spazzamento delle strade.
-Qualora detti costi vengano coperti con la tariffa cio' deve essere evidenziato nei piani finanziari e nei bilanci dei soggetti affidatari del servizio.
-
-La tariffa e' composta da una quota determinata in relazione alle componenti essenziali del costo del servizio, riferite in particolare agli investimenti per le opere ed ai relativi ammortamenti, nonche' da una quota rapportata alle quantita' di rifiuti conferiti, al servizio fornito e all'entita' dei costi di gestione, in modo che sia assicurata la copertura integrale dei costi di investimento e di esercizio.
-
-Le Autorita' d'ambito approvano e presentano all'Autorita' di cui all'articolo 207 il piano finanziario e la relativa relazione redatta dal soggetto affidatario del servizio di gestione integrata.
-Entro quattro anni dalla data di entrata in vigore del regolamento di cui al comma 6, dovra' essere gradualmente assicurata l'integrale copertura dei costi.
-
-Il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro delle attivita' produttive, sentiti la Conferenza Stato regioni e le province autonome di Trento e di Bolzano, le rappresentanze qualificate degli interessi economici e sociali presenti nel Consiglio economico e sociale per le politiche ambientali (CESPA) e i soggetti interessati, disciplina, con apposito regolamento da emanarsi entro sei mesi dalla data di entrata in vigore della parte quarta del presente decreto e nel rispetto delle disposizioni di cui al presente articolo, i criteri generali sulla base dei quali vengono definite le componenti dei costi e viene determinata la tariffa, anche con riferimento alle agevolazioni di cui al comma 7, garantendo comunque l'assenza di oneri per le autorita' interessate.
-
-Nella determinazione della tariffa possono essere previste agevolazioni per le utenze domestiche e per quelle adibite ad uso stagionale o non continuativo, debitamente documentato ed accertato, che tengano anche conto di indici reddituali articolati per fasce di utenza e territoriali. In questo caso, nel piano finanziario devono essere indicate le risorse necessarie per garantire l'integrale copertura dei minori introiti derivanti dalle agevolazioni, secondo i criteri fissati dal regolamento di cui al comma 6.
-
-Il regolamento di cui al comma 6 tiene conto anche degli obiettivi di miglioramento della produttivita' e della qualita' del servizio fornito e del tasso di inflazione programmato.
-
-L'eventuale modulazione della tariffa tiene conto degli investimenti effettuati dai comuni o dai gestori che risultino utili ai fini dell'organizzazione del servizio.
-
-Le utenze non domestiche che producono rifiuti urbani di cui all'articolo 183, comma 1, lettera b-ter), numero 2., che li conferiscono ((, in tutto o in parte,)) al di fuori del servizio pubblico e dimostrano di averli avviati ((al riciclo o)) al recupero mediante attestazione rilasciata dal soggetto che effettua l'attivita' di ((riciclo o)) recupero dei rifiuti stessi sono escluse dalla corresponsione della componente tariffaria rapportata alla quantita' dei rifiuti conferiti; le medesime utenze effettuano la scelta di servirsi del gestore del servizio pubblico o del ricorso al mercato per un periodo non inferiore a due anni.
-
-Sino alla emanazione del regolamento di cui al comma 6 e fino al compimento degli adempimenti per l'applicazione della tariffa continuano ad applicarsi le discipline regolamentari vigenti.
-
-La riscossione volontaria e coattiva della tariffa puo' essere effettuata secondo le disposizioni del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, mediante convenzione con l'Agenzia delle entrate. (6) (36)
-
--------------
-                            AGGIORNAMENTO (6)
-                            
- Il D.L. 11 maggio 2007, n. 61, convertito con modificazioni dalla L. 5 luglio 2007, n. 87, ha disposto (con l'art. 7, comma 1) che "in deroga al presente articolo 238, i comuni della regione Campania adottano immediatamente le iniziative urgenti per assicurare che, a decorrere dal 1° gennaio 2008 e per un periodo di cinque anni, ai fini della determinazione della tassa di smaltimento dei rifiuti solidi urbani e della tariffa igiene ambientale (TIA) siano applicate misure tariffarie per garantire la copertura integrale dei costi del servizio di gestione dei rifiuti indicati in appositi piani economico-finanziari redatti tenendo conto anche delle indicazioni contenute nei piani di cui all'articolo 4. Ai comuni che non provvedono nei termini previsti si applicano le sanzioni di cui all'articolo 141, comma 1, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, previa diffida ad adempiere e successiva nomina, in caso di inottemperanza, di un apposito commissario da parte del prefetto per l'approvazione delle delibere necessarie". 
-                            -------------
-                            AGGIORNAMENTO (36)
-                            
- Il D.L. 31 maggio 2010, n. 78, convertito, con modificazioni, dalla L. 30 luglio 2010, n. 122 ha disposto (con l'art. 14, comma 33) che "Le disposizioni di cui all'articolo 238 del decreto legislativo 3 aprile 2006, n. 152, si interpretano nel senso che la natura della tariffa ivi prevista non e' tributaria. Le controversie relative alla predetta tariffa, sorte successivamente alla data di entrata in vigore del presente decreto, rientrano nella giurisdizione dell'autorita' giudiziaria ordinaria".
 
 ## - - TITOLO V BONIFICA DI SITI CONTAMINATI
 
@@ -16879,7 +16891,7 @@ I produttori e gli utilizzatori che non adempiono all'obbligo di raccolta di cui
 
 I produttori di imballaggi che non provvedono ad organizzare un sistema per l'adempimento degli obblighi di cui all'articolo 221, comma 3, e non aderiscono ai consorzi di cui all'articolo 223, ne' adottano un sistema di restituzione dei propri imballaggi ai sensi dell'articolo 221, comma 3, lettere a) e c), sono puniti con la sanzione amministrativa pecuniaria da quindicimilacinquecento euro a quarantaseimilacinquecento euro. La stessa pena si applica agli utilizzatori che non adempiono all'obbligo di cui ali' all'articolo 221, comma 4.
 
-La violazione dei divieti di cui all'articolo 226, commi 1 e 4, e' punita con la sanzione amministrativa pecuniaria da cinquemiladuecento euro a quarantamila euro. ((A chiunque immette sul mercato interno imballaggi privi dei requisiti di cui all'articolo 219, comma 5, si applica la sanzione amministrativa pecuniaria da 5.000 euro a 25.000 euro)).
+La violazione dei divieti di cui all'articolo 226, commi 1 e 4, e' punita con la sanzione amministrativa pecuniaria da cinquemiladuecento euro a quarantamila euro. A chiunque immette sul mercato interno imballaggi privi dei requisiti di cui all'articolo 219, comma 5, si applica la sanzione amministrativa pecuniaria da 5.000 euro a 25.000 euro.
 
 La violazione del disposto di cui all'articolo 226, comma 3, e' punita con la sanzione amministrativa pecuniaria da duemilaseicento euro a quindicimilacinquecento euro.
 
@@ -16888,6 +16900,8 @@ La violazione delle disposizioni di cui agli articoli 226-bis e 226-ter e' punit
 La sanzione amministrativa di cui al comma 4-bis e' aumentata fino al quadruplo del massimo se la violazione del divieto riguarda ingenti quantitativi di borse di plastica oppure un valore di queste ultime superiore al 10 per cento del fatturato del trasgressore, nonche' in caso di utilizzo di diciture o altri mezzi elusivi degli obblighi di cui agli articoli 226-bis e 226-ter.
 
 Le sanzioni di cui ai commi 4-bis e 4-ter sono applicate ai sensi della legge 24 novembre 1981, n. 689; all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa, fermo restando quanto previsto dall'articolo 13 della citata legge n. 689 del 1981.
+
+((Salvo che il fatto costituisca reato, la violazione delle disposizioni di cui all'articolo 226-quinquies, anche attraverso l'utilizzo di dichiarazioni di conformita' o altre diciture ingannevoli o elusive, e' punita con la sanzione amministrativa pecuniaria da 2.500 a 25.000 euro. La sanzione amministrativa di cui al primo periodo e' aumentata fino al quadruplo del massimo se la violazione dell'obbligo riguarda quantitativi di imballaggi il cui valore e' superiore al dieci per cento del fatturato del trasgressore. Le sanzioni di cui al primo e al secondo periodo sono applicate ai sensi della legge 24 novembre 1981, n. 689 e all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa, fermo restando quanto previsto dall'articolo 13 della medesima legge n. 689 del 1981. Il presente comma si applica a partire dal 1° gennaio 2030.))
 
 ## Art. 261-bis. — (( (Sanzioni).))
 

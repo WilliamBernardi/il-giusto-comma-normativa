@@ -7,8 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2025-12-18;192
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-09-10
+fetched_at: 2026-09-10
 ---
 
 DECRETO LEGISLATIVO
@@ -52,14 +53,16 @@ La disposizione di cui al comma 1 si applica per la determinazione dei redditi d
                             
                                 a)
                                 
-                                    al comma 1, terzo periodo, dopo le parole: «bilancio in forma ordinaria» sono inserite le seguenti: «o abbreviata»; 
-
+                                    
+                                        al comma 1, terzo periodo, dopo le parole: «bilancio in forma ordinaria» sono inserite le seguenti: «o abbreviata»;
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    il comma 1-bis e' sostituito dal seguente: 
+                                    
+                                        il comma 1-bis e' sostituito dal seguente: 
  «1-bis. Ai fini del comma 1, ai soggetti che redigono il bilancio in conformita' alle disposizioni del codice civile, diversi dalle micro-imprese di cui all'articolo 2435-ter del codice civile che non hanno optato per la redazione del bilancio in forma ordinaria o abbreviata, si applicano, in quanto compatibili, le disposizioni emanate in attuazione dell'articolo 1, comma 60, della legge 24 dicembre 2007, n. 244, e dell'articolo 4, comma 7-quater, del decreto legislativo 28 febbraio 2005, n. 38.».
 
 All'articolo 10, comma 1, lettera g), del decreto legislativo 13 dicembre 2024, n. 192, dopo le parole: «obblighi informativi di bilancio differenti» sono aggiunte le seguenti: «, nonche' tra soggetti che adottano i medesimi principi contabili».
@@ -75,14 +78,16 @@ All'articolo 10, comma 1, lettera g), del decreto legislativo 13 dicembre 2024, 
                             
                                 a)
                                 
-                                    al comma 1, il quarto e il quinto periodo, sono soppressi; 
-
+                                    
+                                        al comma 1, il quarto e il quinto periodo, sono soppressi;
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    dopo il comma 1-bis, e' aggiunto il seguente: 
+                                    
+                                        dopo il comma 1-bis, e' aggiunto il seguente: 
  «1-ter. Per i soggetti che sottopongono obbligatoriamente il proprio bilancio d'esercizio a revisione legale dei conti, la correzione di errori contabili, diversi da quelli iscritti in bilancio come rilevanti, assume rilievo, in deroga a quanto disposto nei commi 1 e 1-bis, se effettuata entro la data di approvazione del bilancio relativo all'esercizio successivo a quello in cui i relativi elementi patrimoniali o reddituali sono stati erroneamente rilevati o avrebbero dovuto esserlo e, comunque, entro la data di inizio di accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali i suddetti soggetti hanno avuto formale conoscenza.».
 
 All'articolo 8 del decreto-legge 21 giugno 2022, n. 73, convertito, con modificazioni, dalla legge 4 agosto 2022, n. 122, il comma 1-bis e' abrogato.
@@ -96,23 +101,26 @@ All'articolo 8 del decreto-legge 21 giugno 2022, n. 73, convertito, con modifica
                             
                                 a)
                                 
-                                    all'articolo 5, dopo il comma 5 e' aggiunto il seguente: 
- «5-bis. Per i soggetti che sottopongono obbligatoriamente il proprio bilancio d'esercizio a revisione legale dei conti, la correzione di errori contabili, diversi da quelli iscritti in bilancio come rilevanti, assume rilievo, in deroga a quanto disposto nei commi 1, 2, 3, 4 e 5, se effettuata entro la data di approvazione del bilancio relativo all'esercizio successivo a quello in cui i relativi elementi patrimoniali o reddituali sono stati erroneamente rilevati o avrebbero dovuto esserlo e, comunque, entro la data di inizio di accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali i suddetti soggetti hanno avuto formale conoscenza. Il primo periodo opera, in relazione alle suddette correzioni di errori contabili, soltanto se sia il valore della produzione netta relativo al periodo d'imposta in cui e' effettuata la correzione sia quello in cui i relativi elementi patrimoniali o reddituali avrebbero dovuto essere correttamente rilevati non e' negativo, anche non tenendo conto dei predetti elementi.»; 
-
+                                    
+                                        all'articolo 5, dopo il comma 5 e' aggiunto il seguente: 
+ «5-bis. Per i soggetti che sottopongono obbligatoriamente il proprio bilancio d'esercizio a revisione legale dei conti, la correzione di errori contabili, diversi da quelli iscritti in bilancio come rilevanti, assume rilievo, in deroga a quanto disposto nei commi 1, 2, 3, 4 e 5, se effettuata entro la data di approvazione del bilancio relativo all'esercizio successivo a quello in cui i relativi elementi patrimoniali o reddituali sono stati erroneamente rilevati o avrebbero dovuto esserlo e, comunque, entro la data di inizio di accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali i suddetti soggetti hanno avuto formale conoscenza. Il primo periodo opera, in relazione alle suddette correzioni di errori contabili, soltanto se sia il valore della produzione netta relativo al periodo d'imposta in cui e' effettuata la correzione sia quello in cui i relativi elementi patrimoniali o reddituali avrebbero dovuto essere correttamente rilevati non e' negativo, anche non tenendo conto dei predetti elementi.»;
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    all'articolo 6, dopo il comma 5 e' inserito il seguente: 
- «5-bis. Ai fini del presente articolo si applica l'articolo 5, comma 5-bis.»; 
-
+                                    
+                                        all'articolo 6, dopo il comma 5 e' inserito il seguente: 
+ «5-bis. Ai fini del presente articolo si applica l'articolo 5, comma 5-bis.»;
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    all'articolo 7, dopo il comma 4 e' aggiunto il seguente: 
+                                    
+                                        all'articolo 7, dopo il comma 4 e' aggiunto il seguente: 
  «4-bis. Ai fini del presente articolo si applica l'articolo 5, comma 5-bis.».
 
 ## Art. 5. — Norma di interpretazione autentica dell'articolo 177, comma 2-ter, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
@@ -148,14 +156,15 @@ All'articolo 8 del decreto-legge 21 giugno 2022, n. 73, convertito, con modifica
                                 
                                     al comma 15-ter: 
  1) all'alinea, dopo le parole: «del codice civile» sono inserite le seguenti: «, qualora lo scorporo sia in favore di una societa' beneficiaria di nuova costituzione,»; 
- 2) la lettera g) e' abrogata; 
-
+ 2) la lettera g) e' abrogata;
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    dopo il comma 15-ter sono inseriti i seguenti: 
+                                    
+                                        dopo il comma 15-ter sono inseriti i seguenti: 
  «15-ter.1. In caso di scissione mediante scorporo di una societa' in una societa' beneficiaria preesistente si applicano le disposizioni del presente articolo, con esclusione dei commi 3, 7 e 9. Tuttavia, se lo scorporo ha a oggetto beni, attivita' o passivita' che non costituiscono aziende o partecipazioni prive dei requisiti di cui all'articolo 87, comma 1, lettere c) e d), le partecipazioni ricevute dalla societa' scissa sono ammesse al regime di esenzione se e quando maturano i relativi requisiti sempre che il possesso delle stesse partecipazioni sussista almeno dall'inizio del terzo periodo d'imposta anteriore al successivo realizzo. 
  15-ter.2. Nel caso in cui la societa' scissa sia residente in uno Stato appartenente all'Unione europea ovvero aderente allo Spazio economico europeo con il quale l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni e lo scorporo abbia a oggetto la propria stabile organizzazione nel territorio dello Stato, o un ramo aziendale di essa, assegnata a una societa' residente, qualora le partecipazioni assegnate alla scissa: 
  a) siano mantenute nel patrimonio della stabile organizzazione della medesima societa' scissa, si applicano le disposizioni di cui ai commi 15-ter o 15-ter.1, a seconda che la societa' residente sia, rispettivamente, di nuova costituzione oppure preesistente, riferendosi alla stabile organizzazione le disposizioni riguardanti la societa' scissa e al fondo di dotazione della stabile organizzazione quelle riguardanti il patrimonio netto della societa' scissa; 
@@ -182,14 +191,16 @@ Le disposizioni di cui all'articolo 6 si applicano alle scissioni effettuate dal
                             
                                 a)
                                 
-                                    al comma 1, l'alinea e' sostituto dal seguente: «Nel rispetto dei principi di cui al Trattato sul funzionamento dell'Unione europea, ai soggetti titolari di reddito di lavoro autonomo e di impresa che abbiano una sede o una stabile organizzazione nel territorio dello Stato le misure di natura fiscale che presentano i requisiti di cui all'articolo 107 del medesimo Trattato sono riconosciute esclusivamente alle seguenti condizioni:»; 
-
+                                    
+                                        al comma 1, l'alinea e' sostituto dal seguente: «Nel rispetto dei principi di cui al Trattato sul funzionamento dell'Unione europea, ai soggetti titolari di reddito di lavoro autonomo e di impresa che abbiano una sede o una stabile organizzazione nel territorio dello Stato le misure di natura fiscale che presentano i requisiti di cui all'articolo 107 del medesimo Trattato sono riconosciute esclusivamente alle seguenti condizioni:»;
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    al comma 2, le parole: «agli incentivi fiscali previsti» sono sostituite dalle seguenti: «alle misure fiscali previste».
+                                    
+                                        al comma 2, le parole: «agli incentivi fiscali previsti» sono sostituite dalle seguenti: «alle misure fiscali previste».
 
 ## Art. 9. — Modifiche alle disposizioni riguardanti l'imposizione integrativa di cui alla direttiva (UE) 2022/2523 del Consiglio, del 15 dicembre 2022
 
@@ -202,44 +213,50 @@ Le disposizioni di cui all'articolo 6 si applicano alle scissioni effettuate dal
                             
                                 a)
                                 
-                                    all'articolo 9, comma 3, primo periodo, le parole: «Commentario alle regole OCSE adottate l'11 marzo 2022» sono sostituite dalle seguenti: «Commentario alle regole OCSE approvato e pubblicato il 14 marzo 2022»; 
-
+                                    
+                                        all'articolo 9, comma 3, primo periodo, le parole: «Commentario alle regole OCSE adottate l'11 marzo 2022» sono sostituite dalle seguenti: «Commentario alle regole OCSE approvato e pubblicato il 14 marzo 2022»;
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    all'articolo 12, il comma 1 e' sostituito dal seguente: 
- «1. Ai fini del presente titolo, un'entita', diversa da una entita' trasparente, si considera localizzata nel Paese dove e' residente ai fini delle imposte sui redditi, sulla base del criterio di ubicazione della sede di direzione, del luogo di costituzione o di criteri analoghi. Qualora, per effetto dell'applicazione delle disposizioni del primo periodo, l'entita' non risulti localizzata in nessun Paese, essa si considera localizzata dove la stessa e' stata costituita.»; 
-
+                                    
+                                        all'articolo 12, il comma 1 e' sostituito dal seguente: 
+ «1. Ai fini del presente titolo, un'entita', diversa da una entita' trasparente, si considera localizzata nel Paese dove e' residente ai fini delle imposte sui redditi, sulla base del criterio di ubicazione della sede di direzione, del luogo di costituzione o di criteri analoghi. Qualora, per effetto dell'applicazione delle disposizioni del primo periodo, l'entita' non risulti localizzata in nessun Paese, essa si considera localizzata dove la stessa e' stata costituita.»;
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    all'articolo 18, comma 1, il primo periodo e' sostituito dal seguente: «Se in un esercizio l'aliquota di imposizione effettiva, relativa alle imprese e alle entita' a controllo congiunto localizzate nel territorio dello Stato italiano e alle entita' trasparenti apolidi costituite in base alla legge dello Stato italiano appartenenti a un gruppo multinazionale o nazionale, e' inferiore alla aliquota minima di imposta, e' dovuta una imposta minima nazionale pari all'imposizione integrativa relativa a tutte le suddette imprese ed entita'.»; 
-
+                                    
+                                        all'articolo 18, comma 1, il primo periodo e' sostituito dal seguente: «Se in un esercizio l'aliquota di imposizione effettiva, relativa alle imprese e alle entita' a controllo congiunto localizzate nel territorio dello Stato italiano e alle entita' trasparenti apolidi costituite in base alla legge dello Stato italiano appartenenti a un gruppo multinazionale o nazionale, e' inferiore alla aliquota minima di imposta, e' dovuta una imposta minima nazionale pari all'imposizione integrativa relativa a tutte le suddette imprese ed entita'.»;
+                                    
                                 
                             
                             
                                 d)
                                 
-                                    all'articolo 22, comma 1, secondo periodo, dopo le parole: «prima delle rettifiche da consolidamento» sono inserite le seguenti: «per eliminare le operazioni infragruppo»; 
-
+                                    
+                                        all'articolo 22, comma 1, secondo periodo, dopo le parole: «prima delle rettifiche da consolidamento» sono inserite le seguenti: «per eliminare le operazioni infragruppo»;
+                                    
                                 
                             
                             
                                 e)
                                 
-                                    all'articolo 23, comma 6, decimo periodo, le parole: «disciplina ne terzo periodo» sono sostituite dalle seguenti: «disciplinato nel terzo periodo»; 
-
+                                    
+                                        all'articolo 23, comma 6, decimo periodo, le parole: «disciplina ne terzo periodo» sono sostituite dalle seguenti: «disciplinato nel terzo periodo»;
+                                    
                                 
                             
                             
                                 f)
                                 
-                                    all'articolo 28, comma 2, lettera c), le parole: «ai sensi della lettera d) del comma 3» sono sostituite dalle seguenti: «ai sensi del comma 3, lettera g)»; 
-
+                                    
+                                        all'articolo 28, comma 2, lettera c), le parole: «ai sensi della lettera d) del comma 3» sono sostituite dalle seguenti: «ai sensi del comma 3, lettera g)»;
+                                    
                                 
                             
                             
@@ -250,8 +267,8 @@ Le disposizioni di cui all'articolo 6 si applicano alle scissioni effettuate dal
  «a) alle imprese e alle entita' localizzate in un Paese che non applica l'imposta minima nazionale equivalente alle entita' trasparenti diverse dalle entita' apolidi»; 
  2) dopo la lettera d) sono aggiunte le seguenti: 
  «d-bis) alle imprese e alle entita' localizzate in un Paese che non applica disposizioni analoghe a quelle previste nell'articolo 54, commi 4-bis, 4-ter, 4-quater e 4-quinquies, ai fini dell'imposta minima nazionale equivalente o ai fini del calcolo del valore delle imposte rilevanti semplificate previste da un accordo internazionale sui regimi transitori semplificati di cui all'articolo 39, comma 2; 
- d-ter) alle imprese e alle entita' localizzate in un Paese che non applica l'imposta minima nazionale equivalente ai veicoli di cartolarizzazione.»; 
-
+ d-ter) alle imprese e alle entita' localizzate in un Paese che non applica l'imposta minima nazionale equivalente ai veicoli di cartolarizzazione.»;
+                                    
                                 
                             
                             
@@ -485,7 +502,7 @@ All'articolo 11, comma 2, della legge 27 luglio 2000, n. 212, dopo le parole: «
 
 In deroga alle disposizioni di cui all'articolo 7, comma 2, del decreto legislativo 5 agosto 2015, n. 128, per le domande di adesione al regime di adempimento collaborativo presentate nei periodi di imposta 2024 e 2025, l'Agenzia delle entrate, al sussistere degli altri requisiti soggettivi e oggettivi previsti dalla normativa vigente, procede all'ammissione dei contribuenti al regime anche in assenza della certificazione del sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale di cui all'articolo 4, comma 1-bis, del medesimo decreto.
 
-Nei casi di cui al comma 1 la certificazione del sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale deve essere prodotta entro il termine del 30 settembre 2026.
+Nei casi di cui al comma 1 la certificazione del sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale deve essere prodotta entro il termine del ((31 dicembre 2026))
 
 Per i soggetti di cui al comma 1, la mancata presentazione della certificazione del sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale entro il termine fissato al comma 2 costituisce causa di esclusione dal regime ai sensi dell'articolo 7, comma 3, del decreto legislativo n. 128 del 2015 per inosservanza degli impegni assunti.
 

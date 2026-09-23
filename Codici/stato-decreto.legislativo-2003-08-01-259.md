@@ -8,9 +8,9 @@ codice_redazionale: 003G0280
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-07-09
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-08-07
+zip_date: 2026-09-23
+fetched_at: 2026-09-23
 ---
 
 DECRETO LEGISLATIVO
@@ -5982,12 +5982,16 @@ All'impianto ed all'esercizio delle stazioni costiere ad esclusivo uso militare 
 Presso ogni singola stazione radioelettrica per la quale sia stata conseguita l'autorizzazione generale all'esercizio deve essere conservata l'apposita licenza rilasciata dal Ministero.
 
 Per le stazioni riceventi del servizio di radiodiffusione il titolo di abbonamento tiene luogo della licenza. 
- ((18))
+ (18) ((63))
 
 -------------
                             AGGIORNAMENTO (18)
                             
- Il D.L. 28 gennaio 2014, n. 4, convertito con modificazioni dalla L. 28 marzo 2014, n. 50 ha disposto (con l'art. 2, comma 4) che "Per gli effetti dell'articolo 21 della Tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, le disposizioni dell'articolo 160 del Codice delle comunicazioni elettroniche di cui al decreto legislativo 1° agosto 2003, n. 259, richiamate dal predetto articolo 21, si interpretano nel senso che per stazioni radioelettriche si intendono anche le apparecchiature terminali per il servizio radiomobile terrestre di comunicazione".
+ Il D.L. 28 gennaio 2014, n. 4, convertito con modificazioni dalla L. 28 marzo 2014, n. 50 ha disposto (con l'art. 2, comma 4) che "Per gli effetti dell'articolo 21 della Tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, le disposizioni dell'articolo 160 del Codice delle comunicazioni elettroniche di cui al decreto legislativo 1° agosto 2003, n. 259, richiamate dal predetto articolo 21, si interpretano nel senso che per stazioni radioelettriche si intendono anche le apparecchiature terminali per il servizio radiomobile terrestre di comunicazione". 
+                            -------------
+                            AGGIORNAMENTO (63)
+                            
+ Il D.Lgs. 5 novembre 2024, n. 174, come modificato dal D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 98-bis, comma 1) che "Per gli effetti dell'articolo 14 della tariffa di cui all'allegato 4, le disposizioni dell'articolo 160 del Codice delle comunicazioni elettroniche di cui al decreto legislativo 1° agosto 2003, n. 259, richiamate dal predetto articolo 14, si interpretano nel senso che per stazioni radioelettriche si intendono anche le apparecchiature terminali per il servizio radiomobile terrestre di comunicazione".
 
 ## Art. 161. — Norme tecniche per gli impianti
 

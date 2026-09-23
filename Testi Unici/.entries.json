@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-22",
+  "zip_date": "2026-09-23",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -286,8 +286,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-1994-04-16-297.md",
       "urn": "urn:nir:stato:decreto.legislativo:1994-04-16;297"
     },
-    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-09-10_V0.xml": {
-      "sha256": "6cf9440e65aeda0d3702f5c8c4c25d741debeb909a8c554af319ca229549584b",
+    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "68f844c8c076479bafdd63d40ebaa7496707e5a1a922f112af2fe6a2d5149f0e",
       "out": "Testi Unici/stato-decreto.legislativo-1995-10-26-504.md",
       "urn": "urn:nir:stato:decreto.legislativo:1995-10-26;504"
     },
@@ -381,8 +381,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2024-11-14-175.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-11-14;175"
     },
-    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-08-19_V0.xml": {
-      "sha256": "dc4aaa4cb2935b08eb7c32c1449f5a577eb34674705148cc2f08902dac00936e",
+    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "a039c45255fe2bea85f4fd48b2ce6991a9da7043b5ed9277cdeb87c4799490db",
       "out": "Testi Unici/stato-decreto.legislativo-2025-03-24-33.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-03-24;33"
     },
@@ -396,8 +396,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2026-01-19-10.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-01-19;10"
     },
-    "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-08-15_V0.xml": {
-      "sha256": "ce44d3e2b28dd76c52527129c2743811c6818bd4e32dee6956b79dca82bc0c61",
+    "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-09-23_V0.xml": {
+      "sha256": "b51767e1f40976e0aa3fe8c1560d2b3a47a5eaf4142863c8afdfe58b6a83c497",
       "out": "Testi Unici/stato-decreto.legislativo-2026-06-19-117.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-06-19;117"
     },
