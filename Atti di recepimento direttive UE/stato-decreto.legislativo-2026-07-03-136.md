@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-07-03;136
 vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
-zip_date: 2026-08-08
-fetched_at: 2026-08-08
+zip_date: 2026-09-24
+fetched_at: 2026-09-24
 ---
 
 DECRETO LEGISLATIVO
