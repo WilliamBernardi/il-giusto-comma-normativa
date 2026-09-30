@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-29",
+  "zip_date": "2026-09-30",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -231456,8 +231456,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-09-443.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-09;443"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-08-21_V0.xml": {
-      "sha256": "3aa5b272ce687fde1d9388875bf6673ace5ef5ffe390366158774775327558c5",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-09-30_V0.xml": {
+      "sha256": "ea66a31b2496a99a9386f78882252b322df9b79f485d3fa9cc6f4f1ef7e2577c",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
     },

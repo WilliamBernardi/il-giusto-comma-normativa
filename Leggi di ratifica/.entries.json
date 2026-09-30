@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-29",
+  "zip_date": "2026-09-30",
   "entries": {
     "LEGGE_19230624_1473/1923-07-19_023U1473_VIGENZA_2025-10-14_V0.xml": {
       "sha256": "73cf60896e40529de27cee4419ba7ab848b5b70c6f069fa900f88534a0050a99",
@@ -11371,7 +11371,7 @@
       "out": "Leggi di ratifica/stato-legge-2023-06-08-84.md",
       "urn": "urn:nir:stato:legge:2023-06-08;84"
     },
-    "LEGGE_20230613_83/2023-06-30_23G00087_VIGENZA_2025-10-14_V0.xml": {
+    "LEGGE_20230613_83/2023-06-30_23G00087_VIGENZA_2026-09-30_V0.xml": {
       "sha256": "986eb7d915c28e60382cae76788b41015e1b362c1e929d68b4e48c3d3ed3cbc6",
       "out": "Leggi di ratifica/stato-legge-2023-06-13-83.md",
       "urn": "urn:nir:stato:legge:2023-06-13;83"
