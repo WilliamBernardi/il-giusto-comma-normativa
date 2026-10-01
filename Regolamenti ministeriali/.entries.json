@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-30",
+  "zip_date": "2026-10-01",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19890804_296/1989-08-23_089G0372_ORIGINALE_V0.xml": {
       "sha256": "b4b68b6ec62847ac1692378e52f37d92f63ede4723c9c0a15afe7aaede011ce0",
@@ -8966,8 +8966,8 @@
       "out": "Regolamenti ministeriali/ministero.politiche.agricole.alimentari.e.forestali-decreto-2017-03-31-72.md",
       "urn": "urn:nir:ministero.politiche.agricole.alimentari.e.forestali:decreto:2017-03-31;72"
     },
-    "DECRETO_20170407_101/2017-06-26_17G00111_VIGENZA_2026-02-21_V0.xml": {
-      "sha256": "b80c8b0112cc56da63d1e1450c53e66643c1bb3bfffba13558df4c4dbe352326",
+    "DECRETO_20170407_101/2017-06-26_17G00111_VIGENZA_2026-10-01_V0.xml": {
+      "sha256": "54797e862d859f71f8143ee2c8ce49ec94ccd778cc291713cc1be9d634370d13",
       "out": "Regolamenti ministeriali/ministero.sviluppo.economico-decreto-2017-04-07-101.md",
       "urn": "urn:nir:ministero.sviluppo.economico:decreto:2017-04-07;101"
     },
@@ -9711,8 +9711,8 @@
       "out": "Regolamenti ministeriali/ministero.interno-decreto-2022-03-29-49.md",
       "urn": "urn:nir:ministero.interno:decreto:2022-03-29;49"
     },
-    "DECRETO_20220413_101/2022-07-27_22G00110_VIGENZA_2025-10-14_V0.xml": {
-      "sha256": "72a3f9e6fec75f6739fe3c92ad74355f8e46b644dd31768ca030b8b1988726bb",
+    "DECRETO_20220413_101/2022-07-27_22G00110_VIGENZA_2026-10-01_V0.xml": {
+      "sha256": "0e6b1e91965056a26a1a18c39565fccc9f6cc0780956ba891678b1e3cd7e6f67",
       "out": "Regolamenti ministeriali/ministero.economia.e.finanze-decreto-2022-04-13-101.md",
       "urn": "urn:nir:ministero.economia.e.finanze:decreto:2022-04-13;101"
     },
