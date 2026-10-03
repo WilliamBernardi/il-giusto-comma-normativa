@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-10-02",
+  "zip_date": "2026-10-03",
   "entries": {
     "LEGGE_19910613_190/1991-06-28_091G0229_ORIGINALE_V0.xml": {
       "sha256": "4baef4a6f6503a3792e5df69b4ab27379e0021a8c39e45a1a63aab5154dd60ec",
@@ -151,8 +151,8 @@
       "out": "Leggi contenenti deleghe/stato-legge-2010-08-13-136.md",
       "urn": "urn:nir:stato:legge:2010-08-13;136"
     },
-    "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-08-08_V0.xml": {
-      "sha256": "998ed928316129f0bb30d94fa3d5a2f2e0d19b24c9c30b745fe711bf4474046b",
+    "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-10-03_V0.xml": {
+      "sha256": "c7a3acf0bdaca6a69caa7591f02e6978ff10e0f430b2aba26a4c660f03852be8",
       "out": "Leggi contenenti deleghe/stato-legge-2010-12-30-240.md",
       "urn": "urn:nir:stato:legge:2010-12-30;240"
     },
@@ -351,8 +351,8 @@
       "out": "Leggi contenenti deleghe/stato-legge-2024-10-07-152.md",
       "urn": "urn:nir:stato:legge:2024-10-07;152"
     },
-    "LEGGE_20241125_177/2024-11-29_24G00199_ORIGINALE_V0.xml": {
-      "sha256": "9d76c0bd8e654f8d30d6beaab534a537cf748588cc67e550462643ddf27d7e77",
+    "LEGGE_20241125_177/2024-11-29_24G00199_VIGENZA_2026-10-03_V0.xml": {
+      "sha256": "a8497f0d63d4f7449c865cad6c982c2fe025ccab339a8c07e501fb1cf6b11ffc",
       "out": "Leggi contenenti deleghe/stato-legge-2024-11-25-177.md",
       "urn": "urn:nir:stato:legge:2024-11-25;177"
     },
