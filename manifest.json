@@ -2,7 +2,7 @@
   "source": "normattiva-opendata",
   "state": "V",
   "format": "AKN",
-  "built_at": "2026-10-14T08:57:17Z",
+  "built_at": "2026-10-15T08:31:05Z",
   "collections": {
     "Atti di attuazione Regolamenti UE": {
       "collection": "Atti di attuazione Regolamenti UE",
@@ -12632,7 +12632,7 @@
       "collection": "DL decaduti",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 1735,
       "files": {
         "urn:nir:stato:decreto.legge:1951-04-09;207": {
@@ -27048,7 +27048,7 @@
       "collection": "DL e leggi di conversione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 7443,
       "files": {
         "urn:nir:stato:legge:1895-08-04;470": {
@@ -115984,7 +115984,7 @@
       "collection": "DL proroghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 75,
       "files": {
         "urn:nir:stato:decreto.legge:1979-09-24;467": {
@@ -116605,7 +116605,7 @@
       "collection": "DPCM",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 363,
       "files": {
         "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1987-04-08;227": {
@@ -119651,8 +119651,8 @@
       "collection": "DPR",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
-      "act_count": 47761,
+      "zip_date": "2026-10-15",
+      "act_count": 47762,
       "files": {
         "urn:nir:ministero.tesoro:decreto.del.presidente.della.repubblica:1997-09-09;336": {
           "path": "DPR/ministero.tesoro-decreto.del.presidente.della.repubblica-1997-09-09-336.md",
@@ -477602,7 +477602,7 @@
           "codice_redazionale": "002G0139",
           "vigenza_date": "2026-08-26",
           "articles": 316,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-09-17_V0.xml",
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-10-15_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato 1\"",
             "skipped non-article attachment \"Allegato 2\"",
@@ -509307,7 +509307,7 @@
       "collection": "Decreti legislativi luogotenenziali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 1215,
       "files": {
         "urn:nir:stato:decreto.legislativo.luogotenenziale:1942-07-24;1879": {
@@ -519340,7 +519340,7 @@
       "collection": "Leggi contenenti deleghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 80,
       "files": {
         "urn:nir:stato:legge:1991-06-13;190": {
@@ -519966,7 +519966,7 @@
       "collection": "Leggi costituzionali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 50,
       "files": {
         "urn:nir:stato:legge.costituzionale:1947-02-21;1": {
@@ -530195,7 +530195,7 @@
       "collection": "Leggi di delegazione europea",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 32,
       "files": {
         "urn:nir:stato:legge:1989-03-09;86": {
@@ -530566,7 +530566,7 @@
       "collection": "Leggi di ratifica",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 2336,
       "files": {
         "urn:nir:stato:legge:1923-06-24;1473": {
@@ -1286190,7 +1286190,7 @@
       "collection": "Regi decreti legislativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 120,
       "files": {
         "urn:nir:stato:regio.decreto.legislativo:1946-05-10;262": {
@@ -1287098,7 +1287098,7 @@
       "collection": "Regolamenti di delegificazione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 376,
       "files": {
         "urn:nir:presidenza.repubblica:decreto.del.presidente.della.repubblica:1999-12-01;503": {
@@ -1290187,8 +1290187,8 @@
       "collection": "Regolamenti governativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
-      "act_count": 1943,
+      "zip_date": "2026-10-15",
+      "act_count": 1944,
       "files": {
         "urn:nir:ministero.tesoro:decreto.del.presidente.della.repubblica:1997-09-09;336": {
           "path": "Regolamenti governativi/ministero.tesoro-decreto.del.presidente.della.repubblica-1997-09-09-336.md",
@@ -1307315,7 +1307315,7 @@
       "collection": "Regolamenti ministeriali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-14",
+      "zip_date": "2026-10-15",
       "act_count": 2079,
       "files": {
         "urn:nir:agricoltura.alimentare.foreste.ministero.sovranita:decreto:2023-08-29;233": {

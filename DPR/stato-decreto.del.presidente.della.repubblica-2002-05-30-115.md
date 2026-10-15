@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-08-26
-zip_date: 2026-09-17
-fetched_at: 2026-09-17
+zip_date: 2026-10-15
+fetched_at: 2026-10-15
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1412,12 +1412,10 @@ La trasmissione dei documenti avviene secondo le regole tecniche telematiche sta
 
 I provvedimenti della Corte di cassazione sono esenti dall'obbligo della registrazione. (L)
 
-((
+((La registrazione delle sentenze e degli altri atti recanti condanna al risarcimento del danno prodotto da fatti costituenti reato deve essere richiesta entro trenta giorni dalla data in cui sono divenuti definitivi.))
 
-La registrazione delle sentenze e degli altri atti recanti condanna al risarcimento del danno prodotto da fatti costituenti reato deve essere richiesta entro trenta giorni dalla data in cui sono divenuti definitivi.
-
-2-quater. Le parti in causa possono segnalare all'ufficio giudiziario, anche per il tramite del proprio difensore, la sussistenza dei presupposti previsti per la registrazione, con prenotazione a debito, degli atti giudiziari di cui al comma 2-ter, nel termine di dieci giorni dalla data di pubblicazione o emanazione.
-In tal caso, l'eventuale mancata ammissione del provvedimento alla prenotazione a debito deve essere motivata dall'ufficio giudiziario con apposito atto, da trasmettere all'ufficio finanziario unitamente alla richiesta di registrazione))
+((Le parti in causa possono segnalare all'ufficio giudiziario, anche per il tramite del proprio difensore, la sussistenza dei presupposti previsti per la registrazione, con prenotazione a debito, degli atti giudiziari di cui al comma 2-ter, nel termine di dieci giorni dalla data di pubblicazione o emanazione.
+In tal caso, l'eventuale mancata ammissione del provvedimento alla prenotazione a debito deve essere motivata dall'ufficio giudiziario con apposito atto, da trasmettere all'ufficio finanziario unitamente alla richiesta di registrazione)).
 
 ## - ((Titolo XIV-bis Registrazione degli atti giudiziari nel processo penale))
 
