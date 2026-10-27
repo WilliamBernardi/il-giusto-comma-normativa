@@ -8,17 +8,15 @@ codice_redazionale: 003G0128
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2022-07-13
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2022-07-03
+zip_date: 2026-10-27
+fetched_at: 2026-10-27
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
                 02 aprile 2003
                 104
                 Regolamento di attuazione della legge 27 dicembre 2001, n. 459, recante disciplina per l'esercizio del diritto di voto dei cittadini italiani residenti all'estero.
-
-null
 
 Acquisito il parere del Garante per la protezione dei dati personali, di cui all'articolo 31, comma 2, della legge 31 dicembre 1996, n. 675, reso in data 17 settembre 2002;
 
@@ -119,61 +117,18 @@ Ai sensi dell'articolo 2, comma 1, della legge, l'ufficio consolare informa i ci
 
 ## Art. 4. — O p z i o n e
 
-1.
-                    
-                        
-                            La comunicazione di cui all'articolo 4, commi 1, 2 e 5, della legge:
- 
-                        
-                        
-                            a)
-                            
-                                e' redatta su carta libera;
-
-                            
-                        
-                        
-                            b)
-                            
-                                riporta nome, cognome, data e luogo di nascita, nonche' luogo di residenza dell'elettore;
-
-                            
-                        
-                        
-                            c)
-                            
-                                riporta il nome del comune italiano d'iscrizione all'anagrafe degli italiani residenti all'estero o di ultima residenza dell'elettore, ove a lui noti;
-
-                            
-                        
-                        
-                            d)
-                            
-                                riporta l'indicazione della consultazione per la quale l'elettore intende esercitare l'opzione;
-
-                            
-                        
-                        
-                            e)
-                            
-                                e' datata e firmata dall'elettore;
-
-                            
-                        
-                        
-                            f)
-                            
-                                e' consegnata all'ufficio consolare, il quale ne rilascia ricevuta, ovvero e' spedita all'ufficio consolare, nei termini previsti dall'articolo 4, commi 1, 2 e 5 della legge.
-
-L'opzione che non riporta tutti gli elementi di cui al comma 1, lettera b), ovvero che non reca la firma dell'elettore, si intende non esercitata.
-
-L'opzione priva dell'indicazione di cui al comma 1, lettera c) si intende esercitata. Gli uffici consolari desumono il dato dall'elenco aggiornato di cui all'articolo 5, comma 1 della legge.
-
-L'opzione priva dell'indicazione di cui al comma 1, lettera d), si intende esercitata per la prima consultazione elettorale o referendaria successiva alla data in cui e' redatta, salvo quanto previsto dai commi 2 e 5.
-
-In ogni caso la comunicazione dell'opzione deve pervenire all'ufficio consolare non oltre il decimo giorno successivo all'indizione delle votazioni. E' onere dell'elettore accertare l'avvenuta ricezione dell'opzione, qualora inviata per posta, da parte dell'ufficio consolare che, su richiesta, ne rilascia apposita certificazione.
-
-L'opzione puo' essere revocata nei modi ed entro i termini previsti per il suo esercizio dall'articolo 4 della legge e dal presente articolo.
+1. La comunicazione di cui all'articolo 4, commi 1, 2 e 5, della legge:
+ a) e' redatta su carta libera;
+ b) riporta nome, cognome, data e luogo di nascita, nonche' luogo di residenza dell'elettore;
+ c) riporta il nome del comune italiano d'iscrizione all'anagrafe degli italiani residenti all'estero o di ultima residenza dell'elettore, ove a lui noti;
+ d) riporta l'indicazione della consultazione per la quale l'elettore intende esercitare l'opzione;
+ e) e' datata e firmata dall'elettore;
+ f) e' consegnata all'ufficio consolare, il quale ne rilascia ricevuta, ovvero e' spedita all'ufficio consolare, nei termini previsti dall'articolo 4, commi 1, 2 e 5 della legge.
+ 2. L'opzione che non riporta tutti gli elementi di cui al comma 1, lettera b), ovvero che non reca la firma dell'elettore, si intende non esercitata.
+ 3. L'opzione priva dell'indicazione di cui al comma 1, lettera c) si intende esercitata. Gli uffici consolari desumono il dato dall'elenco aggiornato di cui all'articolo 5, comma 1 della legge.
+ 4. L'opzione priva dell'indicazione di cui al comma 1, lettera d), si intende esercitata per la prima consultazione elettorale o referendaria successiva alla data in cui e' redatta, salvo quanto previsto dai commi 2 e 5.
+ 5. In ogni caso la comunicazione dell'opzione deve pervenire all'ufficio consolare non oltre il decimo giorno successivo all'indizione delle votazioni. E' onere dell'elettore accertare l'avvenuta ricezione dell'opzione, qualora inviata per posta, da parte dell'ufficio consolare che, su richiesta, ne rilascia apposita certificazione.
+ 6. L'opzione puo' essere revocata nei modi ed entro i termini previsti per il suo esercizio dall'articolo 4 della legge e dal presente articolo.
 
 ## Art. 5. — Elenco aggiornato
 
@@ -309,25 +264,9 @@ Il tagliando di cui all'articolo 12, comma 6 della legge, comprovante l'esercizi
 
 Sul tagliando di cui al comma 3 non possono essere apposti dati che consentano di risalire direttamente ed immediatamente all'identita' dell'elettore.
 
-5.
-                    
-                        
-                            Le buste affrancate recanti l'indirizzo dell'ufficio consolare, di cui all'articolo 12, comma 3, della legge, hanno caratteristiche tali da consentire, anche con riferimento all'affrancatura, l'utilizzo del sistema postale piu' affidabile disponibile nello Stato in cui risiedono gli elettori per realizzare le finalita' previste dall'articolo 12, commi 3, 4, 6 e 7 e dall'articolo 19, comma 1, lettera 
-                        
-                        
-                            a)
-                            
-                                della legge.
+Le buste affrancate recanti l'indirizzo dell'ufficio consolare, di cui all'articolo 12, comma 3, della legge, hanno caratteristiche tali da consentire, anche con riferimento all'affrancatura, l'utilizzo del sistema postale piu' affidabile disponibile nello Stato in cui risiedono gli elettori per realizzare le finalita' previste dall'articolo 12, commi 3, 4, 6 e 7 e dall'articolo 19, comma 1, lettera a) della legge.
 
-6.
-                    
-                        
-                            L'ufficio consolare invia all'elettore il plico di cui all'articolo 12, comma 3, della legge mediante il sistema postale piu' affidabile disponibile nello Stato in cui risiedono gli elettori per realizzare le finalita' previste dall'articolo 12, commi 3, 4, 6 e 7 e dall'articolo 19, comma 1, lettera 
-                        
-                        
-                            a)
-                            
-                                della legge e comunque in maniera che risulti ricevuta, anche collettiva, dell'invio.
+L'ufficio consolare invia all'elettore il plico di cui all'articolo 12, comma 3, della legge mediante il sistema postale piu' affidabile disponibile nello Stato in cui risiedono gli elettori per realizzare le finalita' previste dall'articolo 12, commi 3, 4, 6 e 7 e dall'articolo 19, comma 1, lettera a) della legge e comunque in maniera che risulti ricevuta, anche collettiva, dell'invio.
 
 ## Art. 15. — Espressione del voto
 

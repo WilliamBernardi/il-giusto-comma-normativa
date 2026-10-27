@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-10-26",
+  "zip_date": "2026-10-27",
   "entries": {
     "LEGGE_19910613_190/1991-06-28_091G0229_ORIGINALE_V0.xml": {
       "sha256": "4baef4a6f6503a3792e5df69b4ab27379e0021a8c39e45a1a63aab5154dd60ec",
@@ -241,8 +241,8 @@
       "out": "Leggi contenenti deleghe/stato-legge-2017-10-25-163.md",
       "urn": "urn:nir:stato:legge:2017-10-25;163"
     },
-    "LEGGE_20171103_165/2017-11-11_17G00175_ORIGINALE_V0.xml": {
-      "sha256": "80c0597b1b60ef09080114deacd4a6df7e8ed05f7bafe4ac90d766c518320000",
+    "LEGGE_20171103_165/2017-11-11_17G00175_VIGENZA_2026-10-27_V0.xml": {
+      "sha256": "8a10937581680232f8cf06933c9f6e0df2727c597e6787794ef57cfd17638c33",
       "out": "Leggi contenenti deleghe/stato-legge-2017-11-03-165.md",
       "urn": "urn:nir:stato:legge:2017-11-03;165"
     },

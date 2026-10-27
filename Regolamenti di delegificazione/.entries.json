@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-10-26",
+  "zip_date": "2026-10-27",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19671222_1518/1968-06-06_067U1518_VIGENZA_2025-07-02_V0.xml": {
       "sha256": "c1560363a5beb4dbdb74fc07739d46510b65e30be9479e18c9c7e8d7fe694be2",
@@ -1111,8 +1111,8 @@
       "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-02-28-132.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-02-28;132"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030402_104/2003-05-13_003G0128_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "34427684a627edf49d9d0f7f636fe71d47d68321ab7911954ff4bbb75e7e20b7",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030402_104/2003-05-13_003G0128_VIGENZA_2026-10-27_V0.xml": {
+      "sha256": "af2f3e33a628dd639e486f6964b12e6521f398dfd18ccb5926cecb117d9b9185",
       "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-04-02-104.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-04-02;104"
     },

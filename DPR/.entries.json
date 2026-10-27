@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-10-26",
+  "zip_date": "2026-10-27",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -63191,8 +63191,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1957-03-28-874.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-28;874"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19570330_361/1957-06-03_057U0361_VIGENZA_2025-07-30_V0.xml": {
-      "sha256": "0f25e9ba52fa92b748d6140fed05de22a635e191cb142c265794b2cf3c9c3668",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19570330_361/1957-06-03_057U0361_VIGENZA_2026-10-27_V0.xml": {
+      "sha256": "5afcd08d98ca3f08ede10518ba508ab2434d1a9a81ac8735095dc638800fcce5",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1957-03-30-361.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361"
     },
@@ -236066,8 +236066,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2003-03-28-129.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-03-28;129"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030402_104/2003-05-13_003G0128_VIGENZA_2025-07-30_V0.xml": {
-      "sha256": "34427684a627edf49d9d0f7f636fe71d47d68321ab7911954ff4bbb75e7e20b7",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030402_104/2003-05-13_003G0128_VIGENZA_2026-10-27_V0.xml": {
+      "sha256": "af2f3e33a628dd639e486f6964b12e6521f398dfd18ccb5926cecb117d9b9185",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2003-04-02-104.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-04-02;104"
     },
@@ -238661,8 +238661,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2024-11-25-222.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2024-11-25;222"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20250113_12/2025-02-18_25G00019_VIGENZA_2026-02-06_V0.xml": {
-      "sha256": "14d39b9a0b89dcb51724abe20b020443079790385e786e2f43c8d5702f532808",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20250113_12/2025-02-18_25G00019_VIGENZA_2026-10-27_V0.xml": {
+      "sha256": "d148dfa4bde50abeea7b4e9f9d8dadb675257a9637a247a64f481c8ab68886f9",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2025-01-13-12.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2025-01-13;12"
     },
