@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-10-27",
+  "zip_date": "2026-10-28",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -232436,8 +232436,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1992-12-12-551.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-12;551"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19921216_495/1992-12-28_092G0531_VIGENZA_2025-07-30_V0.xml": {
-      "sha256": "f4a08085eb5dff81c29196de4913dfd3b5f1f3b621204eb8a41cdcbeb3851364",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19921216_495/1992-12-28_092G0531_VIGENZA_2026-10-28_V0.xml": {
+      "sha256": "4bad47fb16e1c47d0f32a7a957deaf4ede296a48c5fa36cc46976fbbf8c5c8f0",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1992-12-16-495.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495"
     },
