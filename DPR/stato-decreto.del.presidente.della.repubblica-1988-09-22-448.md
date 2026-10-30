@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-06-12
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-10-30
+fetched_at: 2026-10-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -67,7 +67,7 @@ Organi giudiziari nel procedimento
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 3.
 
@@ -90,7 +90,7 @@ Competenza
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 4.
 
@@ -112,7 +112,7 @@ Informativa al procuratore della Repubblica per i minorenni
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 5.
 
@@ -134,7 +134,7 @@ Sezioni di polizia giudiziaria per i minorenni
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 6. — (( (Servizi minorili). ))
 
@@ -190,7 +190,7 @@ Inammissibilita' dell'azione civile
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 11.
 
@@ -360,7 +360,7 @@ Procedimenti speciali
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 26.
 
@@ -495,7 +495,7 @@ AGGIORNAMENTO (9)
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 33.
 
@@ -520,7 +520,7 @@ Udienza dibattimentale
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 34.
 
@@ -548,7 +548,7 @@ Giudizio di appello
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 36.
 
@@ -580,7 +580,7 @@ Applicazione provvisoria
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 38.
 
@@ -603,7 +603,7 @@ Procedimento davanti al tribunale per le persone, per i minorenni e per le famig
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 39.
 
@@ -626,7 +626,7 @@ Applicazione di una misura di sicurezza
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 40.
 
@@ -649,7 +649,7 @@ Esecuzione delle misure di sicurezza
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
 ### Art. 41.
 
@@ -675,5 +675,5 @@ Impugnazione dei provvedimenti
                                 ---------------
                                 AGGIORNAMENTO (28)
                                 
- Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 8 agosto 2025, n. 117, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 

@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-10-29",
+  "zip_date": "2026-10-30",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -231456,13 +231456,13 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-09-443.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-09;443"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-09-30_V0.xml": {
-      "sha256": "ea66a31b2496a99a9386f78882252b322df9b79f485d3fa9cc6f4f1ef7e2577c",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "dce3d2c356163ec89b9a9decdd7b3276644d5b3df306c79ff6c61d24be83fc54",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_448/1988-10-24_088G0493_VIGENZA_2026-06-23_V0.xml": {
-      "sha256": "cb7c7d072149ef944001a3a7677086a59cfa88c5bd7ef9b916cfcd7041d34272",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_448/1988-10-24_088G0493_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "342261530190a83b6a4bb997a8fd5d5ac8f1af43da5bb73d7db73320b011f979",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-22-448.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448"
     },

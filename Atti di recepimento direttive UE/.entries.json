@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-27",
+  "zip_date": "2026-10-30",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19960206_175/1996-03-30_096G0184_ORIGINALE_V0.xml": {
       "sha256": "b9e6909b6c24b5aa9423a811d28d930fd3228e63ed977c13f9fea8793daafd3e",
@@ -1901,7 +1901,7 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2000-05-21-172.md",
       "urn": "urn:nir:stato:decreto.legislativo:2000-05-21;172"
     },
-    "DECRETO LEGISLATIVO_20000523_164/2000-06-20_000G0210_VIGENZA_2026-08-15_V0.xml": {
+    "DECRETO LEGISLATIVO_20000523_164/2000-06-20_000G0210_VIGENZA_2026-10-30_V0.xml": {
       "sha256": "4e250b4d76620f8b26374effabbf2142e9bd7248fd33f8cf13ef884deb70cd7c",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2000-05-23-164.md",
       "urn": "urn:nir:stato:decreto.legislativo:2000-05-23;164"
@@ -1946,8 +1946,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2000-12-22-395.md",
       "urn": "urn:nir:stato:decreto.legislativo:2000-12-22;395"
     },
-    "DECRETO LEGISLATIVO_20010130_94/2001-04-04_001G0109_ORIGINALE_V0.xml": {
-      "sha256": "afdcf96fdad4feeaabf9d2b2449e01560b37678148e2f6089fffdb29467ed4c2",
+    "DECRETO LEGISLATIVO_20010130_94/2001-04-04_001G0109_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "f6e8fb22941d06b49560a9e2303ab9aae8031d97684882dd1675aa6588f49008",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2001-01-30-94.md",
       "urn": "urn:nir:stato:decreto.legislativo:2001-01-30;94"
     },
@@ -2056,8 +2056,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2002-06-19-191.md",
       "urn": "urn:nir:stato:decreto.legislativo:2002-06-19;191"
     },
-    "DECRETO LEGISLATIVO_20020904_262/2002-11-21_002G0291_VIGENZA_2025-06-12_V0.xml": {
-      "sha256": "faac505533d3f6fd929507d3970f94ee960397ce61a0cc0bd9cd6980d654bcc3",
+    "DECRETO LEGISLATIVO_20020904_262/2002-11-21_002G0291_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "dd779b99fb77c16c700c3c9985e35facc5470d644b060d074e74e49e65561cd7",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2002-09-04-262.md",
       "urn": "urn:nir:stato:decreto.legislativo:2002-09-04;262"
     },
@@ -2496,8 +2496,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2005-05-30-140.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-05-30;140"
     },
-    "DECRETO LEGISLATIVO_20050530_142/2005-07-25_005G0164_VIGENZA_2025-06-12_V0.xml": {
-      "sha256": "cf30da983cbef2392a8357a47528ab78e6c52eb15cbca952718256e1c587df59",
+    "DECRETO LEGISLATIVO_20050530_142/2005-07-25_005G0164_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "6b96f0ea4bf1cd0b7a1f11b72da8d0987506a300234d66fe44d8ae49ffbf0986",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2005-05-30-142.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-05-30;142"
     },
@@ -2626,8 +2626,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2006-03-16-140.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-03-16;140"
     },
-    "DECRETO LEGISLATIVO_20060316_158/2006-04-28_006G0177_VIGENZA_2025-06-12_V0.xml": {
-      "sha256": "372cc7256ef014e26b539d1db08937b06b31485d9206b08640274cd3b6ed87c6",
+    "DECRETO LEGISLATIVO_20060316_158/2006-04-28_006G0177_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "edebaf0a661f82f5226eb29b84b61fefe298661c2eff1412aa3e12c020408d45",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2006-03-16-158.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-03-16;158"
     },
@@ -3121,8 +3121,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2010-01-27-35.md",
       "urn": "urn:nir:stato:decreto.legislativo:2010-01-27;35"
     },
-    "DECRETO LEGISLATIVO_20100127_39/2010-03-23_010G0057_VIGENZA_2026-08-08_V0.xml": {
-      "sha256": "905a57222189281ef1ccc11dc3fefff2be4ac24b09aecb61fb1fbda0b37f279d",
+    "DECRETO LEGISLATIVO_20100127_39/2010-03-23_010G0057_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "e581bfa672f687f8277333a12448349fe7565625c0233eebab0981eff73037e4",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2010-01-27-39.md",
       "urn": "urn:nir:stato:decreto.legislativo:2010-01-27;39"
     },
@@ -3756,8 +3756,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2015-11-12-190.md",
       "urn": "urn:nir:stato:decreto.legislativo:2015-11-12;190"
     },
-    "DECRETO LEGISLATIVO_20151116_180/2015-11-16_15G00195_VIGENZA_2026-02-12_V0.xml": {
-      "sha256": "f70d38ed4d2050ecb1af5b705968bf1cbbf160b51367377040e2e54471e5ab79",
+    "DECRETO LEGISLATIVO_20151116_180/2015-11-16_15G00195_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "57641c7e9cbcc122e05142070131338e7c938d423c9908bb3afd27f61d9204fe",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2015-11-16-180.md",
       "urn": "urn:nir:stato:decreto.legislativo:2015-11-16;180"
     },
@@ -5456,7 +5456,7 @@
       "out": "Atti di recepimento direttive UE/stato-legge-2014-10-30-161.md",
       "urn": "urn:nir:stato:legge:2014-10-30;161"
     },
-    "LEGGE_20171120_167/2017-11-27_17G00180_VIGENZA_2026-08-12_V0.xml": {
+    "LEGGE_20171120_167/2017-11-27_17G00180_VIGENZA_2026-10-30_V0.xml": {
       "sha256": "5b69e814c60ea3bd5e603ae2a4e4586180549b228d0a75a4cbab82a68ea3fb09",
       "out": "Atti di recepimento direttive UE/stato-legge-2017-11-20-167.md",
       "urn": "urn:nir:stato:legge:2017-11-20;167"

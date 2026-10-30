@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-08-07
-zip_date: 2026-08-08
-fetched_at: 2026-08-08
+zip_date: 2026-10-30
+fetched_at: 2026-10-30
 ---
 
 DECRETO LEGISLATIVO

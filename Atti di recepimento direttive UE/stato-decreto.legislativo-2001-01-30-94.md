@@ -8,8 +8,8 @@ codice_redazionale: 001G0109
 vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
-zip_date: 2026-07-30
-fetched_at: 2026-07-30
+zip_date: 2026-10-30
+fetched_at: 2026-10-30
 ---
 
 DECRETO LEGISLATIVO

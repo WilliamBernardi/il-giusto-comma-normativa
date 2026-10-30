@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-03-26
-zip_date: 2026-07-30
-fetched_at: 2026-07-30
+zip_date: 2026-10-30
+fetched_at: 2026-10-30
 ---
 
 DECRETO LEGISLATIVO
@@ -28,8 +28,6 @@ Entrata in vigore del provvedimento: 13/5/2006
 Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, espresso in data 15 dicembre 2005;
 
 Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
-
-Sulla proposta del Ministro per le politiche comunitarie e del Ministro della salute, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, delle politiche agricole e forestali e per gli affari regionali;
 
 ## Art. 1. — Campo d'applicazione e definizioni
 
@@ -492,6 +490,14 @@ Il veterinario della azienda sanitaria locale competente, nel corso del controll
 Gli allevatori ed i veterinari che hanno in cura gli animali sono tenuti a fornire all'autorita' competente, su sua richiesta, ogni informazione relativa al rispetto delle norme di cui al presente decreto.
 
 6. Per gli animali introdotti negli stabilimenti di macellazione, pubblici e privati, a scopo di macellazione, devono essere assicurati gli obblighi inerenti l'identificazione e la registrazione, con la compilazione della dichiarazione di provenienza e destinazione degli animali (modello 4) di cui al decreto del Presidente della Repubblica 30 aprile 1996, n. 317, secondo le modalita' previste dal decreto del Ministro della salute 28 giugno 2016, pubblicato nella Gazzetta Ufficiale n. 205 del 2 settembre 2016, contenente le seguenti indicazioni:
+
+a) numero, specie e categoria degli animali;
+
+b) ubicazione dell'allevamento di provenienza;
+
+c) che gli animali non sono stati trattati o alimentati con sostanze di cui e' vietato l'impiego;
+
+d) eventuali trattamenti effettuati sugli animali, nei novanta giorni precedenti l'avvio alla macellazione, con le sostanze di cui agli articoli 4 e 5, nonche' con alimenti medicamentosi e specialita' medicinali;
 
 e) che sono stati osservati i previsti periodi di attesa per i trattamenti con i prodotti di cui alla lettera d) ))
 
