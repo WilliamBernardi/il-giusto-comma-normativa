@@ -2,13 +2,13 @@
   "source": "normattiva-opendata",
   "state": "V",
   "format": "AKN",
-  "built_at": "2026-11-05T11:21:19Z",
+  "built_at": "2026-11-06T11:19:45Z",
   "collections": {
     "Atti di attuazione Regolamenti UE": {
       "collection": "Atti di attuazione Regolamenti UE",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 39,
       "files": {
         "urn:nir:ministero.agricoltura.e.foreste:decreto.ministeriale:1990-02-08;34": {
@@ -12632,7 +12632,7 @@
       "collection": "DL decaduti",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 1735,
       "files": {
         "urn:nir:stato:decreto.legge:1951-04-09;207": {
@@ -27048,7 +27048,7 @@
       "collection": "DL e leggi di conversione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 7444,
       "files": {
         "urn:nir:stato:legge:1895-08-04;470": {
@@ -115977,6 +115977,33 @@
           "warnings": [
             "skipped non-article attachment \"Allegato\""
           ]
+        },
+        "urn:nir:stato:legge:2026-10-05;173": {
+          "path": "DL e leggi di conversione/stato-legge-2026-10-05-173.md",
+          "urn": "urn:nir:stato:legge:2026-10-05;173",
+          "articles": 1,
+          "zip_entry": "LEGGE_20261005_173/2026-10-06_26G00193_ORIGINALE_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Allegato\""
+          ]
+        },
+        "urn:nir:stato:legge:2026-10-05;174": {
+          "path": "DL e leggi di conversione/stato-legge-2026-10-05-174.md",
+          "urn": "urn:nir:stato:legge:2026-10-05;174",
+          "articles": 1,
+          "zip_entry": "LEGGE_20261005_174/2026-10-06_26G00194_ORIGINALE_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Allegato\""
+          ]
+        },
+        "urn:nir:stato:legge:2026-10-23;196": {
+          "path": "DL e leggi di conversione/stato-legge-2026-10-23-196.md",
+          "urn": "urn:nir:stato:legge:2026-10-23;196",
+          "articles": 1,
+          "zip_entry": "LEGGE_20261023_196/2026-10-26_26G00212_ORIGINALE_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Allegato\""
+          ]
         }
       }
     },
@@ -115984,7 +116011,7 @@
       "collection": "DL proroghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 75,
       "files": {
         "urn:nir:stato:decreto.legge:1979-09-24;467": {
@@ -116605,7 +116632,7 @@
       "collection": "DPCM",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 363,
       "files": {
         "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1987-04-08;227": {
@@ -509307,7 +509334,7 @@
       "collection": "Decreti legislativi luogotenenziali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 1215,
       "files": {
         "urn:nir:stato:decreto.legislativo.luogotenenziale:1942-07-24;1879": {
@@ -519340,7 +519367,7 @@
       "collection": "Leggi contenenti deleghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 81,
       "files": {
         "urn:nir:stato:legge:1991-06-13;190": {
@@ -519959,6 +519986,18 @@
           "urn": "urn:nir:stato:legge:2026-07-28;137",
           "articles": 3,
           "zip_entry": "LEGGE_20260728_137/2026-08-01_26G00153_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:legge:2026-09-29;169": {
+          "path": "Leggi contenenti deleghe/stato-legge-2026-09-29-169.md",
+          "urn": "urn:nir:stato:legge:2026-09-29;169",
+          "articles": 5,
+          "zip_entry": "LEGGE_20260929_169/2026-09-30_26G00189_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:legge:2026-10-16;187": {
+          "path": "Leggi contenenti deleghe/stato-legge-2026-10-16-187.md",
+          "urn": "urn:nir:stato:legge:2026-10-16;187",
+          "articles": 7,
+          "zip_entry": "LEGGE_20261016_187/2026-10-19_26G00204_ORIGINALE_V0.xml"
         }
       }
     },
@@ -519966,7 +520005,7 @@
       "collection": "Leggi costituzionali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 50,
       "files": {
         "urn:nir:stato:legge.costituzionale:1947-02-21;1": {
@@ -530195,7 +530234,7 @@
       "collection": "Leggi di delegazione europea",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 32,
       "files": {
         "urn:nir:stato:legge:1989-03-09;86": {
@@ -530566,7 +530605,7 @@
       "collection": "Leggi di ratifica",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 2336,
       "files": {
         "urn:nir:stato:legge:1923-06-24;1473": {
@@ -558750,6 +558789,15 @@
           "urn": "urn:nir:stato:legge:2026-09-01;159",
           "articles": 18,
           "zip_entry": "LEGGE_20260901_159/2026-09-14_26G00176_ORIGINALE_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Agreement\""
+          ]
+        },
+        "urn:nir:stato:legge:2026-10-01;182": {
+          "path": "Leggi di ratifica/stato-legge-2026-10-01-182.md",
+          "urn": "urn:nir:stato:legge:2026-10-01;182",
+          "articles": 11,
+          "zip_entry": "LEGGE_20261001_182/2026-10-12_26G00197_ORIGINALE_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Agreement\""
           ]
@@ -1286190,7 +1286238,7 @@
       "collection": "Regi decreti legislativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 120,
       "files": {
         "urn:nir:stato:regio.decreto.legislativo:1946-05-10;262": {
@@ -1287098,7 +1287146,7 @@
       "collection": "Regolamenti di delegificazione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 376,
       "files": {
         "urn:nir:presidenza.repubblica:decreto.del.presidente.della.repubblica:1999-12-01;503": {
@@ -1290187,7 +1290235,7 @@
       "collection": "Regolamenti governativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 1944,
       "files": {
         "urn:nir:ministero.tesoro:decreto.del.presidente.della.repubblica:1997-09-09;336": {
@@ -1307308,6 +1307356,12 @@
           "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-06-19;155",
           "articles": 2,
           "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260619_155/2026-08-31_26G00171_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-08-04;183": {
+          "path": "Regolamenti governativi/stato-decreto.del.presidente.della.repubblica-2026-08-04-183.md",
+          "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-08-04;183",
+          "articles": 3,
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260804_183/2026-10-13_26G00198_ORIGINALE_V0.xml"
         }
       }
     },
@@ -1307315,7 +1307369,7 @@
       "collection": "Regolamenti ministeriali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-05",
+      "zip_date": "2026-11-06",
       "act_count": 2080,
       "files": {
         "urn:nir:agricoltura.alimentare.foreste.ministero.sovranita:decreto:2023-08-29;233": {
@@ -1319481,6 +1319535,12 @@
           "warnings": [
             "skipped non-article attachment \"Allegato\""
           ]
+        },
+        "urn:nir:ministero.salute:decreto:2026-08-05;198": {
+          "path": "Regolamenti ministeriali/ministero.salute-decreto-2026-08-05-198.md",
+          "urn": "urn:nir:ministero.salute:decreto:2026-08-05;198",
+          "articles": 12,
+          "zip_entry": "DECRETO_20260805_198/2026-10-29_26G00215_ORIGINALE_V0.xml"
         },
         "urn:nir:ministero.sanita:decreto.ministeriale:1990-08-01;256": {
           "path": "Regolamenti ministeriali/ministero.sanita-decreto.ministeriale-1990-08-01-256.md",

@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-05",
+  "zip_date": "2026-11-06",
   "entries": {
     "LEGGE_18950804_470/1895-08-07_095U0470_VIGENZA_2026-02-14_V0.xml": {
       "sha256": "66354b39bd0e9aa76cfadb65c5ccac5c61e792d006f0e54ce13940f3b11bfac8",
@@ -48755,6 +48755,21 @@
       "sha256": "93f7bd11bc8b09296c8202aeb2054f562eb6124d9206bf4af7e00c3793d668c5",
       "out": "DL e leggi di conversione/stato-legge-2026-09-25-166.md",
       "urn": "urn:nir:stato:legge:2026-09-25;166"
+    },
+    "LEGGE_20261005_173/2026-10-06_26G00193_ORIGINALE_V0.xml": {
+      "sha256": "98ccfd36ceca4a4ac59a32c09c8ad7e52f7591b6f146708edd314bc6f872c6a6",
+      "out": "DL e leggi di conversione/stato-legge-2026-10-05-173.md",
+      "urn": "urn:nir:stato:legge:2026-10-05;173"
+    },
+    "LEGGE_20261005_174/2026-10-06_26G00194_ORIGINALE_V0.xml": {
+      "sha256": "fa5cca626f2ebb5bd5e3340722fa085ae24974167e0465b1fbeacaf72ff9d564",
+      "out": "DL e leggi di conversione/stato-legge-2026-10-05-174.md",
+      "urn": "urn:nir:stato:legge:2026-10-05;174"
+    },
+    "LEGGE_20261023_196/2026-10-26_26G00212_ORIGINALE_V0.xml": {
+      "sha256": "152df3e8e84ad494679c5a9e03f9f1fb3c1af48f361308db9e172ea582517618",
+      "out": "DL e leggi di conversione/stato-legge-2026-10-23-196.md",
+      "urn": "urn:nir:stato:legge:2026-10-23;196"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-05",
+  "zip_date": "2026-11-06",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19890804_296/1989-08-23_089G0372_ORIGINALE_V0.xml": {
       "sha256": "b4b68b6ec62847ac1692378e52f37d92f63ede4723c9c0a15afe7aaede011ce0",
@@ -10440,6 +10440,11 @@
       "sha256": "3faaa0325ff116a286e95afa0896845c22fb4f76251e65f1a66a6fb5e3323e70",
       "out": "Regolamenti ministeriali/imprese.italy.made.ministero-decreto-2026-07-21-161.md",
       "urn": "urn:nir:imprese.italy.made.ministero:decreto:2026-07-21;161"
+    },
+    "DECRETO_20260805_198/2026-10-29_26G00215_ORIGINALE_V0.xml": {
+      "sha256": "c9024ebe0006e328d6ca352c846e5b6f625b42800e24e6d0b6f550896b8ecabd",
+      "out": "Regolamenti ministeriali/ministero.salute-decreto-2026-08-05-198.md",
+      "urn": "urn:nir:ministero.salute:decreto:2026-08-05;198"
     }
   }
 }
