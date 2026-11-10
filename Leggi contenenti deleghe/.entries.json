@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-09",
+  "zip_date": "2026-11-10",
   "entries": {
     "LEGGE_19910613_190/1991-06-28_091G0229_ORIGINALE_V0.xml": {
       "sha256": "4baef4a6f6503a3792e5df69b4ab27379e0021a8c39e45a1a63aab5154dd60ec",
@@ -391,7 +391,7 @@
       "out": "Leggi contenenti deleghe/stato-legge-2026-07-23-135.md",
       "urn": "urn:nir:stato:legge:2026-07-23;135"
     },
-    "LEGGE_20260728_137/2026-08-01_26G00153_ORIGINALE_V0.xml": {
+    "LEGGE_20260728_137/2026-08-01_26G00153_VIGENZA_2026-11-10_V0.xml": {
       "sha256": "5d66bf01af2157c7f95233c486543dd262969e4730e09f1948e9ab854270ad89",
       "out": "Leggi contenenti deleghe/stato-legge-2026-07-28-137.md",
       "urn": "urn:nir:stato:legge:2026-07-28;137"
