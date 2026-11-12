@@ -8,9 +8,9 @@ codice_redazionale: 042U0262
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-04-29
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-10-31
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 REGIO DECRETO
@@ -2267,9 +2267,7 @@ Cognome dell'adottato.
  
  Nel caso in cui la filiazione sia stata accertata o riconosciuta successivamente all'adozione si applica il primo comma. 
  
- Il figlio naturale che sia stato riconosciuto dai propri genitori e sia successivamente adottato, assume il cognome dell'adottante. (263) (317) 
- 
- Se l'adozione e' compiuta da coniugi, l'adottato assume il cognome del marito. 
+ Se l'adozione e' compiuta da coniugi, l'adottato assume il cognome del marito. (263) (317) 
  
  Se l'adozione e' compiuta da una donna maritata, l'adottato, che non sia figlio del marito, assume il cognome della famiglia di lei.  (263)
 
@@ -4091,7 +4089,8 @@ L'accettazione col beneficio d'inventario si fa mediante dichiarazione, ricevuta
 
 Il chiamato all'eredita', quando a qualsiasi titolo e' nel possesso di beni ereditari, deve fare l'inventario entro tre mesi dal giorno dell'apertura della successione o della notizia della devoluta eredita'. Se entro questo termine lo ha cominciato ma non e' stato in grado di completarlo, puo' ottenere dal ((giudice di pace)) del luogo in cui si e' aperta la successione una proroga che, salvo gravi circostanze, non deve eccedere i tre mesi.(111) (112a) ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  
  Trascorso tale termine senza che l'inventario sia stato compiuto, il chiamato all'eredita' e' considerato erede puro e semplice. 
  
@@ -4116,7 +4115,11 @@ Il chiamato all'eredita', quando a qualsiasi titolo e' nel possesso di beni ered
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 486. — Poteri
 
@@ -5114,7 +5117,8 @@ Chiunque e' in possesso di un testamento olografo deve presentarlo a un notaio p
  
  Chiunque crede di avervi interesse puo' chiedere, con ricorso al ((giudice di pace del luogo)) in cui si e' aperta la successione, che sia fissato un termine per la presentazione.(111) (112a) ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  
  Il notaio procede alla pubblicazione del testamento in presenza di due testimoni, redigendo nella forma degli atti pubblici un verbale nel quale descrive lo stato del testamento, ne riproduce il contenuto e fa menzione della sua apertura, se e' stato presentato chiuso con sigillo. Il verbale e' sottoscritto dalla persona che presenta il testamento, dai testimoni e dal notaio. Ad esso sono uniti la carta in cui e' scritto il testamento, vidimata in ciascun mezzo foglio dal notaio e dai testimoni, e l'estratto dell'atto di morte del testatore o copia del provvedimento che ordina l'apertura degli atti di ultima volonta' dell'assente o della sentenza che dichiara la morte presunta. 
  
@@ -5125,6 +5129,7 @@ Chiunque e' in possesso di un testamento olografo deve presentarlo a un notaio p
  Per giustificati motivi, su istanza di chiunque vi ha interesse, il ((giudice di pace)) puo' disporre che periodi o frasi di carattere non patrimoniale siano cancellati dal testamento e omessi nelle copie che fossero richieste, salvo che l'autorita' giudiziaria ordini il rilascio di copia integrale.(111) (112a) ((273))
                                     ((300))
                                     ((341))
+                                    ((351))
 
 ---------------
                                 AGGIORNAMENTO (111)
@@ -5145,13 +5150,18 @@ Chiunque e' in possesso di un testamento olografo deve presentarlo a un notaio p
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che le modifiche di cui ai commi 2 e 6 del presente articolo entrano in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che le modifiche di cui ai commi 2 e 6 del presente articolo entrano in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 621. — Pubblicazione del testamento segreto
 
 Il testamento segreto deve essere aperto e pubblicato dal notaio appena gli perviene la notizia della morte del testatore. Chiunque crede di avervi interesse puo' chiedere, con ricorso al ((giudice di pace del luogo)) in cui si e' aperta la successione, che sia fissato un termine per l'apertura e la pubblicazione.(111) (112a) ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  
  Si applicano le disposizioni del terzo comma dell'articolo 620.
 
@@ -5174,7 +5184,11 @@ Il testamento segreto deve essere aperto e pubblicato dal notaio appena gli perv
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 622. — Comunicazione dei testamenti alla pretura
 
@@ -5856,6 +5870,7 @@ Compiuta la divisione, si devono rimettere a ciascuno dei condividenti i documen
  I documenti di una proprieta' che e' stata divisa rimangono a quello che ne ha la parte maggiore, con l'obbligo di comunicarli agli altri condividenti che vi hanno interesse, ogni qualvolta se ne faccia richiesta. Gli stessi documenti, se la proprieta' e' divisa in parti eguali, e quelli comuni all'intera eredita' si consegnano alla persona scelta a tal fine da tutti gli interessati, la quale ha obbligo di comunicarli a ciascuno di essi, a ogni loro domanda. Se vi e' contrasto nella scelta, la persona e' determinata con decreto dal ((giudice di pace)) del luogo dell'aperta successione, su ricorso di alcuno degli interessati, sentiti gli altri.(111) (112a) ((273))
                                     ((300))
                                     ((341))
+                                    ((351))
 
 --------------
                                 AGGIORNAMENTO (111)
@@ -5876,7 +5891,11 @@ Compiuta la divisione, si devono rimettere a ciascuno dei condividenti i documen
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al secondo comma del presente articolo entra in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al secondo comma del presente articolo entra in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 737.
 
@@ -8894,6 +8913,7 @@ Se il creditore rifiuta di accettare l'offerta reale o non si presenta per ricev
 Se le cose non possono essere conservate o sono deteriorabili, oppure se le spese della loro custodia sono eccessive, il debitore, dopo l'offerta reale o l'intimazione di ritirarle, puo' farsi autorizzare dal ((giudice di pace)) a venderle nei modi stabiliti per le cose pignorate e a depositarne il prezzo. (111) (112a) ((273))
                                     ((300))
                                     ((341))
+                                    ((351))
 
 -----------
                                 AGGIORNAMENTO (111)
@@ -8914,7 +8934,11 @@ Se le cose non possono essere conservate o sono deteriorabili, oppure se le spes
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 1212. — Requisiti del deposito
 
@@ -10683,7 +10707,8 @@ In caso di divergenza sulla qualita' o condizione della cosa, il venditore o il 
 
 Se il compratore non si presenta per ricevere la cosa acquistata, il venditore puo' depositarla, per conto e a spese del compratore medesimo, in un locale di pubblico deposito, oppure in altro locale idoneo determinato dal ((giudice di pace)) del luogo in cui la consegna doveva essere fatta. (111) (112a) ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  
  Il venditore deve dare al compratore pronta notizia del deposito eseguito.
 
@@ -10706,7 +10731,11 @@ Se il compratore non si presenta per ricevere la cosa acquistata, il venditore p
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al primo comma del presente articolo entra in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 1515. — Esecuzione coattiva per inadempimento del compratore
 
@@ -10716,7 +10745,8 @@ Se il compratore non adempie l'obbligazione di pagare il prezzo, il venditore pu
  
  Se la cosa ha un prezzo corrente, stabilito per atto della pubblica autorita' o da norme corporative, ovvero risultante da listini di borsa o da mercuriali, la vendita puo' essere fatta senza incanto, al prezzo corrente, a mezzo delle persone indicate nel comma precedente o di un commissario nominato ((dal giudice di pace)). In tal caso il venditore deve dare al compratore pronta notizia della vendita. (111) (112a) ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  
  Il venditore ha diritto alla differenza tra il prezzo convenuto e il ricavo netto della vendita, oltre al risarcimento del maggior danno.
 
@@ -10739,7 +10769,11 @@ Se il compratore non adempie l'obbligazione di pagare il prezzo, il venditore pu
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al terzo comma del presente articolo entra in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che la modifica di cui al terzo comma del presente articolo entra in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 1516. — Esecuzione coattiva per inadempimento del venditore
 
@@ -11628,9 +11662,9 @@ Coloro che, alle dipendenze dell'appaltatore, hanno dato la loro attivita' per e
 
 Se l'appalto ha per oggetto prestazioni continuative o periodiche di servizi, si osservano, in quanto compatibili, le norme di questo capo e quelle relative al contratto di somministrazione.
 
-### Art. 1677-bis. — (( (Prestazione di piu' servizi riguardanti il trasferimento di cose). ))
+### Art. 1677-bis. — ( (Prestazione di piu' servizi riguardanti il trasferimento di cose). )
 
-((Se l'appalto ha per oggetto, congiuntamente, la prestazione di due o piu' servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano le norme relative al contratto di trasporto, in quanto compatibili)).
+((Se l'appalto ha per oggetto la prestazione di servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano in ogni caso le norme relative al contratto di trasporto)).
 
 ### Art. 1678. — Nozione
 
@@ -12654,15 +12688,18 @@ Se la cassetta e' intestata a piu' persone, l'apertura di essa e' consentita sin
 
 Quando il contratto e' scaduto, la banca, previa intimazione all'intestatario e decorsi sei mesi dalla data della medesima, puo' chiedere al ((giudice di pace)) l'autorizzazione ad aprire la cassetta. L'intimazione puo' farsi anche mediante raccomandata con avviso di ricevimento. ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  
  L'apertura si esegue con l'assistenza di un notaio all'uopo designato e con le cautele che il ((giudice di pace)) ritiene opportune. ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  
  Il ((giudice di pace)) puo' dare le disposizioni necessarie per la conservazione degli oggetti rinvenuti e puo' ordinare la vendita di quella parte di essi che occorra al soddisfacimento di quanto e' dovuto alla banca per canoni e spese. ((273))
                                     ((300))
-                                    ((341)) 
+                                    ((341))
+                                    ((351)) 
  (111) (112a)
 
 ---------------
@@ -12684,7 +12721,11 @@ Quando il contratto e' scaduto, la banca, previa intimazione all'intestatario e 
                                 ---------------
                                 AGGIORNAMENTO (341)
                                 
- Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che le modifiche di cui ai commi 1, 2 e 3 del presente articolo entrano in vigore il 31 ottobre 2026.
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 32, comma 3) che le modifiche di cui ai commi 1, 2 e 3 del presente articolo entrano in vigore il 31 ottobre 2026. 
+                                ---------------
+                                AGGIORNAMENTO (351)
+                                
+ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
 ### Art. 1842. — Nozione
 
@@ -16555,7 +16596,7 @@ Nei casi di mancata convocazione dell'assemblea, di mancanza del verbale e di im
  
  Resta salvo il diritto al risarcimento del danno eventualmente spettante ai soci e ai terzi.))
 
-### Art. 2380. — (( (Sistemi di amministrazione e di controllo). ))
+### Art. 2380. — ( (Sistemi di amministrazione e di controllo). )
 
 ((Lo statuto adotta per l'amministrazione e per il controllo della societa' uno dei sistemi di cui ai successivi paragrafi 2, 3 e 4 della presente sezione, nei quali, rispettivamente, le funzioni sono attribuite a uno o piu' amministratori e a un collegio sindacale, a un consiglio di gestione e a un consiglio di sorveglianza, a un consiglio di amministrazione e a un comitato per il controllo sulla gestione costituito al suo interno. 
  
@@ -16563,7 +16604,7 @@ Nei casi di mancata convocazione dell'assemblea, di mancanza del verbale e di im
  
  Salvo che sia diversamente stabilito, le disposizioni del presente paragrafo che fanno riferimento al consiglio o agli amministratori si applicano a seconda dei casi al consiglio di amministrazione o al consiglio di gestione o ai rispettivi componenti.))
 
-### Art. 2380-bis. — (( (Amministrazione della societa').))
+### Art. 2380-bis. — ( (Amministrazione della societa').)
 
 ((La gestione e l'organizzazione dell'impresa, ivi compresa l'istituzione dell'assetto organizzativo, amministrativo e contabile, spettano esclusivamente agli amministratori, i quali compiono le operazioni strumentali all'attuazione dell'oggetto sociale. 
  
@@ -16573,13 +16614,13 @@ Nei casi di mancata convocazione dell'assemblea, di mancanza del verbale e di im
  
  Se lo statuto non stabilisce il numero degli amministratori, ma ne indica solamente un numero massimo e minimo, la determinazione spetta all'organo competente a nominarli.))
 
-### Art. 2381. — (( (Presidente).))
+### Art. 2381. — ( (Presidente).)
 
-Salvo diversa previsione dello statuto, gli amministratori scelgono al proprio interno il presidente, se non designato dall'organo competente a nominarli. 
+((Salvo diversa previsione dello statuto, gli amministratori scelgono al proprio interno il presidente, se non designato dall'organo competente a nominarli. 
  
  Salvo diversa previsione dello statuto, il presidente convoca il consiglio, ne fissa l'ordine del giorno e ne coordina i lavori.))
 
-### Art. 2381-bis. — (( (Comitato esecutivo e organi delegati).))
+### Art. 2381-bis. — ( (Comitato esecutivo e organi delegati).)
 
 ((Se lo statuto o l'assemblea lo consentono, il consiglio di amministrazione puo' delegare proprie attribuzioni a un comitato esecutivo composto da alcuni dei suoi componenti, o a uno o piu' dei suoi componenti. Se lo statuto lo consente, il consiglio di gestione puo' delegare proprie attribuzioni solo a uno o piu' dei suoi componenti. 
  
@@ -16589,7 +16630,7 @@ Salvo diversa previsione dello statuto, gli amministratori scelgono al proprio i
  
  Gli organi delegati curano l'assetto organizzativo, amministrativo e contabile e riferiscono al consiglio e all'organo di controllo, con la periodicita' fissata dallo statuto e in ogni caso almeno ogni sei mesi, sul generale andamento della gestione e sulla sua prevedibile evoluzione, nonche' sulle operazioni di maggior rilievo, per le loro dimensioni o caratteristiche, effettuate dalla societa' e dalle sue controllate.))
 
-### Art. 2381-ter. — (( (Informazione consiliare).))
+### Art. 2381-ter. — ( (Informazione consiliare).)
 
 ((Gli amministratori sono tenuti ad agire in modo informato. 
  
@@ -16605,7 +16646,7 @@ Salvo diversa previsione dello statuto, gli amministratori scelgono al proprio i
 
 ### Art. 2383. — Nomina e revoca degli amministratori
 
-((PERIODO SOPPRESSO 27 MARZO 2026, N. 47)). ((la nomina degli amministratori e' preceduta)) dalla presentazione, da parte dell'interessato, di una dichiarazione circa l'inesistenza, a suo carico, delle cause di ineleggibilita' previste dall'articolo 2382 e di interdizioni dall'ufficio di amministratore adottate nei suoi confronti in uno Stato membro dell'Unione europea. 
+((PERIODO SOPPRESSO DAL D.LGS. 27 MARZO 2026, N. 47)). ((la nomina degli amministratori e' preceduta)) dalla presentazione, da parte dell'interessato, di una dichiarazione circa l'inesistenza, a suo carico, delle cause di ineleggibilita' previste dall'articolo 2382 e di interdizioni dall'ufficio di amministratore adottate nei suoi confronti in uno Stato membro dell'Unione europea. 
  
  Gli amministratori non possono essere nominati per un periodo superiore a tre esercizi, e scadono alla data ((della riunione dell'organo competente convocato)) per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica. 
  
@@ -16631,7 +16672,7 @@ Salvo diversa previsione dello statuto, gli amministratori scelgono al proprio i
  
  La cessazione degli amministratori dall'ufficio per qualsiasi causa deve essere iscritta entro trenta giorni nel registro delle imprese a cura del collegio sindacale.))
 
-### Art. 2386. — ((ARTICOLO ABROGATO DAL D.LGS 27 MARZO 2026, N. 47))
+### Art. 2386. — ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
 ### Art. 2387. — (( (Requisiti di onorabilita', professionalita' e indipendenza).))
 
@@ -16666,13 +16707,13 @@ Gli amministratori non possono assumere la qualita' di soci illimitatamente resp
  
  Per l'inosservanza di tale divieto l'amministratore puo' essere revocato dall'ufficio e risponde dei danni.
 
-### Art. 2390-bis. — (( (Utilizzazione delle informazioni).))
+### Art. 2390-bis. — ( (Utilizzazione delle informazioni).)
 
 ((Gli amministratori non possono utilizzare a vantaggio proprio o di terzi dati, notizie o opportunita' di affari appresi nell'esercizio del loro incarico. 
  
  Per l'inosservanza di tale divieto l'amministratore puo' essere revocato e risponde dei danni.))
 
-### Art. 2391. — (( (Interessi degli amministratori).))
+### Art. 2391. — ( (Interessi degli amministratori).)
 
 ((L'amministratore deve dare notizia agli altri amministratori e all'organo di controllo di ogni interesse che, per conto proprio o di terzi, abbia in una determinata operazione della societa', precisandone la natura, i termini, l'origine e la portata; se si tratta di amministratore delegato, deve altresi' astenersi dal compiere l'operazione, investendo della stessa l'organo collegiale.
 Se si tratta di amministratore unico, deve darne notizia anche alla prima assemblea utile. 
@@ -16704,7 +16745,7 @@ Gli amministratori devono adempiere i doveri ad essi imposti dalla legge e dallo
  
  La responsabilita' per gli atti o le omissioni degli amministratori non si estende a quello tra essi che, essendo immune da colpa, abbia fatto annotare senza ritardo il suo dissenso nel libro delle adunanze e delle deliberazioni del consiglio, dandone immediata notizia per iscritto al presidente ((dell'organo di controllo)).
 
-### Art. 2393. — (( (Azione sociale di responsabilita').))
+### Art. 2393. — ( (Azione sociale di responsabilita').)
 
 ((L'azione di responsabilita' contro gli amministratori e' promossa in seguito a deliberazione dell'assemblea, anche se la societa' e' in liquidazione. 
  
@@ -16754,19 +16795,19 @@ In caso ((di liquidazione giudiziale, concordato liquidatorio,)), liquidazione c
 
 ((Le disposizioni che regolano la responsabilita' degli amministratori si applicano anche ai direttori generali nominati dall'assemblea o per disposizione dello statuto, in relazione ai compiti loro affidati, salve le azioni esercitabili in base al rapporto di lavoro con la societa'.))
 
-### Art. 2396-bis. — (( (Divieto di concorrenza e utilizzazione delle informazioni per i direttori generali).))
+### Art. 2396-bis. — ( (Divieto di concorrenza e utilizzazione delle informazioni per i direttori generali).)
 
 ((I direttori generali non possono assumere la qualita' di soci illimitatamente responsabili in societa' concorrenti, ne' esercitare un'attivita' concorrente per conto proprio o di terzi, ne' essere amministratori, o direttori generali in societa' concorrenti, salvo specifica autorizzazione della societa' e non possono utilizzare a vantaggio proprio o di terzi dati, notizie o opportunita' di affari appresi nell'esercizio del loro incarico. 
  
  I direttori generali rispondono dei danni derivanti dalla violazione dei divieti di cui al primo comma.))
 
-### Art. 2396-ter. — (( (Denunzia all'organo di controllo).))
+### Art. 2396-ter. — ( (Denunzia all'organo di controllo).)
 
 ((Ogni socio puo' denunziare i fatti che ritiene censurabili all'organo di controllo, il quale deve tener conto della denunzia e riferirne all'assemblea. 
  
  Se la denunzia e' fatta da tanti soci che rappresentino un ventesimo del capitale sociale o un cinquantesimo nelle societa' che fanno ricorso al mercato del capitale di rischio, l'organo di controllo deve indagare senza ritardo sui fatti denunziati e presentare le sue conclusioni ed eventuali proposte all'assemblea; deve altresi' convocare l'assemblea qualora ravvisi fatti censurabili di rilevante gravita' e vi sia urgente necessita' di provvedere. Lo statuto puo' prevedere per la denunzia percentuali minori di partecipazione.))
 
-### Art. 2396-quater. — (( (Denunzia al tribunale).))
+### Art. 2396-quater. — ( (Denunzia al tribunale).)
 
 ((Se vi e' fondato sospetto che gli amministratori, in violazione dei loro doveri, abbiano compiuto gravi irregolarita' nella gestione che possono arrecare danno alla societa' o a una o piu' societa' controllate, i soci che rappresentano il decimo del capitale sociale o, nelle societa' che fanno ricorso al mercato del capitale di rischio, il ventesimo del capitale sociale possono denunziare i fatti al tribunale con ricorso notificato anche alla societa'. Lo statuto puo' prevedere percentuali minori di partecipazione. 
  
@@ -16782,12 +16823,13 @@ In caso ((di liquidazione giudiziale, concordato liquidatorio,)), liquidazione c
  
  I provvedimenti previsti da questo articolo possono essere adottati anche su richiesta dell'organo di controllo nonche', nelle societa' che fanno ricorso al mercato del capitale di rischio, del pubblico ministero; in questi casi le spese per l'ispezione sono a carico della societa'.))
 
-### Art. 2396-quinquies. — (( (Doveri dell'organo di controllo).))
+### Art. 2396-quinquies. — ( (Doveri dell'organo di controllo).)
 
-((L'organo di controllo vigila sull'osservanza della legge e dello statuto, sul rispetto dei principi di corretta amministrazione, nonche' sull'adeguatezza e sul concreto funzionamento dell'assetto organizzativo, amministrativo e contabile adottato dalla societa', ivi compreso il sistema di controllo interno e di gestione dei rischi e il coordinamento delle sue funzioni. E' fatto salvo quanto diversamente stabilito ai sensi delle leggi speciali.))
-                                    ((L'organo di controllo riferisce sull'attivita' di vigilanza svolta e sulle omissioni e sui fatti censurabili rilevati all'assemblea convocata per l'approvazione del bilancio di esercizio ovvero ai sensi del secondo comma dell'articolo 2364-bis.))
+((L'organo di controllo vigila sull'osservanza della legge e dello statuto, sul rispetto dei principi di corretta amministrazione, nonche' sull'adeguatezza e sul concreto funzionamento dell'assetto organizzativo, amministrativo e contabile adottato dalla societa', ivi compreso il sistema di controllo interno e di gestione dei rischi e il coordinamento delle sue funzioni. E' fatto salvo quanto diversamente stabilito ai sensi delle leggi speciali. 
+ 
+ L'organo di controllo riferisce sull'attivita' di vigilanza svolta e sulle omissioni e sui fatti censurabili rilevati all'assemblea convocata per l'approvazione del bilancio di esercizio ovvero ai sensi del secondo comma dell'articolo 2364-bis.))
 
-### Art. 2396-sexies. — (( (Poteri dell'organo di controllo).))
+### Art. 2396-sexies. — ( (Poteri dell'organo di controllo).)
 
 (( L'organo di controllo puo' in qualsiasi momento procedere ad atti di ispezione e di controllo e, previa comunicazione al presidente del consiglio, puo' altresi' convocare l'assemblea qualora nell'espletamento del suo incarico ravvisi fatti censurabili di rilevante gravita' e vi sia urgente necessita' di provvedere. 
  
@@ -16795,14 +16837,14 @@ In caso ((di liquidazione giudiziale, concordato liquidatorio,)), liquidazione c
  
  Gli accertamenti eseguiti devono risultare dal libro previsto dall'articolo 2421, primo comma, numero 5). ))
 
-### Art. 2396-septies. — (( (Cause d'ineleggibilita' e di decadenza).))
+### Art. 2396-septies. — ( (Cause d'ineleggibilita' e di decadenza).)
 
 ((Non possono essere eletti alla carica di componente dell'organo di controllo e, se eletti, decadono dall'ufficio: 
  a) coloro che si trovano nelle condizioni previste dall'articolo 2382; 
  b) il coniuge, l'altra parte dell'unione civile, i parenti entro il quarto grado, gli affini entro il secondo grado e i conviventi degli amministratori della societa', gli amministratori, il coniuge, l'altra parte dell'unione civile, i parenti entro il quarto grado, gli affini entro il secondo grado e i conviventi degli amministratori delle societa' da questa controllate, delle societa' che la controllano e di quelle sottoposte a comune controllo; 
  c) coloro che sono legati alla societa' o alle societa' da questa controllate o alle societa' che la controllano o a quelle sottoposte a comune controllo da un rapporto di lavoro o da un rapporto continuativo di consulenza o di prestazione d'opera retribuita, ovvero da altri rapporti di natura patrimoniale che ne compromettano l'indipendenza, fermo restando che non costituisce di per se' causa di ineleggibilita' e decadenza il fatto di ricoprire cariche in organi di controllo delle societa' controllate dalla societa', delle societa' che la controllano e di quelle sottoposte a comune controllo.))
 
-### Art. 2396-octies. — (( (Riunioni dell'organo di controllo).))
+### Art. 2396-octies. — ( (Riunioni dell'organo di controllo).)
 
 ((L'organo di controllo deve riunirsi almeno ogni novanta giorni.
 La riunione puo' svolgersi, se lo statuto lo consente indicandone le modalita', anche con mezzi di telecomunicazione. 
@@ -16811,15 +16853,15 @@ La riunione puo' svolgersi, se lo statuto lo consente indicandone le modalita', 
  
  L'organo di controllo e' regolarmente costituito con la presenza della maggioranza dei propri componenti e delibera a maggioranza assoluta dei presenti. Il componente dissenziente ha diritto di fare iscrivere a verbale i motivi del proprio dissenso.))
 
-### Art. 2396-novies. — (( (Revisione legale dei conti).))
+### Art. 2396-novies. — ( (Revisione legale dei conti).)
 
 ((La revisione legale dei conti sulla societa' e' esercitata da un revisore legale dei conti o da una societa' di revisione legale iscritti nell'apposito registro.))
 
-### Art. 2396-decies. — (( (Amministratori).))
+### Art. 2396-decies. — ( (Amministratori).)
 
 ((L'amministrazione e' affidata a uno o piu' amministratori, nominati dall'assemblea, fatta eccezione per i primi amministratori, che sono nominati nell'atto costitutivo, e salvo il disposto degli articoli 2351 e 2449.))
 
-### Art. 2396-undecies. — (( (Sostituzione degli amministratori).))
+### Art. 2396-undecies. — ( (Sostituzione degli amministratori).)
 
 ((Se nel corso dell'esercizio vengono a mancare uno o piu' amministratori, gli altri provvedono a sostituirli con deliberazione approvata dal collegio sindacale, purche' la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori cosi' nominati restano in carica fino alla prossima assemblea. 
  
@@ -16831,11 +16873,11 @@ La riunione puo' svolgersi, se lo statuto lo consente indicandone le modalita', 
  
  Se vengono a cessare l'amministratore unico o tutti gli amministratori, l'assemblea per la nomina dell'amministratore o dell'intero consiglio deve essere convocata d'urgenza dal collegio sindacale, il quale puo' compiere nel frattempo gli atti di ordinaria amministrazione.))
 
-### Art. 2396-duodecies. — (( (Compensi dei componenti del comitato esecutivo).))
+### Art. 2396-duodecies. — ( (Compensi dei componenti del comitato esecutivo).)
 
 ((I compensi spettanti ai componenti del comitato esecutivo sono stabiliti all'atto della nomina, sentito il parere del collegio sindacale, o dall'assemblea.))
 
-### Art. 2396-terdecies. — (( (Azione sociale di responsabilita').))
+### Art. 2396-terdecies. — ( (Azione sociale di responsabilita').)
 
 ((L'azione di responsabilita' puo' essere promossa anche a seguito di deliberazione del collegio sindacale, assunta con la maggioranza dei due terzi dei suoi componenti.))
 
@@ -16845,7 +16887,7 @@ Il collegio sindacale si compone di tre o cinque membri effettivi, soci o non so
  
  Almeno un membro effettivo ed uno supplente devono essere scelti tra i revisori legali iscritti nell'apposito registro. I restanti membri, se non iscritti in tale registro, devono essere scelti fra gli iscritti negli albi professionali individuati con decreto del Ministro della giustizia, o fra i professori universitari di ruolo, in materie economiche o giuridiche. 
  
- ((COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO, CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35)).
+ COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO, CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35.
 
 -----------------
                                 AGGIORNAMENTO (84)
@@ -16901,11 +16943,11 @@ I sindaci sono nominati per la prima volta nell'atto costitutivo e successivamen
 
 ((La retribuzione annuale dei sindaci, se non e' stabilita nello statuto, deve essere determinata dalla assemblea all'atto della nomina per l'intero periodo di durata del loro ufficio.))
 
-### Art. 2403. — (( (Controllo contabile).))
+### Art. 2403. — ( (Controllo contabile).)
 
 ((Fermo restando quanto previsto dall'articolo 2396-quinquies, il collegio sindacale esercita il controllo contabile nel caso previsto dall'articolo 2409-bis.))
 
-### Art. 2403-bis. — (( (Poteri del collegio sindacale).))
+### Art. 2403-bis. — ( (Poteri del collegio sindacale).)
 
 ((I sindaci possono in qualsiasi momento procedere, anche individualmente, ad atti di ispezione e di controllo. 
  
@@ -16913,12 +16955,7 @@ I sindaci sono nominati per la prima volta nell'atto costitutivo e successivamen
  
  L'organo amministrativo puo' rifiutare agli ausiliari e ai dipendenti dei sindaci l'accesso a informazioni riservate.))
 
--------------------
-                                AGGIORNAMENTO (84)
-                                Il D.Lgs. 27 gennaio 1992, n. 88, ha disposto (con l'art. 29, comma
-1) che "Gli articoli 16, 17 e da 21 a 26 hanno effetto a decorrere dalla data della pubblicazione del registro prevista dall'art. 11, comma 1."
-
-### Art. 2404. — (( (Partecipazione alle riunioni del collegio sindacale).))
+### Art. 2404. — ( (Partecipazione alle riunioni del collegio sindacale).)
 
 ((Il sindaco che, senza giustificato motivo, non partecipa durante un esercizio sociale a due riunioni del collegio decade dall'ufficio.))
 
@@ -16975,7 +17012,7 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
 
 ### Art. 2409-octies. — ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
-### Art. 2409-novies. — (( (Consiglio di gestione).))
+### Art. 2409-novies. — ( (Consiglio di gestione).)
 
 ((Il consiglio di gestione e' costituito da un numero di componenti, anche non soci, non inferiore a due. 
  
@@ -16983,7 +17020,7 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
  
  Se nel corso dell'esercizio vengono a mancare uno o piu' componenti del consiglio di gestione, il consiglio di sorveglianza provvede senza indugio alla loro sostituzione.))
 
-### Art. 2409-decies. — (( (Azione sociale di responsabilita'). ))
+### Art. 2409-decies. — ( (Azione sociale di responsabilita'). )
 
 ((L'azione sociale di responsabilita' puo' anche essere proposta a seguito di deliberazione del consiglio di sorveglianza. La deliberazione e' assunta dalla maggioranza dei componenti del consiglio di sorveglianza e, se e' presa a maggioranza dei due terzi dei suoi componenti, importa la revoca dall'ufficio dei consiglieri di gestione contro cui e' proposta, alla cui sostituzione provvede contestualmente lo stesso consiglio di sorveglianza. 
  
@@ -16993,7 +17030,7 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
 
 ### Art. 2409-undecies. — ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
-### Art. 2409-duodecies. — (( (Consiglio di sorveglianza).))
+### Art. 2409-duodecies. — ( (Consiglio di sorveglianza).)
 
 ((Salvo che lo statuto non preveda un maggior numero, il consiglio di sorveglianza si compone di un numero di componenti, anche non soci, non inferiore a tre. 
  
@@ -17026,7 +17063,7 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
  
  Al momento della nomina e prima dell'accettazione dell'incarico, sono resi noti all'assemblea gli incarichi di amministrazione e di controllo ricoperti dai componenti del consiglio di sorveglianza presso altre societa'.))
 
-### Art. 2409-duodecies.1. — (( (Retribuzione).))
+### Art. 2409-duodecies.1. — ( (Retribuzione).)
 
 ((La retribuzione annuale dei componenti del consiglio di sorveglianza, se non e' stabilita nello statuto, deve essere determinata dalla assemblea all'atto della nomina per l'intero periodo di durata del loro ufficio.))
 
@@ -17039,7 +17076,7 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
  d) promuove l'esercizio dell'azione di responsabilita' nei confronti dei componenti del consiglio di gestione; 
  e) ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)); 
  f) ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)) 
- f-bis) se previsto dallo statuto, delibera in ordine ((alle operazioni strategiche e ai piani)), industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti. 
+ f-bis) se previsto dallo statuto, delibera in ordine alle operazioni strategiche e ai piani, industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti. 
  
  Lo statuto puo' prevedere che in caso di mancata approvazione del bilancio o qualora lo richieda almeno un terzo dei componenti del consiglio di gestione o del consiglio di sorveglianza la competenza per l'approvazione del bilancio di esercizio sia attribuita all'assemblea. 
  
@@ -17049,7 +17086,7 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
  
  ((In caso di omissione o di ingiustificato ritardo da parte consiglio di gestione, il consiglio di sorveglianza deve convocare l'assemblea ed eseguire le pubblicazioni prescritte dalla legge.))
 
-### Art. 2409-terdecies.1. — (( (Validita' delle deliberazioni del consiglio di sorveglianza).))
+### Art. 2409-terdecies.1. — ( (Validita' delle deliberazioni del consiglio di sorveglianza).)
 
 ((Per la validita' delle deliberazioni del consiglio di sorveglianza e' necessaria la presenza della maggioranza dei componenti in carica, quando lo statuto non richiede un maggior numero di presenti. Lo statuto puo' prevedere che la presenza alle riunioni del consiglio avvenga anche mediante mezzi di telecomunicazione. 
  
@@ -17061,23 +17098,23 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
  
  In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione delle deliberazioni.))
 
-### Art. 2409-quaterdecies. — (( (Delibera di approvazione del bilancio di esercizio).))
+### Art. 2409-quaterdecies. — ( (Delibera di approvazione del bilancio di esercizio).)
 
 ((Alla deliberazione del consiglio di sorveglianza con cui viene approvato il bilancio di esercizio si applica l'articolo 2434-bis ed essa puo' venire impugnata anche dai soci ai sensi degli articoli 2377 e 2379.))
 
-### Art. 2409-quindecies. — Revisione legale ((dei conti))
+### Art. 2409-quinquiesdecies. — Revisione legale ((dei conti))
 
 ((Il consiglio di sorveglianza e i soggetti incaricati della revisione legale dei conti si scambiano tempestivamente le informazioni rilevanti per l'espletamento dei rispettivi compiti.))
 
-### Art. 2409-sexdecies. — ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
+### Art. 2409-sexiesdecies. — ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
-### Art. 2409-septiesdecies. — (( (Consiglio di amministrazione).))
+### Art. 2409-septiesdecies. — ( (Consiglio di amministrazione).)
 
 ((La nomina dei componenti del consiglio di amministrazione spetta all'assemblea, fatta eccezione per i primi, che sono nominati nell'atto costitutivo, e salvo il disposto degli articoli 2351 e 2449. Almeno un terzo dei componenti del consiglio di amministrazione deve essere in possesso dei requisiti di indipendenza stabiliti per i componenti dell'organo di controllo dall'articolo 2396-septies, e, se lo statuto lo prevede, di quelli al riguardo previsti da codici di comportamento redatti da associazioni di categoria o da societa' di gestione di mercati regolamentati. 
  
  Al momento della nomina dei componenti del consiglio di amministrazione e prima dell'accettazione dell'incarico, sono resi noti all'assemblea gli incarichi di amministrazione e di controllo da essi ricoperti presso altre societa'.))
 
-### Art. 2409-septiesdecies.1. — (( (Sostituzione degli amministratori).))
+### Art. 2409-septiesdecies.1. — ( (Sostituzione degli amministratori).)
 
 ((Se nel corso dell'esercizio vengono a mancare uno o piu' amministratori, gli altri provvedono a sostituirli con deliberazione approvata anche dal comitato per il controllo sulla gestione, purche' la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori cosi' nominati restano in carica fino alla prossima assemblea. 
  
@@ -17089,11 +17126,11 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
  
  Se vengono a cessare tutti gli amministratori, l'assemblea per la nomina dell'intero consiglio e' convocata, su istanza di ciascun socio, dal tribunale, che provvede con decreto nel quale designa la persona che deve presiederla.))
 
-### Art. 2409-septiesdecies.2. — (( (Compensi dei componenti del comitato esecutivo).))
+### Art. 2409-septiesdecies.2. — ( (Compensi dei componenti del comitato esecutivo).)
 
 ((I compensi spettanti ai componenti del comitato esecutivo sono stabiliti all'atto della nomina, sentito il parere del comitato per il controllo sulla gestione, o dall'assemblea.))
 
-### Art. 2409-duodevicies. — Comitato per il controllo sulla gestione
+### Art. 2409-octiesdecies. — ( (Comitato per il controllo sulla gestione).)
 
 ((Salvo diversa disposizione dello statuto, la determinazione del numero e la nomina dei componenti del comitato per il controllo sulla gestione spettano al consiglio di amministrazione. Nelle societa' che fanno ricorso al mercato del capitale di rischio il numero dei componenti del comitato non puo' essere inferiore a tre. 
  
@@ -17111,7 +17148,7 @@ Il collegio sindacale e i soggetti incaricati ((della revisione legale dei conti
  
  Qualora le irregolarita' di cui all'articolo 2396-quater attengano a materie di competenza consiliare, il comitato per il controllo sulla gestione puo' richiedere l'adozione dei provvedimenti previsti dal settimo comma del medesimo articolo solo ove la maggioranza dei componenti del comitato abbia espresso voto contrario alla determinazione consiliare.))
 
-### Art. 2409-undevicies. — ((Revisione legale dei conti))
+### Art. 2409-noviesdecies. — ((Revisione legale dei conti))
 
 ((La revisione legale dei conti e' svolta ai sensi dell'articolo 2396-novies.))
 
@@ -20490,6 +20527,10 @@ Chiunque offre o promette denaro o altra utilita' non dovuti agli amministratori
 
 ((La condanna per il reato di cui all'articolo 2635, primo comma, importa in ogni caso l'interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese di cui all'articolo 32-bis del codice penale nei confronti di chi sia gia' stato condannato per il medesimo reato o per quello di cui all'articolo 2635-bis, secondo comma.))
 
+### Art. 2635-quater. — ( (Disposizioni patrimoniali). )
+
+((In deroga a quanto previsto dall'articolo 2641, terzo comma, nel caso di condanna per i delitti previsti dagli articoli 2635 e 2635-bis, e' comunque ordinata la confisca anche nelle ipotesi previste dall'articolo 240, primo comma, del codice penale.))
+
 ### Art. 2636. — (( (Illecita influenza sull'assemblea).))
 
 ((Chiunque, con atti simulati o fraudolenti, determina la maggioranza in assemblea, allo scopo di procurare a se' o ad altri un ingiusto profitto, e' punito con la reclusione da sei mesi a tre anni.))
@@ -21375,7 +21416,7 @@ Crediti per tributi diretti dello Stato, per imposta sul valore aggiunto e per t
  
  Hanno altresi' privilegio generale sui mobili del debitore i crediti dello Stato per le imposte, le pene pecuniarie e le soprattasse dovute secondo le norme relative all'imposta sul valore aggiunto. 
  
- Hanno lo stesso privilegio, subordinatamente a quello dello Stato, i crediti per le imposte, tasse e tributi dei comuni e delle province previsti dalla legge per la finanza locale e dalle norme relative all'imposta comunale sulla pubblicita' e ai diritti sulle pubbliche affissioni. ((202))
+ Hanno lo stesso privilegio, subordinatamente a quello dello Stato, i crediti per le imposte, tasse e tributi dei comuni e delle province previsti dalla legge per la finanza locale e dalle norme relative all'imposta comunale sulla pubblicita' e ai diritti sulle pubbliche affissioni. (202) ((352))
 
 -------------
                                 AGGIORNAMENTO (197)
@@ -21388,7 +21429,11 @@ Crediti per tributi diretti dello Stato, per imposta sul valore aggiunto e per t
                                 -------------
                                 AGGIORNAMENTO (202)
                                 
- Il D.L. 6 dicembre 2011, n. 201, convertito con modificazioni dalla L. 22 dicembre 2011, n. 214, ha disposto (con l'art. 13, comma 13) che "Ai fini del quarto comma dell'articolo 2752 del codice civile il riferimento alla "legge per la finanza locale" si intende effettuato a tutte disposizioni che disciplinano i singoli tributi comunali e provinciali".
+ Il D.L. 6 dicembre 2011, n. 201, convertito con modificazioni dalla L. 22 dicembre 2011, n. 214, ha disposto (con l'art. 13, comma 13) che "Ai fini del quarto comma dell'articolo 2752 del codice civile il riferimento alla "legge per la finanza locale" si intende effettuato a tutte disposizioni che disciplinano i singoli tributi comunali e provinciali". 
+                                -------------
+                                AGGIORNAMENTO (352)
+                                
+ Il D.L. 6 dicembre 2011, n. 201, convertito con modificazioni dalla L. 22 dicembre 2011, n. 214, come modificato dal D.Lgs. 7 agosto 2026, n. 147, ha disposto (con l'art. 13, comma 13) che "Ai fini del quarto comma dell'articolo 2752 del codice civile il riferimento alla "legge per la finanza locale" si intende effettuato a tutte disposizioni che disciplinano i singoli tributi delle regioni e degli enti locali".
 
 ### Art. 2753. — (( Crediti per contributi di assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti.))
 

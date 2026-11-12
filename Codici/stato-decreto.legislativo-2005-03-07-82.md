@@ -8,9 +8,9 @@ codice_redazionale: 005G0104
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-04-21
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-11-06
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -533,7 +533,7 @@ Il cittadino puo' accedere alle informazioni relative ai propri strumenti digita
                             
                                 i)
                                 
-                                    i) nel caso ((della piattaforma per la gestione delle deleghe)): i dati identificativi dei soggetti delegati e la data di inizio di validita' e termine della delega.
+                                    nel caso ((della piattaforma per la gestione delle deleghe)): i dati identificativi dei soggetti delegati e la data di inizio di validita' e termine della delega.
 
 Con decreto del Ministro dell'interno, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione ((digitale e con il)) Ministro per la pubblica amministrazione, sentito il Garante per la protezione dei dati personali, su proposta dell'Agenzia per l'Italia digitale (AgID), possono essere individuate ((informazioni ulteriori)) rispetto a quelle previste dal comma 3 e possono essere aggiornate, in relazione alla evoluzione tecnologica, le categorie di strumenti digitali di cui al comma 2.
 
@@ -1549,14 +1549,13 @@ COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
                                     possa essere sufficientemente protetta dal titolare dall'uso da parte di terzi. 
  1-bis) Fermo restando quanto previsto dal comma 1, i dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico soddisfano i requisiti di cui all'Allegato II del Regolamento eIDAS.
 
-I dispositivi sicuri e le procedure di cui al comma 1 devono garantire l'integrita' dei documenti informatici a cui la firma si riferisce. I documenti informatici devono essere presentati al titolare ((di firma elettronica)), prima dell'apposizione della firma, chiaramente e senza ambiguita', e si deve richiedere conferma della volonta' di generare la firma secondo quanto previsto dalle ((Linee guida)).
+I dispositivi sicuri e le procedure di cui al comma 1 devono garantire l'integrita' dei documenti informatici a cui la firma si riferisce. I documenti informatici devono essere presentati al titolare di firma elettronica, prima dell'apposizione della firma, chiaramente e senza ambiguita', e si deve richiedere conferma della volonta' di generare la firma secondo quanto previsto dalle Linee guida.
 
 Il secondo periodo del comma 2 non si applica alle firme apposte con procedura automatica. La firma con procedura automatica e' valida se apposta previo consenso del titolare all'adozione della procedura medesima.
 
-I dispositivi sicuri di firma devono essere dotati di certificazione di sicurezza ai sensi dello schema nazionale di cui al comma 5.
+I dispositivi sicuri di firma devono essere dotati di certificazione di sicurezza ai sensi ((dell'articolo 30 del regolamento eIDAS)).
 
-La conformita' dei requisiti di sicurezza dei dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico prescritti dall'Allegato II del regolamento eIDAS e' accertata, in Italia, dall'Organismo di certificazione della sicurezza informatica in base allo schema nazionale per la valutazione e certificazione di sicurezza nel settore della tecnologia dell'informazione, fissato con decreto del Presidente del Consiglio dei Ministri, o, per sua delega, del Ministro per l'innovazione e le tecnologie, di concerto con i Ministri delle comunicazioni, delle attivita' produttive e dell'economia e delle finanze. L'attuazione dello schema nazionale non deve determinare nuovi o maggiori oneri per il bilancio dello Stato. Lo schema nazionale puo' prevedere altresi' la valutazione e la certificazione relativamente ad ulteriori criteri europei ed internazionali, anche riguardanti altri sistemi e prodotti afferenti al settore suddetto.
-La valutazione della conformita' del sistema e degli strumenti di autenticazione utilizzati dal titolare delle chiavi di firma e' effettuata dall'Agenzia per l'Italia digitale in conformita' ad apposite linee guida da questa emanate, acquisito il parere obbligatorio dell'Organismo di certificazione della sicurezza informatica.
+La conformita' dei requisiti di sicurezza dei dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico prescritti dall'Allegato II del regolamento eIDAS e' accertata, in Italia, dall'Organismo di certificazione della sicurezza informatica (( (OCSI) )).((PERIODO SOPPRESSO DAL D.LGS. 1 OTTOBRE 2026, N. 191)). ((PERIODO SOPPRESSO DAL D.LGS. 1 OTTOBRE 2026, N. 191)). La valutazione della conformita' del sistema e degli strumenti di autenticazione utilizzati dal titolare delle chiavi di firma e' effettuata dall'Agenzia per l'Italia digitale in conformita' ad apposite linee guida da questa emanate, acquisito il parere obbligatorio dell'Organismo di certificazione della sicurezza informatica.
 
 La conformita' di cui al comma 5 e' inoltre riconosciuta se accertata da un organismo all'uopo designato da un altro Stato membro e notificato ai sensi dell'articolo 30, comma 2, del Regolamento eIDAS. Ove previsto dall'organismo di cui al periodo precedente, la valutazione della conformita' del sistema e degli strumenti di autenticazione utilizzati dal titolare delle chiavi di firma e' effettuata dall'AgID in conformita' alle linee guida di cui al comma 5.
 

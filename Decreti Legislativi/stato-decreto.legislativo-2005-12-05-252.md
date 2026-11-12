@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-28
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -1231,9 +1231,9 @@ Le forme pensionistiche complementari definiscono i requisiti e le modalita' di 
 
 Il diritto alla prestazione pensionistica si acquisisce al momento della maturazione dei requisiti di accesso alle prestazioni stabiliti nel regime obbligatorio di appartenenza, con almeno cinque anni di partecipazione alle forme pensionistiche complementari. Il predetto termine e' ridotto a tre anni per il lavoratore il cui rapporto di lavoro in corso cessa per motivi indipendenti dal fatto che lo stesso acquisisca il diritto a una pensione complementare e che si sposta tra Stati membri dell'Unione europea.
 
-Le prestazioni pensionistiche in regime di contribuzione definita e di prestazione definita possono essere erogate in capitale, secondo il valore attuale, fino ad un massimo del ((50 per cento)) del montante finale accumulato, e in rendita vitalizia. Nel computo dell'importo complessivo erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. ((Nel caso in cui la rendita vitalizia derivante dalla conversione di almeno il 70 per cento del montante finale sia inferiore al 50 per cento dell'assegno sociale di cui all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, la prestazione puo' essere interamente erogata in capitale. (26) ((29))
+Le prestazioni pensionistiche in regime di contribuzione definita e di prestazione definita possono essere erogate in capitale, secondo il valore attuale, fino ad un massimo del ((50 per cento)) del montante finale accumulato, e in rendita vitalizia. Nel computo dell'importo complessivo erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. Nel caso in cui la rendita vitalizia derivante dalla conversione di almeno il 70 per cento del montante finale sia inferiore al 50 per cento dell'assegno sociale di cui all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, la prestazione puo' essere interamente erogata in capitale. (26) ((29))
 
-Fermo restando il limite di cui al comma 3 per l'erogazione in forma di capitale, nelle forme a contribuzione definita le prestazioni pensionistiche possono essere anche erogate, in luogo della rendita vitalizia, nella forma della rendita a durata definita, per un numero di anni pari alla vita attesa residua, con rata annuale determinata rapportando il montante accumulato alla data di erogazione di ciascuna rata annuale al predetto numero di anni residui, ovvero nella forma di prelievi liberamente determinabili nei limiti di cui al comma 3-quater, o ancora mediante un'erogazione frazionata del montante accumulato per un periodo non inferiore a cinque anni. (26)
+Fermo restando il limite di cui al comma 3 per l'erogazione in forma di capitale, nelle forme a contribuzione definita le prestazioni pensionistiche possono essere anche erogate, in luogo della rendita vitalizia, nella forma della rendita a durata definita, per un numero di anni pari alla vita attesa residua, con rata annuale determinata rapportando il montante accumulato alla data di erogazione di ciascuna rata annuale al predetto numero di anni residui, ovvero nella forma di prelievi liberamente determinabili nei limiti di cui al comma 3-quater, o ancora mediante un'erogazione frazionata del montante accumulato per un periodo non inferiore a cinque anni. (26) ((29))
 
 Ai fini del calcolo della durata della rendita di cui al comma 3-bis, la vita attesa residua corrisponde al numero di anni interi della speranza di vita in corrispondenza dell'eta' dell'aderente al momento dell'esercizio dell'opzione, come determinata dall'ISTAT con riferimento alla tavola di mortalita' della popolazione generale utilizzata per il calcolo dei vigenti coefficienti di trasformazione del montante in rendita di cui alla tabella A allegata alla legge 8 agosto 1995, n. 335. (26)
 
@@ -1306,7 +1306,8 @@ Ferma restando l'intangibilita' delle posizioni individuali costituite presso le
                         ---------------
                         AGGIORNAMENTO (29)
                         
- Il D.L. 30 aprile 2026, n. 62, convertito con modificazioni dalla L. 25 giugno 2026, n. 11, ha disposto (con l'art. 16-ter, comma 1) che la presente modifica si si applica a decorrere dal termine del 1° luglio 2026 previsto dal primo periodo del comma 202 dell'articolo 1 della legge 30 dicembre 2025, n. 199.
+ Il D.L. 30 aprile 2026, n. 62, convertito con modificazioni dalla L. 25 giugno 2026, n. 112, ha disposto (con l'art. 16-ter, comma 1) che la presente modifica si applica a decorrere dal termine del 1° luglio 2026 previsto dal primo periodo del comma 202 dell'articolo 1 della legge 30 dicembre 2025, n. 199. 
+ La L. 30 dicembre 2025, n. 199, come modificata dal D.L. 30 aprile 2026, n. 62, convertito con modificazioni dalla L. 25 giugno 2026, n. 112, ha disposto (con l'art. 1, comma 202) che "Le disposizioni di cui al comma 201 si applicano a decorrere dal 1° luglio 2026, fatta eccezione per la disposizione di cui alla lettera c) del medesimo comma 201 nonche' per l'erogazione frazionata del montante accumulato per un periodo non inferiore a cinque anni, di cui alla lettera b), numero 2), capoverso 3-bis, del suddetto comma 201, che si applicano a decorrere dal 31 ottobre 2026. La Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie rispettive istruzioni entro le medesime date".
 
 ## Art. 12. — Fondi pensione aperti
 
@@ -1699,7 +1700,7 @@ Gli adempimenti a carico delle forme pensionistiche complementari conseguenti al
 ---------------
                         AGGIORNAMENTO (26)
                         
- La L. 30 dicembre 2025, n. 199 ha disposto (con l'art. 1, comma 202) che la presente disposizione si applica a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
+ La L. 30 dicembre 2025, n. 199 ha disposto (con l'art. 1, comma 202) che la presente modifica si applica a decorrere dal 31 ottobre 2026.
 
 ## Art. 14-bis. — (( (Trasferimento transfrontaliero a un fondo di un altro Stato membro). ))
 
@@ -2073,7 +2074,7 @@ I redditi di capitale che non concorrono a formare il risultato della gestione e
 
 Per i fondi pensione in regime di prestazioni definite, per le forme pensionistiche individuali di cui all'articolo 13, comma 1, lettera b), e per le forme pensionistiche complementari di cui all'articolo 20, comma 1, gestite mediante convenzioni con imprese di assicurazione, il risultato netto si determina sottraendo dal valore attuale della rendita in via di costituzione, calcolato al termine di ciascun anno solare, ovvero determinato alla data di accesso alla prestazione, diminuito dei contributi versati nell'anno, il valore attuale della rendita stessa all'inizio dell'anno. Il risultato negativo e' computato in riduzione del risultato dei periodi d'imposta successivi, per l'intero importo che trova in essi capienza.
 
-I fondi pensione il cui patrimonio, alla data del 28 aprile 1993, sia direttamente investito in beni immobili, sono soggetti ad imposta sostitutiva delle imposte sui redditi nella misura dello 0,50 per cento del patrimonio riferibile agli immobili, determinato, in base ad apposita contabilita' separata, secondo i criteri di valutazione previsti dal decreto legislativo 24 febbraio 1998, n. 58, per i fondi comuni di investimento immobiliare chiusi, calcolato come media annua dei valori risultanti dai prospetti periodici previsti dal citato decreto. Sul patrimonio riferibile al valore degli immobili per i quali il fondo pensione abbia optato per la libera determinazione dei canoni di locazione ai sensi della legge 9 dicembre 1998, n. 431, l'imposta sostitutiva di cui al periodo precedente e' aumentata all'l,50 per cento.
+I fondi pensione il cui patrimonio, alla data del 28 aprile 1993, sia direttamente investito in beni immobili, sono soggetti ad imposta sostitutiva delle imposte sui redditi nella misura dello 0,50 per cento del patrimonio riferibile agli immobili, determinato, in base ad apposita contabilita' separata, secondo i criteri di valutazione previsti dal decreto legislativo 24 febbraio 1998, n. 58, per i fondi comuni di investimento immobiliare chiusi, calcolato come media annua dei valori risultanti dai prospetti periodici previsti dal citato decreto. Sul patrimonio riferibile al valore degli immobili per i quali il fondo pensione abbia optato per la libera determinazione dei canoni di locazione ai sensi della legge 9 dicembre 1998, n. 431, l'imposta sostitutiva di cui al periodo precedente e' aumentata all'1,50 per cento.
 
 Le forme pensionistiche complementari di cui all'articolo 20, comma 1, in regime di prestazioni definite gestite in via prevalente secondo il sistema tecnico-finanziario della ripartizione, se costituite in conti individuali dei singoli dipendenti, sono soggette a imposta sostitutiva delle imposte sui redditi, nella misura dell'11 per cento, applicata sulla differenza, determinata alla data di accesso alla prestazione, tra il valore attuale della rendita e i contributi versati.
 
@@ -2081,7 +2082,7 @@ L'imposta sostitutiva di cui ai commi 1, 4, 6 e 7 e' versata dai fondi pensione,
 
 La dichiarazione relativa all'imposta sostitutiva e' presentata dai fondi pensione con le modalita' e negli ordinari termini previsti per la dichiarazione dei redditi. Nel caso di fondi costituiti nell'ambito del patrimonio di societa' ed enti la dichiarazione e' presentata contestualmente alla dichiarazione dei redditi propri della societa' o dell'ente. Nel caso di fondi pensione aperti e di forme pensionistiche individuali di cui all'articolo 13, comma 1, lettera b), la dichiarazione e' presentata rispettivamente dai soggetti istitutori di fondi pensione aperti e dalle imprese di assicurazione.
 
-((9-bis. Le operazioni di costituzione, trasformazione, scorporo e concentrazione tra fondi pensione sono soggette alle imposte di registro, ipotecaria e catastale nella misura fissa di 200 euro per ciascuna di esse))
+((Le operazioni di costituzione, trasformazione, scorporo e concentrazione tra fondi pensione sono soggette alle imposte di registro, ipotecaria e catastale nella misura fissa di 200 euro per ciascuna di esse)).
 
 ---------------
                         AGGIORNAMENTO (6)

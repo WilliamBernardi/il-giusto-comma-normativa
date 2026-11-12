@@ -8,9 +8,9 @@ codice_redazionale: 007G0102
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-vigenza_date: 2017-07-21
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-11-12
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -445,13 +445,9 @@ La Segreteria tecnica per la tutela del territorio, istituita ai sensi dell'arti
 
 
 
-## Art. 10. — Commissione istruttoria per l'autorizzazione ambientale integrata - IPPC
+## Art. 10. — ((ARTICOLO ABROGATO DAL D.LGS. 28 SETTEMBRE 2026, N. 197))
 
-La Commissione istruttoria per l'IPPC, istituita ai sensi dell'articolo 5, comma 9, del decreto legislativo 18 febbraio 2005, n. 59, e' composta da venticinque esperti di elevata qualificazione giuridico-amministrativa e tecnico-scientifica scelti nel settore pubblico e privato, di cui uno con funzioni di presidente. Per le attivita' relative a ciascuna domanda di autorizzazione, la Commissione e' integrata da un esperto designato da ciascuna regione, da un esperto designato da ciascuna provincia e da un esperto designato da ciascun comune territorialmente competenti.
 
-La Commissione, ai fini dello svolgimento delle attivita' istruttorie e di consulenza tecnica connesse al rilascio delle autorizzazioni integrate ambientali di competenza statale, ha il compito di fornire all'autorita' competente, anche effettuando i necessari sopralluoghi, in tempo utile per il rilascio dell'autorizzazione integrata ambientale, un parere istruttorio conclusivo e pareri intermedi debitamente motivati, nonche' approfondimenti tecnici in merito a ciascuna domanda di autorizzazione. La Commissione ha altresi' il compito di fornire al Ministero dell'ambiente e della tutela del territorio e del mare consulenza tecnica in ordine ai compiti del Ministero medesimo relativamente all'attuazione del citato decreto legislativo n. 59 del 2005.
-
-Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare sono nominati i membri della Commissione ed e' disciplinato il funzionamento della Commissione stessa.
 
 ## Art. 11. — Pari opportunita' tra donne e uomini
 

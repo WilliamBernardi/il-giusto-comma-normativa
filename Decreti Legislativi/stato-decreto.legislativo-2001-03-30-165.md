@@ -8,9 +8,9 @@ codice_redazionale: 001G0219
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-08-08
-zip_date: 2026-08-12
-fetched_at: 2026-08-12
+vigenza_date: 2026-08-26
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -111,13 +111,14 @@ Nel caso di nullita' delle disposizioni contrattuali per violazione di norme imp
 ## Art. 3. — Personale in regime di diritto pubblico 
 (Art. 2, commi 4 e 5 del d.lgs n. 29 del 1993, come sostituiti dall'art. 2 del d.lgs. n. 546 del 1993 e successivamente modificati dall'art. 2, comma 2 del d.lgs. n. 80 del 1998)
 
-In deroga all'articolo 2, commi 2 e 3, rimangono disciplinati dai rispettivi ordinamenti: i magistrati ordinari, amministrativi e contabili, gli avvocati e procuratori dello Stato, il personale militare e delle Forze di polizia di Stato, il personale della carriera diplomatica e della carriera prefettizia nonche' i dipendenti degli enti che svolgono la loro attivita' nelle materie contemplate dall'articolo 1 del decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n.691, e dalle leggi 4 giugno 1985, n.281, e successive modificazioni ed integrazioni, e 10 ottobre 1990, n.287.
+In deroga all'articolo 2, commi 2 e 3, rimangono disciplinati dai rispettivi ordinamenti: ((i magistrati ordinari, amministrativi, contabili e tributari)), gli avvocati e procuratori dello Stato, il personale militare e delle Forze di polizia di Stato, il personale della carriera diplomatica e della carriera prefettizia nonche' i dipendenti degli enti che svolgono la loro attivita' nelle materie contemplate dall'articolo 1 del decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n.691, e dalle leggi 4 giugno 1985, n.281, e successive modificazioni ed integrazioni, e 10 ottobre 1990, n.287.
 
 In deroga all'articolo 2, commi 2 e 3, il rapporto di impiego del personale, anche di livello dirigenziale, del Corpo nazionale dei vigili del fuoco, esclusi il personale volontario previsto dal regolamento di cui al decreto del Presidente della Repubblica 2 novembre 2000, n. 362, e il personale volontario di leva, e' disciplinato in regime di diritto pubblico secondo autonome disposizioni ordinamentali.
 
 In deroga all'articolo 2, commi 2 e 3, il personale della carriera dirigenziale penitenziaria e' disciplinato dal rispettivo ordinamento.
 
-Il rapporto di impiego dei professori e dei ricercatori universitari ((, a tempo indeterminato o determinato,)) resta disciplinato dalle disposizioni rispettivamente vigenti, in attesa della specifica disciplina che la regoli in modo organico ed in conformita' ai principi della autonomia universitaria di cui all'articolo 33 della Costituzione ed agli articoli 6 e seguenti della legge 9 maggio 1989, n.168, e successive modificazioni ed integrazioni, tenuto conto dei principi di cui all'articolo 2, comma 1, della legge 23 ottobre 1992. n. 421. (28)
+Il rapporto di impiego dei professori e dei ricercatori universitari, a tempo indeterminato o determinato, resta disciplinato dalle disposizioni rispettivamente vigenti, in attesa della specifica disciplina che la regoli in modo organico ed in conformita' ai principi della autonomia universitaria di cui all'articolo 33 della Costituzione ed agli articoli 6 e seguenti della legge 9 maggio 1989, n.168, e successive modificazioni ed integrazioni, tenuto conto dei principi di cui all'articolo 2, comma 1, della legge 23 ottobre 1992.
+n. 421. (28)
 
 ---------------
                             AGGIORNAMENTO (28)
@@ -862,13 +863,13 @@ E' assicurata la mobilita' dei dirigenti, nei limiti dei posti disponibili, in b
 
 ## Art. 23-bis. — (Disposizioni in materia di mobilita' tra pubblico e privato).
 
-In deroga all'articolo 60 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, ((i dipendenti delle pubbliche amministrazioni, ivi compresi gli appartenenti alle carriere diplomatica e prefettizia,)) e, limitamente agli incarichi pubblici, i magistrati ordinari, amministrativi e contabili e gli avvocati e procuratori dello Stato sono collocati, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative, in aspettativa senza assegni per lo svolgimento di attivita' presso soggetti e organismi, pubblici o privati, anche operanti in sede internazionale, i quali provvedono al relativo trattamento previdenziale. Resta ferma la disciplina vigente in materia di collocamento fuori ruolo nei casi consentiti. Il periodo di aspettativa comporta il mantenimento della qualifica posseduta. E' sempre ammessa la ricongiunzione dei periodi contributivi a domanda dell'interessato, ai sensi della legge 7 febbraio 1979, n. 29, presso una qualsiasi delle forme assicurative nelle quali abbia maturato gli anni di contribuzione. Quando l'incarico e' espletato presso organismi operanti in sede internazionale, la ricongiunzione dei periodi contributivi e' a carico dell'interessato, salvo che l'ordinamento dell'amministrazione di destinazione non disponga altrimenti. (25)
+In deroga all'articolo 60 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, i dipendenti delle pubbliche amministrazioni, ivi compresi gli appartenenti alle carriere diplomatica e prefettizia, e, limitamente agli incarichi pubblici, ((i magistrati ordinari, amministrativi, contabili, tributari)) e gli avvocati e procuratori dello Stato sono collocati, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative, in aspettativa senza assegni per lo svolgimento di attivita' presso soggetti e organismi, pubblici o privati, anche operanti in sede internazionale, i quali provvedono al relativo trattamento previdenziale. Resta ferma la disciplina vigente in materia di collocamento fuori ruolo nei casi consentiti. Il periodo di aspettativa comporta il mantenimento della qualifica posseduta. E' sempre ammessa la ricongiunzione dei periodi contributivi a domanda dell'interessato, ai sensi della legge 7 febbraio 1979, n. 29, presso una qualsiasi delle forme assicurative nelle quali abbia maturato gli anni di contribuzione. Quando l'incarico e' espletato presso organismi operanti in sede internazionale, la ricongiunzione dei periodi contributivi e' a carico dell'interessato, salvo che l'ordinamento dell'amministrazione di destinazione non disponga altrimenti. (25)
 
 I dirigenti di cui all'articolo 19, comma 10, sono collocati a domanda in aspettativa senza assegni per lo svolgimento dei medesimi incarichi di cui al comma 1 del presente articolo, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative.
 
-Per i magistrati ordinari, amministrativi e contabili, e per gli avvocati e procuratori dello Stato, gli organi competenti deliberano il collocamento in aspettativa, fatta salva per i medesimi la facolta' di valutare ragioni ostative all'accoglimento della domanda.
+((Per i magistrati ordinari, amministrativi, contabili, tributari)), e per gli avvocati e procuratori dello Stato, gli organi competenti deliberano il collocamento in aspettativa, fatta salva per i medesimi la facolta' di valutare ragioni ostative all'accoglimento della domanda.
 
-Nel caso di svolgimento di attivita' presso soggetti diversi dalle amministrazioni pubbliche, il periodo di collocamento in aspettativa di cui al comma 1 non puo' superare i cinque anni ((, e' rinnovabile per una sola volta)) e non e' computabile ai fini del trattamento di quiescenza e previdenza.
+Nel caso di svolgimento di attivita' presso soggetti diversi dalle amministrazioni pubbliche, il periodo di collocamento in aspettativa di cui al comma 1 non puo' superare i cinque anni, e' rinnovabile per una sola volta e non e' computabile ai fini del trattamento di quiescenza e previdenza.
 
 5.
                         
@@ -888,7 +889,7 @@ Nel caso di svolgimento di attivita' presso soggetti diversi dalle amministrazio
                                 
                                     il personale intende svolgere attivita' in organismi e imprese private che, per la loro natura o la loro attivita', in relazione alle funzioni precedentemente esercitate, possa cagionare nocumento all'immagine dell'amministrazione o comprometterne il normale funzionamento o l'imparzialita'.
 
-((6. Il personale di cui al comma 1, nei successivi due anni, non puo' essere destinatario di incarichi ne' essere impiegato nello svolgimento di attivita' che comportino l'esercizio delle funzioni individuate alla lettera a) del comma 5))
+Il personale di cui al comma 1, nei successivi due anni, non puo' essere destinatario di incarichi ne' essere impiegato nello svolgimento di attivita' che comportino l'esercizio delle funzioni individuate alla lettera a) del comma 5.
 
 Sulla base di appositi protocolli di intesa tra le parti, le amministrazioni di cui all'articolo 1, comma 2, possono disporre, per singoli progetti di interesse specifico dell'amministrazione e con il consenso dell'interessato, l'assegnazione temporanea di personale presso altre pubbliche amministrazioni o imprese private. I protocolli disciplinano le funzioni, le modalita' di inserimento, l'onere per la corresponsione del trattamento economico da porre a carico delle imprese destinatarie. Nel caso di assegnazione temporanea presso imprese private i predetti protocolli possono prevedere l'eventuale attribuzione di un compenso aggiuntivo, con oneri a carico delle imprese medesime.
 
@@ -1128,11 +1129,11 @@ All'onere derivante dall'attuazione del comma 9, pari a 1.500 migliaia di euro a
 
 ## Art. 28-bis. — (Accesso alla qualifica di dirigente della prima fascia)
 
+L'accesso alla qualifica di dirigente della prima fascia avviene, per il 50 per cento dei posti disponibili, attraverso procedure di concorso per titoli ed esami e, per il rimanente 50 per cento, mediante sviluppo di carriera dal ruolo dirigenziale di seconda fascia, dopo almeno cinque anni, anche non continuativi, di servizio nel ruolo dirigenziale. A tal fine, entro il 31 dicembre di ogni anno, le amministrazioni indicano, per il triennio successivo, il numero dei posti che si rendono vacanti per il collocamento in quiescenza di personale dirigenziale di ruolo di prima fascia e la programmazione relativa ai posti da ricoprire mediante concorso. ((145))
 
+COMMA ABROGATO DALLA L. 2 LUGLIO 2026, N. 119.
 
-((COMMA ABROGATO DALLA L. 2 LUGLIO 2026, N. 119)).
-
-Al concorso per titoli ed esami di cui al comma 1 possono essere ammessi i dirigenti di ruolo delle pubbliche amministrazioni, che abbiano maturato almeno cinque anni di servizio nei ruoli dirigenziali e gli altri soggetti in possesso di titoli di studio e professionali individuati nei bandi di concorso, con riferimento alle specifiche esigenze dell'Amministrazione e sulla base di criteri generali di equivalenza stabiliti con decreto del Presidente del Consiglio dei Ministri, previo parere della ((Scuola nazionale dell'amministrazione)), sentito il Ministro dell'istruzione, dell'universita' e della ricerca. A tale fine le amministrazioni che bandiscono il concorso tengono in particolare conto del personale di ruolo che ha esercitato per almeno cinque anni funzioni di livello dirigenziale generale all'interno delle stesse ovvero del personale appartenente all'organico dell'Unione europea in virtu' di un pubblico concorso organizzato da dette istituzioni.
+Al concorso per titoli ed esami di cui al comma 1 possono essere ammessi i dirigenti di ruolo delle pubbliche amministrazioni, che abbiano maturato almeno cinque anni di servizio nei ruoli dirigenziali e gli altri soggetti in possesso di titoli di studio e professionali individuati nei bandi di concorso, con riferimento alle specifiche esigenze dell'Amministrazione e sulla base di criteri generali di equivalenza stabiliti con decreto del Presidente del Consiglio dei Ministri, previo parere della Scuola nazionale dell'amministrazione, sentito il Ministro dell'istruzione, dell'universita' e della ricerca. A tale fine le amministrazioni che bandiscono il concorso tengono in particolare conto del personale di ruolo che ha esercitato per almeno cinque anni funzioni di livello dirigenziale generale all'interno delle stesse ovvero del personale appartenente all'organico dell'Unione europea in virtu' di un pubblico concorso organizzato da dette istituzioni.
 
 Al fine di assicurare la valutazione delle capacita', attitudini e motivazioni individuali, i concorsi di cui al comma 3 definiscono gli ambiti di competenza da valutare e prevedono prove scritte e orali, finalizzate alla valutazione comparativa, definite secondo metodologie e standard riconosciuti. A questo scopo, sono nominati membri di commissione professionisti esperti nella valutazione dei suddetti ambiti di competenza, senza maggiori oneri a carico della finanza pubblica.
 
@@ -1140,17 +1141,17 @@ I vincitori del concorso di cui al comma 1 sono assunti dall'amministrazione e, 
 
 COMMA ABROGATO DAL D.L. 9 GIUGNO 2021, N. 80, CONVERTITO, CON MODIFICAZIONI DALLA L. 6 AGOSTO 2021, N. 113.
 
-Con regolamento emanato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, e sentita la ((Scuola nazionale dell'amministrazione)), sono disciplinate le modalita' di compimento del periodo di formazione, tenuto anche conto di quanto previsto nell'articolo 32.
+Con regolamento emanato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, e sentita la Scuola nazionale dell'amministrazione, sono disciplinate le modalita' di compimento del periodo di formazione, tenuto anche conto di quanto previsto nell'articolo 32.
 
 Al termine del periodo di formazione e' prevista, da parte degli uffici di cui al comma 4, una valutazione del livello di professionalita' acquisito che equivale al superamento del periodo di prova necessario per l'immissione in ruolo di cui all'articolo 70, comma 13.
 
 Le spese sostenute per l'espletamento del periodo di formazione svolto presso le sedi estere di cui al comma 4 sono a carico delle singole amministrazioni nell'ambito delle risorse finanziarie disponibili a legislazione vigente. (48) (65) (69) (76) (89) (104) (106)
 
-((Per la copertura dei posti dirigenziali generali riservati allo sviluppo di carriera del personale dei ruoli dirigenziali di seconda fascia, si applicano le procedure selettive e comparative di cui all'articolo 28, commi da 1-quinquies a 1-octies, ad esclusione della prova di cui al numero 2) della lettera a) del comma 1-quinquies.))
+Per la copertura dei posti dirigenziali generali riservati allo sviluppo di carriera del personale dei ruoli dirigenziali di seconda fascia, si applicano le procedure selettive e comparative di cui all'articolo 28, commi da 1-quinquies a 1-octies, ad esclusione della prova di cui al numero 2) della lettera a) del comma 1-quinquies. ((145))
 
-((L'inserimento nei ruoli della dirigenza di prima fascia consegue all'esito favorevole dell'osservazione e della valutazione dello svolgimento dell'incarico dirigenziale generale temporaneo conferito e rinnovato con la procedura di cui al comma 8-bis ed esercitato per un periodo di almeno cinque anni, con valutazione finale positiva dell'attivita' svolta in relazione al raggiungimento degli obiettivi assegnati e alla dimostrazione di adeguate capacita' di leadership e attitudini manageriali. La predetta valutazione finale della procedura di sviluppo di carriera e' affidata a una nuova commissione nominata secondo la procedura di cui all'articolo 28, comma 1-sexies. In caso di mancato rinnovo dell'incarico dirigenziale generale temporaneo o di esito negativo della valutazione finale, la posizione dirigenziale e' resa disponibile per una nuova procedura da svolgere ai sensi del comma 8-bis del presente articolo.))
+L'inserimento nei ruoli della dirigenza di prima fascia consegue all'esito favorevole dell'osservazione e della valutazione dello svolgimento dell'incarico dirigenziale generale temporaneo conferito e rinnovato con la procedura di cui al comma 8-bis ed esercitato per un periodo di almeno cinque anni, con valutazione finale positiva dell'attivita' svolta in relazione al raggiungimento degli obiettivi assegnati e alla dimostrazione di adeguate capacita' di leadership e attitudini manageriali. La predetta valutazione finale della procedura di sviluppo di carriera e' affidata a una nuova commissione nominata secondo la procedura di cui all'articolo 28, comma 1-sexies. In caso di mancato rinnovo dell'incarico dirigenziale generale temporaneo o di esito negativo della valutazione finale, la posizione dirigenziale e' resa disponibile per una nuova procedura da svolgere ai sensi del comma 8-bis del presente articolo. ((145))
 
-((Con regolamento da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro per la pubblica amministrazione, sono definite le modalita' di svolgimento delle procedure di accesso al ruolo della dirigenza di prima fascia di cui al comma 8-bis del presente articolo)).
+Con regolamento da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro per la pubblica amministrazione, sono definite le modalita' di svolgimento delle procedure di accesso al ruolo della dirigenza di prima fascia di cui al comma 8-bis del presente articolo. ((145))
 
 ---------------
                             AGGIORNAMENTO (48)
@@ -1179,7 +1180,11 @@ Le spese sostenute per l'espletamento del periodo di formazione svolto presso le
                             --------------
                             AGGIORNAMENTO (106)
                             
- Il D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135, come modificato dal D.L. 9 giugno 2021, n. 80, convertito con modificazioni dalla L. 6 agosto 2021, n. 113, ha disposto (con l'art. 2, comma 15) che "Fino alla conclusione dei processi di riorganizzazione di cui al presente articolo e comunque non oltre il 31 ottobre 2021 sono sospese le modalita' di reclutamento previste dall'articolo 28-bis del decreto legislativo 30 marzo 2001, n. 165".
+ Il D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135, come modificato dal D.L. 9 giugno 2021, n. 80, convertito con modificazioni dalla L. 6 agosto 2021, n. 113, ha disposto (con l'art. 2, comma 15) che "Fino alla conclusione dei processi di riorganizzazione di cui al presente articolo e comunque non oltre il 31 ottobre 2021 sono sospese le modalita' di reclutamento previste dall'articolo 28-bis del decreto legislativo 30 marzo 2001, n. 165". 
+                            --------------
+                            AGGIORNAMENTO (145)
+                            
+ Il D.L. 7 agosto 2026, n. 144, nel modificare l'art. 13 della L. 2 luglio 2026, n. 119, ha conseguentemente disposto (con l'art. 1, comma 6) che "Le disposizioni introdotte dall'articolo 13, della legge 2 luglio 2026, n. 119, nonche' le percentuali di cui all'articolo 28, comma 1-ter, lettere a), b), e c), del decreto legislativo n. 165 del 2001, si applicano agli incarichi dirigenziali di livello generale conferiti successivamente alla data di entrata in vigore del regolamento di cui all'articolo 28-bis, comma 8-quater, del medesimo decreto legislativo n. 165 del 2001. Per il personale dirigenziale non generale che, alla predetta data, stia svolgendo un incarico di direzione di ufficio dirigenziale generale, il transito nella prima fascia continua ad essere disciplinato, anche con riguardo al periodo di cinque anni, dalle disposizioni di cui all'articolo 23 del decreto legislativo n. 165 del 2001, ovvero dall'articolo 3, comma 2, del regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2004, n. 108 nelle versioni vigenti il giorno antecedente alla data di entrata in vigore della legge 2 luglio 2026, n. 119".
 
 ## Art. 29. — Reclutamento dei dirigenti scolastici
 
@@ -2373,7 +2378,7 @@ Non possono essere conferiti incarichi di direzione di strutture deputate alla g
 
 Le pubbliche amministrazioni non possono conferire ai dipendenti incarichi, non compresi nei compiti e doveri di ufficio, che non siano espressamente previsti o disciplinati da legge o altre fonti normative, o che non siano espressamente autorizzati.
 
-Ai fini previsti dal comma 2, con appositi regolamenti, da emanarsi ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sono individuati gli incarichi consentiti e quelli vietati ai magistrati ordinari, amministrativi, contabili e militari, nonche' agli avvocati e procuratori dello Stato, sentiti, per le diverse magistrature, i rispettivi istituti.
+Ai fini previsti dal comma 2, con appositi regolamenti, da emanarsi ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sono individuati gli incarichi consentiti e quelli vietati ((ai magistrati ordinari, amministrativi, contabili, militari e tributari)), nonche' agli avvocati e procuratori dello Stato, sentiti, per le diverse magistrature, i rispettivi istituti.
 
 Ai fini previsti dal comma 2, con appositi regolamenti emanati su proposta del Ministro per la pubblica amministrazione e la semplificazione, di concerto con i Ministri interessati, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, e successive modificazioni, sono individuati, secondo criteri differenziati in rapporto alle diverse qualifiche e ruoli professionali, gli incarichi vietati ai dipendenti delle amministrazioni pubbliche di cui all'articolo 1, comma 2.
 
@@ -2441,7 +2446,7 @@ Sono esclusi i compensi e le prestazioni derivanti:
                             
                                 f-ter)
                                 
-                                    dalle prestazioni di lavoro sportivo, fino ((all'importo complessivo)) di 5.000 euro annui, per le quali e' sufficiente la comunicazione preventiva.
+                                    dalle prestazioni di lavoro sportivo, fino all'importo complessivo di 5.000 euro annui, per le quali e' sufficiente la comunicazione preventiva.
 
 I dipendenti pubblici non possono svolgere incarichi retribuiti che non siano stati conferiti o previamente autorizzati dall'amministrazione di appartenenza. Ai fini dell'autorizzazione, l'amministrazione verifica l'insussistenza di situazioni, anche potenziali, di conflitto di interessi. Con riferimento ai professori universitari a tempo pieno, gli statuti o i regolamenti degli atenei disciplinano i criteri e le procedure per il rilascio dell'autorizzazione nei casi previsti dal presente decreto. In caso di inosservanza del divieto, salve le piu' gravi sanzioni e ferma restando la responsabilita' disciplinare, il compenso dovuto per le prestazioni eventualmente svolte deve essere versato, a cura dell'erogante o, in difetto, del percettore, nel conto dell'entrata del bilancio dell'amministrazione di appartenenza del dipendente per essere destinato ad incremento del fondo di produttivita' o di fondi equivalenti.
 

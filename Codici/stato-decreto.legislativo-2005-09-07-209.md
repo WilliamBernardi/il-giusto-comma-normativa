@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2026-08-12
-zip_date: 2026-09-23
-fetched_at: 2026-09-23
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO

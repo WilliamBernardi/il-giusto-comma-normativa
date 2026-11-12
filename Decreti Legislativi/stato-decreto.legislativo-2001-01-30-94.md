@@ -8,8 +8,8 @@ codice_redazionale: 001G0109
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO

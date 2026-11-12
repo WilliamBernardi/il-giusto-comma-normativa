@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-23",
+  "zip_date": "2026-11-12",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19520215_328/1952-04-21_052U0328_VIGENZA_2026-05-26_V0.xml": {
       "sha256": "7af57cd54d85dc60384e35547e47ac9c0be99419b1fbffcbdc846c552cc21e08",
@@ -11,13 +11,13 @@
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1973-03-29-156.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-09-23_V0.xml": {
-      "sha256": "3aa5b272ce687fde1d9388875bf6673ace5ef5ffe390366158774775327558c5",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-11-11_V0.xml": {
+      "sha256": "fd4909182443a0d201622075956508113d330d3cd1a4294a7796063ec1beb628",
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19921216_495/1992-12-28_092G0531_VIGENZA_2025-12-12_V0.xml": {
-      "sha256": "f4a08085eb5dff81c29196de4913dfd3b5f1f3b621204eb8a41cdcbeb3851364",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19921216_495/1992-12-28_092G0531_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "4bad47fb16e1c47d0f32a7a957deaf4ede296a48c5fa36cc46976fbbf8c5c8f0",
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1992-12-16-495.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495"
     },
@@ -26,8 +26,8 @@
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-2010-10-05-207.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;207"
     },
-    "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-08-09_V0.xml": {
-      "sha256": "bef6e99e8010376f90b65aaeb5c96168d22d343f4a12011caedadc810dd44bd3",
+    "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-11-11_V0.xml": {
+      "sha256": "2ab705d6dabbd978394930efc5533766d76a3505b6fbf8b93da6e9b1dc065d4a",
       "out": "Codici/stato-decreto.legislativo-1989-07-28-271.md",
       "urn": "urn:nir:stato:decreto.legislativo:1989-07-28;271"
     },
@@ -56,13 +56,13 @@
       "out": "Codici/stato-decreto.legislativo-2004-01-22-42.md",
       "urn": "urn:nir:stato:decreto.legislativo:2004-01-22;42"
     },
-    "DECRETO LEGISLATIVO_20050210_30/2005-03-04_005G0055_VIGENZA_2026-06-17_V0.xml": {
-      "sha256": "6750efb6c3921f0801d25303ffdf03b311e488c63b73497a1fff6cb485fbbe66",
+    "DECRETO LEGISLATIVO_20050210_30/2005-03-04_005G0055_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "3e764418020e6b7b2d672030c8e8276e316bca240443477834b1cfc25003c728",
       "out": "Codici/stato-decreto.legislativo-2005-02-10-30.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-02-10;30"
     },
-    "DECRETO LEGISLATIVO_20050307_82/2005-05-16_005G0104_VIGENZA_2026-05-09_V0.xml": {
-      "sha256": "fdb1c18fa22409cc7678e9246d2a38019b4bcf7c2135ad1189e1653bc2c188ce",
+    "DECRETO LEGISLATIVO_20050307_82/2005-05-16_005G0104_VIGENZA_2026-11-11_V0.xml": {
+      "sha256": "12348b9f67d7006dddd72ebf885cfe2670fc9ef907853ba8a0d5f315ff705803",
       "out": "Codici/stato-decreto.legislativo-2005-03-07-82.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-03-07;82"
     },
@@ -71,18 +71,18 @@
       "out": "Codici/stato-decreto.legislativo-2005-07-18-171.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-07-18;171"
     },
-    "DECRETO LEGISLATIVO_20050906_206/2005-10-08_005G0232_VIGENZA_2026-06-19_V0.xml": {
-      "sha256": "bb7cc68fcd89061f8e699202050064f060c09c5ea29ea63126e9cc3036165232",
+    "DECRETO LEGISLATIVO_20050906_206/2005-10-08_005G0232_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "0d35107979b7d6a6f2eb92aaf72e880f773e34dcf75d6640090f387b3c143252",
       "out": "Codici/stato-decreto.legislativo-2005-09-06-206.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-09-06;206"
     },
-    "DECRETO LEGISLATIVO_20050907_209/2005-10-13_005G0233_VIGENZA_2026-09-23_V0.xml": {
-      "sha256": "34e4118c0eb4cc786d28e462efa1bebdb00871804a967edc5e6d00593db38acb",
+    "DECRETO LEGISLATIVO_20050907_209/2005-10-13_005G0233_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "f96c35cb93bf785b9f6c2907980c6ec8da860c62a6a31b4540e7c1d2ae03457d",
       "out": "Codici/stato-decreto.legislativo-2005-09-07-209.md",
       "urn": "urn:nir:stato:decreto.legislativo:2005-09-07;209"
     },
-    "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-09-23_V0.xml": {
-      "sha256": "25db50ac9f0f19e6b2c6e70e64c55b969311c56e5495a9176d1821077ba55608",
+    "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "f0aed8ef42b7589d1a35aee24dbcf683cde829b6b7ab86514f5df338ce65cafc",
       "out": "Codici/stato-decreto.legislativo-2006-04-03-152.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-04-03;152"
     },
@@ -96,8 +96,8 @@
       "out": "Codici/stato-decreto.legislativo-2006-04-12-163.md",
       "urn": "urn:nir:stato:decreto.legislativo:2006-04-12;163"
     },
-    "DECRETO LEGISLATIVO_20100315_66/2010-05-08_010G0089_VIGENZA_2026-09-23_V0.xml": {
-      "sha256": "6adc93106e4f27877f9d634120e05356e2fed71c96d49dd42e99cddf83a62225",
+    "DECRETO LEGISLATIVO_20100315_66/2010-05-08_010G0089_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "e2a82b87310e104b86b32aea883edf4b42077d0c0ef992bf9c874741ee0143c4",
       "out": "Codici/stato-decreto.legislativo-2010-03-15-66.md",
       "urn": "urn:nir:stato:decreto.legislativo:2010-03-15;66"
     },
@@ -111,8 +111,8 @@
       "out": "Codici/stato-decreto.legislativo-2011-05-23-79.md",
       "urn": "urn:nir:stato:decreto.legislativo:2011-05-23;79"
     },
-    "DECRETO LEGISLATIVO_20110906_159/2011-09-28_011G0201_VIGENZA_2025-12-12_V0.xml": {
-      "sha256": "9fdf46cab6a326d41e14b64c5bf201f6c3f0c88db28a30640471fe697148099c",
+    "DECRETO LEGISLATIVO_20110906_159/2011-09-28_011G0201_VIGENZA_2026-11-11_V0.xml": {
+      "sha256": "56005fe9183a83dbe49e3344e178cfe418b613cabf14790fca5ef56b85120c1b",
       "out": "Codici/stato-decreto.legislativo-2011-09-06-159.md",
       "urn": "urn:nir:stato:decreto.legislativo:2011-09-06;159"
     },
@@ -161,8 +161,8 @@
       "out": "Codici/ministero.sviluppo.economico-decreto-2010-01-13-33.md",
       "urn": "urn:nir:ministero.sviluppo.economico:decreto:2010-01-13;33"
     },
-    "REGIO DECRETO_19301019_1398/1930-10-26_030U1398_VIGENZA_2026-07-16_V0.xml": {
-      "sha256": "e1be15d00de9ab9c4b504fdd3ba6dbe5d61fbbf44b088da9262e461ced4ed860",
+    "REGIO DECRETO_19301019_1398/1930-10-26_030U1398_VIGENZA_2026-11-11_V0.xml": {
+      "sha256": "ec1b105f60ebd95b4f44798c4c93c669d79c219aa6b7642a5e9a8c3271e83c48",
       "out": "Codici/stato-regio.decreto-1930-10-19-1398.md",
       "urn": "urn:nir:stato:regio.decreto:1930-10-19;1398"
     },
@@ -171,8 +171,8 @@
       "out": "Codici/stato-regio.decreto-1940-10-28-1443.md",
       "urn": "urn:nir:stato:regio.decreto:1940-10-28;1443"
     },
-    "REGIO DECRETO_19410220_303/1941-05-06_041U0303_VIGENZA_2025-12-12_V0.xml": {
-      "sha256": "85e1449c073751d0797c3484e37c0dde4ace7290029ac91eb0b61719e0be7fea",
+    "REGIO DECRETO_19410220_303/1941-05-06_041U0303_VIGENZA_2026-11-11_V0.xml": {
+      "sha256": "bdff49188b280660188d604774b6d0da4920eb1ff136b81d309c1a9f1525f2af",
       "out": "Codici/stato-regio.decreto-1941-02-20-303.md",
       "urn": "urn:nir:stato:regio.decreto:1941-02-20;303"
     },
@@ -186,8 +186,8 @@
       "out": "Codici/stato-regio.decreto-1941-12-18-1368.md",
       "urn": "urn:nir:stato:regio.decreto:1941-12-18;1368"
     },
-    "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-04-29_V0.xml": {
-      "sha256": "52a52d3989dd5e1b135575f3664d7caa1480cfe6d855f354ff80200b85f64b24",
+    "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-11-11_V0.xml": {
+      "sha256": "6e03ee119a2d1511ad3d3680e7a04ce72bbd86c0fc7366886d1fa8c206f7c297",
       "out": "Codici/stato-regio.decreto-1942-03-16-262.md",
       "urn": "urn:nir:stato:regio.decreto:1942-03-16;262"
     },

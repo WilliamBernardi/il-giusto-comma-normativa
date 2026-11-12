@@ -8,9 +8,9 @@ codice_redazionale: 097G0277
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2025-01-01
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -298,31 +298,36 @@ Le disposizioni del presente capo si applicano alle dichiarazioni presentate a d
 
 I contribuenti eseguono versamenti unitari delle imposte, dei contributi dovuti all'INPS e delle altre somme a favore dello Stato, delle regioni e degli enti previdenziali, con eventuale compensazione dei crediti, dello stesso periodo, nei confronti dei medesimi soggetti, risultanti dalle dichiarazioni e dalle denunce periodiche presentate successivamente alla data di entrata in vigore del presente decreto. Tale compensazione deve essere effettuata entro la data di presentazione della dichiarazione successiva. La compensazione del credito annuale o relativo a periodi inferiori all'anno dell'imposta sul valore aggiunto, dei crediti relativi alle imposte sui redditi e alle relative addizionali, alle imposte sostitutive delle imposte sui redditi e all'imposta regionale sulle attivita' produttive, per importi superiori a 5.000 euro annui, puo' essere effettuata a partire dal decimo giorno successivo a quello di presentazione della dichiarazione o dell'istanza da cui il credito emerge. (6) (6A) (22) (27) (46)(53)
 
-((
-
 1-bis.
                         
                             
-                                La compensazione dei crediti di qualsiasi importo maturati a titolo di contributi nei confronti dell'INPS puo' essere effettuata: 
+                                
+                                    ((La compensazione dei crediti di qualsiasi importo maturati a titolo di contributi nei confronti dell'INPS puo' essere effettuata:))
+                                
                             
                             
                                 a)
                                 
-                                    dai datori di lavoro non agricoli a partire dal quindicesimo giorno successivo a quello di scadenza del termine mensile per la trasmissione in via telematica dei dati retributivi e delle informazioni necessarie per il calcolo dei contributi da cui il credito emerge o dal quindicesimo giorno successivo alla sua presentazione, se tardiva, ovvero dalla data di notifica delle note di rettifica passive;
+                                    
+                                        ((dai datori di lavoro non agricoli a partire dal quindicesimo giorno successivo a quello di scadenza del termine mensile per la trasmissione in via telematica dei dati retributivi e delle informazioni necessarie per il calcolo dei contributi da cui il credito emerge o dal quindicesimo giorno successivo alla sua presentazione, se tardiva, ovvero dalla data di notifica delle note di rettifica passive)); 
+
                                 
                             
                             
                                 b)
                                 
-                                    dai datori di lavoro che versano la contribuzione agricola unificata per la manodopera agricola a decorrere dalla data di scadenza del versamento relativo alla dichiarazione di manodopera agricola da cui il credito emerge;
+                                    
+                                        ((dai datori di lavoro che versano la contribuzione agricola unificata per la manodopera agricola a decorrere dalla data di scadenza del versamento relativo alla dichiarazione di manodopera agricola da cui il credito emerge)); 
+
                                 
                             
                             
                                 c)
                                 
-                                    dai lavoratori autonomi iscritti alle gestioni speciali degli artigiani ed esercenti attivita' commerciali e dai liberi professionisti iscritti alla Gestione separata presso l'INPS di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, a decorrere dal decimo giorno successivo a quello di presentazione della dichiarazione dei redditi da cui il credito emerge. Resta impregiudicata la verifica sulla correttezza sostanziale del credito compensato. Sono escluse dalle compensazioni le aziende committenti per i compensi assoggettati a contribuzione alla suddetta Gestione separata presso l'INPS.
+                                    
+                                        ((dai lavoratori autonomi iscritti alle gestioni speciali degli artigiani ed esercenti attivita' commerciali e dai liberi professionisti iscritti alla Gestione separata presso l'INPS di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, a decorrere dal decimo giorno successivo a quello di presentazione della dichiarazione dei redditi da cui il credito emerge. Resta impregiudicata la verifica sulla correttezza sostanziale del credito compensato. Sono escluse dalle compensazioni le aziende committenti per i compensi assoggettati a contribuzione alla suddetta Gestione separata presso l'INPS)).
 
-1-ter. La compensazione dei crediti di qualsiasi importo per premi e accessori maturati nei confronti dell'INAIL puo' essere effettuata a condizione che il credito certo, liquido ed esigibile sia registrato negli archivi del predetto Istituto))
+((La compensazione dei crediti di qualsiasi importo per premi e accessori maturati nei confronti dell'INAIL puo' essere effettuata a condizione che il credito certo, liquido ed esigibile sia registrato negli archivi del predetto Istituto)).
 
 2.
                         
@@ -760,9 +765,9 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 ## - CAPO IV DISPOSIZIONI IN MATERIA DI RIMBORSI
 
-## Art. 30. — ((ARTICOLO ABROGATO DAL D.LGS. 24 MARZO 2025, N. 33))
+## Art. 30. — (Rimborso del credito IRPEF in caso di separazione legale o divorzio)
 
-
+In caso di separazione legale o di divorzio il rimborso del credito dell'imposta sui reddito delle persone fisiche, risultante da una precedente dichiarazione congiunta, puo' essere attribuito, per la quota di sua competenza, a ciascun coniuge personalmente. A tal fine, il coniuge che intende avvalersi di tale disposizione deve dare comunicazione scritta all'ufficio dell'Amministrazione finanziaria al quale e' stata presentata la dichiarazione congiunta, della separazione legale o del divorzio sopravvenuti.
 
 ## Art. 31. — (Rimborso del credito IVA)
 
@@ -777,49 +782,48 @@ All'articolo 38-bis, primo comma, del decreto del Presidente della Repubblica 26
 
 ## - ((Capo V DISPOSIZIONI IN MATERIA DI ASSISTENZA FISCALE))
 
-## Art. 32. — (( (Soggetti abilitati alla costituzione dei centri di
- assistenza fiscale). ))
+## Art. 32. — (( (Soggetti abilitati alla costituzione dei centri di assistenza fiscale). ))
 
 ((
 
 1.
                         
                             
-                                I centri di assistenza fiscale, di seguito denominati ''Centri'', possono essere costituiti dai seguenti soggetti:
+                                I centri di assistenza fiscale, di seguito denominati ''Centri'', possono essere costituiti dai seguenti soggetti: 
  
                             
                             
                                 a)
                                 
-                                    associazioni sindacali di categoria fra imprenditori, presenti nel Consiglio nazionale dell'economia e del lavoro, istituite da almeno dieci anni;
+                                    associazioni sindacali di categoria fra imprenditori, presenti nel Consiglio nazionale dell'economia e del lavoro, istituite da almeno dieci anni; 
 
                                 
                             
                             
                                 b)
                                 
-                                    associazioni sindacali di categoria fra imprenditori, istituite da almeno dieci anni, diverse da quelle indicate nella lettera a) se, con decreto del Ministero delle finanze, ne e' riconosciuta la rilevanza nazionale con riferimento al numero degli associati, almeno pari al 5 per cento degli appartenenti alla stessa categoria, iscritti negli appositi registri tenuti dalla camera di commercio, nonche' all'esistenza di strutture organizzate in almeno 30 province;
+                                    associazioni sindacali di categoria fra imprenditori, istituite da almeno dieci anni, diverse da quelle indicate nella lettera a) se, con decreto del Ministero delle finanze, ne e' riconosciuta la rilevanza nazionale con riferimento al numero degli associati, almeno pari al 5 per cento degli appartenenti alla stessa categoria, iscritti negli appositi registri tenuti dalla camera di commercio, nonche' all'esistenza di strutture organizzate in almeno 30 province; 
 
                                 
                             
                             
                                 c)
                                 
-                                    organizzazioni aderenti alle associazioni di cui alle lettere a) e b), previa delega della propria associazione nazionale;
+                                    organizzazioni aderenti alle associazioni di cui alle lettere a) e b), previa delega della propria associazione nazionale; 
 
                                 
                             
                             
                                 d)
                                 
-                                    organizzazioni sindacali dei lavoratori dipendenti e pensionati od organizzazioni territoriali da esse delegate, aventi complessivamente almeno cinquantamila aderenti;
+                                    organizzazioni sindacali dei lavoratori dipendenti e pensionati od organizzazioni territoriali da esse delegate, aventi complessivamente almeno cinquantamila aderenti; 
 
                                 
                             
                             
                                 e)
                                 
-                                    sostituti di cui all'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, aventi complessivamente almeno cinquantamila dipendenti;
+                                    sostituti di cui all'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, aventi complessivamente almeno cinquantamila dipendenti; 
 
                                 
                             
@@ -905,13 +909,13 @@ Con provvedimento del direttore dell'Agenzia delle entrate sono definiti i livel
 1.
                         
                             
-                                Il responsabile dell'assistenza fiscale dei centri costituiti dai soggetti di cui all'articolo 32, comma 1, lettere a), b) e c), su richiesta del contribuente:
+                                Il responsabile dell'assistenza fiscale dei centri costituiti dai soggetti di cui all'articolo 32, comma 1, lettere a), b) e c), su richiesta del contribuente: 
  
                             
                             
                                 a)
                                 
-                                    rilascia un visto di conformita' dei dati delle dichiarazioni predisposte dal centro, alla relativa documentazione e alle risultanze delle scritture contabili, nonche' di queste ultime alla relativa documentazione contabile;
+                                    rilascia un visto di conformita' dei dati delle dichiarazioni predisposte dal centro, alla relativa documentazione e alle risultanze delle scritture contabili, nonche' di queste ultime alla relativa documentazione contabile; 
 
                                 
                             
@@ -923,13 +927,13 @@ Con provvedimento del direttore dell'Agenzia delle entrate sono definiti i livel
 2.
                         
                             
-                                Il responsabile dell'assistenza fiscale dei centri costituiti dai soggetti di cui all'articolo 32, comma 1, lettere d), e) e f):
+                                Il responsabile dell'assistenza fiscale dei centri costituiti dai soggetti di cui all'articolo 32, comma 1, lettere d), e) e f): 
  
                             
                             
                                 a)
                                 
-                                    rilascia, su richiesta del contribuente, un visto di conformita' dei dati delle dichiarazioni unificate alla relativa documentazione;
+                                    rilascia, su richiesta del contribuente, un visto di conformita' dei dati delle dichiarazioni unificate alla relativa documentazione; 
 
                                 
                             
@@ -953,20 +957,20 @@ La certificazione tributaria puo' essere rilasciata a condizione che nei confron
 3.
                         
                             
-                                Per le dichiarazioni relative a periodi di imposta per i quali e' stata rilasciata una certificazione tributaria regolare:
+                                Per le dichiarazioni relative a periodi di imposta per i quali e' stata rilasciata una certificazione tributaria regolare: 
  
                             
                             
                                 a)
                                 
-                                    non sono applicabili le disposizioni di cui agli articoli 39, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e 55 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di accertamenti induttivi;
+                                    non sono applicabili le disposizioni di cui agli articoli 39, secondo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e 55 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di accertamenti induttivi; 
 
                                 
                             
                             
                                 b)
                                 
-                                    gli accertamenti basati sugli studi di settore di cui all'articolo 10 della legge 8 maggio 1998, n. 146, sono notificati, a pena di decadenza, entro il 31 dicembre del terzo anno successivo a quello in cui le dichiarazioni sono state presentate;
+                                    gli accertamenti basati sugli studi di settore di cui all'articolo 10 della legge 8 maggio 1998, n. 146, sono notificati, a pena di decadenza, entro il 31 dicembre del terzo anno successivo a quello in cui le dichiarazioni sono state presentate; 
 
                                 
                             
@@ -1144,10 +1148,37 @@ La misura dei compensi previsti nel presente articolo e' adeguata ogni anno, con
 
 ## Art. 39. — (Sanzioni).
 
-Salvo che il fatto costituisca reato e ferma restando l'irrogazione delle sanzioni per le violazioni di norme tributarie:  ((a) ai soggetti indicati nell'articolo 35 che rilasciano il visto di conformita', ovvero l'asseverazione, infedele si applica la sanzione amministrativa da euro 258 ad euro 2.582. Se il visto infedele e' relativo alla dichiarazione dei redditi presentata con le modalita' di cui all'articolo 13 del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, non si applica la sanzione di cui al periodo precedente e i soggetti di cui all'articolo 35 sono tenuti al pagamento di una somma pari al 30 per cento della maggiore imposta riscontrata, sempre che il visto infedele non sia stato indotto dalla condotta dolosa o gravemente colposa del contribuente. Costituiscono titolo per la riscossione mediante ruolo di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, le comunicazioni con le quali sono richieste le somme di cui al periodo precedente. Eventuali controversie sono devolute alla giurisdizione tributaria. Sempreche' l'infedelta' del visto non sia gia' stata contestata con la comunicazione di cui all'articolo 26, comma 3-ter, del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, il Centro di assistenza fiscale o il professionista puo' trasmettere una dichiarazione rettificativa del contribuente, ovvero, se il contribuente non intende presentare la nuova dichiarazione, puo' trasmettere una comunicazione dei dati relativi alla rettifica il cui contenuto e' definito con provvedimento del direttore dell'Agenzia delle entrate. In tal caso la somma dovuta e' ridotta ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472. La violazione e' punibile in caso di liquidazione delle imposte, dei contributi, dei premi e dei rimborsi dovuti in base alle dichiarazioni, di cui all'articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e in caso di controllo ai sensi degli articoli 36-ter e seguenti del medesimo decreto, nonche' in caso di liquidazione dell'imposta dovuta in base alle dichiarazioni e in caso di controllo di cui agli articoli 54 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. La violazione e' punibile a condizione che non trovi applicazione l'articolo 12-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602. In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, e' disposta a carico dei predetti soggetti la sospensione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione, per un periodo da uno a tre anni. In caso di ripetute violazioni commesse successivamente al periodo di sospensione, e' disposta l'inibizione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione. Si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione. Le sanzioni di cui al presente comma non sono oggetto della maggiorazione prevista dall'articolo 7, comma 3, del decreto legislativo 18 dicembre 1997, n. 472)); 
- a-bis) ((LETTERA ABROGATA DAL D.L. 28 GENNAIO 2019, N.4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, N. 26)); 
- a-ter) ((LETTERA ABROGATA DAL D.L. 28 GENNAIO 2019, N.4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, N. 26)). 
- b) al professionista che rilascia una certificazione tributaria di cui all'articolo 36 infedele, si applica la sanzione amministrativa da euro 516 ad euro 5.165. In caso di accertamento di tre distinte violazioni commesse nel corso di un biennio, e' disposta la sospensione dalla facolta' di rilasciare la certificazione tributaria per un periodo da uno a tre anni. La medesima facolta' e' inibita in caso di accertamento di ulteriori violazioni ovvero di violazioni di particolare gravita'; si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione. (16)
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato e ferma restando l'irrogazione delle sanzioni per le violazioni di norme tributarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai soggetti indicati nell'articolo 35 che rilasciano il visto di conformita', ovvero l'asseverazione, infedele si applica la sanzione amministrativa da euro 258 ad euro 2.582. Se il visto infedele e' relativo alla dichiarazione dei redditi presentata con le modalita' di cui all'articolo 13 del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, non si applica la sanzione di cui al periodo precedente e i soggetti di cui all'articolo 35 sono tenuti al pagamento di una somma pari al 30 per cento della maggiore imposta riscontrata, sempre che il visto infedele non sia stato indotto dalla condotta dolosa o gravemente colposa del contribuente. Costituiscono titolo per la riscossione mediante ruolo di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, le comunicazioni con le quali sono richieste le somme di cui al periodo precedente ((e, a tal fine, si applica il termine previsto dall'articolo 25, comma 1, lettera b), del medesimo decreto)). ((In deroga a quanto previsto dal comma 2, l'iscrizione a ruolo della somma pari al 30 per cento della maggiore imposta riscontrata e' effettuata dalla direzione provinciale dell'Agenzia delle entrate territorialmente competente in base al domicilio fiscale del contribuente.)) Eventuali controversie sono devolute alla giurisdizione tributaria. Sempreche' l'infedelta' del visto non sia gia' stata contestata con la comunicazione di cui all'articolo 26, comma 3-ter, del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, il Centro di assistenza fiscale o il professionista puo' trasmettere una dichiarazione rettificativa del contribuente, ovvero, se il contribuente non intende presentare la nuova dichiarazione, puo' trasmettere una comunicazione dei dati relativi alla rettifica il cui contenuto e' definito con provvedimento del direttore dell'Agenzia delle entrate. In tal caso la somma dovuta e' ridotta ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472. La violazione e' punibile in caso di liquidazione delle imposte, dei contributi, dei premi e dei rimborsi dovuti in base alle dichiarazioni, di cui all'articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e in caso di controllo ai sensi degli articoli 36-ter e seguenti del medesimo decreto, nonche' in caso di liquidazione dell'imposta dovuta in base alle dichiarazioni e in caso di controllo di cui agli articoli 54 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. La violazione e' punibile a condizione che non trovi applicazione l'articolo 12-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602. In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, e' disposta a carico dei predetti soggetti la sospensione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione, per un periodo da uno a tre anni. In caso di ripetute violazioni commesse successivamente al periodo di sospensione, e' disposta l'inibizione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione. Si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione. Le sanzioni di cui al presente comma non sono oggetto della maggiorazione prevista dall'articolo 7, comma 3, del decreto legislativo 18 dicembre 1997, n. 472; ((63))
+                                    
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    LETTERA ABROGATA DAL D.L. 28 GENNAIO 2019, N.4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, N. 26; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    LETTERA ABROGATA DAL D.L. 28 GENNAIO 2019, N.4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, N. 26. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al professionista che rilascia una certificazione tributaria di cui all'articolo 36 infedele, si applica la sanzione amministrativa da euro 516 ad euro 5.165. In caso di accertamento di tre distinte violazioni commesse nel corso di un biennio, e' disposta la sospensione dalla facolta' di rilasciare la certificazione tributaria per un periodo da uno a tre anni. La medesima facolta' e' inibita in caso di accertamento di ulteriori violazioni ovvero di violazioni di particolare gravita'; si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione. (16)
 
 Nei casi di violazioni commesse ai sensi dei commi 1 e 3 del presente articolo e dell'articolo 7-bis, si applicano, in quanto compatibili, le disposizioni del decreto legislativo 18 dicembre 1997, n. 472. Il centro di assistenza fiscale per il quale abbia operato il trasgressore e' obbligato solidalmente con il trasgressore stesso al pagamento di un importo pari alla sanzione irrogata e alle altre somme indicate al comma 1.
 
@@ -1172,7 +1203,11 @@ Il mancato rispetto di adeguati livelli di servizio comporta l'applicazione dell
                             ---------------
                             AGGIORNAMENTO (29)
                             
- Il D.Lgs. 24 settembre 2015, n. 158 come modificato dalla L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+ Il D.Lgs. 24 settembre 2015, n. 158 come modificato dalla L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016. 
+                            ---------------
+                            AGGIORNAMENTO (29)
+                            
+ Il D.Lgs. 7 agosto 2026, n. 148, ha disposto (con l'art. 18, comm 3) che "Le disposizioni del presente articolo si applicano a partire dalle attivita' di controllo effettuate sulle dichiarazioni relative al periodo d'imposta 2023".
 
 ## Art. 40. — (( (Disposizioni di attuazione). ))
 
@@ -1181,27 +1216,27 @@ Il mancato rispetto di adeguati livelli di servizio comporta l'applicazione dell
 1.
                         
                             
-                                Il Ministro delle finanze, con regolamenti adottati ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, stabilisce:
+                                Il Ministro delle finanze, con regolamenti adottati ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, stabilisce: 
  
                             
                             
                                 a)
                                 
-                                    i criteri e le condizioni per il rilascio ai centri dell'autorizzazione all'esercizio delle attivita' di cui all'articolo 34, per la loro iscrizione in apposito albo e per il trasferimento delle quote o delle azioni, che deve in ogni caso essere posto in essere tra i soggetti autorizzati alla costituzione dei centri stessi, i poteri divigilanza, anche ispettiva, dell'amministrazione finanziaria;
+                                    i criteri e le condizioni per il rilascio ai centri dell'autorizzazione all'esercizio delle attivita' di cui all'articolo 34, per la loro iscrizione in apposito albo e per il trasferimento delle quote o delle azioni, che deve in ogni caso essere posto in essere tra i soggetti autorizzati alla costituzione dei centri stessi, i poteri divigilanza, anche ispettiva, dell'amministrazione finanziaria; 
 
                                 
                             
                             
                                 b)
                                 
-                                    le modalita' per l'esecuzione dei controlli e l'erogazione dei rimborsi per i contribuenti nei cui confronti e' stato rilasciato il visto e l'asseverazione di cui ai commi 1 e 2 dell'articolo 35, ovvero e' stata effettuata la certificazione ai sensi dell'articolo 36, tenendo conto, in particolare, del tipo di assistenza fiscale prestata ai predetti contribuenti anche in ordine alla tenuta delle scritture contabili;
+                                    le modalita' per l'esecuzione dei controlli e l'erogazione dei rimborsi per i contribuenti nei cui confronti e' stato rilasciato il visto e l'asseverazione di cui ai commi 1 e 2 dell'articolo 35, ovvero e' stata effettuata la certificazione ai sensi dell'articolo 36, tenendo conto, in particolare, del tipo di assistenza fiscale prestata ai predetti contribuenti anche in ordine alla tenuta delle scritture contabili; 
 
                                 
                             
                             
                                 c)
                                 
-                                    la prestazione di congrue garanzie per i danni ai contribuenti in relazione al rilascio del visto di conformita', dell'asseverazione e della certificazione tributaria secondo le disposizioni del presente capo commisurate anche al numero dei contribuenti assistiti;
+                                    la prestazione di congrue garanzie per i danni ai contribuenti in relazione al rilascio del visto di conformita', dell'asseverazione e della certificazione tributaria secondo le disposizioni del presente capo commisurate anche al numero dei contribuenti assistiti; 
 
                                 
                             

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-28
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,8 @@ Udito il parere del Consiglio di Stato, espresso dalla Commissione speciale nell
 Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
 
 Acquisita l'intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di cui all'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, raggiunta nella seduta del 6 aprile 2017:
+
+Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro della salute;
 
 ## Art. 1. — Elenco nazionale dei soggetti idonei alla nomina di direttore generale delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale
 

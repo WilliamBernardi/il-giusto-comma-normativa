@@ -8,9 +8,9 @@ codice_redazionale: 011G0201
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2025-10-08
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-10-31
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -73,9 +73,13 @@ Con l'avviso orale il questore, quando ricorrono le condizioni di cui ai commi 1
 
 Il questore puo', altresi', imporre il divieto di cui al comma 4 ai soggetti sottoposti alla misura della sorveglianza speciale, quando la persona risulti definitivamente condannata per delitto non colposo.
 
-Il divieto di cui ai commi 4 e 5 adottato nei confronti di un maggiorenne e' opponibile davanti al tribunale in composizione monocratica. Il divieto di cui al comma 4 adottato nei confronti di un minorenne e' opponibile davanti al tribunale per i minorenni.
+((Ferme restando le disposizioni di cui al decreto-legge 20 febbraio 2017, n. 14, convertito con modificazioni dalla legge 18 aprile 2017, n. 48, quando cinque o piu' persone, anche in forma di gruppo, in luogo pubblico o aperto al pubblico, tengono comportamenti intimidatori, di grave molestia o violenti contro persone o cose, il questore, per motivi di sicurezza, puo' disporre l'avviso orale con il divieto di radunarsi con una o piu' delle medesime persone, in luoghi pubblici o aperti al pubblico specificamente individuati in ragione delle esigenze di prevenzione, anche limitato a determinate fasce orarie, nei confronti di colui che sia stato gia' destinatario, nei cinque anni precedenti, dei provvedimenti di cui al presente articolo o di cui all'articolo 2 del presente codice ovvero di cui agli articoli 10, 13 e 13-bis del predetto decreto-legge n. 14 del 2017 o che, nel medesimo lasso di tempo, sia stato condannato, anche con sentenza non definitiva, per alcuno dei delitti contro la persona o contro il patrimonio di cui al libro secondo, titoli XII e XIII, del codice penale, commessi in luogo pubblico o aperto al pubblico.
+Il divieto di radunarsi di cui al primo periodo puo' essere disposto per una durata non superiore a un anno, con l'individuazione di modalita' applicative compatibili con le esigenze di salute, famiglia, lavoro o studio del destinatario del provvedimento.
+L'avviso orale con il divieto di radunarsi di cui al presente comma puo' essere rivolto anche ai soggetti minori di diciotto anni che hanno compiuto il quattordicesimo anno di eta', secondo la procedura di cui al comma 3-bis)).
 
-Nei casi di cui ai commi 1 e 3-bis, se il soggetto al quale e' notificato l'avviso orale risulta condannato, anche con sentenza non definitiva, per uno o piu' delitti contro la persona o il patrimonio ovvero inerenti alle armi o alle sostanze stupefacenti, il questore puo' proporre ((al tribunale in composizione monocratica, nei casi di cui al comma 1, o)) al tribunale per i minorenni ((nei casi di cui al comma 3-bis)) l'applicazione del divieto di utilizzare, in tutto o in parte, piattaforme o servizi informatici e telematici specificamente indicati nonche' del divieto di possedere o di utilizzare telefoni cellulari, altri dispositivi per le comunicazioni dati e voce o qualsiasi altro apparato di comunicazione radiotrasmittente, quando il suo utilizzo e' servito per la realizzazione o la divulgazione delle condotte che hanno determinato l'avviso orale. Alla persona avvisata oralmente viene notificata la proposta di cui al periodo precedente e data notizia della facolta' di presentare, personalmente o a mezzo di difensore, memorie o deduzioni al giudice competente per l'applicazione del divieto.
+((il divieto di cui ai commi 4, 5 e 5-bis)) adottato nei confronti di un maggiorenne e' opponibile davanti al tribunale in composizione monocratica. ((il divieto di cui ai commi 4 e 5-bis)) adottato nei confronti di un minorenne e' opponibile davanti al tribunale per i minorenni.
+
+Nei casi di cui ai commi 1 e 3-bis, se il soggetto al quale e' notificato l'avviso orale risulta condannato, anche con sentenza non definitiva, per uno o piu' delitti contro la persona o il patrimonio ovvero inerenti alle armi o alle sostanze stupefacenti, il questore puo' proporre al tribunale in composizione monocratica, nei casi di cui al comma 1, o al tribunale per i minorenni nei casi di cui al comma 3-bis l'applicazione del divieto di utilizzare, in tutto o in parte, piattaforme o servizi informatici e telematici specificamente indicati nonche' del divieto di possedere o di utilizzare telefoni cellulari, altri dispositivi per le comunicazioni dati e voce o qualsiasi altro apparato di comunicazione radiotrasmittente, quando il suo utilizzo e' servito per la realizzazione o la divulgazione delle condotte che hanno determinato l'avviso orale. Alla persona avvisata oralmente viene notificata la proposta di cui al periodo precedente e data notizia della facolta' di presentare, personalmente o a mezzo di difensore, memorie o deduzioni al giudice competente per l'applicazione del divieto.
 
 Il giudice, sentito il pubblico ministero, provvede, con decreto motivato, entro trenta giorni dal deposito della proposta di cui al comma 6-bis. Il divieto e' disposto per una durata non superiore a due anni, con l'individuazione di modalita' applicative compatibili con le esigenze di salute, famiglia, lavoro o studio del destinatario del provvedimento. In caso di rigetto della proposta di cui al comma 6-bis, e' fatto comunque salvo l'avviso orale emesso dal questore.
 
@@ -526,6 +530,12 @@ Il sequestro e la confisca possono essere adottati, su richiesta dei soggetti di
                             
  Successivamente la Corte Costituzionale, con sentenza 25 maggio - 6 luglio 2021, n. 140 (in G.U. 1ª s.s. 7/7/2021, n. 27), ha dichiarato l'illegittimita' costituzionale dell'art. 83, comma 9 del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, (che ha modificato il comma 2 del presente articolo) "nella parte in cui prevede la sospensione del corso della prescrizione per il tempo in cui i procedimenti penali sono rinviati ai sensi del precedente comma 7, lettera g), e in ogni caso, non oltre il 30 giugno 2020".
 
+## Art. 24-bis. — (( (Correlazione temporale della confisca).))
+
+
+
+((Il provvedimento che dispone la confisca indica specificamente la correlazione temporale di cui al comma 1.))
+
 ## Art. 25. — (( (Sequestro e confisca per equivalente). ))
 
 ((
@@ -567,7 +577,7 @@ Quando accerta che taluni beni sono stati fittiziamente intestati o trasferiti a
 
 ## Art. 27. — Comunicazioni e impugnazioni
 
-I provvedimenti con i quali il tribunale dispone la confisca dei beni sequestrati, l'applicazione, il diniego o la revoca del sequestro, il rigetto della richiesta di confisca anche qualora non sia stato precedentemente disposto il sequestro ovvero la restituzione della cauzione o la liberazione delle garanzie o la confisca della cauzione o l'esecuzione sui beni costituiti in garanzia sono comunicati senza indugio al procuratore generale presso la corte di appello, al procuratore della Repubblica e agli interessati.
+I provvedimenti con i quali il tribunale dispone la confisca dei beni sequestrati, l'applicazione, il diniego o la revoca del sequestro, il rigetto della richiesta di confisca anche qualora non sia stato precedentemente disposto il sequestro ovvero la restituzione della cauzione o la liberazione delle garanzie o la confisca della cauzione o l'esecuzione sui beni costituiti in garanzia sono comunicati senza indugio al procuratore generale presso la corte di appello, al procuratore della Repubblica e agli interessati. ((63))
 
 Per le impugnazioni contro detti provvedimenti si applicano le disposizioni previste dall'articolo 10. I provvedimenti che dispongono la confisca dei beni sequestrati, la confisca della cauzione o l'esecuzione sui beni costituiti in garanzia diventano esecutivi con la definitivita' delle relative pronunce.
 
@@ -579,7 +589,7 @@ In caso di impugnazione, il cancelliere presso il giudice investito del gravame 
 
 Dopo l'esercizio dell'azione di prevenzione, e comunque quando il pubblico ministero lo autorizza, gli esiti delle indagini patrimoniali sono trasmessi al competente nucleo di polizia tributaria della Guardia di Finanza a fini fiscali.
 
-In caso di appello, il provvedimento di confisca perde efficacia se la corte d'appello non si pronuncia entro un anno e sei mesi dal deposito del ricorso. Si applica l'articolo 24, comma 2. ((32))((37))
+In caso di appello, il provvedimento di confisca perde efficacia se la corte d'appello non si pronuncia entro un anno e sei mesi dal deposito del ricorso. Si applica l'articolo 24, comma 2. (32) (37)
 
 Nel caso di annullamento del decreto di confisca con rinvio al tribunale, anche ove disposto ai sensi dei commi 2-bis e 3-bis dell'articolo 10, il termine previsto dal comma 2 dell'articolo 24 decorre nuovamente dalla ricezione degli atti presso la cancelleria del tribunale stesso.
 
@@ -590,7 +600,11 @@ Nel caso di annullamento del decreto di confisca con rinvio al tribunale, anche 
                             ---------------
                             AGGIORNAMENTO (37)
                             
- Successivamente la Corte Costituzionale, con sentenza 25 maggio - 6 luglio 2021, n. 140 (in G.U. 1ª s.s. 7/7/2021, n. 27), ha dichiarato l'illegittimita' costituzionale dell'art. 83, comma 9 del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, (che ha modificato il comma 6 del presente articolo) "nella parte in cui prevede la sospensione del corso della prescrizione per il tempo in cui i procedimenti penali sono rinviati ai sensi del precedente comma 7, lettera g), e in ogni caso, non oltre il 30 giugno 2020".
+ Successivamente la Corte Costituzionale, con sentenza 25 maggio - 6 luglio 2021, n. 140 (in G.U. 1ª s.s. 7/7/2021, n. 27), ha dichiarato l'illegittimita' costituzionale dell'art. 83, comma 9 del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, (che ha modificato il comma 6 del presente articolo) "nella parte in cui prevede la sospensione del corso della prescrizione per il tempo in cui i procedimenti penali sono rinviati ai sensi del precedente comma 7, lettera g), e in ogni caso, non oltre il 30 giugno 2020". 
+                            ---------------
+                            AGGIORNAMENTO (63)
+                            
+ La Corte Costituzionale, con sentenza 8 luglio - 2 ottobre 2026, n. 158 (in G.U. 1ª s.s. 07/10/2026, n. 40), ha dichiarato "l'illegittimita' costituzionale dell'art. 27, comma 1, del decreto legislativo 6 settembre 2011, n. 159 (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), nella parte in cui non include tra i provvedimenti ivi elencati quelli con i quali il tribunale rigetta l'istanza di revoca del sequestro".
 
 ## - - Capo III La revocazione della confisca
 
@@ -944,7 +958,8 @@ L'Avvocatura dello Stato assume la rappresentanza e la difesa dell'amministrator
 
 Il giudice delegato impartisce le direttive generali della gestione dei beni sequestrati, anche avvalendosi dell'attivita' di ausilio e supporto dell'Agenzia ai sensi degli articoli 110, 111 e 112.
 
-((Se nell'ambito dell'accertamento tecnico-urbanistico di cui all'articolo 36, comma 2-bis, e' accertata la sussistenza di abusi non sanabili, il giudice delegato, con il provvedimento di confisca, ne ordina la demolizione in danno del soggetto destinatario del provvedimento e il bene non e' acquisito al patrimonio dell'Erario. L'area di sedime e' acquisita al patrimonio indisponibile del comune territorialmente competente. Si applicano le disposizioni del testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, in materia di interventi abusivi realizzati su suoli di proprieta' dello Stato o di enti pubblici)).
+Se nell'ambito dell'accertamento tecnico-urbanistico di cui all'articolo 36, comma 2-bis, e' accertata la sussistenza di abusi non sanabili, il giudice delegato, con il provvedimento di confisca, ne ordina la demolizione in danno del soggetto destinatario del provvedimento e il bene non e' acquisito al patrimonio dell'Erario.
+L'area di sedime e' acquisita al patrimonio indisponibile del comune territorialmente competente. Si applicano le disposizioni del testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, in materia di interventi abusivi realizzati su suoli di proprieta' dello Stato o di enti pubblici.
 
 Il giudice delegato puo' adottare, nei confronti della persona sottoposta alla procedura e della sua famiglia, i provvedimenti indicati nell'articolo 47, primo comma, del regio decreto 16 marzo 1942, n. 267, e successive modificazioni, quando ricorrano le condizioni ivi previste.
 
@@ -964,11 +979,26 @@ In caso di sequestro di beni in comunione indivisa, l'amministratore giudiziario
 
 I beni mobili sequestrati, anche iscritti in pubblici registri, possono essere affidati dal tribunale in custodia giudiziale agli organi di polizia e del Corpo nazionale dei vigili del fuoco che ne facciano richiesta per l'impiego nelle attivita' istituzionali o per esigenze di polizia giudiziaria, ovvero possono essere affidati all'Agenzia, ad altri organi dello Stato, ad enti pubblici non economici e enti territoriali per finalita' di giustizia, di soccorso pubblico, di protezione civile o di tutela ambientale nonche' ai soggetti previsti dall'articolo 48, comma 3, lettera c).
 
-Il tribunale, se non deve provvedere alla revoca del sequestro e alle conseguenti restituzioni, su richiesta dell'amministratore giudiziario o dell'Agenzia, decorsi trenta giorni dal deposito della relazione di cui all'articolo 36, destina alla vendita i beni mobili sottoposti a sequestro se gli stessi non possono essere amministrati senza pericolo di deterioramento o di rilevanti diseconomie. Se i beni mobili sottoposti a sequestro sono privi di valore, improduttivi, oggettivamente inutilizzabili e non alienabili, il tribunale dispone la loro distruzione o demolizione.
+((Il tribunale, se non deve provvedere alla revoca del sequestro e alle conseguenti restituzioni, su richiesta dell'amministratore giudiziario o dell'Agenzia, decorsi trenta giorni dal deposito della relazione di cui all'articolo 36, destina alla vendita i beni sottoposti a sequestro se gli stessi non possono essere amministrati senza pericolo di deterioramento o di rilevanti diseconomie. La richiesta di vendita puo' essere avanzata anche dall'interessato e, in tal caso, il tribunale, sentito l'amministratore giudiziario o l'Agenzia e il pubblico ministero, provvede con decreto motivato. Per quanto non stabilito, si applicano le disposizioni degli articoli 27 e 40-bis. In caso di alienazione di beni immobili si applica, in quanto compatibile, l'articolo 48, comma 5. Se i beni mobili sottoposti a sequestro sono privi di valore, improduttivi, oggettivamente inutilizzabili e non alienabili, il tribunale dispone la loro distruzione o demolizione.))
 
 I proventi derivanti dalla vendita dei beni di cui al comma 5-ter affluiscono, al netto delle spese sostenute, al Fondo unico giustizia per essere versati all'apposito capitolo di entrata del bilancio dello Stato e riassegnati, nei limiti e con le modalita' di cui all'articolo 2, comma 7, del decreto legge 16 settembre 2008, n. 143, convertito dalla legge 13 novembre 2008, n. 181, nella misura del 50 per cento secondo le destinazioni previste dal predetto articolo 2, comma 7, e per il restante 50 per cento allo stato di previsione della spesa del Ministero dell'interno per le esigenze dell'Agenzia che li destina prioritariamente alle finalita' sociali e produttive.
 
 Se il tribunale non provvede alla confisca dei beni di cui al comma 5-ter, dispone la restituzione all'avente diritto dei proventi versati al Fondo unico giustizia in relazione alla vendita dei medesimi beni, oltre agli interessi maturati sui medesimi proventi computati secondo quanto stabilito dal decreto ministeriale 30 luglio 2009, n. 127.
+
+## Art. 40-bis. — (( (Vendita prima della confisca).))
+
+
+
+((L'interessato puo' chiedere, a pena di decadenza, entro quindici giorni dalla comunicazione, di essere sentito e, entro i dieci giorni successivi, il tribunale provvede ai sensi dell'articolo 127 del codice di procedura penale.))
+
+((Il tribunale provvede senza formalita' quando ricorrono ragioni di urgenza ovvero l'interessato non ha richiesto di essere sentito.))
+
+((Nei casi in cui sia disposta la vendita, il vincolo cautelare e' trasferito alla somma ricavata dalla vendita del bene, versata dall'amministratore giudiziario o dall'Agenzia al Fondo unico di giustizia ed ivi accantonata fino alla definitivita' del decreto di confisca. La confisca ha ad oggetto le somme depositate ai sensi del periodo che precede.))
+
+((Qualora non si provveda alla confisca, e' disposta la restituzione all'avente diritto dei proventi versati, oltre agli interessi maturati sui medesimi proventi, computati secondo quanto stabilito dal decreto ministeriale 30 luglio 2009, n. 127.))
+
+((Per l'impugnazione contro il provvedimento di destinazione alla vendita si applicano le disposizioni previste dall'articolo 10.
+La Corte d'appello puo' disporre la sospensione dell'esecuzione del provvedimento impugnato quando dalla vendita possa derivare grave e irreparabile danno per l'interessato.))
 
 ## Art. 41. — Gestione delle aziende sequestrate
 
@@ -1975,9 +2005,9 @@ Il contravventore ai divieti, agli obblighi e alle prescrizioni conseguenti all'
 
 La persona che, avendo ottenuto l'autorizzazione di cui all'articolo 12, non rientri nel termine stabilito nel comune di soggiorno obbligato, o non osservi le prescrizioni fissate per il viaggio, ovvero si allontani dal comune ove ha chiesto di recarsi, e' punita con la reclusione da due a cinque anni; e' consentito l'arresto anche fuori dei casi di flagranza.
 
-Chiunque violi il divieto di cui all'articolo 3, ((commi 4, 5 e 6-bis)), e' punito con la reclusione da uno a tre anni e con la multa da euro 1.549 a euro 5.164. Gli strumenti, gli apparati, i mezzi e i programmi posseduti o utilizzati sono confiscati ed assegnati alle Forze di polizia, se ne fanno richiesta, per essere impiegati nei compiti di istituto.
+Chiunque violi il divieto ((di cui all'articolo 3, commi 4, 5, 5-bis e 6-bis)), e' punito con la reclusione da uno a tre anni e con la multa da euro 1.549 a euro 5.164. Gli strumenti, gli apparati, i mezzi e i programmi posseduti o utilizzati sono confiscati ed assegnati alle Forze di polizia, se ne fanno richiesta, per essere impiegati nei compiti di istituto.
 
-Il contravventore alle disposizioni di cui all'articolo 2, e' punito con ((la reclusione da sei a diciotto mesi e con la multa fino a 10.000 euro)). ((PERIODO SOPPRESSO DAL D.L. 15 SETTEMBRE 2023, N. 123)).
+Il contravventore alle disposizioni di cui all'articolo 2, e' punito con la reclusione da sei a diciotto mesi e con la multa fino a 10.000 euro. PERIODO SOPPRESSO DAL D.L. 15 SETTEMBRE 2023, N. 123.
 
 Chi non ottempera, nel termine fissato dal tribunale, all'ordine di deposito della cauzione di cui all'articolo 31, ovvero omette di offrire le garanzie sostitutive di cui al comma 3 della medesima disposizione, e' punito con la pena dell'arresto da sei mesi a due anni.
 
@@ -2878,9 +2908,8 @@ Il procuratore generale presso la Corte di cassazione esercita la sorveglianza s
 
 ## Art. 105. — Applicazione di magistrati del pubblico ministero in casi particolari
 
-Per la trattazione dei procedimenti relativi ai delitti indicati nell'articolo 51, comma 3-bis ((e comma 3-quater)), del codice di procedura penale, il procuratore nazionale antimafia ((e antiterrorismo)) puo', quando si tratta di procedimenti di particolare complessita' o che richiedono specifiche esperienze e competenze professionali, applicare temporaneamente alle procure distrettuali i magistrati appartenenti alla Direzione nazionale antimafia ((e antiterrorismo)) e quelli appartenenti alle direzioni distrettuali antimafia ((oltre che quelli addetti presso le procure distrettuali alla trattazione di procedimenti in materia di terrorismo anche internazionale)) nonche', con il loro consenso, magistrati di altre procure della Repubblica presso i tribunali.
-L'applicazione e' disposta anche quando sussistono protratte vacanze di organico, inerzia nella conduzione delle indagini, ovvero specifiche e contingenti esigenze investigative o processuali.
-L'applicazione e' disposta con decreto motivato. Il decreto e' emesso sentiti i procuratori generali e i procuratori della Repubblica interessati. Quando si tratta di applicazioni alla procura distrettuale avente sede nel capoluogo del medesimo distretto, il decreto e' emesso dal procuratore generale presso la corte di appello. In tal caso il provvedimento e' comunicato al procuratore nazionale antimafia ((e antiterrorismo)).
+Per la trattazione dei procedimenti relativi ai delitti indicati nell'articolo 51, comma 3-bis e comma 3-quater, del codice di procedura penale ((anche quando riguardano minorenni,)), il procuratore nazionale antimafia e antiterrorismo puo', quando si tratta di procedimenti di particolare complessita' o che richiedono specifiche esperienze e competenze professionali, applicare temporaneamente alle procure distrettuali ((e alle procure minorili)) i magistrati appartenenti alla Direzione nazionale antimafia e antiterrorismo e quelli appartenenti alle direzioni distrettuali antimafia oltre che quelli addetti presso le procure distrettuali alla trattazione di procedimenti in materia di terrorismo anche internazionale nonche', con il loro consenso, magistrati di altre procure della Repubblica presso i tribunali. L'applicazione e' disposta anche quando sussistono protratte vacanze di organico, inerzia nella conduzione delle indagini, ovvero specifiche e contingenti esigenze investigative o processuali. L'applicazione e' disposta con decreto motivato. Il decreto e' emesso sentiti i procuratori generali e i procuratori della Repubblica interessati.
+Quando si tratta di applicazioni alla procura distrettuale ((e alla procura minorile)) avente sede nel capoluogo del medesimo distretto, il decreto e' emesso dal procuratore generale presso la corte di appello. In tal caso il provvedimento e' comunicato al procuratore nazionale antimafia e antiterrorismo.
 
 L'applicazione non puo' superare la durata di un anno. Nei casi di necessita' dell'ufficio al quale il magistrato e' applicato, puo' essere rinnovata per un periodo non superiore a un anno.
 

@@ -8,9 +8,9 @@ codice_redazionale: 003G0053
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2024-12-17
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-11-12
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -21,13 +21,13 @@ rifiuti.
 
 Entrata in vigore del decreto: 27-3-2003
 
-## Art. 1. — (( (Finalita').))
+## Art. 1. — Finalita'
 
-((
+
 
 Il presente decreto garantisce una progressiva riduzione del collocamento in discarica dei rifiuti, in particolare di quelli idonei al riciclaggio o al recupero di altro tipo, al fine di sostenere la transizione verso un'economia circolare e adempiere i requisiti degli articoli 179 e 182 del decreto legislativo 3 aprile 2006, n. 152, e di prevedere, mediante requisiti operativi e tecnici per i rifiuti e le discariche, misure, procedure e orientamenti volti a prevenire o a ridurre il piu' possibile le ripercussioni negative sull'ambiente, in particolare l'inquinamento delle acque superficiali, delle acque di falda, del suolo e dell'aria, sul patrimonio agroalimentare, culturale e il paesaggio, e sull'ambiente globale, compreso l'effetto serra, nonche' i rischi per la salute umana risultanti dalle discariche di rifiuti, durante l'intero ciclo di vita della discarica.
 
-Si considerano soddisfatti i requisiti pertinenti del decreto legislativo 4 marzo 2014, n. 46, se sono soddisfatti i requisiti del presente decreto.
+((COMMA ABROGATO DAL D.LGS. 28 SETTEMBRE 2026, N. 197)).
 
 ## Art. 2. — (Definizioni)
 

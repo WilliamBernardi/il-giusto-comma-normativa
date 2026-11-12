@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2017-05-29;95
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-04-25
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-08
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -632,7 +632,18 @@ I medici veterinari di Polizia hanno le seguenti attribuzioni:
                             
                                 c-quinquies)
                                 
-                                    al fine di assicurare l'integrale copertura dei complessivi posti annualmente disponibili per tutti i concorsi di cui alle lettere c), c-bis), c-ter),
+                                    al fine di assicurare l'integrale copertura dei complessivi posti annualmente disponibili per tutti i concorsi di cui alle lettere c ), c-bis ), c-ter ), ((c-sexies ) )) e d ), in caso di mancata immissione in ruolo, in ciascuna annualita', del previsto numero di vice ispettori vincitori di singole procedure concorsuali, s'intendono corrispondentemente ampliati i posti disponibili per i candidati risultati idonei nell'ambito della procedura concorsuale relativa alla stessa annualita' giunta per ultima a conclusione. I candidati beneficiari dell'ampliamento di cui al primo periodo, qualora per esigenze organizzative e logistiche non possano essere avviati al medesimo ciclo del corso di formazione a cui sono avviati i vincitori della stessa procedura concorsuale, sono avviati ad un apposito corso di formazione o al primo corso di formazione utile, con decorrenza giuridica ed economica dal giorno successivo al termine del corso; 
+
+                                
+                            
+                            
+                                c-sexies)
+                                
+                                    
+                                        ((alla copertura)) dei posti riservati al concorso interno per l'accesso alla qualifica di vice ispettore, disponibili alla data del 31 dicembre dell'anno precedente, si provvede mediante ulteriori concorsi, da bandire, rispettivamente, entro il 31 dicembre ((degli anni 2026 e 2027)) secondo i seguenti criteri: 
+ 1) per il cinquanta per cento, attraverso concorso per titoli riservato al personale del ruolo dei sovrintendenti in servizio alla data di scadenza del termine per la presentazione della domanda di partecipazione a ciascun concorso, di cui il cinquanta per cento del predetto cinquanta per cento riservato ai sovrintendenti capo, in servizio alla medesima data. Nell'ambito dei posti riservati ai sovrintendenti capo, il cinquanta per cento e' riservato a quelli che hanno acquisito la predetta qualifica secondo le permanenze nelle qualifiche previste il giorno precedente alla data di entrata in vigore del presente decreto legislativo; 
+ 2) per il cinquanta per cento, al personale della Polizia di Stato che espleta funzioni di polizia, di cui ((all'articolo 27, comma 1, lettera b) )), del decreto del Presidente della Repubblica n. 335 del 1982, secondo le modalita' ivi previste. 
+
                                 
                             
                             
@@ -5446,11 +5457,7 @@ Ai sovrintendenti capo e ai sovrintendenti capo tecnici che al 1° gennaio 2020 
 
 Ai sostituti commissari e ai sostituti commissari tecnici in possesso della qualifica al 1° gennaio 2020 a cui non sono state applicate le disposizioni di cui ai commi 14-septies, 14-octies e 14-nonies del presente articolo, in assenza dei motivi ostativi di cui all'articolo 23, comma 5, del decreto legislativo 30 ottobre 1992, n. 443, e' attribuita la denominazione di «coordinatore» con decorrenza, in deroga alle disposizioni di cui al comma 4, dal compimento di due anni di effettivo servizio nella qualifica. Ai sostituti commissari e ai sostituti commissari tecnici in servizio al 1° gennaio 2020, che, entro la stessa data, hanno maturato nella qualifica un'anzianita' pari o superiore a due anni e' attribuita la denominazione di «coordinatore» con decorrenza, in deroga alle disposizioni di cui al precedente comma 4 dalla stessa data.
 
-((14-sexiesdecies. Nell'anno 2026))
-
-((...))
-
-((,))
+((Nell'anno 2026)) e nell'anno 2027 sono banditi, rispettivamente, due concorsi straordinari ((...)) per titoli, ciascuno per 350 posti di ispettore superiore ((,)) riservati al personale appartenente, alla data del bando che indice ciascun concorso, al ruolo degli ispettori della Polizia penitenziaria, le cui modalita' di svolgimento sono stabilite con decreto del capo del Dipartimento dell'Amministrazione penitenziaria.
 
 Nell'anno 2020 e' bandito un concorso straordinario, per titoli, per 150 posti di sostituto commissario, riservato al personale in possesso della qualifica di ispettore superiore alla data del bando che indice il concorso e che, al 31 dicembre 2016, rivestiva la qualifica di ispettore capo. Con decreto del Capo del Dipartimento dell'Amministrazione penitenziaria sono stabilite le modalita' di svolgimento del concorso, con adeguata valorizzazione dell'ammissione con riserva al concorso da ispettore superiore bandito nell'anno 2003. I vincitori del concorso sono ammessi alla procedura per l'attribuzione della denominazione di "coordinatore" con decorrenza non antecedente al 1° gennaio 2027.
 
@@ -6679,7 +6686,7 @@ Per i dirigenti delle Forze di polizia a ordinamento militare e per i dirigenti 
                             
                                 a)
                                 
-                                    il trattamento accessorio: 
+                                    il trattamento ((economico)) accessorio: 
 
                                 
                             
@@ -6721,8 +6728,16 @@ Per i dirigenti delle Forze di polizia a ordinamento militare e per i dirigenti 
                             
                                 g)
                                 
-                                    il trattamento di missione e di trasferimento; 
+                                    il trattamento ((economico)) di missione e di trasferimento; 
 
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((l'istituzione dei fondi integrativi del Servizio sanitario nazionale, ai sensi dell'articolo 9, del decreto legislativo 19 giugno 1999, n. 229;))
+                                    
                                 
                             
                             
@@ -6752,7 +6767,7 @@ All'attuazione del presente comma si provvede nei limiti della quota parte di ri
 
 Fino all'adozione, rispettivamente, del primo decreto di recepimento delle procedure negoziali di cui al comma 1 e del decreto di cui al comma 6, ovvero del primo decreto di recepimento delle procedure negoziali di cui al comma 1-bis, al personale dirigente delle Forze di polizia ad ordinamento civile ed a quello delle Forze di polizia ad ordinamento militare e delle Forze armate continuano ad applicarsi le disposizioni vigenti.
 
-((Fermo restando quanto previsto dal comma 2, lettera f), del presente articolo, il personale con qualifica dirigenziale o equiparata che svolge attivita' sindacale per le organizzazioni dichiarate rappresentative puo' continuare a fruire dei permessi e dei distacchi, nell'ambito del contingente complessivamente assegnato per i comparti di contrattazione, anche dopo l'adozione, rispettivamente, del primo decreto di recepimento delle procedure negoziali di cui al comma 1 e del decreto di cui al comma 6, ovvero del primo decreto di recepimento delle procedure negoziali di cui al comma 1-bis)).
+Fermo restando quanto previsto dal comma 2, lettera f), del presente articolo, il personale con qualifica dirigenziale o equiparata che svolge attivita' sindacale per le organizzazioni dichiarate rappresentative puo' continuare a fruire dei permessi e dei distacchi, nell'ambito del contingente complessivamente assegnato per i comparti di contrattazione, anche dopo l'adozione, rispettivamente, del primo decreto di recepimento delle procedure negoziali di cui al comma 1 e del decreto di cui al comma 6, ovvero del primo decreto di recepimento delle procedure negoziali di cui al comma 1-bis.
 
 ## Art. 47. — Abrogazioni
 

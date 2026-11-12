@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2017-05-25;75
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-01-01
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-10-24
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -943,7 +943,7 @@ All'articolo 3, comma 2, del decreto legislativo n. 165 del 2001, dopo le parole
 
 Al fine di perseguire la progressiva armonizzazione dei trattamenti economici accessori del personale delle amministrazioni di cui all'articolo 1, comma 2 del decreto legislativo 30 marzo 2001, n. 165, la contrattazione collettiva nazionale, per ogni comparto o area di contrattazione opera, tenuto conto delle risorse di cui al comma 2, la graduale convergenza dei medesimi trattamenti anche mediante la differenziata distribuzione, distintamente per il personale dirigenziale e non dirigenziale, delle risorse finanziarie destinate all'incremento dei fondi per la contrattazione integrativa di ciascuna amministrazione.
 
-Nelle more di quanto previsto dal comma 1, al fine di assicurare la semplificazione amministrativa, la valorizzazione del merito, la qualita' dei servizi e garantire adeguati livelli di efficienza ed economicita' dell'azione amministrativa, assicurando al contempo l'invarianza della spesa, a decorrere dal 1° gennaio 2017, l'ammontare complessivo delle risorse destinate annualmente al trattamento accessorio del personale, anche di livello dirigenziale, di ciascuna delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, non puo' superare il corrispondente importo determinato per l'anno 2016. A decorrere dalla predetta data l'articolo 1, comma 236, della legge 28 dicembre 2015, n. 208 e' abrogato. Per gli enti locali che non hanno potuto destinare nell'anno 2016 risorse aggiuntive alla contrattazione integrativa a causa del mancato rispetto del patto di stabilita' interno del 2015, l'ammontare complessivo delle risorse di cui al primo periodo del presente comma non puo' superare il corrispondente importo determinato per l'anno 2015, ridotto in misura proporzionale alla riduzione del personale in servizio nell'anno 2016.(3) (4) (8) (10) (11) (13) (16) (19) (28) (31) (34) (33) (37) (38) (40) (41) ((45))
+Nelle more di quanto previsto dal comma 1, al fine di assicurare la semplificazione amministrativa, la valorizzazione del merito, la qualita' dei servizi e garantire adeguati livelli di efficienza ed economicita' dell'azione amministrativa, assicurando al contempo l'invarianza della spesa, a decorrere dal 1° gennaio 2017, l'ammontare complessivo delle risorse destinate annualmente al trattamento accessorio del personale, anche di livello dirigenziale, di ciascuna delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, non puo' superare il corrispondente importo determinato per l'anno 2016. A decorrere dalla predetta data l'articolo 1, comma 236, della legge 28 dicembre 2015, n. 208 e' abrogato. Per gli enti locali che non hanno potuto destinare nell'anno 2016 risorse aggiuntive alla contrattazione integrativa a causa del mancato rispetto del patto di stabilita' interno del 2015, l'ammontare complessivo delle risorse di cui al primo periodo del presente comma non puo' superare il corrispondente importo determinato per l'anno 2015, ridotto in misura proporzionale alla riduzione del personale in servizio nell'anno 2016.(3) (4) (8) (10) (11) (13) (16) (19) (28) (31) (34) (33) (37) (38) (40) (41) (45) ((46))
 
 Fermo restando il limite delle risorse complessive previsto dal comma 2, le regioni e gli enti locali, con esclusione degli enti del Servizio sanitario nazionale, possono destinare apposite risorse alla componente variabile dei fondi per il salario accessorio, anche per l'attivazione dei servizi o di processi di riorganizzazione e il relativo mantenimento, nel rispetto dei vincoli di bilancio e delle vigenti disposizioni in materia di vincoli della spesa di personale e in coerenza con la normativa contrattuale vigente per la medesima componente variabile.
 
@@ -1061,7 +1061,15 @@ Le disposizioni del presente comma si applicano con riferimento alle convenzioni
                             ---------------
                             AGGIORNAMENTO (45)
                             
- La L. 30 dicembre 2025, n. 199 ha disposto che "in deroga all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75, il fondo di cui all'articolo 3 della legge 22 luglio 1978, n. 385, e' determinato a decorrere dall'anno 2026 in euro 32.030.899".
+ La L. 30 dicembre 2025, n. 199 ha disposto che "in deroga all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75, il fondo di cui all'articolo 3 della legge 22 luglio 1978, n. 385, e' determinato a decorrere dall'anno 2026 in euro 32.030.899". 
+                            ---------------
+                            AGGIORNAMENTO (46)
+                            
+ Il D.L. 23 ottobre 2026, n. 193, ha disposto (con l'art. 8, comma 1) che "Al fine di garantire il soddisfacimento delle esigenze di tutela dell'ordine e della sicurezza pubblica, e' autorizzata la spesa complessiva di 50 milioni di euro per l'anno 2026 destinata alla remunerazione delle prestazioni di lavoro straordinario gia' svolte dal personale delle Forze di polizia di cui all'articolo 16 della legge 1° aprile 1981, n. 121, in deroga all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75, secondo la seguente ripartizione: 
+ a) Polizia di Stato: 24 milioni di euro; 
+ b) Arma dei carabinieri: 15 milioni di euro; 
+ c) Corpo della guardia di finanza: 9 milioni di euro; 
+ d) Corpo di polizia penitenziaria: 2 milioni di euro".
 
 ## Art. 24. — Clausola di invarianza finanziaria
 

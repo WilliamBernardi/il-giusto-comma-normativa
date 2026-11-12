@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2024-03-28;45
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-04-21
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-26
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -25,7 +25,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della gi
 
 ## Art. 1. — Ambito applicativo
 
-Le disposizioni del presente decreto si applicano ai magistrati ordinari, amministrativi e contabili.
+Le disposizioni del presente decreto si applicano ((ai magistrati ordinari, amministrativi, contabili e tributari)).
 
 ## Art. 2. — Incarichi esercitabili esclusivamente fuori ruolo
 
@@ -261,7 +261,7 @@ A seguito della richiesta di autorizzazione al collocamento fuori ruolo, l'organ
 
 ## Art. 11. — Limiti di permanenza fuori ruolo
 
-I magistrati ordinari, amministrativi e contabili non possono essere collocati fuori ruolo per un tempo che superi complessivamente sette anni.
+) non possono essere collocati fuori ruolo per un tempo che superi complessivamente sette anni.
 
 Per tutti gli incarichi di cui all'articolo 4, comma 4, lettere b), c) ed e), il tempo trascorso fuori ruolo non puo' superare complessivamente dieci anni.
 
@@ -326,13 +326,13 @@ In deroga a quanto previsto dai commi 1, 2 e 3, la durata del precedente incaric
 
 Le disposizioni di cui al comma 3-bis si applicano anche agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento gia' conferiti o da conferire fino al 31 dicembre 2029 presso i Ministeri titolari di interventi previsti nel PNRR, ovvero nel Piano nazionale per gli investimenti complementari al PNRR di cui all'articolo 1 del decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1° luglio 2021, n. 101.
 
-Le disposizioni di cui all'articolo 13 e all'articolo 17, comma 2, non si applicano sino al 31 dicembre 2029. Nelle more dell'applicabilita' delle disposizioni di cui agli articoli 13 e 17, comma 2 ((,)) e al fine di garantire il rispetto della dotazione organica complessiva, il limite dei magistrati ordinari destinati a funzioni non giudiziarie, indicati alla lettera M) della Tabella B allegata alla legge 5 marzo 1991, n. 71 ((,)) e' rideterminato nel numero di 200 fino al 31 dicembre 2029 e il limite dei magistrati indicati alla lettera L) della medesima tabella e' rideterminato nel numero di 9.981 fino al 30 giugno 2026 e nel numero di 10.039 fino al ((31 dicembre 2029)).
+Le disposizioni di cui all'articolo 13 e all'articolo 17, comma 2, non si applicano sino al 31 dicembre 2029. Nelle more dell'applicabilita' delle disposizioni di cui agli articoli 13 e 17, comma 2, e al fine di garantire il rispetto della dotazione organica complessiva, il limite dei magistrati ordinari destinati a funzioni non giudiziarie, indicati alla lettera M) della Tabella B allegata alla legge 5 marzo 1991, n. 71, e' rideterminato nel numero di 200 fino al 31 dicembre 2029 e il limite dei magistrati indicati alla lettera L) della medesima tabella e' rideterminato nel numero di ((10.039 fino al 30 giugno 2027 e nel numero di 10.064 fino al 31 dicembre 2029)).
 
 ## Art. 16. — Limiti di applicazione della legge 6 novembre 2012, n. 190
 
-Salvo quanto previsto dall'articolo 15, commi 2 e 3, dalla data di entrata in vigore del presente decreto le disposizioni di cui all'articolo 1, comma 68, primo periodo, e commi da 69 a 72, della legge 6 novembre 2012, n. 190, non si applicano ai magistrati ordinari, amministrativi e contabili.
+Salvo quanto previsto dall'articolo 15, commi 2 e 3, dalla data di entrata in vigore del presente decreto le disposizioni di cui all'articolo 1, comma 68, primo periodo, e commi da 69 a 72, della legge 6 novembre 2012, n. 190, non si applicano ((ai magistrati ordinari, amministrativi, contabili e tributari)).
 
-All'articolo 1, comma 68 ((,)) della legge 6 novembre 2012, n. 190, dopo il primo periodo sono inseriti i seguenti: «Ai fini dell'applicazione del primo periodo, non e' mai computata nel termine complessivo la durata degli incarichi conferiti o autorizzati e di quelli da conferire o autorizzare presso la Presidenza della Repubblica, la Corte costituzionale, il Parlamento, la Presidenza del Consiglio dei ministri e gli organi di governo autonomo. Le disposizioni del secondo periodo si applicano anche agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento gia' conferiti o da conferire fino al 31 dicembre 2029 presso i Ministeri titolari di interventi previsti nel PNRR, ovvero nel Piano nazionale per gli investimenti complementari al PNRR di cui all'articolo 1 del decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1° luglio 2021, ((n. 101)).
+All'articolo 1, comma 68, della legge 6 novembre 2012, n. 190, dopo il primo periodo sono inseriti i seguenti: «Ai fini dell'applicazione del primo periodo, non e' mai computata nel termine complessivo la durata degli incarichi conferiti o autorizzati e di quelli da conferire o autorizzare presso la Presidenza della Repubblica, la Corte costituzionale, il Parlamento, la Presidenza del Consiglio dei ministri e gli organi di governo autonomo. Le disposizioni del secondo periodo si applicano anche agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento gia' conferiti o da conferire fino al 31 dicembre 2029 presso i Ministeri titolari di interventi previsti nel PNRR, ovvero nel Piano nazionale per gli investimenti complementari al PNRR di cui all'articolo 1 del decreto-legge 6 maggio 2021, n. 59, convertito, con modificazioni, dalla legge 1° luglio 2021, n. 101.
 
 ## Art. 17. — Abrogazioni e disposizioni di coordinamento
 

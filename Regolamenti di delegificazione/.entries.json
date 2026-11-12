@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-11",
+  "zip_date": "2026-11-12",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19671222_1518/1968-06-06_067U1518_VIGENZA_2025-07-02_V0.xml": {
       "sha256": "c1560363a5beb4dbdb74fc07739d46510b65e30be9479e18c9c7e8d7fe694be2",
@@ -1326,8 +1326,8 @@
       "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-89.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;89"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_90/2007-07-10_007G0102_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "85da17a044e5568320b00f483e21f89c4a7049358a6071a91c9d935df6e032c2",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_90/2007-07-10_007G0102_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "2cc4a02666ecc152b5bf30309d1851bf3d64f67d4520e21bd363cadef54484a0",
       "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-90.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;90"
     },

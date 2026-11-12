@@ -8,9 +8,9 @@ codice_redazionale: 009G0190
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-02-20
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-26
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -237,7 +237,7 @@ Il Comitato di gestione dura in carica quattro anni.
 
 ## Art. 7. — Il Presidente
 
-Il Presidente e' nominato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la pubblica amministrazione, ed e' scelto tra i magistrati amministrativi, ordinari e contabili, tra gli avvocati dello Stato o tra professori universitari ordinari, tra alti dirigenti dello Stato di particolare e comprovata qualificazione o tra altri soggetti parimenti dotati di particolare e comprovata qualificazione professionale, che abbiano diretto per almeno un quinquennio istituzioni pubbliche di alta formazione o ricerca, ovvero per almeno dieci anni, anche non continuativamente, istituzioni private di alta formazione riconosciute dal Ministero dell'universita' e della ricerca.
+Il Presidente e' nominato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la pubblica amministrazione, ed e' scelto tra i ((magistrati amministrativi, ordinari, contabili e tributari)), tra gli avvocati dello Stato o tra professori universitari ordinari, tra alti dirigenti dello Stato di particolare e comprovata qualificazione o tra altri soggetti parimenti dotati di particolare e comprovata qualificazione professionale, che abbiano diretto per almeno un quinquennio istituzioni pubbliche di alta formazione o ricerca, ovvero per almeno dieci anni, anche non continuativamente, istituzioni private di alta formazione riconosciute dal Ministero dell'universita' e della ricerca.
 
 Il Presidente dura in carica quattro anni e puo' essere confermato una sola volta. Se dipendente statale o docente universitario, per l'intera durata dell'incarico, e' collocato nella posizione di fuori ruolo, di aspettativa o di comando, secondo i rispettivi ordinamenti.
 
@@ -245,11 +245,9 @@ Il Presidente e' vertice dell'istituzione, ne ha la rappresentanza legale e pres
 
 Il Presidente si avvale di un Comitato scientifico consultivo, da lui presieduto, composto da rappresentanti di altre Scuole nazionali ed internazionali, pubbliche e private; da studiosi di chiara fama; da alti dirigenti delle amministrazioni pubbliche e disciplinato con delibera del Comitato di gestione. Il Comitato scientifico consultivo e' nominato con decreto del Ministro per la pubblica amministrazione, su proposta del Presidente della Scuola. Il Comitato scientifico consultivo svolge funzioni consultive nelle materie che il Presidente intende sottoporre alla sua attenzione e favorisce il raccordo tra le attivita' formative della Scuola e di altri istituti di alta formazione nazionali ed internazionali. La partecipazione alle riunioni non da' titolo ad emolumenti, compensi ovvero rimborsi di qualsiasi tipo.
 
-((
-
 Il Presidente nomina un Vicepresidente che lo sostituisce in caso di assenza o impedimento e svolge le funzioni delegategli dal Presidente.
 
-4-ter. Il Vicepresidente e' scelto tra le medesime categorie di soggetti di cui al comma 1. L'incarico del Vicepresidente cessa con la nomina del nuovo Presidente. Il Vicepresidente puo' essere confermato per una sola volta. Se dipendente pubblico o docente universitario, per l'intera durata dell'incarico, se svolto a tempo pieno, e' collocato nella posizione di fuori ruolo, di aspettativa o di comando, secondo i rispettivi ordinamenti. Ove l'incarico non sia a tempo pieno, e' svolto conformemente ai rispettivi ordinamenti di appartenenza, senza collocamento in una delle predette posizioni))
+Il Vicepresidente e' scelto tra le medesime categorie di soggetti di cui al comma 1. L'incarico del Vicepresidente cessa con la nomina del nuovo Presidente. Il Vicepresidente puo' essere confermato per una sola volta. Se dipendente pubblico o docente universitario, per l'intera durata dell'incarico, se svolto a tempo pieno, e' collocato nella posizione di fuori ruolo, di aspettativa o di comando, secondo i rispettivi ordinamenti. Ove l'incarico non sia a tempo pieno, e' svolto conformemente ai rispettivi ordinamenti di appartenenza, senza collocamento in una delle predette posizioni.
 
 ## Art. 8. — (Segretario Generale)
 
@@ -330,7 +328,7 @@ I responsabili di settore sono posti obbligatoriamente in posizione di fuori ruo
 ## Art. 10. — I docenti della scuola
 
 I docenti a tempo pieno della Scuola sono nominati dal Presidente, sentito il Comitato di gestione, in numero non superiore a trenta, con propria delibera, secondo la procedura di cui all'articolo 15, per un periodo non superiore a due anni rinnovabile.
-Essi sono scelti tra professori universitari, dirigenti di amministrazioni pubbliche e private, magistrati ordinari, amministrativi e contabili, avvocati dello Stato e consiglieri parlamentari e tra altri soggetti, anche stranieri, in possesso di elevata e comprovata qualificazione professionale, secondo criteri oggettivi di individuazione stabiliti nelle delibere di cui all'articolo 15. Per l'espletamento dei suddetti incarichi i docenti sono collocati in posizione di fuori ruolo, comando o aspettativa dalle rispettive amministrazioni di appartenenza.
+Essi sono scelti tra professori universitari, dirigenti di amministrazioni pubbliche e private, ((magistrati ordinari, amministrativi, contabili e tributari)), avvocati dello Stato e consiglieri parlamentari e tra altri soggetti, anche stranieri, in possesso di elevata e comprovata qualificazione professionale, secondo criteri oggettivi di individuazione stabiliti nelle delibere di cui all'articolo 15. Per l'espletamento dei suddetti incarichi i docenti sono collocati in posizione di fuori ruolo, comando o aspettativa dalle rispettive amministrazioni di appartenenza.
 
 I docenti a tempo pieno della Scuola, in posizione di comando, aspettativa o fuori ruolo, per il tempo dell'incarico conservano il trattamento economico in godimento.
 
@@ -338,7 +336,7 @@ La Scuola si avvale, inoltre, di docenti incaricati, anche temporaneamente, di a
 
 COMMA ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70.
 
-Gli incarichi temporanei di cui ai commi 3 e 4 sono conferiti dal Presidente, sentiti il ((Segretario Generale)) e i responsabili di settore, con le modalita' stabilite nelle delibere di nomina.
+Gli incarichi temporanei di cui ai commi 3 e 4 sono conferiti dal Presidente, sentiti il Segretario Generale e i responsabili di settore, con le modalita' stabilite nelle delibere di nomina.
 
 ## Art. 11. — Altri incarichi
 

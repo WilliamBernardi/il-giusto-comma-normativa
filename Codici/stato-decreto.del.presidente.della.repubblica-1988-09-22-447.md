@@ -8,9 +8,9 @@ codice_redazionale: 088G0492
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-08-21
-zip_date: 2026-09-23
-fetched_at: 2026-09-23
+vigenza_date: 2026-10-31
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -7020,6 +7020,24 @@ Nei casi di cui ai commi 1 e 2, le disposizioni degli articoli 132, comma 2, e 2
 
 ((3-bis. Nei casi di cui agli articoli 589-bis e 590-bis del codice penale, qualora il conducente rifiuti di sottoporsi agli accertamenti dello stato di ebbrezza alcolica ovvero di alterazione correlata all'uso di sostanze stupefacenti o psicotrope, se vi e' fondato motivo di ritenere che dal ritardo possa derivare grave o irreparabile pregiudizio alle indagini, il decreto di cui al comma 2 e gli ulteriori provvedimenti ivi previsti possono, nei casi di urgenza, essere adottati anche oralmente e successivamente confermati per iscritto. Gli ufficiali di polizia giudiziaria procedono all'accompagnamento dell'interessato presso il piu' vicino presidio ospedaliero al fine di sottoporlo al necessario prelievo o accertamento e si procede all'esecuzione coattiva delle operazioni se la persona rifiuta di sottoporvisi. Del decreto e delle operazioni da compiersi e' data tempestivamente notizia al difensore dell'interessato, che ha facolta' di assistervi, senza che cio' possa comportare pregiudizio nel compimento delle operazioni. Si applicano le previsioni di cui ai commi 1 e 2 dell'articolo 365. Entro le quarantotto ore successive, il pubblico ministero richiede la convalida del decreto e degli eventuali ulteriori provvedimenti al giudice per le indagini preliminari, che provvede al piu' presto e comunque entro le quarantotto ore successive, dandone immediato avviso al pubblico ministero e al difensore. Le operazioni devono sempre svolgersi nel rispetto delle condizioni previste dai commi 4 e 5 dell'articolo 224-bis))
 
+## Art. 359-ter. — (( (Identificazione e localizzazione mediante sistemi di intelligenza artificiale per l'identificazione biometrica remota in tempo reale).))
+
+
+
+((Quando occorre procedere alla ricerca di un latitante ai fini dell'esecuzione di un'ordinanza che dispone una misura cautelare coercitiva per uno dei delitti indicati al comma 1, ovvero di un ordine di esecuzione non sospeso che dispone la carcerazione per i medesimi delitti, puo' essere autorizzata la localizzazione della persona ricercata tramite identificazione biometrica remota in tempo reale con l'uso di sistemi di intelligenza artificiale, procedendo al confronto dei suoi dati biometrici con quelli di individui memorizzati in una banca dati di riferimento.))
+
+((Nei casi di cui ai commi 1 e 2, il confronto biometrico avviene esclusivamente con una banca dati di riferimento adeguata per ciascuna delle finalita' di cui ai medesimi commi, contenente i dati biometrici e le relative informazioni identificative, ove disponibili, riferiti alle persone, anche non identificate, di cui ai medesimi commi 1 e 2. La banca dati di cui al primo periodo puo' essere derivata da dati contenuti in banche dati in uso alla polizia giudiziaria o tenute da altre pubbliche amministrazioni e accessibili alla stessa o all'autorita' giudiziaria, ovvero da immagini, filmati o altri elementi biometrici acquisiti legalmente nell'ambito delle indagini. Il contenuto della banca dati di cui al primo periodo e' formato appositamente per ciascun utilizzo, con i soli dati biometrici pertinenti alla specifica finalita', che sono cancellati al termine della validita' dell'autorizzazione, in modo da garantire che il set di confronto sia specifico per ciascuna autorizzazione e non sia suscettibile di alimentazione incrementale rispetto alle autorizzazioni pregresse. E' in ogni caso vietato l'uso di banche dati biometriche alimentate, in tutto o in parte, mediante tecniche di scraping non mirato, ovvero costituite in violazione delle disposizioni vigenti in materia di protezione dei dati personali.))
+
+((Con le stesse modalita' di cui ai commi 1, 2 e 3 puo' essere autorizzata la ricerca mirata, nell'ambito di un procedimento penale, di specifiche vittime di sottrazione, tratta di esseri umani o sfruttamento sessuale di esseri umani.))
+
+((Nei casi di cui ai commi da 1 a 4 il pubblico ministero richiede l'autorizzazione all'impiego del sistema di intelligenza artificiale per l'identificazione biometrica remota in tempo reale al giudice per le indagini preliminari.))
+
+((Il giudice per le indagini preliminari autorizza l'impiego del sistema di intelligenza artificiale di cui al comma 5 con decreto motivato. Nel provvedimento di autorizzazione e' delimitata l'area geografica di applicazione, sono indicate le persone specificamente ricercate ed e' determinato il tempo strettamente necessario, che non puo' in ogni caso superare i quindici giorni, prorogabili dal giudice, con decreto motivato, su richiesta del pubblico ministero, per periodi successivi di quindici giorni, qualora permangano le condizioni. L'autorizzazione puo' essere concessa soltanto previa effettuazione delle valutazioni di cui all'articolo 5, paragrafo 2, del regolamento (UE) 2024/1689.))
+
+((Quando ricorrono ragioni di urgenza e vi e' fondato motivo di ritenere che dal ritardo possa derivare pregiudizio grave e irreparabile per le finalita' di cui ai commi da 1 a 4, il pubblico ministero, con provvedimento adottato nel rispetto delle indicazioni di cui al comma 6, secondo periodo, dispone l'utilizzo del sistema di intelligenza artificiale per l'identificazione biometrica remota in tempo reale con decreto motivato. Il decreto e' comunicato immediatamente e comunque non oltre ventiquattro ore al giudice per le indagini preliminari, il quale, se ne ricorrono i presupposti, nelle successive quarantotto ore, convalida il provvedimento e autorizza la prosecuzione. Negli stessi casi di cui al primo periodo, se non sia possibile, per la situazione di urgenza, attendere il provvedimento del pubblico ministero, all'attivazione del sistema di identificazione biometrica remota in tempo reale provvedono gli ufficiali di polizia giudiziaria, i quali, senza ritardo e comunque entro le successive dodici ore, trasmettono la richiesta di autorizzazione al pubblico ministero, il quale, se ne ricorrono i presupposti, richiede al giudice la convalida entro ventiquattro ore dall'avvio del sistema. Il giudice, se ne ricorrono i presupposti, nelle successive quarantotto ore, convalida il provvedimento e autorizza la prosecuzione dell'attivita', con le indicazioni di cui al comma 6.))
+
+((I risultati forniti dai sistemi di intelligenza artificiale non possono essere utilizzati qualora gli stessi siano stati impiegati fuori dei casi consentiti dalla legge o qualora non siano state osservate le disposizioni previste dai commi 6 e 7. In questi casi, tutti i dati personali, i risultati e gli output acquisiti e prodotti sono cancellati, salvo che costituiscano corpo del reato.))
+
 ## Art. 360. — Accertamenti tecnici non ripetibili
 
 Quando gli accertamenti previsti dall'articolo 359 riguardano persone, cose o luoghi il cui stato e' soggetto a modificazione, il pubblico ministero avvisa, senza ritardo, la persona sottoposta alle indagini, la persona offesa dal reato e i difensori del giorno, dell'ora e del luogo fissati per il conferimento dell'incarico e della facolta' di nominare consulenti tecnici.
@@ -7238,7 +7256,7 @@ Salvo quanto disposto dall'articolo 12, il collegamento delle indagini non ha ef
 
 ## Art. 371-bis. — Attivita' di coordinamento del procuratore nazionale antimafia e antiterrorismo).
 
-Il procuratore nazionale antimafia e antiterrorismo esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater e in relazione ai procedimenti di prevenzione antimafia e antiterrorismo. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-bis dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-quater, si avvale altresi' dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi.
+Il procuratore nazionale antimafia e antiterrorismo esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater e in relazione ai procedimenti di prevenzione antimafia e antiterrorismo. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-bis dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-quater, si avvale altresi' dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. ((In ogni caso il procuratore nazionale antimafia e antiterrorismo esercita le attivita' di cui al secondo e al terzo periodo anche al fine di individuare i beni di cui e' consentita la confisca)).
 
 Il procuratore nazionale antimafia e antiterrorismo esercita funzioni di impulso nei confronti dei procuratori distrettuali al fine di rendere effettivo il coordinamento delle attivita' di indagine, di garantire la funzionalita' dell'impiego della polizia giudiziaria nelle sue diverse articolazioni e di assicurare la completezza e tempestivita' delle investigazioni.
 
@@ -7274,7 +7292,9 @@ Il procuratore nazionale antimafia e antiterrorismo esercita funzioni di impulso
 
 Il procuratore nazionale antimafia e antiterrorismo provvede alla avocazione dopo aver assunto sul luogo le necessarie informazioni personalmente o tramite un magistrato della Direzione nazionale antimafia e antiterrorismo all'uopo designato. Salvi casi particolari, il procuratore nazionale antimafia o il magistrato da lui designato non puo' delegare per il compimento degli atti di indagine altri uffici del pubblico ministero. (28)
 
-Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo. ((Le disposizioni di cui al presente comma si applicano altresi' in relazione ai procedimenti per i reati di cui agli articoli 275-bis, 275-ter, 275-quater e 275-quinquies del codice penale e di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286.))
+Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo. Le disposizioni di cui al presente comma si applicano altresi' in relazione ai procedimenti per i reati di cui agli articoli 275-bis, 275-ter, 275-quater e 275-quinquies del codice penale e di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286.
+
+Le disposizioni di cui al presente articolo si applicano anche ai procedimenti a carico di minorenni. In questo caso le funzioni del procuratore nazionale antimafia e antiterrorismo sono esercitate nei confronti del procuratore della Repubblica presso il Tribunale per i minorenni.
 
 -------------
                             AGGIORNAMENTO (28)
@@ -7802,11 +7822,11 @@ Nel reato permanente lo stato di flagranza dura fino a quando non e' cessata la 
 ## Art. 382-bis. — (Arresto in flagranza differita)
 
 Nei casi di cui agli articoli 387-bis, 572 e 612-bis del codice penale, si considera comunque in stato di flagranza colui il quale, sulla base di documentazione videofotografica o di altra documentazione legittimamente ottenuta da dispositivi di comunicazione informatica o telematica, dalla quale emerga inequivocabilmente il fatto, ne risulta autore, sempre che l'arresto sia compiuto non oltre il tempo necessario alla sua identificazione e, comunque, entro le quarantotto ore dal fatto. 
- 1.1. Le disposizioni di cui al comma 1 si applicano, altresi', nei casi di cui agli articoli 452-bis, 452-ter, 452-quater, 452-sexies e 452-quaterdecies del codice penale e nei casi di cui agli articoli 255-bis, 255-ter, 256, commi 1, secondo periodo, 1-bis, 3 e 3-bis, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152.
+ 1.1. Le disposizioni di cui al comma 1 si applicano, altresi', nei casi di cui agli articoli ((419, 420, 420-bis, 635.1)) 452-bis, 452-ter, 452-quater, 452-sexies e 452-quaterdecies del codice penale e nei casi di cui agli articoli 255-bis, 255-ter, 256, commi 1, secondo periodo, 1-bis, 3 e 3-bis, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152.
 
 Le disposizioni di cui al comma 1 si applicano altresi' nei casi di delitti non colposi per i quali e' previsto l'arresto in flagranza, commessi all'interno o nelle pertinenze delle strutture sanitarie o socio-sanitarie residenziali o semiresidenziali, pubbliche o private, in danno di persone esercenti una professione sanitaria o socio-sanitaria nell'esercizio o a causa delle funzioni o del servizio nonche' di chiunque svolga attivita' ausiliarie di cura, assistenza sanitaria o soccorso, funzionali allo svolgimento di dette professioni, nell'esercizio o a causa di tali attivita', ovvero commessi su cose ivi esistenti o comunque destinate al servizio sanitario o socio-sanitario, quando non e' possibile procedere immediatamente all'arresto per ragioni di sicurezza o incolumita' pubblica o individuale ovvero per ragioni inerenti alla regolare erogazione del servizio.
 
-((Le disposizioni di cui al comma 1 si applicano altresi' nei casi di cui all'articolo 192, comma 7-bis, del codice della strada di cui al decreto legislativo 30 aprile 1992, n. 285, quando non e' possibile procedere immediatamente all'arresto per ragioni di sicurezza o incolumita' pubblica o individuale.))
+Le disposizioni di cui al comma 1 si applicano altresi' nei casi di cui all'articolo 192, comma 7-bis, del codice della strada di cui al decreto legislativo 30 aprile 1992, n. 285, quando non e' possibile procedere immediatamente all'arresto per ragioni di sicurezza o incolumita' pubblica o individuale.
 
 ## Art. 383. — Facolta' di arresto da parte dei privati
 
@@ -9374,13 +9394,15 @@ COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
                             
  Il D.Lgs. 7 dicembre 2023, n. 203 ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, gli avvisi di fissazione di udienza preliminare e i decreti che dispongono il giudizio o che citano l'imputato a giudizio sono stati gia' emessi".
 
-## Art. 430. — (( (Attivita' integrativa di indagine del pubblico ministero e del difensore). ))
+## Art. 430. — Attivita' integrativa di indagine del pubblico ministero e del difensore
 
-((
+
 
 Successivamente all'emissione del decreto che dispone il giudizio, il pubblico ministero e il difensore possono, ai fini delle proprie richieste al giudice del dibattimento, compiere attivita' integrativa di indagine, fatta eccezione degli atti pe ri quali e' prevista la partecipazione dell'imputato o del difensore di questo.
 
-La documentazione relativa all'attivita' indicata nel comma 1 e' immediatamente depositata nella segreteria del pubblico ministero con facolta' delle parti di prenderne visione e di estrarne copia)).
+((Il pubblico ministero puo' compiere ogni attivita' di indagine che si renda necessaria al fine di individuare i beni, il denaro o le altre utilita' da sottoporre a confisca obbligatoria nei casi previsti dalla legge.))
+
+La documentazione relativa all'attivita' indicata nel ((commi 1 e 1-bis)) e' immediatamente depositata nella segreteria del pubblico ministero con facolta' delle parti di prenderne visione e di estrarne copia.
 
 ## Art. 430-bis. — ( (Divieto di assumere informazioni
 
@@ -11140,6 +11162,10 @@ Qualora il giudice non abbia provveduto circa le spese, la sentenza e' rettifica
 ## Art. 536. — Pubblicazione della sentenza come effetto della condanna
 
 Nei casi previsti dall'articolo 36 del codice penale, il giudice stabilisce nel dispositivo se la sentenza deve essere pubblicata per intero o per estratto e designa il giornale o i giornali in cui deve essere inserita.
+
+## Art. 536-bis. — (( (Disposizioni in materia di confisca per equivalente).))
+
+
 
 ## Art. 537. — Pronuncia sulla falsita' di documenti
 

@@ -8,9 +8,9 @@ codice_redazionale: 097G0496
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2010-07-31
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -53,7 +53,7 @@ La data di entrata in funzione del nuovo sistema di riscossione e versamento del
  Ciampi, Ministro del tesoro, del bilancio e della programmazione economica
 Visto, il Guardasigilli: Flick
 
-## Art. 3-bis. — (( (Procedure telematiche, modello unico informatico e
+## Art. 3-bis. — (( (Procedure telematiche, modello unico informatico e 
  Autoliquidazione). ))
 
 ((
@@ -71,6 +71,8 @@ Nei comuni nei quali vige il sistema del libro fondiario di cui al regio decreto
 ## Art. 3-ter. — Procedure di controllo sulle autoliquidazioni.
 
 Gli uffici controllano la regolarita' dell'autoliquidazione e del versamento delle imposte e qualora, sulla base degli elementi desumibili dall'atto, risulti dovuta una maggiore imposta, notificano, anche per via telematica, entro il termine di ((sessanta giorni)) dalla presentazione del modello unico informatico, apposito avviso di liquidazione per l'integrazione dell'imposta versata. Il pagamento e' effettuato, da parte dei soggetti di cui all'articolo 10, lettera b), del testo unico delle disposizioni concernenti l'imposta di registro, approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131, entro quindici giorni dalla data della suindicata notifica; trascorso tale termine, sono dovuti gli interessi moratori computati dalla scadenza dell'ultimo giorno utile per la richiesta della registrazione e si applica la sanzione di cui all'articolo 13 del decreto legislativo 18 dicembre 1997, n. 471. Nel caso di dolo o colpa grave nell'autoliquidazione delle imposte, gli uffici segnalano le irregolarita' agli organi di controllo competenti per l'adozione dei conseguenti provvedimenti disciplinari. Per i notai e' ammessa la compensazione di tutte le somme versate in eccesso in sede di autoliquidazione con le imposte dovute per atti di data posteriore, con conseguente esclusione della possibilita' di richiedere il rimborso all'Amministrazione finanziaria.
+
+((Per le formalita' di pubblicita' immobiliare richieste da soggetti diversi da quelli di cui all'articolo 10, lettera b), del testo unico dell'imposta di registro di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, l'ufficio controlla la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risultino dovuti maggiori tributi, l'ufficio notifica, entro i termini di decadenza previsti dall'articolo 17, comma 2, del testo unico delle disposizioni concernenti le imposte ipotecaria e catastale di cui al decreto legislativo 31 ottobre 1990, n. 347, apposito avviso di liquidazione ai soggetti obbligati al pagamento di cui all'articolo 11 del medesimo testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dei tributi nonche' della sanzione amministrativa di cui all'articolo 13 del decreto legislativo 18 dicembre 1997, n. 471, e degli interessi di mora decorrenti dalla data in cui i tributi medesimi avrebbero dovuto essere pagati. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
 
 ## Art. 3-quater. — (( (Modifica alla normativa in materia di imposta di
  registro). ))
@@ -108,34 +110,34 @@ L'imposta e' dovuta in misura cumulativa, all'atto della richiesta di formalita'
 1.
                     
                         
-                            Con regolamento da emanare ai sensi dell'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662, sono apportate le modifiche, conseguenti alla introduzione delle procedure telematiche di cui all'articolo 3-bis, ed e' previsto un unico criterio di arrotondamento degli importi dovuti, alla disciplina in materia di:
+                            Con regolamento da emanare ai sensi dell'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662, sono apportate le modifiche, conseguenti alla introduzione delle procedure telematiche di cui all'articolo 3-bis, ed e' previsto un unico criterio di arrotondamento degli importi dovuti, alla disciplina in materia di: 
  
                         
                         
                             a)
                             
-                                imposta di registro, di cui al testo unico approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131;
+                                imposta di registro, di cui al testo unico approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131; 
 
                             
                         
                         
                             b)
                             
-                                imposte ipotecarie e catastali, di cui al testo unico approvato con decreto legislativo 31 ottobre 1990, n. 347;
+                                imposte ipotecarie e catastali, di cui al testo unico approvato con decreto legislativo 31 ottobre 1990, n. 347; 
 
                             
                         
                         
                             c)
                             
-                                perfezionamento e revisione del sistema catastale di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 650;
+                                perfezionamento e revisione del sistema catastale di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 650; 
 
                             
                         
                         
                             d)
                             
-                                imposta comunale sull'incremento di valore degli immobili, di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 643;
+                                imposta comunale sull'incremento di valore degli immobili, di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 643; 
 
                             
                         

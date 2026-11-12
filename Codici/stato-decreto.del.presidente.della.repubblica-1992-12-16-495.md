@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2025-03-11
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA

@@ -8,9 +8,9 @@ codice_redazionale: 011G0112
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-01-01
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-12
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -32,11 +32,38 @@ Le medesime disposizioni individuano le compartecipazioni delle regioni a statut
 
 Il gettito delle fonti di finanziamento di cui al comma 2 e' senza vincolo di destinazione.
 
-## Art. 2. — Rideterminazione dell'addizionale all'imposta sul reddito delle persone fisiche delle regioni a statuto ordinario.
+## Art. 2. — (( (Attribuzione alle regioni a statuto ordinario di una compartecipazione al gettito dell'imposta sul reddito delle persone fisiche (IRPEF) ). ))
 
-A decorrere dall'anno ((2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)), con riferimento all'anno di imposta precedente, l'addizionale regionale all'imposta sul reddito delle persone fisiche (IRPEF) e' rideterminata con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il ((Ministro per gli affari regionali e le autonomie)), da adottare entro sessanta giorni dall'emanazione del decreto di cui all'articolo 7, comma 2, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di seguito denominata «Conferenza Stato-Regioni», e previo parere delle Commissioni della Camera dei Deputati e del Senato della Repubblica competenti per i profili di carattere finanziario, in modo tale da garantire al complesso delle regioni a statuto ordinario entrate corrispondenti al gettito assicurato dall'aliquota di base vigente alla data di entrata in vigore del presente decreto legislativo, ai trasferimenti statali soppressi ai sensi dell'articolo 7. All'aliquota cosi' rideterminata si aggiungono le percentuali indicate nell'articolo 6, comma 1. Con il decreto di cui al presente comma sono ridotte, per le regioni a statuto ordinario e a decorrere dall'anno di imposta ((2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)), le aliquote dell'IRPEF di competenza statale, mantenendo inalterato il prelievo fiscale complessivo a carico del contribuente.
 
-Salvo quanto previsto dal comma 1, continua ad applicarsi la disciplina relativa all'IRPEF, vigente alla data di entrata in vigore del presente decreto.
+
+((Con il decreto di cui al comma 1 e' stabilita un'aliquota di compartecipazione al gettito dell'IRPEF tale da garantire annualmente al complesso delle regioni a statuto ordinario entrate corrispondenti all'ammontare dei seguenti trasferimenti statali in favore delle medesime regioni che sono soppressi a decorrere dall'anno 2027: a) somme a titolo di quota non sanita' della compartecipazione IVA, ai sensi dell'articolo 1 del decreto legislativo 18 febbraio 2000, n. 56 per 424 milioni di euro annui;b) somma per l'erogazione gratuita di libri di testo, ai sensi dell'articolo 27 della legge 23 dicembre 1998, n. 448, per 110 milioni di euro annui;c) somme a titolo di fondo unico per il welfare dello studente e per il diritto allo studio, ai sensi dell'articolo 9 del decreto legislativo 13 aprile 2017, n. 63, per 34 milioni di euro annui;d) somme a titolo di fondo nazionale per il trasporto pubblico locale, ai sensi dell'articolo 16-bis, comma 1, del decreto-legge 6 luglio 2012, n. 95 per 5.259,6 milioni di euro annui.))
+
+3.
+                        
+                            
+                                
+                                    ((Tenuto conto del gettito derivante dall'applicazione dell'aliquota di compartecipazione di cui al comma 1, al fine di procedere alle regolazioni finanziarie tra lo Stato e le regioni a statuto ordinario correlate allo scostamento tra l'ammontare dei trasferimenti statali soppressi e le entrate derivanti dalla compartecipazione al gettito dell'IRPEF, ai sensi dei commi 1 e 2, e' istituito, nello stato di previsione del Ministero dell'economia e delle finanze, un apposito fondo in favore delle medesime regioni, con dotazione corrispondente, per ciascun anno, alla compartecipazione al gettito dell'IRPEF nel limite dei trasferimenti di cui al comma 2, incrementata, fermo quanto previsto dal secondo periodo, nella misura di 50 milioni di euro per ciascuno degli anni 2028 e successivi. Nelle more dell'aggiornamento della legge di contabilita', fermo quanto previsto dall'articolo 21, comma 1-ter, lettera g), della legge 31 dicembre 2009, n. 196, nel rispetto degli equilibri di finanza pubblica, l'entita' dell'incremento di cui al primo periodo puo' essere stabilita, ai sensi del suddetto articolo 21, nel disegno di legge di bilancio al fine di tenere conto dell'andamento delle entrate e dei risultati ottenuti dalle Regioni in termini di miglioramento di efficienza. Eventuali risorse derivanti dalla compartecipazione all'IRPEF eccedenti l'importo del fondo di cui al primo periodo, come rimodulato ai sensi del secondo periodo, restano acquisite al bilancio dello Stato. Con il decreto di cui al comma 1 sono, altresi', stabiliti, nelle more dell'entrata in vigore della fase di perequazione a regime di cui all'articolo 15, i criteri di assegnazione annuale delle quote del fondo, nonche' i necessari meccanismi che consentano di garantire, nell'ambito della dotazione complessiva del fondo medesimo, forme di perequazione:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((prioritariamente in misura pari alla quota dei trasferimenti statali soppressi, ai sensi del comma 2 e dell'articolo 7;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((per la restante parte, nel rispetto dei percorsi di perequazione e dei costi standard o, nelle more, secondo modalita' individuate dalla Conferenza delle regioni e delle province autonome in sede di auto coordinamento, nel rispetto del terzo comma dell'articolo 119 della Costituzione.))
+
+((Negli ambiti interessati dalla fiscalizzazione dei trasferimenti statali soppressi ai sensi del comma 2 e dell'articolo 7, alle amministrazioni statali e' affidato il coordinamento e il monitoraggio dei livelli essenziali delle prestazioni, dei livelli adeguati di servizio, delle funzioni fondamentali e degli obiettivi di servizio da garantire sull'intero territorio nazionale e il rispetto dei principi di sussidiarieta', differenziazione e adeguatezza di cui all'articolo 118 della Costituzione, secondo le modalita' stabilite con il decreto di cui al comma 1. Nei medesimi ambiti e', comunque, assicurato dalle regioni, anche nell'ambito delle risorse di cui al comma 3, il concorso all'esercizio delle funzioni fondamentali dei comuni, delle province e delle citta' metropolitane, nel rispetto degli articoli 114, 117, comma secondo, lettera p), e 119 della Costituzione. Le finalita' di cui al presente comma, ove necessario, sono assicurate anche attraverso il ricorso all'esercizio del potere sostitutivo di cui all'articolo 120 della Costituzione.))
+
+((Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro per gli affari regionali e le autonomie, da emanarsi entro il 31 ottobre 2028, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sulla base di una metodologia approvata dalla Commissione tecnica per i fabbisogni standard di cui all'articolo 1, comma 29, della legge 28 dicembre 2015, n. 208, entro il 31 luglio 2028, e' disciplinato il monitoraggio periodico degli effetti relativi all'applicazione delle disposizioni dei commi da 1 a 4.))
+
+((In considerazione degli esiti del predetto monitoraggio e al fine di tenere conto della dinamicita' del gettito dell'IRPEF, potra' procedersi, nel rispetto degli equilibri di finanza pubblica, alla revisione delle aliquote di compartecipazione di cui al comma 1.))
 
 ## Art. 3. — Fabbisogno sanitario
 
@@ -49,17 +76,19 @@ Resta altresi' fermo che al finanziamento della spesa sanitaria fino all'anno 20
 
 A ciascuna regione a statuto ordinario spetta una compartecipazione al gettito dell'imposta sul valore aggiunto (IVA).
 
-((Per gli anni dal 2011 al 2026)) l'aliquota di compartecipazione di cui al comma 1 e' calcolata in base alla normativa vigente, al netto di quanto devoluto alle regioni a statuto speciale e delle risorse UE. ((A decorrere dall'anno 2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)) l'aliquota e' determinata con le modalita' previste dall'art. 15, commi 3 e 5, primo periodo, al netto di quanto devoluto alle regioni a statuto speciale e delle risorse UE.
+((Per gli anni dal 2011 fino al termine dell'operativita' transitoria del fondo di cui all'articolo 2, comma 3, ai sensi dell'articolo 15, comma 8-bis, l'aliquota di compartecipazione di cui al comma 1 e' calcolata in base alla normativa vigente, al netto di quanto devoluto alle regioni a statuto speciale e delle risorse UE. A decorrere dall'anno di entrata in vigore della fase di perequazione a regime, ai sensi dell'articolo 15, comma 8-bis, l'aliquota e' determinata con le modalita' previste dall'articolo 15, commi 3 e 5, primo periodo, al netto di quanto devoluto alle regioni a statuto speciale e delle risorse UE.))
 
-((A decorrere dall'anno 2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)) le modalita' di attribuzione del gettito della compartecipazione I.V.A. alle regioni a statuto ordinario sono stabilite in conformita' con il principio di territorialita'. Il principio di territorialita' tiene conto del luogo di consumo, identificando il luogo di consumo con quello in cui avviene la cessione di beni; nel caso dei servizi, il luogo della prestazione puo' essere identificato con quello del domicilio del soggetto fruitore. Nel caso di cessione di immobili si fa riferimento alla loro ubicazione. I dati derivanti dalle dichiarazioni fiscali e da altre fonti informative in possesso dell'Amministrazione economico-finanziaria vengono elaborati per tenere conto delle transazioni e degli acquisti in capo a soggetti passivi con I.V.A. indetraibile e a soggetti pubblici e privati assimilabili, ai fini IVA, a consumatori finali. I criteri di attuazione del presente comma sono stabiliti con decreto di natura non regolamentare del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il ((Ministro per gli affari regionali e le autonomie)), sentite la Conferenza Stato-Regioni e la Commissione tecnica paritetica per l'attuazione del federalismo fiscale oppure, ove effettivamente costituita, la Conferenza permanente per il coordinamento della finanza pubblica e previo parere delle Commissioni della Camera dei Deputati e del Senato della Repubblica competenti per i profili di carattere finanziario. Allo schema di decreto del Presidente del Consiglio dei ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario derivanti dall'attuazione del principio di territorialita'.
+((A decorrere dall'anno di entrata in vigore della fase di perequazione a regime, ai sensi dell'articolo 15, comma 8-bis, le modalita' di attribuzione del gettito della compartecipazione I.V.A. alle regioni a statuto ordinario sono stabilite in conformita' con il principio di territorialita'. Il principio di territorialita' tiene conto del luogo di consumo, identificando il luogo di consumo con quello in cui avviene la cessione di beni; nel caso dei servizi, il luogo della prestazione puo' essere identificato con quello del domicilio del soggetto fruitore. Nel caso di cessione di immobili si fa riferimento alla loro ubicazione. I dati derivanti dalle dichiarazioni fiscali e da altre fonti informative in possesso dell'Amministrazione finanziaria vengono elaborati per tenere conto delle transazioni e degli acquisti in capo a soggetti passivi con I.V.A. indetraibile e a soggetti pubblici e privati assimilabili, ai fini IVA, a consumatori finali. Ai fini dell'applicazione del principio di territorialita' si tiene conto anche dei dati della fatturazione elettronica e della trasmissione telematica dei corrispettivi. I criteri di attuazione del presente comma sono stabiliti con decreto di natura non regolamentare del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro per gli affari regionali e le autonomie, sentite la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano e la Conferenza permanente per il coordinamento della finanza pubblica, previo parere della Commissione tecnica per i fabbisogni standard di cui all'articolo 1, comma 29, della legge 28 dicembre 2015, n. 208, e delle Commissioni parlamentari competenti per i profili di carattere finanziario, che si pronunciano entro il termine di trenta giorni dalla data di trasmissione, decorso il quale il decreto puo' essere comunque adottato. Allo schema di decreto del Presidente del Consiglio dei ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario derivanti dall'attuazione del principio di territorialita'.))
+
+((Nelle more della definizione dell'aliquota di compartecipazione all'IVA di cui all'articolo 15, commi 3 e 5, l'aliquota di cui al comma 2, destinata al finanziamento del settore sanitario, e' stabilita in misura pari a quella individuata annualmente dal decreto del Presidente del Consiglio dei ministri di cui all'articolo 5, comma 1, del decreto legislativo 18 febbraio 2000, n. 56.))
 
 ## Art. 5. — Riduzione dell'imposta regionale sulle attivita' produttive
 
-A decorrere dall'anno 2013 ciascuna regione a statuto ordinario, con propria legge, puo' ridurre le aliquote dell'imposta regionale sulle attivita' produttive (IRAP) fino ad azzerarle e disporre deduzioni dalla base imponibile, nel rispetto della normativa dell'Unione europea e degli orientamenti giurisprudenziali della Corte di giustizia dell'Unione europea. Resta in ogni caso fermo il potere di variazione dell'aliquota di cui all'articolo 16, comma 3, del decreto legislativo 15 dicembre 1997, n. 446.
+A decorrere dall'anno 2013 ciascuna regione a statuto ordinario, con propria legge, puo' ridurre le aliquote dell'imposta regionale sulle attivita' produttive (IRAP) fino ad azzerarle e disporre ((detrazioni e)) deduzioni dalla base imponibile, nel rispetto della normativa dell'Unione europea e degli orientamenti giurisprudenziali della Corte di giustizia dell'Unione europea. Resta in ogni caso fermo il potere di variazione dell'aliquota di cui all'articolo 16, comma 3, del decreto legislativo 15 dicembre 1997, n. 446.
 
 Gli effetti finanziari derivanti dagli interventi di cui al comma 1 sono esclusivamente a carico del bilancio della regione e non comportano alcuna forma di compensazione da parte dei fondi di cui all'articolo 15.
 
-Non puo' essere disposta la riduzione dell'IRAP se la maggiorazione di cui all'articolo 6, comma 1, e' superiore a 0,5 punti percentuali.
+((COMMA ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 147)).
 
 Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel settore sanitario nei casi di squilibrio economico, nonche' le disposizioni in materia di applicazione di incrementi delle aliquote fiscali per le regioni sottoposte ai Piani di rientro dai deficit sanitari.
 
@@ -68,7 +97,8 @@ Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel se
 1.
                         
                             
-                                A decorrere dall'anno 2012 ciascuna regione a Statuto ordinario puo', con propria legge, aumentare o diminuire l'aliquota dell'addizionale regionale all'IRPEF di base. La predetta aliquota di base e' pari a 1,23 per cento sino alla rideterminazione effettuata ai sensi dell'articolo 2, comma 1, primo periodo. La maggiorazione non puo' essere superiore: 
+                                A decorrere dall'anno 2012 ciascuna regione a Statuto ordinario puo', con propria legge, aumentare o diminuire l'aliquota dell'addizionale regionale all'IRPEF di base ((fino ad azzerarla)).
+La predetta aliquota di base e' pari a 1,23 per cento ((...)). La maggiorazione non puo' essere superiore: 
  
                             
                             
@@ -92,16 +122,16 @@ Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel se
 
 Fino al 31 dicembre 2011, rimangono ferme le aliquote della addizionale regionale all'IRPEF delle regioni che, alla data di entrata in vigore del presente decreto, sono superiori alla aliquota di base, salva la facolta' delle medesime regioni di deliberare la loro riduzione fino alla medesima aliquota di base.
 
-Resta fermo il limite della maggiorazione di 0,5 punti percentuali, se la regione abbia disposto la riduzione dell'IRAP. La maggiorazione oltre i 0,5 punti percentuali non trova applicazione sui redditi ricadenti nel primo scaglione di cui all'articolo 11 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; con decreto di natura non regolamentare del Ministro dell'economia e delle finanze sono stabilite le modalita' per l'attuazione del presente periodo. In caso di riduzione, l'aliquota deve assicurare un gettito che, unitamente a quello derivante dagli altri tributi regionali di cui all'articolo 12, comma 2, non sia inferiore all'ammontare dei trasferimenti regionali ai comuni, soppressi in attuazione del medesimo articolo 12.
+((PERIODO SOPPRESSO DAL D.LGS. 7 AGOSTO 2026, N. 147)). La maggiorazione oltre i 0,5 punti percentuali non trova applicazione sui redditi ricadenti nel primo scaglione di cui all'articolo 11 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; con decreto di natura non regolamentare del Ministro dell'economia e delle finanze sono stabilite le modalita' per l'attuazione del presente periodo. In caso di riduzione, l'aliquota deve assicurare un gettito che, unitamente a quello derivante dagli altri tributi regionali di cui all'articolo 12, comma 2, non sia inferiore all'ammontare dei trasferimenti regionali ai comuni, soppressi in attuazione del medesimo articolo 12.
 
-Per assicurare la razionalita' del sistema tributario nel suo complesso e la salvaguardia dei criteri di progressivita' cui il sistema medesimo e' informato, le regioni possono stabilire aliquote dell'addizionale regionale all' IRPEF differenziate esclusivamente in relazione agli scaglioni di reddito corrispondenti a quelli stabiliti dalla legge statale.
+Per assicurare la razionalita' del sistema tributario nel suo complesso e la salvaguardia dei criteri di progressivita' cui il sistema medesimo e' informato, le regioni possono stabilire aliquote dell'addizionale regionale all' IRPEF differenziate esclusivamente in relazione agli scaglioni di reddito corrispondenti a quelli stabiliti dalla legge statale. ((Le regioni possono stabilire una soglia di esenzione in ragione del possesso di specifici requisiti reddituali, intesa come limite di reddito al di sotto del quale l'addizionale regionale all'IRPEF non e' dovuta e al di sopra del quale la stessa si applica al reddito complessivo.))
 
 Le regioni, nell'ambito della addizionale di cui al presente articolo, possono disporre, con propria legge, detrazioni in favore della famiglia, maggiorando le detrazioni previste dall'articolo 12 del citato decreto del Presidente della Repubblica n. 917 del 1986.
 Le regioni adottano altresi' con propria legge misure di erogazione di misure di sostegno economico diretto, a favore dei soggetti IRPEF, il cui livello di reddito e la relativa imposta netta, calcolata anche su base familiare, non consente la fruizione delle detrazioni di cui al presente comma.
 
 Al fine di favorire l'attuazione del principio di sussidiarieta' orizzontale di cui all'articolo 118, quarto comma, della Costituzione, le regioni, nell'ambito della addizionale di cui al presente articolo, possono inoltre disporre, con propria legge, detrazioni dall'addizionale stessa in luogo dell'erogazione di sussidi, voucher, buoni servizio e altre misure di sostegno sociale previste dalla legislazione regionale.
 
-Le disposizioni di cui ai commi 3, 4, 5 e 6 si applicano ((a decorrere dal 2015)).
+Le disposizioni di cui ai commi 3, 4, 5 e 6 si applicano a decorrere dal 2015.
 
 L'applicazione delle detrazioni previste dai commi 5 e 6 e' esclusivamente a carico del bilancio della regione che le dispone e non comporta alcuna forma di compensazione da parte dello Stato. In ogni caso deve essere garantita la previsione di cui al comma 3, ultimo periodo.
 
@@ -109,7 +139,7 @@ La possibilita' di disporre le detrazioni di cui ai commi 5 e 6 e' sospesa per l
 
 Restano fermi gli automatismi fiscali previsti dalla vigente legislazione nel settore sanitario nei casi di squilibrio economico, nonche' le disposizioni in materia di applicazione di incrementi delle aliquote fiscali per le regioni sottoposte ai piani di rientro dai deficit sanitari.
 
-L'eventuale riduzione dell'addizionale regionale all'IRPEF e' esclusivamente a carico del bilancio della regione e non comporta alcuna forma di compensazione da parte dei fondi di cui all'articolo 15.
+L'eventuale riduzione((o azzeramento)) dell'addizionale regionale all'IRPEF ((sono esclusivamente)) a carico del bilancio della regione e non ((comportano)) alcuna forma di compensazione da parte dei fondi di cui all'articolo 15.
 
 -------------
                             AGGIORNAMENTO (2)
@@ -119,9 +149,10 @@ L'eventuale riduzione dell'addizionale regionale all'IRPEF e' esclusivamente a c
 
 ## Art. 7. — Soppressione dei trasferimenti dallo Stato alle regioni a statuto ordinario
 
-) sono soppressi tutti i trasferimenti statali di parte corrente e, ove non finanziati tramite il ricorso all'indebitamento, in conto capitale, alle regioni a statuto ordinario aventi carattere di generalita' e permanenza e destinati all'esercizio delle competenze regionali, ivi compresi quelli finalizzati all'esercizio di funzioni da parte di province e comuni. Le regioni a statuto ordinario esercitano l'autonomia tributaria prevista dagli articoli 5, 6, 8 e 12, comma 2, in modo da assicurare il rispetto dei termini fissati dal presente Capo. Sono esclusi dalla soppressione i trasferimenti relativi al fondo perequativo di cui all'articolo 3, commi 2 e 3, della legge 28 dicembre 1995, n. 549.
+((A decorrere dall'anno 2028, possono essere soppressi ulteriori trasferimenti statali, rispetto a quelli indicati all'articolo 2, comma 2, di parte corrente e, ove non finanziati tramite il ricorso all'indebitamento, in conto capitale, destinati alle regioni a statuto ordinario per l'esercizio delle competenze regionali, aventi carattere di generalita' e permanenza, ivi compresi quelli finalizzati all'esercizio di funzioni da parte di province e comuni.
+Sono esclusi dalla soppressione i trasferimenti relativi al fondo perequativo di cui all'articolo 3, commi 2 e 3, della legge 28 dicembre 1995, n. 549. In tal caso, l'aliquota di compartecipazione all'IRPEF prevista dall'articolo 2, comma 1, e' rideterminata con il decreto di cui al comma 2 e si provvede all'adeguamento del fondo di cui all'articolo 2, comma 3.))
 
-Con decreto del Presidente del Consiglio dei Ministri, adottato, sulla base delle valutazioni della Commissione tecnica paritetica per l'attuazione del federalismo fiscale ovvero, ove effettivamente costituita, della Conferenza permanente per il coordinamento della finanza pubblica, ((entro il 31 dicembre 2023)), su proposta del Ministro dell'economia e delle finanze, di concerto con il ((Ministro per gli affari regionali e le autonomie)), sentita la Conferenza unificata e previo parere delle Commissioni della Camera dei Deputati e del Senato della Repubblica competenti per i profili di carattere finanziario, sono individuati i trasferimenti statali di cui al comma 1. Con ulteriore decreto adottato con le modalita' previste dal primo periodo possono essere individuati ulteriori trasferimenti suscettibili di soppressione. Allo schema di decreto del Presidente del Consiglio dei ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario.
+((I trasferimenti statali di cui al comma 1 sono individuati con decreto del Presidente del Consiglio dei ministri, adottato, sulla base delle valutazioni della Commissione tecnica fabbisogni standard di cui all'articolo 1, comma 29, della legge 28 dicembre 2015, n. 208 e della Conferenza permanente per il coordinamento della finanza pubblica, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro per gli affari regionali e le autonomie, sentita la Conferenza unificata e previo parere delle Commissioni della Camera dei deputati e del Senato della Repubblica competenti per i profili di carattere finanziario. Allo schema di decreto del Presidente del Consiglio dei ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario.))
 
 In caso di trasferimento di funzioni amministrative dallo Stato alle regioni, in attuazione dell'articolo 118 della Costituzione, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, sono definite le modalita' che assicurano adeguate forme di copertura finanziaria, in conformita' a quanto previsto dall'articolo 8, comma 1, lettera i), della legge 5 maggio 2009, n. 42.
 
@@ -129,11 +160,11 @@ In caso di trasferimento di funzioni amministrative dallo Stato alle regioni, in
 
 Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342.
 
-Fermi restando i limiti massimi di manovrabilita' previsti dalla legislazione statale, le regioni disciplinano la tassa automobilistica regionale.
+Fermi restando i limiti massimi di manovrabilita' previsti dalla legislazione statale, le regioni disciplinano la tassa automobilistica regionale ((quale tributo proprio derivato dotato di maggiore autonomia impositiva)).
 
 Alle regioni a statuto ordinario spettano gli altri tributi ad esse riconosciuti dalla legislazione vigente alla data di entrata in vigore del presente decreto. I predetti tributi costituiscono tributi propri derivati.
 
-((COMMA ABROGATO DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214)).
+COMMA ABROGATO DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214.
 
 Fermo restando quanto previsto dall'articolo 4, spettano altresi' alle regioni a statuto ordinario le altre compartecipazioni al gettito di tributi erariali, secondo quanto previsto dalla legislazione vigente alla data di entrata in vigore del presente decreto.
 
@@ -244,80 +275,98 @@ Le spese di cui all'articolo 8, comma 1, lettera a), numero 2), della citata leg
 1.
                         
                             
-                                A decorrere dal ((2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)), in conseguenza dell'avvio del percorso di graduale convergenza verso i costi standard, le fonti di finanziamento delle spese delle regioni di cui all'articolo 14, comma 1, sono le seguenti: 
- 
+                                
+                                    ((In conseguenza dell'avvio del percorso di graduale convergenza verso i costi standard, le fonti di finanziamento delle spese delle regioni di cui all'articolo 14, comma 1, sono le seguenti:))
+                                
                             
                             
                                 a)
                                 
-                                    la compartecipazione all'IVA di cui all'articolo 4; 
-
+                                    
+                                        ((la compartecipazione all'IVA di cui all'articolo 4;))
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    quote dell'addizionale regionale all'IRPEF, come rideterminata secondo le modalita' dell'articolo 2, comma 1; 
-
+                                    
+                                        ((quote dell'addizionale regionale all'IRPEF;))
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    l'IRAP, fino alla data della sua sostituzione con altri tributi; 
-
+                                    
+                                        ((la compartecipazione al gettito dell'IRPEF di cui all'articolo 2;))
+                                    
                                 
                             
                             
                                 d)
                                 
-                                    quote del fondo perequativo di cui al comma 5; 
-
+                                    
+                                        ((l'IRAP, fino alla data della sua sostituzione con altri tributi;))
+                                    
                                 
                             
                             
                                 e)
                                 
-                                    le entrate proprie, nella misura convenzionalmente stabilita nel riparto delle disponibilita' finanziarie per il servizio sanitario nazionale per l'anno 2010.
+                                    
+                                        ((le quote del fondo perequativo di cui al comma 5;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((le entrate proprie, nella misura convenzionalmente stabilita nel riparto delle disponibilita' finanziarie per il servizio sanitario nazionale per l'anno 2010.))
 
-Ai fini del comma 1, il gettito dell'IRAP e' valutato in base all'aliquota ordinariamente applicabile in assenza di variazioni disposte dalla regione ovvero delle variazioni indicate dall'articolo 5, comma 4. Ai fini del comma 1, il gettito derivante dall'applicazione dell'aliquota dell'addizionale regionale all'IRPEF di cui all'articolo 6 e' valutato in base all'aliquota calcolata ai sensi dell'articolo 2, comma 1, primo periodo. Il gettito e', inoltre, valutato su base imponibile uniforme, con le modalita' stabilite con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il ((Ministro per gli affari regionali e le autonomie)), sentita la Conferenza Stato-Regioni.
+Ai fini del comma 1, il gettito dell'IRAP e' valutato in base all'aliquota ordinariamente applicabile in assenza di variazioni disposte dalla regione ovvero delle variazioni indicate dall'articolo 5, comma 4. ((Ai fini del comma 1, il gettito derivante dall'applicazione dell'aliquota dell'addizionale regionale all'IRPEF e' valutato in base all'aliquota di base applicabile ai sensi dell'articolo 6.)) Il gettito e', inoltre, valutato su base imponibile uniforme, con le modalita' stabilite con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro per gli affari regionali e le autonomie, sentita la Conferenza Stato-Regioni.
 
 La percentuale di compartecipazione all'IVA e' stabilita con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, sentita la Conferenza Stato-Regioni, al livello minimo assoluto sufficiente ad assicurare il pieno finanziamento del fabbisogno corrispondente ai livelli essenziali delle prestazioni in una sola regione. Per il finanziamento integrale dei livelli essenziali delle prestazioni nelle regioni ove il gettito tributario e' insufficiente, concorrono le quote del fondo perequativo di cui al comma 5.
 
 4.
                         
                             
-                                Le fonti di finanziamento delle spese di cui all'articolo 14, comma 2, sono le seguenti: 
- 
+                                
+                                    ((Le fonti di finanziamento delle spese di cui all'articolo 14, comma 2, sono le seguenti:))
+                                
                             
                             
                                 a)
                                 
-                                    i tributi propri derivati di cui all'articolo 8, comma 3; 
-
+                                    
+                                        ((i tributi propri derivati di cui all'articolo 8, commi 2 e 3;))
+                                    
                                 
                             
                             
                                 b)
                                 
-                                    i tributi propri di cui all'articolo 7, comma 1, lettera b), n. 3), della citata legge n. 42 del 2009; 
-
+                                    
+                                        ((i tributi propri di cui all'articolo 7, comma 1, lettera b), numero 3), della citata legge n. 42 del 2009;))
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    quote dell'addizionale regionale all'IRPEF, come rideterminata secondo le modalita' dell'articolo 2, comma 1; 
-
+                                    
+                                        ((la compartecipazione al gettito dell'imposta sul reddito delle persone fisiche di cui all'articolo 2;))
+                                    
                                 
                             
                             
                                 d)
                                 
-                                    quote del fondo perequativo di cui al comma 7.
+                                    
+                                        ((le quote del fondo perequativo di cui al comma 7.))
 
-E' istituito, dall'anno ((2027 o da un anno antecedente ove ricorrano le condizioni di cui al presente decreto legislativo)), un fondo perequativo alimentato dal gettito prodotto da una compartecipazione al gettito dell'IVA determinata in modo tale da garantire in ogni regione il finanziamento integrale delle spese di cui all'articolo 14, comma 1. Nel primo anno di funzionamento del fondo perequativo, le suddette spese sono computate in base ai valori di spesa storica e dei costi standard, ove stabiliti; nei successivi quattro anni devono gradualmente convergere verso i costi standard.
-Le modalita' della convergenza sono stabilite con decreto del Presidente del Consiglio dei Ministri, su proposta del ((Ministro per gli affari regionali e le autonomie)), di concerto con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza Stato-Regioni e previo parere delle Commissioni della Camera dei Deputati e del Senato della Repubblica competenti per i profili di carattere finanziario. Allo schema di decreto del Presidente del Consiglio dei Ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario. Ai fini del presente comma, per il settore sanitario, la spesa coincide con il fabbisogno sanitario standard, come definito ai sensi dell'articolo 26.
+((E' istituito un fondo perequativo alimentato dal gettito prodotto da una compartecipazione al gettito dell'IVA determinata in modo tale da garantire in ogni regione il finanziamento integrale delle spese di cui all'articolo 14, comma 1. Nel primo anno di funzionamento del fondo perequativo, le suddette spese sono computate in base ai valori di spesa storica e dei costi standard, ove stabiliti; nei successivi quattro anni devono gradualmente convergere verso i costi standard. Le modalita' della convergenza sono stabilite con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per gli affari regionali e le autonomie, di concerto con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, previo parere della Commissione tecnica per i fabbisogni standard di cui all'articolo 1, comma 29, della legge 28 dicembre 2015, n. 208, e delle Commissioni parlamentari competenti per i profili di carattere finanziario, che si pronunciano entro il termine di trenta giorni dalla data di trasmissione, decorso il quale il decreto puo' essere comunque adottato. Allo schema di decreto del Presidente del Consiglio dei ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario. Ai fini del presente comma, per il settore sanitario, la spesa coincide con il fabbisogno sanitario standard, come definito ai sensi dell'articolo 26.))
 
 La differenza tra il fabbisogno finanziario necessario alla copertura delle spese di cui all'articolo 14, comma 1, e il gettito regionale dei tributi ad esse dedicati, e' determinato con l'esclusione delle variazioni di gettito prodotte dall'esercizio dell'autonomia tributaria, nonche' del gettito di cui all'articolo 9.
 E' inoltre garantita la copertura del differenziale certificato positivo tra i dati previsionali e l'effettivo gettito dei tributi, escluso il gettito di cui all'articolo 9, alla regione di cui al comma 3, primo periodo. Nel caso in cui l'effettivo gettito dei tributi sia superiore ai dati previsionali, il differenziale certificato e' acquisito al bilancio dello Stato.
@@ -331,8 +380,9 @@ E' inoltre garantita la copertura del differenziale certificato positivo tra i d
                             
                                 a)
                                 
-                                    le regioni con maggiore capacita' fiscale, ovvero quelle nelle quali il gettito per abitante dell'addizionale regionale all'IRPEF supera il gettito medio nazionale per abitante, alimentano il fondo perequativo, in relazione all'obiettivo di ridurre le differenze interregionali di gettito per abitante rispetto al gettito medio nazionale per abitante; 
-
+                                    
+                                        ((le regioni con maggiore capacita' fiscale, ovvero quelle nelle quali il gettito per abitante dell'addizionale regionale all'IRPEF supera il gettito medio nazionale per abitante, alimentano il fondo perequativo con quota delle risorse del comma 4, lettere a ), b ) e c ), in relazione all'obiettivo di ridurre le differenze interregionali di gettito per abitante rispetto al gettito medio nazionale per abitante;))
+                                    
                                 
                             
                             
@@ -354,7 +404,9 @@ E' inoltre garantita la copertura del differenziale certificato positivo tra i d
                                 
                                     la ripartizione del fondo perequativo tiene conto, per le regioni con popolazione al di sotto di un numero di abitanti determinato con le modalita' previste al comma 8, ultimo periodo, del fattore della dimensione demografica in relazione inversa alla dimensione demografica stessa.
 
-Le quote del fondo perequativo risultanti dall'applicazione del presente articolo sono distintamente indicate nelle assegnazioni annuali. L'indicazione non comporta vincoli di destinazione. Nel primo anno di funzionamento la perequazione fa riferimento alle spese di cui all'articolo 14, comma 2, computate in base ai valori di spesa storica; nei successivi quattro anni la perequazione deve gradualmente convergere verso le capacita' fiscali. Le modalita' della convergenza, nonche' le modalita' di attuazione delle lettere a), b), c) e d) del comma 7, sono stabilite con decreto di natura regolamentare del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, d'intesa con la Conferenza Stato-Regioni e previo parere delle commissioni della Camera dei Deputati e del Senato della Repubblica competenti per i profili di carattere finanziario. Allo schema di decreto del Presidente del Consiglio dei Ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario.
+((Le quote del fondo perequativo risultanti dall'applicazione del presente articolo sono distintamente indicate nelle assegnazioni annuali. L'indicazione non comporta vincoli di destinazione. Nel primo anno di funzionamento la perequazione fa riferimento alle spese di cui all'articolo 14, comma 2, computate in base ai valori di spesa storica; nei successivi quattro anni la perequazione deve gradualmente convergere verso le capacita' fiscali. Le modalita' della convergenza, nonche' le modalita' di attuazione del comma 7, lettere a), b), c) e d), sono stabilite con decreto di natura regolamentare del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, previo parere della Commissione tecnica per i fabbisogni standard di cui all'articolo 1, comma 29, della legge 28 dicembre 2015, n. 208, e delle Commissioni parlamentari competenti per i profili di carattere finanziario, che si pronunciano entro il termine di trenta giorni dalla data di trasmissione, decorso il quale il decreto puo' essere comunque adottato. Allo schema di decreto del Presidente del Consiglio dei ministri e' allegata una relazione tecnica concernente le conseguenze di carattere finanziario.))
+
+((Le disposizioni del presente articolo si applicano decorsi tre anni di operativita' transitoria del fondo di cui all'articolo 2, comma 3. A decorrere dalla data di cui al primo periodo, le risorse del fondo di cui all'articolo 2, comma 3, confluiscono nell'ambito dei fondi perequativi di cui al presente articolo.))
 
 ## - Capo II Autonomia di entrata delle province
 
@@ -897,7 +949,7 @@ Compatibilmente con gli obiettivi di finanza pubblica concordati in sede europea
 
 Ferme restando le funzioni della Conferenza permanente per il coordinamento della finanza pubblica, con decreto del Presidente del Consiglio dei Ministri e' istituito, entro sessanta giorni dall'entrata in vigore del presente decreto, presso la conferenza Stato-Regioni, un tavolo di confronto tra il Governo e le regioni a statuto ordinario, costituito dal Ministro per i rapporti con le regioni e per la coesione territoriale, dal Ministro per le riforme per il federalismo, dal Ministro per la semplificazione normativa, dal Ministro dell'economia e delle finanze e dal Ministro per le politiche europee, nonche' dai Presidenti delle regioni medesime. Il tavolo individua linee guida, indirizzi e strumenti per assicurare l'attuazione di quanto previsto dal comma 3 e dal presente comma, ovvero, qualora i vincoli di finanza pubblica non ne consentano in tutto o in parte l'attuazione, propone modifiche o adeguamenti al fine di assicurare la congruita' delle risorse, nonche' l'adeguatezza del complesso delle risorse finanziarie rispetto alle funzioni svolte, anche con riferimento al funzionamento dei fondi di perequazione, e la relativa compatibilita' con i citati vincoli di finanza pubblica. Il governo propone, nell'ambito del disegno di legge di stabilita', ovvero individua con apposito strumento attuativo, le misure finalizzate a dare attuazione agli orientamenti emersi nell'ambito del tavolo di confronto di cui al presente comma.
 
-La rideterminazione dell'addizionale regionale all'IRPEF ai sensi dell'articolo 2, comma 1, e la soppressione dei trasferimenti statali alle regioni a statuto ordinario ai sensi dell'articolo 7, comma 1, sono effettuati conformemente a quanto disposto dai commi 3 e 4 del presente articolo, facendo riferimento alle risorse spettanti a tali enti nell'esercizio finanziario 2010.
+((COMMA ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 147)).
 
 Si applicano anche alle province le disposizioni di cui all'articolo 14, comma 6, del citato decreto legislativo n. 23 del 2011.
 

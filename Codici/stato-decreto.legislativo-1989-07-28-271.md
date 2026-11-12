@@ -8,9 +8,9 @@ codice_redazionale: 089G0340
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-08-09
-zip_date: 2026-08-09
-fetched_at: 2026-08-09
+vigenza_date: 2026-10-31
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -618,8 +618,8 @@ Tuttavia a questa puo' procedersi anche avvalendosi di persona idonea o della po
 
 ### Art. 86. — Vendita o distruzione delle cose confiscate
 
-1. La cancelleria provvede alla vendita delle cose di cui e' stata ordinata la confisca, salvo che per esse sia prevista una specifica destinazione. ((Il compimento delle operazioni di vendita puo' essere delegato a un istituto all'uopo autorizzato o ad uno dei professionisti indicati negli articoli 534-bis e 591-bis del codice di procedura civile, con le modalita' ivi previste, in quanto compatibili.))
-                                    ((1-bis. Qualora sia stata disposta una confisca per equivalente di beni non sottoposti a sequestro o, comunque, non specificamente individuati nel provvedimento che dispone la confisca, l'esecuzione si svolge con le modalita' previste per l'esecuzione delle pene pecuniarie, ferma la possibilita' per il pubblico ministero di dare esecuzione al provvedimento su beni individuati successivamente.)) 
+1. La cancelleria provvede alla vendita delle cose di cui e' stata ordinata la confisca, salvo che per esse sia prevista una specifica destinazione. Il compimento delle operazioni di vendita puo' essere delegato a un istituto all'uopo autorizzato o ad uno dei professionisti indicati negli articoli 534-bis e 591-bis del codice di procedura civile, con le modalita' ivi previste, in quanto compatibili. 
+ 1-bis. Qualora sia stata disposta una confisca per equivalente di beni non sottoposti a sequestro o, comunque, non specificamente individuati nel provvedimento che dispone la confisca, l'esecuzione si svolge con le modalita' previste per l'esecuzione delle pene pecuniarie, ferma la possibilita' per il pubblico ministero di dare esecuzione al provvedimento su beni individuati successivamente. ((Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di cui all'articolo 371-bis del codice di procedura penale anche per le finalita' di cui al primo periodo.)) 
  2. Il giudice dispone la distruzione delle cose confiscate se la vendita non e' opportuna. All'affidamento dell'incarico procede la cancelleria. Il giudice puo' disporre che alla distruzione proceda la polizia giudiziaria che ha eseguito il sequestro.
 
 ### Art. 86-bis. — ( (Destinazione dei beni informatici o telematici sequestrati o confiscati in quanto utilizzati per la commissione dei reati di cui agli articoli 473, 474, 615-ter, 615-quater, 615-quinquies, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quinquies, 640-ter e 640-quinquies del codice penale
@@ -836,8 +836,10 @@ La stessa comunicazione e' altresi' data quando e' dichiarato lo stato di latita
  b) sugli immobili o mobili registrati, con la trascrizione del provvedimento presso i competenti uffici; 
  c) sui beni aziendali organizzati per l'esercizio di un'impresa, oltre che con le modalita' previste per i singoli beni sequestrati, con l'immissione in possesso dell'amministratore, con l'iscrizione del provvedimento nel registro delle imprese presso il quale e' iscritta l'impresa; 
  d) sulle azioni e sulle quote sociali, con l'annotazione nei libri sociali e con l'iscrizione nel registro delle imprese; 
- e) sugli strumenti finanziari dematerializzati, ivi compresi i titoli del debito pubblico, con la registrazione nell'apposito conto tenuto dall'intermediario ai sensi dell'articolo 34 del decreto legislativo 24 giugno 1998, n. 213. Si applica l'articolo 10, comma 3, del decreto legislativo 21 maggio 2004, n. 170; 
- e-bis) ((sui contenuti online del profilo personale e sui relativi dati, mediante ordine ai prestatori di servizi di hosting, ai fornitori di piattaforme online o di motori di ricerca o ai prestatori di servizi intermediari della societa' dell'informazione quali definiti all'articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015, di rimuovere i contenuti e i dati o disabilitare l'accesso al profilo, garantendo comunque, ove tecnicamente possibile, la fruizione dei contenuti estranei alle condotte illecite)). 
+ e) sugli strumenti finanziari dematerializzati, ivi compresi i titoli del debito pubblico, con la registrazione nell'apposito conto tenuto dall'intermediario ai sensi dell'articolo 34 del decreto legislativo 24 giugno 1998, n. 213. Si applica l'articolo 10, comma 3, del decreto legislativo 21 maggio 2004, n. 170 ((.))
+                                    ((Agli strumenti finanziari digitali si applicano gli articoli 9 e 11 del decreto-legge 17 marzo 2023, n. 25, convertito con modificazioni dalla legge 10 maggio 2023, n. 52;)) 
+ e-bis) sui contenuti online generati anche con sistemi di intelligenza artificiale e sui relativi dati, mediante ordine ai prestatori di servizi di hosting, ai fornitori di piattaforme online o di motori di ricerca o ai prestatori di servizi intermediari della societa' dell'informazione quali definiti all'articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015, di rimuovere i contenuti e i dati o disabilitare l'accesso al profilo, garantendo comunque, ove tecnicamente possibile, la fruizione dei contenuti estranei alle condotte illecite. 
+ e-ter) ((sulle cripto-attivita', di cui all'articolo 3, paragrafo 1, punto 5), del regolamento (UE) 2023/1114, del Parlamento europeo e del Consiglio, del 31 maggio 2023, mediante trasferimento delle stesse e, ove possibile, dei relativi mezzi di accesso, ivi incluse le chiavi crittografiche private, nel fondo di cui all'articolo 61, comma 23, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, ovvero, in caso di impossibilita' tecnica, mediante ogni altra procedura idonea ad assicurare la custodia ed il controllo esclusivi sulla cripto-attivita' da parte dell'autorita' procedente. Il provvedimento e' comunicato, ai fini dell'adozione delle misure necessarie all'esecuzione del sequestro, all'emittente le cripto-attivita' di cui all'articolo 3, paragrafo 1, punto 10), del regolamento (UE) 2023/1114, e al prestatore di servizi eventualmente incaricato, dal destinatario del sequestro, della custodia e amministrazione delle stesse, di cui all'articolo 3, paragrafo 1, punti 15) e 16), lettera a), del medesimo regolamento, ove identificabili.)) 
  2. Si applica altresi' la disposizione dell'articolo 92.
 
 ### Art. 104-bis. — Amministrazione dei beni sottoposti a sequestro e confisca. Tutela dei terzi nel giudizio

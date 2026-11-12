@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-08-08
-zip_date: 2026-08-12
-fetched_at: 2026-08-12
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -1787,7 +1787,7 @@ Per gli enti locali le graduatorie concorsuali rimangono efficaci per un termine
 ------------
                             AGGIORNAMENTO (158)
                             
- Il D.L. 7 agosto 2026, n. 144, ha disposto (con l'art. 2, comma 9) che "Fino al 31 dicembre 2028, al fine di garantire una tempestiva ed efficace risposta alle esigenze di sicurezza del territorio comunale, per le procedure assunzionali dei corpi della polizia locale il termine di cui all'articolo 91, comma 4, del decreto legislativo 18 agosto 2000, n. 267, e' di quattro anni".
+ Il D.L. 7 agosto 2026, n. 144 ha disposto (con l'art. 2, comma 9) che fino al 31 dicembre 2028, al fine di garantire una tempestiva ed efficace risposta alle esigenze di sicurezza del territorio comunale, per le procedure assunzionali dei corpi della polizia locale il termine di cui all'articolo 91, comma 4, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, e' di quattro anni.
 
 ## Art. 92. — Rapporti di lavoro a tempo determinato e a tempo parziale
 

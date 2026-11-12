@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2026-06-19
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+zip_date: 2026-11-12
+fetched_at: 2026-11-12
 ---
 
 DECRETO LEGISLATIVO
@@ -4972,7 +4972,7 @@ d) essere della quantita' e possedere le qualita' e altre caratteristiche, anche
 
 ((42))
 
-----------------
+-------------
                             AGGIORNAMENTO (42)
                             
  Il D.Lgs. 4 novembre 2021, n. 170 ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
@@ -5086,7 +5086,7 @@ L'azione diretta a far valere i difetti non dolosamente occultati dal venditore 
 
 ((42))
 
-----------------
+-------------
                             AGGIORNAMENTO (42)
                             
  Il D.Lgs. 4 novembre 2021, n. 170 ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
@@ -5192,7 +5192,7 @@ Il consumatore non ha il diritto di risolvere il contratto se il difetto di conf
 
 ((42))
 
-----------------
+-------------
                             AGGIORNAMENTO (42)
                             
  Il D.Lgs. 4 novembre 2021, n. 170 ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
@@ -5234,7 +5234,7 @@ Qualora la riparazione richieda la rimozione del bene installato in modo conform
 
 ((42))
 
-----------------
+-------------
                             AGGIORNAMENTO (42)
                             
  Il D.Lgs. 4 novembre 2021, n. 170 ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
@@ -7464,8 +7464,7 @@ Ogni intervento normativo incidente sul codice, o sulle materie dallo stesso dis
                             
                                 a)
                                 
-                                    LETTERA SOPPRESSA DAL D.LGS. 21 FEBBRAIO 2014, N. 21; (24) 
-
+                                    LETTERA SOPPRESSA DAL D.LGS. 21 FEBBRAIO 2014, N. 21; (24)
                                 
                             
                             
@@ -7494,6 +7493,7 @@ Ogni intervento normativo incidente sul codice, o sulle materie dallo stesso dis
                                 e)
                                 
                                     commercio elettronico, di cui alla parte III, titolo III, capo II; 
+
                                 
                             
                             
