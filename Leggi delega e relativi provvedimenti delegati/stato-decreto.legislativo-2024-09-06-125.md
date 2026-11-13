@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2024-09-06;125
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2025-08-10
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-10-24
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -1225,7 +1225,7 @@ Per le imprese di grandi dimensioni e per le piccole e medie imprese quotate, la
                         
                             b)
                             
-                                per gli esercizi aventi inizio il ((1° gennaio 2027)) o in data successiva: 
+                                per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva: 
  1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
  2) alle societa' madri diverse da quelle di cui al comma 1, lettera a), numero 2); 
 
@@ -1234,14 +1234,16 @@ Per le imprese di grandi dimensioni e per le piccole e medie imprese quotate, la
                         
                             c)
                             
-                                per gli esercizi aventi inizio il ((1° gennaio 2028)) o in data successiva: 
- 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese ((...)); 
+                                per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 
+ 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese; 
  2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese; 
  3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese.
 
 Le disposizioni di cui all'articolo 5 si applicano a partire dagli esercizi aventi inizio il 1° gennaio 2028, fermo restando quanto previsto all'articolo 18, comma 3.
 
 Il decreto legislativo 30 dicembre 2016, n. 254, e' abrogato a decorrere dalla data di entrata in vigore del presente decreto.
+
+((In deroga ai commi precedenti, per gli esercizi finanziari aventi inizio tra il 1° gennaio 2026 e il 31 dicembre 2027, il presente decreto non si applica in ogni caso alle imprese che, su base individuale o, ove applicabile, su base consolidata, presentano ricavi netti delle vendite e delle prestazioni non superiori a euro 450.000.000 ovvero un numero medio di dipendenti occupati durante l'esercizio non superiore a 1.000. Resta fermo quanto previsto dall'articolo 5 del presente decreto per le imprese di paesi terzi.))
 
 ## Art. 18. — Disposizioni transitorie
 

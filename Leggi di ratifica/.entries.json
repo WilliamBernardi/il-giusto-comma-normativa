@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-12",
+  "zip_date": "2026-11-13",
   "entries": {
     "LEGGE_19230624_1473/1923-07-19_023U1473_VIGENZA_2025-10-14_V0.xml": {
       "sha256": "73cf60896e40529de27cee4419ba7ab848b5b70c6f069fa900f88534a0050a99",
@@ -11680,6 +11680,11 @@
       "sha256": "33e5ae6358c89d38d497097b4602d27a61cdd8f08fddf4a1951f15aa1a99030b",
       "out": "Leggi di ratifica/stato-legge-2026-10-01-182.md",
       "urn": "urn:nir:stato:legge:2026-10-01;182"
+    },
+    "LEGGE_20261029_204/2026-11-11_26G00220_ORIGINALE_V0.xml": {
+      "sha256": "5c580c4850d2525d73df3b3f7fbfe31586d62d5c76ec313e8e93e9d2ba4ad681",
+      "out": "Leggi di ratifica/stato-legge-2026-10-29-204.md",
+      "urn": "urn:nir:stato:legge:2026-10-29;204"
     }
   }
 }

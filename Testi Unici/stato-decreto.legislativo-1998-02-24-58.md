@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-08-07
-zip_date: 2026-08-07
-fetched_at: 2026-08-07
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO

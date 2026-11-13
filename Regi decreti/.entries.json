@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-29",
+  "zip_date": "2026-11-13",
   "entries": {
     "REGIO DECRETO_18610317_206/1701-01-01_6100206R_VIGENZA_2026-01-07_V0.xml": {
       "sha256": "f298dee33a61eb7a965724818439abd794022aab55d3624f4524f70a7c7136db",
@@ -366276,8 +366276,8 @@
       "out": "Regi decreti/stato-regio.decreto-1930-10-17-1943.md",
       "urn": "urn:nir:stato:regio.decreto:1930-10-17;1943"
     },
-    "REGIO DECRETO_19301019_1398/1930-10-26_030U1398_VIGENZA_2026-07-16_V0.xml": {
-      "sha256": "e1be15d00de9ab9c4b504fdd3ba6dbe5d61fbbf44b088da9262e461ced4ed860",
+    "REGIO DECRETO_19301019_1398/1930-10-26_030U1398_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "ec1b105f60ebd95b4f44798c4c93c669d79c219aa6b7642a5e9a8c3271e83c48",
       "out": "Regi decreti/stato-regio.decreto-1930-10-19-1398.md",
       "urn": "urn:nir:stato:regio.decreto:1930-10-19;1398"
     },
@@ -441111,8 +441111,8 @@
       "out": "Regi decreti/stato-regio.decreto-1941-01-30-119.md",
       "urn": "urn:nir:stato:regio.decreto:1941-01-30;119"
     },
-    "REGIO DECRETO_19410130_12/1941-02-04_041U0012_VIGENZA_2026-08-13_V0.xml": {
-      "sha256": "01ae629d3e9cd7ebd541813d374050166952a677c41860e77148494f6d61a94c",
+    "REGIO DECRETO_19410130_12/1941-02-04_041U0012_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "13ffda511f28b2159057c446ce93c60b32f67401d454aeb0c5acfc983b24767d",
       "out": "Regi decreti/stato-regio.decreto-1941-01-30-12.md",
       "urn": "urn:nir:stato:regio.decreto:1941-01-30;12"
     },
@@ -441410,6 +441410,11 @@
       "sha256": "2a14e7cc9af5d9b30f2b066980d6d41cefada1d16b9935bc602fe90c101b7a6d",
       "out": "Regi decreti/stato-regio.decreto-1941-02-20-272.md",
       "urn": "urn:nir:stato:regio.decreto:1941-02-20;272"
+    },
+    "REGIO DECRETO_19410220_303/1941-05-06_041U0303_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "bdff49188b280660188d604774b6d0da4920eb1ff136b81d309c1a9f1525f2af",
+      "out": "Regi decreti/stato-regio.decreto-1941-02-20-303.md",
+      "urn": "urn:nir:stato:regio.decreto:1941-02-20;303"
     },
     "REGIO DECRETO_19410220_335/1941-05-14_041U0335_VIGENZA_2026-01-07_V0.xml": {
       "sha256": "f2c27aabf6484525964e43af2c70f27b37e3f034d404059a94206f973db3b08d",
@@ -447211,8 +447216,8 @@
       "out": "Regi decreti/stato-regio.decreto-1942-03-16-217.md",
       "urn": "urn:nir:stato:regio.decreto:1942-03-16;217"
     },
-    "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-04-29_V0.xml": {
-      "sha256": "52a52d3989dd5e1b135575f3664d7caa1480cfe6d855f354ff80200b85f64b24",
+    "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "6e03ee119a2d1511ad3d3680e7a04ce72bbd86c0fc7366886d1fa8c206f7c297",
       "out": "Regi decreti/stato-regio.decreto-1942-03-16-262.md",
       "urn": "urn:nir:stato:regio.decreto:1942-03-16;262"
     },

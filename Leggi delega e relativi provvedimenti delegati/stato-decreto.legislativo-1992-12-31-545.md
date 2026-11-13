@@ -8,9 +8,9 @@ codice_redazionale: 093G0006
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-04-21
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-26
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -48,22 +48,22 @@ Alla istituzione di nuove commissioni ed alle variazioni conseguenti, in relazio
                             
  La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-## Art. 1-bis. — (( (La giurisdizione tributaria). ))
+## Art. 1-bis. — (La giurisdizione tributaria)
 
-((
+La giurisdizione tributaria e' esercitata dai magistrati tributari ((di cui al comma 1-bis)) e dai giudici tributari nominati presso le corti di giustizia tributaria di primo e secondo grado, presenti nel ruolo unico nazionale di cui all'articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183, alla data del 1° gennaio 2022.
 
-La giurisdizione tributaria e' esercitata dai magistrati tributari e dai giudici tributari nominati presso le corti di giustizia tributaria di primo e secondo grado, presenti nel ruolo unico nazionale di cui all'articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183, alla data del 1° gennaio 2022.
+((E' istituito il ruolo unico nazionale dei magistrati delle corti di giustizia tributaria, tenuto dal Consiglio di presidenza della giustizia tributaria, nel quale sono inseriti, ancorche' temporaneamente fuori ruolo, i magistrati tributari in servizio secondo la rispettiva anzianita' di servizio nella qualifica. In caso di pari anzianita' di servizio nella qualifica, i magistrati tributari sono inseriti nel ruolo unico secondo la maggiore anzianita' anagrafica. Il ruolo unico nazionale dei magistrati tributari e' reso pubblico annualmente, entro il mese di gennaio, nel sito internet istituzionale del Consiglio di presidenza della giustizia tributaria.))
 
-I magistrati tributari di cui al comma 1 sono reclutati secondo le modalita' previste dagli articoli da 4 a 4-quater.
+I magistrati tributari di cui al ((comma 1-bis)) sono reclutati secondo le modalita' previste dagli articoli da 4 a 4-quater.
 
-3. L'organico dei magistrati tributari di cui al comma 2 e' individuato in 448 unita' presso le corti di giustizia tributaria di primo grado e 128 unita' presso le corti di giustizia tributaria di secondo grado))
+L'organico dei magistrati tributari di cui al comma 2 e' individuato in 448 unita' presso le corti di giustizia tributaria di primo grado e 128 unita' presso le corti di giustizia tributaria di secondo grado.
 
 ## Art. 2. — La composizione delle corti di giustizia tributaria di primo e secondo grado
 
 A ciascuna delle commissioni tributarie provinciali e regionali e' preposto un presidente che presiede anche la prima sezione.
-L'incarico ha durata quadriennale a decorrere dalla data di esercizio effettivo delle funzioni ed e' rinnovabile per una sola volta e per un uguale periodo, previa valutazione positiva da parte del Consiglio di presidenza della giustizia tributaria dell'attivita' svolta nel primo triennio del quadriennio iniziale. Il Consiglio di presidenza della giustizia tributaria stabilisce con proprio regolamento il procedimento e le modalita' di tale valutazione, garantendo la previa interlocuzione con l'interessato. Il Presidente non puo' essere nominato tra soggetti che raggiungeranno l'eta' pensionabile entro i quattro anni successivi ((alla data di scadenza del termine per la presentazione della domanda di partecipazione all'interpello per ricoprire la funzione di presidente)). (30) (27)
+L'incarico ha durata quadriennale a decorrere dalla data di esercizio effettivo delle funzioni ed e' rinnovabile per una sola volta e per un uguale periodo, previa valutazione positiva da parte del Consiglio di presidenza della giustizia tributaria dell'attivita' svolta nel primo triennio del quadriennio iniziale. Il Consiglio di presidenza della giustizia tributaria stabilisce con proprio regolamento il procedimento e le modalita' di tale valutazione, garantendo la previa interlocuzione con l'interessato. Il Presidente non puo' essere nominato tra soggetti che raggiungeranno l'eta' pensionabile entro i quattro anni successivi alla data di scadenza del termine per la presentazione della domanda di partecipazione all'interpello per ricoprire la funzione di presidente. (30) (27)
 
-A seguito di valutazione negativa da parte del Consiglio di presidenza della giustizia tributaria e comunque all'esito dell'ottavo anno di esercizio delle funzioni di cui al comma 1, il giudice tributario e' riassegnato a sua richiesta, salvo tramutamento all'esercizio di funzioni analoghe o diverse all'incarico di presidente di sezione nella corte di giustizia tributaria di primo e secondo grado a cui era preposto ovvero in quella di precedente provenienza.
+A seguito di valutazione negativa da parte del Consiglio di presidenza della giustizia tributaria e comunque all'esito dell'ottavo anno di esercizio delle funzioni di cui al comma 1, ((il magistrato o)) il giudice tributario e' riassegnato a sua richiesta, salvo tramutamento all'esercizio di funzioni analoghe o diverse all'incarico di presidente di sezione nella corte di giustizia tributaria di primo e secondo grado a cui era preposto ovvero in quella di precedente provenienza.
 
 Il presidente della commissione, in caso di assenza o di impedimento, e' sostituito nelle funzioni non giurisdizionali dal presidente di sezione con maggiore anzianita' nell'incarico subordinatamente d'eta'. (27)
 
@@ -73,7 +73,7 @@ A ciascuna sezione e' assegnato un presidente, un vice-presidente e non meno di 
 
 Ogni collegio giudicante e' presieduto dal presidente della sezione o dal vicepresidente e giudica con numero invariabile di tre votanti.
 
-Se in una sezione mancano i componenti necessari per costituire il collegio giudicante, il presidente della commissione designa i componenti di altre sezioni. (27)
+Se in una sezione mancano i componenti necessari per costituire il collegio giudicante, il presidente della commissione designa i componenti di altre sezioni ((individuandoli prioritariamente tra i magistrati tributari, sulla base dei criteri stabiliti dal Consiglio di presidenza della giustizia tributaria.)) (27)
 
 ---------------
                             AGGIORNAMENTO (30)
@@ -96,11 +96,11 @@ I presidenti delle ((corti di giustizia tributaria di secondo grado)) sono nomin
 
 I presidenti di sezione delle ((corti di giustizia tributaria di secondo grado)) sono nominati ((tra i magistrati tributari ovvero tra quelli ordinari, amministrativi, contabili o militari)), in servizio o a riposo, secondo la graduatoria redatta sulla base delle ((disposizioni contenute nell'articolo 11)). I vicepresidenti di sezione delle ((corti di giustizia tributaria di secondo grado)) sono nominati tra i magistrati di cui al comma 3 ovvero tra i componenti che abbiano esercitato per almeno dieci anni le funzioni di giudice tributario regionale purche' in possesso del diploma di laurea in giurisprudenza o in economia e commercio, secondo la graduatoria redatta sulla base delle ((disposizioni contenute nell'articolo 11)).
 
-## Art. 4. — (I giudici delle corti di giustizia tributaria di primo grado)
+## Art. 4. — ((Concorso per magistrato tributario))
 
 La nomina a magistrato tributario si consegue mediante un concorso per esami bandito in relazione ai posti vacanti e a quelli che si renderanno vacanti nel quadriennio successivo, per i quali puo' essere attivata la procedura di reclutamento.
 
-Il concorso per esami consiste in una prova scritta, effettuata con le procedure di cui all'articolo 8 del regio decreto 15 ottobre 1925, n. 1860, e in una prova orale. ((Con decreto del Ministro dell'economia e delle finanze possono essere disciplinate le modalita' di svolgimento della prova scritta mediante strumenti informatici.))
+Il concorso per esami consiste in una prova scritta, effettuata con le procedure di cui all'articolo 8 del regio decreto 15 ottobre 1925, n. 1860, e in una prova orale. Con decreto del Ministro dell'economia e delle finanze possono essere disciplinate le modalita' di svolgimento della prova scritta mediante strumenti informatici.
 
 La prova scritta ha la prevalente funzione di verificare la capacita' di inquadramento logico sistematico del candidato e consiste nello svolgimento di due elaborati teorici rispettivamente vertenti sul diritto tributario e sul diritto civile o commerciale, nonche' in una prova teorico-pratica consistente nella redazione di una sentenza in materia tributaria.
 
@@ -284,7 +284,9 @@ Le attivita' di segreteria della commissione e delle sottocommissioni sono eserc
 
 I concorrenti dichiarati idonei all'esito del concorso per esami sono classificati secondo il punteggio complessivo conseguito e, nello stesso ordine, sono nominati, con decreto del Ministro dell'economia e delle finanze, magistrato tributario, nei limiti dei posti messi a concorso. I documenti comprovanti il possesso di titoli di preferenza, a parita' di punteggio, ai fini della nomina, sono presentati, a pena di decadenza, entro il giorno di svolgimento della prova orale.
 
-I magistrati tributari nominati a seguito del superamento del concorso di cui all'articolo 4 svolgono un tirocinio formativo articolato in due sessioni consecutive della durata di tre mesi ciascuna presso le corti di giustizia tributaria con la partecipazione all'attivita' giurisdizionale relativa alle controversie rientranti nella rispettiva competenza in composizione collegiale. Nella seconda sessione trimestrale di cui al primo periodo e nell'ipotesi di cui al comma 2, al magistrato tributario in tirocinio e' assegnato un carico di lavoro fissato con delibera del Consiglio di presidenza della giustizia tributaria. Con delibera del Consiglio di presidenza sono individuati ((i presidenti delle corti di giustizia tributaria e di sezione di cui all'articolo 3, presso i quali i magistrati tributari nominati svolgono il tirocinio)), le modalita' di affidamento e i criteri per il conseguimento del giudizio di idoneita' al conferimento delle funzioni giurisdizionali.
+((Il Ministro dell'economia e delle finanze puo' chiedere al Consiglio di presidenza della giustizia tributaria di assegnare ai concorrenti dichiarati idonei, secondo l'ordine della graduatoria, un numero di ulteriori posti non superiore al doppio del decimo di quelli messi a concorso, nei limiti delle facolta' assunzionali dell'amministrazione disponibili a legislazione vigente.))
+
+I magistrati tributari nominati a seguito del superamento del concorso di cui all'articolo 4 svolgono un tirocinio formativo articolato in due sessioni consecutive della durata di tre mesi ciascuna presso le corti di giustizia tributaria con la partecipazione all'attivita' giurisdizionale relativa alle controversie rientranti nella rispettiva competenza in composizione collegiale. Nella seconda sessione trimestrale di cui al primo periodo e nell'ipotesi di cui al comma 2, al magistrato tributario in tirocinio e' assegnato un carico di lavoro fissato con delibera del Consiglio di presidenza della giustizia tributaria. Con delibera del Consiglio di presidenza sono individuati i presidenti delle corti di giustizia tributaria e di sezione di cui all'articolo 3, presso i quali i magistrati tributari nominati svolgono il tirocinio, le modalita' di affidamento e i criteri per il conseguimento del giudizio di idoneita' al conferimento delle funzioni giurisdizionali.
 
 Il magistrato tributario in tirocinio valutato negativamente e' ammesso ad un nuovo periodo di tirocinio della durata di sei mesi. Al termine del secondo tirocinio e all'esito della relativa scheda valutativa redatta dal magistrato tributario affidatario, il Consiglio di presidenza della giustizia tributaria delibera nuovamente; la seconda deliberazione negativa determina la cessazione del rapporto di impiego del magistrato tributario in tirocinio.
 
@@ -294,7 +296,9 @@ Il magistrato tributario in tirocinio valutato negativamente e' ammesso ad un nu
 
 ## Art. 5-bis. — (Formazione continua dei giudici e dei magistrati tributari)
 
-Il Consiglio di presidenza della giustizia tributaria, con proprio regolamento, definisce i criteri e le modalita' della formazione continua e dell'aggiornamento professionale dei giudici e dei magistrati tributari di cui all'articolo 1-bis, comma 1, mediante la frequenza di corsi periodici di carattere teorico-pratico organizzati e gestiti sulla base di apposita convenzione, prioritariamente, dalla Scuola nazionale dell'amministrazione con modalita' separate e corsi distinti rispetto ai corsi di formazione destinati all'amministrazione finanziaria o, subordinatamente, dalle universita' accreditate ai sensi del decreto legislativo 27 gennaio 2012, n. 19 ((, o da altri enti pubblici)). Agli oneri per la formazione di cui al primo periodo si provvede nell'ambito degli stanziamenti annuali dell'apposita voce di bilancio in favore dello stesso Consiglio e sulla base di un programma di formazione annuale, comunicato al Ministero dell'economia e delle finanze entro il mese di luglio dell'anno precedente lo svolgimento dei corsi medesimi.
+
+
+Il Consiglio di presidenza della giustizia tributaria, con proprio regolamento, definisce i criteri e le modalita' della formazione continua e dell'aggiornamento professionale dei giudici e dei magistrati tributari di cui all'articolo 1-bis, comma 1, mediante la frequenza di corsi periodici di carattere teorico-pratico organizzati e gestiti sulla base di apposita convenzione, prioritariamente, dalla Scuola nazionale dell'amministrazione con modalita' separate e corsi distinti rispetto ai corsi di formazione destinati all'amministrazione finanziaria o, subordinatamente, dalle universita' accreditate ai sensi del decreto legislativo 27 gennaio 2012, n. 19, o da altri enti pubblici. Agli oneri per la formazione di cui al primo periodo si provvede nell'ambito degli stanziamenti annuali dell'apposita voce di bilancio in favore dello stesso Consiglio e sulla base di un programma di formazione annuale, comunicato al Ministero dell'economia e delle finanze entro il mese di luglio dell'anno precedente lo svolgimento dei corsi medesimi.
 
 ## Art. 6. — La formazione delle sezioni e dei collegi giudicanti
 
@@ -315,7 +319,7 @@ Il presidente della corte di giustizia tributaria di primo e secondo grado, col 
 1.
                         
                             
-                                I componenti delle ((corti di giustizia tributaria di primo e secondo grado)) debbono: 
+                                I ((giudici)) delle corti di giustizia tributaria di primo e secondo grado debbono: 
  
                             
                             
@@ -342,7 +346,7 @@ Il presidente della corte di giustizia tributaria di primo e secondo grado, col 
                             
                                 d)
                                 
-                                    non avere superato, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, ((sessantasette)) anni di eta'; 
+                                    non avere superato, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sessantasette anni di eta'; 
 
                                 
                             
@@ -365,26 +369,109 @@ Il presidente della corte di giustizia tributaria di primo e secondo grado, col 
                                 
                                     LETTERA ABROGATA DALLA L. 12 NOVEMBRE 2011, N. 183.
 
+((Ai magistrati tributari si applicano le disposizioni relative ai requisiti generali previste per i magistrati ordinari.))
+
 ## Art. 8. — Incompatibilita'
 
-((Ai magistrati tributari reclutati ai sensi dell'articolo 4 si applicano, in quanto compatibili, le disposizioni contenute nel titolo I, capo II, dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12)). 
- 1. Non possono essere componenti delle ((corti di giustizia tributaria di primo e secondo grado)), finche' permangono in attivita' di servizio o nell'esercizio delle rispettive funzioni o attivita' professionali: 
- a) i membri del Parlamento nazionale e del Parlamento europeo; 
- b) i consiglieri regionali, provinciali, comunali e circoscrizionali e gli amministratori di altri enti che applicano tributi o hanno partecipazione al gettito dei tributi indicati nell'art. 2 del decreto legislativo 31 dicembre 1992, n. 546, nonche' coloro che, come dipendenti di detti enti o come componenti di organi collegiali, concorrono all'accertamento dei tributi stessi; 
- c) i dipendenti dell'Amministrazione finanziaria che prestano servizio presso gli uffici delle Agenzie delle entrate, delle dogane e del territorio, di cui al decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni; 
- d) gli appartenenti al Corpo della Guardia di finanza; 
- e) i soci, gli amministratori e i dipendenti delle societa' concessionarie del servizio di riscossione delle imposte o preposte alla gestione dell'anagrafe tributaria e di ogni altro servizio tecnico del Ministero delle finanze; 
- f) LETTERA SOPPRESSA DAL D.L. 6 LUGLIO 2011, N. 98, CONVERTITO CON MODIFICAZIONI DALLA L. 15 LUGLIO 2011, N. 111; 
- g) i prefetti; 
- h) coloro che ricoprono incarichi direttivi o esecutivi nei partiti o movimenti politici; 
- i) coloro che in qualsiasi forma, anche se in modo saltuario o accessorio ad altra prestazione, direttamente o attraverso forme associative, esercitano l'attivita' di consulenza tributaria, detengono le scritture contabili e redigono i bilanci, ovvero svolgono attivita' di consulenza, assistenza o di rappresentanza, a qualsiasi titolo e anche nelle controversie di carattere tributario, di contribuenti singoli o associazioni di contribuenti, di societa' di riscossione dei tributi o di altri enti impositori; 
- l) gli appartenenti alle Forze armate ed i funzionari civili dei Corpi di polizia; 
- m) LETTERA SOPPRESSA DAL D.L. 6 LUGLIO 2011, N. 98, CONVERTITO CON MODIFICAZIONI DALLA L. 15 LUGLIO 2011, N. 111. 
- m-bis) coloro che sono iscritti in albi professionali, elenchi, ruoli e il personale dipendente individuati nell'articolo 12 del decreto legislativo 31 dicembre 1992, n. 546, e successive modificazioni, ed esercitano, anche in forma non individuale, le attivita' individuate nella lettera i). 
- 1-bis Non possono essere componenti di ((corte di giustizia tributaria di primo grado)) i coniugi, i conviventi o i parenti fino al secondo grado o gli affini in primo grado di coloro che, iscritti in albi professionali, esercitano, anche in forma non individuale, le attivita' individuate nella lettera i) nella regione e nelle province confinanti con la predetta regione dove ha sede la ((corte di giustizia tributaria di primo grado)). Non possono, altresi', essere componenti delle ((corti di giustizia tributaria di secondo grado)) i coniugi, i conviventi o i parenti fino al secondo grado o gli affini in primo grado di coloro che, iscritti in albi professionali, esercitano, anche in forma non individuale, le attivita' individuate nella lettera i) del comma 1 nella regione dove ha sede la ((corte di giustizia tributaria di secondo grado)) ovvero nelle regioni con essa confinanti. All'accertamento della sussistenza delle cause di incompatibilita' previste nei periodi che precedono provvede il Consiglio di Presidenza della giustizia tributaria. 
- 2. Non possono essere componenti dello stesso collegio giudicante i coniugi, i conviventi, nonche' i parenti ed affini entro il quarto grado. 
- 3. Nessuno puo' essere componente di piu' ((corti di giustizia tributaria di primo e secondo grado)). 
- 4. I componenti delle ((corti di giustizia tributaria di primo e secondo grado)), che vengano a trovarsi in una delle condizioni di cui al comma 1, lettere a) e b) o che siano nominati giudici costituzionali, sono sospesi dall'incarico fino alla data di cessazione dell'incompatibilita'; successivamente alla suddetta data essi riassumono le rispettive funzioni anche in soprannumero presso la ((corte di giustizia tributaria di primo e secondo grado)) di appartenenza.
+Ai magistrati tributari reclutati ai sensi dell'articolo 4 si applicano, in quanto compatibili, le disposizioni contenute nel titolo I, capo II, dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12. ((I magistrati tributari non possono appartenere alle corti di giustizia tributaria di primo e secondo grado presso le cui sedi i loro parenti fino al secondo grado, gli affini in primo grado, il coniuge o il convivente, sono abilitati all'assistenza tecnica di cui all'articolo 12 del decreto legislativo 31 dicembre 1992, n. 546, ovvero esercitano anche in forma non individuale, se iscritti in albi professionali, le attivita' individuate nella lettera i) del comma 1.))
+
+1.
+                        
+                            
+                                Non possono essere ((giudici)) delle corti di giustizia tributaria di primo e secondo grado, finche' permangono in attivita' di servizio o nell'esercizio delle rispettive funzioni o attivita' professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i membri del Parlamento nazionale e del Parlamento europeo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i consiglieri regionali, provinciali, comunali e circoscrizionali e gli amministratori di altri enti che applicano tributi o hanno partecipazione al gettito dei tributi indicati nell'art. 2 del decreto legislativo 31 dicembre 1992, n. 546, nonche' coloro che, come dipendenti di detti enti o come componenti di organi collegiali, concorrono all'accertamento dei tributi stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dipendenti dell'Amministrazione finanziaria che prestano servizio presso gli uffici delle Agenzie delle entrate, delle dogane e del territorio, di cui al decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli appartenenti al Corpo della Guardia di finanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i soci, gli amministratori e i dipendenti delle societa' concessionarie del servizio di riscossione delle imposte o preposte alla gestione dell'anagrafe tributaria e di ogni altro servizio tecnico del Ministero delle finanze; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 6 LUGLIO 2011, N. 98, CONVERTITO CON MODIFICAZIONI DALLA L. 15 LUGLIO 2011, N. 111; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i prefetti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    coloro che ricoprono incarichi direttivi o esecutivi nei partiti o movimenti politici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    coloro che in qualsiasi forma, anche se in modo saltuario o accessorio ad altra prestazione, direttamente o attraverso forme associative, esercitano l'attivita' di consulenza tributaria, detengono le scritture contabili e redigono i bilanci, ovvero svolgono attivita' di consulenza, assistenza o di rappresentanza, a qualsiasi titolo e anche nelle controversie di carattere tributario, di contribuenti singoli o associazioni di contribuenti, di societa' di riscossione dei tributi o di altri enti impositori; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gli appartenenti alle Forze armate ed i funzionari civili dei Corpi di polizia; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 6 LUGLIO 2011, N. 98, CONVERTITO CON MODIFICAZIONI DALLA L. 15 LUGLIO 2011, N. 111. 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    coloro che sono iscritti in albi professionali, elenchi, ruoli e il personale dipendente individuati nell'articolo 12 del decreto legislativo 31 dicembre 1992, n. 546, e successive modificazioni, ed esercitano, anche in forma non individuale, le attivita' individuate nella lettera i).
+
+Non possono essere ((giudici)) di corte di giustizia tributaria di primo grado i coniugi, i conviventi o i parenti fino al secondo grado o gli affini in primo grado di coloro che, iscritti in albi professionali, esercitano, anche in forma non individuale, le attivita' individuate nella lettera i) nella regione e nelle province confinanti con la predetta regione dove ha sede la corte di giustizia tributaria di primo grado. Non possono, altresi', essere ((giudici)) delle corti di giustizia tributaria di secondo grado i coniugi, i conviventi o i parenti fino al secondo grado o gli affini in primo grado di coloro che, iscritti in albi professionali, esercitano, anche in forma non individuale, le attivita' individuate nella lettera i) del comma 1 nella regione dove ha sede la corte di giustizia tributaria di secondo grado ovvero nelle regioni con essa confinanti. ((PERIODO SOPPRESSO DAL D.LGS. 7 AGOSTO 2026, N. 149)).
+
+Non possono essere componenti dello stesso collegio giudicante i coniugi, i conviventi, nonche' i parenti ed affini entro il quarto grado.
+
+Nessuno puo' essere componente di piu' corti di giustizia tributaria di primo e secondo grado.
+
+I ((giudici)) delle corti di giustizia tributaria di primo e secondo grado, che vengano a trovarsi in una delle condizioni di cui al comma 1, lettere a) e b) o che siano nominati giudici costituzionali, sono sospesi dall'incarico fino alla data di cessazione dell'incompatibilita'; successivamente alla suddetta data essi riassumono le rispettive funzioni anche in soprannumero presso la ((corte di giustizia tributaria di primo e secondo grado)) di appartenenza.
+
+((All'accertamento della sussistenza delle cause di incompatibilita' previste dal presente articolo, provvede il Consiglio di presidenza della giustizia tributaria.))
 
 ## Art. 9.
 
@@ -433,13 +520,13 @@ I verbali di giuramento sono conservati presso l'ufficio cui appartiene l'organo
 
 La nomina dei giudici tributari presenti nel ruolo unico di cui all'articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183, alla data del 1° gennaio 2022, a una delle funzioni dei componenti delle commissioni tributarie provinciali e regionali non costituisce in nessun caso rapporto di pubblico impiego. (27)
 
-I magistrati tributari di cui all'articolo 1-bis, comma 2, e i giudici tributari del ruolo unico di cui al comma 1)), indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso, al compimento del settantesimo anno di eta'. (27) (36) ((37))
+I magistrati tributari di cui all'articolo 1-bis, comma 2, e i giudici tributari del ruolo unico di cui al comma 1, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso, al compimento del settantesimo anno di eta'. (27) (36) (37)
 
 I presidenti di sezione, i vice presidenti e i componenti delle commissioni tributarie provinciali e regionali non possono essere assegnati alla stessa sezione della medesima commissione per piu' di cinque anni consecutivi. (27)
 
 I componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalla funzione o dall'incarico svolti, non possono concorrere all'assegnazione di altri incarichi prima di due anni dal giorno in cui sono stati immessi nelle funzioni dell'incarico ricoperto.
 
-Ferme restando le modalita' indicate nel comma 4-ter, l'assegnazione del medesimo incarico o di diverso incarico per trasferimento dei componenti delle corti di giustizia tributaria di primo e secondo grado in servizio e' disposta, salvo giudizio di demerito, sulla base dei punteggi stabiliti dalla tabella F allegata al presente decreto. Il Consiglio di presidenza, in caso di vacanza nei posti di presidente, di presidente di sezione, di vice presidente e di componente presso una sede giudiziaria di corte di giustizia tributaria, provvede a bandire, almeno una volta l'anno e con priorita' rispetto alle procedure concorsuali di cui all'articolo 4 e a quelle per diverso incarico, interpelli per il trasferimento di giudici che ricoprono la medesima funzione o una funzione superiore.
+Ferme restando le modalita' indicate nel comma 4-ter, l'assegnazione del medesimo incarico o di diverso incarico per trasferimento dei componenti delle corti di giustizia tributaria di primo e secondo grado in servizio e' disposta, salvo giudizio di demerito, sulla base dei punteggi stabiliti dalla tabella F allegata al presente decreto. Il Consiglio di presidenza, in caso di vacanza nei posti di presidente, di presidente di sezione, di vice presidente e di componente presso una sede giudiziaria di corte di giustizia tributaria, provvede a bandire, almeno una volta l'anno e con priorita' rispetto alle procedure concorsuali di cui all'articolo 4 e a quelle per diverso incarico, interpelli per il trasferimento di giudici ((o magistrati)) che ricoprono la medesima funzione o una funzione superiore.
 
 4-ter.
                         
@@ -464,7 +551,7 @@ Ferme restando le modalita' indicate nel comma 4-ter, l'assegnazione del medesim
                             
                                 c)
                                 
-                                    la scelta tra gli aspiranti e' adottata dal Consiglio di presidenza, salvo giudizio di demerito del candidato, secondo i criteri di valutazione ed i punteggi stabiliti dalla tabella F e, nel caso di parita' di punteggio, della maggiore anzianita' anagrafica.
+                                    la scelta tra gli aspiranti e' adottata dal Consiglio di presidenza, salvo giudizio di demerito del candidato, secondo ((...)) i punteggi stabiliti dalla tabella F e, nel caso di parita' di punteggio, della maggiore anzianita' anagrafica.
 
 5.
                         
@@ -511,10 +598,12 @@ Nei casi di necessita' di servizio, il Ministro dell'economia e delle finanze pu
 
 ## Art. 12. — Decadenza dall'incarico
 
+
+
 1.
                         
                             
-                                Decadono dall'incarico i componenti delle ((corti di giustizia tributaria di primo e secondo grado)) i quali: 
+                                Decadono dall'incarico i ((giudici)) delle corti di giustizia tributaria di primo e secondo grado i quali: 
  
                             
                             
@@ -552,6 +641,32 @@ Nei casi di necessita' di servizio, il Ministro dell'economia e delle finanze pu
 
 La decadenza e' dichiarata con decreto del Ministro delle finanze previa deliberazione del consiglio di presidenza.
 
+## Art. 12-bis. — (( (Cessazione del rapporto di impiego per dimissioni e riammissione in servizio).))
+
+
+
+## Art. 12-ter. — (( (Dispensa dal servizio o collocamento in aspettativa di ufficio per debolezza di mente o infermita').))
+
+
+
+## Art. 12-quater. — (( (Garanzie).))
+
+
+
+## Art. 12-quinquies. — (( (Trasferimento d'ufficio).))
+
+
+
+((In caso di soppressione di una corte di giustizia tributaria, i magistrati che ne fanno parte, se non possono essere assegnati ad altra corte di giustizia tributaria nella stessa regione, sono destinati a posti vacanti del loro grado ad altra sede.))
+
+((Qualora venga ridotto l'organico di una corte di giustizia tributaria, i magistrati con minore anzianita' di ruolo che risultino in soprannumero, se non possono essere assegnati ad altra corte della stessa regione, sono destinati ai posti vacanti del loro grado in altra sede.))
+
+((Nei casi previsti dai commi 2 e 3 si tiene conto, in quanto possibile, delle richieste formulate dai magistrati da trasferire.))
+
+## Art. 12-sexies. — (( (Diritto di partecipazione).))
+
+
+
 ## Art. 13. — Trattamento economico dei giudici tributari
 
 Il Ministro delle finanze con proprio decreto di concerto con il Ministro del tesoro determina il compenso fisso mensile spettante ai componenti delle corti di giustizia tributarie di primo e secondo grado presenti nel ruolo unico di cui all'articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183.
@@ -564,9 +679,8 @@ I compensi di cui ai commi 1, 2 e 3 sono cumulabili con i trattamenti pensionist
 
 I compensi di cui ai commi 1, 2 e 3 non possono superare in ogni caso l'importo di euro 72.000 lordi annui.
 
-((3-quater. Ai giudici che partecipano da remoto alla trattazione delle cause non spetta alcun trattamento di missione ne' alcun rimborso spese.))
-
-((32))
+((Ai giudici che partecipano da remoto alla trattazione delle cause non spetta alcun trattamento di missione ne' alcun rimborso spese.))
+                                ((32))
 
 ---------------
                             AGGIORNAMENTO (27)
@@ -579,21 +693,36 @@ I compensi di cui ai commi 1, 2 e 3 non possono superare in ogni caso l'importo 
 
 ## Art. 13-bis. — (( (Trattamento economico dei magistrati tributari). ))
 
-((
 
-Ai magistrati tributari reclutati per concorso, secondo le modalita' di cui all'articolo 4, si applicano le disposizioni in materia di trattamento economico previsto per i magistrati ordinari, in quanto compatibili.
 
-2. Gli stipendi del personale indicato nel comma 1 sono determinati, esclusivamente in base all'anzianita' di servizio, nella misura prevista nella tabella F-bis allegata al presente decreto, con decorrenza dal 1° gennaio 2021 ai sensi del decreto del Presidente del Consiglio dei ministri 6 agosto 2021, pubblicato nella Gazzetta Ufficiale n. 229 del 24 settembre 2021, salva l'attribuzione dell'indennita' integrativa speciale))
+((Gli stipendi del personale indicato nel comma 1 sono determinati, esclusivamente in base all'anzianita' di servizio, nella misura prevista nella tabella F-bis allegata al presente decreto, con decorrenza dal 1° gennaio 2021 ai sensi del decreto del Presidente del Consiglio dei ministri 6 agosto 2021, pubblicato nella Gazzetta Ufficiale n. 229 del 24 settembre 2021, salva l'attribuzione dell'indennita' integrativa speciale)).
 
 ## Art. 14. — Responsabilita'
 
 Ai componenti delle ((corti di giustizia tributaria di primo e secondo grado)) si applicano le disposizioni della legge 13 aprile 1988, n. 117, concernente il risarcimento dei danni cagionati nell'esercizio delle funzioni giurisdizionali.
 
+## Art. 14-bis. — (( (Procedimento disciplinare).))
+
+
+
+((Il Consiglio di presidenza, nel termine di dieci giorni dalla richiesta di apertura del procedimento disciplinare, affida ad un suo componente l'incarico di procedere agli accertamenti preliminari da svolgersi entro trenta giorni.))
+
+((Il Consiglio di presidenza, sulla base delle risultanze emerse, provvede a contestare i fatti all'incolpato con invito a presentare entro trenta giorni le sue giustificazioni, a seguito delle quali, se non ritiene di archiviare gli atti, incarica un proprio componente di procedere all'istruttoria, che deve essere conclusa entro novanta giorni con il deposito degli atti relativi presso la segreteria. Di tali deliberazioni deve essere data immediata comunicazione all'incolpato.))
+
+((Il presidente del Consiglio di presidenza, trascorso comunque il termine di cui al comma 3, fissa la data della discussione davanti allo stesso con decreto da notificare almeno quaranta giorni prima all'incolpato, il quale puo' prendere visione ed estrarre copia degli atti e depositare le sue difese non oltre dieci giorni prima della discussione.))
+
+((Nella seduta fissata per la discussione, il componente del Consiglio di presidenza di cui al comma 3 svolge la relazione.
+L'incolpato ha per ultimo la parola e puo' farsi assistere da altro componente di corte di giustizia tributaria di primo e secondo grado, ovvero da un avvocato.))
+
+((La sanzione disciplinare deliberata dal Consiglio di presidenza e' applicata con decreto del Ministro dell'economia e delle finanze.))
+
+((Per quanto non contemplato dal presente decreto si applicano le disposizioni sul procedimento disciplinare vigenti per i magistrati ordinari di cui al capo II del decreto legislativo 23 febbraio 2006, n. 109, in quanto compatibili.))
+
 ## Art. 15. — (Vigilanza e sanzioni disciplinari)
 
-Il presidente di ciascuna ((corte di giustizia tributaria di primo e secondo grado)) esercita la vigilanza sugli altri componenti e sulla qualita' e l'efficienza dei servizi di segreteria della propria commissione, al fine di segnalarne le risultanze al Dipartimento delle finanze del Ministero dell'economia e delle finanze per i provvedimenti di competenza. Il presidente di ciascuna ((corte di giustizia tributaria di secondo grado)) esercita la vigilanza sulla attivita' giurisdizionale delle ((corti di giustizia tributaria di primo grado)) aventi sede nella circoscrizione della stessa e sui loro componenti. ((27))
+Il presidente di ciascuna corte di giustizia tributaria di primo e secondo grado esercita la vigilanza sugli altri componenti e sulla qualita' e l'efficienza dei servizi di segreteria della propria commissione, al fine di segnalarne le risultanze al Dipartimento delle finanze del Ministero dell'economia e delle finanze per i provvedimenti di competenza. Il presidente di ciascuna corte di giustizia tributaria di secondo grado esercita la vigilanza sulla attivita' giurisdizionale delle corti di giustizia tributaria di primo grado aventi sede nella circoscrizione della stessa e sui loro componenti. (27)
 
-I componenti delle ((corti di giustizia tributaria di primo e secondo grado)), per comportamenti non conformi a doveri o alla dignita' del proprio ufficio, sono soggetti alle sanzioni individuate nei commi da 3 a 7.
+I ((giudici tributari)) delle corti di giustizia tributaria di primo e secondo grado, per comportamenti non conformi a doveri o alla dignita' del proprio ufficio, sono soggetti alle sanzioni individuate nei commi da 3 a 7.
 
 Si applica la sanzione dell'ammonimento per lievi trasgressioni.
 
@@ -627,7 +756,7 @@ Si applica la sanzione dell'ammonimento per lievi trasgressioni.
                             
                                 d)
                                 
-                                    i comportamenti abitualmente o gravemente scorretti nei confronti delle parti, dei loro difensori, o di chiunque abbia rapporti con il giudice nell'ambito della ((corte di giustizia tributaria di primo e secondo grado)), ovvero nei confronti di altri giudici o di collaboratori; 
+                                    i comportamenti abitualmente o gravemente scorretti nei confronti delle parti, dei loro difensori, o di chiunque abbia rapporti con il giudice nell'ambito della corte di giustizia tributaria di primo e secondo grado, ovvero nei confronti di altri giudici o di collaboratori; 
 
                                 
                             
@@ -641,7 +770,7 @@ Si applica la sanzione dell'ammonimento per lievi trasgressioni.
                             
                                 f)
                                 
-                                    l'omessa comunicazione al Presidente della ((corte di giustizia tributaria di primo e secondo grado)) da parte del giudice destinatario delle avvenute interferenze; 
+                                    l'omessa comunicazione al Presidente della corte di giustizia tributaria di primo e secondo grado da parte del giudice destinatario delle avvenute interferenze; 
 
                                 
                             
@@ -710,7 +839,7 @@ Si applica la sanzione dell'ammonimento per lievi trasgressioni.
                                 
                                     il frequentare persona che consti essere stata dichiarata delinquente abituale, professionale o per tendenza o aver subito condanna per delitti non colposi alla pena della reclusione superiore a tre anni o essere sottoposta ad una misura di prevenzione, salvo che sia intervenuta la riabilitazione, ovvero l'intrattenere rapporti consapevoli di affari con una di tali persone.
 
-Si applica la sanzione dell'incapacita' a esercitare un incarico direttivo per l'interferenza, nell'attivita' di altro giudice tributario, da parte del presidente della commissione o della sezione, se ripetuta o grave. ((27))
+Si applica la sanzione dell'incapacita' a esercitare un incarico direttivo per l'interferenza, nell'attivita' di altro giudice tributario, da parte del presidente della commissione o della sezione, se ripetuta o grave. (27)
 
 Si applica la rimozione dall'incarico nei casi di recidiva in trasgressioni di cui ai commi 5 e 6.
 
@@ -719,22 +848,122 @@ Si applica la rimozione dall'incarico nei casi di recidiva in trasgressioni di c
                             
  La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-## Art. 16. — Procedimento disciplinare
+## Art. 15-bis. — (( (Illeciti disciplinari dei magistrati tributari) ))
 
-Il procedimento disciplinare e' promosso dal Presidente del Consiglio dei Ministri o dal presidente della ((corte di giustizia tributaria di secondo grado)) nella cui circoscrizione presta servizio l'incolpato.
 
-Il consiglio di presidenza, nel termine di dieci giorni dalla richiesta di apertura del procedimento disciplinare, affida ad un suo componente l'incarico di procedere agli accertamenti preliminari da svolgersi entro trenta giorni.
 
-Il consiglio di presidenza, sulla base delle risultanze emerse provvede a contestare i fatti all'incolpato con invito a presentare entro trenta giorni le sue giustificazioni, a seguito delle quali, se non ritiene di archiviare gli atti, incarica un proprio componente di procedere alla istruttoria, che deve essere conclusa entro novanta giorni col deposito degli atti relativi presso la segreteria. Di tali deliberazioni deve essere data immediata comunicazione all'incolpato.
+((Costituiscono illeciti disciplinari nell'esercizio delle funzioni: 
+ a) fatto salvo quanto previsto dalle lettere b), c), g) e l), i comportamenti che, violando i doveri di cui al comma 1, arrecano ingiusto danno o indebito vantaggio ad una delle parti; 
+b) l'omissione della comunicazione, al Consiglio di presidenza della giustizia tributaria, della sussistenza di una delle situazioni di incompatibilita' di cui all'articolo 8; 
+c) la consapevole inosservanza dell'obbligo di astensione nei casi previsti dalla legge; 
+d) i comportamenti abitualmente o gravemente scorretti nei confronti delle parti, dei loro difensori, dei testimoni o di chiunque abbia rapporti con il magistrato nell'ambito dell'ufficio giudiziario, ovvero nei confronti di altri componenti delle corti di giustizia tributaria o di collaboratori; 
+e) l'ingiustificata interferenza nell'attivita' giudiziaria di altro componente delle corti di giustizia tributaria; 
+f) l'omessa comunicazione al capo dell'ufficio, da parte del magistrato destinatario, delle avvenute interferenze; 
+g) la grave violazione di legge determinata da ignoranza o negligenza inescusabile; 
+h) il travisamento dei fatti determinato da negligenza inescusabile; 
+i) l'emissione di provvedimenti privi di motivazione, ovvero la cui motivazione consiste nella sola affermazione della sussistenza dei presupposti di legge senza indicazione degli elementi di fatto dai quali tale sussistenza risulti, quando la motivazione e' richiesta dalla legge; 
+l) l'adozione di provvedimenti adottati nei casi non consentiti dalla legge, per negligenza grave e inescusabile, che abbiano leso diritti personali o, in modo rilevante, diritti patrimoniali; 
+m) la reiterata o grave inosservanza delle norme regolamentari, delle direttive o delle disposizioni sul servizio giudiziario o sui servizi organizzativi e informatici adottate dagli organi competenti; 
+n) l'indebito affidamento ad altri di attivita' rientranti nei propri compiti; 
+o) il reiterato, grave e ingiustificato ritardo nel compimento degli atti relativi all'esercizio delle funzioni. Si presume non grave, salvo che non sia diversamente dimostrato, il ritardo che non eccede il triplo dei termini previsti dalla legge per il compimento dell'atto; 
+p) l'omessa collaborazione del magistrato nell'attuazione delle misure di cui all'articolo 37, comma 5-bis, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, nonche' la reiterazione, all'esito dell'adozione di tali misure, delle condotte che le hanno imposte, se attribuibili al magistrato; 
+q) il sottrarsi in modo abituale e ingiustificato all'attivita' di servizio; 
+r) per il presidente della corte o il presidente di una sezione o il presidente di un collegio, l'omettere di assegnarsi affari e di redigere i relativi provvedimenti; 
+s) l'inosservanza dell'obbligo di rendersi reperibile per esigenze di ufficio quando esso sia imposto dalla legge o da disposizione legittima dell'organo competente; 
+t) la divulgazione, anche dipendente da negligenza, di atti del procedimento coperti dal segreto o di cui sia previsto il divieto di pubblicazione, nonche' la violazione del dovere di riservatezza sugli affari in corso di trattazione, o sugli affari definiti, quando e' idonea a ledere indebitamente diritti altrui; 
+u) pubbliche dichiarazioni o interviste che riguardino i soggetti coinvolti negli affari in corso di trattazione, ovvero trattati e non definiti con provvedimento non soggetto a impugnazione ordinaria, quando sono dirette a ledere indebitamente diritti altrui; 
+v) il sollecitare la pubblicita' di notizie attinenti alla propria attivita' di ufficio ovvero il costituire e l'utilizzare canali informativi personali riservati o privilegiati; 
+z) l'adozione intenzionale di provvedimenti affetti da palese incompatibilita' tra la parte dispositiva e la motivazione, tali da manifestare una precostituita e inequivocabile contraddizione sul piano logico, contenutistico o argomentativo; 
+aa) l'omissione, da parte del presidente della corte o del presidente di una sezione o di un collegio, della comunicazione agli organi competenti di fatti a lui noti che possono costituire illeciti disciplinari compiuti dai componenti della corte, della sezione o del collegio; 
+bb) l'omissione, da parte del presidente della corte ovvero da parte del presidente di sezione, della comunicazione, rispettivamente, al Consiglio di presidenza della giustizia tributaria, ovvero al presidente della corte, della sussistenza di una delle situazioni di incompatibilita' di cui all'articolo 8, ovvero delle situazioni che possono dare luogo all'adozione dei provvedimenti di cui agli articoli 12-ter, 12-quater e 12-quinquies; 
+cc) l'omessa adozione da parte del capo dell'ufficio delle iniziative di cui all'articolo 37, commi 5-bis e 5-ter, primo e secondo periodo, del decreto-legge n. 98 del 2011 nonche' l'omessa segnalazione al capo dell'ufficio da parte del presidente di sezione delle situazioni di cui all'articolo 37, comma 5-quater, del citato decreto-legge n. 98 del 2011; 
+dd) l'omissione, da parte del presidente della corte o del presidente di sezione, della comunicazione, rispettivamente, al Consiglio di presidenza della giustizia tributaria o al presidente della corte delle condotte del componente della corte o della sezione che non collabori nell'attuazione delle misure di cui all'articolo 37, comma 5-bis, del decreto-legge n. 98 del 2011; 
+ee) l'adozione di provvedimenti non previsti da norme vigenti ovvero sulla base di un errore macroscopico o di grave e inescusabile negligenza.))
 
-Il presidente del consiglio di presidenza, trascorso comunque il termine di cui al comma 3, fissa la data della discussione davanti allo stesso con decreto da notificare almeno quaranta giorni prima all'incolpato, il quale puo' prendere visione ed estrarre copia degli atti e depositare le sue difese non oltre dieci giorni prima della discussione.
+((Fermo restando quanto previsto dal comma 2, lettere g), h), i), l), m), n), z) ed ee), l'attivita' di interpretazione di norme di diritto e quella di valutazione del fatto e delle prove non danno luogo a responsabilita' disciplinare.))
 
-Nella seduta fissata per la discussione, il componente del consiglio di presidenza di cui al comma 3 svolge la relazione.
-L'incolpato ha per ultimo la parola e puo' farsi assistere da altro componente di ((corte di giustizia tributaria di primo e secondo grado)).
+((Costituiscono illeciti disciplinari al di fuori dell'esercizio delle funzioni: 
+ a) l'uso della qualita' di magistrato al fine di conseguire vantaggi ingiusti per se' o per altri; 
+b) il frequentare persona che al magistrato consta essere stata dichiarata delinquente abituale, professionale o per tendenza o aver subito condanna per delitti non colposi alla pena della reclusione superiore a tre anni o essere sottoposto a una misura di prevenzione, salvo che sia intervenuta la riabilitazione, ovvero l'intrattenere rapporti consapevoli di affari con una di tali persone; 
+c) l'assunzione di incarichi extragiudiziari senza la prescritta autorizzazione del Consiglio di presidenza della giustizia tributaria; 
+d) lo svolgimento di attivita' incompatibili con la funzione giudiziaria di cui all'articolo 16, comma 1, del regio decreto 30 gennaio 1941, n. 12, o di attivita' tali da recare concreto pregiudizio all'assolvimento dei doveri disciplinati dal comma 1; 
+e) l'ottenere, direttamente o indirettamente, per se' o per altri, prestiti o agevolazioni da soggetti che il magistrato sa essere parti in procedimenti tributari pendenti nei quali esercita le funzioni giudiziarie, ovvero dai difensori di costoro, nonche' ottenere, direttamente o indirettamente, per se' o per altri, prestiti o agevolazioni, a condizioni di eccezionale favore, da testimoni o comunque da soggetti coinvolti in detti procedimenti; 
+f) la partecipazione ad associazioni segrete o i cui vincoli sono oggettivamente incompatibili con l'esercizio delle funzioni giudiziarie; 
+g) l'iscrizione o la partecipazione sistematica e continuativa a partiti politici ovvero il coinvolgimento nelle attivita' di soggetti operanti nel settore economico o finanziario che possono condizionare l'esercizio delle funzioni o comunque compromettere l'immagine del magistrato; 
+h) l'uso strumentale della qualita' che, per la posizione del magistrato o per le modalita' di realizzazione, e' diretto a condizionare l'esercizio di funzioni costituzionalmente previste; 
+i) l'adoperarsi per condizionare indebitamente l'esercizio delle funzioni del Consiglio di presidenza della giustizia tributaria al fine di ottenere un ingiusto vantaggio per se' o per altri o di arrecare un danno ingiusto ad altri; 
+l) l'omissione, da parte del componente del Consiglio di presidenza della giustizia tributaria, della comunicazione agli organi competenti di fatti a lui noti che possono costituire illecito disciplinare ai sensi della lettera i).))
 
-La sanzione disciplinare deliberata dal consiglio di presidenza e' applicata con decreto del Ministro delle finanze.
+((L'illecito disciplinare non e' configurabile quando il fatto e' di scarsa rilevanza. L'illecito disciplinare previsto dal comma 2, lettera p), e' estinto quando il piano di smaltimento, adottato ai sensi dell'articolo 37, comma 5-bis, del decreto-legge n. 98 del 2011 e' stato rispettato. Il beneficio di cui al primo periodo puo' essere applicato una sola volta.))
 
-Per quanto non contemplato dalla presente legge si applicano le disposizioni sul procedimento disciplinare vigenti per i magistrati ordinari in quanto compatibili.
+((Costituiscono illeciti disciplinari conseguenti a reato: 
+ a) i fatti per i quali e' intervenuta condanna irrevocabile o e' stata pronunciata sentenza ai sensi dell'articolo 444, comma 2, del codice di procedura penale, per delitto doloso o preterintenzionale, quando la legge stabilisce la pena detentiva sola o congiunta alla pena pecuniaria; 
+b) i fatti per i quali e' intervenuta condanna irrevocabile o e' stata pronunciata sentenza ai sensi dell'articolo 444, comma 2, del codice di procedura penale, per delitto colposo, alla pena della reclusione, sempre che presentino, per modalita' e conseguenze, carattere di particolare gravita'; 
+c) i fatti per i quali e' intervenuta condanna irrevocabile o e' stata pronunciata sentenza ai sensi dell'articolo 444, comma 2, del codice di procedura penale, alla pena dell'arresto, sempre che presentino, per le modalita' di esecuzione, carattere di particolare gravita'; 
+d) qualunque fatto costituente reato idoneo a ledere l'immagine del magistrato, anche se il reato e' estinto per qualsiasi causa o l'azione penale non puo' essere iniziata o proseguita.))
+
+## Art. 15-ter. — (( (Sanzioni disciplinari dei magistrati tributari) ))
+
+((Il magistrato che viola i suoi doveri e' soggetto alle seguenti sanzioni disciplinari: 
+ a) l'ammonimento; 
+b) la censura; 
+c) la perdita dell'anzianita'; 
+d) l'incapacita' temporanea a esercitare un incarico direttivo o semidirettivo; 
+e) la sospensione dalle funzioni da tre mesi a due anni; 
+f) la rimozione.))
+
+((Quando per il concorso di piu' illeciti disciplinari si debbono irrogare piu' sanzioni di diversa gravita', si applica la sanzione prevista per l'infrazione piu' grave. Quando piu' illeciti disciplinari, commessi in concorso tra loro, sono puniti con la medesima sanzione, si applica la sanzione immediatamente piu' grave.
+Nei casi di cui al primo e al secondo periodo, puo' essere applicata anche la sanzione meno grave se compatibile.))
+
+((L'ammonimento e' un richiamo, espresso nel dispositivo della decisione disciplinare, all'osservanza, da parte del magistrato, dei suoi doveri, in rapporto all'illecito commesso.))
+
+((La censura e' una dichiarazione formale di biasimo contenuta nel dispositivo della decisione disciplinare.))
+
+((La perdita dell'anzianita' non puo' essere inferiore a due mesi e non puo' superare i due anni.))
+
+((La temporanea incapacita' a esercitare un incarico direttivo o semidirettivo non puo' essere inferiore a sei mesi e non puo' superare i due anni. Se il magistrato svolge funzioni direttive o semidirettive, debbono essergli conferite di ufficio altre funzioni non direttive o semidirettive, corrispondenti alla sua qualifica.
+Applicata la sanzione, il magistrato non puo' riprendere l'esercizio delle funzioni direttive o semidirettive presso l'ufficio ove le svolgeva anteriormente al provvedimento disciplinare.))
+
+((La sospensione dalle funzioni consiste nell'allontanamento dalle funzioni con la sospensione dallo stipendio e il collocamento del magistrato fuori dal ruolo organico della magistratura. Al magistrato sospeso e' corrisposto un assegno alimentare pari ai due terzi dello stipendio e delle altre competenze di carattere continuativo, se il magistrato sta percependo il trattamento economico riservato alla prima qualifica; alla meta', se alla seconda e terza qualifica; a un terzo, se alla quarta o quinta qualifica.))
+
+((La rimozione determina la cessazione del rapporto di servizio e viene attuata mediante decreto del Ministro dell'economia e delle finanze.))
+
+## Art. 15-quater. — (( (Sanzioni applicabili) ))
+
+((Si applica una sanzione non inferiore alla censura per: 
+ a) i comportamenti che, violando i doveri di cui all'articolo 15-bis, comma 1, arrecano ingiusto danno o indebito vantaggio a una delle parti; 
+b) la consapevole inosservanza dell'obbligo di astensione nei casi previsti dalla legge; 
+c) l'omissione, da parte dell'interessato, della comunicazione al Consiglio di presidenza della giustizia tributaria della sussistenza di una delle cause di incompatibilita' di cui all'articolo 8; 
+d) il tenere comportamenti che, a causa dei rapporti comunque esistenti con i soggetti coinvolti nel procedimento ovvero a causa di avvenute interferenze, costituiscano violazione del dovere di imparzialita'; 
+e) i comportamenti previsti dall'articolo 15-bis, comma 2, lettere d), e) e f); 
+f) il perseguimento di fini diversi da quelli di giustizia; 
+g) il reiterato o grave ritardo nel compimento degli atti relativi all'esercizio delle funzioni; 
+h) i comportamenti di cui all'articolo 15-bis, comma 2, lettera q); 
+i) la scarsa laboriosita', se abituale; 
+l) la grave o abituale violazione del dovere di riservatezza; 
+m) l'uso della qualita' di magistrato al fine di conseguire vantaggi ingiusti; 
+n) lo svolgimento di incarichi extragiudiziari senza avere richiesto o ottenuto la prescritta autorizzazione dal Consiglio di presidenza della giustizia tributaria, qualora per l'entita' e la natura dell'incarico il fatto non si appalesi di particolare gravita'.))
+
+((Si applica una sanzione non inferiore alla perdita dell'anzianita' per: 
+ a) i comportamenti che, violando i doveri di cui all'articolo 15-bis, comma 1, arrecano grave e ingiusto danno o indebito vantaggio a una delle parti; 
+b) l'uso della qualita' di magistrato al fine di conseguire vantaggi ingiusti, se abituale e grave; 
+c) i comportamenti previsti dall'articolo 15-bis, comma 4, lettera b).))
+
+((Si applica la sanzione della incapacita' a esercitare un incarico direttivo o semidirettivo per l'interferenza nell'attivita' di altro componente, da parte del dirigente dell'ufficio o del presidente della sezione, se ripetuta o grave, nonche' per la reiterata violazione dei doveri di cui all'articolo 37, commi 5-bis, 5-ter e 5-quater, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111.))
+
+((Si applica una sanzione non inferiore alla sospensione dalle funzioni per l'accettazione e lo svolgimento di incarichi e uffici vietati dalla legge ovvero per l'accettazione e lo svolgimento di incarichi per i quali non e' stata richiesta o ottenuta la prescritta autorizzazione, qualora per l'entita' e la natura dell'incarico il fatto si appalesi di particolare gravita'.))
+
+((Si applica la sanzione della rimozione al magistrato che sia stato condannato in sede disciplinare per i fatti previsti dall'articolo 15-bis, comma 4, lettera e), che incorre nella interdizione perpetua o temporanea dai pubblici uffici in seguito a condanna penale.))
+
+## Art. 15-quinquies. — (( (Trasferimento d'ufficio e provvedimenti cautelari) ))
+
+
+
+((Nei casi di procedimento disciplinare per addebiti punibili con una sanzione diversa dall'ammonimento, su richiesta dei soggetti di cui all'articolo 14-bis, comma 1, ove sussistano gravi elementi di fondatezza dell'azione disciplinare e ricorrano motivi di particolare urgenza, il Consiglio di presidenza della giustizia tributaria, in via cautelare e provvisoria, puo' disporre il trasferimento ad altra sede o la destinazione ad altre funzioni del magistrato incolpato.))
+
+## Art. 16. — ((ARTICOLO ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 149))
+
+
 
 ## - Capo III IL CONSIGLIO DI PRESIDENZA DELLA GIUSTIZIA TRIBUTARIA
 
@@ -901,6 +1130,13 @@ Il Consiglio di Presidenza scade al termine del quadriennio e continua ad eserci
                                 
                             
                             
+                                g-bis)
+                                
+                                    stabilisce annualmente i carichi esigibili, distintamente, per i magistrati tributari e per i giudici tributari; 
+
+                                
+                            
+                            
                                 h)
                                 
                                     assicura l'aggiornamento professionale dei giudici tributari attraverso l'organizzazione di corsi di formazione permanente, in sede centrale e decentrata; 
@@ -931,7 +1167,7 @@ Il Consiglio di Presidenza scade al termine del quadriennio e continua ad eserci
                             
                                 m-bis)
                                 
-                                    dispone, in caso di necessita', l'applicazione ((di magistrati e di giudici tributari)) presso altra corte di giustizia tributaria di primo e secondo grado o sezione staccata, rientrante nello stesso ambito regionale, per la durata massima di un anno; 
+                                    dispone, in caso di necessita', l'applicazione ((, con priorita' per i magistrati tributari,)) di magistrati e di giudici tributari presso altra corte di giustizia tributaria di primo e secondo grado o sezione staccata, rientrante nello stesso ambito regionale, per la durata massima di un anno; 
 
                                 
                             
@@ -954,24 +1190,21 @@ I componenti dell'Ufficio ispettivo sono esonerati dall'esercizio delle funzioni
 
 ## Art. 24-bis. — (( (Ufficio del massimario nazionale). ))
 
-((
 
-E' istituito presso il Consiglio di presidenza della giustizia tributaria l'Ufficio del massimario nazionale, al quale sono assegnati un direttore, che ne e' il responsabile, e quindici magistrati o giudici tributari.
 
-Il direttore, i magistrati e i giudici tributari assegnati all'Ufficio sono nominati con delibera del Consiglio di presidenza tra i componenti delle corti di giustizia tributaria di primo e secondo grado. La nomina del direttore e dei componenti dell'ufficio e' effettuata tra i candidati che hanno maturato non meno di sette anni di effettivo esercizio nelle funzioni giurisdizionali.
-L'incarico del direttore e dei componenti dell'Ufficio ha durata quinquennale e non e' rinnovabile.
+((Il direttore, i magistrati e i giudici tributari assegnati all'Ufficio sono nominati con delibera del Consiglio di presidenza tra i componenti delle corti di giustizia tributaria di primo e secondo grado. La nomina del direttore e dei componenti dell'ufficio e' effettuata tra i candidati che hanno maturato non meno di sette anni di effettivo esercizio nelle funzioni giurisdizionali.
+L'incarico del direttore e dei componenti dell'Ufficio ha durata quinquennale e non e' rinnovabile.))
 
-L'Ufficio del massimario nazionale provvede a rilevare, classificare e ordinare in massime le decisioni delle corti di giustizia tributaria di secondo grado e le piu' significative tra quelle emesse dalle corti di giustizia tributaria di primo grado.
+((L'Ufficio del massimario nazionale provvede a rilevare, classificare e ordinare in massime le decisioni delle corti di giustizia tributaria di secondo grado e le piu' significative tra quelle emesse dalle corti di giustizia tributaria di primo grado.))
 
-Le massime delle decisioni di cui al comma 3 alimentano la banca dati della giurisprudenza tributaria di merito, gestita dal Ministero dell'economia e delle finanze.
+((Le massime delle decisioni di cui al comma 3 alimentano la banca dati della giurisprudenza tributaria di merito, gestita dal Ministero dell'economia e delle finanze.))
 
-Mediante convenzione tra il Ministero dell'economia e delle finanze, il Consiglio di presidenza della giustizia tributaria e la Corte di cassazione sono stabilite le modalita' per la consultazione della banca dati della giurisprudenza tributaria di merito da parte della Corte.
+((Mediante convenzione tra il Ministero dell'economia e delle finanze, il Consiglio di presidenza della giustizia tributaria e la Corte di cassazione sono stabilite le modalita' per la consultazione della banca dati della giurisprudenza tributaria di merito da parte della Corte.))
 
-L'Ufficio del massimario nazionale si avvale delle risorse previste nel contingente di cui all'articolo 32 e dei servizi informatici del sistema informativo della fiscalita' del Ministero dell'economia e delle finanze.
+((L'Ufficio del massimario nazionale si avvale delle risorse previste nel contingente di cui all'articolo 32 e dei servizi informatici del sistema informativo della fiscalita' del Ministero dell'economia e delle finanze.))
 
-7. I componenti dell'Ufficio del massimario nazionale possono essere esonerati dall'esercizio delle funzioni giurisdizionali presso le corti di giustizia tributaria di primo e secondo grado. In caso di esonero, ai giudici tributari componenti dell'Ufficio e' corrisposto un trattamento economico, sostitutivo di quello previsto dall'articolo 13, pari alla meta' dell'ammontare piu' elevato corrisposto nello stesso periodo ai giudici tributari per l'incarico di presidente di corte di giustizia tributaria))
-
-((27))
+((I componenti dell'Ufficio del massimario nazionale possono essere esonerati dall'esercizio delle funzioni giurisdizionali presso le corti di giustizia tributaria di primo e secondo grado. In caso di esonero, ai giudici tributari componenti dell'Ufficio e' corrisposto un trattamento economico, sostitutivo di quello previsto dall'articolo 13, pari alla meta' dell'ammontare piu' elevato corrisposto nello stesso periodo ai giudici tributari per l'incarico di presidente di corte di giustizia tributaria)). 
+ ((27))
 
 ---------------
                             AGGIORNAMENTO (27)
@@ -1204,11 +1437,11 @@ In deroga all'articolo 2, comma 5, le controversie pendenti alla data del 1° ap
 
 Oltre ai compensi fisso e aggiuntivo spettanti ai sensi dell'articolo 13, al giudice unico e' dovuto, per ogni ricorso definito nella qualita', un compenso uguale a quello globalmente stabilito per le sentenze collegiali.
 
-## Art. 44-ter. — ( (Modifica delle tabelle
+## Art. 44-ter. — Modifica delle tabelle
 
 
 
-I criteri di valutazione e i punteggi di cui alle tabelle E ed F allegate al presente decreto sono modificati, su conforme parere del consiglio di presidenza della giustizia tributaria, con decreto del Ministro dell'economia e delle finanze)).
+((I punteggi di cui alla tabella F allegata)) al presente decreto sono modificati, su conforme parere del consiglio di presidenza della giustizia tributaria, con decreto del Ministro dell'economia e delle finanze.
 
 ## Art. 45. — Prima costituzione del consiglio di presidenza della giustizia tributaria
 

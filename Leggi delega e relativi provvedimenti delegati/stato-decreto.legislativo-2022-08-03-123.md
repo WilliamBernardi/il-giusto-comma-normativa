@@ -7,8 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2022-08-03;123
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-11-06
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -77,6 +78,14 @@ Il trattamento dei dati personali derivante dall'applicazione del presente decre
                                 
                             
                             
+                                a-bis)
+                                
+                                    
+                                        (("servizio di sicurezza gestito": un servizio prestato a un terzo consistente nello svolgimento di attivita' o nella fornitura di assistenza per tali attivita', legate alla gestione dei rischi in materia di cybersicurezza, ad esempio servizi di gestione degli incidenti, test di penetrazione, audit di sicurezza e consulenza, tra cui consulenza specialistica, relativa all'assistenza tecnica;))
+                                    
+                                
+                            
+                            
                                 b)
                                 
                                     «Regolamento»: Titolo III del regolamento (UE) 2019/881 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativo all'ENISA, l'Agenzia dell'Unione europea per la cibersicurezza, e alla certificazione della cibersicurezza per le tecnologie dell'informazione e della comunicazione, e che abroga il regolamento (UE) n. 526/2013; 
@@ -93,7 +102,7 @@ Il trattamento dei dati personali derivante dall'applicazione del presente decre
                             
                                 d)
                                 
-                                    «messa a disposizione sul mercato»: la fornitura di un prodotto TIC o di un servizio TIC per la distribuzione, il consumo o l'uso sul mercato dell'Unione Europea nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+                                    «messa a disposizione sul mercato»: la fornitura di un ((prodotto TIC, di un servizio TIC o di un servizio di sicurezza gestito)) per la distribuzione, il consumo o l'uso sul mercato dell'Unione Europea nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
 
                                 
                             
@@ -107,14 +116,14 @@ Il trattamento dei dati personali derivante dall'applicazione del presente decre
                             
                                 f)
                                 
-                                    «ritiro»: qualsiasi provvedimento volto ad impedire la messa a disposizione sul mercato di un prodotto TIC o servizio TIC nella catena della fornitura; 
+                                    «ritiro»: qualsiasi provvedimento volto ad impedire la messa a disposizione sul mercato di un ((prodotto TIC, di un servizio TIC o di un servizio di sicurezza gestito)) nella catena della fornitura; 
 
                                 
                             
                             
                                 g)
                                 
-                                    «vigilanza del mercato»: le attivita' svolte ed i provvedimenti adottati dall' Agenzia e dalle altre autorita' pubbliche competenti per garantire che i prodotti TIC, i servizi TIC ed i processi TIC ad essi collegati siano conformi ai requisiti stabiliti dal quadro europeo di certificazione e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto della protezione del pubblico interesse; 
+                                    «vigilanza del mercato»: le attivita' svolte ed i provvedimenti adottati dall' Agenzia e dalle altre autorita' pubbliche competenti per garantire che i prodotti TIC, i servizi TIC ed i processi TIC ad essi collegati ((nonche' i servizi di sicurezza gestiti)) siano conformi ai requisiti stabiliti dal quadro europeo di certificazione e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto della protezione del pubblico interesse; 
 
                                 
                             
@@ -198,7 +207,7 @@ Il trattamento dei dati personali derivante dall'applicazione del presente decre
                             
                                 u)
                                 
-                                    «dichiarazione UE di conformita'»: attestazione di conformita' rilasciata da un fabbricante di prodotti TIC o fornitore di servizi TIC ai sensi dell'articolo 53, paragrafo 1, del regolamento UE 2019/881, a seguito del processo di autovalutazione di conformita' previsto dallo stesso articolo; 
+                                    «dichiarazione UE di conformita'»: attestazione di conformita' rilasciata da un fabbricante di ((prodotti TIC, un fornitore di servizi TIC o un fornitore di servizi di sicurezza gestiti)) ai sensi dell'articolo 53, paragrafo 1, del regolamento UE 2019/881, a seguito del processo di autovalutazione di conformita' previsto dallo stesso articolo; 
 
                                 
                             
@@ -212,7 +221,7 @@ Il trattamento dei dati personali derivante dall'applicazione del presente decre
                             
                                 z)
                                 
-                                    «certificato europeo di cybersicurezza»: un documento rilasciato da un organismo di certificazione che attesta che un determinato prodotto TIC, servizio TIC o processo TIC e' stato oggetto di una valutazione di conformita' ai requisiti stabiliti da un sistema europeo di certificazione; 
+                                    «certificato europeo di cybersicurezza»: un documento rilasciato da un organismo di certificazione che attesta che un determinato prodotto TIC, ((servizio TIC, processo TIC o servizio di sicurezza gestito)) e' stato oggetto di una valutazione di conformita' ai requisiti stabiliti da un sistema europeo di certificazione; 
 
                                 
                             
@@ -329,7 +338,7 @@ L'Agenzia, nell'attivita' di vigilanza di cui al comma 1, puo' effettuare, nei c
                             
                                 b)
                                 
-                                    per il livello di affidabilita' di base o sostanziale nel caso in cui il certificato non conforme sia relativo ad un prodotto TIC, servizio TIC o processo TIC che ha comportato un concreto e dimostrato pregiudizio ad un servizio essenziale ai sensi dell'allegato II del decreto legislativo 18 maggio 2018, n. 65, o a un servizio di comunicazione elettronica ai sensi dell'articolo 2, comma 1, lettera fff), del decreto legislativo 1° agosto 2003, n. 259, o alla salute o all'incolumita' personale; 
+                                    per il livello di affidabilita' di base o sostanziale nel caso in cui il certificato non conforme sia relativo ad un prodotto TIC, ((servizio TIC, processo TIC o servizio di sicurezza gestito che ha comportato un concreto e dimostrato pregiudizio a un soggetto essenziale di cui all'articolo 6, commi 1 e 2, del decreto legislativo 4 settembre 2024, n. 138,)) o alla salute o all'incolumita' personale; 
 
                                 
                             
@@ -338,19 +347,19 @@ L'Agenzia, nell'attivita' di vigilanza di cui al comma 1, puo' effettuare, nei c
                                 
                                     se previsto espressamente dallo specifico sistema europeo di certificazione.
 
-Nella fattispecie di cui alla lettera a) del comma 4 l'Agenzia provvede direttamente alla revoca del certificato. Nella fattispecie di cui alla lettera b) del comma 4 l'Agenzia chiede all'organismo emittente il certificato di provvedere alla revoca del certificato entro e non oltre cinque giorni e, in caso di inottemperanza, provvede direttamente entro i successivi cinque giorni. Nella fattispecie di cui alla lettera c) del comma 4 si provvede in base alle regole stabilite dal sistema specifico di certificazione.
+Nella fattispecie di cui alla lettera a) del comma 4 l'Agenzia provvede direttamente alla revoca del certificato. Nella fattispecie di cui alla lettera b) del comma 4 l'Agenzia chiede all'organismo emittente il certificato di provvedere alla revoca del certificato ((, dandone contestuale notifica all'Agenzia,)) entro e non oltre cinque giorni e, in caso di inottemperanza, provvede direttamente entro i successivi cinque giorni. Nella fattispecie di cui alla lettera c) del comma 4 si provvede in base alle regole stabilite dal sistema specifico di certificazione.
 
-Accertata l'emissione di un certificato non conforme rilasciato ai sensi dell'articolo 56, paragrafi 4, 5, lettera b), o 6, lettere a) e b), del Regolamento, in esito alle attivita' di vigilanza di cui al comma 1, fatti salvi i casi di revoca di cui alle lettere a), b) o c) del comma 4, l'Agenzia chiede all'organismo che ha emesso il certificato di ripetere in tutto o in parte l'attivita' di valutazione o integrare l'attivita' di valutazione con ulteriori verifiche e ricondurre il certificato a conformita' entro centoventi giorni o revocare il certificato. In caso di mancata riconduzione a conformita' o mancata revoca del certificato non conforme da parte dell'organismo, il certificato decade. La riconduzione a conformita' o la revoca del certificato sono divulgate ai sensi dell'articolo 54, paragrafo 1, lettera s), del Regolamento.
+Accertata l'emissione di un certificato non conforme rilasciato ai sensi dell'articolo 56, paragrafi 4, 5, lettera b), o 6, lettere a) e b), del Regolamento, in esito alle attivita' di vigilanza di cui al comma 1, fatti salvi i casi di revoca di cui alle lettere a), b) o c) del comma 4, l'Agenzia chiede all'organismo che ha emesso il certificato di ripetere in tutto o in parte l'attivita' di valutazione o integrare l'attivita' di valutazione con ulteriori verifiche e ricondurre il certificato a conformita' entro ((i termini stabiliti dall'Agenzia e comunque non oltre)) centoventi giorni o revocare il certificato. In caso di mancata riconduzione a conformita' o mancata revoca del certificato non conforme da parte dell'organismo, il certificato decade. La riconduzione a conformita' o la revoca del certificato sono divulgate ai sensi dell'articolo 54, paragrafo 1, lettera s), del Regolamento.
 
 L'Agenzia, per le prove tecniche nell'ambito delle attivita' di cui al comma 1, puo' effettuare valutazioni di sicurezza informatica anche attraverso esperti esterni o laboratori di prova abilitati dall'Agenzia, ai sensi dell'articolo 8, comma 4, e iscritti nell'elenco dei laboratori di prova e degli esperti per le attivita' di vigilanza nazionale.
 
 E' fatto obbligo agli organismi di valutazione della conformita', ai titolari dei certificati europei di cybersicurezza ed agli emittenti delle dichiarazioni di conformita' durante l'attivita' di vigilanza a cui sono sottoposti di cooperare con l'Agenzia nell'attivita' di verifica sui certificati e sulle dichiarazioni UE da essi emessi. Gli stessi mettono a disposizione, su richiesta dell'Agenzia, tutti i documenti di valutazione necessari per dimostrare la conformita' dei certificati e le dichiarazioni oggetto di verifica da parte dell'Agenzia assieme agli strumenti di valutazione eventualmente forniti dal fabbricante o dal fornitore nell'attivita' di valutazione come indicato nei rapporti di valutazione. L'onere della prova della conformita' di certificati e dichiarazioni e' in capo agli organismi di valutazione della conformita', ai titolari dei certificati o agli emittenti delle dichiarazioni di conformita'.
 
-Ai sensi dell'articolo 30, commi 4 e 5, della legge 24 dicembre 2012, n. 234, gli oneri derivanti dall'applicazione dei commi 3, 8 e 9 per i controlli effettuati dall'Agenzia e relativi in particolare all'impiego del personale in forza all'Agenzia, della strumentazione utilizzata nelle prove e dei materiali di consumo e per le missioni e spese generali, sono a carico dell'organismo di valutazione della conformita', del titolare del certificato o dell'emittente della dichiarazione UE di conformita' sottoposto all'attivita' di vigilanza. Nel caso in cui l'attivita' di vigilanza includa ulteriori spese, tra cui l'utilizzo di laboratori di prova esterni ed eventuali spese di trasporto per prodotti prelevati o sequestrati da sottoporre a verifica, le ulteriori spese sono ugualmente a carico del soggetto sottoposto all'attivita' di vigilanza. Le somme di cui al presente comma sono determinate e sono da corrispondere ai sensi dell'articolo 13.
+Ai sensi dell'articolo 30, commi 4 e 5, della legge 24 dicembre 2012, n. 234, gli oneri derivanti dall'applicazione dei ((commi 3 e 8)) per i controlli effettuati dall'Agenzia e relativi in particolare all'impiego del personale in forza all'Agenzia, della strumentazione utilizzata nelle prove e dei materiali di consumo e per le missioni e spese generali, sono a carico dell'organismo di valutazione della conformita', del titolare del certificato o dell'emittente della dichiarazione UE di conformita' sottoposto all'attivita' di vigilanza. Nel caso in cui l'attivita' di vigilanza includa ulteriori spese, tra cui l'utilizzo di laboratori di prova esterni ed eventuali spese di trasporto per prodotti prelevati o sequestrati da sottoporre a verifica, le ulteriori spese sono ugualmente a carico del soggetto sottoposto all'attivita' di vigilanza. Le somme di cui al presente comma sono determinate e sono da corrispondere ai sensi dell'articolo 13.
 
 ## Art. 6. — Rilascio dei certificati di cybersicurezza
 
-L'Agenzia rilascia i certificati di cybersicurezza con livello di affidabilita' elevato tramite l'Organismo di Certificazione della Sicurezza Informatica (OCSI), di cui all'articolo 60, paragrafo 2, del Regolamento, che si puo' avvalere di esperti o di laboratori di prova, ai sensi dell'articolo 8, comma 4, abilitati dall'Agenzia ad operare per proprio conto e iscritti nell'elenco dei laboratori di prova e degli esperti per le attivita' di vigilanza nazionale, ferme restando, per specifici sistemi di certificazione, le possibili modalita' di emissione dei certificati alternative ai sensi degli articoli 56, paragrafo 6, lettere a) e b), del Regolamento.
+L'Agenzia rilascia i certificati di cybersicurezza con livello di affidabilita' elevato ((, sostanziale e di base)) tramite l'Organismo di Certificazione della Sicurezza Informatica (OCSI), di cui all'articolo 60, paragrafo 2, del Regolamento, che si puo' avvalere di esperti o di laboratori di prova, ai sensi dell'articolo 8, comma 4, abilitati dall'Agenzia ad operare per proprio conto e iscritti nell'elenco dei laboratori di prova e degli esperti per le attivita' di ((certificazione)), ferme restando, per specifici sistemi di certificazione, le possibili modalita' di emissione dei certificati alternative ai sensi degli articoli 56, paragrafo 6, lettere a) e b), del Regolamento.
 
 Ove uno specifico sistema di certificazione preveda il rilascio dei certificati con livello di affidabilita' sostanziale o di base unicamente da parte di un organismo pubblico, ai sensi dell'articolo 56, paragrafo 5, del Regolamento, l'Agenzia rilascia tali certificati attraverso l'organismo di cui al comma 1. Il rilascio puo' avvenire ad opera di altro organismo di valutazione della conformita' pubblico, accreditato dall'Organismo di Accreditamento, monitorato e vigilato dall'Agenzia, ai sensi dell'articolo 58, paragrafo 7, lettera d), del Regolamento, e designato dall'Agenzia ai sensi del provvedimento di cui all'articolo 4, comma 2, salvo diverse disposizioni dello specifico sistema europeo di certificazione.
 
@@ -363,10 +372,9 @@ Ai sensi dell'articolo 30, commi 4 e 5, della legge 24 dicembre 2012, n. 234, gl
 
 Dichiarazioni UE di conformita'
 
-In un sistema di certificazione in cui e' autorizzata l'autovalutazione di conformita' ai sensi dell'articolo 54, paragrafo 1, lettera e), del Regolamento, i fornitori o fabbricanti di prodotti TIC, servizi TIC o processi TIC possono rilasciare sotto la propria responsabilita' dichiarazioni UE di conformita' di livello di base per dimostrare il rispetto di requisiti tecnici previsti nel sistema.
+In un sistema di certificazione in cui e' autorizzata l'autovalutazione di conformita' ai sensi dell'articolo 54, paragrafo 1, lettera e), del Regolamento, i fornitori o fabbricanti di prodotti TIC, ((servizi TIC, processi TIC o servizi di sicurezza gestiti)) possono rilasciare sotto la propria responsabilita' dichiarazioni UE di conformita' di livello di base per dimostrare il rispetto di requisiti tecnici previsti nel sistema.
 
-Il fabbricante o fornitore di prodotti TIC, servizi TIC o processi TIC rende disponibile all'Agenzia, per il periodo stabilito nel corrispondente sistema europeo di certificazione della cybersicurezza ai sensi dell'articolo 54, paragrafo 1, lettera q), del Regolamento, la dichiarazione UE di conformita', la documentazione tecnica e tutte le altre informazioni pertinenti relative alla conformita' dei prodotti TIC o servizi TIC al sistema.
-Una copia della dichiarazione UE di conformita' e' trasmessa all'Agenzia e all'ENISA.
+((Il fabbricante o fornitore di prodotti TIC, servizi TIC, processi TIC o servizi di sicurezza gestiti rende disponibile all'Agenzia, per il periodo stabilito nel corrispondente sistema europeo di certificazione della cybersicurezza ai sensi dell'articolo 54, paragrafo 1, lettera q), del Regolamento, la dichiarazione UE di conformita', la documentazione tecnica e tutte le altre informazioni pertinenti relative alla conformita' dei prodotti TIC, servizi TIC o servizi di sicurezza gestiti al sistema.)) Una copia della dichiarazione UE di conformita' e' trasmessa all'Agenzia e all'ENISA.
 
 Ove l'Agenzia accerti la non conformita' di una dichiarazione UE di conformita' in esito alle attivita' di vigilanza di cui all'articolo 5, comma 1, e' fatto obbligo al fabbricante o fornitore emittente di revisionare o revocare la dichiarazione UE di conformita' entro trenta giorni dandone comunicazione all'Agenzia e all'ENISA, salvo diversa disposizione dello specifico sistema di certificazione.
 
@@ -394,27 +402,27 @@ Allo scopo di elevare il livello nazionale di cybersicurezza, l'Agenzia puo' rea
 
 L'Agenzia monitora gli sviluppi nel campo della certificazione della cybersicurezza, anche consultando i portatori di interesse nazionale del settore e scambiando informazioni, esperienze e buone pratiche con la Commissione europea e le altre autorita' nazionali della cybersicurezza.
 
-Conformemente all'articolo 57 del Regolamento ed in assenza di un sistema europeo di certificazione, l'Agenzia puo' introdurre sistemi di certificazione nazionali della cybersicurezza, per prodotti TIC, servizi TIC o processi TIC.
+Conformemente all'articolo 57 del Regolamento ed in assenza di un sistema europeo di certificazione, l'Agenzia puo' introdurre sistemi di certificazione nazionali della cybersicurezza, per prodotti TIC, ((servizi TIC, processi TIC o servizi di sicurezza gestiti)).
 
 ## - Capo III Sanzioni, reclami e ricorsi giurisdizionali
 
 ## Art. 10. — Quadro sanzionatorio
 
-L'Agenzia, anche ai sensi dell'articolo 7, comma 1, lettera e), del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, in caso di violazione degli obblighi del quadro europeo di certificazione della cybersicurezza, ai sensi degli articoli 58, paragrafo 8, lettera f), e 65 del Regolamento irroga sanzioni pecuniarie ed accessorie, chiedendo la cessazione immediata della violazione. Si applica, in quanto compatibile, la disciplina della legge 24 novembre 1981, n. 689.
+L'Agenzia, anche ai sensi dell'articolo 7, comma 1, lettera e), del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, in caso di violazione degli obblighi del quadro europeo di certificazione della cybersicurezza, ai sensi degli articoli 58, paragrafo 8, lettera f), e 65 del Regolamento irroga sanzioni pecuniarie ed accessorie, chiedendo la cessazione immediata della violazione. Si applica ((l'articolo 17, comma 4-quater, del decreto-legge n. 82 del 2021)).
 
 Salvo che il fatto costituisca reato, l'organismo di valutazione della conformita' che emette un certificato di cybersicurezza non conforme e' punito con la sanzione del pagamento di una somma da 15.000 euro a 75.000 euro. In caso di omessa revoca di un certificato da parte dell'organismo su richiesta dell'Agenzia ai sensi dell'articolo 5, comma 5, si applica la sanzione del pagamento di una somma da 30.000 euro a 150.000 euro.
 
 Salvo che il fatto costituisca reato, il fabbricante o fornitore che emette una dichiarazione UE di conformita' volontaria non conforme e' punito con la sanzione del pagamento di una somma da 15.000 euro a 75.000 euro. In caso di omessa revisione o revoca di dichiarazione UE di conformita' volontaria o obbligatoria ai sensi dell'articolo 7, comma 3, si applica la sanzione del pagamento di una somma da 30.000 euro a 150.000 euro.
 
-Salvo che il fatto costituisca reato, in caso di obbligatorieta' di una dichiarazione UE di conformita', ai sensi dell'articolo 7, comma 4, o di un certificato di cybersicurezza, ai sensi dell'articolo 6, comma 3, il fabbricante o fornitore che mette a disposizione sul mercato un prodotto TIC o servizio TIC privo di dichiarazione UE di conformita' obbligatoria o con dichiarazione UE di conformita' obbligatoria non conforme o in assenza del certificato di cybersicurezza obbligatorio, e' punito con la sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. Alla medesima sanzione e' assoggettato il fabbricante o fornitore che per la messa a disposizione sul mercato di un prodotto TIC o di un servizio TIC si avvale di un processo TIC privo di dichiarazione UE di conformita' obbligatoria o con dichiarazione UE di conformita' obbligatoria non conforme o in assenza di certificato di cybersicurezza obbligatorio.
+Salvo che il fatto costituisca reato, in caso di obbligatorieta' di una dichiarazione UE di conformita', ai sensi dell'articolo 7, comma 4, o di un certificato di cybersicurezza, ai sensi dell'articolo 6, comma 3, il fabbricante o fornitore che mette a disposizione sul mercato un prodotto TIC ((, un servizio TIC o un servizio di sicurezza gestito)) privo di dichiarazione UE di conformita' obbligatoria o con dichiarazione UE di conformita' obbligatoria non conforme o in assenza del certificato di cybersicurezza obbligatorio, e' punito con la sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. Alla medesima sanzione e' assoggettato il fabbricante o fornitore che per la messa a disposizione sul mercato di un prodotto TIC o di un servizio TIC si avvale di un processo TIC privo di dichiarazione UE di conformita' obbligatoria o con dichiarazione UE di conformita' obbligatoria non conforme o in assenza di certificato di cybersicurezza obbligatorio.
 
-Nei casi di cui al comma 4 oppure ove, in esito ad un accertamento di non conformita' ai sensi dei commi 4, 5 o 6 dell'articolo 5, sia revocato o decada un certificato obbligatorio per la messa a disposizione sul mercato di un prodotto TIC o di un servizio TIC, l'Agenzia dispone il ritiro del prodotto o l'inibizione del servizio dal mercato a carico esclusivo del fabbricante o del fornitore indicando i tempi ed eventuali modalita' per il richiamo dei prodotti gia' immessi sul mercato o per l'inibizione del servizio;
+Nei casi di cui al comma 4 oppure ove, in esito ad un accertamento di non conformita' ai sensi dei commi 4, 5 o 6 dell'articolo 5, sia revocato o decada un certificato obbligatorio per la messa a disposizione sul mercato di un prodotto TIC ((, di un servizio TIC o di un servizio di sicurezza gestito)), l'Agenzia dispone il ritiro del prodotto o l'inibizione del servizio dal mercato a carico esclusivo del fabbricante o del fornitore indicando i tempi ed eventuali modalita' per il richiamo dei prodotti gia' immessi sul mercato o per l'inibizione del servizio;
 
 Salvo che il fatto costituisca reato, il fabbricante che non ottempera a quanto prescritto al comma 5 per il richiamo di prodotti gia' immessi sul mercato e' assoggettato alla sanzione del pagamento di una somma da 60.000 euro a 300.000 euro. Nel caso in cui il fabbricante non ottemperi al richiamo di prodotti dal mercato, l'Agenzia, trascorsi sei mesi dalla scadenza fissata, puo' provvedere, al sequestro dei prodotti in questione dal mercato, a spese del fabbricante.
 
 Salvo che il fatto costituisca reato, il fornitore che non ottempera a quanto prescritto al comma 5 per l'inibizione del servizio dal mercato e' assoggettato alla sanzione amministrativa da 60.000 euro a 300.000 euro.
 
-Salvo che il fatto costituisca reato, Il titolare di un certificato europeo di cybersicurezza che non notifichi, ai sensi dell'articolo 56, paragrafo 8, del Regolamento, eventuali vulnerabilita' o irregolarita' rilevate in relazione alla sicurezza dei prodotti TIC, servizi TIC o processi TIC certificati e' punito con la sanzione del pagamento di una somma da 60.000 euro a 300.000 euro. Alla medesima sanzione e' assoggettato l'organismo di valutazione della conformita' emittente un certificato di cybersicurezza o il suo titolare ovvero il fornitore o fabbricante emittente una dichiarazione UE di conformita', che dovesse rilevare o venire a conoscenza della presenza di vulnerabilita' nel prodotto TIC, servizio TIC o processo TIC certificato o dichiarato conforme, che non siano state riscontrate durante il processo di valutazione, e non ottemperi agli obblighi riguardanti il modo in cui segnalare e trattare le vulnerabilita' previste per lo specifico sistema di certificazione ai sensi dell'articolo 54, paragrafo 1, lettera m), del Regolamento.
+Salvo che il fatto costituisca reato, Il titolare di un certificato europeo di cybersicurezza che non notifichi, ai sensi dell'articolo 56, paragrafo 8, del Regolamento, eventuali vulnerabilita' o irregolarita' rilevate in relazione alla sicurezza dei prodotti TIC, ((servizi TIC, processi TIC o servizi di sicurezza gestiti)) certificati e' punito con la sanzione del pagamento di una somma da 60.000 euro a 300.000 euro. Alla medesima sanzione e' assoggettato l'organismo di valutazione della conformita' emittente un certificato di cybersicurezza o il suo titolare ovvero il fornitore o fabbricante emittente una dichiarazione UE di conformita', che dovesse rilevare o venire a conoscenza della presenza di vulnerabilita' nel prodotto TIC, ((servizio TIC, processo TIC o servizio di sicurezza gestito)) certificato o dichiarato conforme, che non siano state riscontrate durante il processo di valutazione, e non ottemperi agli obblighi riguardanti il modo in cui segnalare e trattare le vulnerabilita' previste per lo specifico sistema di certificazione ai sensi dell'articolo 54, paragrafo 1, lettera m), del Regolamento.
 
 Salvo che il fatto costituisca reato, il fabbricante o fornitore che non renda disponibile, per il periodo stabilito ai sensi dell'articolo 54, paragrafo 1, lettera q), del Regolamento, la dichiarazione UE di conformita' o la documentazione tecnica o tutte le altre informazioni pertinenti o non trasmetta una copia della dichiarazione UE di conformita' all'Agenzia o ad ENISA ai sensi dell'articolo 53, paragrafo 3, del Regolamento ovvero non renda disponibili pubblicamente una o piu' delle informazioni previste ai sensi dell'articolo 55 del Regolamento o non rispetti il formato o le procedure di aggiornamento delle stesse informazioni ai sensi dell'articolo 54, paragrafo 1, lettera v), del Regolamento o pubblichi informazioni non corrette sui certificati detenuti o sulle dichiarazioni UE di conformita' emesse, e' assoggettato alla sanzione del pagamento di una somma da 30.000 euro a 150.000 euro. Alla medesima sanzione e' assoggettato il fornitore o fabbricante che non comunichi la revisione o la revoca di una dichiarazione UE di conformita' ai sensi dell'articolo 7, comma 3, del presente decreto.
 
@@ -430,7 +438,7 @@ Salvo che il fatto costituisca reato, l'organismo di valutazione della conformit
 
 L'Agenzia puo' impartire ordini o intimare diffide ai soggetti che operano in contrasto con quanto previsto dal quadro europeo di certificazione. Ai soggetti che non ottemperano nel termine indicato nell'ordine o nella diffida l'Agenzia commina la sanzione del pagamento di una somma da 200.000 euro ad 1.000.000 di euro. Se le violazioni riguardano provvedimenti adottati dall'Agenzia nei confronti di soggetti con fatturato pari almeno a 200.000.000 euro, si applica a ciascun soggetto interessato una sanzione amministrativa pecuniaria non inferiore allo 0,3 per cento e non superiore all'1,5 per cento del fatturato, restando comunque fermo il limite massimo di 5.000.000 di euro. Come riferimento per il fatturato si assume il valore realizzato dallo stesso soggetto nell'esercizio precedente a quello in cui sia stato impartito l'ordine o sia stata intimata la diffida.
 
-Fermo restando il limite massimo di 5.000.000 di euro per la sanzione, i valori minimi e massimi delle sanzioni pecuniarie dal comma 2 al comma 15, sono triplicati, se la violazione ha riguardato un certificato relativo ad un prodotto TIC, ad un servizio TIC o ad un processo TIC rilasciato nell'ambito di un sistema di certificazione destinato, ai sensi dell'articolo 54, paragrafo 1, lettere a) o b), del Regolamento, all'utilizzo con le finalita' o nell'ambito di un servizio essenziale ai sensi dell'allegato II del decreto legislativo 18 maggio 2018, n. 65, o di un servizio di comunicazione elettronica ai sensi dell'articolo 2, comma 1, lettera fff), del decreto legislativo 1° agosto 2003, n. 259.
+Fermo restando il limite massimo di 5.000.000 di euro per la sanzione, i valori minimi e massimi delle sanzioni pecuniarie dal comma 2 al comma 15, sono triplicati, se la violazione ha riguardato un certificato relativo ad un prodotto TIC, ad un ((servizio TIC, ad un processo TIC o a un servizio di sicurezza gestito)) rilasciato nell'ambito di un sistema di certificazione destinato, ai sensi dell'articolo 54, paragrafo 1, lettere a) o b), del Regolamento, all'utilizzo con le finalita' o nell'ambito di un servizio ((erogato da un soggetto essenziale di cui all'articolo 6, commi 1 e 2, del decreto legislativo 4 settembre 2024, n. 138)).
 
 I criteri di graduazione nell'irrogazione delle sanzioni pecuniarie sono definiti con successivo provvedimento dell'Agenzia, adottato secondo la procedura di cui all'articolo 5, comma 3, alinea, del decreto del Presidente del Consiglio dei ministri 9 dicembre 2021, n. 223. Nelle more dell'adozione del provvedimento di definizione dei criteri di graduazione si applicano i criteri di cui all'articolo 11 della legge 24 novembre 1981, n. 689.
 
@@ -482,14 +490,13 @@ A norma del presente articolo, i ricorsi contro le decisioni dell'Agenzia sono p
 
 ## Art. 13.
 
-Destinazione dei proventi derivanti 
- dalle attivita' dell'Agenzia
+Destinazione dei proventi derivanti dalle attivita' dell'Agenzia
 
-Le attivita' di vigilanza di cui all'articolo 5, comma 1, di certificazione di cui all'articolo 6, comma 1, di autorizzazione di cui all'articolo 8, comma 3, di abilitazione di cui all'articolo 8, comma 4, sono sottoposte a tariffa, da calcolarsi sulla base dei costi effettivi dei servizi resi. I relativi proventi sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere successivamente riassegnati, con decreto del Ministro dell'economia e delle finanze sul pertinente capitolo dello stato di previsione della spesa del Ministero dell'economia e delle finanze, per incrementare la dotazione degli appositi capitoli dell'Agenzia. Con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, su proposta del Direttore generale dell'Agenzia, sono determinate le tariffe e modalita' di riscossione.
+Le attivita' di vigilanza di cui all'articolo 5, comma 1, di certificazione di cui all'articolo 6, comma 1, di autorizzazione di cui all'articolo 8, comma 3, di abilitazione di cui all'articolo 8, comma 4, sono sottoposte a tariffa, da calcolarsi sulla base dei costi effettivi dei servizi resi. I relativi proventi sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere successivamente riassegnati, con decreto del Ministro dell'economia e delle finanze sul pertinente capitolo dello stato di previsione della spesa del Ministero dell'economia e delle finanze, ((di cui all'articolo 18 del decreto-legge n. 82 del 2021)). Con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, su proposta del Direttore generale dell'Agenzia, sono determinate le tariffe e modalita' di riscossione.
 
 Le spese per l'impiego di esperti o laboratori abilitati dall'Agenzia per le attivita' di vigilanza di cui all'articolo 5, comma 1, sono calcolate ai sensi del decreto di cui al comma 1.
 
-Gli introiti derivanti dalle sanzioni pecuniarie di cui all'articolo 10 sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere successivamente riassegnati con decreto del Ministro dell'economia e delle finanze sul pertinente capitolo dello stato di previsione della spesa del Ministero dell'economia e delle finanze, per incrementare la dotazione dei capitoli del bilancio dell'Agenzia destinati alle attivita' di ricerca e formazione concernenti la certificazione della cybersicurezza di prodotti TIC, servizi TIC e processi TIC di cui all'articolo 9, comma 1.
+Gli introiti derivanti dalle sanzioni pecuniarie di cui all'articolo 10 sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere successivamente riassegnati con decreto del Ministro dell'economia e delle finanze sul pertinente capitolo dello stato di previsione della spesa del Ministero dell'economia e delle finanze, ((di cui all'articolo 18 del decreto-legge n. 82 del 2021, e)) destinati alle attivita' di ricerca e formazione concernenti la certificazione della cybersicurezza di prodotti TIC, ((servizi TIC, processi TIC e servizi di sicurezza gestiti)) di cui all'articolo 9, comma 1.
 
 ## Art. 14. — Ulteriori disposizioni finanziarie
 

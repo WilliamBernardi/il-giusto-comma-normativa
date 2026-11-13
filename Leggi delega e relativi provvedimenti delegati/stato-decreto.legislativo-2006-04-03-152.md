@@ -8,9 +8,9 @@ codice_redazionale: 006G0171
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-08-08
-zip_date: 2026-08-12
-fetched_at: 2026-08-12
+vigenza_date: 2026-11-12
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -175,7 +175,7 @@ La presentazione delle istanze di cui al comma 1 non ha effetto sulle scadenze p
 1.
                         
                             
-                                Le norme del presente decreto costituiscono recepimento ed attuazione: 
+                                Le norme ((della presente parte seconda)) costituiscono recepimento ed attuazione: 
  
                             
                             
@@ -186,11 +186,19 @@ La presentazione delle istanze di cui al comma 1 non ha effetto sulle scadenze p
                                 
                             
                             
+                                b)
+                                
+                                    della direttiva 2014/52/UE del Parlamento europeo e del Consiglio, del 16 aprile 2014, che modifica la direttiva 2011/92/UE concernente la valutazione di impatto ambientale di determinati progetti pubblici e privati; (112) 
+
+                                
+                            
+                            
                                 c)
                                 
-                                    della direttiva 2008/1/CE del Parlamento Europeo e del Consiglio del 15 gennaio 2008, concernente la prevenzione e la riduzione integrate dell'inquinamento.
+                                    
+                                        ((della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, relativa alle emissioni industriali e derivanti dall'allevamento di bestiame (prevenzione e riduzione integrate dell'inquinamento).))
 
-((COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104)).
+COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
 La valutazione ambientale di piani, programmi e progetti ha la finalita' di assicurare che l'attivita' antropica sia compatibile con le condizioni per uno sviluppo sostenibile, e quindi nel rispetto della capacita' rigenerativa degli ecosistemi e delle risorse, della salvaguardia della biodiversita' e di un'equa distribuzione dei vantaggi connessi all'attivita' economica. Per mezzo della stessa si affronta la determinazione della valutazione preventiva integrata degli impatti ambientali nello svolgimento delle attivita' normative e amministrative, di informazione ambientale, di pianificazione e programmazione.
 
@@ -208,9 +216,17 @@ La valutazione ambientale di piani, programmi e progetti ha la finalita' di assi
                                 
                             
                             
+                                b)
+                                
+                                    la valutazione ambientale dei progetti ha la finalita' di proteggere la salute umana, contribuire con un miglior ambiente alla qualita' della vita, provvedere al mantenimento delle specie e conservare la capacita' di riproduzione degli ecosistemi in quanto risorse essenziali per la vita. A questo scopo essa individua, descrive e valuta, in modo appropriato, per ciascun caso particolare e secondo le disposizioni del presente decreto, gli impatti ambientali di un progetto come definiti all'articolo 5, comma 1, lettera c). (112) 
+
+                                
+                            
+                            
                                 c)
                                 
-                                    l'autorizzazione integrata ambientale ha per oggetto la prevenzione e la riduzione integrate dell'inquinamento proveniente dalle attivita' di cui all'allegato VIII e prevede misure intese a evitare, ove possibile, o a ridurre le emissioni nell'aria, nell'acqua e nel suolo, comprese le misure relative ai rifiuti, per conseguire un livello elevato di protezione dell'ambiente salve le disposizioni sulla valutazione di impatto ambientale.
+                                    
+                                        ((l'autorizzazione integrata ambientale ha per oggetto la prevenzione e la riduzione integrate dell'inquinamento proveniente dalle attivita' di cui all'allegato VIII e VIII-bis alla parte seconda e prevede misure intese a evitare, ove possibile, o a ridurre progressivamente le emissioni delle suddette attivita' nell'aria, nell'acqua e nel suolo, e la produzione di rifiuti, a migliorare l'efficienza nell'impiego delle risorse, nonche' a promuovere l'economia circolare e la decarbonizzazione, per garantire che ciascuna attivita' contribuisca all'obiettivo di conseguire, a scala unionale, un livello elevato di protezione della salute umana e dell'ambiente nel loro complesso.))
 
 --------------
                             AGGIORNAMENTO (112)
@@ -293,8 +309,8 @@ La valutazione ambientale di piani, programmi e progetti ha la finalita' di assi
                             
                                 g)
                                 
-                                    progetto: la realizzazione di lavori di costruzione o di altri impianti od opere e di altri interventi sull'ambiente naturale o sul paesaggio, compresi quelli destinati allo sfruttamento delle risorse del suolo. ((Ai fini del rilascio del provvedimento di VIA il proponente presenta il progetto di fattibilita' come definito dall'articolo 23, commi 5 e 6, del decreto legislativo 18 aprile 2016, n. 50, o, ove disponibile, il progetto definitivo come definito dall'articolo 23, comma 7, del decreto legislativo n. 50 del 2016, ed in ogni caso tale da consentire la compiuta valutazione dei contenuti dello studio di impatto ambientale ai sensi dell'allegato IV della direttiva 2011/92/UE;)) (112) ((134))
-                                    
+                                    progetto: la realizzazione di lavori di costruzione o di altri impianti od opere e di altri interventi sull'ambiente naturale o sul paesaggio, compresi quelli destinati allo sfruttamento delle risorse del suolo. Ai fini del rilascio del provvedimento di VIA il proponente presenta il progetto di fattibilita' come definito dall'articolo 23, commi 5 e 6, del decreto legislativo 18 aprile 2016, n. 50, o, ove disponibile, il progetto definitivo come definito dall'articolo 23, comma 7, del decreto legislativo n. 50 del 2016, ed in ogni caso tale da consentire la compiuta valutazione dei contenuti dello studio di impatto ambientale ai sensi dell'allegato IV della direttiva 2011/92/UE; (112) (134) 
+
                                 
                             
                             
@@ -314,8 +330,8 @@ La valutazione ambientale di piani, programmi e progetti ha la finalita' di assi
                             
                                 i)
                                 
-                                    studio di impatto ambientale: documento che integra ((i progetti)) ai fini del procedimento di VIA, redatto in conformita' alle disposizioni di cui all'articolo 22 e alle indicazioni contenute nell'allegato VII alla parte seconda del presente decreto; (112) ((134))
-                                    
+                                    studio di impatto ambientale: documento che integra i progetti ai fini del procedimento di VIA, redatto in conformita' alle disposizioni di cui all'articolo 22 e alle indicazioni contenute nell'allegato VII alla parte seconda del presente decreto; (112) (134) 
+
                                 
                             
                             
@@ -328,29 +344,31 @@ La valutazione ambientale di piani, programmi e progetti ha la finalita' di assi
                             
                                 i-ter)
                                 
-                                    inquinamento: l'introduzione diretta o indiretta, a seguito di attivita' umana, di sostanze, vibrazioni, calore o rumore o piu' in generale di agenti fisici o chimici, nell'aria, nell'acqua o nel suolo, che potrebbero nuocere alla salute umana o alla qualita' dell'ambiente, causare il deterioramento dei beni materiali, oppure danni o perturbazioni a valori ricreativi dell'ambiente o ad altri suoi legittimi usi; 
+                                    inquinamento: l'introduzione diretta o indiretta, a seguito di attivita' umana, di sostanze, vibrazioni, calore ((, rumore, odore)) o piu' in generale di agenti fisici o chimici, nell'aria, nell'acqua o nel suolo, che potrebbero nuocere alla salute umana o alla qualita' dell'ambiente, causare il deterioramento dei beni materiali, oppure danni o perturbazioni a valori ricreativi dell'ambiente o ad altri suoi legittimi usi; 
 
                                 
                             
                             
                                 i-quater)
                                 
-                                    'installazione': unita' tecnica permanente, in cui sono svolte una o piu' attivita' elencate all'allegato VIII alla Parte Seconda e qualsiasi altra attivita' accessoria, che sia tecnicamente connessa con le attivita' svolte nel luogo suddetto e possa influire sulle emissioni e sull'inquinamento. E' considerata accessoria l'attivita' tecnicamente connessa anche quando condotta da diverso gestore; 
+                                    'installazione': unita' tecnica permanente, in cui sono svolte una o piu' attivita' elencate all'allegato VIII ((o all'allegato VIII-bis)) alla Parte Seconda e qualsiasi altra attivita' accessoria, che sia tecnicamente connessa con le attivita' ((elencate nei suddetti allegati, sia esercita nel medesimo sito)) e possa influire sulle emissioni e sull'inquinamento. E' considerata accessoria l'attivita' tecnicamente connessa anche quando condotta da diverso gestore; 
 
                                 
                             
                             
                                 i-quinquies)
                                 
-                                    'installazione esistente': ai fini dell'applicazione del Titolo III-bis alla Parte Seconda una installazione che, al 6 gennaio 2013, ha ottenuto tutte le autorizzazioni ambientali necessarie all'esercizio o il provvedimento positivo di compatibilita' ambientale o per la quale, a tale data, sono state presentate richieste complete per tutte le autorizzazioni ambientali necessarie per il suo esercizio, a condizione che essa entri in funzione entro il 6 gennaio 2014. Le installazioni esistenti si qualificano come 'non gia' soggette ad AIA' se in esse non si svolgono attivita' gia' ricomprese nelle categorie di cui all'Allegato VIII alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, come introdotto dal decreto legislativo 29 giugno 2010, n. 128; 
-
+                                    
+                                        ((valore limite di prestazione ambientale: un valore di prestazione incluso in un'autorizzazione, espresso per determinate condizioni in rapporto a determinati parametri specifici;))
+                                    
                                 
                             
                             
                                 i-sexies)
                                 
-                                    'nuova installazione': una installazione che non ricade nella definizione di installazione esistente; 
-
+                                    
+                                        ((profonda trasformazione industriale: l'attuazione, da parte degli operatori industriali, di tecniche emergenti o delle migliori tecniche disponibili che comportano un cambiamento importante nella progettazione o nella tecnologia di un'installazione, in tutto o in parte, o la sostituzione di un'installazione esistente con una nuova installazione, che consenta una riduzione estremamente sostanziale delle emissioni di gas a effetto serra in linea con l'obiettivo della neutralita' climatica e ottimizzi i vantaggi collaterali per l'ambiente, almeno ai livelli che possono essere conseguiti con le tecniche individuate nelle conclusioni sulle BAT applicabili, tenendo conto degli effetti incrociati;))
+                                    
                                 
                             
                             
@@ -377,14 +395,14 @@ La valutazione ambientale di piani, programmi e progetti ha la finalita' di assi
                             
                                 l)
                                 
-                                    modifica: la variazione di un piano, programma, impianto o progetto approvato, compresi, nel caso degli impianti e dei progetti, le variazioni delle loro caratteristiche o del loro funzionamento, ovvero un loro potenziamento, che possano produrre effetti sull'ambiente; 
+                                    modifica: la variazione di un piano, programma, ((installazione,)) impianto o progetto approvato, compresi, nel caso ((delle installazioni,)) degli impianti e dei progetti, le variazioni delle loro caratteristiche o del loro funzionamento, ovvero un loro potenziamento, che possano produrre effetti sull'ambiente; 
 
                                 
                             
                             
                                 l-bis)
                                 
-                                    modifica sostanziale di un progetto, opera o di un impianto: la variazione delle caratteristiche o del funzionamento ovvero un potenziamento dell'impianto, dell'opera o dell'infrastruttura o del progetto che, secondo l'autorita' competente, producano effetti negativi e significativi sull'ambiente o sulla salute umana. In particolare, con riferimento alla disciplina dell'autorizzazione integrata ambientale, per ciascuna attivita' per la quale l'allegato VIII indica valori di soglia, e' sostanziale una modifica all'installazione che dia luogo ad un incremento del valore di una delle grandezze, oggetto della soglia, pari o superiore al valore della soglia stessa; 
+                                    modifica sostanziale di un progetto, opera ((, installazione,)) o di un impianto: la variazione delle caratteristiche o del funzionamento ovvero un potenziamento ((dell'installazione,)) dell'impianto, dell'opera o dell'infrastruttura o del progetto che, secondo l'autorita' competente, producano effetti negativi e significativi sull'ambiente o sulla salute umana. In particolare, con riferimento alla disciplina dell'autorizzazione integrata ambientale, per ciascuna attivita' per la quale l'allegato VIII ((, o l'allegato VIII-bis,)) indica valori di soglia, e' sostanziale una modifica all'installazione che dia luogo ad un incremento del valore di una delle grandezze, oggetto della soglia, pari o superiore al valore della soglia stessa; 
 
                                 
                             
@@ -393,13 +411,38 @@ La valutazione ambientale di piani, programmi e progetti ha la finalita' di assi
                                 
                                     migliori tecniche disponibili (best available techniques - BAT): la piu' efficiente e avanzata fase di sviluppo di attivita' e relativi metodi di esercizio indicanti l'idoneita' pratica di determinate tecniche a costituire, in linea di massima, la base dei valori limite di emissione e delle altre condizioni di autorizzazione intesi ad evitare oppure, ove cio' si riveli impossibile, a ridurre in modo generale le emissioni e l'impatto sull'ambiente nel suo complesso. Nel determinare le migliori tecniche disponibili, occorre tenere conto in particolare degli elementi di cui all'allegato XI. Si intende per: 
  1) tecniche: sia le tecniche impiegate sia le modalita' di progettazione, costruzione, manutenzione, esercizio e chiusura dell'impianto; 
- 2) disponibili: le tecniche sviluppate su una scala che ne consenta l'applicazione in condizioni economicamente e tecnicamente idonee nell'ambito del relativo comparto industriale, prendendo in considerazione i costi e i vantaggi, indipendentemente dal fatto che siano o meno applicate o prodotte in ambito nazionale, purche' il gestore possa utilizzarle a condizioni ragionevoli; 
- 3) migliori: le tecniche piu' efficaci per ottenere un elevato livello di protezione dell'ambiente nel suo complesso; 
+ 2) disponibili: le tecniche sviluppate su una scala che ne consenta l'applicazione in condizioni economicamente e tecnicamente ((attuabili)) nell'ambito del relativo comparto industriale, prendendo in considerazione i costi e i vantaggi, indipendentemente dal fatto che siano o meno applicate o prodotte in ambito nazionale ((o dell'Unione europea, purche' il gestore possa avervi accesso a condizioni ragionevoli)); 
+ 3) migliori: le tecniche piu' efficaci per ottenere un elevato livello di protezione dell'ambiente nel suo complesso ((, comprese la salute umana e la protezione del clima)); 
  l-ter.1) 'documento di riferimento sulle BAT' o 'BREF': documento pubblicato dalla Commissione europea ai sensi dell'articolo 13, paragrafo 6, della direttiva 2010/75/UE ; 
- l-ter.2) 'conclusioni sulle BAT': un documento adottato secondo quanto specificato all'articolo 13, paragrafo 5, della direttiva 2010/75/UE, e pubblicato in italiano nella Gazzetta Ufficiale dell'Unione europea, contenente le parti di un BREF riguardanti le conclusioni sulle migliori tecniche disponibili, la loro descrizione, le informazioni per valutarne l'applicabilita', i livelli di emissione associati alle migliori tecniche disponibili, il monitoraggio associato, i livelli di consumo associati e, se del caso, le pertinenti misure di bonifica del sito; 
+ l-ter.2) 'conclusioni sulle BAT': un documento adottato secondo quanto specificato all'articolo 13, paragrafo 5, della direttiva 2010/75/UE, e pubblicato in italiano nella Gazzetta Ufficiale dell'Unione europea, contenente le parti di un BREF riguardanti le conclusioni sulle migliori tecniche disponibili ((e sulle tecniche emergenti, la loro descrizione, le informazioni per valutarne l'applicabilita', i livelli di emissione associati alle migliori tecniche disponibili, i livelli di prestazione ambientale associati a tali tecniche, i contenuti di un sistema di gestione ambientale comprensivo dei valori di riferimento, il monitoraggio associato, i livelli di consumo associati e, se del caso, le pertinenti misure di ripristino del sito)); 
+ l-ter.3) ((norme operative: le norme per condizioni operative uniformi emanate dalla Commissione europea, con atto di esecuzione adottato ai sensi dell'articolo 70 decies, paragrafo 2, della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, come modificata dalla direttiva (UE) 2024/1785 del Parlamento europeo e del Consiglio, del 24 aprile 2024;)) 
  l-ter.4) 'livelli di emissione associati alle migliori tecniche disponibili' o 'BAT-AEL': intervalli di livelli di emissione ottenuti in condizioni di esercizio normali utilizzando una migliore tecnica disponibile o una combinazione di migliori tecniche disponibili, come indicato nelle conclusioni sulle BAT, espressi come media in un determinato arco di tempo e nell'ambito di condizioni di riferimento specifiche; 
- l-ter.5) 'tecnica emergente': una tecnica innovativa per un'attivita' industriale che, se sviluppata commercialmente, potrebbe assicurare un piu' elevato livello di protezione dell'ambiente nel suo complesso o almeno lo stesso livello di protezione dell'ambiente e maggiori risparmi di spesa rispetto alle migliori tecniche disponibili esistenti; 
+ l-ter.5) 'tecnica emergente': una tecnica innovativa per un'attivita' industriale che, se sviluppata commercialmente, potrebbe assicurare un piu' elevato livello di protezione ((della salute umana e)) dell'ambiente nel ((loro)) complesso o almeno lo stesso livello di protezione ((della salute umana e)) dell'ambiente e maggiori risparmi di spesa rispetto alle migliori tecniche disponibili esistenti; 
 
+                                
+                            
+                            
+                                l-quater)
+                                
+                                    
+                                        ((livelli di prestazione ambientale associati alle migliori tecniche disponibili o BATAEPL: gli intervalli di livelli di prestazione ambientale, ottenuti in condizioni di esercizio normali utilizzando una BAT o una combinazione di BAT, come descritto nelle conclusioni sulle BAT;))
+                                    
+                                
+                            
+                            
+                                l-quinquies)
+                                
+                                    
+                                        ((prestazione ambientale: la prestazione relativa ai livelli di consumo, all'efficienza delle risorse in relazione ai materiali, all'acqua e alle risorse energetiche, al riutilizzo dei materiali e dell'acqua e alla produzione di rifiuti;))
+                                    
+                                
+                            
+                            
+                                l-sexies)
+                                
+                                    
+                                        ((valori di riferimento: la gamma indicativa dei livelli di prestazione ambientale associati alle migliori tecniche disponibili, da utilizzare come riferimento nel sistema di gestione ambientale;))
+                                    
                                 
                             
                             
@@ -455,15 +498,23 @@ Un'autorizzazione integrata ambientale puo' valere per una o piu' installazioni 
                             
                                 o-quater)
                                 
-                                    condizione ambientale del provvedimento di VIA: prescrizione vincolante eventualmente associata al provvedimento di VIA che definisce ((le linee di indirizzo da seguire nelle successive fasi di sviluppo progettuale delle opere per garantire l'applicazione di criteri ambientali atti a contenere e limitare gli impatti ambientali significativi e negativi o incrementare le prestazioni ambientali del progetto, nonche')) i requisiti per la realizzazione del progetto o l'esercizio delle relative attivita', ovvero le misure previste per evitare, prevenire, ridurre e, se possibile, compensare gli impatti ambientali significativi e negativi nonche', ove opportuno, le misure di monitoraggio; (112) ((134))
-                                    
+                                    condizione ambientale del provvedimento di VIA: prescrizione vincolante eventualmente associata al provvedimento di VIA che definisce le linee di indirizzo da seguire nelle successive fasi di sviluppo progettuale delle opere per garantire l'applicazione di criteri ambientali atti a contenere e limitare gli impatti ambientali significativi e negativi o incrementare le prestazioni ambientali del progetto, nonche' i requisiti per la realizzazione del progetto o l'esercizio delle relative attivita', ovvero le misure previste per evitare, prevenire, ridurre e, se possibile, compensare gli impatti ambientali significativi e negativi nonche', ove opportuno, le misure di monitoraggio; (112) (134) 
+
                                 
                             
                             
                                 o-quinquies)
                                 
-                                    autorizzazione: il provvedimento che abilita il proponente a realizzare il progetto; (112) 
+                                    autorizzazione: il provvedimento che abilita il proponente a realizzare il progetto ((o il gestore a esercire l'installazione)); (112) 
 
+                                
+                            
+                            
+                                o-sexies)
+                                
+                                    
+                                        ((registrazione: procedura alternativa alla autorizzazione che, nei casi previsti, abilita il gestore a esercire l'installazione a seguito di una sua comunicazione, con la quale assume impegni conformi ai requisiti previsti;))
+                                    
                                 
                             
                             
@@ -518,7 +569,7 @@ Un'autorizzazione integrata ambientale puo' valere per una o piu' installazioni 
                             
                                 v)
                                 
-                                    pubblico interessato: il pubblico che subisce o puo' subire gli effetti delle procedure decisionali in materia ambientale o che ha un interesse in tali procedure; ai fini della presente definizione le organizzazioni non governative che promuovono la protezione dell'ambiente e che soddisfano i requisiti previsti dalla normativa statale vigente, nonche' le organizzazioni sindacali maggiormente rappresentative, sono considerate come aventi interesse; 
+                                    pubblico interessato: il pubblico che subisce o puo' subire gli effetti delle procedure decisionali in materia ambientale o che ha un interesse in tali procedure; ai fini della presente definizione le organizzazioni non governative che promuovono la protezione ((della salute umana o)) dell'ambiente e che soddisfano i requisiti previsti dalla normativa statale vigente, nonche' le organizzazioni sindacali maggiormente rappresentative, sono considerate come aventi interesse; 
 
                                 
                             
@@ -553,8 +604,9 @@ Un'autorizzazione integrata ambientale puo' valere per una o piu' installazioni 
                             
                                 v-sexies)
                                 
-                                    'pollame': il pollame quale definito all'articolo 2, comma 2, lettera a), del decreto del Presidente della Repubblica 3 marzo 1993, n. 587; 
-
+                                    
+                                        ((pollame: il pollame quale definito all'articolo 4, punto 9), del regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanita' animale ("normativa in materia di sanita' animale");))
+                                    
                                 
                             
                             
@@ -568,7 +620,50 @@ Un'autorizzazione integrata ambientale puo' valere per una o piu' installazioni 
                                 v-octies)
                                 
                                     'sostanze pericolose': le sostanze o miscele, come definite all'articolo 2, punti 7 e 8, del regolamento (CE) n. 1272/2008, del Parlamento europeo e del Consiglio, del 16 dicembre 2008, pericolose ai sensi dell'articolo 3 del medesimo regolamento.
-Ai fini della Parte Terza si applica la definizione di cui all'articolo 74, comma 2, lettera ee).
+Ai fini della Parte Terza si applica la definizione di cui all'articolo 74, comma 2, lettera ee). 
+
+                                
+                            
+                            
+                                v-novies)
+                                
+                                    
+                                        ((suini: i suini quali definiti all'articolo 2 del decreto legislativo 7 luglio 2011, n. 122;))
+                                    
+                                
+                            
+                            
+                                v-decies)
+                                
+                                    
+                                        ((unita' di bestiame (UBA): un'unita' di misura standard che consente l'aggregazione delle varie categorie di bestiame a fini comparativi ed e' calcolata utilizzando i coefficienti per le singole categorie di bestiame di cui all'allegato VIII-bis alla parte seconda;))
+                                    
+                                
+                            
+                            
+                                v-undecies)
+                                
+                                    
+                                        ((livelli di emissione associati alle tecniche emergenti: la gamma di livelli di emissione ottenuti in condizioni di esercizio normali utilizzando una tecnica emergente o una combinazione di tecniche emergenti, come descritto nelle conclusioni sulle BAT, espressi come media in un determinato arco di tempo nell'ambito di condizioni di riferimento specifiche;))
+                                    
+                                
+                            
+                            
+                                v-duodecies)
+                                
+                                    
+                                        ((livelli di prestazione ambientale associati alle tecniche emergenti: la gamma di livelli di prestazione ambientale, ottenuti in condizioni di esercizio normali, utilizzando una tecnica emergente o una combinazione di tecniche emergenti, come descritto nelle conclusioni sulle BAT;))
+                                    
+                                
+                            
+                            
+                                v-terdecies)
+                                
+                                    
+                                        ((garanzia della conformita': i meccanismi per garantire la conformita' utilizzando tre categorie di intervento: 
+ 1) promozione della conformita'; 
+ 2) monitoraggio della conformita'; 
+ 3) verifica e esecuzione.))
 
 Ai fini del della presente Parte Seconda si applicano inoltre le definizioni di 'impianto di incenerimento dei rifiuti' e di 'impianto di coincenerimento dei rifiuti' di cui alle lettere b) e c) del comma 1 dell'articolo 237-ter.
 
@@ -739,7 +834,7 @@ Per le modifiche, le estensioni o gli adeguamenti tecnici finalizzati a migliora
 
 Nell'ambito dei progetti gia' autorizzati, per le varianti progettuali legate a modifiche, estensioni e adeguamenti tecnici non sostanziali che non comportino impatti ambientali significativi e negativi si applica la procedura di cui al comma 9.
 
-Per i progetti o parti di progetti aventi quale unico obiettivo la difesa nazionale e per i progetti aventi quali unico obiettivo la risposta alle emergenze che riguardano la protezione civile, il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, dopo una valutazione caso per caso, puo' disporre, con decreto, l'esclusione di tali progetti dal campo di applicazione delle norme di cui al titolo III della parte seconda del presente decreto, qualora ritenga che tale applicazione possa pregiudicare i suddetti obiettivi. ((Per i progetti o parti di progetti aventi quale unico obiettivo la difesa nazionale, il decreto di cui al primo periodo e' adottato entro trenta giorni dall'adozione del provvedimento di competenza del Ministro della difesa, ai sensi dell'articolo 233 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, e dell'articolo 4 del regolamento di cui al decreto del Presidente della Repubblica 15 novembre 2012, n. 236, anche in deroga alle disposizioni degli articoli 23 e 25 del presente decreto)). (112)
+Per i progetti o parti di progetti aventi quale unico obiettivo la difesa nazionale e per i progetti aventi quali unico obiettivo la risposta alle emergenze che riguardano la protezione civile, il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, dopo una valutazione caso per caso, puo' disporre, con decreto, l'esclusione di tali progetti dal campo di applicazione delle norme di cui al titolo III della parte seconda del presente decreto, qualora ritenga che tale applicazione possa pregiudicare i suddetti obiettivi. Per i progetti o parti di progetti aventi quale unico obiettivo la difesa nazionale, il decreto di cui al primo periodo e' adottato entro trenta giorni dall'adozione del provvedimento di competenza del Ministro della difesa, ai sensi dell'articolo 233 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, e dell'articolo 4 del regolamento di cui al decreto del Presidente della Repubblica 15 novembre 2012, n. 236, anche in deroga alle disposizioni degli articoli 23 e 25 del presente decreto. (112)
 
 Ai procedimenti di cui ai commi 6, 7 e 9 del presente articolo, nonche' all'articolo 28, non si applica quanto previsto dall'articolo 10-bis della legge 7 agosto 1990, n. 241.
 
@@ -786,11 +881,20 @@ Per le modifiche dei piani e dei programmi elaborati per la pianificazione terri
                             
                                 b)
                                 
-                                    le modifiche sostanziali degli impianti di cui alla lettera a) del presente comma;
+                                    
+                                        ((le modifiche sostanziali delle installazioni di cui alle lettere a ) e b-bis ) del presente comma;))
+                                    
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((le installazioni che svolgono attivita' di cui all'allegato VIII-bis alla parte seconda, ove non aderiscano al regime di registrazione di cui all'articolo 29-septiesdecies, comma 1 o non diversamente disposto dalle norme regionali di cui all'articolo 29-septiesdecies, comma 2.))
 
 Per le attivita' di smaltimento o di recupero di rifiuti svolte nelle installazioni di cui all'articolo 6, comma 13, anche qualora costituiscano solo una parte delle attivita' svolte nell'installazione, l'autorizzazione integrata ambientale, ai sensi di quanto disposto dall'articolo 29-quater, comma 11, costituisce anche autorizzazione alla realizzazione o alla modifica, come disciplinato dall'articolo 208.
 
-Per le installazioni di cui alla lettera a) del comma 13, nonche' per le loro modifiche sostanziali, l'autorizzazione integrata ambientale e' rilasciata nel rispetto della disciplina di cui al presente decreto e dei termini di cui all'articolo 29-quater, comma 10.
+Per le installazioni di cui ((alle lettere a) e b-bis) )) del comma 13, nonche' per le loro modifiche sostanziali, l'autorizzazione integrata ambientale e' rilasciata nel rispetto della disciplina di cui al presente decreto e dei termini di cui all'articolo 29-quater, comma 10.
 
 16.
                         
@@ -822,8 +926,24 @@ Per le installazioni di cui alla lettera a) del comma 13, nonche' per le loro mo
                             
                                 d)
                                 
-                                    l'energia deve essere utilizzata in modo efficace ed efficiente; 
+                                    l'energia deve essere utilizzata in modo efficace ed efficiente ((, promuovendo ove possibile l'utilizzo e la produzione di energia rinnovabile)); 
 
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((le risorse materiali e l'acqua sono utilizzate in modo efficiente, anche attraverso il riutilizzo;))
+                                    
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    
+                                        ((e' attuato il sistema di gestione ambientale di cui all'articolo 29-sexies, comma 9-octies;))
+                                    
                                 
                             
                             
@@ -869,11 +989,28 @@ COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
 COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
-Sono sottoposti ad AIA in sede statale i progetti relativi alle attivita' di cui all'allegato XII al presente decreto e loro modifiche sostanziali.
+4-bis.
+                        
+                            
+                                Sono sottoposti ad AIA in sede statale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((le installazioni che svolgono)) attivita' di cui all'allegato XII al presente decreto e le relative modifiche sostanziali; 
 
-Sono sottoposti ad AIA secondo le disposizioni delle leggi regionali e provinciali i progetti di cui all'allegato VIII che non risultano ricompresi anche nell'allegato XII al presente decreto e loro modifiche sostanziali.
+                                
+                            
+                            
+                                b)
+                                
+                                    gli impianti dichiarati di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231.
 
-In sede statale, l'autorita' competente ai fini della VAS e dell'AIA e' il Ministero dell'ambiente e della tutela del territorio e del mare. Il parere motivato in sede di VAS e' espresso dal Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, che collabora alla relativa attivita' istruttoria. Il provvedimento di AIA e' rilasciato dal ((competente direttore generale del Ministero dell'ambiente e della sicurezza energetica)). (112)
+Sono sottoposti ad AIA secondo le disposizioni delle leggi regionali e provinciali ((le installazioni che svolgono attivita')) di cui all'allegato VIII che non risultano ricompresi anche nell'allegato XII al presente decreto e loro modifiche sostanziali ((, nonche' le installazioni di cui all'allegato VIII-bis che non aderiscano al regime di registrazione di cui all'articolo 29-septiesdecies, comma 1, ove non diversamente disposto dalle norme regionali di cui all'articolo 29-septiesdecies, comma 2.)).
+
+In sede statale, l'autorita' competente ai fini della VAS e dell'AIA e' il Ministero dell'ambiente e della tutela del territorio e del mare. Il parere motivato in sede di VAS e' espresso dal Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, che collabora alla relativa attivita' istruttoria. Il provvedimento di AIA e' rilasciato dal competente direttore generale del Ministero dell'ambiente e della sicurezza energetica. (112)
 
 In sede regionale, l'autorita' competente ai fini della VAS e dell'AIA e' la pubblica amministrazione con compiti di tutela, protezione e valorizzazione ambientale individuata secondo le disposizioni delle leggi regionali o delle Province autonome. (112)
 
@@ -1120,8 +1257,8 @@ Ai progetti da considerare prioritari ai sensi del comma 1, sesto periodo, o del
 
 I commissari di cui al comma 1 sono scelti tra professori o ricercatori universitari, tra il personale di cui agli articoli 2 e 3 del decreto legislativo del 30 marzo 2001, n. 165, ivi compreso quello appartenente ad enti di ricerca, al Sistema nazionale a rete per la protezione dell'ambiente di cui alla legge 28 giugno 2016, n. 132, all'Istituto superiore di sanita' ovvero tra soggetti anche estranei alla pubblica amministrazione, provvisti del diploma di laurea di vecchio ordinamento, di laurea specialistica o magistrale, con adeguata esperienza professionale di almeno cinque anni, all'atto della nomina; il loro incarico dura quattro anni ed e' rinnovabile una sola volta. I commissari sono nominati dal Ministro dell'ambiente e della tutela del territorio e del mare, senza obbligo di procedura concorsuale e con determinazione motivata esclusivamente in ordine al possesso da parte dei prescelti dei necessari requisiti di comprovata professionalita' e competenza nelle materie ambientali, economiche, giuridiche e di sanita' pubblica, garantendo il rispetto del principio dell'equilibrio di genere. Ai commissari, qualora provenienti dalle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nonche' se personale di cui all'articolo 3 del medesimo decreto legislativo, si applica quanto previsto dall'articolo 53 del decreto legislativo 30 marzo 2001, n. 165, e, per il personale in regime di diritto pubblico, quanto stabilito dai rispettivi ordinamenti. Ai commissari spetta il compenso definito con le modalita' di cui al comma 5 esclusivamente in ragione dei compiti istruttori effettivamente svolti e solo a seguito dell'adozione del relativo parere finale.
 
-Per lo svolgimento delle procedure di valutazione ambientale, ivi comprese le valutazioni ambientali strategiche integrate alle procedure di VIA, di competenza statale dei progetti compresi nel Piano nazionale di ripresa e resilienza (PNRR), di quelli finanziati a valere sul fondo complementare nonche' dei progetti attuativi del Piano nazionale integrato per l'energia e il clima, individuati nell'allegato I-bis al presente decreto, e di quelli comunque connessi alla gestione della risorsa idrica ricompresi nell'allegato II alla parte seconda del presente decreto e' istituita la Commissione Tecnica PNRR-PNIEC, posta alle dipendenze funzionali del Ministero della transizione ecologica, e formata da un numero massimo di quaranta unita', inclusi il presidente e il segretario, in possesso di diploma di laurea o laurea magistrale, con almeno cinque anni di esperienza professionale e con competenze adeguate alla valutazione tecnica, ambientale e paesaggistica dei predetti progetti, individuate tra il personale di ruolo delle amministrazioni statali e regionali, delle istituzioni universitarie, del Consiglio nazionale delle ricerche (CNR), del Sistema nazionale a rete per la protezione dell'ambiente di cui alla legge 28 giugno 2016, n. 132, dell'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) e dell'Istituto superiore di sanita' (ISS), secondo le modalita' di cui al comma 2, secondo periodo, ad esclusione del personale docente, fatta eccezione per quanto previsto dal quinto periodo, nonche' di quello, educativo, amministrativo, tecnico ed ausiliario delle istituzioni scolastiche.
-Il personale delle pubbliche amministrazioni e' collocato d'ufficio in posizione di fuori ruolo, comando, distacco, aspettativa o altra analoga posizione, secondo i rispettivi ordinamenti, alla data di adozione del decreto di nomina di cui al ottavo periodo del presente comma. Nel caso in cui al presidente della Commissione di cui al comma 1 sia attribuita anche la presidenza della Commissione di cui al comma 2-bis, si applica l'articolo 9, comma 5-bis, del decreto legislativo 30 luglio 1999, n. 303 , anche per evitare qualsiasi effetto decadenziale. I componenti nominati nella Commissione Tecnica PNRR-PNIEC svolgono tale attivita' a tempo pieno ad eccezione dei componenti nominati ai sensi del quinto periodo, salvo che il tempo pieno non sia previsto nei singoli decreti di cui al medesimo quinto periodo. Con decreto del Ministro della transizione ecologica, su proposta del presidente della Commissione di cui al comma 1, i componenti della predetta Commissione, fino a un massimo di dieci, possono essere nominati anche componenti della Commissione di cui al presente comma, ivi incluso il personale dipendente di societa' in house dello Stato. Nelle more del perfezionamento del decreto di nomina, il commissario in esso individuato e' autorizzato a partecipare, con diritto di voto, alle riunioni della Commissione Tecnica PNRR-PNIEC. Nella nomina dei membri e' garantito il rispetto dell'equilibrio di genere. I componenti della Commissione Tecnica PNRR-PNIEC sono nominati con decreto del Ministro della transizione ecologica entro sessanta giorni dalla data di entrata in vigore della presente disposizione, anche attingendo dall'elenco utilizzato per la nomina dei componenti della Commissione tecnica di verifica di cui comma 1 del presente articolo in possesso dei medesimi requisiti di cui al presente comma. I componenti della Commissione Tecnica PNRR-PNIEC restano in carica cinque anni e sono rinnovabili per una sola volta. Con le medesime modalita' previste per le unita' di cui al primo periodo, possono essere nominati componenti aggregati della Commissione di cui al presente comma, nel numero massimo di trenta unita', che restano in carica tre anni e il cui trattamento giuridico ed economico e' equiparato a ogni effetto a quello previsto per le unita' di cui al primo periodo. Alle riunioni della commissione partecipa, con diritto di voto, anche un rappresentante del Ministero della cultura. Per lo svolgimento delle istruttorie tecniche la Commissione si avvale, tramite appositi protocolli d'intesa, del Sistema nazionale a rete per la protezione dell'ambiente a norma della legge 28 giugno 2016, n. 132, e degli altri enti pubblici di ricerca; ai fini della designazione e della conseguente partecipazione alle riunioni della Commissione tecnica PNRR-PNIEC, e' in ogni caso sufficiente la comunicazione o la conferma da parte della regione o della provincia autonoma del nominativo dell'interessato. Per i procedimenti per i quali sia riconosciuto da specifiche disposizioni o intese un concorrente interesse regionale, all'attivita' istruttoria partecipa con diritto di voto un esperto designato dalle Regioni e dalle Province autonome interessate, individuato tra i soggetti in possesso di adeguata professionalita' ed esperienza nel settore della valutazione dell'impatto ambientale e del diritto ambientale. La Commissione opera con le modalita' previste dagli articoli 20, 21, 23, 24, 25, 27 e 28 del presente decreto. I commissari, laddove collocati in quiescenza nel corso dello svolgimento dell'incarico, restano in carica fino al termine dello stesso e non possono essere rinnovati; in tal caso, i suddetti commissari percepiscono soltanto, oltre al trattamento di quiescenza, il compenso di cui al comma 5. La Commissione puo' essere articolata in Sottocommissioni e Gruppi istruttori. La composizione delle Sottocommissioni, anche in relazione alle singole adunanze, e' definita dal presidente della Commissione, sentito il rispettivo coordinatore, tenendo conto dei carichi di lavoro complessivi e della programmazione generale dei lavori della Commissione medesima e dei Gruppi istruttori interni. Quanto previsto dall'articolo 73, comma 2, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, si applica anche ai compiti istruttori svolti dai Commissari nell'ambito delle Sottocommissioni e dei Gruppi istruttori, sino al 31 dicembre 2026. (145) (165) (177) ((234))
+Per lo svolgimento delle procedure di valutazione ambientale, ivi comprese ((le verifiche di assoggettabilita' a VIA e)) le valutazioni ambientali strategiche integrate alle procedure di VIA, di competenza statale dei progetti compresi nel Piano nazionale di ripresa e resilienza (PNRR), di quelli finanziati a valere sul fondo complementare nonche' dei progetti attuativi del Piano nazionale integrato per l'energia e il clima, individuati nell'allegato I-bis al presente decreto, e di quelli comunque connessi alla gestione della risorsa idrica ricompresi nell'allegato II alla parte seconda del presente decreto e' istituita la Commissione Tecnica PNRR-PNIEC, posta alle dipendenze funzionali del Ministero della transizione ecologica, e formata da un numero massimo di quaranta unita', inclusi il presidente e il segretario, in possesso di diploma di laurea o laurea magistrale, con almeno cinque anni di esperienza professionale e con competenze adeguate alla valutazione tecnica, ambientale e paesaggistica dei predetti progetti, individuate tra il personale di ruolo delle amministrazioni statali e regionali, delle istituzioni universitarie, del Consiglio nazionale delle ricerche (CNR), del Sistema nazionale a rete per la protezione dell'ambiente di cui alla legge 28 giugno 2016, n. 132, dell'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) e dell'Istituto superiore di sanita' (ISS), secondo le modalita' di cui al comma 2, secondo periodo, ad esclusione del personale docente, fatta eccezione per quanto previsto dal quinto periodo, nonche' di quello, educativo, amministrativo, tecnico ed ausiliario delle istituzioni scolastiche.
+Il personale delle pubbliche amministrazioni e' collocato d'ufficio in posizione di fuori ruolo, comando, distacco, aspettativa o altra analoga posizione, secondo i rispettivi ordinamenti, alla data di adozione del decreto di nomina di cui al ottavo periodo del presente comma. Nel caso in cui al presidente della Commissione di cui al comma 1 sia attribuita anche la presidenza della Commissione di cui al comma 2-bis, si applica l'articolo 9, comma 5-bis, del decreto legislativo 30 luglio 1999, n. 303 , anche per evitare qualsiasi effetto decadenziale. I componenti nominati nella Commissione Tecnica PNRR-PNIEC svolgono tale attivita' a tempo pieno ad eccezione dei componenti nominati ai sensi del quinto periodo, salvo che il tempo pieno non sia previsto nei singoli decreti di cui al medesimo quinto periodo. Con decreto del Ministro della transizione ecologica, su proposta del presidente della Commissione di cui al comma 1, i componenti della predetta Commissione, fino a un massimo di dieci, possono essere nominati anche componenti della Commissione di cui al presente comma, ivi incluso il personale dipendente di societa' in house dello Stato. Nelle more del perfezionamento del decreto di nomina, il commissario in esso individuato e' autorizzato a partecipare, con diritto di voto, alle riunioni della Commissione Tecnica PNRR-PNIEC. Nella nomina dei membri e' garantito il rispetto dell'equilibrio di genere. I componenti della Commissione Tecnica PNRR-PNIEC sono nominati con decreto del Ministro della transizione ecologica entro sessanta giorni dalla data di entrata in vigore della presente disposizione, anche attingendo dall'elenco utilizzato per la nomina dei componenti della Commissione tecnica di verifica di cui comma 1 del presente articolo in possesso dei medesimi requisiti di cui al presente comma. I componenti della Commissione Tecnica PNRR-PNIEC restano in carica cinque anni e sono rinnovabili per una sola volta. Con le medesime modalita' previste per le unita' di cui al primo periodo, possono essere nominati componenti aggregati della Commissione di cui al presente comma, nel numero massimo di trenta unita', che restano in carica tre anni e il cui trattamento giuridico ed economico e' equiparato a ogni effetto a quello previsto per le unita' di cui al primo periodo. Alle riunioni della commissione partecipa, con diritto di voto, anche un rappresentante del Ministero della cultura. Per lo svolgimento delle istruttorie tecniche la Commissione si avvale, tramite appositi protocolli d'intesa, del Sistema nazionale a rete per la protezione dell'ambiente a norma della legge 28 giugno 2016, n. 132, e degli altri enti pubblici di ricerca; ai fini della designazione e della conseguente partecipazione alle riunioni della Commissione tecnica PNRR-PNIEC, e' in ogni caso sufficiente la comunicazione o la conferma da parte della regione o della provincia autonoma del nominativo dell'interessato. Per i procedimenti per i quali sia riconosciuto da specifiche disposizioni o intese un concorrente interesse regionale, all'attivita' istruttoria partecipa con diritto di voto un esperto designato dalle Regioni e dalle Province autonome interessate, individuato tra i soggetti in possesso di adeguata professionalita' ed esperienza nel settore della valutazione dell'impatto ambientale e del diritto ambientale. La Commissione opera con le modalita' ((previste dagli articoli 19, 20)), 21, 23, 24, 25, 27 e 28 del presente decreto. I commissari, laddove collocati in quiescenza nel corso dello svolgimento dell'incarico, restano in carica fino al termine dello stesso e non possono essere rinnovati; in tal caso, i suddetti commissari percepiscono soltanto, oltre al trattamento di quiescenza, il compenso di cui al comma 5. La Commissione puo' essere articolata in Sottocommissioni e Gruppi istruttori. La composizione delle Sottocommissioni, anche in relazione alle singole adunanze, e' definita dal presidente della Commissione, sentito il rispettivo coordinatore, tenendo conto dei carichi di lavoro complessivi e della programmazione generale dei lavori della Commissione medesima e dei Gruppi istruttori interni. Quanto previsto dall'articolo 73, comma 2, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, si applica anche ai compiti istruttori svolti dai Commissari nell'ambito delle Sottocommissioni e dei Gruppi istruttori, sino al 31 dicembre 2026. (145) (165) (177) (234)
 
 Al fine di garantire univocita' di indirizzo, i presidenti della Commissione tecnica di cui al comma 1 e della Commissione tecnica di cui al comma 2-bis, coadiuvati da un numero massimo di due commissari per ciascuna Commissione, individuati dal Ministro della transizione ecologica, provvedono all'elaborazione di criteri tecnici e procedurali preordinati all'attuazione coordinata e omogenea delle disposizioni di cui alla parte seconda del presente decreto.
 
@@ -1143,6 +1280,8 @@ Con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio 
 
 A decorrere dall'anno 2017, con decreto annuale del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze, sono definiti i costi di funzionamento della Commissione tecnica di verifica dell'impatto ambientale e della Commissione tecnica PNRR-PNIEC, comprensivi dei compensi per i relativi componenti. Alla copertura dei costi di cui al primo periodo si provvede con i proventi delle tariffe di cui all'articolo 33, comma 1, che sono versati all'entrata del bilancio dello Stato e riassegnati agli appositi capitoli dello stato di previsione del Ministero dell'ambiente e della sicurezza energetica, fino a concorrenza dei costi stabiliti con il decreto di cui al primo periodo del presente comma, al netto delle risorse allo scopo gia' iscritte in bilancio ai sensi dell'articolo 12, comma 1, del decreto-legge 16 giugno 2022, n. 68, convertito, con modificazioni, dalla legge 5 agosto 2022, n. 108, e ai sensi dell'articolo 2, comma 617-bis, della legge 24 dicembre 2007, n. 244, fermo restando il conseguimento degli obiettivi di risparmio a regime, di cui all'articolo 2, comma 617, della medesima legge n. 244 del 2007, senza che ne derivino nuovi o maggiori oneri per la finanza pubblica.
 Le risorse derivanti dal versamento all'entrata del bilancio dello Stato dei proventi delle tariffe di cui al citato articolo 33, comma 1, del presente decreto eccedenti la quota riassegnata ai sensi del secondo periodo restano definitivamente acquisite al bilancio dello Stato. I compensi sono stabiliti proporzionalmente alle responsabilita' di ciascun membro della Commissione tecnica di verifica dell'impatto ambientale e della Commissione tecnica PNRR-PNIEC, esclusivamente in ragione dei compiti istruttori effettivamente svolti e solo a seguito dell'adozione del parere finale, fermo restando che gli oneri relativi al trattamento economico fondamentale del personale di cui al comma 2-bis restano a carico dell'amministrazione di appartenenza. A decorrere dall'anno 2023, per i componenti della Commissione tecnica di verifica dell'impatto ambientale si applicano i compensi previsti per i membri della Commissione tecnica PNRR-PNIEC, i quali, in considerazione della specificita' dei compiti attribuiti alle medesime Commissioni, della peculiare disciplina prevista e della necessita' di accelerare l'attuazione degli adempimenti di loro competenza, a iniziare dagli importi gia' percepiti dall'anno 2021 sono in ogni caso riconosciuti integralmente, per i dipendenti pubblici anche in aggiunta al trattamento in godimento. (134)
+
+((Con il medesimo decreto annuale di cui al comma 5 del presente articolo sono altresi' definiti i costi relativi al rimborso dei diritti di istruttoria ai sensi dell'articolo 25, comma 2-ter.))
 
 Resta in ogni caso fermo, per i commissari, quanto stabilito dall'articolo 6-bis della legge 7 agosto 1990, n. 241, e dal decreto legislativo 8 aprile 2013, n. 39. In caso di accertata violazione delle prescrizioni del decreto legislativo n. 39 del 2013, fermo restando ogni altro profilo di responsabilita', il componente responsabile decade dall'incarico con effetto dalla data dell'accertamento. Per gli iscritti agli ordini professionali la violazione viene segnalata dall'autorita' competente.
 
@@ -1175,17 +1314,23 @@ Nel caso di progetti per i quali la VIA spetta alle Regioni e alle Province Auto
                             
  Il D.L. 19 febbraio 2026, n. 19, convertito con modificazioni dalla L. 20 aprile 2026, n. 50, ha disposto (con l'art. 2, comma 21-quinquies, lettera b)) che "all'articolo 8, comma 2-bis, diciottesimo periodo, le parole: "30 giugno 2026" sono sostituite dalle seguenti: "31 dicembre 2028"".
 
-## Art. 8-bis. — ((Commissione istruttoria per l'autorizzazione
- integrata ambientale - IPPC ))
+## Art. 8-bis. — (( (Commissione istruttoria per l'autorizzazione integrata ambientale-IPPC).))
 
-((
 
-La Commissione istruttoria per l'IPPC, di cui all'articolo 28, commi 7, 8 e 9, del decreto legge 25 giugno 2008, n. 112, convertito, con modifiche, dalla legge 6 agosto 2008, n. 133, svolge l'attivita' di supporto scientifico per il Ministero dell'ambiente e della tutela del territorio e del mare con specifico riguardo alle norme di cui al titolo III-bis del presente decreto. La Commissione svolge i compiti di cui all'articolo 10, comma 2, del decreto del Presidente della Repubblica 14 maggio 2007, n. 90.
 
-I componenti della Commissione sono nominati nel rispetto dell'articolo 28, commi 7, 8 e 9, del decreto-legge 25 giugno 2008, n. 112, convertito, con modifiche, dalla legge 6 agosto 2008, n. 133.
-Si applicano i commi 2 e 3 dell'articolo 8 del presente decreto.
+((La Commissione svolge l'attivita' di supporto scientifico per il Ministero dell'ambiente e della sicurezza energetica con specifico riguardo alle norme di cui al titolo III-bis del presente decreto e, in particolare, ferme restando le competenze delle amministrazioni preposte alla tutela della salute umana, cura lo svolgimento delle attivita' istruttorie e di consulenza tecnica connesse al rilascio delle autorizzazioni integrate ambientali di competenza statale, e ha il compito di fornire all'autorita' competente, anche effettuando i necessari sopralluoghi, in tempo utile per il rilascio dell'autorizzazione integrata ambientale, un parere istruttorio conclusivo e pareri intermedi debitamente motivati, nonche' approfondimenti tecnici in merito a ciascuna domanda di autorizzazione.))
 
-))
+((Con decreto del Ministro dell'ambiente e della sicurezza energetica sono nominati i componenti della Commissione ed e' disciplinato il funzionamento della Commissione stessa, nel rispetto di quanto stabilito dai decreti emanati ai sensi dell'articolo 33, comma 3-bis. L'incarico dura quattro anni ed e' rinnovabile una sola volta. I commissari sono nominati senza obbligo di procedura concorsuale e con determinazione motivata esclusivamente in ordine al possesso da parte dei prescelti dei necessari requisiti di comprovata professionalita' e competenza nelle materie ambientali, economiche, giuridiche e di sanita' pubblica, garantendo il rispetto del principio dell'equilibrio di genere. I componenti della Commissione non assumono contemporaneamente incarichi nell'ambito delle Commissioni di cui all'articolo 8. I componenti della Commissione, nominati nelle Commissioni di cui all'articolo 8 alla data di entrata in vigore della presente disposizione, mantengono l'incarico in tali Commissioni fino alla scadenza delle relative nomine.))
+
+((Il Ministro dell'ambiente e della sicurezza energetica procede tempestivamente, con proprio decreto, alla nomina di nuovi componenti della Commissione in sostituzione di componenti dimissionari o giunti a fine mandato, in modo da mantenere la composizione dell'organo conforme alle disposizioni di cui al comma 1. Sino all'insediamento dei nuovi componenti, lo svolgimento delle attivita' e' garantito dai componenti in carica, nonche' da quelli giunti a fine mandato e che non si sono dimessi.))
+
+((Per le attivita' relative a ciascuna domanda di autorizzazione, la regione, provincia e comune territorialmente competenti possono designare preventivamente, e comunque entro quindici giorni dall'avvio del procedimento, un proprio esperto ai fini della partecipazione ai lavori istruttori della Commissione.))
+
+((I componenti di cui al comma 1, diversi dai magistrati ordinari, amministrativi e contabili, sono scelti tra professori o ricercatori universitari, tra il personale di cui agli articoli 2 e 3 del decreto legislativo del 30 marzo 2001, n. 165, ivi compreso quello appartenente ad enti di ricerca, al Sistema nazionale a rete per la protezione dell'ambiente di cui alla legge 28 giugno 2016, n. 132, all'Istituto superiore di sanita' ovvero tra soggetti anche estranei alla pubblica amministrazione, provvisti del diploma di laurea di vecchio ordinamento, di laurea specialistica o magistrale, con adeguata esperienza professionale di almeno cinque anni, all'atto della nomina. Ai commissari provenienti dalle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, si applica quanto previsto dall'articolo 53 del medesimo decreto legislativo, mentre per il personale in regime di diritto pubblico ai sensi dell'articolo 3 del predetto decreto legislativo si applica quanto stabilito dai rispettivi ordinamenti.))
+
+((Ai commissari nominati dal Ministro ai sensi dei commi 3 e 4 si applica quanto previsto dall'articolo 33, comma 3-bis ed il relativo compenso spetta in ragione dei compiti istruttori effettivamente svolti e nel limite della disponibilita' delle somme versate a titolo di tariffa istruttoria dai gestori.))
+
+((Ferma restando l'invarianza del compenso complessivo spettante, definito con decreto di cui all'articolo 33, comma 3-bis, a ciascun componente della Commissione, ai soli fini delle modalita' di corresponsione dei compensi, gli stessi sono erogati, nella misura del 50 per cento del loro importo totale, all'avvio di ciascuna istruttoria, e, nella misura del restante 50 per cento, successivamente al rilascio o al diniego di rilascio della autorizzazione integrata ambientale.))
 
 ## Art. 9. — Norme procedurali generali
 
@@ -1197,29 +1342,28 @@ Nel rispetto dei tempi minimi definiti per la consultazione del pubblico, nell'a
 
 Per ragioni di segreto industriale o commerciale e' facolta' del proponente presentare all'autorita' competente motivata richiesta di non rendere pubblica parte della documentazione relativa al progetto, allo studio preliminare ambientale o allo studio di impatto ambientale. L'autorita' competente, verificate le ragioni del proponente, accoglie o respinge motivatamente la richiesta soppesando l'interesse alla riservatezza con l'interesse pubblico all'accesso alle informazioni. L'autorita' competente dispone comunque della documentazione riservata, con l'obbligo di rispettare le disposizioni vigenti in materia.L'invio di informazioni a un altro Stato membro e il ricevimento di informazioni da un altro Stato membro sono soggetti alle restrizioni vigenti nello Stato membro in cui il progetto e' proposto. (134)
 
-L'autorita' competente provvede a mettere a disposizione del pubblico, mediante il proprio sito internet istituzionale, le informazioni pratiche sull'accesso alle procedure di ricorso amministrativo e giurisdizionale. Ai sensi dell'articolo 3, comma 4, della legge 7 agosto 1990 n. 241, in ogni atto notificato al destinatario ((sono indicati l'autorita' cui e' possibile ricorrere e il relativo termine)). ((134))
+L'autorita' competente provvede a mettere a disposizione del pubblico, mediante il proprio sito internet istituzionale, le informazioni pratiche sull'accesso alle procedure di ricorso amministrativo e giurisdizionale. Ai sensi dell'articolo 3, comma 4, della legge 7 agosto 1990 n. 241, in ogni atto notificato al destinatario sono indicati l'autorita' cui e' possibile ricorrere e il relativo termine. (134)
+
+((L'autorita' competente provvede a digitalizzare e telematizzare i processi di presentazione delle istanze di autorizzazione integrata ambientale, di conduzione dei relativi procedimenti autorizzativi, di emanazione dei provvedimenti e di gestione delle autorizzazioni, garantendo entro il 31 dicembre 2035 il pieno sviluppo di sistemi per le autorizzazioni elettroniche e di procedure elettroniche di autorizzazione. Nell'ambito di tali attivita' le autorita' competenti garantiscono altresi', entro il medesimo termine, il pieno sviluppo di sistemi per le autorizzazioni elettroniche e di procedure elettroniche di autorizzazione per i grandi impianti di combustione, di cui all'articolo 268, comma 1, lettera gg) non soggetti ad autorizzazione integrata ambientale. Tale attivita' si basa anche sulle migliori pratiche individuate dalla Commissione europea ai sensi dell'articolo 5, paragrafo 3, della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, e dal coordinamento di cui all'articolo 29-quinquies ed e' attuata nel rispetto del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, anche avvalendosi dei servizi forniti dallo sportello unico per le attivita' produttive (SUAP), purche' compatibili anche rispetto alle tempistiche del procedimento. Nell'applicazione del presente comma le autorita' competenti adottano le necessarie azioni con gradualita' tenendo conto delle osservazioni eventualmente presentate dalle principali associazioni di categoria interessate.))
 
 --------------
                             AGGIORNAMENTO (134)
                             
  Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembre 2020, n. 120, ha disposto (con l'art. 50, comma 3) che le presenti modifiche si applicano alle istanze presentate a partire dal trentesimo giorno successivo alla data di entrata in vigore della legge di conversione del medesimo D.L.
 
-## Art. 10. — (( (Coordinamento delle procedure di VAS, VIA, Verifica di assoggettabilita' a VIA, Valutazione di incidenza e Autorizzazione integrata ambientale) ))
+## Art. 10. — (Coordinamento delle procedure di VAS, VIA, Verifica di assoggettabilita' a VIA, Valutazione di incidenza e Autorizzazione integrata ambientale)
 
 
 
-((Nel caso di progetti per i quali e' prevista la procedura di verifica di assoggettabilita' a VIA, l'autorizzazione integrata ambientale puo' essere rilasciata solo dopo che, ad esito della predetta procedura di verifica, l'autorita' competente abbia valutato di non assoggettare i progetti a VIA.))
-                                ((112))
+COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
-((COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104)).
+COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
-((COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104)).
-
-((COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104)).
+COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
 La VAS e la VIA comprendono le procedure di valutazione d'incidenza di cui all'articolo 5 del decreto n. 357 del 1997; a tal fine, il rapporto ambientale, lo studio preliminare ambientale o lo studio di impatto ambientale contengono gli elementi di cui all'allegato G dello stesso decreto n. 357 del 1997 e la valutazione dell'autorita' competente si estende alle finalita' di conservazione proprie della valutazione d'incidenza oppure dovra' dare atto degli esiti della valutazione di incidenza. Le modalita' di informazione del pubblico danno specifica evidenza della integrazione procedurale.
 
-La verifica di assoggettabilita' di cui all'((articolo 19)) puo' essere condotta, nel rispetto delle disposizioni contenute nel presente decreto, nell'ambito della VAS. In tal caso le modalita' di informazione del pubblico danno specifica evidenza della integrazione procedurale. ((112))
+La verifica di assoggettabilita' di cui all'articolo 19 puo' essere condotta, nel rispetto delle disposizioni contenute nel presente decreto, nell'ambito della VAS. In tal caso le modalita' di informazione del pubblico danno specifica evidenza della integrazione procedurale. (112)
 
 Nella redazione dello studio di impatto ambientale di cui all'articolo 22, relativo a progetti previsti da piani o programmi gia' sottoposti a valutazione ambientale, possono essere utilizzate le informazioni e le analisi contenute nel rapporto ambientale. Nel corso della redazione dei progetti e nella fase della loro valutazione, sono tenute in considerazione la documentazione e le conclusioni della VAS.
 
@@ -1865,7 +2009,7 @@ Nel caso di progetti di competenza statale, ad esclusione di quelli di cui all'a
 
 Per i progetti di cui all'articolo 8, comma 2-bis, la Commissione di cui al medesimo comma 2-bis si esprime entro il termine di trenta giorni dalla conclusione della fase di consultazione di cui all'articolo 24 e comunque entro il termine di centotrenta giorni dalla data di pubblicazione della documentazione di cui all'articolo 23 predisponendo lo schema di provvedimento di VIA. Nei successivi trenta giorni, il direttore generale del Ministero della transizione ecologica adotta il provvedimento di VIA, previa acquisizione del concerto del competente direttore generale del Ministero della cultura entro il termine di venti giorni, fatto salvo quanto previsto dall'articolo 11-quater del decreto legislativo 25 novembre 2024, n. 190. Nel caso di consultazioni transfrontaliere il provvedimento di VIA e' adottato entro il termine di cui all'articolo 32, comma 5-bis.
 
-Nei casi in cui i termini per la conclusione del procedimento di cui al comma 2-bis, primo e secondo periodo, non siano rispettati e' rimborsato al proponente il cinquanta per cento dei diritti di istruttoria di cui all'articolo 33, mediante utilizzazione delle risorse iscritte in apposito capitolo a tal fine istituito nello stato di previsione del Ministero della transizione ecologica con uno stanziamento di euro 840.000 per l'anno 2021, di euro 1.640.000 per l'anno 2022 ed euro 1.260.000 per l'anno 2023. In sede di prima applicazione, i termini indicati al primo periodo del presente comma ai fini dell'eventuale rimborso al proponente del 50 per cento dei diritti di istruttoria decorrono dalla data della prima riunione della Commissione di cui all'articolo 8, comma 2-bis.
+Nei casi in cui i termini per la conclusione del procedimento di cui al comma 2-bis, primo e secondo periodo, non siano rispettati e' rimborsato al proponente il cinquanta per cento dei diritti di istruttoria di cui all'articolo 33 ((...)). In sede di prima applicazione, i termini indicati al primo periodo del presente comma ai fini dell'eventuale rimborso al proponente del 50 per cento dei diritti di istruttoria decorrono dalla data della prima riunione della Commissione di cui all'articolo 8, comma 2-bis. ((A decorrere dall'anno 2026, alla copertura dei costi derivanti dal primo periodo si provvede, nel limite di 5 milioni di euro annui, a valere sui proventi delle tariffe di cui all'articolo 33, comma 1.))
 
 In caso di inerzia nella conclusione del procedimento da parte delle Commissioni di cui all'articolo 8, commi 1 e 2-bis, il titolare del potere sostitutivo, nominato ai sensi dell'articolo 2 della legge 7 agosto 1990, n. 241, acquisito, qualora la competente commissione di cui all'articolo 8 non si sia pronunciata, il parere dell'ISPRA entro il termine di trenta giorni, provvede all'adozione dell'atto omesso entro i successivi trenta giorni. In caso di inerzia nella conclusione del procedimento da parte del direttore generale del Ministero della transizione ecologica ovvero in caso di ritardo nel rilascio del concerto da parte del direttore generale competente del Ministero della cultura, il titolare del potere sostitutivo, nominato ai sensi dell'articolo 2 della legge n. 241 del 1990, provvede al rilascio degli atti di relativa competenza entro i successivi trenta giorni.
 
@@ -1917,7 +2061,8 @@ Tutti i termini del procedimento di VIA si considerano perentori ai sensi e per 
 
 Nel caso di progetti sottoposti a valutazione ambientale di competenza statale, gli eventuali atti adottati ai sensi dell'articolo 5, comma 2, lettera c-bis), della legge n. 400 del 1988, sostituiscono a ogni effetto il provvedimento di VIA.
 
-((Per i progetti complessi caratterizzati da fasi realizzative sequenziali relativi alle attivita' di cui ai punti 7) e 7.1) dell'allegato II alla parte seconda del presente decreto, qualora l'istanza di VIA comprenda l'intero ciclo di vita del progetto e la richiesta sia esplicitamente formulata dal proponente nell'istanza medesima, l'autorita' competente esprime un unico giudizio di compatibilita' ambientale esteso a tutte le fasi. A tale fine, lo studio di impatto ambientale riferito all'intero ciclo di vita dell'opera puo' essere redatto utilizzando, in caso di indisponibilita' dei dati perche' acquisibili solo al termine della fase di ricerca, stime ovvero modellazioni. Il provvedimento di compatibilita' ambientale, qualora favorevole, contiene la condizione obbligatoria della verifica, prima dell'avvio della fase di esercizio del progetto, della coerenza delle stime ovvero delle modellazioni contenute nello studio di impatto ambientale; in caso di incoerenza, l'autorita' competente valuta eventuali azioni correttive)). ((235))  
+Per i progetti complessi caratterizzati da fasi realizzative sequenziali relativi alle attivita' di cui ai punti 7) e 7.1) dell'allegato II alla parte seconda del presente decreto, qualora l'istanza di VIA comprenda l'intero ciclo di vita del progetto e la richiesta sia esplicitamente formulata dal proponente nell'istanza medesima, l'autorita' competente esprime un unico giudizio di compatibilita' ambientale esteso a tutte le fasi. A tale fine, lo studio di impatto ambientale riferito all'intero ciclo di vita dell'opera puo' essere redatto utilizzando, in caso di indisponibilita' dei dati perche' acquisibili solo al termine della fase di ricerca, stime ovvero modellazioni. Il provvedimento di compatibilita' ambientale, qualora favorevole, contiene la condizione obbligatoria della verifica, prima dell'avvio della fase di esercizio del progetto, della coerenza delle stime ovvero delle modellazioni contenute nello studio di impatto ambientale; in caso di incoerenza, l'autorita' competente valuta eventuali azioni correttive. (235) 
+ 
  (112)
 
 ---------------
@@ -1934,11 +2079,9 @@ Nel caso di progetti sottoposti a valutazione ambientale di competenza statale, 
                             
  Il D.L. 20 febbraio 2026, n. 21, convertito con modificazioni dalla L. 10 aprile 2026, n. 49, ha disposto (con l'art. 11, comma 1-ter) che "Le disposizioni del comma 7-ter dell'articolo 25 del decreto legislativo 3 aprile 2006, n. 152, introdotto dal comma 1-bis del presente articolo, si applicano, su istanza del proponente da presentare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, anche ai procedimenti di valutazione di impatto ambientale per i quali, alla data di entrata in vigore del presente decreto, non sia stato ancora ottenuto il definitivo giudizio di compatibilita' ambientale. Nei casi di cui al primo periodo, il proponente integra la documentazione gia' presentata con gli elementi necessari per la valutazione dell'intero ciclo di vita del progetto, senza che cio' comporti la decadenza degli atti procedimentali gia' adottati".
 
-## Art. 26. — (( (Integrazione del provvedimento di VIA negli atti autorizzatori). ))
+## Art. 26. — (Integrazione del provvedimento di VIA negli atti autorizzatori)
 
-((
-
-Il provvedimento di VIA e' sempre integrato nell'autorizzazione e in ogni altro titolo abilitativo alla realizzazione dei progetti sottoposti a VIA, nonche' nell'autorizzazione integrata ambientale, ove prevista.
+Il provvedimento di VIA e' sempre integrato nell'autorizzazione e in ogni altro titolo abilitativo alla realizzazione dei progetti sottoposti a VIA ((...)).
 
 2.
                         
@@ -1958,13 +2101,31 @@ Il provvedimento di VIA e' sempre integrato nell'autorizzazione e in ogni altro 
                                 
                                     le eventuali condizioni ambientali del provvedimento di VIA, una descrizione delle caratteristiche del progetto e delle eventuali misure previste per evitare, prevenire o ridurre e se possibile compensare gli impatti ambientali negativi e significativi, nonche', ove opportuno, una descrizione delle misure di monitoraggio.
 
-3. Della decisione in merito alla concessione o al rigetto dell'autorizzazione, e' data prontamente informazione al pubblico, nonche' alle Amministrazioni e agli enti pubblici che hanno ricevuto la comunicazione di cui all'articolo 23, comma 4, mediante pubblicazione sul sito web dell'autorita' che ha adottato l'atto, consentendo altresi' l'accesso almeno alle seguenti informazioni:
+3.
+                        
+                            
+                                Della decisione in merito alla concessione o al rigetto dell'autorizzazione, e' data prontamente informazione al pubblico, nonche' alle Amministrazioni e agli enti pubblici che hanno ricevuto la comunicazione di cui all'articolo 23, comma 4, mediante pubblicazione sul sito web dell'autorita' che ha adottato l'atto, consentendo altresi' l'accesso almeno alle seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto della decisione e le condizioni che eventualmente l'accompagnano; 
 
-a) il contenuto della decisione e le condizioni che eventualmente l'accompagnano;
-
-b) le motivazioni e le considerazioni su cui si fonda la decisione, incluse le informazioni relative al processo di partecipazione del pubblico nel procedimento di VIA, la sintesi dei risultati delle consultazioni e delle informazioni raccolte ai sensi degli articoli 23, 24 e 24-bis, e, ove applicabile, ai sensi dell'articolo 32, nonche' l'indicazione di come tali risultati siano stati integrati o altrimenti presi in considerazione.))
-
-((112))
+                                
+                            
+                            
+                                b)
+                                
+                                    le motivazioni e le considerazioni su cui si fonda la decisione, incluse le informazioni relative al processo di partecipazione del pubblico nel procedimento di VIA, la sintesi dei risultati delle consultazioni e delle informazioni raccolte ai sensi degli articoli 23, 24 e 24-bis, e, ove applicabile, ai sensi dell'articolo 32, nonche' l'indicazione di come tali risultati siano stati integrati o altrimenti presi in considerazione. 
+ (112) 
+ 
+ 
+----------------
+ 
+AGGIORNAMENTO (112) 
+ Il D.Lgs. 16 giugno 2017, n. 104 ha disposto (con l'art. 23, comma 1) che "Le disposizioni del presente decreto si applicano ai procedimenti di verifica di assoggettabilita' a VIA e ai procedimenti di VIA avviati dal 16 maggio 2017". 
+ Ha inoltre disposto (con l'art. 23, comma 2) che "I procedimenti di verifica di assoggettabilita' a VIA pendenti alla data del 16 maggio 2017, nonche' i procedimenti di VIA per i progetti per i quali alla medesima data risulti avviata la fase di consultazione di cui all'articolo 21 del decreto legislativo 3 aprile 2006, n. 152, ovvero sia stata presentata l'istanza di cui all'articolo 23 del medesimo decreto legislativo, restano disciplinati dalla normativa previgente".
 
 ## Art. 26-bis. — (Fase preliminare al provvedimento autorizzatorio unico regionale)
 
@@ -2026,7 +2187,7 @@ Nel caso di procedimenti di VIA di competenza statale, il proponente puo' richie
                             
                                 d)
                                 
-                                    autorizzazione paesaggistica di cui all'articolo 146 del Codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42; 
+                                    autorizzazione paesaggistica di cui all'articolo 146 del Codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42 ((, fatto salvo quanto previsto all'articolo 25, comma 2-quinquies, primo periodo, del presente decreto)); 
 
                                 
                             
@@ -2067,7 +2228,7 @@ Entro dieci giorni dalla verifica della completezza documentale, ovvero, in caso
 Entro i successivi quindici giorni l'autorita' competente indice la conferenza di servizi decisoria di cui all'articolo 14-ter della legge 7 agosto 1990, n. 241, che opera secondo quanto disposto dal comma 8. Contestualmente puo' chiedere al proponente, anche sulla base di quanto indicato dalla competente direzione generale del Ministero della cultura, eventuali integrazioni assegnando allo stesso un termine perentorio non superiore a quindici giorni. Su richiesta motivata del proponente l'autorita' competente puo' concedere, per una sola volta, la sospensione dei termini per la presentazione della documentazione integrativa per un periodo non superiore a novanta giorni. Qualora entro il termine stabilito il proponente non depositi la documentazione integrativa, l'istanza si intende ritirata ed e' fatto obbligo all'autorita' competente di procedere all'archiviazione. L'autorita' competente procede immediatamente alla pubblicazione delle integrazioni sul sito internet istituzionale e dispone, entro cinque giorni dalla ricezione della documentazione integrativa, che il proponente trasmetta, entro i successivi dieci giorni, un nuovo avviso al pubblico, predisposto in conformita' all'articolo 24, comma 2, del presente decreto, da pubblicare a cura della medesima autorita' competente sul proprio sito internet e di cui e' data comunque informazione nell'albo pretorio informatico delle amministrazioni comunali territorialmente interessate. PERIODO SOPPRESSO DALLA L. 11 SETTEMBRE 2020, N. 120. In relazione alle modifiche o integrazioni apportate al progetto e alla documentazione, i termini di cui al comma 6 per l'ulteriore consultazione del pubblico sono ridotti alla meta'. (134) (144)
 
 Fatto salvo il rispetto dei termini previsti dall'articolo 32, comma 2, per il caso di consultazioni transfrontaliere, al fine di acquisire il provvedimento di VIA e dei titoli abilitativi in materia ambientale richiesti dal proponente, l'autorita' competente convoca nel termine di cui al primo periodo del comma 6, una conferenza di servizi decisoria che opera in modalita' simultanea secondo quanto stabilito dall'articolo 14-ter della legge 7 agosto 1990, n. 241.
-Alla conferenza partecipano il proponente e tutte le amministrazioni competenti o comunque potenzialmente interessate al rilascio del provvedimento di VIA e i titoli abilitativi ambientali richiesti dal proponente. Per i progetti di cui all'articolo 8, comma 2-bis, alla conferenza partecipano in ogni caso il direttore generale del Ministero dell'ambiente e della tutela del territorio e del mare o un suo delegato e il direttore generale del Ministero per i beni e le attivita' culturali e per il turismo o un suo delegato. La conferenza, nell'ambito della propria attivita', prende in considerazione le osservazioni e le informazioni raccolte in sede di consultazione ai sensi dei commi 6 e 7, e conclude i propri lavori nel termine di duecentodieci giorni. La determinazione motivata di conclusione della conferenza di servizi, che costituisce il provvedimento unico in materia ambientale, reca l'indicazione espressa del provvedimento di VIA ed elenca, altresi', i titoli abilitativi compresi nel provvedimento unico. Fatto salvo quanto previsto per i progetti di cui all'articolo 8, comma 2-bis, la decisione di rilasciare i titoli di cui al comma 2 e' assunta sulla base del provvedimento di VIA, adottato dal ((competente direttore generale del Ministero dell'ambiente e della sicurezza energetica, previa acquisizione del concerto del competente direttore generale del Ministero della cultura)), ai sensi dell'articolo 25. I termini previsti dall'articolo 25, comma 2, quarto periodo, sono ridotti alla meta' e, in caso di rimessione alla deliberazione del Consiglio dei ministri, la conferenza di servizi e' sospesa per il termine di cui all'articolo 25, comma 2, quinto periodo. Tutti i termini del procedimento si considerano perentori ai sensi e per gli effetti di cui agli articoli 2, commi da 9 a 9-quater, e 2-bis della legge n. 241 del 1990. (134)
+Alla conferenza partecipano il proponente e tutte le amministrazioni competenti o comunque potenzialmente interessate al rilascio del provvedimento di VIA e i titoli abilitativi ambientali richiesti dal proponente. Per i progetti di cui all'articolo 8, comma 2-bis, alla conferenza partecipano in ogni caso il direttore generale del Ministero dell'ambiente e della tutela del territorio e del mare o un suo delegato e il direttore generale del Ministero per i beni e le attivita' culturali e per il turismo o un suo delegato. La conferenza, nell'ambito della propria attivita', prende in considerazione le osservazioni e le informazioni raccolte in sede di consultazione ai sensi dei commi 6 e 7, e conclude i propri lavori nel termine di duecentodieci giorni. La determinazione motivata di conclusione della conferenza di servizi, che costituisce il provvedimento unico in materia ambientale, reca l'indicazione espressa del provvedimento di VIA ed elenca, altresi', i titoli abilitativi compresi nel provvedimento unico. Fatto salvo quanto previsto per i progetti di cui all'articolo 8, comma 2-bis, la decisione di rilasciare i titoli di cui al comma 2 e' assunta sulla base del provvedimento di VIA, adottato dal competente direttore generale del Ministero dell'ambiente e della sicurezza energetica, previa acquisizione del concerto del competente direttore generale del Ministero della cultura, ai sensi dell'articolo 25. I termini previsti dall'articolo 25, comma 2, quarto periodo, sono ridotti alla meta' e, in caso di rimessione alla deliberazione del Consiglio dei ministri, la conferenza di servizi e' sospesa per il termine di cui all'articolo 25, comma 2, quinto periodo. Tutti i termini del procedimento si considerano perentori ai sensi e per gli effetti di cui agli articoli 2, commi da 9 a 9-quater, e 2-bis della legge n. 241 del 1990. (134)
 
 Le condizioni e le misure supplementari relative all'autorizzazione integrata ambientale di cui al comma 2, lettera a), e contenute nel provvedimento unico, sono rinnovate e riesaminate, controllate e sanzionate con le modalita' di cui agli articoli 29-octies, 29-decies e 29-quattuordecies. Le condizioni e le misure supplementari relative agli altri titoli abilitativi in materia ambientale di cui al comma 2, sono rinnovate e riesaminate, controllate e sanzionate con le modalita' previste dalle relative disposizioni di settore da parte delle amministrazioni competenti per materia.
 
@@ -2290,22 +2451,15 @@ Alle sanzioni amministrative pecuniarie previste dal presente articolo non si ap
 
 ## Art. 29-bis. — Individuazione e utilizzo delle migliori tecniche disponibili
 
-((
+L'autorizzazione integrata ambientale e' rilasciata tenendo conto di quanto indicato all'Allegato XI alla Parte Seconda e le relative condizioni sono definite avendo a riferimento le Conclusioni sulle BAT, salvo quanto previsto all'articolo 29-sexies, ((commi 9-bis, 9-bis.1, 9-ter e 9-quater)), e all'articolo 29-octies. Nelle more della emanazione delle conclusioni sulle BAT l'autorita' competente utilizza quale riferimento per stabilire le condizioni dell'autorizzazione le pertinenti conclusioni sulle migliori tecniche disponibili, tratte dai documenti pubblicati dalla Commissione europea in attuazione dell'articolo 16, paragrafo 2, della direttiva 96/61/CE o dell'articolo 16, paragrafo 2, della direttiva 2008/01/CE.
 
-L'autorizzazione integrata ambientale e' rilasciata tenendo conto di quanto indicato all'Allegato XI alla Parte Seconda e le relative condizioni sono definite avendo a riferimento le Conclusioni sulle BAT, salvo quanto previsto all'articolo 29-sexies, comma 9-bis, e all'articolo 29-octies. Nelle more della emanazione delle conclusioni sulle BAT l'autorita' competente utilizza quale riferimento per stabilire le condizioni dell'autorizzazione le pertinenti conclusioni sulle migliori tecniche disponibili, tratte dai documenti pubblicati dalla Commissione europea in attuazione dell'articolo 16, paragrafo 2, della direttiva 96/61/CE o dell'articolo 16, paragrafo 2, della direttiva 2008/01/CE.
+((Con uno o piu' decreti del Ministro dell'ambiente e della sicurezza energetica, di concerto con i Ministri delle imprese e del made in Italy e della salute, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, previa consultazione delle associazioni maggiormente rappresentative a livello nazionale degli operatori delle installazioni interessate, possono essere determinati requisiti generali, per talune categorie di installazioni che svolgono attivita' di cui all'allegato VIII o VIII-bis alla parte seconda, che tengano luogo dei corrispondenti requisiti fissati per ogni singola autorizzazione. I requisiti generali si basano sulle migliori tecniche disponibili, senza prescrivere l'utilizzo di alcuna tecnica o tecnologia specifica, al fine di garantire la conformita' con l'articolo 29-sexies, un approccio integrato ed una elevata protezione equivalente dell'ambiente nel suo complesso. I requisiti generali fissano, in particolare, i limiti di emissione e di prestazione piu' rigorosi che possono essere imposti a sottocategorie di installazioni aventi caratteristiche simili, tenendo conto dell'intera gamma dei BAT-AEL e dei BAT-AEPL indicata nelle pertinenti conclusioni sulle BAT e assumendo la applicazione delle tecniche poste a riferimento nei BREF piu' performanti tra quelle generalmente applicabili alla sottocategoria. Per le installazioni appartenenti alle sottocategorie interessate, salva l'applicazione dell'articolo 29-septies e dell'articolo 29-octies, l'autorita' competente rilascia l'autorizzazione che sostituisce i titoli di cui all'allegato IX alla parte seconda in base ad una semplice verifica di conformita' dell'istanza ai requisiti generali e non trovano conseguentemente applicazione i commi 5, 5-bis, 6 e 8, dell'articolo 29-quater.))
 
-Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico, il Ministro del lavoro e delle politiche sociali, il Ministro della salute e d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, previa consultazione delle associazioni maggiormente rappresentative a livello nazionale degli operatori delle installazioni interessate, possono essere determinati requisiti generali, per talune categorie di installazioni, che tengano luogo dei corrispondenti requisiti fissati per ogni singola autorizzazione, purche' siano garantiti un approccio integrato ed una elevata protezione equivalente dell'ambiente nel suo complesso. I requisiti generali si basano sulle migliori tecniche disponibili, senza prescrivere l'utilizzo di alcuna tecnica o tecnologia specifica, al fine di garantire la conformita' con l'articolo 29-sexies. Per le categorie interessate, salva l'applicazione dell'articolo 29-septies, l'autorita' competente rilascia l'autorizzazione in base ad una semplice verifica di conformita' dell'istanza con i requisiti generali.
+((Nelle more della emanazione dei decreti di cui al comma 2, le regioni hanno facolta' di emanare, sentiti i Ministeri dell'ambiente e della sicurezza energetica, delle imprese e del made in Italy e della salute, requisiti generali regionali che, per talune categorie di installazioni che svolgono attivita' di cui all'allegato VIII o VIII-bis alla parte seconda e non rientrano nelle installazioni di cui all'allegato XII alla parte seconda, tengano luogo dei corrispondenti requisiti fissati per ogni singola autorizzazione, tenendo conto delle specificita' proprie del contesto regionale. I requisiti generali definiti a livello regionale si basano sulle migliori tecniche disponibili, senza prescrivere l'utilizzo di alcuna tecnica o tecnologia specifica, al fine di garantire la conformita' con l'articolo 29-sexies, un approccio integrato e una elevata protezione equivalente dell'ambiente nel suo complesso. I requisiti generali regionali fissano, in particolare, i limiti di emissione e di prestazione piu' rigorosi che possono essere imposti a sottocategorie di installazioni aventi caratteristiche simili, tenendo conto dell'intera gamma dei BAT-AEL e dei BAT-AEPL indicata nelle pertinenti conclusioni sulle BAT e assumendo l'applicazione delle tecniche poste a riferimento nei BREF piu' performanti tra quelle generalmente applicabili alla sottocategoria nel territorio regionale. Per le installazioni appartenenti alle sottocategorie interessate, salva l'applicazione dell'articolo 29-septies e dell'articolo 29-octies, l'autorita' competente rilascia l'autorizzazione che sostituisce i titoli di cui all'allegato IX alla parte seconda in base ad una semplice verifica di conformita' dell'istanza con i requisiti generali e non trovano conseguentemente applicazione i commi 5, 5-bis, 6 e 8, dell'articolo 29-quater. In caso di successiva emanazione di requisiti generali di cui al comma 2, applicabili all'installazione, o di pertinenti conclusioni sulle BAT, i requisiti generali regionali perdono di efficacia in occasione del primo rinnovo dell'autorizzazione disposto ai sensi dell'articolo 29-octies, comma 3.))
 
-))
+((Prima dell'adozione dei decreti di cui al comma 2, il Ministero dell'ambiente e della sicurezza energetica provvede a pubblicare nel sito internet istituzionale lo schema da sottoporre alle amministrazioni concertanti per un periodo non inferiore a trenta giorni, durante il quale il pubblico interessato puo' formulare osservazioni, delle quali si tiene conto nel provvedimento finale.))
 
-((
-
-I decreti di cui al comma 2 sono aggiornati entro sei mesi dall'emanazione delle pertinenti conclusioni sulle BAT da parte della Commissione europea, al fine di tener conto dei progressi delle migliori tecniche disponibili e garantire la conformita' con l'articolo 29-octies, ed inoltre contengono un esplicito riferimento alla direttiva 2010/75/UE all'atto della pubblicazione ufficiale.
-Decorso inutilmente tale termine e fino al loro aggiornamento, i decreti gia' emanati ai sensi del comma 2 assumono, per installazioni pertinenti a tali conclusioni sulle BAT, una mera valenza informativa e conseguentemente non trova piu' applicazione l'ultimo periodo del comma 2.
-
-))
-
-Per le discariche di rifiuti da autorizzare ai sensi del presente titolo, si considerano soddisfatti i requisiti tecnici di cui al presente titolo se sono soddisfatti i requisiti tecnici di cui al decreto legislativo 13 gennaio 2003, n. 36 ((fino all'emanazione delle relative conclusioni sulle BAT)).
+Per le discariche di rifiuti da autorizzare ai sensi del presente titolo, si considerano soddisfatti i requisiti tecnici di cui al presente titolo se sono soddisfatti i requisiti tecnici di cui al decreto legislativo 13 gennaio 2003, n. 36 fino ((all'aggiornamento delle autorizzazioni in esito alla pubblicazione delle pertinenti)) conclusioni sulle BAT.
 
 ## Art. 29-ter. — Domanda di autorizzazione integrata ambientale
 
@@ -2325,14 +2479,23 @@ Per le discariche di rifiuti da autorizzare ai sensi del presente titolo, si con
                             
                                 b)
                                 
-                                    descrizione delle materie prime e ausiliarie, delle sostanze e dell'energia usate o prodotte dall'installazione; 
-
+                                    
+                                        ((descrizione delle materie prime e ausiliarie, delle sostanze, dell'energia e dell'acqua usate o prodotte, nonche' dell'acqua riutilizzata dall'installazione;))
+                                    
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((ove necessario, la dichiarazione di conformita' ai sensi dell'articolo 184-ter, comma 3;))
+                                    
                                 
                             
                             
                                 c)
                                 
-                                    descrizione delle fonti di emissione dell'installazione; 
+                                    descrizione delle fonti di emissione dell'installazione ((, compresi gli odori)); 
 
                                 
                             
@@ -2346,7 +2509,7 @@ Per le discariche di rifiuti da autorizzare ai sensi del presente titolo, si con
                             
                                 e)
                                 
-                                    descrizione del tipo e dell'entita' delle prevedibili emissioni dell'installazione in ogni comparto ambientale nonche' un'identificazione degli effetti significativi delle emissioni sull'ambiente; 
+                                    descrizione del tipo e dell'entita' delle prevedibili emissioni dell'installazione ((, inclusi gli odori,)) in ogni comparto ambientale nonche' un'identificazione degli effetti significativi delle emissioni sull'ambiente ((e sulla salute umana)); 
 
                                 
                             
@@ -2388,13 +2551,34 @@ Per le discariche di rifiuti da autorizzare ai sensi del presente titolo, si con
                             
                                 m)
                                 
-                                    se l'attivita' comporta l'utilizzo, la produzione o lo scarico di sostanze pericolose e, tenuto conto della possibilita' di contaminazione del suolo e delle acque sotterrane nel sito dell'installazione, una relazione di riferimento elaborata dal gestore prima della messa in esercizio dell'installazione o prima del primo aggiornamento dell'autorizzazione rilasciata, per la quale l'istanza costituisce richiesta di validazione. L'autorita' competente esamina la relazione disponendo nell'autorizzazione o nell'atto di aggiornamento, ove ritenuto necessario ai fini della sua validazione, ulteriori e specifici approfondimenti.
+                                    se l'attivita' comporta l'utilizzo, la produzione o lo scarico di sostanze pericolose e, tenuto conto della possibilita' di contaminazione del suolo e delle acque sotterrane nel sito dell'installazione, una relazione di riferimento elaborata dal gestore prima della messa in esercizio dell'installazione o prima del primo aggiornamento dell'autorizzazione rilasciata ((. L'autorita' competente dispone nell'autorizzazione o nell'atto di aggiornamento, ove ritenuto necessario,)). L'autorita' competente esamina la relazione disponendo nell'autorizzazione o nell'atto di aggiornamento, ove ritenuto necessario ai fini della sua validazione, ulteriori e specifici approfondimenti. 
 
-e l'indicazione delle informazioni che ad avviso del gestore non devono essere diffuse per ragioni di riservatezza industriale, commerciale o personale, di tutela della proprieta' intellettuale e, tenendo conto delle indicazioni contenute nell'articolo 39 della legge 3 agosto 2007, n. 124, di pubblica sicurezza o di difesa nazionale. In tale caso il richiedente fornisce all'autorita' competente anche una versione della domanda priva delle informazioni riservate, ai fini dell'accessibilita' al pubblico.
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    
+                                        ((quietanza dell'avvenuto versamento della tariffa istruttoria di cui all'articolo 33, comma 3-ter.))
+
+2.
+                        
+                            
+                                La domanda di autorizzazione integrata ambientale deve contenere anche una sintesi non tecnica dei dati di cui alle lettere da 
+                            
+                            
+                                a)
+                                
+                                    a m) del comma 1 e l'indicazione delle informazioni che ad avviso del gestore non devono essere diffuse per ragioni di riservatezza industriale, commerciale o personale, di tutela della proprieta' intellettuale e, tenendo conto delle indicazioni contenute nell'articolo 39 della legge 3 agosto 2007, n. 124, di pubblica sicurezza o di difesa nazionale. In tale caso il richiedente fornisce all'autorita' competente anche una versione della domanda priva delle informazioni riservate, ai fini dell'accessibilita' al pubblico.
 
 Qualora le informazioni e le descrizioni fornite secondo un rapporto di sicurezza, elaborato conformemente alle norme previste sui rischi di incidente rilevante connessi a determinate attivita' industriali, o secondo la norma UNI EN ISO 14001, ovvero i dati prodotti per i siti registrati ai sensi del regolamento (CE) n. 761/2001 e successive modifiche, nonche' altre informazioni fornite secondo qualunque altra normativa, rispettino uno o piu' requisiti di cui al comma 1 del presente articolo, tali dati possono essere utilizzati ai fini della presentazione della domanda e possono essere inclusi nella domanda o essere ad essa allegati.
 
-Entro trenta giorni dalla presentazione della domanda, l'autorita' competente verifica la completezza della stessa e della documentazione allegata. Qualora queste risultino incomplete, l'autorita' competente ovvero, nel caso di impianti di competenza statale, la Commissione di cui all'art. 8-bis potra' chiedere apposite integrazioni, indicando un termine non inferiore a trenta giorni per la presentazione della documentazione integrativa. In tal caso i termini del procedimento si intendono interrotti fino alla presentazione della documentazione integrativa. Qualora entro il termine indicato il proponente non depositi la documentazione completa degli elementi mancanti, l'istanza si intende ritirata. E' fatta salva la facolta' per il proponente di richiedere una proroga del termine per la presentazione della documentazione integrativa in ragione della complessita' della documentazione da presentare.
+((Entro dieci giorni dalla presentazione della istanza, l'autorita' competente, effettuate le verifiche ai sensi dell'articolo 2, comma 1, della legge 7 agosto 1990, n. 241, anche in relazione all'avvenuto pagamento della tariffa ai sensi dell'articolo 33, comma 3-ter, inoltra l'istanza alle amministrazioni e agli uffici competenti in materia ambientale che hanno la responsabilita' di garantire la conformita' alla legislazione ambientale dell'Unione europea, comprese le norme di qualita' ambientale, per aspetti connessi all'esercizio dell'installazione. L'istanza e' inoltrata, altresi', all'autorita' sanitaria individuata dalla regione, al sindaco del comune in cui e' ubicata l'installazione, nonche', per le installazioni soggette alle disposizioni di cui al decreto legislativo 26 giugno 2015, n. 105, e al decreto legislativo 31 luglio 2020, n. 101, alle relative autorita' competenti, e, nel caso di impianti di competenza statale, ai Ministeri dell'interno, della salute e delle imprese e del made in Italy.))
+
+((Entro e non oltre venti giorni dall'inoltro dell'istanza, le amministrazioni e gli uffici di cui al comma 4 trasmettono all'autorita' competente eventuali osservazioni, ovvero richieste di integrazione.))
+
+((Qualora, anche sulla base degli elementi acquisiti ai sensi del comma 4-bis e dell'articolo 29-quater, comma 4, le informazioni contenute nell'istanza risultino incomplete, l'autorita' competente, nel caso di impianti di competenza statale anche sulla base di una proposta della Commissione di cui all'articolo 8-bis, entro trenta giorni dall'avvio del procedimento chiede una sola volta integrazioni al gestore, assegnando un termine non inferiore a trenta giorni. In tal caso i termini del procedimento sono interrotti fino alla ricezione della documentazione integrativa. E' fatta salva la facolta' per il gestore di richiedere una proroga del termine in ragione della complessita' della documentazione da presentare.
+Qualora il gestore non depositi la documentazione completa degli elementi mancanti entro il termine assegnato, l'istanza si intende ritirata.))
 
 ------------
                             AGGIORNAMENTO (40)
@@ -2404,30 +2588,33 @@ Entro trenta giorni dalla presentazione della domanda, l'autorita' competente ve
 
 ## Art. 29-quater. — Procedura per il rilascio dell'autorizzazione integrata ambientale
 
-Per le installazioni di competenza statale la domanda e' presentata all'autorita' competente per mezzo di procedure telematiche, con il formato e le modalita' stabiliti con il decreto di cui all'articolo 29-duodecies, comma 2.
+Per le installazioni di competenza statale la domanda e' presentata all'autorita' competente per mezzo di procedure telematiche, con il formato e le modalita' stabiliti con il decreto di cui all'articolo 29-duodecies, comma 2. ((Le autorita' competenti provvedono a informatizzare la presentazione delle istanze e i procedimenti nel rispetto dell'articolo 9, comma 4ter.))
 
-L'autorita' competente individua gli uffici presso i quali sono depositati i documenti e gli atti inerenti il procedimento, al fine della consultazione del pubblico. Tale consultazione e' garantita anche mediante pubblicazione sul sito internet dell'autorita' competente ((, non appena sia ragionevolmente possibile, del progetto di decisione, compreso il verbale conclusivo della conferenza di servizi di cui al comma 5, del contenuto della decisione)), compresa una copia dell'autorizzazione e degli eventuali successivi aggiornamenti, e ((con particolare riferimento agli elementi)) di cui alle lettere b), e), f) e g) del comma 13 ((, nonche' delle proposte di riesame pervenute dalle autorita' competenti in materia ambientale ai sensi dell'articolo 29-octies, comma 4, ovvero dal sindaco ai sensi del comma 7, del presente articolo)).
+L'autorita' competente individua gli uffici presso i quali sono depositati i documenti e gli atti inerenti il procedimento, al fine della consultazione del pubblico. Tale consultazione e' garantita anche mediante pubblicazione sul sito internet dell'autorita' competente, ((in una fase precoce della procedura di adozione della decisione e, comunque, non appena sia ragionevolmente possibile, su una pagina internet facilmente reperibile, a titolo gratuito e senza limitare l'accesso agli utenti registrati, dell'istanza, del progetto di decisione, compreso il verbale conclusivo della conferenza di servizi di cui al comma 5, del contenuto della decisione, compresa una copia dell'autorizzazione e degli eventuali successivi aggiornamenti e, se del caso, delle condizioni di autorizzazione consolidate, e con particolare riferimento agli elementi di cui al comma 13, lettere b), c), e), f), g), h) ed h-bis), nonche' delle proposte di riesame pervenute dalle autorita' competenti in materia ambientale ai sensi dell'articolo 29-octies, comma 4, ovvero ai sensi del comma 7, del presente articolo e, entro sessanta giorni dalla presentazione, delle comunicazioni di cui all'articolo 29-nonies, commi 1 e 3-bis)).
 
-L'autorita' competente, entro trenta giorni dal ricevimento della domanda ovvero, in caso di riesame ai sensi dell'articolo 29-octies, comma 4, contestualmente all'avvio del relativo procedimento, comunica al gestore la data di avvio del procedimento ai sensi dell'art. 7 della legge 7 agosto 1990, n. 241, e la sede degli uffici di cui al comma 2. Entro il termine di quindici giorni dalla data di avvio del procedimento, l'autorita' competente pubblica nel proprio sito web l'indicazione della localizzazione dell'installazione e il nominativo del gestore, nonche' gli uffici individuati ai sensi del comma 2 ove e' possibile prendere visione degli atti e trasmettere le osservazioni. Tali forme di pubblicita' tengono luogo delle comunicazioni di cui all'articolo 7 ed ai commi 3 e 4 dell'articolo 8 della legge 7 agosto 1990, n. 241. Le informazioni pubblicate dal gestore ai sensi del presente comma sono altresi' pubblicate dall'autorita' competente nel proprio sito web.
-E' in ogni caso garantita l'unicita' della pubblicazione per gli impianti di cui al titolo III della parte seconda del presente decreto.
+L'autorita' competente, entro trenta giorni dal ricevimento della domanda ovvero, in caso di riesame ai sensi dell'articolo 29-octies, comma 4, contestualmente all'avvio del relativo procedimento, comunica al gestore la data di avvio del procedimento ai sensi dell'art. 7 della legge 7 agosto 1990, n. 241, e la sede degli uffici di cui al comma 2. Entro il termine di quindici giorni dalla data di avvio del procedimento, l'autorita' competente pubblica nel proprio sito web l'indicazione della localizzazione dell'installazione e il nominativo del gestore, nonche' gli uffici individuati ai sensi del comma 2 ove e' possibile prendere visione degli atti e trasmettere le osservazioni. Tali forme di pubblicita' tengono luogo delle comunicazioni di cui all'articolo 7 ed ai commi 3 e 4 dell'articolo 8 della legge 7 agosto 1990, n. 241. ((PERIODO SOPPRESSO DAL D.LGS. 28 SETTEMBRE 2026, N. 197)). ((PERIODO SOPPRESSO DAL D.LGS. 28 SETTEMBRE 2026, N. 197)).
 
-Entro trenta giorni dalla data di pubblicazione dell'annuncio di cui al comma 3, i soggetti interessati possono presentare in forma scritta, all'autorita' competente, osservazioni sulla domanda.
+Entro trenta giorni dalla data di pubblicazione dell'annuncio di cui al comma 3, i soggetti interessati possono presentare in forma scritta, all'autorita' competente, osservazioni sulla domanda. ((In tale periodo sono sospesi i termini di cui al comma 10 e di cui all'articolo 29-ter commi 4-bis e 4-ter.))
 
-La convocazione da parte dell'autorita' competente, ai fini del rilascio dell'autorizzazione integrata ambientale, di apposita Conferenza di servizi, alla quale sono invitate le amministrazioni competenti in materia ambientale e comunque, nel caso di impianti di competenza statale, i Ministeri dell'interno, del lavoro e delle politiche sociali, della salute e dello sviluppo economico, oltre al soggetto richiedente l'autorizzazione, nonche', per le installazioni di competenza regionale, le altre amministrazioni competenti per il rilascio dei titoli abilitativi richiesti contestualmente al rilascio dell'AIA, ha luogo ai sensi degli articoli 14 e 14-ter della legge 7 agosto 1990, n. 241, e successive modificazioni. Per le installazioni soggette alle disposizioni di cui al decreto legislativo 17 agosto 1999, n. 334, ferme restando le relative disposizioni, al fine di acquisire gli elementi di valutazione ai sensi dell'articolo 29-sexies, comma 8, e di concordare preliminarmente le condizioni di funzionamento dell'installazione, alla conferenza e' invitato un rappresentante della rispettiva autorita' competente.
+((L'autorita' competente al rilascio dell'autorizzazione integrata ambientale convoca apposita conferenza di servizi decisoria, ai sensi dell'articolo 14 e seguenti della legge 7 agosto 1990, n. 241, alla quale partecipano le amministrazioni titolate ad esprimere pareri, intese, concerti, nulla osta o altri atti di assenso, comunque denominati, necessari al rilascio dell'autorizzazione. L'autorita' sanitaria individuata dalla regione e il sindaco territorialmente competente partecipano alla conferenza di servizi esclusivamente nei casi specifici di cui all'articolo 29-sexies, commi 9-bis, 9-bis.1 e 9-ter.))
 
-Nell'ambito della Conferenza dei servizi di cui al comma 5, vengono acquisite le prescrizioni del sindaco di cui agli articoli 216 e 217 del regio decreto 27 luglio 1934, n. 1265, nonche' la proposta dell'Istituto superiore per la protezione e la ricerca ambientale, per le installazioni di competenza statale, o il parere delle Agenzie regionali e provinciali per la protezione dell'ambiente, per le altre installazioni, per quanto riguarda le modalita' di monitoraggio e controllo degli impianti e delle emissioni nell'ambiente.
+((Per le autorizzazioni di competenza statale, alla conferenza di servizi partecipano, tra le altre amministrazioni, il Ministero della salute, ai fini della definizione delle determinazioni volte alla tutela della salute pubblica, i Ministeri dell'interno e delle imprese e del made in Italy, per gli aspetti di rispettiva competenza.))
 
-In presenza di circostanze intervenute successivamente al rilascio dell'autorizzazione di cui al presente titolo, il sindaco, qualora lo ritenga necessario nell'interesse della salute pubblica, puo', con proprio motivato provvedimento, corredato dalla relativa documentazione istruttoria e da puntuali proposte di modifica dell'autorizzazione, chiedere all'autorita' competente di riesaminare l'autorizzazione rilasciata ai sensi dell'articolo 29-octies.
+((Nell'ambito della conferenza di servizi, e' acquisita la proposta dell'Istituto superiore per la protezione e la ricerca ambientale su cui esprime parere, per gli eventuali aspetti di competenza, l'Istituto superiore di Sanita', per le installazioni di competenza statale, ovvero il parere delle agenzie regionali e provinciali per la protezione dell'ambiente, per le altre installazioni, per quanto riguarda le modalita' di monitoraggio e controllo degli impianti e delle emissioni nell'ambiente.))
+
+((COMMA ABROGATO DAL D.LGS. 28 SETTEMBRE 2026, N. 197)).
 
 Nell'ambito della Conferenza dei servizi, l'autorita' competente puo' richiedere integrazioni alla documentazione, anche al fine di valutare la applicabilita' di specifiche misure alternative o aggiuntive, indicando il termine massimo non superiore a novanta giorni per la presentazione della documentazione integrativa. In tal caso, il termine di cui al comma 10 resta sospeso fino alla presentazione della documentazione integrativa.
 
+((L'autorizzazione puo' prescrivere, anche per quanto attiene agli aspetti sanitari, approfondimenti conoscitivi o lo svolgimento di campagne di monitoraggio sugli effetti dell'esercizio dell'impianto nel corso della durata dell'autorizzazione, e la conseguente attivazione di successivi specifici riesami parziali. Ove lo svolgimento di tali approfondimenti e campagne di monitoraggio richieda il coinvolgimento di amministrazioni pubbliche con competenze non ambientali, tali amministrazioni sono individuate in conferenza di servizi e forniscono supporto all'autorita' di controllo ambientale di cui all'articolo 29-decies, comma 3.))
+
 COMMA SOPPRESSO DAL D.LGS. 4 MARZO 2014, N. 46.
 
-L'autorita' competente esprime le proprie determinazioni sulla domanda di autorizzazione integrata ambientale entro centocinquanta giorni dalla presentazione della domanda.
+L'autorita' competente esprime le proprie determinazioni sulla domanda di autorizzazione integrata ambientale entro centocinquanta giorni dalla presentazione della domanda ((, salve le sospensioni e le interruzioni previste dai commi 4 e 8 e dall'articolo 29-ter, comma 4-ter)).
 
-Le autorizzazioni integrate ambientali rilasciate ai sensi del presente decreto, sostituiscono ad ogni effetto le autorizzazioni riportate nell'elenco dell'Allegato IX alla Parte Seconda del presente decreto. A tal fine il provvedimento di autorizzazione integrata ambientale richiama esplicitamente le eventuali condizioni, gia' definite nelle autorizzazioni sostituite, la cui necessita' permane. Inoltre le autorizzazioni integrate ambientali sostituiscono la comunicazione di cui all'articolo 216.
+Le autorizzazioni integrate ambientali rilasciate ai sensi del presente decreto, sostituiscono ad ogni effetto le autorizzazioni riportate nell'elenco dell'Allegato IX alla Parte Seconda del presente decreto. A tal fine il provvedimento di autorizzazione integrata ambientale richiama esplicitamente le eventuali condizioni, gia' definite nelle autorizzazioni sostituite, la cui necessita' permane. Inoltre le autorizzazioni integrate ambientali sostituiscono la comunicazione di cui all'articolo 216 ((e danno attuazione alla disciplina regionale definita in esecuzione dell'articolo 113 in materia di acque meteoriche)).
 
-Ogni autorizzazione integrata ambientale deve includere le modalita' previste dal presente decreto per la protezione dell'ambiente, nonche', la data entro la quale le prescrizioni debbono essere attuate.
+Ogni autorizzazione integrata ambientale deve includere le modalita' previste dal presente decreto per la protezione dell'ambiente, nonche' ((...)) la data entro la quale le prescrizioni debbono essere attuate.
 
 13.
                         
@@ -2452,28 +2639,29 @@ Ogni autorizzazione integrata ambientale deve includere le modalita' previste da
                             
                                 c)
                                 
-                                    i risultati delle consultazioni condotte ((, anche coinvolgendo altri Stati ai sensi dell'articolo 32-bis,)) prima dell'adozione della decisione e una spiegazione della modalita' con cui se ne e' tenuto conto nella decisione; 
+                                    i risultati delle consultazioni condotte, anche coinvolgendo altri Stati ai sensi dell'articolo 32-bis, prima dell'adozione della decisione e una spiegazione della modalita' con cui se ne e' tenuto conto nella decisione; 
 
                                 
                             
                             
                                 d)
                                 
-                                    il titolo dei documenti di riferimento sulle BAT pertinenti per l'installazione o l'attivita' interessati; 
+                                    
+                                        ((gli estremi)) dei documenti di riferimento sulle BAT pertinenti per l'installazione o l'attivita' ((interessate)); 
 
                                 
                             
                             
                                 e)
                                 
-                                    il metodo utilizzato per determinare le condizioni di autorizzazione di cui all'articolo 29-sexies, ivi compresi i valori limite di emissione, in relazione alle migliori tecniche disponibili e ai livelli di emissione ivi associati; 
+                                    il metodo utilizzato per determinare le condizioni di autorizzazione di cui all'articolo 29-sexies, ivi compresi i valori limite di emissione, ((i livelli di prestazione ambientale e i valori limite di prestazione ambientale,)) in relazione alle migliori tecniche disponibili e ai livelli di emissione ivi associati; 
 
                                 
                             
                             
                                 f)
                                 
-                                    se e' concessa una deroga ai sensi dell'articolo 29-sexies, comma 10, i motivi specifici della deroga sulla base dei criteri indicati in detto comma e le condizioni imposte; 
+                                    se e' concessa una deroga ai sensi dell'articolo 29-sexies, ((commi da 9-bis a 9-quater)), i motivi specifici della deroga sulla base dei criteri indicati ((nel pertinente)) comma e le condizioni imposte; 
 
                                 
                             
@@ -2487,47 +2675,141 @@ Ogni autorizzazione integrata ambientale deve includere le modalita' previste da
                             
                                 h)
                                 
-                                    i risultati del controllo delle emissioni, richiesti dalle condizioni di autorizzazione e in possesso dell'autorita' competente.
+                                    i risultati del controllo delle emissioni, richiesti dalle condizioni di autorizzazione e in possesso dell'autorita' competente. 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    
+                                        ((i risultati dei controlli sugli effetti ambientali di cui agli articoli 29-septies, comma 2-bis, e 29-sexies, comma 9-bis.))
 
 L'autorita' competente puo' sottrarre all'accesso le informazioni, in particolare quelle relative agli impianti militari di produzione di esplosivi di cui al punto 4.6 dell'allegato VIII, qualora cio' si renda necessario per l'esigenza di salvaguardare ai sensi dell'articolo 24, comma 6, lettera a), della legge 7 agosto 1990, n. 241, e relative norme di attuazione, la sicurezza pubblica o la difesa nazionale. L'autorita' competente puo' inoltre sottrarre all'accesso informazioni non riguardanti le emissioni dell'impianto nell'ambiente, per ragioni di tutela della proprieta' intellettuale o di riservatezza industriale, commerciale o personale.
 
 In considerazione del particolare e rilevante impatto ambientale, della complessita' e del preminente interesse nazionale dell'impianto, nel rispetto delle disposizioni del presente decreto, possono essere conclusi, d'intesa tra lo Stato, le regioni, le province e i comuni territorialmente competenti e i gestori, specifici accordi, al fine di garantire, in conformita' con gli interessi fondamentali della collettivita', l'armonizzazione tra lo sviluppo del sistema produttivo nazionale, le politiche del territorio e le strategie aziendali. In tali casi l'autorita' competente, fatto comunque salvo quanto previsto al comma 12, assicura il necessario coordinamento tra l'attuazione dell'accordo e la procedura di rilascio dell'autorizzazione integrata ambientale.
 Nei casi disciplinati dal presente comma i termini di cui al comma 10 sono raddoppiati.
 
-## Art. 29-quinquies. — (( (Coordinamento per l'uniforme applicazione sul territorio nazionale). ))
-
-((
+## Art. 29-quinquies. — (Coordinamento per l'uniforme applicazione sul territorio nazionale)
 
 E' istituito, presso il Ministero dell'ambiente e della tutela del territorio e del mare, un Coordinamento tra i rappresentanti di tale Ministero, di ogni regione e provincia autonoma e dell'Unione delle province italiane (UPI). Partecipano al Coordinamento rappresentanti dell'ISPRA, nonche', su indicazione della regione o provincia autonoma di appartenenza, rappresentanti delle agenzie regionali e provinciali per la protezione dell'ambiente. Il Coordinamento opera attraverso l'indizione di riunioni periodiche e la creazione di una rete di referenti per lo scambio di dati e di informazioni.
 
 Il Coordinamento previsto dal comma 1 assicura, anche mediante gruppi di lavoro, l'elaborazione di indirizzi e di linee guida in relazione ad aspetti di comune interesse e permette un esame congiunto di temi connessi all'applicazione del presente Titolo, anche al fine di garantire un'attuazione coordinata e omogenea delle nuove norme e di prevenire le situazioni di inadempimento e le relative conseguenze.
 
-Ai soggetti che partecipano, a qualsiasi titolo, al Coordinamento previsto al comma 1 non sono corrisposti gettoni, compensi, rimborsi spese o altri emolumenti comunque denominati.
+((Alle attivita' del coordinamento di cui al comma 1 possono partecipare, in relazione agli aspetti di rispettivo interesse, referenti delle direzioni generali del Ministero dell'ambiente e della sicurezza energetica e dei Ministeri della salute, delle imprese e del made in Italy, dell'interno, del lavoro e delle politiche sociali e dell'agricoltura, della sovranita' alimentare e delle foreste.))
 
-))
+((Delle indicazioni fornite dal coordinamento di cui al comma 1 si tiene conto nelle risposte agli interpelli ambientali di cui all'articolo 3-septies, attinenti all'applicazione delle disposizioni del presente titolo.))
+
+Ai soggetti che partecipano, a qualsiasi titolo, al Coordinamento previsto al comma 1 non sono corrisposti gettoni, compensi, rimborsi spese o altri emolumenti comunque denominati.
 
 ## Art. 29-sexies. — Autorizzazione integrata ambientale
 
 L'autorizzazione integrata ambientale rilasciata ai sensi del presente decreto, deve includere tutte le misure necessarie a soddisfare i requisiti di cui ai seguenti commi del presente articolo nonche' di cui agli articoli 6, comma 16, e 29-septies, al fine di conseguire un livello elevato di protezione dell'ambiente nel suo complesso. L'autorizzazione integrata ambientale di attivita' regolamentate dal decreto legislativo 4 aprile 2006, n. 216, contiene valori limite per le emissioni dirette di gas serra, di cui all'allegato B del medesimo decreto, solo quando cio' risulti indispensabile per evitare un rilevante inquinamento locale.
 
+((Per ogni installazione che ricade nell'ambito di applicazione del presente titolo, il gestore predispone ed attua un sistema di gestione ambientale conforme ai commi 9-octies e 9-novies entro il 1° luglio 2030, ovvero, per installazioni che hanno acquisito l'autorizzazione integrata ambientale successivamente, entro il termine fissato per la prima comunicazione di cui all'articolo 29-decies, comma 1, sottopone tale documento ad un primo audit entro la medesima scadenza, lo mette a disposizione del pubblico come specificato al comma 9-duodecies e effettua il periodico riesame di tale documento almeno in occasione di ogni riesame con valenza di rinnovo di cui all'articolo 29-octies, comma 3, per garantirne la continua idoneita', adeguatezza ed efficacia.
+Inoltre, per verificare la conformita' del sistema di gestione ambientale e della sua attuazione al presente articolo, il gestore sottopone il sistema di gestione ambientale almeno ogni tre anni ad audit effettuato da un organismo accreditato per la valutazione della conformita' a norma del regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, oppure da un verificatore ambientale accreditato o dotato di licenza, quale definito all'articolo 2, punto 20), del regolamento (CE) n. 1221/2009 del Parlamento europeo e del Consiglio, del 25 novembre 2009. Sono riconosciuti come equivalenti i sistemi gia' certificati secondo la norma UNI EN ISO 14001:2015 o registrati ai sensi del citato regolamento (CE) n. 1221/2009.))
+
 COMMA SOPPRESSO DAL D.LGS. 4 MARZO 2014, N. 46. (76)
 
-L'autorizzazione integrata ambientale deve includere valori limite di emissione fissati per le sostanze inquinanti, in particolare quelle dell'allegato X alla Parte Seconda, che possono essere emesse dall'installazione interessata in quantita' significativa, in considerazione della loro natura e delle loro potenzialita' di trasferimento dell'inquinamento da un elemento ambientale all'altro, acqua, aria e suolo, nonche' i valori limite ai sensi della vigente normativa in materia di inquinamento acustico. I valori limite di emissione fissati nelle autorizzazioni integrate ambientali non possono comunque essere meno rigorosi di quelli fissati dalla normativa vigente nel territorio in cui e' ubicata l'installazione. Se del caso i valori limite di emissione possono essere integrati o sostituiti con parametri o misure tecniche equivalenti.
+((L'autorizzazione integrata ambientale deve includere valori limite di emissione fissati per le sostanze inquinanti, tra cui quelle elencate nell'allegato II del regolamento (UE) 2024/1244 del Parlamento europeo e del Consiglio, del 24 aprile 2024, che possono essere emesse dall'installazione interessata in quantita' significativa, in considerazione della loro natura, della loro pericolosita' e delle loro potenzialita' di trasferimento dell'inquinamento da un elemento ambientale all'altro, acqua, aria e suolo tenendo conto della variazione della dinamica del flusso d'acqua nei corpi idrici riceventi, nonche' i valori limite ai sensi della vigente normativa in materia di inquinamento acustico.)) I valori limite di emissione fissati nelle autorizzazioni integrate ambientali non possono comunque essere meno rigorosi di quelli fissati dalla normativa vigente nel territorio in cui e' ubicata l'installazione. Se del caso i valori limite di emissione possono essere integrati o sostituiti con parametri o misure tecniche equivalenti.
 
-L'autorizzazione integrata ambientale contiene le ulteriori disposizioni che garantiscono la protezione del suolo e delle acque sotterranee, le opportune disposizioni per la gestione dei rifiuti prodotti dall'impianto e per la riduzione dell'impatto acustico, nonche' disposizioni adeguate per la manutenzione e la verifica periodiche delle misure adottate per prevenire le emissioni nel suolo e nelle acque sotterranee e disposizioni adeguate relative al controllo periodico del suolo e delle acque sotterranee in relazione alle sostanze pericolose che possono essere presenti nel sito e tenuto conto della possibilita' di contaminazione del suolo e delle acque sotterranee presso il sito dell'installazione.
+3-bis.
+                        
+                            
+                                
+                                    ((L'autorizzazione integrata ambientale contiene inoltre:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((valori limite di prestazione ambientale come specificati nel comma 4-quinquies;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((disposizioni adeguate che garantiscono la valutazione della necessita' di prevenire o ridurre le emissioni di sostanze che soddisfano i criteri di cui all'articolo 57 del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, oppure sostanze oggetto delle restrizioni di cui all'allegato XVII del medesimo regolamento;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((disposizioni adeguate che definiscono le caratteristiche di un sistema di gestione ambientale conformemente al comma 1-bis;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((opportuni requisiti di controllo del consumo e del riutilizzo di risorse come l'energia, l'acqua e le materie prime;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((opportune disposizioni per il monitoraggio e la gestione dei rifiuti prodotti dall'installazione;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((opportune disposizioni per la riduzione dell'impatto acustico;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((disposizioni adeguate per la manutenzione e la sorveglianza dei presidi volti a prevenire le emissioni;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((ulteriori disposizioni che garantiscono la protezione del suolo, delle acque sotterranee, delle acque superficiali e dei bacini idrografici di alimentazione dei punti di estrazione di acque destinate al consumo umano di cui all'articolo 7 del decreto legislativo 23 febbraio 2023, n. 18;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((disposizioni adeguate per la relazione di riferimento e la verifica periodica delle misure adottate per prevenire le emissioni nel suolo, nelle acque superficiali e nelle acque sotterranee;))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((disposizioni adeguate relative al controllo periodico del suolo, delle acque superficiali e delle acque sotterranee in relazione alle sostanze pericolose che possono essere presenti nel sito e tenuto conto della possibilita' di contaminazione del suolo, delle acque superficiali e delle acque sotterranee presso il sito dell'installazione.))
 
-Fatto salvo l'articolo 29-septies, i valori limite di emissione, i parametri e le misure tecniche equivalenti di cui ai commi precedenti fanno riferimento all'applicazione delle migliori tecniche disponibili, senza l'obbligo di utilizzare una tecnica o una tecnologia specifica, tenendo conto delle caratteristiche tecniche dell'impianto in questione, della sua ubicazione geografica e delle condizioni locali dell'ambiente. In tutti i casi, le condizioni di autorizzazione prevedono disposizioni per ridurre al minimo l'inquinamento a grande distanza o attraverso le frontiere e garantiscono un elevato livello di protezione dell'ambiente nel suo complesso.
+Fatto salvo l'articolo 29-septies, i valori limite ((...)), i parametri e le misure tecniche equivalenti di cui ai commi precedenti fanno riferimento all'applicazione delle migliori tecniche disponibili, senza l'obbligo di utilizzare una tecnica o una tecnologia specifica, tenendo conto delle caratteristiche tecniche dell'impianto in questione, della sua ubicazione geografica e delle condizioni locali dell'ambiente. In tutti i casi, le condizioni di autorizzazione prevedono disposizioni per ridurre al minimo l'inquinamento a grande distanza o attraverso le frontiere e garantiscono un elevato livello di protezione dell'ambiente nel suo complesso.
 
 4-bis.
                         
                             
-                                L'autorita' competente fissa valori limite di emissione che garantiscono che, in condizioni di esercizio normali, le emissioni non superino i livelli di emissione associati alle migliori tecniche disponibili (BAT-AEL) di cui all'articolo 5, comma 1, lettera l-ter.4), attraverso una delle due opzioni seguenti: 
+                                L'autorita' competente fissa valori limite di emissione che garantiscono che, in condizioni di esercizio normali, le emissioni non superino i livelli di emissione associati alle migliori tecniche disponibili (BAT-AEL) di cui all'articolo 5, comma 1, lettera l-ter.4), ((e si attestino sui valori piu' rigorosi ottenibili e mantenibili stabilmente applicando le migliori tecniche disponibili, tenuto conto degli eventuali effetti incrociati. A tal fine il gestore valuta l'intera gamma dei BAT-AEL, analizzando in particolare se sia realisticamente possibile fissare limiti corrispondenti ai valori piu' rigorosi della gamma BAT-AEL, e illustra le migliori prestazioni complessive che l'installazione puo' raggiungere e mantenere stabilmente grazie all'applicazione delle tecniche di riferimento descritte nelle conclusioni sulle BAT applicabili al caso specifico, tenuto conto degli eventuali effetti incrociati. I valori limite di emissione sono fissati)) attraverso una delle due opzioni seguenti: 
  
                             
                             
                                 a)
                                 
-                                    fissando valori limite di emissione, in condizioni di esercizio normali, che non superano i BAT-AEL, adottino le stesse condizioni di riferimento dei BAT-AEL e tempi di riferimento non maggiori di quelli dei BAT-AEL; 
+                                    fissando valori limite di emissione, in condizioni di esercizio normali, ((all'interno dei valori dei)) BAT-AEL, adottino le stesse condizioni di riferimento dei BAT-AEL e tempi di riferimento non maggiori di quelli dei BAT-AEL; 
 
                                 
                             
@@ -2554,9 +2836,65 @@ Fatto salvo l'articolo 29-septies, i valori limite di emissione, i parametri e l
                                 
                                     quando lo richiede il rispetto della normativa vigente nel territorio in cui e' ubicata l'installazione o il rispetto dei provvedimenti relativi all'installazione non sostituiti dall'autorizzazione integrata ambientale.
 
-I valori limite di emissione delle sostanze inquinanti si applicano nel punto di fuoriuscita delle emissioni dall'installazione e la determinazione di tali valori e' effettuata al netto di ogni eventuale diluizione che avvenga prima di quel punto, tenendo se del caso esplicitamente conto dell'eventuale presenza di fondo della sostanza nell'ambiente per motivi non antropici. Per quanto concerne gli scarichi indiretti di sostanze inquinanti nell'acqua, l'effetto di una stazione di depurazione puo' essere preso in considerazione nella determinazione dei valori limite di emissione dell'installazione interessata, a condizione di garantire un livello equivalente di protezione dell'ambiente nel suo insieme e di non portare a carichi inquinanti maggiori nell'ambiente.
+4-quater.
+                        
+                            
+                                I valori limite di emissione delle sostanze inquinanti ((originate nell'installazione)) si applicano nel punto di fuoriuscita delle emissioni dall'installazione e la determinazione di tali valori e' effettuata al netto di ogni eventuale diluizione che avvenga prima di quel punto, tenendo se del caso esplicitamente conto dell'eventuale presenza di fondo della sostanza nell'ambiente per motivi non antropici. ((Per quanto concerne gli scarichi indiretti di sostanze inquinanti nell'acqua, l'effetto di un impianto di depurazione esterna puo' essere preso in considerazione nella determinazione dei valori limite di emissione dell'installazione interessata, a condizione che cio' non comporti livelli piu' elevati di inquinamento ambientale rispetto ad un assetto che preveda la depurazione e lo scarico diretto e che sia garantito un livello equivalente di protezione dell'ambiente nel suo complesso. A tal fine il gestore, consultato il gestore dell'impianto di trattamento esterno, si accerta che l'efficienza di abbattimento dell'impianto di depurazione esterno sia adeguata a garantire il raggiungimento di livelli di emissione corrispondenti a quelli che risulterebbero dallo scarico diretto, allegando all'istanza la documentazione a supporto di detto accertamento, che gli scarichi indiretti non compromettano il rispetto delle disposizioni dell'autorizzazione dell'impianto di trattamento e che siano rispettate tutte le condizioni di cui alle seguenti lettere da a) a d). In sede di rilascio dell'autorizzazione l'autorita' competente documenta il rispetto dei suddetti requisiti sulla base della documentazione tecnica fornita dal gestore, dandone evidenza nel provvedimento finale. Il gestore verifica in particolare che:)) 
+ a) ((le sostanze inquinanti scaricate non ostacolano il funzionamento dell'impianto di trattamento o la capacita' di recupero di risorse dal flusso;))
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le sostanze inquinanti scaricate non danneggiano la salute del personale che lavora nelle reti fognarie e negli impianti di trattamento delle acque reflue;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((l'impianto di trattamento e' progettato e attrezzato per ridurre le sostanze inquinanti scaricate;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((il carico complessivo delle sostanze inquinanti generate nell'installazione, scaricato infine nel corpo recettore, non e' maggiore rispetto allo scenario in cui gli scarichi dell'installazione interessata fossero diretti e conformi ai valori limite di emissione definiti in conformita' al comma 4-bis, salva l'applicazione dell'articolo 29-septies.))
 
-L'autorita' competente rilascia l'autorizzazione integrata ambientale osservando quanto specificato nell'articolo 29-bis, commi 1, 2 e 3. In mancanza delle conclusioni sulle BAT l'autorita' competente rilascia comunque l'autorizzazione integrata ambientale secondo quanto indicato al comma 5-ter, tenendo conto di quanto previsto nell'Allegato XI alla Parte Seconda. ((209))
+4-quinquies.
+                        
+                            
+                                
+                                    ((L'autorita' competente, relativamente a condizioni di esercizio normali, fissa, distinguendo, per le centrali che alimentano reti di teleriscaldamento, tra prelievo idrico di processo e acqua prelevata ad uso teleriscaldamento:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((prestazioni ambientali corrispondenti a quelle indicate, con riferimento ad uno o piu' periodi e agli intervalli BAT-AEPL, nelle conclusioni sulle BAT emanate dopo il 1° luglio 2026;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((tenuto conto degli eventuali effetti incrociati, valori limite di prestazione ambientale in materia di acqua, individuati negli intervalli BAT-AEPL di cui alla lettera a), che non devono essere violati durante i periodi indicati;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((livelli di prestazione ambientale indicativi, per i quali garantire il monitoraggio, in materia di rifiuti e risorse diverse dall'acqua, avendo a riferimento un valore scelto nell'intervallo BAT-AEPL pertinente di cui alla lettera a).))
+
+L'autorita' competente rilascia l'autorizzazione integrata ambientale osservando quanto specificato nell'articolo 29-bis, commi 1, 2 e 3. In mancanza delle conclusioni sulle BAT l'autorita' competente rilascia comunque l'autorizzazione integrata ambientale secondo quanto indicato al comma 5-ter, tenendo conto di quanto previsto nell'Allegato XI alla Parte Seconda. (209)
 
 5-bis.
                         
@@ -2567,38 +2905,88 @@ L'autorita' competente rilascia l'autorizzazione integrata ambientale osservando
                             
                                 a)
                                 
-                                    qualora le conclusioni sulle BAT applicabili contengano BAT-AEL verifica il rispetto degli obblighi di cui ai commi 4-bis e 9-bis, ovvero 
+                                    qualora le conclusioni sulle BAT applicabili contengano BAT-AEL verifica il rispetto degli obblighi di cui ai commi 4-bis e 9-bis, ((e qualora contengano BAT-AEPL, verifica il rispetto degli obblighi di cui ai commi 4-quinquies e 9-bis.1,)) ovvero 
 
                                 
                             
                             
                                 b)
                                 
-                                    qualora le conclusioni sulle BAT applicabili non contengano BAT-AEL verifica che la tecnica garantisca un livello di protezione dell'ambiente non inferiore a quello garantito dalle migliori tecniche disponibili descritte nelle conclusioni sulle BAT.
+                                    qualora le conclusioni sulle BAT applicabili non contengano BAT-AEL ((o BAT-AEPL)) verifica che la tecnica garantisca un livello di protezione dell'ambiente non inferiore a quello garantito dalle migliori tecniche disponibili descritte nelle conclusioni sulle BAT.
 
 Se un'attivita', o un tipo di processo di produzione svolto all'interno di un'installazione non e' previsto, ne' da alcuna delle conclusioni sulle BAT, ne' dalle conclusioni sulle migliori tecniche disponibili, tratte dai documenti pubblicati dalla Commissione europea in attuazione dell'articolo 16, paragrafo 2, della direttiva 96/61/CE o dell'articolo 16, paragrafo 2, della direttiva 2008/01/CE o, se queste conclusioni non prendono in considerazione tutti gli effetti potenziali dell'attivita' o del processo sull'ambiente, l'autorita' competente, consultato il gestore, stabilisce le condizioni dell'autorizzazione tenendo conto dei criteri di cui all'Allegato XI.
 
-L'autorizzazione integrata ambientale contiene gli opportuni requisiti di controllo delle emissioni, che specificano, in conformita' a quanto disposto dalla vigente normativa in materia ambientale e basandosi sulle conclusioni sulle BAT applicabili, la metodologia e la frequenza di misurazione, le condizioni per valutare la conformita', la relativa procedura di valutazione, nonche' l'obbligo di comunicare all'autorita' competente periodicamente, ed almeno una volta all'anno, i dati necessari per verificarne la conformita' alle condizioni di autorizzazione ambientale integrata nonche', quando si applica il comma 4-bis, lettera b), una sintesi di detti risultati espressi in un formato che consenta un confronto con i livelli di emissione associati alle migliori tecniche disponibili, rendendo disponibili, a tal fine, anche i risultati del controllo delle emissioni per gli stessi periodi e alle stesse condizioni di riferimento dei livelli di emissione associati alle migliori tecniche disponibili. L'autorizzazione contiene altresi' l'obbligo di comunicare all'autorita' competente e ai comuni interessati, nonche' all'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, i dati relativi ai controlli delle emissioni richiesti dall'autorizzazione integrata ambientale. Tra i requisiti di controllo, l'autorizzazione stabilisce in particolare, nel rispetto del decreto di cui all'articolo 33, comma 3-bis, le modalita' e la frequenza dei controlli programmati di cui all'articolo 29-decies, comma 3. Per gli impianti di competenza statale le comunicazioni di cui al presente comma sono trasmesse per il tramite dell'Istituto superiore per la protezione e la ricerca ambientale. L'autorita' competente in sede di aggiornamento dell'autorizzazione, per fissare i nuovi requisiti di controllo delle emissioni, su richiesta del gestore, tiene conto dei dati di controllo sull'installazione trasmessi per verificarne la conformita' all'autorizzazione e dei dati relativi ai controlli delle emissioni, nonche' dei dati reperiti durante le attivita' di cui all'articolo 29-octies, commi 3 e 4.
+L'autorizzazione integrata ambientale contiene gli opportuni requisiti di controllo delle emissioni ((e delle prestazioni ambientali)), che specificano, in conformita' a quanto disposto dalla vigente normativa in materia ambientale e basandosi sulle conclusioni sulle BAT applicabili, la metodologia e la frequenza di misurazione, le condizioni per valutare la conformita', la relativa procedura di valutazione, nonche' l'obbligo di comunicare all'autorita' competente periodicamente, ed almeno una volta all'anno, i dati necessari per verificarne la conformita' alle condizioni di autorizzazione ((integrata ambientale, le informazioni sui progressi compiuti ai fini del conseguimento degli obiettivi della politica ambientale di cui al piano di gestione ambientale di cui al comma 1-bis,)) nonche', quando si applica il comma 4-bis, lettera b), una sintesi di detti risultati espressi in un formato che consenta un confronto con i livelli di emissione associati alle migliori tecniche disponibili, rendendo disponibili, a tal fine, anche i risultati del controllo delle emissioni per gli stessi periodi e alle stesse condizioni di riferimento dei livelli di emissione associati alle migliori tecniche disponibili. L'autorizzazione contiene altresi' l'obbligo di comunicare all'autorita' competente e ai comuni interessati, nonche' all'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, i dati relativi ai controlli delle emissioni richiesti dall'autorizzazione integrata ambientale. Tra i requisiti di controllo, l'autorizzazione stabilisce in particolare, nel rispetto del decreto di cui all'articolo 33, comma 3-bis, le modalita' e la frequenza dei controlli programmati di cui all'articolo 29-decies, comma 3. Per gli impianti di competenza statale le comunicazioni di cui al presente comma sono trasmesse per il tramite dell'Istituto superiore per la protezione e la ricerca ambientale. L'autorita' competente in sede di aggiornamento dell'autorizzazione, per fissare i nuovi requisiti di controllo delle emissioni, su richiesta del gestore, tiene conto dei dati di controllo sull'installazione trasmessi per verificarne la conformita' all'autorizzazione e dei dati relativi ai controlli delle emissioni, nonche' dei dati reperiti durante le attivita' di cui all'articolo 29-octies, commi 3 e 4.
 
-Fatto salvo quanto specificato nelle conclusioni sulle BAT applicabili, l'autorizzazione integrata ambientale programma specifici controlli almeno una volta ogni cinque anni per le acque sotterranee e almeno una volta ogni dieci anni per il suolo, a meno che sulla base di una valutazione sistematica del rischio di contaminazione non siano state fissate diverse modalita' o piu' ampie frequenze per tali controlli.
+Fatto salvo quanto specificato nelle conclusioni sulle BAT applicabili, l'autorizzazione integrata ambientale programma specifici controlli almeno una volta ogni ((quattro)) anni per le acque sotterranee e almeno una volta ogni ((nove)) anni per il suolo, a meno che sulla base di una valutazione sistematica del rischio di contaminazione ((, anche considerando gli esiti della verifica di sussistenza dell'obbligo di predisporre la relazione di riferimento,)) non siano state fissate diverse modalita' o piu' ampie frequenze per tali controlli. ((L'autorita' competente, considerata estensione del sito e il rischio di contaminazione, ha facolta' di ammettere ai fini dei controlli l'acquisizione degli esiti di indagini indirette, o condotte a livello consortile, o eseguite con altro scopo primario.))
 
-Nell'ambito dei controlli di cui al comma 6 e' espressamente prevista un'attivita' ispettiva presso le installazioni svolta con oneri a carico del gestore dall'autorita' di controllo di cui all'articolo 29-decies, comma 3, e che preveda l'esame di tutta la gamma degli effetti ambientali indotti dalle installazioni interessate. Le Regioni possono prevedere il coordinamento delle attivita' ispettive in materia di autorizzazione integrata ambientale con quelle previste in materia di valutazione di impatto ambientale e in materia di incidenti rilevanti, nel rispetto delle relative normative.
+Nell'ambito dei controlli di cui al comma 6 e' espressamente prevista un'attivita' ispettiva presso le installazioni svolta con oneri a carico del gestore dall'autorita' di controllo di cui all'articolo 29-decies, comma 3, e che preveda ((nel periodo di validita' dell'autorizzazione)) l'esame di tutta la gamma degli effetti ambientali indotti dalle installazioni interessate. Le Regioni possono prevedere il coordinamento delle attivita' ispettive in materia di autorizzazione integrata ambientale con quelle previste in materia di valutazione di impatto ambientale e in materia di incidenti rilevanti, nel rispetto delle relative normative.
 
-L'autorizzazione integrata ambientale contiene le misure relative alle condizioni diverse da quelle di esercizio normali, in particolare per le fasi di avvio e di arresto dell'installazione, per le emissioni fuggitive, per i malfunzionamenti, e per l'arresto definitivo dell'installazione. L'autorizzazione puo', tra l'altro, ferme restando le diverse competenze in materia di autorizzazione alla demolizione e alla bonifica dei suoli, disciplinare la pulizia, la protezione passiva e la messa in sicurezza di parti dell'installazione per le quali il gestore dichiari non essere previsto il funzionamento o l'utilizzo durante la durata dell'autorizzazione stessa. Gli spazi liberabili con la rimozione di tali parti di impianto sono considerati disponibili alla realizzazione delle migliori tecniche disponibili negli stretti tempi tecnici e amministrativi necessari alla demolizione e, se del caso, alla bonifica.
+L'autorizzazione integrata ambientale contiene le misure relative alle condizioni diverse da quelle di esercizio normali, in particolare per le fasi di avvio e di arresto dell'installazione, per le emissioni fuggitive, ((per le manutenzioni,)) per i malfunzionamenti, e per l'arresto definitivo dell'installazione.
+L'autorizzazione puo', tra l'altro, ferme restando le diverse competenze in materia di autorizzazione alla demolizione e alla bonifica dei suoli, disciplinare la pulizia, la protezione passiva e la messa in sicurezza di parti dell'installazione per le quali il gestore dichiari non essere previsto il funzionamento o l'utilizzo durante la durata dell'autorizzazione stessa. Gli spazi liberabili con la rimozione di tali parti ((dell'installazione)) sono considerati disponibili alla realizzazione delle migliori tecniche disponibili negli stretti tempi tecnici e amministrativi necessari alla demolizione e, se del caso, alla bonifica.
 
-Fermo restando quanto prescritto agli articoli 237-sexies, comma 1, lettera e), e 237-octiedecies per gli impianti di incenerimento o coincenerimento, e' facolta' dell'autorita' competente, considerata la stabilita' d'esercizio delle tecniche adottate, l'affidabilita' dei controlli e la mancata contestazione al gestore, nel periodo di validita' della precedente autorizzazione, di violazioni relative agli obblighi di comunicazione, indicare preventivamente nell'autorizzazione il numero massimo, la massima durata e la massima intensita' (comunque non eccedente il 20 per cento) di superamenti dei valori limite di emissione di cui al comma 4-bis, dovuti ad una medesima causa, che possono essere considerati, nel corso di validita' dell'autorizzazione stessa, situazioni diverse dal normale esercizio e nel contempo non rientrare tra le situazioni di incidente o imprevisti, disciplinate dall'articolo 29-undecies.
+Fermo restando quanto prescritto agli articoli 237-sexies, comma 1, lettera e), e 237-octiedecies per gli impianti di incenerimento o coincenerimento, e' facolta' dell'autorita' competente, considerata la stabilita' d'esercizio delle tecniche adottate, l'affidabilita' dei controlli e la mancata contestazione al gestore, nel periodo di validita' della precedente autorizzazione, di violazioni relative agli obblighi di comunicazione, indicare preventivamente nell'autorizzazione il numero massimo, la massima durata e la massima intensita' ((, comunque non eccedente il 20 per cento, di superamenti dei valori limite di cui ai commi 4-bis e 4-quinquies, dovuti ad una medesima causa, che possono essere senz'altro considerati)), nel corso di validita' dell'autorizzazione stessa, situazioni diverse dal normale esercizio e nel contempo non rientrare tra le situazioni di incidente o imprevisti, disciplinate dall'articolo 29-undecies.
 
-Per le installazioni assoggettate al decreto legislativo del 17 agosto 1999, n. 334, l'autorita' competente ai sensi di tale decreto trasmette all'autorita' competente per il rilascio dell'autorizzazione integrata ambientale le piu' recenti valutazioni assunte e i provvedimenti adottati, alle cui prescrizioni ai fini della sicurezza e della prevenzione dei rischi di incidenti rilevanti, citate nella autorizzazione, sono armonizzate le condizioni dell'autorizzazione integrata ambientale.
+((Per le installazioni assoggettate al decreto legislativo del 26 giugno 2015, n. 105, i provvedimenti recanti le prescrizioni ai fini della sicurezza e della prevenzione dei rischi di incidenti rilevanti, sono espressamente richiamati nella autorizzazione, e le condizioni dell'autorizzazione integrata ambientale sono armonizzate a tale quadro prescrittivo.))
 
-Per le pratiche assoggettate al decreto legislativo del 31 luglio 2020, n. 101, il Prefetto trasmette i provvedimenti adottati all'autorita' competente per il rilascio dell'autorizzazione integrata ambientale. Le relative prescrizioni sono espressamente riportate nell'autorizzazione e ad esse sono armonizzate le condizioni ivi previste.
+Per le pratiche assoggettate al decreto legislativo del 31 luglio 2020, n. 101, ((relative all'installazione, i provvedimenti adottati dal Prefetto sono espressamente richiamati nell'autorizzazione e le condizioni dell'autorizzazione integrata ambientale sono armonizzate a tale quadro prescrittivo)).
 
-L'autorizzazione integrata ambientale puo' contenere ulteriori condizioni specifiche ai fini del presente decreto, giudicate opportune dell'autorita' competente. Ad esempio, fermo restando l'obbligo di immediato rispetto dei precedenti commi e in particolare del comma 4-bis, l'autorizzazione puo' disporre la redazione di progetti migliorativi, da presentare ai sensi del successivo articolo 29-nonies, ovvero il raggiungimento di determinate ulteriori prestazioni ambientali in tempi fissati, impegnando il gestore ad individuare le tecniche da implementare a tal fine. In tale ultimo caso, fermo restando l'obbligo di comunicare i miglioramenti progettati, le disposizioni di cui all'articolo 29-nonies non si applicano alle modifiche strettamente necessarie ad adeguare la funzionalita' degli impianti alle prescrizioni dell'autorizzazione integrata ambientale.
+L'autorizzazione integrata ambientale puo' contenere ulteriori condizioni specifiche ai fini del presente decreto, giudicate opportune dell'autorita' competente. Ad esempio, fermo restando l'obbligo di immediato rispetto dei precedenti commi e in particolare ((dei commi 4-bis e 4-quinquies)), l'autorizzazione puo' disporre la redazione di progetti migliorativi, da presentare ai sensi del successivo articolo 29-nonies, ovvero il raggiungimento di determinate ulteriori prestazioni ambientali in tempi fissati, impegnando il gestore ad individuare le tecniche da implementare a tal fine. In tale ultimo caso, fermo restando l'obbligo di comunicare i miglioramenti progettati, le disposizioni di cui all'articolo 29-nonies non si applicano alle modifiche ((e alle manutenzioni)) strettamente necessarie ad adeguare la funzionalita' degli impianti alle prescrizioni dell'autorizzazione integrata ambientale.
 
-In casi specifici l'autorita' competente puo' fissare valori limite di emissione meno severi di quelli discendenti dall'applicazione del comma 4-bis, a condizione che una valutazione dimostri che porre limiti di emissione corrispondenti ai 'livelli di emissione associati alle migliori tecniche disponibili' comporterebbe una maggiorazione sproporzionata dei costi rispetto ai benefici ambientali, in ragione dell'ubicazione geografica e delle condizioni ambientali locali dell'istallazione interessata e delle caratteristiche tecniche dell'istallazione interessata. In tali casi l'autorita' competente documenta, in uno specifico allegato all'autorizzazione, le ragioni di tali scelta, illustrando il risultato della valutazione e la giustificazione delle condizioni imposte. I valori limite di emissione cosi' fissati non superano, in ogni caso, i valori limite di emissione di cui agli allegati del presente decreto, laddove applicabili. Ai fini della predisposizione di tale allegato si fa riferimento alle linee guida di cui all'Allegato XII-bis alla Parte Seconda. Tale Allegato e' aggiornato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare entro sei mesi dall'emanazione, da parte della Commissione europea, di eventuali linee guida comunitarie in materia, per garantire la coerenza con tali linee guida comunitarie. L'autorita' competente verifica comunque l'applicazione dei principi di cui all'articolo 6, comma 16, e in particolare che non si verifichino eventi inquinanti di rilievo e che si realizzi nel complesso un elevato grado di tutela ambientale. L'applicazione del presente comma deve essere espressamente riverificata e riconfermata in occasione di ciascun pertinente riesame dell'autorizzazione.
+9-bis.
+                        
+                            
+                                In casi specifici l'autorita' competente ((, su istanza del gestore,)) puo' fissare valori limite di emissione meno severi di quelli discendenti dall'applicazione del comma 4-bis, a condizione che una valutazione dimostri che ((il conseguimento di limiti all'interno dei BAT-AEL)) comporterebbe una maggiorazione sproporzionata dei costi rispetto ai benefici ambientali, in ragione dell'ubicazione geografica e delle condizioni ambientali locali ((dell'istallazione interessata o)) delle caratteristiche tecniche dell'istallazione interessata. ((L'autorita' competente documenta, in uno specifico allegato all'autorizzazione soggetto a piena trasparenza e controllo pubblico e periodicamente riesaminato, le ragioni di tale scelta, la valutazione effettuata sulla istanza e la giustificazione delle condizioni imposte, che devono evidenziare con argomentazioni verificabili il carattere strettamente eccezionale del caso.)) I valori limite di emissione cosi' fissati non superano, in ogni caso, i valori limite di emissione di cui agli allegati del presente decreto, laddove applicabili. Ai fini della predisposizione di tale allegato si fa riferimento alle linee guida di cui all'Allegato XII-bis alla Parte Seconda. Tale Allegato e' aggiornato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare entro sei mesi dall'emanazione, da parte della Commissione europea, di ((eventuali linee guida in materia, in particolare in esito alla emanazione dell'atto di esecuzione di cui all'articolo 15, paragrafo 5 della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, per garantire la coerenza con tali linee guida)). ((L'autorita' competente subordina il rilascio della deroga alla acquisizione da parte del gestore di una valutazione dell'impatto della deroga sulla concentrazione degli inquinanti interessati nell'ambiente ricettore e, ove sia ragionevole attendersi effetti misurabili, alla programmazione di controlli periodici su tale impatto e verifica comunque l'applicazione dei principi di cui all'articolo 6, comma 16, e in particolare che non si verifichino eventi inquinanti di rilievo e che si realizzi nel complesso un elevato livello di tutela ambientale, negando la deroga in ogni caso in cui essa rischi di compromettere il rispetto delle norme di qualita' ambientali ai sensi dell'articolo 29-sexies.))
+                                    ((La permanenza delle condizioni che hanno giustificato l'applicazione del presente comma deve essere espressamente verificata in sede di controllo almeno ogni quattro anni e deve essere rivalutata, ai sensi dell'articolo 29-octies, comma 4, lettera a), in caso di verifica negativa, nonche' in occasione di ciascun pertinente riesame dell'autorizzazione.)) 
+ 9-bis.1. ((In casi specifici l'autorita' competente puo' fissare condizioni e valori limite di prestazione ambientale meno severi di quelli discendenti dall'applicazione del comma 4-quinquies, a condizione che il gestore dimostri che il conseguimento dei livelli di prestazione associati alle migliori tecniche disponibili di cui alle conclusioni sulle BAT comporterebbe un significativo impatto ambientale negativo, compresi effetti incrociati, o un significativo impatto economico, in ragione:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dell'ubicazione geografica e delle condizioni ambientali locali dell'installazione interessata; o))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((delle caratteristiche tecniche dell'installazione interessata. 
+ L'autorita' competente documenta in un allegato all'autorizzazione soggetto a piena trasparenza e controllo pubblico e periodicamente riesaminato, le ragioni di tale scelta, la valutazione effettuata su quanto dichiarato dal gestore e la giustificazione delle condizioni imposte, che devono evidenziare con argomentazioni verificabili il carattere strettamente eccezionale del caso, verificando in particolare che la gestione secondo condizioni e valori limite di prestazione ambientale meno severi non causa un impatto ambientale significativo, incluso l'esaurimento delle risorse idriche, ed e' compatibile con il raggiungimento di un elevato livello di protezione complessiva dell'ambiente. Ai fini della predisposizione di tale allegato si fa riferimento ai principi e alle linee guida di cui all'allegato XII-bis alla parte seconda. Con decreto del Ministro dell'ambiente e della sicurezza energetica, da adottare entro sei mesi dall'emanazione da parte della Commissione europea di eventuali linee guida in materia, in particolare in esito alla emanazione dell'atto di esecuzione di cui all'articolo 15, paragrafo 6 della direttiva 2010/75/UE, si provvede all'aggiornamento dell'allegato XII-bis, al fine di garantirne la coerenza con le predette linee guida.))
 
-L'autorita' competente puo' accordare deroghe temporanee alle disposizioni del comma 4-bis e 5-bis e dell'articolo 6, comma 16, lettera a), in caso di sperimentazione e di utilizzo di tecniche emergenti per un periodo complessivo non superiore a nove mesi, a condizione che dopo il periodo specificato tale tecnica sia sospesa o che le emissioni dell'attivita' raggiungano almeno i livelli di emissione associati alle migliori tecniche disponibili.
+L'autorita' competente ((, fatto salvo quanto disposto dall'articolo 29-septies,)) puo' accordare deroghe temporanee alle disposizioni ((dei commi 4-bis, 4-quinquies e 5-bis)) e dell'articolo 6, comma 16, lettera a), in caso di sperimentazione e di utilizzo di tecniche emergenti per un periodo complessivo non superiore a ((trenta)) mesi, a condizione che dopo il periodo specificato ((l'applicazione di tale tecnica sia interrotta)) o che le emissioni dell'attivita' raggiungano almeno i livelli di emissione associati alle migliori tecniche disponibili.
 
-Nel caso delle installazioni di cui al punto 6.6 dell'Allegato VIII alla Parte Seconda, il presente articolo si applica fatta salva la normativa in materia di benessere degli animali.
+9-quater.
+                        
+                            
+                                
+                                    ((Con decreto del Ministro dell'ambiente e della sicurezza energetica, tenendo conto degli eventuali orientamenti in materia della Commissione europea, sono individuati i periodi e le aree geografiche in cui sussiste una crisi dovuta a circostanze eccezionali che sfugge al controllo dei gestori e della pubblica autorita' e comporta gravi perturbazioni o penuria, in termini di:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((approvvigionamento energetico, a condizione che vi sia un interesse pubblico prevalente alla sicurezza dell'approvvigionamento energetico;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((risorse, materiali o apparecchiature essenziali per il gestore ai fini dello svolgimento di attivita' di interesse pubblico, nel rispetto dei valori limite di emissione o dei valori limite di prestazione ambientale applicabili;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((risorse, materiali o apparecchiature essenziali, qualora la produzione compensi tale penuria o tali perturbazioni per ragioni di salute pubblica o di sicurezza pubblica, o per altre ragioni imperative di interesse pubblico prevalente. 
+ In tali periodi e aree, in deroga ai commi 4-bis, 4-quinquies e 5-bis e all'articolo 6, comma 16, lettera a), e a condizione che non si verifichino eventi inquinanti di rilievo e che siano state esaurite tutte le misure che portino a un minor inquinamento, l'autorita' competente puo' fissare valori limite di emissione o valori limite di prestazione ambientale meno severi, disponendo che le emissioni risultanti dalla deroga di cui al presente comma siano monitorate e che il pubblico possa consultare, conformemente all'articolo 29-quater, comma 13, le informazioni sulla deroga e sulle condizioni imposte. La deroga non e' concessa per un periodo superiore a tre mesi. Se le ragioni che giustificano la concessione di una deroga persistono, la deroga puo' essere prorogata per un periodo massimo di tre mesi. La concessione della deroga, comprese le ragioni che ne giustificano la concessione e le condizioni imposte, e' comunicata anche al Ministero dell'ambiente e della sicurezza energetica, che provvede a notificarla alla Commissione europea. Se la Commissione solleva obiezioni entro due mesi dalla notifica, l'autorita' competente senza indugio rivaluta di conseguenza la deroga alla luce di tali obiezioni. Non appena le condizioni di approvvigionamento sono ripristinate o qualora si individui un'alternativa all'approvvigionamento di energia, risorse, materiali o apparecchiature, l'autorita' competente provvede affinche' la decisione di fissare valori limite di emissione e valori limite di prestazione ambientale meno severi cessi di produrre effetti, e l'installazione torni a rispettare le condizioni di autorizzazione stabilite conformemente ai commi 4-bis, 4-quinquies e 5-bis e dell'articolo 6, comma 16, lettera a).))
 
 9-quinquies.
                         
@@ -2643,6 +3031,71 @@ Con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio 
 
 A garanzia degli obblighi di cui alla lettera c del comma 9-quinquies, l'autorizzazione integrata ambientale prevede adeguate garanzie finanziarie, da prestare entro 12 mesi dal rilascio in favore della regione o della provincia autonoma territorialmente competente. Con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare sono stabiliti criteri che l'autorita' competente dovra' tenere in conto nel determinare l'importo di tali garanzie finanziarie.
 
+9-octies.
+                        
+                            
+                                
+                                    ((Il sistema di gestione ambientale di cui al comma 1-bis e' conforme alle indicazioni delle pertinenti conclusioni sulle BAT, che ne determinano gli aspetti da trattare, tenendo conto di eventuali atti di esecuzione emanati dalla Commissione europea. Il sistema di gestione contiene almeno i seguenti elementi, che il gestore mette a disposizione su internet a titolo gratuito e senza limitare l'accesso agli utenti registrati:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((gli obiettivi di politica ambientale intesi a migliorare continuamente le prestazioni ambientali e la sicurezza dell'installazione, che comprendono misure volte a: 
+ 1) prevenire la produzione di rifiuti; 
+ 2) ottimizzare l'uso delle risorse e dell'energia e il riutilizzo dell'acqua; 
+ 3) prevenire o ridurre l'uso o le emissioni di sostanze pericolose;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((gli obiettivi e gli indicatori di prestazione relativi ad aspetti ambientali significativi che tengono conto dei valori di riferimento stabiliti nelle conclusioni sulle BAT;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((per le installazioni soggette all'obbligo di effettuare un audit energetico o di attuare un sistema di gestione dell'energia in applicazione dell'articolo 8 del decreto legislativo 4 luglio 2014, n. 102, l'inclusione dei risultati di tale audit o dell'attuazione del sistema di gestione dell'energia in applicazione dell'articolo 8 e dell'allegato 2 del citato decreto legislativo e delle misure di esecuzione delle relative raccomandazioni;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((un inventario delle sostanze chimiche pericolose presenti o emesse dall'installazione in quanto tale, come componenti di altre sostanze o come parti di miscele, con particolare riguardo alle sostanze che soddisfano i criteri di cui all'articolo 57 del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, e alle sostanze oggetto delle restrizioni di cui all'allegato XVII del regolamento (CE) n. 1907/2006, e una valutazione del rischio dell'impatto di tali sostanze sulla salute umana e sull'ambiente, nonche' un'analisi delle possibilita' di sostituirle con alternative piu' sicure o di ridurne l'uso o le emissioni;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((le misure adottate per conseguire gli obiettivi ambientali ed evitare rischi per la salute umana o l'ambiente, comprese, se necessario, misure correttive e preventive;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((il piano di trasformazione di cui al comma 9-decies.))
+                                        ((Le informazioni messe a disposizione su internet ai sensi del presente comma possono essere rielaborate ovvero, se cio' non e' possibile, non pubblicate, qualora la loro divulgazione rechi pregiudizio agli interessi elencati all'articolo 5, comma 2, lettere a ), b ), c ), d ), e ), f ), g ) e h ) del decreto legislativo 19 agosto 2005 n. 195, dandone preventiva comunicazione all'autorita' competente.))
+
+((Il livello di dettaglio del sistema di gestione ambientale di cui al comma 9-octies e' coerente con la natura, le dimensioni e la complessita' dell'installazione, ovvero dell'organizzazione, e con l'insieme dei suoi possibili effetti sull'ambiente. Qualora gli elementi che devono essere inclusi nel sistema di gestione ambientale, inclusi gli obiettivi, gli indicatori di prestazione o le misure corrispondenti siano gia' stati sviluppati ai sensi di altre normative pertinenti dell'Unione europea e siano conformi al presente articolo, e' sufficiente un riferimento ai documenti pertinenti nel sistema di gestione ambientale.))
+
+((Entro il 30 giugno 2030, il gestore include nel proprio sistema di gestione ambientale un piano di trasformazione indicativo che copra le attivita' elencate ai punti 1, 2, 3, 4, 6.1.b e 6.1c dell'allegato VIII alla parte seconda. Il piano di trasformazione contiene informazioni sulle modalita' di trasformazione dell'installazione, da parte del gestore, nel periodo 2030-2050 al fine di contribuire alla nascita di un'economia sostenibile, pulita, circolare, efficiente nell'impiego delle risorse e climaticamente neutra entro il 2050, compresa, se del caso, la trasformazione industriale profonda di cui all'articolo 29-octies, comma 11-ter. Se due o piu' installazioni sono sotto il controllo dello stesso gestore, o se le installazioni sono sotto il controllo di gestori diversi che fanno parte della stessa impresa, tali installazioni possono essere coperte da un unico piano di trasformazione. Qualora degli elementi dei piani di trasformazione siano gia' stati sviluppati in conformita' a un'altra legislazione dell'Unione europea e siano conformi al presente comma, nel piano di trasformazione si puo' fare riferimento ai pertinenti documenti.))
+
+((Entro il 30 giugno 2031, l'organizzazione di audit di cui al comma 1-bis, valuta la conformita' dei piani di trasformazione di cui al comma 9-decies, ai requisiti stabiliti dalla Commissione europea con l'atto delegato di cui all'articolo 27-quinquies, paragrafo 5, della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010.))
+
+((Il gestore rende pubblico il suo piano di trasformazione, i relativi aggiornamenti e i risultati della valutazione di cui al comma 9-undecies. come parte integrante della pubblicazione del suo sistema di gestione ambientale di cui ai commi 9-octies e 9-novies)).
+
 ------------
                             AGGIORNAMENTO (76)
                             
@@ -2652,19 +3105,15 @@ A garanzia degli obblighi di cui alla lettera c del comma 9-quinquies, l'autoriz
                             
  E' stato ripristinato il testo gia' in vigore dal 18-01-2023 a seguito della soppressione della lettera g) del comma 1 dell'art. 1 del D.L. 17 ottobre 2024, n. 153, che disponeva la modifica del comma 5 del presente articolo, ad opera della L. 13 dicembre 2024, n. 191, di conversione del D.L. medesimo.
 
-## Art. 29-septies. — (( (Migliori tecniche disponibili e norme di qualita' ambientale). ))
+## Art. 29-septies. — (Migliori tecniche disponibili e norme di qualita' ambientale)
 
-((
+Nel caso in cui uno strumento di programmazione o di pianificazione ambientale, quali ad esempio il piano di tutela delle acque, o la pianificazione in materia di emissioni in atmosfera, considerate tutte le sorgenti emissive coinvolte, riconosca la necessita' di applicare ad impianti, localizzati in una determinata area, misure piu' rigorose di quelle ottenibili con le migliori tecniche disponibili, al fine di assicurare in tale area il rispetto delle norme di qualita' ambientale, l'amministrazione ambientale competente, per installazioni di competenza statale, o la stessa autorita' competente, per le altre installazioni, lo rappresenta ((al piu' tardi)) in sede di conferenza di servizi di cui all'articolo 29-quater, comma 5 ((, valutando l'impatto dell'applicazione di tali misure piu' rigorose sulla concentrazione degli inquinanti in questione nell'ambiente ricettore)).
 
-Nel caso in cui uno strumento di programmazione o di pianificazione ambientale, quali ad esempio il piano di tutela delle acque, o la pianificazione in materia di emissioni in atmosfera, considerate tutte le sorgenti emissive coinvolte, riconosca la necessita' di applicare ad impianti, localizzati in una determinata area, misure piu' rigorose di quelle ottenibili con le migliori tecniche disponibili, al fine di assicurare in tale area il rispetto delle norme di qualita' ambientale, l'amministrazione ambientale competente, per installazioni di competenza statale, o la stessa autorita' competente, per le altre installazioni, lo rappresenta in sede di conferenza di servizi di cui all'articolo 29-quater, comma 5.
+Nei casi di cui al comma 1 l'autorita' competente prescrive nelle autorizzazioni integrate ambientali degli impianti nell'area interessata, tutte le misure supplementari particolari piu' rigorose di cui al comma 1 ((, al fine di ridurre il contributo specifico dell'installazione all'inquinamento che interessa la zona in questione,)) fatte salve le altre misure che possono essere adottate per rispettare le norme di qualita' ambientale.
 
-Nei casi di cui al comma 1 l'autorita' competente prescrive nelle autorizzazioni integrate ambientali degli impianti nell'area interessata, tutte le misure supplementari particolari piu' rigorose di cui al comma 1 fatte salve le altre misure che possono essere adottate per rispettare le norme di qualita' ambientale.
+((Qualora la valutazione di cui al comma 1 indichi che il carico degli inquinanti emessi dalla installazione abbia un effetto quantificabile o misurabile sull'ambiente, l'autorizzazione dispone il controllo della concentrazione degli inquinanti in questione nell'ambiente ricettore e che i risultati di tale controllo siano trasmessi all'autorita' competente. Il controllo di cui al presente comma e' effettuato utilizzando, ove pertinenti, i metodi di controllo e misurazione per gli inquinanti in questione stabiliti in altre normative dell'Unione, compresi eventualmente i metodi basati sull'effetto. Al fine di identificare l'apporto concretamente riferibile alla installazione, il controllo di cui al presente comma enuclea apporti di terzi, componente di fondo e contaminazioni pregresse.))
 
-))
-
-## Art. 29-octies. — (( (Rinnovo e riesame). ))
-
-((
+## Art. 29-octies. — (Rinnovo e riesame)
 
 L'autorita' competente riesamina periodicamente l'autorizzazione integrata ambientale, confermando o aggiornando le relative condizioni.
 
@@ -2697,7 +3146,7 @@ Il riesame tiene conto di tutte le conclusioni sulle BAT, nuove o aggiornate, ap
                             
                                 a)
                                 
-                                    a giudizio dell'autorita' competente ovvero, in caso di installazioni di competenza statale, a giudizio dell'amministrazione competente in materia di qualita' della specifica matrice ambientale interessata, l'inquinamento provocato dall'installazione e' tale da rendere necessaria la revisione dei valori limite di emissione fissati nell'autorizzazione o l'inserimento in quest'ultima di nuovi valori limite, in particolare quando e' accertato che le prescrizioni stabilite nell'autorizzazione non garantiscono il conseguimento degli obiettivi di qualita' ambientale stabiliti dagli strumenti di pianificazione e programmazione di settore; 
+                                    a giudizio dell'autorita' competente ovvero, in caso di installazioni di competenza statale, a giudizio dell'amministrazione competente in materia di qualita' della specifica matrice ambientale interessata, l'inquinamento provocato dall'installazione e' tale da rendere necessaria la revisione dei valori limite di emissione fissati nell'autorizzazione o l'inserimento in quest'ultima di nuovi valori limite, in particolare quando e' accertato che le prescrizioni stabilite nell'autorizzazione non garantiscono il conseguimento degli obiettivi di qualita' ambientale stabiliti dagli strumenti di pianificazione e programmazione di settore ((, anche nel caso in cui si tratti di una norma di qualita' nuova o riveduta o qualora lo stato dell'ambiente ricettore richieda una revisione dell'autorizzazione al fine di conseguire la conformita' ai piani e ai programmi stabiliti a norma della legislazione dell'Unione europea)); 
 
                                 
                             
@@ -2716,9 +3165,17 @@ Il riesame tiene conto di tutte le conclusioni sulle BAT, nuove o aggiornate, ap
                                 
                             
                             
+                                c-bis)
+                                
+                                    
+                                        ((a giudizio di una amministrazione competente in materia di tutela della salute, e' necessaria una revisione dell'autorizzazione nell'interesse della salute pubblica, con riferimento a specifici rischi sanitari, e in presenza di circostanze intervenute successivamente al rilascio dell'autorizzazione di cui al presente titolo. Con decreto del Ministro della salute, sentito il Ministro dell'ambiente e della sicurezza energetica, possono essere stabiliti, avvalendosi dell'Istituto superiore di sanita', criteri per l'individuazione dei rischi sanitari sulla base dei quali l'autorita' competente in materia di tutela della salute puo' disporre la revisione di cui al primo periodo;))
+                                    
+                                
+                            
+                            
                                 d)
                                 
-                                    sviluppi delle norme di qualita' ambientali o nuove disposizioni legislative comunitarie, nazionali o regionali lo esigono; 
+                                    sviluppi delle norme di qualita' ambientali o nuove disposizioni legislative ((unionali)), nazionali o regionali lo esigono; 
 
                                 
                             
@@ -2726,6 +3183,8 @@ Il riesame tiene conto di tutte le conclusioni sulle BAT, nuove o aggiornate, ap
                                 e)
                                 
                                     una verifica di cui all'articolo 29-sexies, comma 4-bis, lettera b), ha dato esito negativo senza evidenziare violazioni delle prescrizioni autorizzative, indicando conseguentemente la necessita' di aggiornare l'autorizzazione per garantire che, in condizioni di esercizio normali, le emissioni corrispondano ai "livelli di emissione associati alle migliori tecniche disponibili.".
+
+((Se il gestore, anche consultato il gestore dell'impianto di trattamento delle acque esterno, ritiene che le condizioni di autorizzazione devono essere modificate per garantire il rispetto delle disposizioni di cui all'articolo 29-sexies, comma 4-quater, lettere a), b), c) e d), presenta di sua iniziativa un aggiornamento della valutazione di cui a tale comma ed in esito a tale comunicazione l'autorita' competente dispone un riesame parziale.))
 
 A seguito della comunicazione di avvio del riesame da parte dell'autorita' competente, il gestore presenta, entro il termine determinato dall'autorita' competente in base alla prevista complessita' della documentazione, e compreso tra 30 e 180 giorni, ovvero, nel caso in cui la necessita' di avviare il riesame interessi numerose autorizzazioni, in base ad un apposito calendario annuale, tutte le informazioni necessarie ai fini del riesame delle condizioni di autorizzazione, ivi compresi, in particolare, i risultati del controllo delle emissioni e altri dati, che consentano un confronto tra il funzionamento dell'installazione, le tecniche descritte nelle conclusioni sulle BAT applicabili e i livelli di emissione associati alle migliori tecniche disponibili nonche', nel caso di riesami relativi all'intera installazione, l'aggiornamento di tutte le informazioni di cui all'articolo 29-ter, comma 1. Nei casi di cui al comma 3, lettera b), la domanda di riesame e' comunque presentata entro il termine ivi indicato. Nel caso di inosservanza del predetto termine l'autorizzazione si intende scaduta. La mancata presentazione nei tempi indicati di tale documentazione, completa dell'attestazione del pagamento della tariffa, comporta la sanzione amministrativa da 10.000 euro a 60.000 euro, con l'obbligo di provvedere entro i successivi 90 giorni. Al permanere dell'inadempimento la validita' dell'autorizzazione, previa diffida, e' sospesa. In occasione del riesame l'autorita' competente utilizza anche tutte le informazioni provenienti dai controlli o dalle ispezioni.
 
@@ -2738,7 +3197,7 @@ A seguito della comunicazione di avvio del riesame da parte dell'autorita' compe
                             
                                 a)
                                 
-                                    tutte le condizioni di autorizzazione per l'installazione interessata siano riesaminate e, se necessario, aggiornate per assicurare il rispetto del presente decreto in particolare, se applicabile, dell'articolo 29-sexies, commi 3, 4 e 4-bis; 
+                                    tutte le condizioni di autorizzazione per l'installazione interessata siano riesaminate e, se necessario, aggiornate per assicurare il rispetto del presente decreto in particolare, se applicabile, dell'articolo 29-sexies, ((commi 3, 4, 4-bis e 4-quinquies)); 
 
                                 
                             
@@ -2749,6 +3208,27 @@ A seguito della comunicazione di avvio del riesame da parte dell'autorita' compe
 
 Il ritardo nella presentazione della istanza di riesame, nel caso disciplinato al comma 3, lettera a), non puo' in alcun modo essere tenuto in conto per dilazionare i tempi fissati per l'adeguamento dell'esercizio delle installazioni alle condizioni dell'autorizzazione.
 
+7-bis.
+                        
+                            
+                                
+                                    ((In deroga al comma 6, l'autorita' competente puo' fissare:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((valori limite di emissione per garantire che, entro sei anni dalla pubblicazione di una decisione relativa alle conclusioni sulle BAT concernente l'attivita' principale di un'installazione, le emissioni non superino, in condizioni di esercizio normali, i livelli di emissione associati alle tecniche emergenti stabiliti nelle decisioni sulle conclusioni sulle BAT;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((valori indicativi di prestazione ambientale coerenti con le decisioni sulle conclusioni sulle BAT.))
+
 Nel caso di un'installazione che, all'atto del rilascio dell'autorizzazione di cui all'articolo 29-quater, risulti registrata ai sensi del regolamento (CE) n. 1221/2009, il termine di cui al comma 3, lettera b), e' esteso a sedici anni. Se la registrazione ai sensi del predetto regolamento e' successiva all'autorizzazione di cui all'articolo 29-quater, il riesame di detta autorizzazione e' effettuato almeno ogni sedici anni, a partire dal primo successivo riesame.
 
 Nel caso di un'installazione che, all'atto del rilascio dell'autorizzazione di cui all'articolo 29-quater, risulti certificato secondo la norma UNI EN ISO 14001, il termine di cui al comma 3, lettera b), e' esteso a dodici anni. Se la certificazione ai sensi della predetta norma e' successiva all'autorizzazione di cui all'articolo 29-quater, il riesame di detta autorizzazione e' effettuato almeno ogni dodici anni, a partire dal primo successivo riesame.
@@ -2757,18 +3237,80 @@ Il procedimento di riesame e' condotto con le modalita' di cui agli articoli 29-
 
 Fino alla pronuncia dell'autorita' competente in merito al riesame, il gestore continua l'attivita' sulla base dell'autorizzazione in suo possesso.
 
-))
+((Nell'ambito del riesame delle condizioni di autorizzazione di cui al comma 3, lettera a), se avviato dopo il 1º gennaio 2030, il gestore include nel proprio sistema di gestione ambientale, di cui all'articolo 29-sexies, comma 9-octies e 9-novies un piano di trasformazione per ciascuna installazione, ove non abbia gia' provveduto ai sensi dell'articolo 29-sexies, comma 9-decies. Il piano di trasformazione contiene informazioni sulle modalita' di trasformazione dell'installazione, da parte del gestore, nel periodo 2030-2050 al fine di contribuire alla nascita di un'economia sostenibile, pulita, circolare e climaticamente neutra entro il 2050, utilizzando il formato di cui ai requisiti stabiliti dalla Commissione europea con atto delegato di cui all'articolo 27-quinquies, paragrafo 5, della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010. Il provvedimento di riesame prescrive che entro un anno l'organizzazione di audit di cui all'articolo 29-sexies, comma 1-bis, valuti la conformita' dei piani di trasformazione ai requisiti stabiliti dalla Commissione europea con atto di esecuzione di cui all'articolo 27-quinquies, paragrafo 5, della direttiva 2010/75/UE.))
+
+11-ter.
+                        
+                            
+                                
+                                    ((Fatto salvo l'articolo 29-septies, in caso di trasformazione industriale profonda dell'installazione stabilita nel pertinente piano di trasformazione che copre l'installazione, l'autorita' competente nell'approvare e prescrivere l'attuazione di tale piano puo' prorogare il periodo entro il quale l'installazione deve soddisfare le condizioni di autorizzazione aggiornate, in deroga a quanto disposto al comma 6, lettera b) o al comma 7-bis, fino a un massimo di otto anni, a condizione che:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'autorizzazione per l'installazione contenga una descrizione della trasformazione industriale profonda, dei livelli di emissione e dell'efficienza delle risorse che sara' conseguita, nonche' del calendario di attuazione e delle tappe fondamentali;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il gestore riferisca annualmente all'autorita' competente in merito ai progressi compiuti nell'attuazione della trasformazione industriale profonda;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((durante il periodo concesso per la trasformazione dell'installazione, l'autorita' competente verifichi che non occorrano eventi inquinanti di rilievo e che si realizzi nel complesso un elevato livello di protezione ambientale.))
+
+11-quater.
+                        
+                            
+                                
+                                    ((Fatti salvi gli articoli 29-sexies, comma 9-quinquies, e 29-septies, in caso di trasformazione industriale profonda consistente nella chiusura di un'installazione e nella sua sostituzione con una nuova installazione stabilita nel pertinente piano di trasformazione relativo all'installazione, e da completare entro otto anni dalla pubblicazione delle decisioni sulle conclusioni sulle BAT, concernenti l'attivita' principale dell'installazione esistente, l'autorita' competente puo' derogare all'obbligo di aggiornare l'autorizzazione conformemente al comma 6, lettera a), e nei tempi di cui all'articolo 29-quater, comma 10, purche' siano soddisfatte tutte le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'autorizzazione per l'installazione esistente contiene una descrizione del piano di chiusura e del calendario e delle tappe fondamentali ad esso relativi;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il gestore comunica annualmente all'autorita' competente i progressi compiuti in relazione al piano di chiusura dell'installazione esistente e alla sua sostituzione con una nuova installazione;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((durante il periodo che precede la chiusura dell'installazione, l'autorita' competente verifica che non occorrano eventi inquinanti di rilievo e che si realizzi nel complesso un elevato livello di protezione ambientale.))
 
 ## Art. 29-novies. — Modifica degli impianti o variazione del gestore
 
-1. Il gestore comunica all'autorita' competente le modifiche progettate dell'impianto, come definite dall'articolo 5, comma 1, lettera l). L'autorita' competente, ove lo ritenga necessario, aggiorna l'autorizzazione integrata ambientale o le relative condizioni, ovvero, se rileva che le modifiche progettate sono sostanziali ai sensi dell'articolo 5, comma 1, lettera l-bis), ne da' notizia al gestore entro sessanta giorni dal ricevimento della comunicazione ai fini degli adempimenti di cui al comma 2 del presente articolo. Decorso tale termine, il gestore puo' procedere alla realizzazione delle modifiche comunicate. 
+1. Il gestore comunica all'autorita' competente le modifiche progettate ((dell'installazione)), come definite dall'articolo 5, comma 1, lettera l) ((, prima dell'attuazione di tali modifiche)). ((L'autorita' competente si esprime in merito alle informazioni comunicate dal gestore e,)) ove lo ritenga necessario, aggiorna l'autorizzazione integrata ((ambientale e, se del caso, le relative condizioni, ovvero, se in base alle informazioni fornite non puo' escludere)) che le modifiche progettate sono sostanziali ai sensi dell'articolo 5, comma 1, lettera l-bis), ne da' notizia al gestore entro sessanta giorni dal ricevimento della comunicazione ai fini degli adempimenti di cui al comma 2 ((...)). Decorso ((inutilmente)) tale termine, il gestore puo' procedere alla realizzazione delle modifiche comunicate. 
  2. Nel caso in cui le modifiche progettate, ad avviso del gestore o a seguito della comunicazione di cui al comma 1, risultino sostanziali, il gestore invia all'autorita' competente una nuova domanda di autorizzazione corredata da una relazione contenente un aggiornamento delle informazioni di cui all'articolo 29-ter, commi 1 e 2. Si applica quanto previsto dagli articoli 29-ter e 29-quater in quanto compatibile. 
- ((3. Il gestore, esclusi i casi disciplinati ai commi 1 e 2, informa l'autorita' competente e l'autorita' di controllo di cui all'articolo 29-decies, comma 3, in merito ad ogni nuova istanza presentata per l'installazione ai sensi della normativa in materia di prevenzione dai rischi di incidente rilevante, ai sensi della normativa in materia di valutazione di impatto ambientale o ai sensi della normativa in materia urbanistica. La comunicazione, da effettuare prima di realizzare gli interventi, specifica gli elementi in base ai quali il gestore ritiene che gli interventi previsti non comportino ne' effetti sull'ambiente, ne' contrasto con le prescrizioni esplicitamente gia' fissate nell'autorizzazione integrata ambientale.)) 
- 4. Nel caso in cui intervengano variazioni nella titolarita' della gestione dell'impianto, il vecchio gestore e il nuovo gestore ne danno comunicazione entro trenta giorni all'autorita' competente, anche nelle forme dell'autocertificazione ((ai fini della volturazione dell'autorizzazione integrata ambientale.)).
+ 3. Il gestore, esclusi i casi disciplinati ai commi 1 e 2, informa l'autorita' competente e l'autorita' di controllo di cui all'articolo 29-decies, comma 3, in merito ad ogni nuova istanza presentata per l'installazione ai sensi della normativa in materia di prevenzione dai rischi di incidente rilevante, ai sensi della normativa in materia di valutazione di impatto ambientale o ai sensi della normativa in materia urbanistica. La comunicazione, da effettuare prima di realizzare gli interventi, specifica gli elementi in base ai quali il gestore ritiene che gli interventi previsti non comportino ne' effetti sull'ambiente, ne' contrasto con le prescrizioni esplicitamente gia' fissate nell'autorizzazione integrata ambientale. 
+ 3-bis. ((Il gestore attua le operazioni di cui al seguente elenco previo aggiornamento dell'autorizzazione, a conclusione del relativo procedimento avviato su sua istanza, al quale si applicano, in quanto compatibili, gli articoli 29-ter e 29-quater:)) 
+ a) ((proroga della durata di esercizio di un'installazione che svolge l'attivita' di cui all'allegato VIII, punto 5.4, alla parte seconda;)) 
+ b) ((manutenzioni straordinarie, non gia' autorizzate ai sensi dell'articolo 29-sexies, commi 7 o 9, che determinano modifiche significative alle migliori tecniche disponibili di riferimento;)) 
+ c) ((interventi, non suscettibili di determinare effetti negativi su ambiente o salute rispetto alla situazione preesistente, ma che prospettano nuovi assetti impiantistici o gestionali dell'installazione, tali da determinare modifiche significative alle migliori tecniche disponibili di riferimento.)) 
+ 4. Nel caso in cui intervengano variazioni nella titolarita' della gestione dell'impianto, il vecchio gestore e il nuovo gestore ne danno comunicazione entro trenta giorni all'autorita' competente, anche nelle forme dell'autocertificazione ai fini della volturazione dell'autorizzazione integrata ambientale.
 
 ## Art. 29-decies. — Rispetto delle condizioni dell'autorizzazione integrata ambientale
 
-Il gestore, prima di dare attuazione a quanto previsto dall'autorizzazione integrata ambientale, ne da' comunicazione all'autorita' competente. Per gli impianti localizzati in mare, l'Istituto superiore per la protezione e la ricerca ambientale esegue i controlli di cui al comma 3, coordinandosi con gli uffici di vigilanza del Ministero dello sviluppo economico.
+Il gestore, prima di dare attuazione a quanto previsto dall'autorizzazione integrata ambientale, ne da' comunicazione all'autorita' competente. ((Tale comunicazione non e' necessaria in caso di provvedimento di mera conferma del precedente quadro autorizzativo.))
 
 A far data dall'invio della comunicazione di cui al comma 1, il gestore trasmette all'autorita' competente e ai comuni interessati, nonche' all'ente responsabile degli accertamenti di cui al comma 3, i dati relativi ai controlli delle emissioni richiesti dall'autorizzazione integrata ambientale, secondo modalita' e frequenze stabilite nell'autorizzazione stessa. L'autorita' competente provvede a mettere tali dati a disposizione del pubblico tramite gli uffici individuati ai sensi dell'articolo 29-quater, comma 3, ovvero mediante pubblicazione sul sito internet dell'autorita' competente ai sensi dell'articolo 29-quater, comma 2.
 Il gestore provvede, altresi', ad informare immediatamente i medesimi soggetti in caso di violazione delle condizioni dell'autorizzazione, adottando nel contempo le misure necessarie a ripristinare nel piu' breve tempo possibile la conformita'.
@@ -2776,7 +3318,7 @@ Il gestore provvede, altresi', ad informare immediatamente i medesimi soggetti i
 3.
                         
                             
-                                L'Istituto Superiore per la Protezione e la Ricerca Ambientale, per impianti di competenza statale, o, negli altri casi, l'autorita' competente, avvalendosi delle agenzie regionali e provinciali per la protezione dell'ambiente, accertano, secondo quanto previsto e programmato nell'autorizzazione ai sensi dell'articolo 29-sexies, comma 6 e con oneri a carico del gestore: 
+                                L'Istituto Superiore per la Protezione e la Ricerca Ambientale, per impianti di competenza statale, ((coordinandosi per gli impianti localizzati in mare con gli uffici di vigilanza del Ministero delle imprese e del made in Italy, ovvero, negli altri casi, l'autorita' di controllo individuata dalla regione,)) avvalendosi delle agenzie regionali e provinciali per la protezione dell'ambiente, accertano, secondo quanto previsto e programmato nell'autorizzazione ai sensi dell'articolo 29-sexies, comma 6 e con oneri a carico del gestore: 
  
                             
                             
@@ -2796,7 +3338,24 @@ Il gestore provvede, altresi', ad informare immediatamente i medesimi soggetti i
                             
                                 c)
                                 
-                                    che il gestore abbia ottemperato ai propri obblighi di comunicazione e in particolare che abbia informato l'autorita' competente regolarmente e, in caso di inconvenienti o incidenti che influiscano in modo significativo sull'ambiente, tempestivamente dei risultati della sorveglianza delle emissioni del proprio impianto.
+                                    che il gestore abbia ottemperato ai propri obblighi di comunicazione e in particolare che abbia informato l'autorita' competente regolarmente e, in caso di inconvenienti o incidenti che influiscano in modo significativo sull'ambiente, tempestivamente dei risultati della sorveglianza delle emissioni del proprio impianto. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((se del caso, a campione e in contraddittorio con il soggetto interessato, la conformita' di cui all'articolo 184-ter, comma 3-ter, informando in ogni caso l'Istituto superiore per la protezione e la ricerca ambientale degli esiti di tale controllo;))
+                                    
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    
+                                        ((il rispetto degli obblighi di cui all'articolo 29-sexies, comma 1-bis.))
+                                        ((Ove la regione non abbia individuato una distinta autorita' di controllo, le relative competenze si intendono attribuite all'autorita' competente.))
 
 Ferme restando le misure di controllo di cui al comma 3, l'autorita' competente, nell'ambito delle disponibilita' finanziarie del proprio bilancio destinate allo scopo, puo' disporre ispezioni straordinarie sugli impianti autorizzati ai sensi del presente decreto.
 
@@ -2823,6 +3382,21 @@ I risultati del controllo delle emissioni, richiesti dalle condizioni dell'autor
                                 
                             
                             
+                                b)
+                                
+                                    alla diffida e contestuale sospensione ((senza indugio dell'esercizio dell'installazione, o della relativa parte interessata)) dell'attivita' per un tempo determinato, ove si manifestino situazioni che costituiscano un pericolo immediato per la salute umana o per l'ambiente ((...)). Decorso il tempo determinato contestualmente alla diffida, la sospensione e' automaticamente prorogata, finche' il gestore non dichiara di aver individuato ((...)) il problema che ha causato l'inottemperanza ((e ripristinato la conformita', dando attuazione alle azioni di cui al comma 2, ultimo periodo e rispettando le misure cui alla lettera a) del presente comma)). La sospensione e' inoltre automaticamente rinnovata a cura dell'autorita' di controllo di cui al comma 3, alle medesime condizioni e durata individuate contestualmente alla diffida, se i controlli sul successivo esercizio non confermano che e' stata ripristinata la conformita', almeno in relazione alle situazioni che, costituendo un pericolo immediato per la salute umana o per l'ambiente, avevano determinato la precedente sospensione; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((fuori dai casi di cui alla lettera b), laddove una violazione persistente delle condizioni di autorizzazione metta in pericolo la salute umana o provochi ripercussioni serie sull'ambiente, e comunque nel caso in cui una violazione sia reiterata piu' di due volte in un anno, alla sospensione dell'esercizio dell'installazione, o della relativa parte interessata, fino a quando il gestore non garantisce di aver ripristinato la conformita' alle condizioni di autorizzazione, in particolare attuando le misure necessarie a ripristinare le conformita' indicate nella relazione di ispezione di cui al comma 6;))
+                                    
+                                
+                            
+                            
                                 c)
                                 
                                     alla revoca dell'autorizzazione e alla chiusura dell'installazione, in caso di mancato adeguamento alle prescrizioni imposte con la diffida e in caso di reiterate violazioni che determinino situazioni di pericolo o di danno per l'ambiente; 
@@ -2834,7 +3408,15 @@ I risultati del controllo delle emissioni, richiesti dalle condizioni dell'autor
                                 
                                     alla chiusura dell'installazione, nel caso in cui l'infrazione abbia determinato esercizio in assenza di autorizzazione.
 
+((Fuori dei casi di pericolo immediato per la salute umana, ai fini dell'applicazione delle misure di cui al comma 9, lettere b) e b-bis) ad installazioni destinate all'erogazione di servizi pubblici essenziali, ivi incluso il servizio idrico integrato, l'autorita' competente tiene conto della gravita' dei rischi per la salute umana e per l'ambiente derivanti dalla sospensione dell'erogazione di detti servizi.))
+
 In caso di inosservanza delle prescrizioni autorizzatorie, l'autorita' competente, ove si manifestino situazioni di pericolo o di danno per la salute, ne da' comunicazione al sindaco ai fini dell'assunzione delle eventuali misure ai sensi dell'articolo 217 del regio decreto 27 luglio 1934, n. 1265.
+
+((In caso di violazione delle condizioni di autorizzazione che minacci la salute umana o l'ambiente in un altro Stato membro, l'autorita' competente ne da' comunicazione al Ministero dell'ambiente e della sicurezza energetica che provvede affinche' l'altro Stato membro sia informato.))
+
+((In caso di non conformita' che comprometta le risorse di acqua potabile, comprese le sorgenti di acque minerali e le risorse transfrontaliere, o le infrastrutture per le acque reflue in caso di scarico indiretto, l'autorita' competente, o nel caso di autorizzazioni integrate ambientali statali l'Istituto superiore per la protezione e la ricerca ambientale, informa il Ministero della salute, i gestori di acque minerali, dei servizi idrici di acqua potabile e acque reflue interessati e le autorita' ambientali competenti in materia, della violazione e delle misure adottate per prevenire ulteriori danni o porre rimedio ai danni causati alla salute umana e all'ambiente.))
+
+((L'accertamento, da parte dell'autorita' di cui al comma 3, di mendaci dichiarazioni effettuate ai sensi del comma 9, lettere b) e b-bis), inerenti all'avvenuto ripristino della conformita', determina l'annullamento degli effetti di tali dichiarazioni, con conseguente applicabilita' delle sanzioni di cui all'articolo 29-quaterdecies, comma 1, all'eventuale esercizio successivo a tali dichiarazioni.))
 
 L'Istituto Superiore per la Protezione e la Ricerca ambientale esegue i controlli di cui al comma 3 anche avvalendosi delle agenzie regionali e provinciali per la protezione dell'ambiente territorialmente competenti, nel rispetto di quanto disposto all'articolo 03, comma 5, del decreto-legge 4 dicembre 1993, n. 496, convertito, con modificazioni, dalla legge 21 gennaio 1994, n. 61.
 
@@ -2907,64 +3489,77 @@ L'Istituto Superiore per la Protezione e la Ricerca ambientale esegue i controll
                             
                                 c)
                                 
-                                    la partecipazione del gestore al sistema dell'Unione di ecogestione e audit (EMAS) (a norma del regolamento (CE) n. 1221/2009).
+                                    la partecipazione del gestore al sistema dell'Unione di ecogestione e audit (EMAS) (a norma del regolamento (CE) n. 1221/2009). 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((le eventuali linee guida emanate dalla Commissione europea sui criteri relativi alla valutazione dei rischi ambientali.))
+
+((Ai fini della valutazione della conformita', in condizioni di esercizio normali, ai valori limite di emissione le rettifiche apportate alle misurazioni per determinare i valori medi convalidati delle emissioni non superano l'incertezza di misura del metodo di misurazione. Per valutare la conformita', in condizioni di esercizio normali, ai valori limite di emissione stabiliti nell'autorizzazione in relazione alle emissioni nell'atmosfera e nell'acqua le autorita' di controllo di cui al comma 3 fanno inoltre riferimento a eventuali atti di esecuzione emanati dalla Commissione europea ai sensi dell'articolo 15-bis, paragrafo 2, della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010.))
+
+((Se un'installazione che rientra nell'ambito di applicazione del presente titolo rientra anche nell'ambito di applicazione dell'articolo 273 o del titolo III-bis della parte quarta e il rispetto dei valori limiti di emissione, stabiliti in conformita' al presente titolo, e' stato dimostrato ai sensi del 11-quater, si considera che l'installazione sia conforme anche ai valori limite di emissione stabiliti a norma dell'articolo 273 o del titolo III-bis della parte quarta per gli inquinanti in questione in condizioni di esercizio normali. Fermo restando quanto disciplinato dall'articolo 29-septies, se un'installazione che rientra nell'ambito di applicazione del presente titolo rientra anche nell'ambito di applicazione della parte terza del presente decreto e il rispetto dei valori limite di emissione, anche se espressi non in termini di concentrazione, stabiliti in conformita' al presente titolo, e' stato dimostrato ai sensi del 11-quater, si considera che l'installazione e' conforme anche ai valori limite stabiliti a norma della tabella 3, dell'allegato 5 alla parte terza del presente decreto per gli inquinanti in questione, purche' non pericolosi, in condizioni di esercizio normali.))
+
+((La verifica della qualita' dei laboratori che effettuano il controllo si basa sulle norme CEN oppure, se non sono disponibili norme CEN, su norme ISO, norme nazionali o altre norme internazionali che assicurino dati equivalenti sotto il profilo della qualita' scientifica.))
+
+((Qualora le valutazioni di cui all'articolo 29-sexies, comma 4-bis, dimostrino che la deroga avra' un effetto quantificabile o misurabile sull'ambiente, l'autorita' competente si assicura che la concentrazione degli inquinanti interessati sia controllata nell'ambiente ricettore. Se del caso, ai fini del controllo di cui al presente comma, si utilizzano i metodi di controllo e misurazione per ciascun inquinante in questione stabiliti in altre normative pertinenti dell'Unione europea. Eventuali controlli e misurazioni aggiuntivi necessari ai sensi del presente comma sono a carico del gestore. Ove il gestore non possa eseguire direttamente tali controlli e misurazioni, di tale attivita' si fa carico l'agenzia regionale o provinciale per la protezione dell'ambiente, ponendo i relativi oneri a carico del gestore in applicazione di specifiche convenzioni sottoscritte con il gestore stesso ovvero applicando i tariffari approvati a livello regionale o provinciale.))
+
+((Gli enti di cui al comma 3 provvedono, con oneri a carico dei gestori, attraverso le previste tariffe e pertanto senza nuovi o maggiori oneri a carico della finanza pubblica, a dotarsi di un numero adeguato di ispettori qualificati e assicurano che gli stessi dispongano delle risorse finanziarie, tecniche e tecnologiche necessarie per lo svolgimento delle attivita' di monitoraggio, verifica e controllo.))
 
 -------------
                             AGGIORNAMENTO (65)
                             
  Il D.L. 4 giugno 2013, n. 61, convertito con modificazioni dalla L. 3 agosto 2013, n. 89, ha disposto (con l'art. 1, comma 1-ter) che "Il commissariamento di cui al comma 1, fermo restando quanto disposto dall'articolo 29-decies, comma 10, del decreto legislativo 3 aprile 2006, n. 152, costituisce deroga all'articolo 29-decies, comma 9, del medesimo decreto, qualora siano compiuti gli adempimenti previsti dal comma 9 del presente articolo".
 
-## Art. 29-undecies. — (( (Incidenti o imprevisti). ))
+## Art. 29-undecies. — (Incidenti o imprevisti)
 
-((
+Fatta salva la disciplina relativa alla responsabilita' ambientale in materia di prevenzione e riparazione del danno ambientale, in caso di incidenti o eventi imprevisti che incidano in modo significativo ((sulla salute umana o)) sull'ambiente, il gestore informa immediatamente l'autorita' competente e l'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, e adotta immediatamente le misure per limitare le conseguenze ((sanitarie e)) ambientali e a prevenire ulteriori eventuali incidenti o eventi imprevisti, informandone l'autorita' competente.
 
-Fatta salva la disciplina relativa alla responsabilita' ambientale in materia di prevenzione e riparazione del danno ambientale, in caso di incidenti o eventi imprevisti che incidano in modo significativo sull'ambiente, il gestore informa immediatamente l'autorita' competente e l'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, e adotta immediatamente le misure per limitare le conseguenze ambientali e a prevenire ulteriori eventuali incidenti o eventi imprevisti, informandone l'autorita' competente.
-
-In esito alle informative di cui al comma 1, l'autorita' competente puo' diffidare il gestore affinche' adotti ogni misura complementare appropriata che l'autorita' stessa, anche su proposta dell'ente responsabile degli accertamenti o delle amministrazioni competenti in materia ambientale territorialmente competenti, ritenga necessaria per limitare le conseguenze ambientali e prevenire ulteriori eventuali incidenti o imprevisti. La mancata adozione di tali misure complementari da parte del gestore nei tempi stabiliti dall'autorita' competente e' sanzionata ai sensi dell'articolo 29-quattuordecies, commi 1 o 2.
+In esito alle informative di cui al comma 1, l'autorita' competente puo' diffidare il gestore affinche' adotti ogni misura complementare appropriata che l'autorita' stessa, anche su proposta dell'ente responsabile degli accertamenti o delle amministrazioni competenti in materia ambientale ((o sanitaria)) territorialmente competenti, ritenga necessaria per limitare le conseguenze ((sanitarie e)) ambientali e prevenire ulteriori eventuali incidenti o imprevisti. La mancata adozione di tali misure complementari da parte del gestore nei tempi stabiliti dall'autorita' competente e' sanzionata ai sensi dell'articolo 29-quattuordecies, commi 1 o 2.
 
 L'autorizzazione puo' meglio specificare tempi, modalita' e destinatari delle informative di cui al comma 1, fermo restando il termine massimo di otto ore, di cui all'articolo 271, comma 14, nel caso in cui un guasto non permetta di garantire il rispetto dei valori limite di emissione in aria.
 
-))
+((In caso di inquinamento delle risorse di acqua potabile, comprese le acque minerali e le risorse transfrontaliere, o delle infrastrutture per le acque reflue in caso di scarico indiretto, l'autorita' competente informa i gestori dell'acqua potabile, delle acque minerali e delle acque reflue interessati delle misure adottate per prevenire o porre rimedio ai danni causati da tale inquinamento alla salute umana e all'ambiente.))
+
+((In caso di incidente o evento imprevisto che incida in modo significativo sulla salute umana o sull'ambiente in un altro Stato membro, le comunicazioni di cui ai commi 1, 2 e 3-bis sono indirizzate anche al Ministero dell'ambiente e della sicurezza energetica, evidenziando tale circostanza. Il Ministero dell'ambiente e della sicurezza energetica provvede affinche' le autorita' competenti dell'altro Stato membro coinvolto siano informate immediatamente e provvede altresi' a diffondere alle autorita' competenti nazionali eventuali analoghe comunicazioni pervenute da parte di altri Stati membri.))
+
+((In caso di effetti transfrontalieri il Ministero dell'ambiente e della sicurezza energetica si adopera, attraverso la cooperazione transfrontaliera e multidisciplinare, per limitare le conseguenze per l'ambiente e la salute umana e prevenire eventuali altri incidenti o eventi imprevisti.))
 
 ## Art. 29-duodecies. — Comunicazioni
 
-((
-
 Le autorita' competenti comunicano al Ministero dell'ambiente e della tutela del territorio e del mare, con cadenza almeno annuale, i dati di sintesi concernenti le domande ricevute, copia informatizzata delle autorizzazioni rilasciate e dei successivi aggiornamenti, nonche' un rapporto sulle situazioni di mancato rispetto delle prescrizioni della autorizzazione integrata ambientale. L'obbligo si intende ottemperato nel caso in cui tali informazioni siano rese disponibili telematicamente ed almeno annualmente l'autorita' competente comunichi al Ministero dell'ambiente e della tutela del territorio e del mare le modalita' per acquisire in remoto tali informazioni.
 
-))
-
-((
-
-In ogni caso in cui e' concessa una deroga ai sensi dell'articolo 29-sexies, comma 9-bis, le autorita' competenti comunicano al Ministero dell'ambiente e della tutela del territorio e del mare, entro 120 giorni dall'emanazione del provvedimento di autorizzazione integrata ambientale, i motivi specifici della deroga e le relative condizioni imposte.
-
-))
+In ogni caso in cui e' concessa una deroga ai sensi dell'articolo 29-sexies, comma 9-bis ((, 9-bis.1, 9-ter o 9-quater, ovvero ai sensi dell'articolo 29-octies, commi 7-bis, 11-ter o 11-quater,)), le autorita' competenti comunicano al Ministero dell'ambiente e della tutela del territorio e del mare, entro 120 giorni dall'emanazione del provvedimento di autorizzazione integrata ambientale, i motivi specifici della deroga e le relative condizioni imposte.
 
 Le domande relative agli impianti di competenza statale di cui all'articolo 29-quater, comma 1, i dati di cui al comma 1 del presente articolo e quelli di cui ai commi 6 e 7 dell'articolo 29-decies, sono trasmessi al Ministero dell'ambiente e della tutela del territorio e del mare, per il tramite dell'Istituto Superiore per la Protezione e la Ricerca Ambientale, secondo il formato e le modalita' di cui al decreto dello stesso Ministro 7 febbraio 2007.
 
 ## Art. 29-terdecies. — Scambio di informazioni
-
-((
 
 Le autorita' competenti trasmettono periodicamente al Ministero dell'ambiente e della tutela del territorio e del mare, per il tramite dell'Istituto superiore per la protezione e la ricerca ambientale , una comunicazione relativa all'applicazione del presente titolo, ed in particolare sui dati rappresentativi circa le emissioni e altre forme di inquinamento e sui valori limite di emissione applicati in relazione agli impianti di cui all'Allegato VIII nonche' sulle migliori tecniche disponibili su cui detti valori si basano, segnalando eventuali progressi rilevati nello sviluppo ed applicazione di tecniche emergenti. La frequenza delle comunicazioni, il tipo e il formato delle informazioni che devono essere messe a disposizione, nonche' l'eventuale individuazione di attivita' e inquinanti specifici a cui limitare le informazioni stesse, sono stabiliti con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare sulla base delle decisioni in merito emanate dalla Commissione europea. Nelle more della definizione di tale provvedimento le informazioni di cui al presente comma sono trasmesse annualmente, entro il 30 giugno 2014, con riferimento al biennio 2012-2013; entro il 30 aprile 2017, con riferimento al triennio 2014-2016, e successivamente con frequenza triennale, facendo riferimento a tipi e formati definiti nel formulario adottato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare del 15 marzo 2012.
 
 Il Ministero dell'ambiente e della tutela del territorio e del mare predispone e invia alla Commissione europea una relazione in formato elettronico sull'attuazione del Capo II della direttiva 2010/75/UE e sulla sua efficacia rispetto ad altri strumenti comunitari di protezione dell'ambiente, sulla base delle informazioni pervenute ai sensi dell'articolo 29-duodecies e del comma 1, rispettando periodicita', contenuti e formati stabiliti nelle specifiche decisioni assunte in merito in sede comunitaria. 
  2.bis. Il Ministero dell'ambiente e della tutela del territorio e del mare garantisce la partecipazione dell'Italia al Comitato di cui all'articolo 75 della direttiva 2010/75/UE e al Forum di cui all'articolo 13, paragrafo 3, della stessa direttiva, sulla base delle intese di cui al comma 3.
 
-))
-
-Il Ministero dell'ambiente e della tutela del territorio e del mare, di intesa con il Ministero dello sviluppo economico, con il Ministero del lavoro e delle politiche sociali, con il Ministero della salute e con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, provvede ad assicurare la partecipazione dell'Italia allo scambio di informazioni organizzato dalla Commissione europea relativamente alle migliori tecniche disponibili e al loro sviluppo, nonche' alle relative prescrizioni in materia di controllo, e a rendere accessibili i risultati di tale scambio di informazioni. Le modalita' di tale partecipazione, in particolare, dovranno consentire il coinvolgimento delle autorita' competenti in tutte le fasi ascendenti dello scambio di informazioni. 
-Le attivita' di cui al presente comma sono svolte di intesa con il Ministero delle politiche agricole, alimentari e forestali limitatamente alle attivita' di cui al punto 6.6 dell'allegato VIII.
+Il Ministero dell'ambiente e della tutela del territorio e del mare, di intesa con il Ministero dello sviluppo economico, con il Ministero del lavoro e delle politiche sociali, con il Ministero della salute e con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, provvede ad assicurare la partecipazione dell'Italia allo scambio di informazioni organizzato dalla Commissione europea relativamente alle migliori tecniche disponibili e al loro sviluppo, nonche' alle relative prescrizioni in materia di controllo, e a rendere accessibili i risultati di tale scambio di informazioni. Le modalita' di tale partecipazione, in particolare, dovranno consentire il coinvolgimento delle autorita' competenti in tutte le fasi ascendenti dello scambio di informazioni. ((Nell'ambito del processo di redazione o revisione dei documenti sulle BAT, le autorita' competenti individuano, tra gli impianti gia' autorizzati e che svolgono le attivita' interessate dallo scambio di informazioni, almeno il 20 per cento di installazioni adeguate a fornire, in ambito unionale, dati e informazioni di dettaglio circa le prestazioni sulle migliori tecniche disponibili applicate. Le autorita' competenti collaborano con i gestori di tali installazioni per garantire che i dati raccolti siano conformi alle autorizzazioni esistenti e alle prestazioni comunicate ai sensi dell'articolo 29-quater, commi 1 e 13, dell'articolo 29-sexies, commi 1-bis e 6 e dell'articolo 29-decies, comma 2. La partecipazione dei gestori e' incentivata prevedendo nei provvedimenti di cui all'articolo 33, commi 3-bis e 4 una riduzione fino al 10 per cento delle tariffe istruttorie richieste per il riesame, di cui al comma 29-octies, comma 3, lettera a), riferito alle installazioni che hanno contribuito al pertinente scambio di informazioni, nonche' integrando, nell'ambito della collaborazione di cui al periodo precedente, i controlli di cui all'articolo 29-decies, comma 3, svolti durante il periodo di raccolta dati.))
 
 Il Ministero dell'ambiente e della tutela del territorio e del mare, provvede a garantire la sistematica informazione del pubblico sullo stato di avanzamento dei lavori relativi allo scambio di informazioni di cui al comma 3 e adotta d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281 modalita' di scambio di informazioni tra le autorita' competenti, al fine di promuovere una piu' ampia conoscenza sulle migliori tecniche disponibili e sul loro sviluppo.
 
-## Art. 29-quaterdecies. — (( (Sanzioni). ))
+((Fatto salvo il diritto dell'Unione europea in materia di concorrenza, le informazioni oggetto dello scambio di informazioni di cui al comma 3, considerate informazioni commerciali riservate o informazioni commerciali sensibili da parte dei soggetti pubblici o privati che le hanno fornite, sono trasmesse dal Ministero dell'ambiente e della sicurezza energetica solo alla Commissione europea, che ne garantisce la riservatezza nelle forme indicate dall'articolo 13, paragrafo 2 della direttiva 2010/75/UE. Lo scambio di informazioni considerate informazioni commerciali riservate o informazioni commerciali sensibili resta strettamente limitato a quanto tecnicamente necessario per elaborare, riesaminare e, se necessario, aggiornare i documenti di riferimento sulle BAT e dette informazioni commerciali riservate o informazioni commerciali sensibili non sono usate per altri scopi. La violazione di tali restrizioni e' sanzionata ai sensi dell'articolo 325 o dell'articolo 623 del codice penale.))
 
-((1. Chiunque esercita una delle attivita' di cui all'Allegato VIII alla Parte Seconda senza essere in possesso dell'autorizzazione integrata ambientale, o dopo che la stessa sia stata sospesa o revocata e' punito con la pena dell'arresto fino ad un anno o con l'ammenda da 2.500 euro a 26.000 euro. Nel caso in cui l'esercizio non autorizzato comporti lo scarico di sostanze pericolose comprese nelle famiglie e nei gruppi di sostanze indicate nelle tabelle 5 e 3/A dell'Allegato 5 alla Parte Terza, ovvero la raccolta, o il trasporto, o il recupero, o lo smaltimento di rifiuti pericolosi, nonche' nel caso in cui l'esercizio sia effettuato dopo l'ordine di chiusura dell'installazione, la pena e' quella dell'arresto da sei mesi a due anni e dell'ammenda da 5.000 euro a 52.000 euro. Se l'esercizio non autorizzato riguarda una discarica, alla sentenza di condanna o alla sentenza emessa ai sensi dell'articolo 444 del codice di procedura penale, consegue la confisca dell'area sulla quale e' realizzata la discarica abusiva, se di proprieta' dell'autore o del compartecipe al reato, fatti salvi gli obblighi di bonifica o di ripristino dello stato dei luoghi. 
+((Il Ministero dell'ambiente e della sicurezza energetica coordina la partecipazione dell'Italia al centro di innovazione per la trasformazione e le emissioni industriali (INCITE), di cui all'articolo 27-bis della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, d'intesa con i Ministeri delle imprese e del made in Italy e dell'universita' e della ricerca, nonche' con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e provvede ad assicurare la partecipazione dell'Italia allo scambio di informazioni organizzato dalla Commissione europea relativamente alle tecniche innovative per la trasformazione e le emissioni industriali e al loro sviluppo. Le modalita' di tale partecipazione, in particolare, consentono nella fase ascendente dello scambio di informazioni il contributo dei principali centri di ricerca pubblici e privati interessati, nonche' di rappresentanti dei fornitori di tecnologie e del mondo imprenditoriale potenzialmente coinvolti. Le attivita' di cui al presente comma sono svolte d'intesa con il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, limitatamente alle attivita' di cui al titolo III-ter.))
+
+((Per lo svolgimento delle attivita' di cui al comma 4-ter il Ministero dell'ambiente e della sicurezza energetica si avvale dell'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA), dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA) e del Consiglio nazionale della ricerca (CNR).))
+
+## Art. 29-quaterdecies. — (Sanzioni)
+
+1. Chiunque esercita una delle attivita' di cui all'Allegato VIII alla Parte Seconda senza essere in possesso dell'autorizzazione integrata ambientale, o dopo che la stessa sia stata sospesa o revocata e' punito con la pena dell'arresto fino ad un anno o con l'ammenda da 2.500 euro a 26.000 euro. Nel caso in cui l'esercizio non autorizzato comporti lo scarico di sostanze pericolose comprese nelle famiglie e nei gruppi di sostanze indicate nelle tabelle 5 e 3/A dell'Allegato 5 alla Parte Terza, ovvero la raccolta, o il trasporto, o il recupero, o lo smaltimento di rifiuti pericolosi, nonche' nel caso in cui l'esercizio sia effettuato dopo l'ordine di chiusura dell'installazione, la pena e' quella dell'arresto da sei mesi a due anni e dell'ammenda da 5.000 euro a 52.000 euro. Se l'esercizio non autorizzato riguarda una discarica, alla sentenza di condanna o alla sentenza emessa ai sensi dell'articolo 444 del codice di procedura penale, consegue la confisca dell'area sulla quale e' realizzata la discarica abusiva, se di proprieta' dell'autore o del compartecipe al reato, fatti salvi gli obblighi di bonifica o di ripristino dello stato dei luoghi. 
  2. Salvo che il fatto costituisca reato, si applica la sanzione amministrativa pecuniaria da 1.500 euro a 15.000 euro nei confronti di colui che pur essendo in possesso dell'autorizzazione integrata ambientale non ne osserva le prescrizioni o quelle imposte dall' autorita' competente. 
  3. Salvo che il fatto costituisca piu' grave reato, si applica la sola pena dell'ammenda da 5.000 euro a 26.000 euro nei confronti di colui che pur essendo in possesso dell'autorizzazione integrata ambientale non ne osserva le prescrizioni o quelle imposte dall' autorita' competente nel caso in cui l'inosservanza: 
- a) sia costituita da violazione dei valori limite di emissione, rilevata durante i controlli previsti nell'autorizzazione o nel corso di ispezioni di cui all'articolo 29-decies, commi 4 e 7, a meno che tale violazione non sia contenuta in margini di tolleranza, in termini di frequenza ed entita', fissati nell'autorizzazione stessa; 
- b) sia relativa alla gestione di rifiuti; 
+ a) sia costituita da violazione dei valori limite di emissione ((nel punto di fuoriuscita delle emissioni dall'installazione)), rilevata durante i controlli previsti nell'autorizzazione o nel corso di ispezioni di cui all'articolo 29-decies, commi 4 e 7, a meno che tale violazione non sia contenuta in margini di tolleranza, in termini di frequenza ed entita', fissati nell'autorizzazione stessa; 
+ b) sia relativa alla gestione di rifiuti ((, escluse le casistiche per cui il titolo VI della parte quarta prevede specifiche sanzioni amministrative)); 
  c) sia relativa a scarichi recapitanti nelle aree di salvaguardia delle risorse idriche destinate al consumo umano di cui all'articolo 94, oppure in corpi idrici posti nelle aree protette di cui alla vigente normativa. 
  4. Nei casi previsti al comma 3 e salvo che il fatto costituisca piu' grave reato, si applica la pena dell'ammenda da 5.000 euro a 26.000 euro e la pena dell'arresto fino a due anni qualora l'inosservanza sia relativa: 
  a) alla gestione di rifiuti pericolosi non autorizzati; 
@@ -2976,13 +3571,279 @@ Il Ministero dell'ambiente e della tutela del territorio e del mare, provvede a 
  7. E' punito con la sanzione amministrativa pecuniaria da 5.000 euro a 52.000 euro il gestore che omette di trasmettere all'autorita' competente la comunicazione prevista all'articolo 29-decies, comma 1, nonche' il gestore che omette di effettuare le comunicazioni di cui all'articolo 29-undecies, comma 1, nei termini di cui al comma 3 del medesimo articolo 29-undecies. 
  8. E' punito con la sanzione amministrativa pecuniaria da 2.500 euro a 11.000 euro il gestore che omette di comunicare all'autorita' competente, all'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, e ai comuni interessati i dati relativi alle misurazioni delle emissioni di cui all'articolo 29-decies, comma 2. Nel caso in cui il mancato adempimento riguardi informazioni inerenti la gestione di rifiuti pericolosi la sanzione amministrativa pecuniaria e' sestuplicata. La sanzione amministrativa pecuniaria e' ridotta ad un decimo se il gestore effettua tali comunicazioni con un ritardo minore di 60 giorni ovvero le effettua formalmente incomplete o inesatte ma, comunque, con tutti gli elementi informativi essenziali a caratterizzare i dati di esercizio dell'impianto. 
  9. Si applica la pena di cui all'articolo 483 del codice penale a chi nell'effettuare le comunicazioni di cui al comma 8 fornisce dati falsificati o alterati. 
- 10. E' punito con la sanzione amministrativa pecuniaria da 5.000 euro a 26.000 euro il gestore che, senza giustificato e documentato motivo, omette di presentare, nel termine stabilito dall'autorita' competente, la documentazione integrativa prevista all'articolo 29-quater, comma 8, o la documentazione ad altro titolo richiesta dall'autorita' competente per perfezionare un'istanza del gestore o per consentire l'avvio di un procedimento di riesame. 
+ 10. E' punito con la sanzione amministrativa pecuniaria da 5.000 euro a 26.000 euro il gestore che, senza giustificato e documentato motivo, omette di presentare, nel termine stabilito dall'autorita' competente, la documentazione integrativa prevista all'articolo 29-quater, comma 8, o la documentazione ad altro titolo richiesta dall'autorita' competente per perfezionare un'istanza del gestore o per consentire l'avvio di un procedimento di riesame. ((La medesima sanzione si applica in caso di violazione degli obblighi recati dall'articolo 29-sexies, comma 1-bis.)) 
  11. Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applica il pagamento in misura ridotta di cui all'articolo 16 della legge 24 novembre 1981, n. 689. 
- 12. Le sanzioni sono irrogate dal prefetto per gli impianti di competenza statale e dall'autorita' competente per gli altri impianti. 
- 13. I proventi derivanti dall'applicazione delle sanzioni amministrative pecuniarie di competenza statale, per le violazioni previste dal presente decreto, sono versati all'entrata del bilancio dello Stato. I soli proventi derivanti dall'applicazione delle sanzioni amministrative pecuniarie di cui al comma 2, al comma 6, al comma 7, limitatamente alla violazione dell'articolo 29-undecies, comma 1, e al comma 10, con esclusione della violazione di cui all'articolo 29-quater, comma 8, del presente articolo, nonche' di cui all'articolo 29-octies, commi 5 e 5-ter, sono successivamente riassegnati ai pertinenti capitoli di spesa del Ministero dell'ambiente e della tutela del territorio e del mare e sono destinati a potenziare le ispezioni ambientali straordinarie previste dal presente decreto, in particolare all'articolo 29-decies, comma 4, nonche' le ispezioni finalizzate a verificare il rispetto degli obblighi ambientali per impianti ancora privi di autorizzazione. 
- 14. Per gli impianti autorizzati ai sensi della Parte Seconda, dalla data della prima comunicazione di cui all'articolo 29-decies, comma 1, non si applicano le sanzioni, previste da norme di settore o speciali, relative a fattispecie oggetto del presente articolo, a meno che esse non configurino anche un piu' grave reato.))
+ 12. Le sanzioni ((amministrative)) sono irrogate dal prefetto per gli impianti di competenza statale e dall'autorita' ((di cui all'articolo 29-decies, comma 3 per le altre installazioni)). 
+ 12-bis. ((Per la determinazione dell'importo della sanzione, costituiscono circostanze aggravanti il fatto che la violazione sia stata commessa ripetutamente o che essa, interessando popolazione e ambiente, possa aver pregiudicato il conseguimento di un elevato livello di protezione della salute umana e dell'ambiente.)) 
+ 13. ((I proventi derivanti dall'applicazione delle sanzioni amministrative pecuniarie di competenza statale, per le violazioni previste dal presente titolo, sono versati all'entrata del bilancio dello Stato e sono successivamente riassegnati ai pertinenti capitoli di spesa del Ministero dell'ambiente e della sicurezza energetica per essere destinati a potenziare le ispezioni ambientali straordinarie previste dal presente titolo, in particolare all'articolo 29-decies, comma 4, nonche' le ispezioni finalizzate a verificare il rispetto degli obblighi ambientali per impianti ancora privi di autorizzazione.)) 
+ 13-bis. ((Le regioni adeguano le proprie disposizioni per garantire che i proventi derivanti dall'applicazione delle sanzioni amministrative pecuniarie di competenza non statale per le violazioni previste dal presente titolo siano destinati, nel rispetto degli equilibri di bilancio, a potenziare le ispezioni ambientali straordinarie previste dal presente titolo, in particolare all'articolo 29-decies, comma 4, nonche' le ispezioni finalizzate a verificare il rispetto degli obblighi ambientali per impianti ancora privi di autorizzazione.)) 
+ 14. Per gli impianti autorizzati ai sensi della Parte Seconda, dalla data della prima comunicazione di cui all'articolo 29-decies, comma 1, non si applicano le sanzioni, previste da norme di settore o speciali, relative a fattispecie oggetto del presente articolo, a meno che esse non configurino anche un piu' grave reato.
 
-## - - TITOLO IV ((VALUTAZIONI AMBIENTALI INTERREGIONALI E TRANSFRONTALIERE))
+## - - ((TITOLO IIITER DISPOSIZIONI SPECIALI PER L'ALLEVAMENTO DI POLLAME E SUINI))
+
+## Art. 29-quinquiesdecies. — (( (Ambito di applicazione).))
+
+
+
+## Art. 29-sexiesdecies. — (( (Norme sul cumulo).))
+
+
+
+((Ai fini di cui al comma 1, l'autorita' competente tiene conto degli orientamenti sui criteri per considerare le installazioni come un'unita' singola pubblicati dalla Commissione europea ai sensi dell'articolo 70 ter della direttiva (UE) 2024/1785 del Parlamento europeo e del Consiglio, del 24 aprile 2024.))
+
+## Art. 29-septiesdecies. — (( (Autorizzazioni e registrazioni).))
+
+
+
+((Al fine di garantire l'applicazione del comma 1, le regioni definiscono adeguate procedure di autorizzazione o di registrazione per le installazioni che rientrano nell'ambito di applicazione del presente titolo.))
+
+3.
+                        
+                            
+                                
+                                    ((Nelle more della definizione delle procedure di cui al comma 2, i titoli autorizzativi previsti dalla previgente normativa continuano a costituire titolo ad esercire, anche per nuove installazioni, a condizione che il gestore integri, ove necessario, le informazioni con quelle di cui al comma 5 e assuma l'impegno a gestire l'installazione conformemente alle norme operative di cui all'articolo 5, comma 1, lettera l-ter.3). Il rispetto di tale impegno costituisce una condizione autorizzativa ed e' conseguentemente controllato e sanzionato in caso di violazione.
+Nelle more della definizione delle procedure regionali di cui al comma 2, rimangono, comunque, soggetti ad autorizzazione integrata ambientale di cui al titolo III-bis gli allevamenti intensivi di pollame e suini:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((con piu' di 40 000 posti per il pollame;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((con piu' di 2 000 posti per i suini da produzione di oltre 30 kg, o;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((con piu' di 750 posti per le scrofe;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((coinsediati e tecnicamente connessi con attivita' di cui all'allegato VIII alla parte seconda.))
+
+((Con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, sentiti i Ministri dell'ambiente e della sicurezza energetica e della salute, possono essere emanati requisiti vincolanti, per talune categorie di installazioni che rientrano nell'ambito di applicazione del presente titolo, che includono le pertinenti norme operative di cui all'articolo 5, comma 1, lettera l-ter.3) e specificano a livello generale i contenuti dell'autorizzazione o le condizioni della registrazione. In tali casi l'attivita' istruttoria a carico dell'autorita' competente si limita alla sola verifica della conformita' dell'istanza ai requisiti vincolanti.))
+
+5.
+                        
+                            
+                                
+                                    ((Le istanze di registrazione o di autorizzazione comprendono almeno una descrizione dei seguenti elementi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'installazione e le sue attivita', comprese le modalita' di stabulazione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i tipi di animali;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((il coefficiente di densita', in UBA per ettaro, calcolato conformemente all'allegato VIII-bis, alla parte seconda, se del caso;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((la capacita' ricettiva dell'installazione;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((le fonti di emissione dell'installazione;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((il tipo e l'entita' delle prevedibili emissioni dell'installazione in ogni comparto ambientale;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((una sintesi non tecnica delle informazioni di cui alle precedenti lettere.))
+
+((Il gestore comunica senza indugio, pena l'applicazione della sanzione di cui all'articolo 29-quaterdecies, comma 5, all'autorita' competente le eventuali modifiche sostanziali che prevede di apportare alle installazioni che rientrano nell'ambito di applicazione del presente titolo e che possono produrre conseguenze sull'ambiente. Ove necessario, l'autorita' competente riesamina e aggiorna l'autorizzazione o segnala al gestore entro sessanta giorni la necessita' di richiedere una nuova autorizzazione o di effettuare una nuova registrazione prima di esercire la modifica.))
+
+## Art. 29-duodevicies. — (( (Obblighi del gestore).))
+
+
+
+((Il gestore registra ed elabora tutti i risultati dei controlli, assicurando la conservazione dei relativi dati, per un periodo di almeno cinque anni, in modo da consentire la verifica del rispetto dei valori limite di emissione e dei valori limite di prestazione ambientale stabiliti nelle norme operative.))
+
+((In caso di mancato rispetto dei valori limite di emissione e dei valori limite di prestazione ambientale stabiliti nell'autorizzazione o nella registrazione in conformita' alle norme operative di cui all'articolo 5, comma 1, lettera l-ter.3), l'autorita' competente assegna al gestore un termine entro il quale devono essere adottate le misure necessarie per garantire che la conformita' sia ripristinata nel piu' breve tempo possibile. In caso di inutile decorso di tale termine si applicano le sanzioni di cui all'articolo 29-quaterdecies, comma 2.))
+
+((Il gestore assicura che la gestione del letame, compreso lo spandimento sul suolo di rifiuti, sottoprodotti di origine animale o altri residui prodotti dall'installazione, sia effettuata conformemente alle migliori tecniche disponibili, come specificato nelle norme operative e in altre normative pertinenti dell'Unione europea, e non provochi un inquinamento significativo dell'ambiente.))
+
+## Art. 29-undevicies. — (( (Controllo).))
+
+
+
+((Tutti i risultati del controllo sono registrati, elaborati e presentati in modo tale da consentire all'autorita' competente di verificare l'osservanza delle condizioni di esercizio, dei valori limite di emissione e dei valori limite di prestazione ambientale contenuti nell'autorizzazione.))
+
+((Il gestore mette a disposizione dell'autorita' competente, su richiesta di quest'ultima e senza indugio, i dati e le informazioni di cui al comma 2. L'autorita' competente puo' effettuare tale richiesta anche al fine di verificare il rispetto dell'autorizzazione, della registrazione o delle norme operative di cui all'articolo 5, comma 1, lettera l-ter.3). L'autorita' competente formula comunque tale richiesta qualora un cittadino chieda l'accesso ai dati o alle informazioni di cui al comma 2, ove tali dati e informazioni aggiornati non siano gia' stati acquisiti dall'autorita' competente.))
+
+## Art. 29-vicies. — (( (Inadempienza).))
+
+
+
+((Qualora l'inadempienza provochi un degrado significativo delle condizioni locali dell'aria, dell'acqua o del suolo o comporti, o rischi di comportare, un pericolo significativo per la salute umana, l'autorita' competente sospende il funzionamento dell'installazione, in tempi compatibili con il rispetto della normativa in materia di benessere animale, fino al ripristino della conformita'.))
+
+## Art. 29-viciessemel. — (( (Informazione e partecipazione del pubblico).))
+
+1.
+                        
+                            
+                                
+                                    ((Le amministrazioni coinvolte garantiscono che al pubblico interessato siano offerte tempestive ed effettive opportunita' di partecipazione alle seguenti procedure:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((elaborazione dei requisiti generali vincolanti di cui all'articolo 29-septiesdecies, comma 4, sulle autorizzazioni per le installazioni che rientrano nell'ambito di applicazione del presente titolo;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((rilascio di un'autorizzazione per una nuova installazione che rientra nell'ambito di applicazione del presente titolo;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((rilascio di un'autorizzazione aggiornata per qualsiasi modifica sostanziale di un'installazione esistente che rientra nell'ambito di applicazione del presente titolo;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((definizione della procedura di registrazione, nel caso in cui non siano adottati requisiti generali vincolanti ai sensi dell'articolo 29-septiesdecies, comma 4.))
+
+((Nelle more della definizione di specifiche disposizioni attuative da parte delle singole amministrazioni coinvolte, l'attuazione del comma 1 e' garantita tramite pubblicazione sul sito internet istituzionale dell'amministrazione dello schema di decisione per un periodo non inferiore a venti giorni, durante il quale il pubblico interessato ha facolta' di partecipare proponendo osservazioni, delle quali si tiene espressamente conto nel provvedimento finale.))
+
+3.
+                        
+                            
+                                
+                                    ((L'autorita' competente rende disponibili al pubblico, anche attraverso pubblicazione su siti internet, a titolo gratuito e senza limitare l'accesso agli utenti registrati, i documenti e le informazioni seguenti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'autorizzazione o la registrazione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i risultati delle consultazioni tenute a norma del comma 1 o 2;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((i requisiti generali vincolanti di cui all'articolo 29-septiesdecies applicabili alle installazioni che rientrano nell'ambito di applicazione del presente titolo;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((le relazioni di ispezione delle installazioni che rientrano nell'ambito di applicazione del presente titolo.))
+
+## Art. 29-viciesbis. — (( (Norme operative per condizioni uniformi).))
+
+1.
+                        
+                            
+                                
+                                    ((Il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, sentiti i Ministeri dell'ambiente e della sicurezza energetica e della salute, gli uffici regionali interessati, le categorie imprenditoriali coinvolte nonche', ove ritenuto opportuno, le principali associazioni non governative che promuovono la protezione ambientale, coordina la partecipazione dell'Italia allo scambio di informazioni organizzato dalla Commissione europea ai sensi dell'articolo 70 decies della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, ai fini della definizione di norme operative, di cui all'articolo 5, comma 1, lettera l-ter.3), per condizioni uniformi di gestione degli allevamenti. In coerenza con l'uso delle migliori tecniche disponibili determinate tenendo conto della natura, del tipo, delle dimensioni e della densita' dell'allevamento, delle dimensioni degli armenti di ciascun tipo di animale nelle aziende agricole miste e delle specificita' dei sistemi di allevamento a pascolo, in cui gli animali sono tenuti solo stagionalmente al chiuso, tale partecipazione riguarda, in particolare, la raccolta di dati relativi a:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((i livelli di emissione e di prestazione ambientale delle installazioni e delle tecniche e altre misure;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le tecniche usate, il monitoraggio associato, gli effetti incrociati, la fattibilita' economica e tecnica e i loro sviluppi;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((le migliori tecniche disponibili individuate, dopo aver esaminato gli elementi di cui alle lettere a ) e b );))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((le tecniche emergenti.))
+
+((Il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste assicura, tramite pubblicazione sul proprio sito internet, adeguata pubblicita' alle norme operative emanate dalla Commissione europea.))
+
+## - - TITOLO IV ((VALUTAZIONI E EFFETTI AMBIENTALI INTERREGIONALI E TRANSFRONTALIERI))
 
 ## Art. 30. — Impatti ambientali interregionali
 
@@ -3039,11 +3900,14 @@ In caso di progetti proposti da altri Stati membri che possono avere effetti sig
 
 ## Art. 32-bis. — Effetti transfrontalieri
 
-Nel caso in cui il funzionamento di un impianto possa avere effetti negativi e significativi sull'ambiente di un altro Stato dell'Unione europea, il Ministero dell'ambiente e della tutela del territorio, d'intesa con il Ministero degli affari esteri, comunica a tale Stato membro i dati forniti ai sensi degli articoli 29-ter, 29-quater e 29-octies, nel momento stesso in cui sono messi a disposizione del pubblico. Comunque tali dati devono essere forniti ad uno Stato dell'Unione europea che ne faccia richiesta, qualora ritenga di poter subire effetti negativi e significativi sull'ambiente nel proprio territorio. Nel caso in cui l'impianto non ricada nell'ambito delle competenze statali, l'autorita' competente, qualora constati che il funzionamento di un impianto possa avere effetti negativi e significativi sull'ambiente di un altro Stato dell'Unione europea, informa il Ministero dell'ambiente e della tutela del territorio che provvede ai predetti adempimenti.
+Nel caso in cui il funzionamento di ((una installazione per la quale e' stata richiesta autorizzazione integrata ambientale)) possa avere effetti negativi e significativi sull'ambiente di un altro Stato dell'Unione europea, il Ministero dell'ambiente e della tutela del territorio, d'intesa con il Ministero degli affari esteri, comunica a tale Stato membro i dati forniti ai sensi degli articoli 29-ter, 29-quater ((29-octies e 29-nonies)), nel momento stesso in cui sono messi a disposizione del pubblico. Comunque tali dati devono essere forniti ad uno Stato dell'Unione europea che ne faccia richiesta, qualora ritenga di poter subire effetti negativi e significativi sull'ambiente nel proprio territorio. Nel caso in cui ((l'installazione)) non ricada nell'ambito delle competenze statali, l'autorita' competente, qualora constati che il funzionamento di ((un'installazione)) possa avere effetti negativi e significativi sull'ambiente di un altro Stato dell'Unione europea, informa il Ministero dell'ambiente e della tutela del territorio che provvede ai predetti adempimenti.
 
-Il Ministero dell'ambiente e della tutela del territorio provvede, d'intesa con il Ministero degli affari esteri, nel quadro dei rapporti bilaterali fra Stati, affinche', nei casi di cui al comma 1, le domande siano accessibili anche ai cittadini dello Stato eventualmente interessato per un periodo di tempo adeguato che consenta una presa di posizione prima della decisione dell'autorita' competente.
+Il Ministero dell'ambiente e della tutela del territorio provvede, d'intesa con il Ministero degli affari esteri, nel quadro dei rapporti bilaterali fra Stati, affinche', nei casi di cui al comma 1, le domande siano accessibili anche ai cittadini dello Stato eventualmente interessato per un periodo di tempo adeguato che consenta una presa di posizione prima della decisione dell'autorita' competente ((, e comunque per non meno di trenta giorni)).
 
-((2-bis. Il Ministero dell'ambiente e della tutela del territorio e del mare provvede, attraverso il proprio sito internet istituzionale, a rendere disponibili al pubblico in modo appropriato le informazioni ricevute da altri Stati dell'Unione europea, in attuazione degli obblighi recati dall'articolo 26, paragrafo 1, della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, circa le decisioni adottate in tali Stati su domande presentate per l'esercizio di attivita' di cui all'allegato VIII alla parte seconda del presente decreto))
+Il Ministero dell'ambiente e della tutela del territorio e del mare provvede, attraverso il proprio sito internet istituzionale, a rendere disponibili al pubblico in modo appropriato le informazioni ricevute da altri Stati dell'Unione europea, in attuazione degli obblighi recati dall'articolo 26, paragrafo 1, della direttiva 2010/75/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, circa le decisioni adottate in tali Stati su domande presentate per l'esercizio di attivita' di cui all'allegato VIII alla parte seconda del presente decreto.
+
+((Sulla base delle informazioni scambiate ai sensi dei precedenti commi, d'intesa con il Ministero degli affari esteri e della cooperazione internazionale e nel quadro dei rapporti bilaterali fra Stati, sono tenute consultazioni per garantire che le osservazioni dello Stato che potrebbe subire tali effetti significativi siano presentate all'autorita' competente dello Stato nel cui territorio e' stata presentata la domanda di autorizzazione, prima che tale autorita' adotti una decisione. L'autorita' competente non puo' concludere la procedura di autorizzazione senza tenere nel debito conto le eventuali osservazioni formulate, entro il termine fissato per la consultazione del pubblico interessato, dallo Stato che potrebbe subire tali effetti significativi.)) 
+ (40)
 
 -------------
                             AGGIORNAMENTO (40)
@@ -3054,27 +3918,32 @@ Il Ministero dell'ambiente e della tutela del territorio provvede, d'intesa con 
 
 ## Art. 33. — Oneri istruttori
 
-((112))
+Le tariffe da applicare ai proponenti, determinate sulla base del costo effettivo del servizio, per la copertura dei costi sopportati dall'autorita' competente per l'organizzazione e lo svolgimento delle attivita' istruttorie, di monitoraggio e controllo delle procedure di verifica di assoggettabilita' a VIA, di VIA e di VAS sono definite con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze. (112)
 
 Per le finalita' di cui al comma 1, le regioni e le province autonome di Trento e di Bolzano possono definire proprie modalita' di quantificazione e corresponsione degli oneri da porre in capo ai proponenti.
 
 Nelle more dei provvedimenti di cui ai commi 1 e 2, si continuano ad applicare le norme vigenti in materia.
 
-Le spese occorrenti per effettuare i rilievi, gli accertamenti ed i sopralluoghi necessari per l'istruttoria delle domande di autorizzazione integrata ambientale o delle domande di modifica di cui all'articolo 29-nonies o del riesame di cui all'articolo 29-octies e per i successivi controlli previsti dall'articolo 29-decies sono a carico del gestore. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico e con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono disciplinate le modalita', anche contabili, e le tariffe da applicare in relazione alle istruttorie e ai controlli previsti al Titolo III-bis della Parte Seconda, nonche' i compensi spettanti ai membri della Commissione istruttoria di cui all'articolo 8-bis. Il predetto decreto stabilisce altresi' le modalita' volte a garantire l'allineamento temporale tra gli introiti derivanti dalle tariffe e gli oneri derivanti dalle attivita' istruttorie e di controllo. Gli oneri per l'istruttoria e per i controlli sono quantificati in relazione alla complessita' delle attivita' svolte dall'autorita' competente e dall'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, sulla base delle categorie di attivita' condotte nell'installazione, del numero e della tipologia delle emissioni e delle componenti ambientali interessate, nonche' della eventuale presenza di sistemi di gestione ambientale registrati o certificati e delle spese di funzionamento della commissione di cui all'articolo 8-bis. Gli introiti derivanti dalle tariffe corrispondenti a tali oneri, posti a carico del gestore, sono utilizzati esclusivamente per le predette spese. A tale fine gli importi delle tariffe istruttorie vengono versati, per installazioni di cui all'Allegato XII alla Parte Seconda, all'entrata del bilancio dello Stato per essere integralmente riassegnati allo stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare. Con gli stessi criteri e modalita' di emanazione, le tariffe sono aggiornate almeno ogni due anni.
+Le spese occorrenti per effettuare i rilievi, gli accertamenti ed i sopralluoghi necessari per l'istruttoria delle domande di autorizzazione integrata ambientale o delle domande di modifica di cui all'articolo 29-nonies o del riesame di cui all'articolo 29-octies e per i successivi controlli previsti ((dagli articoli 29-septies, comma 2-bis, 29-decies, 29-undevicies)) sono a carico del gestore. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico e con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono disciplinate le modalita', anche contabili, e le tariffe da applicare in relazione alle istruttorie e ai controlli previsti al Titolo III-bis della Parte Seconda, nonche' i compensi spettanti ai membri della Commissione istruttoria di cui all'articolo 8-bis. Il predetto decreto stabilisce altresi' le modalita' volte a garantire l'allineamento temporale tra gli introiti derivanti dalle tariffe e gli oneri derivanti dalle attivita' istruttorie e di controllo. Gli oneri per l'istruttoria e per i controlli sono quantificati in relazione alla complessita' delle attivita' svolte dall'autorita' competente e dall'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, sulla base delle categorie di attivita' condotte nell'installazione, del numero e della tipologia delle emissioni e delle componenti ambientali interessate, nonche' della eventuale presenza di sistemi di gestione ambientale registrati o certificati e delle spese di funzionamento della commissione di cui all'articolo 8-bis. Gli introiti derivanti dalle tariffe corrispondenti a tali oneri, posti a carico del gestore, sono utilizzati esclusivamente per le predette spese. A tale fine gli importi delle tariffe istruttorie vengono versati, per installazioni di cui all'Allegato XII alla Parte Seconda, all'entrata del bilancio dello Stato per essere integralmente riassegnati allo stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare. Con gli stessi criteri e modalita' di emanazione, le tariffe sono aggiornate almeno ogni due anni.
 
 Nelle more del decreto di cui al comma 3-bis, resta fermo quanto stabilito dal decreto 24 aprile 2008, pubblicato nella Gazzetta Ufficiale del 22 settembre 2008.
 
-Al fine di garantire l'operativita' della Commissione di cui all'articolo 8-bis, nelle more dell'adozione del decreto di cui al comma 3-bis, e fino all'entrata in vigore del decreto di determinazione delle tariffe di cui al comma 1 del presente articolo, per le spese di funzionamento nonche' per il pagamento dei compensi spettanti ai componenti della predetta Commissione e' posto a carico del richiedente il versamento all'entrata del bilancio dello Stato di una somma forfetaria pari ad euro venticinquemila per ogni richiesta di autorizzazione integrata ambientale per impianti di competenza statale; la predetta somma e' riassegnata entro sessanta giorni, con decreto del Ministro dell'economia e delle finanze, e da apposito capitolo dello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare. Le somme di cui al presente comma si intendono versate a titolo di acconto, fermo restando l'obbligo del richiedente di corrispondere conguaglio in relazione all'eventuale differenza risultante a quanto stabilito dal decreto di determinazione delle tariffe, fissate per la copertura integrale del costo effettivo del servizio reso.
+((Le regioni e le province autonome di Trento e di Bolzano, nell'esercizio della propria autonomia amministrativa, provvedono con proprio provvedimento ad adeguare le tariffe e le modalita' di versamento, di cui ai decreti emanati ai sensi del comma 3-bis, da applicare alle istruttorie e alle attivita' di controllo di propria competenza, in considerazione delle specifiche realta' rilevate nel proprio territorio e degli effettivi costi unitari, dandone comunicazione al Ministero dell'ambiente e della sicurezza energetica. Sino alla emanazione del provvedimento di cui al primo periodo, continuano ad applicarsi le tariffe gia' vigenti nella regione o provincia autonoma.))
 
 -------------
                             AGGIORNAMENTO (40)
                             
  Il D.Lgs. 29 giugno 2010, n. 128 ha disposto (con l'art. 4, comma 2) che "Nel decreto legislativo 3 aprile 2006, n. 152, ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"". 
-                            ----------------
-                            AGGIORNAMENTO (112)
-                            
+ 
+----------------
+ 
+AGGIORNAMENTO (112) 
  Il D.Lgs. 16 giugno 2017, n. 104 ha disposto (con l'art. 23, comma 1) che "Le disposizioni del presente decreto si applicano ai procedimenti di verifica di assoggettabilita' a VIA e ai procedimenti di VIA avviati dal 16 maggio 2017". 
  Ha inoltre disposto (con l'art. 23, comma 2) che "I procedimenti di verifica di assoggettabilita' a VIA pendenti alla data del 16 maggio 2017, nonche' i procedimenti di VIA per i progetti per i quali alla medesima data risulti avviata la fase di consultazione di cui all'articolo 21 del decreto legislativo 3 aprile 2006, n. 152, ovvero sia stata presentata l'istanza di cui all'articolo 23 del medesimo decreto legislativo, restano disciplinati dalla normativa previgente".
+
+## Art. 33-bis. — (( (Risarcimento in caso di danno alla salute umana). ))
+
+
 
 ## Art. 34. — Norme tecniche, organizzative e integrative
 
@@ -3082,7 +3951,7 @@ COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
 COMMA ABROGATO DAL D.LGS. 16 GIUGNO 2017, N. 104.
 
-Il Governo, con apposita delibera del ((Comitato interministeriale per la transizione ecologica, su proposta del Ministro della transizione ecologica)), sentita la Conferenza permanente per i rapporti tra lo Stato le regioni e le province autonome, ed acquisito il parere delle associazioni ambientali munite di requisiti sostanziali omologhi a quelli previsti dall'articolo 13 della legge 8 luglio 1986, n. 349, provvede, con cadenza almeno triennale, all'aggiornamento della Strategia nazionale per lo sviluppo sostenibile di cui alla delibera del Comitato interministeriale per la programmazione economica del 2 agosto 2002.
+Il Governo, con apposita delibera del Comitato interministeriale per la transizione ecologica, su proposta del Ministro della transizione ecologica, sentita la Conferenza permanente per i rapporti tra lo Stato le regioni e le province autonome, ed acquisito il parere delle associazioni ambientali munite di requisiti sostanziali omologhi a quelli previsti dall'articolo 13 della legge 8 luglio 1986, n. 349, provvede, con cadenza almeno triennale, all'aggiornamento della Strategia nazionale per lo sviluppo sostenibile di cui alla delibera del Comitato interministeriale per la programmazione economica del 2 agosto 2002.
 
 Entro dodici mesi dalla delibera di aggiornamento della strategia nazionale di cui al comma 3, le regioni si dotano, attraverso adeguati processi informativi e partecipativi, senza oneri aggiuntivi a carico dei bilanci regionali, di una complessiva strategia di sviluppo sostenibile che sia coerente e definisca il contributo alla realizzazione degli obiettivi della strategia nazionale. Le strategie regionali indicano insieme al contributo della regione agli obiettivi nazionali, la strumentazione, le priorita', le azioni che si intendono intraprendere. In tale ambito le regioni assicurano unitarieta' all'attivita' di pianificazione. Le regioni promuovono l'attivita' delle amministrazioni locali che, anche attraverso i processi di Agenda 21 locale, si dotano di strumenti strategici coerenti e capaci di portare un contributo alla realizzazione degli obiettivi della strategia regionale.
 
@@ -3136,7 +4005,7 @@ Salvo quanto disposto dai commi 9-bis e 9-ter le modifiche agli allegati alla pa
 
 L'elenco riportato nell'allegato IX, ove necessario, e' modificato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dello sviluppo economico e del lavoro, della salute e delle politiche sociali, d'intesa con la Conferenza unificata istituita ai sensi del decreto legislativo 28 agosto 1997, n. 281. Con le stesse modalita', possono essere introdotte modifiche all'allegato XII, anche per assicurare il coordinamento tra le procedure di rilascio dell'autorizzazione integrata ambientale e quelle in materia di valutazione d'impatto ambientale.
 
-Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, previa comunicazione ai Ministri dello sviluppo economico, del lavoro e delle politiche sociali, della salute e delle politiche agricole, alimentari e forestali, si provvede al recepimento di direttive tecniche di modifica degli allegati VIII, X e XI e XII emanate dalla Commissione europea.
+Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, previa comunicazione ai Ministri dello sviluppo economico, del lavoro e delle politiche sociali, della salute e delle politiche agricole, alimentari e forestali, si provvede al recepimento di direttive tecniche di modifica ((degli allegati VIII, VIII bis, XI, XII e XII bis)) emanate dalla Commissione europea.
 
 ## Art. 35. — Disposizioni transitorie e finali
 
@@ -8917,6 +9786,14 @@ Nelle materie di competenza del Ministero delle politiche agricole alimentari e 
                                 
                             
                             
+                                a-bis)
+                                
+                                    
+                                        ((adozione, da parte delle organizzazioni di cui alla lettera a), di regole che assicurino la trasparenza e la correttezza procedurale e sostanziale delle decisioni di competenza degli organi di amministrazione, anche prevedendo obblighi di astensione in capo ai componenti gli organi medesimi che abbiano un interesse, per conto proprio o di terzi, in conflitto, attuale o potenziale, con quello dell'organizzazione;))
+                                    
+                                
+                            
+                            
                                 b)
                                 
                                     definizione in linea con la gerarchia dei rifiuti degli obiettivi di gestione dei rifiuti, volti a conseguire almeno gli obiettivi quantitativi rilevanti per il regime di responsabilita' estesa del produttore e per il raggiungimento degli obiettivi di cui al presente decreto ed alle direttive 94/62/CE, 2000/53/CE, 2006/66/CE e 2012/19/CE del Parlamento europeo e del Consiglio, e definiscono, ove opportuno, altri obiettivi quantitativi e/o qualitativi considerati rilevanti per il regime di responsabilita' estesa del produttore; 
@@ -9080,7 +9957,7 @@ La deroga non puo' essere utilizzata per ridurre la quota dei costi sostenuti da
                             
                                 e)
                                 
-                                    verifica la corretta attuazione delle previsioni del presente articolo ((e degli ulteriori requisiti di legge stabiliti per le diverse filiere)) per ciascun sistema istituito e per tutti i soggetti responsabili.
+                                    verifica la corretta attuazione delle previsioni del presente articolo e degli ulteriori requisiti di legge stabiliti per le diverse filiere per ciascun sistema istituito e per tutti i soggetti responsabili.
 
 Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare sono definite le modalita' di vigilanza e controllo di cui al comma 6.
 
@@ -10099,6 +10976,14 @@ Al fine di garantire il perseguimento delle finalita' di tutela ambientale secon
                                     nel rispetto delle norme che disciplinano l'imballaggio e l'etichettatura delle sostanze pericolose.
 
 Il deposito temporaneo prima della raccolta e' effettuato alle condizioni di cui ai commi 1 e 2 e non necessita di autorizzazione da parte dell'autorita' competente.
+
+## Art. 185-ter. — (( (Disciplina speciale per le terre e rocce da scavo qualificate come rifiuto ovvero prodotte in cantieri puntuali).))
+
+
+
+((Le terre e rocce da scavo prodotte in cantieri puntuali possono essere riutilizzate direttamente nel sito di produzione anche in assenza di preventiva caratterizzazione ambientale. Ai fini di cui al primo periodo, per cantiere puntuale si intende il cantiere in cui sono prodotte terre e rocce da scavo in quantita' non superiori a 20 metri cubi, calcolati dalle sezioni di progetto, e destinate al riutilizzo diretto nel medesimo sito di produzione. La sussistenza dei requisiti di cui al secondo periodo deve risultare dalla documentazione di esecuzione dei lavori.))
+
+((La disposizione di cui al comma 2, primo periodo, non si applica nel caso di terre e rocce da scavo contenenti calcestruzzo, bentonite, vetroresina, miscele cementizie, additivi e materie plastiche utilizzati per scavo meccanizzato o tradizionale, nonche' nel caso di terre e rocce da scavo provenienti da siti oggetto di procedimenti di bonifica ai sensi del titolo V della presente parte o dagli scavi realizzati al fine della rimozione di potenziali sorgenti di contaminazione.))
 
 ## Art. 186. — Terre e rocce da scavo
 
@@ -12654,7 +13539,7 @@ Ferma restando la valutazione delle eventuali responsabilita' ai sensi della nor
                             
                                 g)
                                 
-                                    le garanzie finanziarie richieste, che devono essere prestate solo al momento dell'avvio effettivo dell'esercizio dell'impianto; le garanzie finanziarie per la gestione della discarica, anche per la fase successiva alla sua chiusura, dovranno essere prestate conformemente a quanto diposto dall'articolo 14 del decreto legislativo 13 gennaio 2003, n. 36; (45) 
+                                    le garanzie finanziarie richieste, che devono essere prestate solo al momento dell'avvio effettivo dell'esercizio dell'impianto; le garanzie finanziarie per la gestione della discarica, anche per la fase successiva alla sua chiusura, dovranno essere prestate conformemente a quanto disposto dall'articolo 14 del decreto legislativo 13 gennaio 2003, n. 36. Per le societa' ammesse alla procedura di amministrazione straordinaria ai sensi del decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, ((...)) le garanzie finanziarie di cui alla presente lettera, comprese quelle riferite agli impianti di discarica ai sensi dell'articolo 14 del decreto legislativo n. 36 del 2003, possono essere prestate, per il periodo dell'amministrazione straordinaria e sino alla cessione a terzi del compendio aziendale, su base annuale e comunque per una durata non inferiore a un anno, anche qualora l'autorizzazione o il periodo di gestione autorizzato abbia durata superiore. La garanzia cosi' prestata e' considerata conforme ai requisiti di legge per il relativo periodo di efficacia, senza necessita' di ulteriori previsioni contrattuali riferite ai periodi successivi o alle modalita' di escussione. Resta fermo che, in ogni caso, nessuna attivita' di discarica puo' essere effettuata in mancanza della predetta garanzia finanziaria; 
 
                                 
                             
@@ -12703,7 +13588,7 @@ Per impianti di smaltimento o di recupero di rifiuti ricompresi in un'installazi
 
 Il controllo e l'autorizzazione delle operazioni di carico, scarico, trasbordo, deposito e maneggio di rifiuti in aree portuali sono disciplinati dalle specifiche disposizioni di cui alla legge 28 gennaio 1994, n. 84 e di cui al decreto legislativo 24 giugno 2003, n. 182 di attuazione della direttiva 2000/59/CE sui rifiuti prodotti sulle navi e dalle altre disposizioni previste in materia dalla normativa vigente. Nel caso di trasporto transfrontaliero di rifiuti, l'autorizzazione delle operazioni di imbarco e di sbarco non puo' essere rilasciata se il richiedente non dimostra di avere ottemperato agli adempimenti di cui all'articolo 193, comma 1, del presente decreto.
 
-Gli impianti mobili di smaltimento o di recupero, esclusi gli impianti mobili che effettuano la disidratazione dei fanghi generati da impianti di depurazione e reimmettono l'acqua in testa al processo depurativo presso il quale operano, ed esclusi i casi in cui si provveda alla sola riduzione volumetrica e separazione delle frazioni estranee, sono autorizzati, in via definitiva, dalla regione ove l'interessato ha la sede legale o la societa' straniera proprietaria dell'impianto ha la sede di rappresentanza. Per lo svolgimento delle singole campagne di attivita' sul territorio nazionale, l'interessato, almeno venti giorni prima dell'installazione dell'impianto, deve comunicare alla regione nel cui territorio si trova il sito prescelto le specifiche dettagliate relative alla campagna di attivita', allegando l'autorizzazione di cui al comma 1 e l'iscrizione all'Albo nazionale gestori ambientali, nonche' l'ulteriore documentazione richiesta. La regione puo' adottare prescrizioni integrative oppure puo' vietare l'attivita' con provvedi mento motivato qualora lo svolgimento della stessa nello specifico sito non sia compatibile con la tutela dell'ambiente o della salute pubblica. (127) ((218))
+Gli impianti mobili di smaltimento o di recupero, esclusi gli impianti mobili che effettuano la disidratazione dei fanghi generati da impianti di depurazione e reimmettono l'acqua in testa al processo depurativo presso il quale operano, ed esclusi i casi in cui si provveda alla sola riduzione volumetrica e separazione delle frazioni estranee, sono autorizzati, in via definitiva, dalla regione ove l'interessato ha la sede legale o la societa' straniera proprietaria dell'impianto ha la sede di rappresentanza. Per lo svolgimento delle singole campagne di attivita' sul territorio nazionale, l'interessato, almeno venti giorni prima dell'installazione dell'impianto, deve comunicare alla regione nel cui territorio si trova il sito prescelto le specifiche dettagliate relative alla campagna di attivita', allegando l'autorizzazione di cui al comma 1 e l'iscrizione all'Albo nazionale gestori ambientali, nonche' l'ulteriore documentazione richiesta. La regione puo' adottare prescrizioni integrative oppure puo' vietare l'attivita' con provvedi mento motivato qualora lo svolgimento della stessa nello specifico sito non sia compatibile con la tutela dell'ambiente o della salute pubblica. (127) (218)
 
 Le disposizioni di cui al presente articolo si applicano anche ai procedimenti in corso alla data di entrata in vigore della parte quarta del presente decreto, eccetto quelli per i quali sia completata la procedura di valutazione di impatto ambientale.
 
@@ -12768,15 +13653,11 @@ In caso di eventi incidenti sull'autorizzazione, questi sono comunicati, previo 
 
 Le procedure di cui al presente articolo si applicano anche per la realizzazione di varianti sostanziali in corso d'opera o di esercizio che comportino modifiche a seguito delle quali gli impianti non sono piu' conformi all'autorizzazione rilasciata.
 
-Alle utenze non domestiche che effettuano il compostaggio aerobico individuale per residui costituiti da sostanze naturali non pericolose prodotti nell'ambito delle attivita' agricole e vivaistiche e alle utenze domestiche che effettuano compostaggio aerobico individuale per i propri rifiuti organici da cucina, sfalci e potature da giardino e' applicata una riduzione della tariffa dovuta per la gestione dei rifiuti urbani.
+COMMA ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 147.
 
 COMMA ABROGATO DAL D.LGS. 3 DICEMBRE 2010, N. 205.
 
 -------------
-                            AGGIORNAMENTO (45)
-                            
- Il D.L. 26 novembre 2010, n. 196, convertito con modificazioni dalla L. 24 gennaio 2011, n. 1, ha disposto (con l'art. 3, comma 2-bis) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, e' ridotto del 50 per cento, per le imprese registrate ai sensi del regolamento (CE) n. 1221/2009 del Parlamento europeo e del Consiglio, del 25 novembre 2009 (Emas), e del 40 per cento, per quelle in possesso della certificazione ambientale ai sensi della norma UNI EN ISO 14001, l'importo delle garanzie finanziarie di cui all'articolo 208, comma 11, lettera g), del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni". 
-                            -------------
                             AGGIORNAMENTO (127)
                             
  Il D.L. 17 ottobre 2016, n. 189, convertito con modificazioni dalla L. 15 dicembre 2016, n. 229, come modificato dal D.L. 24 ottobre 2019, n. 123, ha disposto (con l'art. 28, comma 7-bis) che "Nel caso in cui nel sito temporaneo di deposito siano da effettuare operazioni di trattamento delle macerie con l'ausilio di impianti mobili, il termine di cui all'articolo 208, comma 15, secondo periodo, del decreto legislativo 3 aprile 2006, n. 152, e' ridotto a quindici giorni". 
@@ -13082,22 +13963,23 @@ COMMA ABROGATO DAL D.LGS. 3 DICEMBRE 2010, N. 205.
 1.
                         
                             
-                                Le autorizzazioni integrate ambientali rilasciate ai sensi del decreto legislativo 18 febbraio 2005, n. 59, sostituiscono ad ogni effetto, secondo le modalita' ivi previste:
+                                Le autorizzazioni integrate ambientali rilasciate ai sensi del ((titolo III-bis e del titolo III-ter della parte seconda)) sostituiscono ad ogni effetto, secondo le modalita' ivi previste: 
  
                             
                             
                                 a)
                                 
-                                    le autorizzazioni di cui al presente capo;
+                                    le autorizzazioni di cui al presente capo; 
 
                                 
                             
                             
                                 b)
                                 
-                                    la comunicazione di cui all'articolo 216, limitatamente alle attivita' non ricadenti nella categoria 5 dell'Allegato I del decreto legislativo 18 febbraio 2005, n. 59, che, se svolte in procedura semplificata, sono escluse dall'autorizzazione ambientale integrata, ferma restando la possibilita' di utilizzare successivamente le procedure semplificate previste dal capo V.
+                                    
+                                        ((i titoli all'esercizio di cui all'articolo 216.))
 
-((COMMA ABROGATO DAL D.LGS. 3 DICEMBRE 2010, N. 205)).
+COMMA ABROGATO DAL D.LGS. 3 DICEMBRE 2010, N. 205.
 
 ## - - CAPO V PROCEDURE SEMPLIFICATE
 
@@ -14228,15 +15110,19 @@ Il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro
 
 I produttori che non provvedono ai sensi dell'articolo 221, comma 3, lettere a) e c), costituiscono un Consorzio per ciascun materiale di imballaggio di cui all'allegato E della parte quarta del presente decreto, operante su tutto il territorio nazionale. Ai Consorzi possono partecipare i recuperatori, ed i riciclatori che non corrispondono alla categoria dei produttori, previo accordo con gli altri consorziati ed unitamente agli stessi.
 
-I consorzi di cui al comma 1 hanno personalita' giuridica di diritto privato senza fine di lucro e sono retti da uno statuto adottato in conformita' ad uno schema tipo, redatto dal Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro delle attivita' produttive, da pubblicare nella Gazzetta Ufficiale entro centottatta giorni dalla data di entrata in vigore della parte quarta del presente decreto, conformemente ai principi del presente decreto e, in particolare, a quelli di efficienza, efficacia, economicita' e trasparenza, nonche' di libera concorrenza nelle attivita' di settore. Lo statuto adottato da ciascun consorzio e' trasmesso entro quindici giorni al Ministro dell'ambiente e della tutela del territorio e del mare che lo approva nei successivi novanta giorni, con suo provvedimento adottato di concerto con il Ministro delle attivita' produttive. Ove il Ministro ritenga di non approvare lo statuto trasmesso, per motivi di legittimita' o di merito, lo ritrasmette al consorzio richiedente con le r elative osservazioni. ((PERIODO SOPPRESSO DAL D.LGS. 23 DICMEBRE 2022, N. 213)). Nei consigli di amministrazione dei consorzi il numero dei consiglieri di amministrazione in rappresentanza dei riciclatori e dei recuperatori deve essere uguale a quello dei consiglieri di amministrazione in rappresentanza dei produttori di materie prime di imballaggio. ((PERIODO SOPPRESSO DAL D.LGS. 23 DICEMBRE 2022, N. 213)). Qualora i Consorzi non ottemperino nei termini prescritti, le modifiche allo statuto sono apportate con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico. Il decreto ministeriale di approvazione dello statuto dei consorzi e' pubblicato nella Gazzetta Ufficiale. (10)
+I consorzi di cui al comma 1 hanno personalita' giuridica di diritto privato senza fine di lucro e sono retti da uno statuto adottato in conformita' ad uno schema tipo, redatto dal Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro delle attivita' produttive, da pubblicare nella Gazzetta Ufficiale entro centottatta giorni dalla data di entrata in vigore della parte quarta del presente decreto, conformemente ai principi del presente decreto e, in particolare, a quelli di efficienza, efficacia, economicita' e trasparenza, nonche' di libera concorrenza nelle attivita' di settore. Lo statuto adottato da ciascun consorzio e' trasmesso entro quindici giorni al Ministro dell'ambiente e della tutela del territorio e del mare che lo approva nei successivi novanta giorni, con suo provvedimento adottato di concerto con il Ministro delle attivita' produttive. Ove il Ministro ritenga di non approvare lo statuto trasmesso, per motivi di legittimita' o di merito, lo ritrasmette al consorzio richiedente con le r elative osservazioni. PERIODO SOPPRESSO DAL D.LGS. 23 DICMEBRE 2022, N. 213. Nei consigli di amministrazione dei consorzi il numero dei consiglieri di amministrazione in rappresentanza dei riciclatori e dei recuperatori deve essere uguale a quello dei consiglieri di amministrazione in rappresentanza dei produttori di materie prime di imballaggio. PERIODO SOPPRESSO DAL D.LGS. 23 DICEMBRE 2022, N. 213.
+Qualora i Consorzi non ottemperino nei termini prescritti, le modifiche allo statuto sono apportate con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico. Il decreto ministeriale di approvazione dello statuto dei consorzi e' pubblicato nella Gazzetta Ufficiale. (10)
 
-I consorzi di cui al comma 1 ((...)) sono tenuti a garantire l'equilibrio della propria gestione finanziaria. A tal fine i mezzi finanziari per il funzionamento dei predetti consorzi derivano dai contributi dei consorziati e dai versamenti effettuati dal Consorzio nazionale imballaggi ai sensi dell'articolo 224, comma 3, lettera h), secondo le modalita' indicate dall'articolo 224, comma 8, dai proventi della cessione, nel rispetto dei principi della concorrenza e della corretta gestione ambientale, degli imballaggi e dei rifiuti di imballaggio ripresi, raccolti o ritirati, nonche' da altri eventuali proventi e contributi di consorziati o di terzi.
+((La partecipazione agli organi di amministrazione dei consorzi di cui al comma 1 da parte dei rappresentanti di imprese che svolgono attivita' di raccolta, selezione, recupero o riciclaggio e' disciplinata dagli statuti dei consorzi medesimi mediante la previsione di misure atte a prevenire situazioni di conflitto di interesse, nonche' di specifici obblighi di dichiarazione e astensione in caso di conflitti di interesse, anche solo potenziali.
+I rappresentanti di cui al primo periodo del presente comma che partecipano agli organi di amministrazione dei consorzi di cui al comma 1 si astengono dall'assunzione di qualsiasi decisione relativa all'affidamento di servizi rientranti nell'oggetto dell'impresa di cui sono espressione.))
 
-((4. I consorzi di cui al comma 1 sono tenuti a presentare annualmente al Ministero dell'ambiente e della sicurezza energetica e al CONAI, la documentazione di cui all'articolo 237, comma 6. Il programma pluriennale di prevenzione della produzione di rifiuti di imballaggio e il piano specifico di prevenzione e gestione relativo all'anno solare successivo sono inseriti nel programma generale di prevenzione e gestione di cui all'articolo 225))
+I consorzi di cui al comma 1 sono tenuti a garantire l'equilibrio della propria gestione finanziaria. A tal fine i mezzi finanziari per il funzionamento dei predetti consorzi derivano dai contributi dei consorziati e dai versamenti effettuati dal Consorzio nazionale imballaggi ai sensi dell'articolo 224, comma 3, lettera h), secondo le modalita' indicate dall'articolo 224, comma 8, dai proventi della cessione, nel rispetto dei principi della concorrenza e della corretta gestione ambientale, degli imballaggi e dei rifiuti di imballaggio ripresi, raccolti o ritirati, nonche' da altri eventuali proventi e contributi di consorziati o di terzi.
 
-((COMMA ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 213)).
+I consorzi di cui al comma 1 sono tenuti a presentare annualmente al Ministero dell'ambiente e della sicurezza energetica e al CONAI, la documentazione di cui all'articolo 237, comma 6. Il programma pluriennale di prevenzione della produzione di rifiuti di imballaggio e il piano specifico di prevenzione e gestione relativo all'anno solare successivo sono inseriti nel programma generale di prevenzione e gestione di cui all'articolo 225.
 
-((COMMA ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 213)).
+COMMA ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 213.
+
+COMMA ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 213.
 
 ---------------
                             AGGIORNAMENTO (10)
@@ -14595,22 +15481,62 @@ Gli organismi accreditati certificano la presenza del contenuto minimo di materi
 
 Al fine di realizzare attivita' di studio e verifica tecnica e monitoraggio da parte dei competenti istituti di ricerca, e' istituito un apposito Fondo presso il Ministero dell'ambiente e della tutela del territorio e del mare con una dotazione di euro 100.000 a decorrere dall'anno 2019. Con successivo decreto del Ministro dell'ambiente e della tutela del territorio e del mare, da emanare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate le specifiche modalita' di utilizzazione del Fondo.
 
-## Art. 226-quinquies. — (( (Obbligo di compostabilita' per determinate tipologie di imballaggio). ))
+## Art. 226-quinquies. — Obbligo di compostabilita' per determinate tipologie di imballaggio
 
 
 
 1.
                         
                             
+                                I seguenti imballaggi sono messi a disposizione per la prima volta sul mercato nazionale, oltre che nei formati e per gli utilizzi consentiti dal regolamento (UE) 2025/40 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, qualora certificati ((, da organismi accreditati,)) come biodegradabili e compostabili in conformita' alla norma UNI EN 13432 o a standard di compostabilita' equivalenti riconosciuti a livello europeo: 
+ 
+                            
+                            
+                                a)
                                 
-                                    ((I seguenti imballaggi sono messi a disposizione per la prima volta sul mercato nazionale, oltre che nei formati e per gli utilizzi consentiti dal regolamento (UE) 2025/40 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, qualora certificati da organismi accreditati come biodegradabili e compostabili in conformita' alla norma UNI EN 13432 o a standard di compostabilita' equivalenti riconosciuti a livello europeo:))
+                                    imballaggi di plastica monouso per il confezionamento di meno di 1,5 kg di prodotti ortofrutticoli freschi preconfezionati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    imballaggi di plastica monouso di alimenti e bevande, riempiti e destinati al consumo nei locali del settore alberghiero, della ristorazione e del catering; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    imballaggi di plastica monouso del settore alberghiero, della ristorazione e del catering contenenti porzioni individuali di condimenti, ivi incluse conserve, salse, panna da caffe' e zucchero, ad eccezione degli: 
+ 1) imballaggi forniti insieme ad alimenti pronti da asporto destinati al consumo immediato senza necessita' di ulteriori preparazioni; 
+ 2) imballaggi necessari per garantire la sicurezza e l'igiene in strutture in cui vige un requisito medico di cura individuale, quali ospedali, cliniche o residenze sanitarie assistenziali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    imballaggi flessibili monouso per cosmetici e prodotti per l'igiene per l'utilizzo nel settore ricettivo, come descritti nella classificazione delle attivita' economiche ATECO 2025, destinati esclusivamente a una prenotazione individuale e a essere smaltiti prima dell'arrivo dell'ospite successivo ((, a condizione che sia certificato che il prodotto contenuto sia biodegradabile e compostabile, e quindi compatibile con i processi di compostaggio)).
+
+((Fatta eccezione per quanto previsto al comma 3 del presente articolo, gli obblighi di cui al comma 1 non si applicano agli imballaggi di cui alle lettere a) e c), numero 2), del medesimo comma 1, alle condizioni stabilite dall'allegato V, punti 2 e 4, del regolamento (UE) 2025/40, nonche' agli imballaggi di cui alla lettera b) del suddetto comma 1, alle condizioni stabilite dal paragrafo 4 dell'articolo 25 del medesimo regolamento (UE) 2025/40)) .
+
+2-bis.
+                        
+                            
+                                
+                                    ((Nelle more dell'attuazione degli orientamenti della Commissione europea di cui all'articolo 25, paragrafo 6, del regolamento (UE) 2025/40, gli obblighi di cui al comma 1 del presente articolo non si applicano altresi' agli imballaggi di cui al medesimo comma 1, lettera a), contenenti i seguenti prodotti ortofrutticoli freschi preconfezionati:))
                                 
                             
                             
                                 a)
                                 
                                     
-                                        ((imballaggi di plastica monouso per il confezionamento di meno di 1,5 kg di prodotti ortofrutticoli freschi preconfezionati;))
+                                        ((frutta: 
+ 1) drupacee: ciliegie, albicocche, pesche, nettarine e susine; 
+ 2) bacche e piccoli frutti: uva da tavola, mini-kiwi (kiwiberry), fragole, lamponi, more, ribes e mirtilli; 
+ 3) frutti con buccia: kiwi, frutti della passione, Ficus carica delicatissimi, fichi d'India, pitaya e avocado; 
+ 4) pomacee: pere e mele allo stadio di maturazione per il consumo; 5) cachi;))
                                     
                                 
                             
@@ -14618,7 +15544,14 @@ Al fine di realizzare attivita' di studio e verifica tecnica e monitoraggio da p
                                 b)
                                 
                                     
-                                        ((imballaggi di plastica monouso di alimenti e bevande, riempiti e destinati al consumo nei locali del settore alberghiero, della ristorazione e del catering;))
+                                        ((ortaggi: 
+ 1) ortaggi a foglia, erbe e fiori edibili: lattughe, scarole, indivie belghe, rucola, spinaci, crescione, valerianella, germogli e giovani getti, colture baby leaf; 
+ 2) brassicacee, escluse le radici di brassicacee: broccoli, cavolfiori, cavoletti di Bruxelles e cavoli a foglia; 
+ 3) ortaggi da frutto: pomodori, peperoni, melanzane, cetrioli, cetriolini e zucchine; 
+ 4) leguminose da orto: fagiolini con baccello; 
+ 5) ortaggi a radice e tubero: patate, ravanelli e carote; 
+ 6) ortaggi a fusto: asparagi, rabarbaro e porri; 
+ 7) ortaggi di piccola pezzatura ad elevata fragilita', inclusi pomodorini e mini-cetrioli;))
                                     
                                 
                             
@@ -14626,9 +15559,7 @@ Al fine di realizzare attivita' di studio e verifica tecnica e monitoraggio da p
                                 c)
                                 
                                     
-                                        ((imballaggi di plastica monouso del settore alberghiero, della ristorazione e del catering contenenti porzioni individuali di condimenti, ivi incluse conserve, salse, panna da caffe' e zucchero, ad eccezione degli:)) 
- 1) ((imballaggi forniti insieme ad alimenti pronti da asporto destinati al consumo immediato senza necessita' di ulteriori preparazioni;)) 
- 2) ((imballaggi necessari per garantire la sicurezza e l'igiene in strutture in cui vige un requisito medico di cura individuale, quali ospedali, cliniche o residenze sanitarie assistenziali;))
+                                        ((erbe aromatiche fresche;))
                                     
                                 
                             
@@ -14636,13 +15567,19 @@ Al fine di realizzare attivita' di studio e verifica tecnica e monitoraggio da p
                                 d)
                                 
                                     
-                                        ((imballaggi flessibili monouso per cosmetici e prodotti per l'igiene per l'utilizzo nel settore ricettivo, come descritti nella classificazione delle attivita' economiche ATECO 2025, destinati esclusivamente a una prenotazione individuale e a essere smaltiti prima dell'arrivo dell'ospite successivo.))
+                                        ((funghi coltivati;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((frutta e verdura di IV gamma pronta al consumo)).
 
-((Fatta eccezione per quanto previsto al comma 3 del presente articolo, le esenzioni di cui all'articolo 25, paragrafo 4, del regolamento (UE) 2025/40 si applicano agli imballaggi di cui alle lettere a), b) e c), numero 2), del comma 1 del presente articolo, alle condizioni stabilite dal medesimo paragrafo 4 dell'articolo 25, nonche' dall'allegato V del regolamento (UE) 2025/40.))
+Resta fermo, per il caso in cui gli imballaggi di cui alle lettere a) e b) del comma 1 del presente articolo consistano nei prodotti di plastica monouso di cui al numero 3) della parte B dell'allegato al decreto legislativo 8 novembre 2021, n. 196, il divieto di cui all'articolo 5, comma 1, del medesimo decreto.
 
-((Resta fermo, per il caso in cui gli imballaggi di cui alle lettere a) e b) del comma 1 del presente articolo consistano nei prodotti di plastica monouso di cui al numero 3) della parte B dell'allegato al decreto legislativo 8 novembre 2021, n. 196, il divieto di cui all'articolo 5, comma 1, del medesimo decreto.))
-
-((Il comma 1 del presente articolo non pregiudica il rispetto degli obblighi di conformita' alla normativa sull'utilizzo dei materiali destinati al contatto con gli alimenti adottata in attuazione del regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio, del 27 ottobre 2004, del regolamento (UE) n. 10/2011 della Commissione, del 14 gennaio 2011, e del regolamento (CE) n. 2023/2006 della Commissione, del 22 dicembre 2006, nonche' delle previsioni sulla gestione dei rifiuti di cui al comma 6 dell'articolo 182-ter del presente decreto.))
+Il comma 1 del presente articolo non pregiudica il rispetto degli obblighi di conformita' alla normativa sull'utilizzo dei materiali destinati al contatto con gli alimenti adottata in attuazione del regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio, del 27 ottobre 2004, del regolamento (UE) n. 10/2011 della Commissione, del 14 gennaio 2011, e del regolamento (CE) n. 2023/2006 della Commissione, del 22 dicembre 2006, nonche' delle previsioni sulla gestione dei rifiuti di cui al comma 6 dell'articolo 182-ter del presente decreto.
 
 ## - - TITOLO III GESTIONE DI PARTICOLARI CATEGORIE DI RIFIUTI
 
@@ -15340,9 +16277,7 @@ Nella nozione di impianto di incenerimento si intendono compresi: il sito e tutt
  2.5) rifiuti di legno, ad eccezione di quelli che possono contenere composti organici alogenati o metalli pesanti, ottenuti a seguito di un trattamento o di rivestimento inclusi in particolare i rifiuti di legno di questo genere derivanti dai rifiuti edilizi e di demolizione; 
  t) 'autorizzazione': la decisione o piu' decisioni scritte, emanate dall'autorita' competente ai fini di autorizzare la realizzazione e l'esercizio degli impianti di cui alle lettere b) e c), in conformita' a quanto previsto nel presente titolo.
 
-## Art. 237-quater. — (( (Ambito di applicazione ed esclusioni).))
-
-((
+## Art. 237-quater. — (Ambito di applicazione ed esclusioni)
 
 Il presente titolo si applica agli impianti di incenerimento e agli impianti di coincenerimento dei rifiuti solidi o liquidi.
 
@@ -15355,8 +16290,11 @@ Il presente titolo si applica agli impianti di incenerimento e agli impianti di 
                             
                                 a)
                                 
-                                    gli impianti di gassificazione o di pirolisi, se i gas prodotti da siffatto trattamento termico dei rifiuti sono purificati in misura tale da non costituire piu' rifiuti prima del loro incenerimento e da poter provocare emissioni non superiori a quelle derivanti dalla combustione di gas naturale; 
-
+                                    
+                                        ((gli impianti di gassificazione o di pirolisi di rifiuti, se i gas o i liquidi prodotti da siffatto trattamento termico dei rifiuti sono trattati prima del loro incenerimento in modo tale che: 
+ 1) l'incenerimento provoca emissioni inferiori rispetto a quelle derivanti dalla combustione dei combustibili meno inquinanti disponibili sul mercato che potrebbero essere utilizzati nell'installazione; 
+ 2) per le emissioni diverse dagli ossidi di azoto, dagli ossidi di zolfo e dalle polveri, l'incenerimento non provoca emissioni superiori rispetto a quelle derivanti dall'incenerimento o dal coincenerimento dei rifiuti;))
+                                    
                                 
                             
                             
@@ -15375,11 +16313,7 @@ Il presente titolo si applica agli impianti di incenerimento e agli impianti di 
                                 
                                     impianti sperimentali utilizzati a fini di ricerca, sviluppo e sperimentazione per migliorare il processo di incenerimento che trattano meno di 50 t di rifiuti all'anno.
 
-))
-
-## Art. 237-quinquies. — (( (Domanda di autorizzazione).))
-
-((
+## Art. 237-quinquies. — (Domanda di autorizzazione)
 
 1.
                         
@@ -15440,7 +16374,7 @@ Il presente titolo si applica agli impianti di incenerimento e agli impianti di 
 
 Per gli impianti di produzione di energia elettrica tramite coincenerimento, per cui il produttore fornisca documentazione atta a dimostrare che la producibilita' imputabile a fonti rinnovabili, per il quinquennio successivo alla data prevista di entrata in esercizio dell'impianto, sia superiore al 50 per cento della producibilita' complessiva di energia elettrica, si applica il procedimento di cui all'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387.
 
-))
+((Al fine di ridurre gli oneri amministrativi per gli operatori e le autorita' competenti e favorire l'accesso e la partecipazione del pubblico alle procedure autorizzative, le autorita' competenti provvedono ad attuare, entro il 31 dicembre 2035, procedure elettroniche di autorizzazione attraverso l'uso delle tecnologie dell'informazione e della comunicazione.))
 
 ## Art. 237-sexies. — (Contenuto dell'autorizzazione)
 
@@ -15820,23 +16754,56 @@ Il sito dell'impianto di incenerimento dei rifiuti e il sito dell'impianto di co
 
 E' prevista una capacita' di stoccaggio per le acque piovane contaminate che defluiscano dal sito dell'impianto di incenerimento dei rifiuti o dal sito dell'impianto di coincenerimento o per l'acqua contaminata derivante da spandimenti o da operazioni di estinzione di incendi. La capacita' di stoccaggio deve essere sufficiente per garantire che tali acque possano, se necessario, essere analizzate e, se necessario, trattate prima dello scarico.
 
-## Art. 237-quaterdecies. — (( (Campionamento ed analisi delle emissioni in atmosfera degli impianti di incenerimento e di coincenerimento).))
+## Art. 237-quaterdecies. — (Campionamento ed analisi delle emissioni in atmosfera degli impianti di incenerimento e di coincenerimento)
 
-((1. I metodi di campionamento, analisi e valutazione delle emissioni in atmosfera, nonche' le procedure di acquisizione, validazione, elaborazione ed archiviazione dei dati, sono fissati ed aggiornati ai sensi della lettera C dell'Allegato 1 e della lettera C dell'Allegato 2 al presente Titolo, per quanto non previsto all'Allegato VI alla Parte Quinta. 
- 2. I valori limite di emissione degli impianti di incenerimento e coincenerimento si intendono rispettati se conformi rispettivamente a quanto previsto all'Allegato 1, paragrafo C, punto 1, e all'Allegato 2, paragrafo C, punto 1. 
- 3. Negli impianti di incenerimento e in quelli di coincenerimento devono essere misurate e registrate in continuo nell'effluente gassoso le concentrazioni di CO, NOx, SO2, polveri totali, TOC, HCl, HF e NH3. L'autorita' competente puo' autorizzare che le misurazioni in continuo siano sostituite da misurazioni periodiche di HCl, HF ed SO2, se il gestore dimostra che le emissioni di tali inquinanti non possono in nessun caso essere superiori ai valori limite di emissione stabiliti. La misurazione in continuo di acido fluoridrico (HF) puo' essere sostituita da misurazioni periodiche se l'impianto adotta sistemi di trattamento dell'acido cloridrico (HCl) nell'effluente gassoso che garantiscano il rispetto del valore limite di emissione relativo a tale sostanza. 
- 4. L'autorita' competente puo' decidere di non imporre misurazioni in continuo per NOx e puo' prescrivere le misurazioni periodiche stabilite al comma 5, negli impianti esistenti di incenerimento o coincenerimento dei rifiuti aventi capacita' nominale inferiore a 6t/ora se il gestore puo' dimostare, sulla base di informazioni relative alla qualita' dei rifiuti in questione, delle tecnologie utilizzate e dei risultati del monitoraggio delle emissioni, che in nessuna circostanza le emissioni di NOx possono essere superiori al valore limite di emissione prescritto. 
- 5. Devono inoltre essere misurati e registrati in continuo il tenore volumetrico di ossigeno, la temperatura, la pressione, il tenore di vapore acqueo e la portata volumetrica nell'effluente gassoso. La misurazione in continuo del tenore di vapore acqueo non e' richiesta se l'effluente gassoso campionato viene essiccato prima dell'analisi. 
- 6. Deve essere inoltre misurata e registrata in continuo la temperatura dei gas vicino alla parete interna o in altro punto rappresentativo della camera di combustione, secondo quanto autorizzato dall'autorita' competente. 
- 7. Devono essere misurate con cadenza almeno quadrimestrale le sostanze di cui all'Allegato 1, paragrafo A, punti 3 e 4, nonche' gli altri inquinanti, di cui al precedente comma 2, per i quali l'autorita' competente abbia prescritto misurazioni periodiche; per i primi dodici mesi di funzionamento dell'impianto, le predette sostanze devono essere misurate almeno ogni tre mesi. 
- 8. All'atto della messa in esercizio dell'impianto, e successivamente su motivata richiesta dell'autorita' competente, devono essere controllati nelle piu' gravose condizioni di funzionamento i seguenti parametri relativi ai gas prodotti, individuati agli articoli 237-octies e 237-nonies: 
- a) tempo di permanenza; 
- b) temperatura minima; 
- c) tenore di ossigeno. 
- 9. Gli impianti di coincenerimento devono assicurare inoltre la misurazione e registrazione della quantita' di rifiuti e di combustibile alimentato a ciascun forno o altra apparecchiatura. 
- 10. Tutti i risultati delle misurazioni sono registrati, elaborati e presentati all'autorita' competente in modo da consentirle di verificare l'osservanza delle condizioni di funzionamento previste e dei valori limite di emissione stabiliti nell'autorizzazione, secondo le procedure fissate dall'autorita' che ha rilasciato la stessa. 
- 11. Qualora dalle misurazioni eseguite risulti che i valori limite di emissione in atmosfera stabiliti dal presente articolo sono superati, il gestore provvede a informarne senza indugio l'autorita' competente e l'agenzia regionale o provinciale per la protezione dell'ambiente, fermo restando quanto previsto all'articolo 237-octiesdecies. 
- 12. La corretta installazione ed il funzionamento dei dispositivi automatici di misurazione delle emissioni gassose sono sottoposti a controllo da parte dell'autorita' competente al rilascio dell'autorizzazione. La taratura di detti dispositivi deve essere verificata, con metodo parallelo di riferimento, con cadenza almeno triennale.))
+I metodi di campionamento, analisi e valutazione delle emissioni in atmosfera, nonche' le procedure di acquisizione, validazione, elaborazione ed archiviazione dei dati, sono fissati ed aggiornati ai sensi della lettera C dell'Allegato 1 e della lettera C dell'Allegato 2 al presente Titolo, per quanto non previsto all'Allegato VI alla Parte Quinta. ((Le emissioni nell'atmosfera derivanti dagli impianti di incenerimento e coincenerimento dei rifiuti sono monitorate anche in condizioni di esercizio diverse da quelle normali. Le emissioni durante le fasi di avvio e di chiusura, quando non sono inceneriti rifiuti, comprese le emissioni di PCDD/F e PCB diossina-simili, sono stimate sulla base di campagne di misurazione effettuate a intervalli regolari, ad esempio ogni tre anni, durante le operazioni di avvio o di arresto pianificate. Le emissioni di PCDD/F e PCB diossina-simili sono per quanto possibile evitate o ridotte al minimo.))
+
+((Le autorita' competenti assicurano che il controllo delle emissioni sia effettuato conformemente a quanto indicato all'Allegato 1 al presente Titolo.))
+
+I valori limite di emissione degli impianti di incenerimento e coincenerimento si intendono rispettati se conformi rispettivamente a quanto previsto all'Allegato 1, paragrafo C, punto 1, e all'Allegato 2, paragrafo C, punto 1.
+
+Negli impianti di incenerimento e in quelli di coincenerimento devono essere misurate e registrate in continuo nell'effluente gassoso le concentrazioni di CO, NOx, SO2, polveri totali, TOC, HCl, HF e NH3. L'autorita' competente puo' autorizzare che le misurazioni in continuo siano sostituite da misurazioni periodiche di HCl, HF ed SO2, se il gestore dimostra che le emissioni di tali inquinanti non possono in nessun caso essere superiori ai valori limite di emissione stabiliti. La misurazione in continuo di acido fluoridrico (HF) puo' essere sostituita da misurazioni periodiche se l'impianto adotta sistemi di trattamento dell'acido cloridrico (HCl) nell'effluente gassoso che garantiscano il rispetto del valore limite di emissione relativo a tale sostanza.
+
+L'autorita' competente puo' decidere di non imporre misurazioni in continuo per NOx e puo' prescrivere le misurazioni periodiche stabilite al comma 5, negli impianti esistenti di incenerimento o coincenerimento dei rifiuti aventi capacita' nominale inferiore a 6t/ora se il gestore puo' dimostare, sulla base di informazioni relative alla qualita' dei rifiuti in questione, delle tecnologie utilizzate e dei risultati del monitoraggio delle emissioni, che in nessuna circostanza le emissioni di NOx possono essere superiori al valore limite di emissione prescritto.
+
+Devono inoltre essere misurati e registrati in continuo il tenore volumetrico di ossigeno, la temperatura, la pressione, il tenore di vapore acqueo e la portata volumetrica nell'effluente gassoso. La misurazione in continuo del tenore di vapore acqueo non e' richiesta se l'effluente gassoso campionato viene essiccato prima dell'analisi.
+
+Deve essere inoltre misurata e registrata in continuo la temperatura dei gas vicino alla parete interna o in altro punto rappresentativo della camera di combustione, secondo quanto autorizzato dall'autorita' competente.
+
+Devono essere misurate con cadenza almeno quadrimestrale le sostanze di cui all'Allegato 1, paragrafo A, punti 3 e 4, nonche' gli altri inquinanti, di cui al precedente comma 2, per i quali l'autorita' competente abbia prescritto misurazioni periodiche; per i primi dodici mesi di funzionamento dell'impianto, le predette sostanze devono essere misurate almeno ogni tre mesi.
+
+8.
+                        
+                            
+                                All'atto della messa in esercizio dell'impianto, e successivamente su motivata richiesta dell'autorita' competente, devono essere controllati nelle piu' gravose condizioni di funzionamento i seguenti parametri relativi ai gas prodotti, individuati agli articoli 237-octies e 237-nonies: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tempo di permanenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    temperatura minima; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tenore di ossigeno.
+
+Gli impianti di coincenerimento devono assicurare inoltre la misurazione e registrazione della quantita' di rifiuti e di combustibile alimentato a ciascun forno o altra apparecchiatura.
+
+Tutti i risultati delle misurazioni sono registrati, elaborati e presentati all'autorita' competente in modo da consentirle di verificare l'osservanza delle condizioni di funzionamento previste e dei valori limite di emissione stabiliti nell'autorizzazione, secondo le procedure fissate dall'autorita' che ha rilasciato la stessa.
+
+Qualora dalle misurazioni eseguite risulti che i valori limite di emissione in atmosfera stabiliti dal presente articolo sono superati, il gestore provvede a informarne senza indugio l'autorita' competente e l'agenzia regionale o provinciale per la protezione dell'ambiente, fermo restando quanto previsto all'articolo 237-octiesdecies.
+
+La corretta installazione ed il funzionamento dei dispositivi automatici di misurazione delle emissioni gassose sono sottoposti a controllo da parte dell'autorita' competente al rilascio dell'autorizzazione. La taratura di detti dispositivi deve essere verificata, con metodo parallelo di riferimento, con cadenza almeno triennale.
 
 ## Art. 237-quindecies. — (( (Controllo e sorveglianza delle emissioni nei corpi idrici).))
 
@@ -15920,43 +16887,9 @@ Il proprietario o il gestore degli impianti sono tenuti a fornire tutte le infor
 
 ## - - TITOLO IV TARIFFA PER LA GESTIONE DEI RIFIUTI URBANI
 
-## Art. 238. — Tariffa per la gestione dei rifiuti urbani
+## Art. 238. — (( (Corrispettivi dovuti per il conferimento di rifiuti al servizio pubblico.))
 
-Chiunque possegga o detenga a qualsiasi titolo locali, o aree scoperte ad uso privato o pubblico non costituenti accessorio o pertinenza dei locali medesimi, a qualsiasi uso adibiti, esistenti nelle zone del territorio comunale, che producano rifiuti urbani, e' tenuto al pagamento di una tariffa. La tariffa costituisce il corrispettivo per lo svolgimento del servizio di raccolta, recupero e smaltimento dei rifiuti solidi urbani e ricomprende anche i costi indicati dall'articolo 15 del decreto legislativo 13 gennaio 2003, n. 
-36. La tariffa di cui all'articolo 49 del decreto legislativo 5 febbraio 1997, n. 22, e' soppressa a decorrere dall'entrata in vigore del presente articolo, salvo quanto previsto dal comma 11.
 
-La tariffa per la gestione dei rifiuti e' commisurata alle quantita' e qualita' medie ordinarie di rifiuti prodotti per unita' di superficie, in relazione agli usi e alla tipologia di attivita' svolte, sulla base di parametri, determinati con il regolamento di cui al comma 6, che tengano anche conto di indici reddituali articolati per fasce di utenza e territoriali.
-
-La tariffa e' determinata, entro tre mesi dalla data di entrata in vigore del decreto di cui al comma 6, dalle Autorita' d'ambito ed e' applicata e riscossa dai soggetti affidatari del servizio di gestione integrata sulla base dei criteri fissati dal regolamento di cui al comma 6. Nella determinazione della tariffa e' prevista la copertura anche di costi accessori relativi alla gestione dei rifiuti urbani quali, ad esempio, le spese di spazzamento delle strade.
-Qualora detti costi vengano coperti con la tariffa cio' deve essere evidenziato nei piani finanziari e nei bilanci dei soggetti affidatari del servizio.
-
-La tariffa e' composta da una quota determinata in relazione alle componenti essenziali del costo del servizio, riferite in particolare agli investimenti per le opere ed ai relativi ammortamenti, nonche' da una quota rapportata alle quantita' di rifiuti conferiti, al servizio fornito e all'entita' dei costi di gestione, in modo che sia assicurata la copertura integrale dei costi di investimento e di esercizio.
-
-Le Autorita' d'ambito approvano e presentano all'Autorita' di cui all'articolo 207 il piano finanziario e la relativa relazione redatta dal soggetto affidatario del servizio di gestione integrata.
-Entro quattro anni dalla data di entrata in vigore del regolamento di cui al comma 6, dovra' essere gradualmente assicurata l'integrale copertura dei costi.
-
-Il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro delle attivita' produttive, sentiti la Conferenza Stato regioni e le province autonome di Trento e di Bolzano, le rappresentanze qualificate degli interessi economici e sociali presenti nel Consiglio economico e sociale per le politiche ambientali (CESPA) e i soggetti interessati, disciplina, con apposito regolamento da emanarsi entro sei mesi dalla data di entrata in vigore della parte quarta del presente decreto e nel rispetto delle disposizioni di cui al presente articolo, i criteri generali sulla base dei quali vengono definite le componenti dei costi e viene determinata la tariffa, anche con riferimento alle agevolazioni di cui al comma 7, garantendo comunque l'assenza di oneri per le autorita' interessate.
-
-Nella determinazione della tariffa possono essere previste agevolazioni per le utenze domestiche e per quelle adibite ad uso stagionale o non continuativo, debitamente documentato ed accertato, che tengano anche conto di indici reddituali articolati per fasce di utenza e territoriali. In questo caso, nel piano finanziario devono essere indicate le risorse necessarie per garantire l'integrale copertura dei minori introiti derivanti dalle agevolazioni, secondo i criteri fissati dal regolamento di cui al comma 6.
-
-Il regolamento di cui al comma 6 tiene conto anche degli obiettivi di miglioramento della produttivita' e della qualita' del servizio fornito e del tasso di inflazione programmato.
-
-L'eventuale modulazione della tariffa tiene conto degli investimenti effettuati dai comuni o dai gestori che risultino utili ai fini dell'organizzazione del servizio.
-
-Le utenze non domestiche che producono rifiuti urbani di cui all'articolo 183, comma 1, lettera b-ter), numero 2., che li conferiscono ((, in tutto o in parte,)) al di fuori del servizio pubblico e dimostrano di averli avviati ((al riciclo o)) al recupero mediante attestazione rilasciata dal soggetto che effettua l'attivita' di ((riciclo o)) recupero dei rifiuti stessi sono escluse dalla corresponsione della componente tariffaria rapportata alla quantita' dei rifiuti conferiti; le medesime utenze effettuano la scelta di servirsi del gestore del servizio pubblico o del ricorso al mercato per un periodo non inferiore a due anni.
-
-Sino alla emanazione del regolamento di cui al comma 6 e fino al compimento degli adempimenti per l'applicazione della tariffa continuano ad applicarsi le discipline regolamentari vigenti.
-
-La riscossione volontaria e coattiva della tariffa puo' essere effettuata secondo le disposizioni del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, mediante convenzione con l'Agenzia delle entrate. (6) (36)
-
--------------
-                            AGGIORNAMENTO (6)
-                            
- Il D.L. 11 maggio 2007, n. 61, convertito con modificazioni dalla L. 5 luglio 2007, n. 87, ha disposto (con l'art. 7, comma 1) che "in deroga al presente articolo 238, i comuni della regione Campania adottano immediatamente le iniziative urgenti per assicurare che, a decorrere dal 1° gennaio 2008 e per un periodo di cinque anni, ai fini della determinazione della tassa di smaltimento dei rifiuti solidi urbani e della tariffa igiene ambientale (TIA) siano applicate misure tariffarie per garantire la copertura integrale dei costi del servizio di gestione dei rifiuti indicati in appositi piani economico-finanziari redatti tenendo conto anche delle indicazioni contenute nei piani di cui all'articolo 4. Ai comuni che non provvedono nei termini previsti si applicano le sanzioni di cui all'articolo 141, comma 1, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, previa diffida ad adempiere e successiva nomina, in caso di inottemperanza, di un apposito commissario da parte del prefetto per l'approvazione delle delibere necessarie". 
-                            -------------
-                            AGGIORNAMENTO (36)
-                            
- Il D.L. 31 maggio 2010, n. 78, convertito, con modificazioni, dalla L. 30 luglio 2010, n. 122 ha disposto (con l'art. 14, comma 33) che "Le disposizioni di cui all'articolo 238 del decreto legislativo 3 aprile 2006, n. 152, si interpretano nel senso che la natura della tariffa ivi prevista non e' tributaria. Le controversie relative alla predetta tariffa, sorte successivamente alla data di entrata in vigore del presente decreto, rientrano nella giurisdizione dell'autorita' giudiziaria ordinaria".
 
 ## - - TITOLO V BONIFICA DI SITI CONTAMINATI
 
@@ -16309,13 +17242,15 @@ Il trattamento delle acque emunte, da effettuarsi anche in caso di utilizzazione
 
 Le pubbliche amministrazioni che nell'esercizio delle proprie funzioni individuano siti nei quali accertino che i livelli di contaminazione sono superiori ai valori di concentrazione soglia di contaminazione, ne danno comunicazione alla regione, alla provincia e al comune competenti.
 
-La provincia, ricevuta la comunicazione di cui al comma 1, dopo aver svolto le opportune indagini volte ad identificare il responsabile dell'evento di superamento ((, con oneri)) a carico del medesimo, e sentito il comune, diffida con ordinanza motivata il responsabile della potenziale contaminazione a provvedere ai sensi del presente titolo.
+La provincia, ricevuta la comunicazione di cui al comma 1, dopo aver svolto le opportune indagini volte ad identificare il responsabile dell'evento di superamento, con oneri a carico del medesimo, e sentito il comune, diffida con ordinanza motivata il responsabile della potenziale contaminazione a provvedere ai sensi del presente titolo.
 
-L'ordinanza di cui al comma 2 e' comunque notificata anche al proprietario del sito ai sensi e per gli effetti dell'articolo 253.
+L'ordinanza di cui ((al comma 2 e' adottata nel termine di centocinquanta giorni dalla comunicazione di cui al comma 1 e senza indugio)) notificata anche al proprietario del sito ai sensi e per gli effetti dell'articolo 253.
 
 Se il responsabile non sia individuabile o non provveda e non provveda il proprietario del sito ne' altro soggetto interessato, gli interventi che risultassero necessari ai sensi delle disposizioni di cui al presente titolo sono adottati dall'amministrazione competente in conformita' a quanto disposto dall'articolo 250.
 
 Per le attivita' affidate alle province ai sensi del presente articolo, le province medesime si avvalgono del supporto tecnico dell'ARPA territorialmente competente, senza nuovi o maggiori oneri a carico della finanza pubblica.
+
+((In caso di mancato rispetto del termine di cui al comma 3, la regione assegna alla provincia interessata un termine non superiore a trenta giorni per provvedere. Decorso inutilmente il termine di trenta giorni di cui al primo periodo, l'ordinanza motivata di cui al comma 2 e' adottata dalla regione competente, con il supporto tecnico del Sistema nazionale a rete per la protezione dell'ambiente (SNPA). Il supporto tecnico ai sensi del secondo periodo e' fornito con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.))
 
 ## Art. 245. — (obblighi di intervento e di notifica da parte dei soggetti non responsabili della potenziale contaminazione)
 
@@ -16452,9 +17387,9 @@ I siti di interesse nazionale, ai fini della bonifica, sono individuabili in rel
 
 Sono in ogni caso individuati quali siti di interesse nazionale, ai fini della bonifica, i siti interessati da attivita' produttive ed estrattive di amianto.
 
-Ai fini della perimetrazione del sito, inteso nelle diverse matrici ambientali compresi i corpi idrici superficiali e i relativi sedimenti, sono sentiti i comuni, le province, le regioni e gli altri enti locali, assicurando la partecipazione dei responsabili nonche' dei proprietari delle aree da bonificare, se diversi dai soggetti responsabili. I valori d'intervento sito-specifici delle matrici ambientali in aree marine, che costituiscono i livelli di contaminazione al di sopra dei quali devono essere previste misure d'intervento funzionali all'uso legittimo delle aree e proporzionali all'entita' della contaminazione, sono individuati con decreto di natura non regolamentare del Ministero della transizione ecologica su proposta dell'Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA).
+Ai fini della perimetrazione del sito, inteso nelle diverse matrici ambientali compresi i corpi idrici superficiali e i relativi sedimenti, sono sentiti i comuni, le province, le regioni e gli altri enti locali, assicurando la partecipazione dei responsabili nonche' dei proprietari delle aree da bonificare, se diversi dai soggetti responsabili. I valori d'intervento sito-specifici delle matrici ambientali in aree marine, che costituiscono i livelli di contaminazione al di sopra dei quali devono essere previste misure d'intervento funzionali all'uso legittimo delle aree e proporzionali all'entita' della contaminazione, sono individuati con decreto di natura non regolamentare del Ministero della transizione ecologica su proposta dell'Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA). ((Con decreto adottato ai sensi dell'articolo 264, comma 2-bis, gli allegati in materia di bonifica dei siti inquinati sono integrati con la disciplina dei criteri relativi alla caratterizzazione ambientale delle aree marine nei siti di interesse nazionale.))
 
-La procedura di bonifica di cui all'articolo 242 dei siti di interesse nazionale e' attribuita alla competenza del Ministero dell'ambiente e della tutela del territorio e del mare, sentito il Ministero dello sviluppo economico. Il Ministero dell'ambiente e della tutela del territorio e del mare puo' avvalersi anche dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA), delle Agenzie regionali per la protezione dell'ambiente delle regioni interessate e dell'Istituto superiore di sanita' nonche' di altri soggetti qualificati pubblici o privati il Ministero dell'ambiente e della tutela del territorio e del mare adotta procedure semplificate per le operazioni di bonifica relative alla rete di distribuzione carburanti. A condizione che siano rispettate le norme tecniche di cui al comma 9-quinquies, il piano di caratterizzazione puo' essere eseguito decorsi sessanta giorni dalla comunicazione di inizio attivita' al ((Ministero della transizione ecologica)). Qualora il ((Ministero della transizione ecologica)) accerti il mancato rispetto delle norme tecniche di cui al precedente periodo, dispone, con provvedimento motivato, il divieto di inizio o di prosecuzione delle operazioni, salvo che il proponente non provveda a conformarsi entro il termine e secondo le prescrizioni stabiliti dal medesimo ((Ministero)). (134)
+La procedura di bonifica di cui all'articolo 242 dei siti di interesse nazionale e' attribuita alla competenza del Ministero dell'ambiente e della tutela del territorio e del mare, sentito il Ministero dello sviluppo economico. Il Ministero dell'ambiente e della tutela del territorio e del mare puo' avvalersi anche dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA), delle Agenzie regionali per la protezione dell'ambiente delle regioni interessate e dell'Istituto superiore di sanita' nonche' di altri soggetti qualificati pubblici o privati il Ministero dell'ambiente e della tutela del territorio e del mare adotta procedure semplificate per le operazioni di bonifica relative alla rete di distribuzione carburanti. A condizione che siano rispettate le norme tecniche di cui al comma 9-quinquies, il piano di caratterizzazione puo' essere eseguito decorsi sessanta giorni dalla comunicazione di inizio attivita' al Ministero della transizione ecologica. Qualora il Ministero della transizione ecologica accerti il mancato rispetto delle norme tecniche di cui al precedente periodo, dispone, con provvedimento motivato, il divieto di inizio o di prosecuzione delle operazioni, salvo che il proponente non provveda a conformarsi entro il termine e secondo le prescrizioni stabiliti dal medesimo Ministero. (134)
 
 Nei casi di cui al comma 4, il soggetto responsabile dell'inquinamento o altro soggetto interessato accerta lo stato di potenziale contaminazione del sito mediante un Piano di indagini preliminari. Il Piano, comprensivo della lista degli analiti da ricercare, e' concordato con l'Agenzia di protezione ambientale territorialmente competente che si pronuncia entro e non oltre il termine di trenta giorni dalla richiesta del proponente, eventualmente stabilendo particolari prescrizioni in relazione alla specificita' del sito. In caso di mancata pronuncia nei termini da parte dell'Agenzia di protezione ambientale territorialmente competente, il Piano di indagini preliminari e' concordato con l'Istituto superiore per la protezione e la ricerca ambientale, che si pronuncia entro e non oltre i quindici giorni successivi su segnalazione del proponente o dell'autorita' competente. Il proponente, trenta giorni prima dell'avvio delle attivita' d'indagine, trasmette al Ministero dell'ambiente e della tutela del territorio e del mare, alla regione, al comune, alla provincia e all'agenzia di protezione ambientale competenti il Piano con la data di inizio delle operazioni. Qualora l'indagine preliminare accerti l'avvenuto superamento delle concentrazioni soglia di contaminazione (CSC) anche per un solo parametro, si applica la procedura di cui agli articoli 242 e 245. Ove si accerti che il livello delle CSC non sia stato superato, il medesimo soggetto provvede al ripristino della zona contaminata, dandone notizia, con apposita autocertificazione, al Ministero dell'ambiente e della tutela del territorio e del mare, alla regione, al comune, alla provincia e all'agenzia di protezione ambientale competenti entro novanta giorni dalla data di inizio delle attivita' di indagine. L'autocertificazione conclude il procedimento, ferme restando le attivita' di verifica e di controllo da parte della provincia competente da concludere nel termine di novanta giorni dalla data di acquisizione dell'autocertificazione, decorsi i quali il procedimento di verifica si considera definitivamente concluso.
 
@@ -16464,13 +17399,13 @@ COMMA ABROGATO DAL D.L. 31 MAGGIO 2021, N. 77, CONVERTITO CON MODIFICAZIONI DALL
 
 Nel caso in cui il responsabile non provveda o non sia individuabile oppure non provveda il proprietario del sito contaminato ne' altro soggetto interessato, gli interventi sono predisposti dal Ministero dell'ambiente e della tutela del territorio e del mare, avvalendosi dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA), dell'Istituto superiore di sanita' e dell'E.N.E.A. nonche' di altri soggetti qualificati pubblici o privati, anche coordinati fra loro.
 
-L'autorizzazione del progetto e dei relativi interventi ricomprende a tutti gli effetti le autorizzazioni, le concessioni, i concerti, le intese, i nulla osta, i pareri e gli assensi previsti dalla legislazione vigente, ivi compresi, tra l'altro, quelli relativi alla realizzazione e all'esercizio degli impianti e delle attrezzature necessarie alla loro attuazione. L'autorizzazione costituisce, altresi', variante urbanistica e comporta dichiarazione di pubblica utilita', urgenza ed indifferibilita' dei lavori. A tal fine il proponente allega all'istanza la documentazione e gli elaborati progettuali previsti dalle normative di settore per consentire la compiuta istruttoria tecnico-amministrativa finalizzata al rilascio di tutti gli ((atti di assenso)) comunque denominati necessari alla realizzazione e all'esercizio del medesimo progetto e indicati puntualmente in apposito elenco con l'indicazione anche dell'Amministrazione ordinariamente competente.
+L'autorizzazione del progetto e dei relativi interventi ricomprende a tutti gli effetti le autorizzazioni, le concessioni, i concerti, le intese, i nulla osta, i pareri e gli assensi previsti dalla legislazione vigente, ivi compresi, tra l'altro, quelli relativi alla realizzazione e all'esercizio degli impianti e delle attrezzature necessarie alla loro attuazione. L'autorizzazione costituisce, altresi', variante urbanistica e comporta dichiarazione di pubblica utilita', urgenza ed indifferibilita' dei lavori. A tal fine il proponente allega all'istanza la documentazione e gli elaborati progettuali previsti dalle normative di settore per consentire la compiuta istruttoria tecnico-amministrativa finalizzata al rilascio di tutti gli atti di assenso comunque denominati necessari alla realizzazione e all'esercizio del medesimo progetto e indicati puntualmente in apposito elenco con l'indicazione anche dell'Amministrazione ordinariamente competente.
 
 Se il progetto prevede la realizzazione di opere sottoposte a procedura di valutazione di impatto ambientale, l'approvazione del progetto di bonifica comprende anche tale valutazione.
 
 COMMA ABROGATO DAL D.L. 31 MAGGIO 2021, N. 77, CONVERTITO CON MODIFICAZIONI DALLA L. 29 LUGLIO 2021, N. 108.
 
-Nei siti di interesse nazionale, l'applicazione a scala pilota, in campo, di tecnologie di bonifica innovative, anche finalizzata all'individuazione dei parametri di progetto necessari per l'applicazione a piena scala, non e' soggetta a preventiva approvazione del Ministero della transizione ecologica e puo' essere eseguita a condizione che tale applicazione avvenga in condizioni di sicurezza con riguardo ai rischi sanitari e ambientali. Il rispetto delle suddette condizioni e' valutato dal ((Ministero della transizione ecologica)) e dall'Istituto superiore di sanita' che si pronunciano entro sessanta giorni dalla presentazione dell'istanza corredata della necessaria documentazione tecnica.
+Nei siti di interesse nazionale, l'applicazione a scala pilota, in campo, di tecnologie di bonifica innovative, anche finalizzata all'individuazione dei parametri di progetto necessari per l'applicazione a piena scala, non e' soggetta a preventiva approvazione del Ministero della transizione ecologica e puo' essere eseguita a condizione che tale applicazione avvenga in condizioni di sicurezza con riguardo ai rischi sanitari e ambientali. Il rispetto delle suddette condizioni e' valutato dal Ministero della transizione ecologica e dall'Istituto superiore di sanita' che si pronunciano entro sessanta giorni dalla presentazione dell'istanza corredata della necessaria documentazione tecnica.
 
 E' qualificato sito di interesse nazionale ai sensi della normativa vigente l'area interessata dalla bonifica della ex discarica delle Strillaie (Grosseto). Con successivo decreto del Ministro dell'ambiente e della tutela del territorio e del mare si provvedera' alla perimetrazione della predetta area.
 
@@ -16480,7 +17415,7 @@ In caso di compravendita di aree ubicate nei siti di interesse nazionale, il Min
 
 Con decreto di natura non regolamentare il Ministero della transizione ecologica adotta i modelli delle istanze per l'avvio dei procedimenti di cui al comma 4 e i contenuti minimi della documentazione tecnica da allegare.
 
-Con decreto del Ministero della transizione ecologica sono adottate le norme tecniche in base alle quali l'esecuzione del piano di caratterizzazione ((e' sottoposta)) a comunicazione di inizio attivita' di cui al comma 4.
+Con decreto del Ministero della transizione ecologica sono adottate le norme tecniche in base alle quali l'esecuzione del piano di caratterizzazione e' sottoposta a comunicazione di inizio attivita' di cui al comma 4.
 
 --------------
                             AGGIORNAMENTO (134)
@@ -16652,7 +17587,7 @@ Chiunque non ottempera all'ordinanza del Sindaco, di cui all'articolo 192, comma
                             
                                 a)
                                 
-                                    dal fatto deriva pericolo per la vita o ((per)) l'incolumita' delle persone ovvero pericolo di compromissione o deterioramento: 
+                                    dal fatto deriva pericolo per la vita o per l'incolumita' delle persone ovvero pericolo di compromissione o deterioramento: 
  1) delle acque o dell'aria, o di porzioni estese o significative del suolo o del sottosuolo; 
  2) di un ecosistema, della biodiversita', anche agraria, della flora o della fauna; 
 
@@ -16667,17 +17602,35 @@ I titolari di imprese e i responsabili di enti che, ricorrendo taluno dei casi d
 
 Quando l'abbandono o il deposito vengono effettuati mediante l'utilizzo di veicoli a motore, al conducente del veicolo si applica, altresi', la sanzione accessoria della sospensione della patente di guida da due a sei mesi. Si applicano le disposizioni di cui al Titolo VI, Capo II, Sezione II del decreto legislativo 30 aprile 1992, n. 285.
 
-## Art. 255-ter. — (( (Abbandono di rifiuti pericolosi). ))
+((Alla sentenza di condanna o alla sentenza emessa ai sensi dell'articolo 444 del codice di procedura penale, per taluno dei fatti di cui ai commi 1 e 2, consegue la confisca delle cose che servirono o furono destinate a commettere il reato.))
 
+## Art. 255-ter. — (Abbandono di rifiuti pericolosi)
 
+Chiunque, in violazione delle disposizioni degli articoli 192, commi 1 e 2, 226, comma 2, e 231, commi 1 e 2, abbandona o deposita rifiuti pericolosi ovvero li immette nelle acque superficiali o sotterranee e' punito con la reclusione da uno a cinque anni.
 
-((La pena e' della reclusione da un anno e sei mesi a sei anni quando: 
- a) dal fatto deriva pericolo per la vita o per la incolumita' delle persone ovvero pericolo di compromissione o deterioramento: 
+2.
+                        
+                            
+                                La pena e' della reclusione da un anno e sei mesi a sei anni quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal fatto deriva pericolo per la vita o per la incolumita' delle persone ovvero pericolo di compromissione o deterioramento: 
  1) delle acque o dell'aria, o di porzioni estese o significative del suolo o del sottosuolo; 
  2) di un ecosistema, della biodiversita', anche agraria, della flora o della fauna; 
-b) il fatto e' commesso in siti contaminati o potenzialmente contaminati ai sensi dell'articolo 240 o comunque sulle strade di accesso ai predetti siti e relative pertinenze.))
 
-((I titolari di imprese e i responsabili di enti che abbandonano o depositano in modo incontrollato rifiuti pericolosi ovvero li immettono nelle acque superficiali o sotterranee in violazione del divieto di cui all'articolo 192, commi 1 e 2 sono puniti con la reclusione da un anno a cinque anni e sei mesi. Quando ricorre taluno dei casi di cui al comma 2, la pena e' della reclusione da due anni a sei anni e sei mesi.))
+                                
+                            
+                            
+                                b)
+                                
+                                    il fatto e' commesso in siti contaminati o potenzialmente contaminati ai sensi dell'articolo 240 o comunque sulle strade di accesso ai predetti siti e relative pertinenze.
+
+I titolari di imprese e i responsabili di enti che abbandonano o depositano in modo incontrollato rifiuti pericolosi ovvero li immettono nelle acque superficiali o sotterranee in violazione del divieto di cui all'articolo 192, commi 1 e 2 sono puniti con la reclusione da un anno a cinque anni e sei mesi. Quando ricorre taluno dei casi di cui al comma 2, la pena e' della reclusione da due anni a sei anni e sei mesi.
+
+((Alla sentenza di condanna o alla sentenza emessa ai sensi dell'articolo 444 del codice di procedura penale, consegue la confisca delle cose che servirono o furono destinate a commettere il reato.))
 
 ## Art. 256. — (attivita' di gestione di rifiuti non autorizzata)
 
@@ -16824,9 +17777,12 @@ Chiunque effettua una spedizione di rifiuti costituente spedizione illegale ((ai
 
 Alla sentenza di condanna, o a quella emessa ai sensi dell'articolo 444 del codice di procedura penale, per i reati relativi al traffico illecito di cui al comma 1 o al trasporto illecito di cui agli articoli 256 e 258, comma 4, consegue obbligatoriamente la confisca del mezzo di trasporto.
 
-## Art. 259-bis. — (Aggravante dell'attivita' di impresa)
+## Art. 259-bis. — ((Aggravante dell'attivita' d'impresa. Confisca))
 
-Le pene rispettivamente previste dagli articoli 256, 256-bis e 259 sono aumentate di un terzo se i fatti sono commessi nell'ambito dell'attivita' di un'impresa o comunque di un'attivita' organizzata. ((PERIODO SOPPRESSO DAL D.L. 8 AGOSTO 2025, N. 116, CONVERTITO CON MODIFICAZIONI DALLA L. 3 OTTOBRE 2025, N. 147)). ((PERIODO SOPPRESSO DAL D.L. 8 AGOSTO 2025, N. 116, CONVERTITO CON MODIFICAZIONI DALLA L. 3 OTTOBRE 2025, N. 147)).
+Le pene rispettivamente previste dagli articoli 256, 256-bis e 259 sono aumentate di un terzo se i fatti sono commessi nell'ambito dell'attivita' di un'impresa o comunque di un'attivita' organizzata.
+PERIODO SOPPRESSO DAL D.L. 8 AGOSTO 2025, N. 116, CONVERTITO CON MODIFICAZIONI DALLA L. 3 OTTOBRE 2025, N. 147. PERIODO SOPPRESSO DAL D.L. 8 AGOSTO 2025, N. 116, CONVERTITO CON MODIFICAZIONI DALLA L. 3 OTTOBRE 2025, N. 147.
+
+((Nei casi di cui al primo comma, alla sentenza di condanna o alla sentenza emessa ai sensi dell'articolo 444 del codice di procedura penale, consegue la confisca delle cose che costituiscono il prodotto, il prezzo o il profitto, salvo che appartengano a persona estranea al reato ovvero, quando essa non e' possibile, dei beni di cui il condannato ha comunque la disponibilita', per un valore corrispondente al profitto, al prodotto o al prezzo del reato.))
 
 ## Art. 259-ter. — (( (Delitti colposi in materia di rifiuti). ))
 
@@ -16938,7 +17894,7 @@ La sanzione amministrativa di cui al comma 4-bis e' aumentata fino al quadruplo 
 
 Le sanzioni di cui ai commi 4-bis e 4-ter sono applicate ai sensi della legge 24 novembre 1981, n. 689; all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa, fermo restando quanto previsto dall'articolo 13 della citata legge n. 689 del 1981.
 
-((Salvo che il fatto costituisca reato, la violazione delle disposizioni di cui all'articolo 226-quinquies, anche attraverso l'utilizzo di dichiarazioni di conformita' o altre diciture ingannevoli o elusive, e' punita con la sanzione amministrativa pecuniaria da 2.500 a 25.000 euro. La sanzione amministrativa di cui al primo periodo e' aumentata fino al quadruplo del massimo se la violazione dell'obbligo riguarda quantitativi di imballaggi il cui valore e' superiore al dieci per cento del fatturato del trasgressore. Le sanzioni di cui al primo e al secondo periodo sono applicate ai sensi della legge 24 novembre 1981, n. 689 e all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa, fermo restando quanto previsto dall'articolo 13 della medesima legge n. 689 del 1981. Il presente comma si applica a partire dal 1° gennaio 2030.))
+Salvo che il fatto costituisca reato, la violazione delle disposizioni di cui all'articolo 226-quinquies, anche attraverso l'utilizzo di dichiarazioni di conformita' o altre diciture ingannevoli o elusive, e' punita con la sanzione amministrativa pecuniaria da 2.500 a 25.000 euro. La sanzione amministrativa di cui al primo periodo e' aumentata fino al quadruplo del massimo se la violazione dell'obbligo riguarda quantitativi di imballaggi il cui valore e' superiore al dieci per cento del fatturato del trasgressore. Le sanzioni di cui al primo e al secondo periodo sono applicate ai sensi della legge 24 novembre 1981, n. 689 e all'accertamento delle violazioni provvedono, d'ufficio o su denunzia, gli organi di polizia amministrativa, fermo restando quanto previsto dall'articolo 13 della medesima legge n. 689 del 1981. ((La sanzione amministrativa di cui al primo periodo non si applica all'operatore economico che dimostri di avere acquisito gli imballaggi sulla base di idonea documentazione, fornita dal fabbricante, dall'importatore o dal distributore, attestante la conformita' ai requisiti di cui all'articolo 226-quinquies, salvo che fosse a conoscenza della non conformita' degli imballaggi o che essa fosse evidente.)) Il presente comma si applica a partire dal 1° gennaio 2030.
 
 ## Art. 261-bis. — (( (Sanzioni).))
 
@@ -18044,11 +19000,7 @@ Per i grandi impianti di combustione, ciascun camino, contenente una o piu' cann
 
 In aggiunta a quanto previsto dall'articolo 271, comma 14, i valori limite di emissione non si applicano ai grandi impianti di combustione nei casi di anomalo funzionamento previsti dalla parte I dell'Allegato II alla parte quinta del presente decreto, nel rispetto delle condizioni ivi previste.
 
-((
-
 Si considerano come un unico grande impianto di combustione, ai fini della determinazione della potenza termica nominale in base alla quale stabilire i valori limite di emissione, piu' impianti di combustione di potenza termica pari o superiore a 15 MW e la somma delle cui potenze e' pari o superiore a 50 MW che sono localizzati nello stesso stabilimento e le cui emissioni risultano convogliate o convogliabili, sulla base di una valutazione delle condizioni tecniche svolta dalle autorita' competenti, ad un solo punto di emissione. La valutazione relativa alla convogliabilita' tiene conto dei criteri previsti all'articolo 270. Non sono considerati, a tali fini, gli impianti di riserva che funzionano in sostituzione di altri impianti quando questi ultimi sono disattivati. L'autorita' competente, tenendo conto delle condizioni tecniche ed economiche, puo' altresi' disporre il convogliamento delle emissioni di tali impianti ad un solo punto di emissione ed applicare i valori limite che, in caso di mancato convogliamento, si applicherebbero all'impianto piu' recente.
-
-))
 
 L'adeguamento alle disposizioni del comma 9 e' effettuato nei tempi a tal fine stabiliti dall'autorizzazione.
 
@@ -18056,7 +19008,7 @@ Nel caso in cui un grande impianto di combustione sia sottoposto a modifiche sos
 
 Fermo restando quanto previsto dalla normativa vigente in materia di autorizzazione integrata ambientale, per gli impianti nuovi o in caso di modifiche ai sensi del comma 11, la domanda di autorizzazione deve essere corredata da un apposito studio concernente la fattibilita' tecnica ed economica della generazione combinata di calore e di elettricita'. Nel caso in cui tale fattibilita' sia accertata, anche alla luce di elementi diversi da quelli contenuti nello studio, l'autorita' competente, tenuto conto della situazione del mercato e della distribuzione, condiziona il rilascio del provvedimento autorizzativo alla realizzazione immediata o differita di tale soluzione.
 
-((COMMA ABROGATO DAL D.LGS. 15 NOVEMBRE 2017, N. 183)).
+COMMA ABROGATO DAL D.LGS. 15 NOVEMBRE 2017, N. 183.
 
 In caso di realizzazione di grandi impianti di combustione che potrebbero arrecare un significativo pregiudizio all'ambiente di un altro Stato della Comunita' europea, l'autorita' competente informa il Ministero dell'ambiente e della tutela del territorio e del mare per l'adempimento degli obblighi di cui alla convenzione sulla valutazione dell'impatto ambientale in un contesto transfrontaliero, stipulata a Espoo il 25 febbraio 1991, ratificata con la legge 3 novembre 1994, n. 640.
 
@@ -18176,6 +19128,9 @@ COMMA ABROGATO DAL D.LGS. 4 MARZO 2014, N. 46.
                                     possibilita' tecnica ed economica di installare a posteriori le strutture per la cattura di CO2.
 
 L'autorita' competente, sulla base della documentazione di cui al comma 16-bis, stabilisce se le condizioni di cui allo stesso comma sono soddisfatte. In tal caso il gestore provvede a riservare un'area sufficiente all'interno del sito per installare le strutture necessarie alla cattura e alla compressione di CO2 .
+
+((L'autorizzazione puo' fissare al 1° gennaio 2030 il termine per adeguarsi ai valori limite previsti ai sensi del presente articolo o dell'articolo 29-sexies per l'emissione di anidride solforosa, ossidi di azoto e polveri oppure, se del caso, per il grado di desolforazione, per gli impianti di combustione esistenti che fanno parte di un piccolo sistema isolato di cui all'articolo 2, comma 17, del decreto legislativo 16 marzo 1999, n. 79, o di un microsistema isolato di cui all'articolo 2, comma 1, lettera l-tricies bis), del decreto legislativo 19 agosto 2005, n. 192. Fino a tale data sono fissati valori limite non meno restrittivi di quelli precedentemente autorizzati per l'anidride solforosa, gli ossidi di azoto e le polveri, e comunque non meno restrittivi di quelli consentiti al 30 maggio 2024 in applicazione del presente decreto.
+Fino al 1° gennaio 2030 sono comunque prescritti controlli delle emissioni adeguati a garantire che non si verifichino eventi inquinanti di rilievo e sono comunque prescritte tutte le misure che consentono di ridurre l'inquinamento, per garantire che l'esenzione non sia concessa per un periodo piu' lungo del necessario. Le condizioni dell'autorizzazione tengono conto dei contenuti del pertinente piano di conformita' definito dal Ministero dell'ambiente e della sicurezza energetica e stabiliscono un programma di specifici controlli, i cui esiti sono notificati anche al Ministero dell'ambiente e della sicurezza energetica. Sulla base di tali esiti, il Ministero riferisce alla Commissione europea, alla fine di ogni anno civile, in merito ai progressi compiuti in relazione alle azioni descritte nel piano di conformita', nonche' in merito ad ogni eventuale successiva modifica del piano di conformita'. Le informazioni sulla deroga e le condizioni imposte sono messe a disposizione del pubblico conformemente all'articolo 29-quater, comma 13.))
 
 ## Art. 273-bis. — (Medi impianti di combustione)
 
@@ -18493,7 +19448,7 @@ L'autorizzazione stabilisce, sulla base dei commi 2 e 7, i valori limite di emis
 
 Fermo restando quanto previsto dall'articolo 271, commi 14 e 20, il gestore informa tempestivamente l'autorita' competente di qualsiasi violazione delle prescrizioni autorizzative.
 
-L'autorizzazione indica il consumo massimo teorico di solvente e l'emissione totale annua conseguente all'applicazione dei valori limite di cui al comma 2 nonche' la periodicita' dell'aggiornamento del piano di gestione di cui alla parte V dell'Allegato III alla parte quinta del presente decreto. ((Al fine di ammettere l'applicazione di valori limite espressi come emissioni totali equivalenti, ai sensi della parte V dell'allegato III alla parte quinta del presente decreto, negli stabilimenti caratterizzati da elevate soglie di consumo di solventi, l'autorita' competente valuta anche, tenuto conto delle specifiche attivita' degli stabilimenti oggetto di autorizzazione, la sussistenza della possibilita' di assicurare un efficace controllo sul rispetto di tali valori.))
+L'autorizzazione indica il consumo massimo teorico di solvente e l'emissione totale annua conseguente all'applicazione dei valori limite di cui al comma 2 nonche' la periodicita' dell'aggiornamento del piano di gestione di cui alla parte V dell'Allegato III alla parte quinta del presente decreto. Al fine di ammettere l'applicazione di valori limite espressi come emissioni totali equivalenti, ai sensi della parte V dell'allegato III alla parte quinta del presente decreto, negli stabilimenti caratterizzati da elevate soglie di consumo di solventi, l'autorita' competente valuta anche, tenuto conto delle specifiche attivita' degli stabilimenti oggetto di autorizzazione, la sussistenza della possibilita' di assicurare un efficace controllo sul rispetto di tali valori.
 
 Il rispetto dei valori limite di emissione previsti dal comma 2 e' assicurato mediante l'applicazione delle migliori tecniche disponibili e, in particolare, utilizzando materie prime a ridotto o nullo tenore di solventi organici, ottimizzando l'esercizio e la gestione delle attivita' e, ove necessario, installando idonei dispositivi di abbattimento, in modo da minimizzare le emissioni di composti organici volatili.
 
@@ -18519,7 +19474,8 @@ Sono fatte salve le autorizzazioni rilasciate prima del 13 marzo 2004 che conseg
                             
                                 b)
                                 
-                                    siano soggette alle prescrizioni relative alle attivita' degli stabilimenti esistenti se le emissioni totali di tutte le attivita' svolte nello stabilimento non superano quelle che si producono in caso di applicazione della lettera a).
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 28 SETTEMBRE 2026, N. 197)).
 
 Se il gestore comprova all'autorita' competente che, pur utilizzando la migliore tecnica disponibile, non e' possibile, per uno specifico stabilimento, rispettare il valore limite per le emissioni diffuse, tale autorita' puo' autorizzare deroghe a detto valore limite, purche' cio' non comporti rischi per la salute umana o per l'ambiente e purche' le migliori tecniche disponibili siano comunque applicate.
 
@@ -19711,17 +20667,15 @@ Ai componenti della commissione non sono dovuti compensi, gettoni di presenza, (
                                 
                                     i sali di filtrazione, i fanghi ed i rifiuti liquidi ottenuti dal trattamento (concentrazione o neutralizzazione) dei rifiuti di cui alle lettere b) e c) e contenenti vari metalli pesanti; sono esclusi i rifiuti neutralizzati e filtrati o decantati che contengono metalli pesanti solo in tracce e che, prima di qualsiasi diluizione, hanno un valore di pH superiore a 5,5.
 
-((
-
 Il gestore delle installazioni e degli stabilimenti che producono biossido di titanio informa immediatamente l'autorita' competente in caso di violazione delle condizioni di autorizzazione, adottando nel contempo le misure necessarie a ripristinare la conformita' nel piu' breve tempo possibile.
 
-1-ter. In caso di violazione delle condizioni di autorizzazione, l'autorita' competente impone al gestore di adottare ogni misura complementare appropriata che ritiene necessaria per ripristinare la conformita', disponendo la sospensione dell'esercizio della parte interessata laddove la violazione determini un pericolo immediato per la salute umana o minacci di provocare ripercussioni serie e immediate sull'ambiente, finche' la conformita' non sia ripristinata con l'applicazione delle misure adottate ai sensi del presente comma e del comma 1-bis))
+In caso di violazione delle condizioni di autorizzazione, l'autorita' competente impone al gestore di adottare ogni misura complementare appropriata che ritiene necessaria per ripristinare la conformita', disponendo la sospensione dell'esercizio della parte interessata laddove la violazione determini un pericolo immediato per la salute umana o minacci di provocare ripercussioni serie e immediate sull'ambiente, finche' la conformita' non sia ripristinata con l'applicazione delle misure adottate ai sensi del presente comma e del comma 1-bis.
 
 Per le installazioni e gli stabilimenti che producono biossido di titanio, le emissioni nelle acque e nell'atmosfera devono rispettare i valori limite di emissione previsti all'Allegato I, parti 1 e 2, alla Parte Quinta-bis. Le autorizzazioni prevedono inoltre opportune misure per prevenire l'emissione di aerosol acidi dalle installazioni.
 
-Le autorita' competenti per il controllo ((effettuano)) ispezioni e prelievi di campioni 3.relativamente alla emissioni nelle acque, alle emissioni nell'atmosfera, agli stoccaggi ed alle lavorazioni presso le installazioni e gli stabilimenti che producono biossido di titanio. Tale controllo comprende almeno il controllo delle emissioni di cui all'Allegato I, Parte 3.3, alla Parte Quinta-bis. Il controllo e' effettuato conformemente alle norme CEN oppure, se non sono disponibili norme CEN, conformemente a norme ISO, nazionali o internazionali che assicurino dati equivalenti sotto il profilo della qualita' scientifica.
+Le autorita' competenti per il controllo effettuano ispezioni e prelievi di campioni 3 relativamente alla emissioni nelle acque, alle emissioni nell'atmosfera, agli stoccaggi ed alle lavorazioni presso le installazioni e gli stabilimenti che producono biossido di titanio. Tale controllo comprende almeno il controllo delle emissioni di cui all'Allegato I, Parte 3.3, alla Parte Quinta-bis. Il controllo ((e il sistema di controllo di qualita' del laboratorio che effettua il controllo sono conformi)) alle norme CEN oppure, se non sono disponibili norme CEN, ((...)) a norme ISO, nazionali o internazionali che assicurino dati equivalenti sotto il profilo della qualita' scientifica.
 
-((3-bis. Alle installazioni e agli stabilimenti che producono biossido di titanio si applicano le disposizioni dell'articolo 29-undecies))
+Alle installazioni e agli stabilimenti che producono biossido di titanio si applicano le disposizioni dell'articolo 29-undecies.
 
 Il Ministero dell'ambiente e della tutela del territorio e del mare integra la relazione di cui all'articolo 29-terdecies, comma 2, con i dati relativi all'attuazione del presente articolo, secondo le modalita' fissate dalla normativa comunitaria e sulla base di rapporti di cui al comma 5 che le regioni e le province autonome forniscono entro il 30 aprile di ogni anno.
 

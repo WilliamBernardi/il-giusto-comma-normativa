@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-10-30",
+  "zip_date": "2026-11-13",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -231456,7 +231456,7 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-09-443.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-09;443"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-10-30_V0.xml": {
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-10-31_V0.xml": {
       "sha256": "dce3d2c356163ec89b9a9decdd7b3276644d5b3df306c79ff6c61d24be83fc54",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
@@ -231931,8 +231931,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1990-09-28-371.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-09-28;371"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-08-21_V0.xml": {
-      "sha256": "47826d82301ed994739fd00686d165241651522c5490d2859bba66bb24df3ce4",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-10-31_V0.xml": {
+      "sha256": "87f5d029acf873ec4048ccb50ee448a0fcd3af9df0b444b9bf58f442320befb8",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1990-10-09-309.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309"
     },
@@ -235846,8 +235846,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2002-05-30-114.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;114"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-10-15_V0.xml": {
-      "sha256": "12a68a4b7a3368b06777d5e5942b98884922d010970733f20dc2f6125eb5cde7",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-10-31_V0.xml": {
+      "sha256": "1bd8a09e5bd178ec654bffbba67eccd09780238eb23da4ad632ec8cc8e5d9a2b",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2002-05-30-115.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115"
     },
@@ -236876,8 +236876,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2007-05-14-89.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;89"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_90/2007-07-10_007G0102_VIGENZA_2025-07-30_V0.xml": {
-      "sha256": "85da17a044e5568320b00f483e21f89c4a7049358a6071a91c9d935df6e032c2",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_90/2007-07-10_007G0102_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "2cc4a02666ecc152b5bf30309d1851bf3d64f67d4520e21bd363cadef54484a0",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2007-05-14-90.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;90"
     },
@@ -238800,6 +238800,11 @@
       "sha256": "18e217c8d1a737e6bc7260c7599d7a7d814a98500b99b7996febb0432a32f245",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-2026-06-19-155.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-06-19;155"
+    },
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260804_183/2026-10-13_26G00198_ORIGINALE_V0.xml": {
+      "sha256": "1c9c9ca8d5249c5e171be9c12ba685398e9e40d3007c65d21f35ed84172cca67",
+      "out": "DPR/stato-decreto.del.presidente.della.repubblica-2026-08-04-183.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-08-04;183"
     }
   }
 }

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-08-26
-zip_date: 2026-10-15
-fetched_at: 2026-10-15
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -2699,12 +2699,9 @@ Le spese di custodia e di conservazione sono in ogni caso dovute dall'avente dir
 
 Il provvedimento di restituzione e' comunicato all'avente diritto ed al custode. Con il medesimo provvedimento e' data comunicazione che le spese di custodia e conservazione delle cose sequestrate, decorsi trenta giorni dalla ricezione della comunicazione, sono in ogni caso a carico dell'avente diritto alla restituzione e che le somme o valori sequestrati, decorsi tre mesi dalla rituale comunicazione senza che l'avente diritto abbia provveduto al ritiro, sono devoluti alla cassa delle ammende.
 
-## Art. 151.
+## Art. 151. — (( (Provvedimenti in caso di mancato ritiro del bene restituito e vendita in casi particolari). ))
 
-(( (Provvedimenti in caso di mancato ritiro del
- bene restituito e vendita in casi particolari). ))
-
- ((
+((
 
 Se l'avente diritto alla restituzione delle cose affidate in custodia a terzi, ovvero alla cancelleria, e' ignoto o irreperibile, il cancelliere presenta gli atti al magistrato, il quale ordina la vendita delle cose sequestrate da eseguirsi non oltre sessanta giorni dalla data del provvedimento.
 

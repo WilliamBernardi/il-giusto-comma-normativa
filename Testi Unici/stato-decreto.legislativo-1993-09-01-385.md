@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-06-19
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -21,8 +21,6 @@ DECRETO LEGISLATIVO
 Entrata in vigore del provvedimento: 1/1/1994.
 
 Acquisito il parere delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
-
-Sulla proposta del Ministro dell'economia e delle finanze, di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
 ## Art. 1. — Definizioni
 

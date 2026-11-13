@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-09-30
-zip_date: 2026-10-30
-fetched_at: 2026-10-30
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA

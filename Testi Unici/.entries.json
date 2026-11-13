@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-09-23",
+  "zip_date": "2026-11-13",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480205_26/1948-02-06_048U0026_VIGENZA_2025-06-17_V0.xml": {
       "sha256": "f53805fbf1f3445d31fe8f50ae7f58f93a0c93e7dde49d22fd7935639540a710",
@@ -56,8 +56,8 @@
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1957-01-10-3.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-10;3"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19570330_361/1957-06-03_057U0361_VIGENZA_2025-06-17_V0.xml": {
-      "sha256": "0f25e9ba52fa92b748d6140fed05de22a635e191cb142c265794b2cf3c9c3668",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19570330_361/1957-06-03_057U0361_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "23448b967a70f6bca2d0be1a62781fdb74371b65bde03d7125145d03f817bb22",
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1957-03-30-361.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-30;361"
     },
@@ -166,8 +166,8 @@
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1986-04-26-131.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-04-26;131"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19861222_917/1986-12-31_086U0917_VIGENZA_2026-09-04_V0.xml": {
-      "sha256": "edf8350d4da4220df339a268ef4d7b682f6c4583d386f0dc64e5b3788eb9b4be",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19861222_917/1986-12-31_086U0917_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "ffec1153aa8793505dd040a0e3ed38a091d5726895729d7829ad8deb7d04ed8f",
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1986-12-22-917.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917"
     },
@@ -176,8 +176,8 @@
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1988-03-31-148.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-03-31;148"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-08-21_V0.xml": {
-      "sha256": "47826d82301ed994739fd00686d165241651522c5490d2859bba66bb24df3ce4",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "3da5f058b83ba00c6f38b93eb14ae04a40f951ece73628db27bc09425f9c03d7",
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1990-10-09-309.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309"
     },
@@ -216,8 +216,8 @@
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-2002-05-30-114.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;114"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-09-17_V0.xml": {
-      "sha256": "19ceda4be25655cb7debcbd32a44ea416550f2cd7df7ff2d79d8b74e02e6c66e",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "8f3315d9ee4b6d3fcde2a99c5414cb4316526a5ed8c6f0c4a8244ecaff39c8ac",
       "out": "Testi Unici/stato-decreto.del.presidente.della.repubblica-2002-05-30-115.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115"
     },
@@ -271,13 +271,13 @@
       "out": "Testi Unici/stato-decreto.legislativo-1992-07-24-358.md",
       "urn": "urn:nir:stato:decreto.legislativo:1992-07-24;358"
     },
-    "DECRETO LEGISLATIVO_19930901_385/1993-09-30_093G0428_VIGENZA_2026-06-19_V0.xml": {
-      "sha256": "7a73c4b3cca321d2bc31f0adc32e4c317fa24c203829c57781f9d7c475d5afc1",
+    "DECRETO LEGISLATIVO_19930901_385/1993-09-30_093G0428_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "96d44fe12339d84cfd94dc89c80ed58b1c2121277e9cc934c05cf8f5bc0051f1",
       "out": "Testi Unici/stato-decreto.legislativo-1993-09-01-385.md",
       "urn": "urn:nir:stato:decreto.legislativo:1993-09-01;385"
     },
-    "DECRETO LEGISLATIVO_19931220_533/1993-12-27_093G0613_VIGENZA_2025-06-17_V0.xml": {
-      "sha256": "7079a05d56823397528ad16b0a39cc9e1d3f4668804bf2a15d57adf968a92b1b",
+    "DECRETO LEGISLATIVO_19931220_533/1993-12-27_093G0613_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "5e27231b122ce89db0a72aecab3cd968bf62e8c1df770e08488ae19583732316",
       "out": "Testi Unici/stato-decreto.legislativo-1993-12-20-533.md",
       "urn": "urn:nir:stato:decreto.legislativo:1993-12-20;533"
     },
@@ -286,18 +286,18 @@
       "out": "Testi Unici/stato-decreto.legislativo-1994-04-16-297.md",
       "urn": "urn:nir:stato:decreto.legislativo:1994-04-16;297"
     },
-    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-09-23_V0.xml": {
-      "sha256": "68f844c8c076479bafdd63d40ebaa7496707e5a1a922f112af2fe6a2d5149f0e",
+    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "418e4212dd8ce7c82ecf481d06b23f3abcd5adb36acc1d5aa08e4f5f4c1ae391",
       "out": "Testi Unici/stato-decreto.legislativo-1995-10-26-504.md",
       "urn": "urn:nir:stato:decreto.legislativo:1995-10-26;504"
     },
-    "DECRETO LEGISLATIVO_19980224_58/1998-03-26_098G0073_VIGENZA_2026-08-07_V0.xml": {
-      "sha256": "5f06dd5450ca579cc50ddb5725da624f4445c09d3b0b058e763fe4b50825534f",
+    "DECRETO LEGISLATIVO_19980224_58/1998-03-26_098G0073_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "b2a36e7558eb70ff48fae7dc964d9ccdf654c02c3875e747583f08a9fa4cd832",
       "out": "Testi Unici/stato-decreto.legislativo-1998-02-24-58.md",
       "urn": "urn:nir:stato:decreto.legislativo:1998-02-24;58"
     },
-    "DECRETO LEGISLATIVO_19980725_286/1998-08-18_098G0348_VIGENZA_2026-07-16_V0.xml": {
-      "sha256": "2edace5bd5fae6cceea48f8253ed9da2f43233aa09ef37eb7d9ef4d7d421733e",
+    "DECRETO LEGISLATIVO_19980725_286/1998-08-18_098G0348_VIGENZA_2026-11-12_V0.xml": {
+      "sha256": "e8af65379efe599a5f9c33be21dccf0767fe9d88c1ad094ffecffe6e5bd114a4",
       "out": "Testi Unici/stato-decreto.legislativo-1998-07-25-286.md",
       "urn": "urn:nir:stato:decreto.legislativo:1998-07-25;286"
     },
@@ -306,8 +306,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-1999-10-29-490.md",
       "urn": "urn:nir:stato:decreto.legislativo:1999-10-29;490"
     },
-    "DECRETO LEGISLATIVO_20000818_267/2000-09-28_000G0304_VIGENZA_2026-08-12_V0.xml": {
-      "sha256": "b73fb2fc61bddd08c92fd620d3c0ffdedbc164804c424efbd340321a4ae8c39b",
+    "DECRETO LEGISLATIVO_20000818_267/2000-09-28_000G0304_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "057df94805af0ae21443916cda4607fb3edc3245f53c0043c37b05bd03b44615",
       "out": "Testi Unici/stato-decreto.legislativo-2000-08-18-267.md",
       "urn": "urn:nir:stato:decreto.legislativo:2000-08-18;267"
     },
@@ -366,8 +366,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2018-05-21-75.md",
       "urn": "urn:nir:stato:decreto.legislativo:2018-05-21;75"
     },
-    "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-08-20_V0.xml": {
-      "sha256": "5028f5ffe97b6652a82f32c37df5ee5bf789e199a23681ebb6a272b2f7722d25",
+    "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "656fa2813e793d6105b426e9df1e7e52226a294a4e4494a4eb0b9c907d986c2a",
       "out": "Testi Unici/stato-decreto.legislativo-2024-11-05-173.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-11-05;173"
     },
@@ -381,8 +381,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2024-11-14-175.md",
       "urn": "urn:nir:stato:decreto.legislativo:2024-11-14;175"
     },
-    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-09-23_V0.xml": {
-      "sha256": "a039c45255fe2bea85f4fd48b2ce6991a9da7043b5ed9277cdeb87c4799490db",
+    "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "836f29c9257d2faa5963dba32b070388be2f10547201c49d0fa3929d517522ea",
       "out": "Testi Unici/stato-decreto.legislativo-2025-03-24-33.md",
       "urn": "urn:nir:stato:decreto.legislativo:2025-03-24;33"
     },
@@ -396,8 +396,8 @@
       "out": "Testi Unici/stato-decreto.legislativo-2026-01-19-10.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-01-19;10"
     },
-    "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-09-23_V0.xml": {
-      "sha256": "b51767e1f40976e0aa3fe8c1560d2b3a47a5eaf4142863c8afdfe58b6a83c497",
+    "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-10-30_V0.xml": {
+      "sha256": "ff64b3dd85f752115b9b3ebe4a4d1a14cc441ff62e5180acbc9816bffd5a5df2",
       "out": "Testi Unici/stato-decreto.legislativo-2026-06-19-117.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-06-19;117"
     },

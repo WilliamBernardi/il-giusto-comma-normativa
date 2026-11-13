@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2025-05-18
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -731,17 +731,15 @@ Il verbale delle operazioni dell'Ufficio elettorale di sezione e' redatto dal se
 
 ### Art. 75. — T. U. 5 febbraio 1948, n. 26, art. 53, e L. 16 maggio 1956, n. 493, art. 33
 
-Il presidente dichiara il risultato dello scrutinio e ne fa certificazione nel verbale, del quale fa compilare un estratto, contenente i risultati della votazione e dello scrutinio, che provvede a rimettere subito alla Prefettura, tramite il Comune. Il verbale e' poi immediatamente chiuso in un plico, che dev'essere sigillato col bollo dell'Ufficio e firmato dal presidente, da almeno due scrutatori e dai rappresentanti ((...)) delle liste presenti.
-L'adunanza e' poi sciolta immediatamente. 
+Il presidente dichiara il risultato dello scrutinio e ne fa certificazione nel verbale, del quale fa compilare un estratto, contenente i risultati della votazione e dello scrutinio, che provvede a rimettere subito alla Prefettura, tramite il Comune. Il verbale e' poi immediatamente chiuso in un plico, che dev'essere sigillato col bollo dell'Ufficio e firmato dal presidente, da almeno due scrutatori e dai rappresentanti ((...)) delle liste presenti. L'adunanza e' poi sciolta immediatamente. 
  Il presidente o, per sua delegazione scritta, due scrutatori, recano immediatamente il plico chiuso e sigillato contenente un esemplare del verbale con le schede e tutti i plichi e i documenti di cui al 3° comma dell'art. 72 alla Cancelleria del Tribunale nella cui circoscrizione ha sede la sezione. 
  La Cancelleria del Tribunale provvede all'immediato inoltro alla Cancelleria della Corte d'appello o del Tribunale del capoluogo della circoscrizione dei plichi e dei documenti previsti dal comma precedente, nonche' ((della cassetta, dell'urna)), dei plichi e degli altri documenti di cui all'art. 73. 
  L'altro esemplare del suddetto verbale e' depositato, nella stessa giornata, nella Segreteria del Comune dove ha sede la sezione, ed ogni elettore della circoscrizione ha diritto di prenderne conoscenza. 
+ Il plico delle schede spogliate, insieme con l'estratto del verbale relativo alla formazione e all'invio di esso nei modi prescritti dall'art. 73, viene subito portato, da due membri almeno dell'Ufficio della sezione, al Pretore, il quale, accertata l'integrita' dei sigilli e delle firme, vi appone pure il sigillo della Pretura e la propria firma e redige verbale della consegna. 
  Le persone incaricate del trasferimento degli atti e documenti di cui ai commi secondo, terzo, quarto e quinto sono personalmente responsabili del recapito di essi; e' vietato ogni stanziamento o tramite non previsto dalle citate disposizioni. 
  COMMA ABROGATO DAL D.LGS. 20 DICEMBRE 1993, N. 534. 
  COMMA ABROGATO DAL D.LGS. 20 DICEMBRE 1993, N. 534. 
  COMMA ABROGATO DAL D.LGS. 20 DICEMBRE 1993, N. 534. 
- L'estratto e' trasmesso, non oltre il sessantesimo giorno successivo a quello della votazione, al Sindaco del Comune dove ha avuto sede la sezione, il quale ne cura il deposito, per quindici giorni, nella Segreteria, dandone pubblico avviso mediante manifesto.
-Ogni elettore della circoscrizione ha diritto di prendere conoscenza dell'estratto. 
  Qualora non siasi adempiuto a quanto prescritto nel 2°, 3° e 4° comma del presente articolo, il Presidente della Corte di appello o del Tribunale puo' far sequestrare i verbali, le urne, le schede e le carte ovunque si trovino. 
  Le spese tutte per le operazioni indicate in questo e negli articoli precedenti sono anticipate dal Comune e rimborsate dallo Stato.
 
@@ -789,10 +787,10 @@ L'Ufficio centrale circoscrizionale pronuncia provvisoriamente sopra qualunque i
 ### Art. 81. — T. U. 5 febbraio 1948, n. 26, art. 58, e L. 16 maggio 1956, n. 493, artt. 6, comma 1°, e 35, n. 4
 
 Di tutte le operazioni dell'Ufficio centrale circoscrizionale si deve redigere in duplice esemplare il processo verbale che, seduta stante, dev'essere firmato in ciascun foglio e sottoscritto dal presidente, dagli altri magistrati, dal cancelliere e dai rappresentanti ((...)) di lista presenti. 
- IL D.LGS. 20 DICEMBRE 1993, N. 534 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA. 
- Nel verbale debbono essere inoltre indicati, in appositi elenchi, i nomi dei candidati di ciascuna lista non eletti, nell'ordine determinato in conformita' del numero 6) dell'art. 77. 
+ COMMA ABROGATO DALLA L. 4 AGOSTO 1993, N. 277. 
  COMMA ABROGATO DAL D.LGS. 20 DICEMBRE 1993, N. 534. 
- L'organo di verifica dei poteri accerta anche, agli effetti dell'art. 86, l'ordine di precedenza dei candidati non eletti e pronuncia sui relativi reclami. 
+ Uno degli esemplari del verbale, con i documenti annessi, nonche' tutti i verbali delle sezioni con i relativi atti e documenti ad essi allegati, devono essere inviati subito dal presidente dell'Ufficio centrale alla Segreteria della Camera dei deputati, la quale ne rilascia ricevuta. 
+ COMMA ABROGATO DAL D.LGS. 20 DICEMBRE 1993, N. 534. 
  Il secondo esemplare del verbale e' depositato nella Cancelleria della Corte di appello o del Tribunale.
 
 ### Art. 82. — L. 16 maggio 1956, n. 493, art. 40
@@ -932,7 +930,8 @@ L'elezione uninominale nel Collegio "Valle d'Aosta", agli effetti dell'art. 22 d
  1-bis) ((NUMERO ABROGATO DALLA L. 3 NOVEMBRE 2017, N. 165)); 
  2) la candidatura deve essere proposta con dichiarazione sottoscritta, anche in atti separati, da non meno di 300 e non piu' di 600 elettori del collegio. In caso di scioglimento della Camera dei deputati che ne anticipi la scadenza di oltre centoventi giorni, il numero delle sottoscrizioni della dichiarazione e' ridotto della meta'; 
  2-bis) ((NUMERO ABROGATO DALLA L. 3 NOVEMBRE 2017, N. 165)); 
- 3) la' dichiarazione di candidatura dev'essere depositata, dalle ore 8 del trentacinquesimo giorno alle ore 20 del trentaquattresimo giorno anteriore a quello dell'elezione, insieme con il contrassegno di ciascun candidato, presso la Cancelleria del Tribunale di Aosta;  ((4) la votazione ha luogo con scheda stampata a cura del Ministero dell'interno secondo il modello previsto dalle tabelle F e G allegate alla legge 13 marzo 1980, n. 70)). 
+ 3) la' dichiarazione di candidatura dev'essere depositata, dalle ore 8 del trentacinquesimo giorno alle ore 20 del trentaquattresimo giorno anteriore a quello dell'elezione, insieme con il contrassegno di ciascun candidato, presso la Cancelleria del Tribunale di Aosta;  
+ ((4) la votazione ha luogo con scheda stampata a cura del Ministero dell'interno secondo il modello previsto dalle tabelle F e G allegate alla legge 13 marzo 1980, n. 70)). 
  ((L'elettore, per votare, traccia un segno con la matita copiativa sul contrassegno del candidato da lui prescelto o comunque nel rettangolo che lo contiene. Una scheda valida rappresenta un voto individuale)). 
  COMMA NON PIU' PREVISTO DALLA L. 6 MAGGIO 2015, N. 52. (42)
 

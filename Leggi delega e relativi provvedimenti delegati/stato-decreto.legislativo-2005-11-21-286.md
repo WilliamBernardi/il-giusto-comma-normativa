@@ -8,9 +8,9 @@ codice_redazionale: 005G0306
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2025-07-20
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-10-24
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -250,6 +250,14 @@ Con decreto dirigenziale della competente struttura del Ministero delle infrastr
                                 
                             
                             
+                                c-bis)
+                                
+                                    
+                                        ((valore del costo del carburante all'atto della stipula e incidenza del costo del carburante per le prestazioni di trasporto disciplinate dal contratto;))
+                                    
+                                
+                            
+                            
                                 d)
                                 
                                     corrispettivo del servizio di trasporto e modalita' di pagamento, nonche' clausola di adeguamento di tale corrispettivo al costo del carburante, sulla base delle variazioni intervenute nel prezzo del gasolio da autotrazione a seguito delle rilevazioni mensili del Ministero della transizione ecologica, qualora dette variazioni superino del 2 per cento il valore preso a riferimento al momento della stipulazione del contratto o dell'ultimo adeguamento effettuato; 
@@ -290,7 +298,7 @@ Per i trasporti eseguiti in regime di cabotaggio stradale, il contratto di autot
 
 In assenza di anche uno degli elementi indicati al comma 3, il contratto di trasporto si considera non stipulato in forma scritta.
 
-Al fine di mitigare gli effetti conseguenti all'aumento dei costi del carburante per autotrazione incentivando, al contempo, il ricorso alla forma scritta nella ((stipulazione dei contratti)) di trasporto di merci su strada, il corrispettivo ((,)) nei contratti di trasporto di merci su strada conclusi in forma non scritta, si determina in base ai valori indicativi di riferimento dei costi di esercizio dell'impresa di trasporto merci per conto di terzi, pubblicati e aggiornati dal Ministero delle infrastrutture e della mobilita' sostenibili ai sensi dell'articolo 1, comma 250, della legge 23 dicembre 2014, n. 190.
+Al fine di mitigare gli effetti conseguenti all'aumento dei costi del carburante per autotrazione incentivando, al contempo, il ricorso alla forma scritta nella stipulazione dei contratti di trasporto di merci su strada, il corrispettivo, nei contratti di trasporto di merci su strada conclusi in forma non scritta, si determina in base ai valori indicativi di riferimento dei costi di esercizio dell'impresa di trasporto merci per conto di terzi, pubblicati e aggiornati dal Ministero delle infrastrutture e della mobilita' sostenibili ai sensi dell'articolo 1, comma 250, della legge 23 dicembre 2014, n. 190.
 
 ## Art. 6-bis. — (Disciplina dei tempi di attesa ai fini del carico e scarico.
  Franchigia)
@@ -387,6 +395,8 @@ Il caricatore e' in ogni caso responsabile laddove venga accertata la violazione
 
  1. Il vettore di cui all'articolo 2, comma 1, lettera b), il quale ha svolto un servizio di trasporto su incarico di altro vettore, a sua volta obbligato ad eseguire la prestazione in forza di contratto stipulato con precedente vettore o direttamente con il mittente, inteso come mandante effettivo della consegna, ha azione diretta per il pagamento del corrispettivo nei confronti di tutti coloro che hanno ordinato il trasporto, i quali sono obbligati in solido nei limiti delle sole prestazioni ricevute e della quota di corrispettivo pattuita, fatta salva l'azione di rivalsa di ciascuno nei confronti della propria controparte contrattuale. E' esclusa qualsiasi diversa pattuizione, che non sia basata su accordi volontari di settore))
 
+
+
 -------------
                             AGGIORNAMENTO (4)
                              Il D.L. 6 luglio 2010, n. 103, convertito con modificazioni dalla L. 4 agosto 2010, n. 127, ha disposto (con l'art. 1-bis, comma 3) che "Le disposizioni di cui al comma 2, lettera e), si applicano decorso un anno dalla data di entrata in vigore della legge di conversione del presente decreto".
@@ -471,6 +481,11 @@ L'attivita' di guida su strada aperta all'uso pubblico per mezzo di veicoli ((ad
  Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ## Art. 15. — (( (Ambito di applicazione). ))
+
+((1. La qualificazione di cui all'articolo 14 e' richiesta: 
+ a) ai cittadini italiani; 
+b) ai cittadini di uno Stato membro dell'Unione europea o dello Spazio economico europeo; 
+ c) ai cittadini di un paese terzo dipendenti di un'impresa stabilita in uno Stato membro o impiegati presso la stessa.))
 
 -------------
                             AGGIORNAMENTO (6)
@@ -592,6 +607,12 @@ L'attivita' di guida su strada aperta all'uso pubblico per mezzo di veicoli ((ad
  Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ## Art. 17. — (( (Esenzioni) ))
+
+((1. Sono esentati dall'obbligo di qualificazione iniziale i conducenti: 
+ a) gia' titolari, alla data del 9 settembre 2008, di patente di guida italiana di categoria D o DE e di certificato di abilitazione professionale di tipo KD ovvero di patente di guida rilasciata da uno Stato appartenente all'Unione europea o allo Spazio economico europeo di categoria D1, D1E, D o DE; 
+b) gia' titolari, alla data del 9 settembre 2009, di patente di guida italiana di categoria C o CE ovvero di patente di guida rilasciata da uno Stato appartenente all'Unione europea o allo Spazio economico europeo di categoria C1, C1E, C o CE; 
+ c) gia' titolari, alla data del 9 settembre 2008 ovvero del 9 settembre 2009, di patente di guida rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo equivalente rispettivamente alle categorie D1, D1E, D e DE ovvero C1, C1E, C e CE, a condizione di svolgere l'attivita' di conducente alle dipendenze di un'impresa stabilita sul territorio italiano.))
+                                ((6))
 
 -------------
                             AGGIORNAMENTO (6)
@@ -735,6 +756,8 @@ I corsi di formazione sono organizzati da uno dei soggetti di cui all'articolo 1
  Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ## Art. 21. — (( (Luogo di svolgimento della qualificazione iniziale e della formazione periodica). ))
+
+
 
 -------------
                             AGGIORNAMENTO (6)

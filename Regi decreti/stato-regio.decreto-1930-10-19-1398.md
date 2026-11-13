@@ -8,9 +8,9 @@ codice_redazionale: 030U1398
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-vigenza_date: 2026-07-16
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-10-31
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 REGIO DECRETO
@@ -1177,9 +1177,9 @@ Non e' imputabile chi, nel momento in cui ha commesso il fatto, non aveva compiu
 
 ### Art. 98. — Minore degli anni diciotto
 
-E' imputabile chi, nel momento in cui ha commesso il fatto, aveva compiuto i quattordici anni, ma non ancora i diciotto, se aveva capacita' d'intendere e di volere; ma la pena e' diminuita. 
+E' imputabile chi, nel momento in cui ha commesso il fatto, aveva compiuto i quattordici anni, ma non ancora i diciotto, se aveva capacita' d'intendere e di volere; ma la pena e' diminuita. ((Nei casi di cui al primo periodo la capacita' di intendere e di volere del minore si presume fino a prova contraria.)) 
  
- Quando la pena detentiva inflitta e' inferiore a cinque anni, o si tratta di pena pecuniaria, alla condanna non conseguono pene accessorie. Se si tratta di pena piu' grave, la condanna importa soltanto l'interdizione dai pubblici uffici per una durata non superiore a cinque anni, e, nei casi stabiliti dalla legge, la sospensione dall'esercizio della ((responsabilita' genitoriale)) o dell'autorita' maritale.
+ Quando la pena detentiva inflitta e' inferiore a cinque anni, o si tratta di pena pecuniaria, alla condanna non conseguono pene accessorie. Se si tratta di pena piu' grave, la condanna importa soltanto l'interdizione dai pubblici uffici per una durata non superiore a cinque anni, e, nei casi stabiliti dalla legge, la sospensione dall'esercizio della responsabilita' genitoriale o dell'autorita' maritale.
 
 ### Art. 99. — Recidiva
 
@@ -2790,9 +2790,23 @@ Nel caso di condanna, il giudice puo' ordinare la confisca delle cose che servir
 
 ### Art. 240-bis. — Confisca in casi particolari
 
-Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale, per taluno dei delitti previsti dall'articolo 51, comma 3-bis, del codice di procedura penale, dagli articoli 314, 316, 316-bis, 316-ter, 317, 318, 319, 319-ter, 319-quater, 320, 322, 322-bis, 325, 416, realizzato allo scopo di commettere delitti previsti dagli articoli 453, 454, 455, 460, 461, 517-ter, 517-quater, 518-quater, 518-quinquies, 518-sexies e 518-septies, nonche' dagli articoli 452-bis, ((452-bis.1,)) 452-ter, 452-quater, 452-sexies, 452-octies, primo comma, 452-quaterdecies, 493-ter, 512-bis, 600-bis, primo comma, 600-ter, primo e secondo comma, 600-quater.1, relativamente alla condotta di produzione o commercio di materiale pornografico, 600-quinquies, 603-bis, 628, terzo comma, 628-bis, 629, 640, secondo comma, numero 1, con l'esclusione dell'ipotesi in cui il fatto e' commesso col pretesto di far esonerare taluno dal servizio militare, 640-bis, 644, 648, esclusa la fattispecie di cui al quarto comma, 648-bis, 648-ter e 648-ter.1, dall'articolo 2635 del codice civile, o per taluno dei delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine costituzionale, e' sempre disposta la confisca del denaro, dei beni o delle altre utilita' di cui il condannato non puo' giustificare la provenienza e di cui, anche per interposta persona fisica o giuridica, risulta essere titolare o avere la disponibilita' a qualsiasi titolo in valore sproporzionato al proprio reddito, dichiarato ai fini delle imposte sul reddito, o alla propria attivita' economica. In ogni caso il condannato non puo' giustificare la legittima provenienza dei beni sul presupposto che il denaro utilizzato per acquistarli sia provento o reimpiego dell'evasione fiscale, salvo che l'obbligazione tributaria sia stata estinta mediante adempimento nelle forme di legge. La confisca ai sensi delle disposizioni che precedono e' ordinata in caso di condanna o di applicazione della pena su richiesta per i reati di cui agli articoli 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quinquies quando le condotte ivi descritte riguardano tre o piu' sistemi. 
+Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale, per taluno dei delitti previsti dall'articolo 51, comma 3-bis, del codice di procedura penale, dagli articoli 314, 316, 316-bis, 316-ter, 317, 318, 319, 319-ter, 319-quater, 320, 322, 322-bis, 325, ((414-bis,)) 416, realizzato allo scopo di commettere delitti previsti dagli articoli 453, 454, 455, 460, 461, 517-ter, 517-quater, 518-quater, 518-quinquies, 518-sexies e 518-septies, nonche' dagli articoli 452-bis, 452-bis.1, 452-ter, 452-quater, 452-sexies, 452-octies, primo comma, 452-quaterdecies, 493-ter, 512-bis, 600-bis, primo comma, 600-ter, primo e secondo comma, 600-quater.1, relativamente alla condotta di produzione o commercio di materiale pornografico, 600-quinquies, 603-bis, 628, terzo comma, 628-bis, 629, 640, secondo comma, numero 1, con l'esclusione dell'ipotesi in cui il fatto e' commesso col pretesto di far esonerare taluno dal servizio militare, 640-bis, ((640-ter, secondo comma,)) 644, 648, esclusa la fattispecie di cui al quarto comma, 648-bis, 648-ter e 648-ter.1, dall'articolo 2635 del codice civile, o per taluno dei delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine costituzionale, e' sempre disposta la confisca del denaro, dei beni o delle altre utilita' di cui il condannato non puo' giustificare la provenienza e di cui, anche per interposta persona fisica o giuridica, risulta essere titolare o avere la disponibilita' a qualsiasi titolo in valore sproporzionato al proprio reddito, dichiarato ai fini delle imposte sul reddito, o alla propria attivita' economica. In ogni caso il condannato non puo' giustificare la legittima provenienza dei beni sul presupposto che il denaro utilizzato per acquistarli sia provento o reimpiego dell'evasione fiscale, salvo che l'obbligazione tributaria sia stata estinta mediante adempimento nelle forme di legge. La confisca ai sensi delle disposizioni che precedono e' ordinata in caso di condanna o di applicazione della pena su richiesta per i reati di cui agli articoli 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, ((635-quater.1,)) 635-quinquies quando le condotte ivi descritte riguardano tre o piu' sistemi. 
  
- Nei casi previsti dal primo comma, quando non e' possibile procedere alla confisca del denaro, dei beni e delle altre utilita' di cui allo stesso comma, il giudice ordina la confisca di altre somme di denaro, di beni e altre utilita' di legittima provenienza per un valore equivalente, delle quali il reo ha la disponibilita', anche per interposta persona.
+ Nei casi previsti dal primo comma, quando non e' possibile procedere alla confisca del denaro, dei beni e delle altre utilita' di cui allo stesso comma, il giudice ordina la confisca di altre somme di denaro, di beni e altre utilita' di legittima provenienza per un valore equivalente, delle quali il reo ha la disponibilita', anche per interposta persona. 
+ 
+ ((Il giudice dispone la confisca quando accerta la correlazione temporale tra l'epoca di acquisizione dei beni e quella di svolgimento di attivita' delittuosa.))
+
+### Art. 240-ter. — ( (Confisca per equivalente dei beni strumentali in casi particolari).)
+
+((Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale, per taluno dei delitti previsti dagli articoli 275-bis, 275-ter, 275-quater, 275-quinquies, 280, 280-bis, 289-bis, 305, 306, 316, 316-bis, 316-ter, 322-bis, 414-bis, 416, realizzato allo scopo di commettere delitti puniti con pena detentiva non inferiore a quattro anni, 416-bis, 452-bis, 452-quater, 452-sexies, 452-quaterdecies, 453, 461, 493-ter, 493-quater, 600, 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 602, 609-undecies, 615-ter, 615-quater, 617, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 628-bis, 635-bis, 635-ter, 635-quater, 635-quater.1, 635-quinquies, 640-bis, 640-quater, 648-bis, 648-ter, 648-ter.1 del codice penale, dagli articoli 2635 e 2635-bis del codice civile o per taluno dei delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine costituzionale, quando non e' possibile procedere alla confisca delle cose che servirono o furono destinate a commettere il reato, il giudice dispone la confisca dei beni o delle altre utilita' dei quali il reo ha la disponibilita', anche per interposta persona, per un valore equivalente a quello del bene strumentale.))
+                                    ((La disposizione di cui al comma che precede si applica altresi' in caso di condanna o di applicazione della pena su richiesta per i reati di cui all'articolo 12, commi 1, 3 e 3-ter, 12-bis del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, per i delitti in materia di abuso di mercato previsti dal decreto legislativo 24 febbraio 1998, n. 58, per i delitti di cui agli articoli 84 e 86 del decreto legislativo 26 settembre 2024, n. 141 o per taluno dei reati concernenti le armi, le munizioni e gli esplosivi, nonche' per i reati di cui agli articoli 255-bis, 255-ter, 256, 256-bis, 259, del decreto legislativo 3 aprile 2006, n. 152 relativo alle norme in materia ambientale.))
+                                    ((Nel determinare il valore dei beni da sottoporre a confisca per equivalente, il giudice tiene conto della gravita' del reato e delle condizioni economico e patrimoniali del condannato.))
+
+### Art. 240-quater. — ( (Confisca dei beni nei confronti dei terzi in casi particolari).)
+
+((Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale, per taluno dei delitti previsti dagli articoli 275-bis, 275-ter, 275-quater, 275-quinquies, 280, 280-bis, 289-bis, 305, 306, 316, 316-bis, 316-ter, 322-bis, 414-bis, 416, realizzato allo scopo di commettere delitti puniti con pena detentiva non inferiore a quattro anni, 416-bis, 452-bis, 452-quater, 452-sexies, 452-quaterdecies, 453, 461, 493-ter, 493-quater, 600, 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 602, 609-undecies, 615-ter, 615-quater, 617, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 628-bis, 635-bis, 635-ter, 635-quater, 635-quater.1, 635-quinquies, 640-bis, 640-quater, 648-bis, 648-ter, 648-ter.1 del codice penale, dagli articoli 2635 e 2635-bis del codice civile o per taluno dei delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine costituzionale, quando deve essere disposta la confisca dei beni costituenti il prezzo, il prodotto o il profitto, se l'imputato non ha la disponibilita' di beni di valore equivalente, anche per interposta persona, il giudice puo' disporre la confisca altresi' dei beni che l'imputato ha trasferito ad una persona estranea al reato al fine di sottrarli agli effetti della confisca.
+In questo caso, la confisca puo' essere disposta solo quando e' accertato che il terzo estraneo, al momento del trasferimento, conosceva le finalita' perseguite dall'imputato.))
+                                    ((La disposizione di cui al comma che precede si applica altresi' in caso di condanna o di applicazione della pena su richiesta per i reati di cui agli articoli 12, commi 1, 3 e 3-ter, 12-bis del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, per i delitti in materia di abuso di mercato previsti dal decreto legislativo 24 febbraio 1998, n. 58, per i delitti di cui agli articoli 84 e 86 del decreto legislativo 26 settembre 2024, n. 141 o per taluno dei reati concernenti le armi, le munizioni e gli esplosivi, nonche' per i reati di cui agli articoli 255-bis, 255-ter, 259-bis, del decreto legislativo 3 aprile 2006, n. 152 relativo alle norme in materia ambientale.))
 
 ### Art. 241. — (( (Attentati contro l'integrita', l'indipendenza e l'unita' dello Stato).))
 
@@ -5121,9 +5135,11 @@ Quando tre o piu' persone si associano allo scopo di commettere piu' delitti, co
  
  La pena e' aumentata se il numero degli associati e' di dieci o piu'. 
  
- Se l'associazione e' diretta a commettere taluno dei delitti di cui agli articoli 600, 601 ((, 601-bis)) e 602, nonche' all'articolo 12, comma 3-bis, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, ((nonche' agli articoli 22, commi 3 e 4, e 22-bis, comma 1, della legge 1° aprile 1999, n. 91,))si applica la reclusione da cinque a quindici anni nei casi previsti dal primo comma e da quattro a nove anni nei casi previsti dal secondo comma. 
+ Se l'associazione e' diretta a commettere taluno dei delitti di cui agli articoli 600, 601, 601-bis e 602, nonche' all'articolo 12, comma 3-bis, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, nonche' agli articoli 22, commi 3 e 4, e 22-bis, comma 1, della legge 1° aprile 1999, n. 91,si applica la reclusione da cinque a quindici anni nei casi previsti dal primo comma e da quattro a nove anni nei casi previsti dal secondo comma. 
  
  Se l'associazione e' diretta a commettere taluno dei delitti previsti dagli articoli 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 609-bis, quando il fatto e' commesso in danno di un minore di anni diciotto, 609-quater, 609-quinquies, 609-octies, quando il fatto e' commesso in danno di un minore di anni diciotto, e 609-undecies, si applica la reclusione da quattro a otto anni nei casi previsti dal primo comma e la reclusione da due a sei anni nei casi previsti dal secondo comma. 
+ 
+ ((Quando l'associazione e' finalizzata alla commissione di reati puniti con la reclusione non inferiore a quattro anni, nel caso di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, e' disposta la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prodotto, il prezzo o il profitto, salvo che appartengano a persona estranea al reato ovvero, quando essa non e' possibile, dei beni di cui il condannato ha comunque la disponibilita', per un valore corrispondente al profitto, al prodotto o al prezzo del reato.)) 
  (33) (96) (125) (233)
 
 ---------------
@@ -5151,20 +5167,19 @@ Quando tre o piu' persone si associano allo scopo di commettere piu' delitti, co
 
 Associazioni di tipo mafioso anche straniere 
  
- Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione ((da dieci a quindici anni)). 
+ Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione da dieci a quindici anni. 
  
- Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione ((da dodici a diciotto anni)). 
+ Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione da dodici a diciotto anni. 
  
  L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri ovvero al fine di impedire od ostacolare il libero esercizio del voto o di procurare voti a se' o ad altri in occasione di consultazioni elettorali. 
  
- Se l'associazione e' armata si applica la pena della reclusione ((da dodici a venti anni)) nei casi previsti dal primo comma e ((da quindici a ventisei anni)) nei casi previsti dal secondo comma. 
+ Se l'associazione e' armata si applica la pena della reclusione da dodici a venti anni nei casi previsti dal primo comma e da quindici a ventisei anni nei casi previsti dal secondo comma. 
  
  L'associazione si considera armata quando i partecipanti hanno la disponibilita', per il conseguimento della finalita' dell'associazione, di armi o materie esplodenti, anche se occultate o tenute in luogo di deposito. 
  
  Se le attivita' economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di delitti, le pene stabilite nei commi precedenti sono aumentate da un terzo alla meta'. 
  
- Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. PERIODO ABROGATO DALLA L. 19 MARZO 1990, N.
-55. (118) 
+ Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. PERIODO ABROGATO DALLA L. 19 MARZO 1990, N. 55 ((Ove la confisca non sia possibile, e' disposta la confisca di beni di cui il reo ha la disponibilita', anche indirettamente o per interposta persona, per un valore corrispondente al prezzo, al prodotto o al profitto del reato.)) (118) 
  
  Le disposizioni del presente articolo si applicano anche alla camorra, alla 'ndrangheta e alle altre associazioni, comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso. 
  (96) (125) (233)
@@ -5239,7 +5254,9 @@ Chiunque, fuori dei casi di concorso nel reato o di favoreggiamento, da' rifugio
 
 Chiunque, fuori dei casi preveduti dall'articolo 285, commette fatti di devastazione o di saccheggio e' punito con la reclusione da otto a quindici anni. 
  
- La pena e' aumentata se il fatto e' commesso ((nel corso di manifestazioni in luogo pubblico o aperto al pubblico ovvero)) su armi, munizioni o viveri esistenti in luogo di vendita o di deposito. 
+ La pena e' aumentata se il fatto e' commesso nel corso di manifestazioni in luogo pubblico o aperto al pubblico ovvero su armi, munizioni o viveri esistenti in luogo di vendita o di deposito. 
+ 
+ ((La pena e' aumentata da un terzo alla meta' se il fatto e' commesso nel corso di manifestazioni in luogo pubblico o aperto al pubblico su beni esistenti in luogo di vendita o di deposito.)) 
  (48) (56)
 
 ---------------
@@ -5260,9 +5277,19 @@ Chiunque, fuori dei casi preveduti dall'articolo 285, commette fatti di devastaz
 
 Chiunque commette un fatto diretto a danneggiare o distruggere impianti di pubblica utilita', e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da uno a quattro anni. 
  
- ((COMMA ABROGATO DALLA L. 18 MARZO 2008, N. 48)). 
+ ((La pena e' aumentata da un terzo alla meta' se il fatto e' commesso nel corso di manifestazioni in luogo pubblico o aperto al pubblico.)) 
  
- ((COMMA ABROGATO DALLA L. 18 MARZO 2008, N. 48)).
+ COMMA ABROGATO DALLA L. 18 MARZO 2008, N. 48. 
+ 
+ COMMA ABROGATO DALLA L. 18 MARZO 2008, N. 48.
+
+### Art. 420-bis. — ( (Violenza organizzata nelle manifestazioni pubbliche).)
+
+((Salvo che il fatto costituisca piu' grave reato, chiunque, nel corso di manifestazioni in luogo pubblico o aperto al pubblico, partecipando ad un gruppo composto da almeno cinque persone che opera in modo organizzato anche occasionalmente, utilizza illegittimamente bastoni, mazze, oggetti contundenti o, comunque, atti a offendere, ovvero lancia i medesimi oggetti oppure razzi, fuochi artificiali, petardi, strumenti in grado di nebulizzare gas contenenti principi attivi urticanti, determinando un concreto pericolo per l'incolumita' delle persone e cagionando altresi' danni alle cose, e' punito con la reclusione da due a cinque anni e con la multa da euro 10.000 a euro 20.000.))
+                                    ((La pena e' aumentata da un terzo alla meta' se: 
+ a) il fatto e' commesso da soggetti che agiscono travisati o comunque con modalita' idonee a rendere difficoltosa l'identificazione; 
+ b) il lancio o l'utilizzo di oggetti atti ad offendere e' diretto contro infrastrutture destinate all'erogazione di energia, di servizi di trasporto, di telecomunicazioni o di altri servizi pubblici, o di beni mobili o immobili adibiti all'esercizio di funzioni pubbliche, destinati a pubblico servizio o a pubblica utilita' o esposti alla pubblica fede.))
+                                    ((Chiunque, anche mediante strumenti informatici o telematici, organizza o promuove la formazione del gruppo di cui al primo comma oppure incita o istiga alla commissione delle condotte di cui al primo comma e' punito con la reclusione da quattro a dodici anni. Se le condotte di cui al primo comma cagionano lesioni personali le pene di cui agli articoli 582, 583, 583-quater e 583-quinquies sono aumentate da un terzo alla meta'.))
 
 ### Art. 421. — Pubblica intimidazione
 
@@ -5609,6 +5636,13 @@ Chiunque omette di collocare impianti, apparecchi o segnali destinati a prevenir
                                 
  Il D.Lgs. Luogotenenziale 10 maggio 1945, n. 234 ha disposto (con l'art. 4, comma 1) che "Salvo quanto disposto negli articoli precedenti, le pene previste per i reati contemplati nel libro secondo, titolo sesto, capo primo, e titolo tredicesimo, capo primo del Codice penale, sono aumentate da un terzo alla meta'". 
  Ha inoltre disposto (con l'art. 7, comma 1) che la presente modifica ha efficacia fino ad un anno dopo la cessazione dello stato di guerra.
+
+### Art. 437-bis. — ( (Omessa adozione di misure di sicurezza nei sistemi di intelligenza artificiale e alterazione illecita dei sistemi).)
+
+((Chiunque omette di adottare le misure tecniche di sicurezza, previste per la progettazione, l'addestramento, la produzione, l'immissione sul mercato di sistemi di intelligenza artificiale ad alto rischio, idonee a prevenire malfunzionamenti o alterazioni del funzionamento dei sistemi ovvero omette di adottare misure di sorveglianza umana e' punito con la reclusione da uno a cinque anni, quando da tali omissioni derivi pericolo per la vita o l'incolumita' pubblica o individuale. Qualora dal fatto derivi un pericolo per la sicurezza dello Stato, la pena e' della reclusione da due a otto anni)). 
+ ((Salvo che il fatto costituisca piu' grave reato, chiunque, al di fuori dei casi indicati al primo comma, altera sistemi di intelligenza artificiale ad alto rischio e' punito, qualora dal fatto derivi un pericolo per la vita o l'incolumita' pubblica o individuale, con la reclusione da due a sei anni. Qualora dal fatto derivi un pericolo per la sicurezza dello Stato, la pena e' della reclusione da tre a dieci anni)). 
+ ((Se taluno dei fatti previsti dal comma primo e' commesso per colpa grave, la pena e' ridotta da un terzo a un sesto)). 
+ ((L'utilizzatore professionale di sistemi di intelligenza artificiale ad alto rischio che omette intenzionalmente di adottare misure di sorveglianza umana e' punito con le pene previste dal primo comma, primo e secondo periodo, qualora da tale omissione derivi, rispettivamente, pericolo per la vita o l'incolumita' pubblica o individuale oppure un pericolo per la sicurezza dello Stato)).
 
 ### Art. 438. — Epidemia
 
@@ -7425,7 +7459,7 @@ Chiunque percuote taluno, se dal fatto non deriva una malattia nel corpo o nella
 
 Chiunque cagiona ad alcuno una lesione personale, dalla quale deriva una malattia nel corpo o nella mente, e' punito, a querela della persona offesa, con la reclusione da sei mesi a tre anni. 
  
- Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli articoli 583, 583-quater, secondo comma, primo periodo, ((e terzo comma,)) e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'articolo 577. Si procede altresi' d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto e' commesso contro persona incapace, per eta' o per infermita'.
+ Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli articoli 583, 583-quater, ((primo comma,)) secondo comma, primo periodo, e terzo comma, e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'articolo 577. Si procede altresi' d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto e' commesso contro persona incapace, per eta' o per infermita'.
 
 ------------
                                 AGGIORNAMENTO (24)
@@ -7840,9 +7874,11 @@ Chiunque, al di fuori delle ipotesi previste dall'articolo 600-ter, consapevolme
 
 ### Art. 600-sexies. — ((ARTICOLO ABROGATO DALLA L. 1 OTTOBRE 2012, N. 172))
 
-### Art. 600-septies. — (( (Confisca).))
+### Art. 600-septies. — Confisca
 
-((Nel caso di condanna, o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per i delitti previsti dalla presente sezione, nonche' dagli articoli 609-bis, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), 609-quater, 609-quinquies, 609-octies, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), e 609-undecies, e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento dei danni, la confisca dei beni che costituiscono il prodotto, il profitto o il prezzo del reato. Ove essa non sia possibile, il giudice dispone la confisca di beni di valore equivalente a quelli che costituiscono il prodotto, il profitto o il prezzo del reato e di cui il condannato abbia, anche indirettamente o per interposta persona, la disponibilita'. Si applica il terzo comma dell'articolo 322-ter)).
+Nel caso di condanna, o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per i delitti previsti dalla presente sezione, nonche' dagli articoli 609-bis, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), 609-quater, 609-quinquies, 609-octies, quando il fatto e' commesso in danno di un minore di anni diciotto o il reato e' aggravato dalle circostanze di cui all'articolo 609-ter, primo comma, numeri 1), 5) e 5-bis), e 609-undecies, e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento dei danni, la confisca dei beni che costituiscono il prodotto, il profitto o il prezzo del reato. Ove essa non sia possibile, il giudice dispone la confisca di beni di valore equivalente a quelli che costituiscono il prodotto, il profitto o il prezzo del reato e di cui il condannato abbia, anche indirettamente o per interposta persona, la disponibilita'. Si applica il terzo comma dell'articolo 322-ter. 
+ 
+ ((Nel caso di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per uno dei delitti di cui agli articoli 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 601, 601-bis e 602, e' disposta la confisca delle cose che servirono o furono destinate a commettere il reato.))
 
 ### Art. 600-septies.1. — (( (Circostanza attenuante).))
 
@@ -8998,6 +9034,10 @@ Danneggiamento.
                                 
  Il D.Lgs. 19 marzo 2024, n. 31 ha disposto (con l'art. 9, comma 1) che "Per il delitto di cui all'articolo 635 del codice penale, commesso prima della data di entrata in vigore del presente decreto, quando il fatto e' commesso su cose esposte per necessita' o per consuetudine o per destinazione alla pubblica fede, si osservano le disposizioni dell'articolo 85 del decreto legislativo 10 ottobre 2022, n. 150, come modificato dal decreto-legge 31 ottobre 2022, n. 162, convertito, con modificazioni, dalla legge 30 dicembre 2022, n. 199, ma i termini ivi previsti decorrono dalla data di entrata in vigore del presente decreto".
 
+### Art. 635.1. — ( (Danneggiamento commesso da un gruppo organizzato).)
+
+((Quando le condotte di cui all'articolo 635, primo, secondo e terzo comma, sono poste in essere da un gruppo organizzato anche occasionalmente di almeno cinque persone, la pena e' aumentata da un terzo alla meta'.))
+
 ### Art. 635-bis. — Danneggiamento di informazioni, dati e programmi informatici
 
 Salvo che il fatto costituisca piu' grave reato, chiunque distrugge, deteriora, cancella, altera o sopprime informazioni, dati o programmi informatici altrui e' punito, a querela della persona offesa, con la reclusione ((da due a sei anni)). 
@@ -9363,11 +9403,13 @@ Si applica la pena della reclusione da due a otto anni e della multa da euro 5.0
 
 ### Art. 648-quater. — Confisca
 
-Nel caso di condanna o di applicazione della pena su richiesta delle parti, a norma dell'articolo 444 del codice di procedura penale, per uno dei delitti previsti dagli ((articoli 648-bis, 648-ter e 648-ter.1)), e' sempre ordinata la confisca dei beni che ne costituiscono il prodotto o il profitto, salvo che appartengano a persone estranee al reato. 
+Nel caso di condanna o di applicazione della pena su richiesta delle parti, a norma dell'articolo 444 del codice di procedura penale, per uno dei delitti previsti dagli articoli 648-bis, 648-ter e 648-ter.1, e' sempre ordinata la confisca dei beni che ne costituiscono il prodotto o il profitto, salvo che appartengano a persone estranee al reato. 
  
  Nel caso in cui non sia possibile procedere alla confisca di cui al primo comma, il giudice ordina la confisca delle somme di denaro, dei beni o delle altre utilita' delle quali il reo ha la disponibilita', anche per interposta persona, per un valore equivalente al prodotto, profitto o prezzo del reato. 
  
- In relazione ai reati di cui agli articoli ((648-bis, 648-ter e 648-ter.1)), il pubblico ministero puo' compiere, nel termine e ai fini di cui all'articolo 430 del codice di procedura penale, ogni attivita' di indagine che si renda necessaria circa i beni, il denaro o le altre utilita' da sottoporre a confisca a norma dei commi precedenti.
+ ((E' altresi' disposta la confisca delle cose che servirono o furono destinate a commettere il reato.)) 
+ 
+ In relazione ai reati di cui agli articoli 648-bis, 648-ter e 648-ter.1, il pubblico ministero puo' compiere, nel termine e ai fini di cui all'articolo 430 del codice di procedura penale, ogni attivita' di indagine che si renda necessaria circa i beni, il denaro o le altre utilita' da sottoporre a confisca a norma dei commi precedenti.
 
 ### Art. 649. — Non punibilita' e querela della persona offesa, per fatti commessi a danno di congiunti
 

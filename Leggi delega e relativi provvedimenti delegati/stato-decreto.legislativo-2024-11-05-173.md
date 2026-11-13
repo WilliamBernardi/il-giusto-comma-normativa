@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2024-11-05;173
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-08-07
-zip_date: 2026-08-20
-fetched_at: 2026-08-20
+vigenza_date: 2026-08-12
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -399,18 +399,19 @@ Violazioni relative alla dichiarazione dell'imposta sul valore aggiunto e ai rim
  9. Per imposta dovuta si intende la differenza tra l'ammontare del tributo liquidato in base all'accertamento e quello liquidabile in base alle dichiarazioni, ai sensi dell'articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. ((5)) 
  10. Chi chiede a rimborso l'eccedenza detraibile risultante dalla dichiarazione in assenza dei presupposti individuati dall'((articolo 114 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10)), e' punito con la sanzione amministrativa pari al 25 per cento del credito rimborsato. ((Nei confronti dei soggetti non residenti che, ai sensi dell'articolo 118 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, conseguono un rimborso non dovuto si applica la sanzione amministrativa compresa fra il 100 ed il 200 per cento della somma indebitamente rimborsata.
 Nei confronti dei soggetti non residenti che, ai sensi dell'articolo 120 del medesimo testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, conseguono un indebito rimborso si applica la sanzione amministrativa compresa fra il 200 e il 400 per cento della somma rimborsata.)) 
- 11. Chiunque, essendovi obbligato, non presenta una delle dichiarazioni di inizio o variazione di attivita', previste agli ((articoli 68 e 70 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10)), o la presenta con indicazioni incomplete o inesatte tali da non consentire l'individuazione del contribuente o dei luoghi ove e' esercitata l'attivita' o in cui sono conservati libri, registri, scritture e documenti e' punito con la sanzione da euro 500 a euro 2.000. E' punito con la medesima sanzione chi presenta la richiesta di registrazione o le comunicazioni di cui agli ((articoli 149, commi 1 e 4, e 151, commi 4 e 7, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10)), con indicazioni incomplete o inesatte, anche relativamente all'indirizzo di posta elettronica e all'URL del sito web, tali da non consentire l'individuazione del contribuente o dei luoghi ove e' esercitata l'attivita'. La sanzione e' ridotta ad un quinto del minimo se l'obbligato provvede alla regolarizzazione della dichiarazione presentata nel termine di trenta giorni dall'invito dell'ufficio.
+ 11. Chiunque, essendovi obbligato, non presenta una delle dichiarazioni di inizio o variazione di attivita', previste agli ((articoli 68 e 70 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10)), o la presenta con indicazioni incomplete o inesatte tali da non consentire l'individuazione del contribuente o dei luoghi ove e' esercitata l'attivita' o in cui sono conservati libri, registri, scritture e documenti e' punito con la sanzione da euro 500 a euro 2.000. E' punito con la medesima sanzione chi presenta la richiesta di registrazione o le comunicazioni di cui agli articoli 74-quinquies, commi 1 e 4, e 74-sexies.1, commi 4 e 7, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, con indicazioni incomplete o inesatte, anche relativamente all'indirizzo di posta elettronica e all'URL del sito web, tali da non consentire l'individuazione del contribuente o dei luoghi ove e' esercitata l'attivita'. La sanzione e' ridotta ad un quinto del minimo se l'obbligato provvede alla regolarizzazione della dichiarazione presentata nel termine di trenta giorni dall'invito dell'ufficio. ((5))
 
 ------------
                                 AGGIORNAMENTO (5)
                                 
  Il D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 8, comma 1, lettera h)) che al presente articolo: 
- al comma 1, al terzo e al quarto periodo, "le parole: «articoli 70.1 e da 74-quinquies a 74-septies del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articoli 156 e da 149 a 152 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»"; 
- al comma 1, al sesto periodo, "le parole: «articolo 54-bis.1 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 277 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento» e le parole: «ai sensi del comma 1 del medesimo articolo 54-bis.1» sono sostituite dalle seguenti: «ai sensi del comma 1 del medesimo articolo 277»"; 
- al comma 2 "le parole «articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 293 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»"; 
- al comma 4 "le parole «articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 293 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»". 
- al comma 6, "le parole «articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 293 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»;" 
- al comma 9 "le parole: «articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 276 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»".
+ - al comma 1, al terzo e al quarto periodo, "le parole: «articoli 70.1 e da 74-quinquies a 74-septies del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articoli 156 e da 149 a 152 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»"; 
+ - al comma 1, al sesto periodo, "le parole: «articolo 54-bis.1 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 277 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento» e le parole: «ai sensi del comma 1 del medesimo articolo 54-bis.1» sono sostituite dalle seguenti: «ai sensi del comma 1 del medesimo articolo 277»"; 
+ - al comma 2 "le parole «articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 293 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»"; 
+ - al comma 4 "le parole «articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 293 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»"; 
+ - al comma 6 "le parole «articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 293 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»"; 
+ - al comma 9 "le parole: «articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1973, n. 633» sono sostituite dalle seguenti: «articolo 276 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»"; 
+ - al comma 11, al secondo periodo, "le parole: «articoli 74-quinquies, commi 1 e 4, e 74-sexies, commi 4 e 7, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articoli 149, commi 1 e 4, e 151, commi 4 e 7, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»".
 
 ### Art. 31.
 
@@ -480,11 +481,16 @@ Violazioni relative al contenuto e alla documentazione delle dichiarazioni
  2. La sanzione prevista dal comma 1 si applica nei casi di mancanza o incompletezza degli atti e dei documenti dei quali e' prescritta la conservazione ovvero l'esibizione all'ufficio. 
  3. Si applica la sanzione amministrativa da euro 500 a euro 4.000 quando l'omissione o l'incompletezza riguardano gli elementi previsti nell'articolo 4 del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, relativo alle dichiarazioni dei sostituti d'imposta. 
  4. Quando l'omissione o incompletezza riguarda l'indicazione delle spese e degli altri componenti negativi di cui all'((articolo 119, comma 12, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117)), si applica una sanzione amministrativa pari al 10 per cento dell'importo complessivo delle spese e dei componenti negativi non indicati nella dichiarazione dei redditi, con un minimo di euro 500 e un massimo di euro 30.000. 
- 5. Quando l'omissione o incompletezza riguarda l'indicazione, ai sensi degli ((articoli 49, comma 4, 77, comma 4, 96, comma 1, lettera c), e 98, comma 4, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117)), dei dividendi e delle plusvalenze relativi a partecipazioni detenute in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'((articolo 162, comma 1, del medesimo testo unico)), si applica una sanzione amministrativa pari al 10 per cento dei dividendi e delle plusvalenze conseguiti dal soggetto residente e non indicati, con un minimo di 1.000 euro e un massimo di 30.000 euro. 
+ 5. Quando l'omissione o incompletezza riguarda l'indicazione, ai sensi degli articoli 47, comma 4, 68, comma 4, 87, comma 1, lettera c), e 89, comma 3, del testo unico sulle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dei dividendi e delle plusvalenze relativi a partecipazioni detenute in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'((articolo 162, comma 1, del medesimo testo unico)), si applica una sanzione amministrativa pari al 10 per cento dei dividendi e delle plusvalenze conseguiti dal soggetto residente e non indicati, con un minimo di 1.000 euro e un massimo di 30.000 euro. ((5)) 
  6. Quando l'omissione o incompletezza riguarda la segnalazione prevista dall'((articolo 186, comma 14, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n.117)), si applica una sanzione amministrativa pari al 10 per cento del reddito conseguito dal soggetto estero partecipato e imputabile nel periodo d'imposta, anche solo teoricamente, al soggetto residente in proporzione alla partecipazione detenuta, con un minimo di 1.000 euro e un massimo di 30.000 euro. La sanzione nella misura minima si applica anche nel caso in cui il reddito della controllata estera sia negativo. 
  7. Quando l'omissione o l'incompletezza riguarda le segnalazioni previste dagli ((articoli 122, comma 6, 132, comma 7, e 139, comma 5, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117)), dall'articolo 30, comma 4-quater, della legge 23 dicembre 1994, n. 724, e dall'articolo 1, comma 8, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, si applica una sanzione da euro 1.500 a euro 15.000. 
  7-bis. ((In caso di omessa o incompleta segnalazione dei valori delle attivita' e delle passivita' di cui all'articolo 192 del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, si applica la sanzione amministrativa prevista dal comma 4.)) 
- 7-ter ((In caso di cessione dell'eccedenza dell'imposta sul reddito delle societa' risultante dalla dichiarazione dei redditi del consolidato di cui all'articolo 131 del testo unico delle imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n.117, la mancata indicazione degli estremi del soggetto cessionario e dell'importo ceduto comporta l'applicazione della sanzione di cui al comma 1.))
+ 7-ter. ((In caso di cessione dell'eccedenza dell'imposta sul reddito delle societa' risultante dalla dichiarazione dei redditi del consolidato di cui all'articolo 131 del testo unico delle imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n.117, la mancata indicazione degli estremi del soggetto cessionario e dell'importo ceduto comporta l'applicazione della sanzione di cui al comma 1.))
+
+---------------
+                                AGGIORNAMENTO (5)
+                                
+ Il D.Lgs. 5 agosto 2026, n. 141 ha disposto (con l'art. 8, comma 1, lettera n)) che al comma 5 del presente articolo "le parole: «articoli 47, comma 4, 68, comma 4, 87, comma 1, lettera c), e 89, comma 3, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917» sono sostituite dalle seguenti: «articoli 49, comma 4, 77, comma 4, 96, comma 1, lettera c), e 98, comma 4, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117»".
 
 ### Art. 34.
 
@@ -507,38 +513,55 @@ Violazione degli obblighi degli operatori finanziari
  
  (articolo 10 del decreto legislativo n. 471 del 1997) 
  
- 1. Se viene omessa la trasmissione dei dati, delle notizie e dei documenti richiesti ai sensi dell'articolo 32, primo comma, numero 7), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dell'articolo 51, secondo comma, numero 7, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 nell'esercizio dei poteri inerenti all'accertamento delle imposte dirette o dell'imposta sul valore aggiunto ovvero i documenti trasmessi non rispondono al vero o sono incompleti, si applica la sanzione amministrativa da euro 1.500 a euro 15.000. Si considera omessa la trasmissione non eseguita nel termine prescritto. La sanzione e' ridotta alla meta' se la trasmissione avviene nei quindici giorni successivi. 
- 2. La sanzione prevista al comma 1 si applica nel caso di violazione degli obblighi di comunicazione previsti dall'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605. 
+ 1. Se viene omessa la trasmissione dei dati, delle notizie e dei documenti richiesti ai sensi dell'((articolo 159, comma 2, lettera l), del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)) nell'esercizio dei poteri inerenti all'accertamento delle imposte dirette o dell'imposta sul valore aggiunto ovvero i documenti trasmessi non rispondono al vero o sono incompleti, si applica la sanzione amministrativa da euro 1.500 a euro 15.000. Si considera omessa la trasmissione non eseguita nel termine prescritto. La sanzione e' ridotta alla meta' se la trasmissione avviene nei quindici giorni successivi. 
+ 2. La sanzione prevista al comma 1 si applica nel caso di violazione degli obblighi di comunicazione previsti dall'((articolo 7, comma 6, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)). 
  3. La sanzione prevista al comma 1 si applica agli operatori che violano gli obblighi di trasmissione previsti dall'articolo 22, comma 5, terzo periodo, del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157.
 La sanzione di cui al primo periodo e' applicata per ogni omesso, tardivo o errato invio dei dati e non si applica l'articolo 13. 
  4. La sanzione prevista nel comma 1 si applica nel caso di violazione degli obblighi inerenti alle richieste rivolte alle societa' ed enti di assicurazione e alle societa' ed enti che effettuano istituzionalmente riscossioni e pagamenti per conto di terzi ovvero attivita' di gestione ed intermediazione finanziaria, anche in forma fiduciaria, nonche' a Poste italiane S.p.A. 
  5. All'irrogazione delle sanzioni provvede l'ufficio competente in relazione al domicilio fiscale del contribuente al quale si riferisce la richiesta.
 
+### Art. 35-bis.
+
+(( Violazioni relative agli obblighi di adeguata verifica o di comunicazione da parte dei prestatori di servizi per le cripto-attivita' 
+ 
+(articolo 14, comma 3, decreto legislativo 10 dicembre 2025, n. 194) )) 
+ 
+ 1. ((La sanzione di cui all'articolo 35 si applica anche nei casi di violazione degli obblighi di adeguata verifica ai fini fiscali o degli obblighi di comunicazione di cui agli articoli da 232 a 236 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento))
+
 ### Art. 36.
 
 Altre violazioni in materia di imposte dirette e di imposta sul valore aggiunto 
  
- (articolo 11 del decreto legislativo n. 471 del 1997) 
+(articolo 11 del decreto legislativo n. 471 del 1997; articolo 37, comma 29, decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248; articolo 25-ter, comma 4, secondo periodo, decreto del Presidente della Repubblica 29 settembre 1973, n. 600) 
  
  1. Sono punite con la sanzione amministrativa da euro 250 a euro 2.000 le seguenti violazioni: 
  a) omissione di ogni comunicazione prescritta dalla legge tributaria anche se non richiesta dagli uffici o dalla Guardia di finanza al contribuente o a terzi nell'esercizio dei poteri di verifica e accertamento in materia di imposte dirette e di imposta sul valore aggiunto o invio di tali comunicazioni con dati incompleti o non veritieri; 
  b) mancata restituzione dei questionari inviati al contribuente o a terzi nell'esercizio dei poteri di cui alla precedente lettera a) o loro restituzione con risposte incomplete o non veritiere; 
  c) inottemperanza all'invito a comparire e a qualsiasi altra richiesta fatta dagli uffici o dalla Guardia di finanza nell'esercizio dei poteri loro conferiti. 
- 2. La sanzione prevista nel comma 1 si applica, salvo che il fatto non costituisca infrazione piu' grave, per il compenso di partite effettuato in violazione alle previsioni del codice civile ovvero in caso di mancata evidenziazione nell'apposito prospetto indicato negli articoli 3 e 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600. 
+ 2. La sanzione prevista nel comma 1 si applica, salvo che il fatto non costituisca infrazione piu' grave, per il compenso di partite effettuato in violazione alle previsioni del codice civile ovvero in caso di mancata evidenziazione nell'apposito prospetto indicato negli articoli 54 e 56 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento. 
  3. Per l'omissione o l'errata trasmissione dei dati delle fatture emesse e ricevute, prevista dall'articolo 21 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. La sanzione e' ridotta alla meta', entro il limite massimo di euro 500, se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del primo periodo, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati. Non si applica l'articolo 13. 
- 4. L'omessa, incompleta o infedele comunicazione dei dati delle liquidazioni periodiche, prevista dall'articolo 21-bis del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, e' punita con la sanzione amministrativa da euro 500 a euro 2.000. La sanzione e' ridotta alla meta' se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del primo periodo, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati. 
- 5. Per l'omissione o l'errata trasmissione dei dati delle operazioni transfrontaliere di cui all'articolo 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. La sanzione e' ridotta alla meta', entro il limite massimo di euro 500, se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del primo periodo, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati.
-Per le operazioni effettuate a partire dal 1° luglio 2022, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, entro il limite massimo di euro 400 mensili. La sanzione e' ridotta alla meta', entro il limite massimo di euro 200 per ciascun mese, se la trasmissione e' effettuata entro i quindici giorni successivi alle scadenze stabilite dall'articolo 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati. Non si applica l'articolo 13. 
- 6. Per l'omessa o tardiva trasmissione ovvero per la trasmissione con dati incompleti o non veritieri dei corrispettivi giornalieri di cui all'articolo 2, commi 1, 1-bis ((, 1-ter)) e 2, del decreto legislativo 5 agosto 2015, n. 127, se la violazione non ha inciso sulla corretta liquidazione del tributo, si applica la sanzione amministrativa di euro 100 per ciascuna trasmissione, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. Non si applica l'articolo 13. ((Le disposizioni di cui ai periodi precedenti si applicano anche nei casi di violazione degli obblighi di memorizzazione o trasmissione dei pagamenti elettronici di cui all'articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127.)) 
- 7. L'omessa presentazione degli elenchi di cui all'articolo 50, comma 6, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, ovvero la loro incompleta, inesatta o irregolare compilazione sono punite con la sanzione da euro 500 a euro 1.000 per ciascuno di essi, ridotta alla meta' in caso di presentazione nel termine di trenta giorni dalla richiesta inviata dagli uffici abilitati a riceverla o incaricati del loro controllo. La sanzione non si applica se i dati mancanti o inesatti vengono integrati o corretti anche a seguito di richiesta. 
- 8. L'omessa, incompleta o infedele comunicazione delle minusvalenze e delle differenze negative di ammontare superiore a 50.000 euro di cui all'articolo 5-quinquies del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, nonche' delle minusvalenze di ammontare complessivo superiore a 5 milioni di euro, derivanti da cessioni di partecipazioni che costituiscono immobilizzazioni finanziarie di cui all'articolo 1 del decreto-legge 24 settembre 2002, n. 209, convertito, con modificazioni, dalla legge 22 novembre 2002, n. 265, e' punita con la sanzione amministrativa del 10 per cento delle minusvalenze la cui comunicazione e' omessa, incompleta o infedele, con un minimo di 500 euro e un massimo di 30.000 euro. 
- 9. L'omessa installazione degli apparecchi per l'emissione dello scontrino fiscale previsti dall'articolo 1 della legge 26 gennaio 1983, n. 18, e' punita con la sanzione amministrativa da euro 1.000 a euro 4.000. La sanzione di cui al primo periodo si applica anche all'omessa installazione degli strumenti di cui all'articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127, salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. ((La sanzione di cui al primo periodo si applica anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 2, comma 3, primo periodo, del decreto legislativo 5 agosto 2015, n. 127.)) 
- 10. Salvo che il fatto costituisca reato, a chiunque manomette o comunque altera gli strumenti di cui all'articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127, o fa uso di essi allorche' siano stati manomessi o alterati o consente che altri ne faccia uso al fine di eludere le disposizioni di cui al comma 1 del citato articolo si applica la sanzione amministrativa pecuniaria da euro 3.000 a euro 12.000. Salvo che il fatto costituisca reato, si applica la sanzione amministrativa da euro 1.032 a euro 7.746 se la violazione di cui al primo periodo si riferisce agli apparecchi misuratori previsti dall'articolo 1 della legge 26 gennaio 1983, n. 18. Con la stessa sanzione di cui al secondo periodo e' punito, salvo che il fatto costituisca reato, chiunque, allo stesso fine, forma in tutto o in parte stampati, documenti o registri prescritti dai decreti indicati nell'articolo 1 della legge 26 gennaio 1983, n. 18, o li altera e ne fa uso o consente che altri ne faccia uso, nonche' chiunque, senza avere concorso nella falsificazione, fa uso degli stessi stampati, documenti o registri. 
- 11. In caso di violazione delle prescrizioni di cui all'articolo 53, comma 3, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, si applica la sanzione da euro 250 a euro 2.000. 
- 12. Quando la garanzia di cui all'articolo 38-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e' presentata dalle societa' controllate o dall'ente o societa' controllante, di cui all'articolo 73, terzo comma, del medesimo decreto, con un ritardo non superiore a novanta giorni dalla scadenza del termine di presentazione della dichiarazione, si applica la sanzione amministrativa da euro 1.000 a euro 4.000. 
+ 4. L'omessa, incompleta o infedele comunicazione dei dati delle liquidazioni periodiche, prevista dall'articolo 51 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, e' punita con la sanzione amministrativa da euro 500 a euro 2.000. La sanzione e' ridotta alla meta' se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del primo periodo, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati. 
+ 4-bis. Fuori dai casi previsti dal comma 1, lettere a) e b), sono punite con la sanzione amministrativa pecuniaria da 258 euro a 2065 euro la mancata restituzione dei questionari inviati nell'esercizio dei poteri di cui all'articolo 2, comma 4, del decreto legislativo 19 marzo 2001, n. 68, o la loro restituzione con risposte incomplete o non veritiere, nonche' l'inottemperanza all'invito a comparire fatto sulla base dei medesimi poteri. 
+ 5. Per l'omissione o l'errata trasmissione dei dati delle operazioni transfrontaliere di cui all'articolo 77, comma 4, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. La sanzione e' ridotta alla meta', entro il limite massimo di euro 500, se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del primo periodo, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati. Per le operazioni effettuate a partire dal 1° luglio 2022, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, entro il limite massimo di euro 400 mensili. La sanzione e' ridotta alla meta', entro il limite massimo di euro 200 per ciascun mese, se la trasmissione e' effettuata entro i quindici giorni successivi alle scadenze stabilite dall'articolo 77, comma 4, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati.
+Non si applica l'articolo 13. 
+ 6. Per l'omessa o tardiva trasmissione ovvero per la trasmissione con dati incompleti o non veritieri dei corrispettivi giornalieri di cui all'articolo 82, commi 1, 2, 3 e 4, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, se la violazione non ha inciso sulla corretta liquidazione del tributo, si applica la sanzione amministrativa di euro 100 per ciascuna trasmissione, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. Non si applica l'articolo 13. Le disposizioni di cui ai periodi precedenti si applicano anche nei casi di violazione degli obblighi di memorizzazione o trasmissione dei pagamenti elettronici di cui all'articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127 ((, salvo il caso in cui tra il numero delle operazioni regolate con pagamento elettronico, registrate e memorizzate ai fini della trasmissione dei dati dei corrispettivi giornalieri, e il numero dei pagamenti elettronici accettati vi sia una discrepanza non superiore al 5 per cento)). (5) 
+ 7. L'omessa presentazione degli elenchi di cui all'articolo 101, comma 6, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, ovvero la loro incompleta, inesatta o irregolare compilazione sono punite con la sanzione da euro 500 a euro 1.000 per ciascuno di essi, ridotta alla meta' in caso di presentazione nel termine di trenta giorni dalla richiesta inviata dagli uffici abilitati a riceverla o incaricati del loro controllo. La sanzione non si applica se i dati mancanti o inesatti vengono integrati o corretti anche a seguito di richiesta. 
+ 8. L'omessa, incompleta o infedele comunicazione delle minusvalenze e delle differenze negative di ammontare superiore a 50.000 euro di cui all'articolo 110, comma 4, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, nonche' delle minusvalenze di ammontare complessivo superiore a 5 milioni di euro, derivanti da cessioni di partecipazioni che costituiscono immobilizzazioni finanziarie di cui all'articolo 52 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, e' punita con la sanzione amministrativa del 10 per cento delle minusvalenze la cui comunicazione e' omessa, incompleta o infedele, con un minimo di 500 euro e un massimo di 30.000 euro. 
+ 9. L'omessa installazione degli apparecchi per l'emissione dello scontrino fiscale previsti dall'articolo 1 della legge 26 gennaio 1983, n. 18, e' punita con la sanzione amministrativa da euro 1.000 a euro 4.000. La sanzione di cui al primo periodo si applica anche all'omessa installazione degli strumenti di cui all'articolo 82, comma 6, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. La sanzione di cui al primo periodo si applica anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 82, comma 5, primo periodo, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10. 
+ 10. Salvo che il fatto costituisca reato, a chiunque manomette o comunque altera gli strumenti di cui all'articolo 82, comma 6, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, o fa uso di essi allorche' siano stati manomessi o alterati o consente che altri ne faccia uso al fine di eludere le disposizioni di cui al comma 1 del citato articolo si applica la sanzione amministrativa pecuniaria da euro 3.000 a euro 12.000. Salvo che il fatto costituisca reato, si applica la sanzione amministrativa da euro 1.032 a euro 7.746 se la violazione di cui al primo periodo si riferisce agli apparecchi misuratori previsti dall'articolo 1 della legge 26 gennaio 1983, n. 18. Con la stessa sanzione di cui al secondo periodo e' punito, salvo che il fatto costituisca reato, chiunque, allo stesso fine, forma in tutto o in parte stampati, documenti o registri prescritti dai decreti indicati nell'articolo 1 della legge 26 gennaio 1983, n. 18, o li altera e ne fa uso o consente che altri ne faccia uso, nonche' chiunque, senza avere concorso nella falsificazione, fa uso degli stessi stampati, documenti o registri. 
+ 11. In caso di violazione delle prescrizioni di cui all'articolo 154, comma 3, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, si applica la sanzione da euro 250 a euro 2.000. 
+ 12. Quando la garanzia di cui all'articolo 116 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, e' presentata dalle societa' controllate o dall'ente o societa' controllante, di cui all'articolo 91, comma 3, del medesimo testo unico, con un ritardo non superiore a novanta giorni dalla scadenza del termine di presentazione della dichiarazione, si applica la sanzione amministrativa da euro 1.000 a euro 4.000. 
  13. Nei casi in cui il contribuente non presenti l'interpello previsto dall'articolo 11, comma 1, lettera d), della legge 27 luglio 2000, n. 212, si applica la sanzione prevista dall'articolo 33, comma 7. La sanzione e' raddoppiata nelle ipotesi in cui l'amministrazione finanziaria disconosca la disapplicazione delle norme aventi ad oggetto deduzioni, detrazioni, crediti d'imposta o altre posizioni soggettive del soggetto passivo. 
- 14. Il contribuente destinatario del provvedimento emesso ai sensi dell'articolo 35, commi 15-bis e 15-bis.1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e' soggetto alla sanzione amministrativa di euro 3.000, irrogata contestualmente al provvedimento che dispone la cessazione della partita IVA. Non si applica l'articolo 13. 
- 15. Nei confronti del rappresentante fiscale, nominato ai sensi dell'articolo 17, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, che non adempie agli obblighi di cui all'articolo 35, comma 7-quater, terzo periodo, del medesimo decreto del Presidente della Repubblica n. 633 del 1972, e' irrogata la sanzione amministrativa da euro 3.000 a euro 50.000. Non si applica l'articolo 13.
+ 14. Il contribuente destinatario del provvedimento emesso ai sensi dell'articolo 68, commi 19 e 20, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, e' soggetto alla sanzione amministrativa di euro 3.000, irrogata contestualmente al provvedimento che dispone la cessazione della partita IVA. Non si applica l'articolo 13. 
+ 15. Nei confronti del rappresentante fiscale, nominato ai sensi dell'articolo 64, comma 3, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, che non adempie agli obblighi di cui all'articolo 35, comma 7-quater, terzo periodo, del medesimo decreto del Presidente della Repubblica n. 633 del 1972, e' irrogata la sanzione amministrativa da euro 3.000 a euro 50.000. Non si applica l'articolo 13. (5) 
+ 15-bis - L'inosservanza degli obblighi previsti dall'articolo 40, comma 4, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, comporta l'applicazione delle sanzioni previste dal comma 1.
+
+------------
+                                AGGIORNAMENTO (5)
+                                
+ Il D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 8, comma 1, lettera r)) che al presente articolo: 
+ - al comma 6, al secondo periodo, "le parole: «articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127» sono sostituite dalle seguenti: «articolo 82, comma 5, del citato testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto»"; 
+ - al comma 15 "le parole: «articolo 35, comma 7-quater, terzo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articolo 68, comma 10, del medesimo testo unico»".
 
 ### Art. 37.
 
@@ -548,19 +571,23 @@ Sanzioni accessorie in materia di imposte dirette e imposta sul valore aggiunto
  
  1. Quando e' irrogata una sanzione amministrativa superiore a euro 50.000 si applica, secondo i casi, una delle sanzioni accessorie previste nel titolo I, per un periodo da tre a sei mesi. La durata delle sanzioni accessorie puo' essere elevata fino a dodici mesi, se la sanzione irrogata e' superiore a euro 100.000. 
  2. Quando e' irrogata una sanzione amministrativa nei confronti dei soggetti di cui all'articolo 7, comma 3, le soglie per l'applicazione delle sanzioni accessorie di cui al comma 1 sono ridotte alla meta'. 
- 3. Qualora siano state contestate ai sensi dell'articolo 18, nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere la ricevuta fiscale o lo scontrino fiscale compiute in giorni diversi, anche se non sono state irrogate sanzioni accessorie in applicazione delle disposizioni del titolo I, e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' ovvero dell'esercizio dell'attivita' medesima per un periodo da tre giorni ad un mese. In deroga all'articolo 126, comma 9, del testo unico della giustizia tributaria ((, di cui al decreto legislativo n. 175 del 2024)), il provvedimento di sospensione e' immediatamente esecutivo. Se l'importo complessivo dei corrispettivi oggetto di contestazione eccede la somma di euro 50.000 la sospensione e' disposta per un periodo da un mese a sei mesi. Le sanzioni di cui al primo e al terzo periodo si applicano anche nelle ipotesi di cui all'articolo 2, commi 1, 1-bis, 2 e 3, del decreto legislativo 5 agosto 2015, n. 127, se le violazioni consistono nella mancata o non tempestiva memorizzazione o trasmissione, ovvero nella memorizzazione o trasmissione con dati incompleti o non veritieri. 
+ 3. Qualora siano state contestate ai sensi dell'articolo 18, nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere la ricevuta fiscale o lo scontrino fiscale compiute in giorni diversi, anche se non sono state irrogate sanzioni accessorie in applicazione delle disposizioni del titolo I, e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' ovvero dell'esercizio dell'attivita' medesima per un periodo da tre giorni ad un mese. In deroga all'articolo 126, comma 9, del testo unico della giustizia tributaria, di cui al decreto legislativo n. 175 del 2024, il provvedimento di sospensione e' immediatamente esecutivo. Se l'importo complessivo dei corrispettivi oggetto di contestazione eccede la somma di euro 50.000 la sospensione e' disposta per un periodo da un mese a sei mesi. Le sanzioni di cui al primo e al terzo periodo si applicano anche nelle ipotesi di cui all'articolo 2, commi 1, 1-bis, 2 e 3, del decreto legislativo 5 agosto 2015, n. 127, se le violazioni consistono nella mancata o non tempestiva memorizzazione o trasmissione, ovvero nella memorizzazione o trasmissione con dati incompleti o non veritieri. ((Con riferimento alle ipotesi di cui all'articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127, le sanzioni si applicano salvo il caso in cui tra il numero delle operazioni regolate con pagamento elettronico, registrate e memorizzate ai fini della trasmissione dei dati dei corrispettivi giornalieri, e il numero dei pagamenti elettronici accettati vi sia una discrepanza non superiore al 5 per cento.)) (5) 
  4. La sospensione di cui al comma 3 e' disposta dalla direzione regionale dell'Agenzia delle entrate competente per territorio in relazione al domicilio fiscale del contribuente. Gli atti di sospensione devono essere notificati, a pena di decadenza, entro sei mesi da quando e' stata contestata la quarta violazione. 
- 5. L'esecuzione e la verifica dell'effettivo adempimento delle sospensioni di cui al comma 3 e' effettuata dall'Agenzia delle entrate, ovvero dalla Guardia di finanza, ai sensi dell'articolo 63 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. 
+ 5. L'esecuzione e la verifica dell'effettivo adempimento delle sospensioni di cui al comma 3 e' effettuata dall'Agenzia delle entrate, ovvero dalla Guardia di finanza, ai sensi dell'articolo 161, comma 13, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento. 
  6. L'esecuzione della sospensione di cui al comma 3 e' assicurata con il sigillo dell'organo procedente e con le sottoscrizioni del personale incaricato. 
- 7. La sospensione di cui al comma 3 e' disposta anche nei confronti dei soggetti esercenti i posti e apparati pubblici di telecomunicazione e nei confronti dei rivenditori agli utenti finali dei mezzi tecnici di cui all'articolo 74, primo comma, lettera d), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ai quali, nel corso di dodici mesi, siano state contestate tre distinte violazioni dell'obbligo di regolarizzazione dell'operazione di acquisto di mezzi tecnici ai sensi dell'articolo 31, comma 15. 
- 8. Qualora siano state contestate a carico di soggetti iscritti in albi ovvero a ordini professionali, nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere il documento certificativo dei corrispettivi compiute in giorni diversi, e' disposta in ogni caso la sanzione accessoria della sospensione dell'iscrizione all'albo o all'ordine per un periodo da tre giorni a un mese. In caso di recidiva, la sospensione e' disposta per un periodo da quindici giorni a sei mesi. In deroga all'articolo 126, comma 9, del testo unico della giustizia tributaria, il provvedimento di sospensione e' immediatamente esecutivo. Gli atti di sospensione sono comunicati all'ordine professionale ovvero al soggetto competente alla tenuta dell'albo affinche' ne sia data pubblicazione sul relativo sito internet. Si applicano le disposizioni dei commi 4 e 5. ((2)) 
+ 7. La sospensione di cui al comma 3 e' disposta anche nei confronti dei soggetti esercenti i posti e apparati pubblici di telecomunicazione e nei confronti dei rivenditori agli utenti finali dei mezzi tecnici di cui all'articolo 139, comma 1, lettera c), del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, ai quali, nel corso di dodici mesi, siano state contestate tre distinte violazioni dell'obbligo di regolarizzazione dell'operazione di acquisto di mezzi tecnici ai sensi dell'articolo 31, comma 15. 
+ 8. Qualora siano state contestate a carico di soggetti iscritti in albi ovvero a ordini professionali, nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere il documento certificativo dei corrispettivi compiute in giorni diversi, e' disposta in ogni caso la sanzione accessoria della sospensione dell'iscrizione all'albo o all'ordine per un periodo da tre giorni a un mese. In caso di recidiva, la sospensione e' disposta per un periodo da quindici giorni a sei mesi. In deroga all'articolo 126, comma 9, del testo unico della giustizia tributaria, il provvedimento di sospensione e' immediatamente esecutivo. Gli atti di sospensione sono comunicati all'ordine professionale ovvero al soggetto competente alla tenuta dell'albo affinche' ne sia data pubblicazione sul relativo sito internet. Si applicano le disposizioni dei commi 4 e 5. (2) 
  9. Nel caso in cui le violazioni di cui al comma 8 siano commesse nell'esercizio in forma associata di attivita' professionale, la sanzione accessoria di cui al medesimo comma e' disposta nei confronti di tutti gli associati. 
- 10. Se e' accertata l'omessa installazione degli apparecchi misuratori previsti dall'articolo 1 della legge 26 gennaio 1983, n. 18, e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' nei locali ad essa destinati per un periodo da quindici giorni a due mesi. In caso di recidiva, la sospensione e' disposta da due a sei mesi. Le sanzioni di cui al primo e al secondo periodo si applicano anche all'omessa installazione ovvero alla manomissione o alterazione degli strumenti di cui all'articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127, salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. Le sanzioni di cui al primo e secondo periodo si applicano anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 2, comma 3, primo periodo, del decreto legislativo 5 agosto 2015, n. 127.
+ 10. Se e' accertata l'omessa installazione degli apparecchi misuratori previsti dall'articolo 1 della legge 26 gennaio 1983, n. 18, e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' nei locali ad essa destinati per un periodo da quindici giorni a due mesi. In caso di recidiva, la sospensione e' disposta da due a sei mesi. Le sanzioni di cui al primo e al secondo periodo si applicano anche all'omessa installazione ovvero alla manomissione o alterazione degli strumenti di cui all'articolo 82, comma 6, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10, salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. Le sanzioni di cui al primo e secondo periodo si applicano anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 82, comma 5, primo periodo, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10.
 
 --------------
                                 AGGIORNAMENTO (2)
                                 
- Il D.Lgs. 18 dicembre 2025, n. 192, ha disposto (con l'art. 18, comma 1, lettera h)) che "al comma 8, secondo periodo, dopo le parole: «testo unico della giustizia tributaria» sono inserite le seguenti: «, di cui al decreto legislativo 14 novembre 2024, n. 175»".
+ Il D.Lgs. 18 dicembre 2025, n. 192, ha disposto (con l'art. 18, comma 1, lettera h)) che "al comma 8, secondo periodo, dopo le parole: «testo unico della giustizia tributaria» sono inserite le seguenti: «, di cui al decreto legislativo 14 novembre 2024, n. 175»". 
+                                ------------
+                                AGGIORNAMENTO (5)
+                                
+ Il D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 8, comma 1, lettera s)) che al presente articolo, al comma 3, terzo periodo, "«articolo 2, commi 1, 1-bis, 2 e 3, del decreto legislativo 5 agosto 2015, n. 127» sono sostituite dalle seguenti: «articolo 82, commi 1, 2, 4 e 5, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10»".
 
 ### Art. 38.
 
@@ -569,7 +596,7 @@ Ritardati od omessi versamenti diretti e altre violazioni in materia di compensa
  (articolo 13 del decreto legislativo n. 471 del 1997) 
  
  1. Chi non esegue, in tutto o in parte, alle prescritte scadenze, i versamenti in acconto, i versamenti periodici, il versamento di conguaglio o a saldo dell'imposta risultante dalla dichiarazione, detratto in questi casi l'ammontare dei versamenti periodici e in acconto, ancorche' non effettuati, e' soggetto a sanzione amministrativa pari al 25 per cento di ogni importo non versato, anche quando, in seguito alla correzione di errori materiali o di calcolo rilevati in sede di controllo della dichiarazione annuale, risulti una maggiore imposta o una minore eccedenza detraibile. Per i versamenti effettuati con un ritardo non superiore a novanta giorni, la sanzione di cui al primo periodo e' ridotta alla meta'. Salva l'applicazione dell'articolo 14, per i versamenti effettuati con un ritardo non superiore a quindici giorni, la sanzione di cui al secondo periodo e' ulteriormente ridotta a un importo pari a un quindicesimo per ciascun giorno di ritardo. 
- 2. La sanzione di cui al comma 1 si applica nei casi di liquidazione della maggior imposta ai sensi degli articoli 36-bis e 36-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e ai sensi dell'articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. 
+ 2. La sanzione di cui al comma 1 si applica nei casi di liquidazione della maggior imposta ai sensi degli ((articoli 243, 244, 245, 276 e 279 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)). 
  3. Fuori dei casi di tributi iscritti a ruolo, la sanzione prevista al comma 1 si applica altresi' in ogni ipotesi di mancato pagamento di un tributo o di una sua frazione nel termine previsto. 
  4. Salvo quanto previsto dal comma 6, si considerano inesistenti ovvero non spettanti i crediti rispettivamente previsti dall'articolo 73, comma 1, lettere l) e m). 
  5. Nel caso di utilizzo di un credito non spettante ai sensi dell'articolo 73, comma 1, lettera m), si applica, salvo diverse disposizioni speciali, la sanzione pari al 25 per cento del credito utilizzato in compensazione. La sanzione di cui al primo periodo si applica anche quando il credito e' utilizzato in difetto dei prescritti adempimenti amministrativi non previsti a pena di decadenza e le relative violazioni non sono state rimosse, entro i termini stabiliti dal comma 6. 
@@ -578,8 +605,20 @@ Ritardati od omessi versamenti diretti e altre violazioni in materia di compensa
  b) la violazione sia rimossa entro il termine di presentazione della dichiarazione annuale ai fini delle imposte sui redditi relativa all'anno di commissione della violazione, ovvero, in assenza di una dichiarazione, entro un anno dalla commissione della violazione medesima. 
  7. Nel caso di utilizzo di un credito inesistente ai sensi dell'articolo 73, comma 1, lettera l), numero 1), si applica la sanzione pari al 70 per cento del credito utilizzato in compensazione. 
  8. Nel caso di utilizzo di un credito inesistente ai sensi dell'articolo 73, comma 1, lettera l), numero 2), la sanzione di cui al comma 7 e' aumentata dalla meta' al doppio. 
- 9. Fuori dall'ipotesi di cui all'articolo 36, comma 12, sull'ammontare delle eccedenze di credito risultanti dalla dichiarazione annuale dell'ente o societa' controllante ovvero delle societa' controllate, compensate in tutto o in parte con somme che avrebbero dovuto essere versate dalle altre societa' controllate o dall'ente o societa' controllante, di cui all'articolo 73, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, si applica la sanzione di cui al comma 1 quando la garanzia di cui all'articolo 38-bis del medesimo decreto e' presentata oltre il termine di novanta giorni dalla scadenza del termine di presentazione della dichiarazione annuale. 
+ 9. Fuori dall'ipotesi di cui all'articolo 36, comma 12, sull'ammontare delle eccedenze di credito risultanti dalla dichiarazione annuale dell'ente o societa' controllante ovvero delle societa' controllate, compensate in tutto o in parte con somme che avrebbero dovuto essere versate dalle altre societa' controllate o dall'ente o societa' controllante, di cui all'((articolo 91, comma 1, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10)), si applica la sanzione di cui al comma 1 quando la garanzia ((di cui all'articolo 116 del medesimo testo unico)) e' presentata oltre il termine di novanta giorni dalla scadenza del termine di presentazione della dichiarazione annuale. 
  10. Le sanzioni previste nel presente articolo non si applicano quando i versamenti sono stati tempestivamente eseguiti a ufficio o concessionario diverso da quello competente.
+
+### Art. 38-bis. — ((Violazione del divieto di compensazione in caso di accollo))
+
+1. ((Nelle ipotesi di accollo del debito d'imposta altrui, in caso di utilizzo in compensazione dei crediti dell'accollante in violazione del divieto disposto dall'articolo 251, comma 2, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applicano: 
+ a) all'accollante, le sanzioni di cui all'articolo 38, commi 5 o 7; 
+ b) all'accollato, la sanzione di cui al predetto articolo 38, comma 1.))
+
+### Art. 38-ter. — ( Violazione del divieto di compensazione)
+
+(( (Articolo 31, comma 1, secondo e terzo periodo, decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122) )) 
+ 
+ 1. ((In caso di inosservanza del divieto di compensazione di cui all'articolo 6 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, si applica la sanzione del 50 per cento dell'importo dei debiti iscritti a ruolo per imposte erariali e relativi accessori e per i quali e' scaduto il termine di pagamento, fino a concorrenza dell'ammontare indebitamente compensato. La sanzione non puo' essere applicata fino al momento in cui sull'iscrizione a ruolo penda contestazione giudiziale o amministrativa e non puo' essere comunque superiore al 50 per cento di quanto indebitamente compensato; nelle ipotesi di cui al primo periodo, i termini di cui all'articolo 22 decorrono dal giorno successivo alla data della definizione della contestazione.))
 
 ### Art. 39.
 
@@ -603,10 +642,23 @@ Incompletezza dei documenti di versamento
 
 Omissione della richiesta di registrazione e della presentazione della denuncia 
  
-(articolo 69 del decreto del Presidente della Repubblica n. 131 del 1986) 
+( articolo 69 del decreto del Presidente della Repubblica n. 131 del 1986 ((; articolo 22, comma 1, secondo periodo, decreto del Presidente della Repubblica 26 aprile 1986, n. 131)) ) 
  
- 1. Chi omette la richiesta di registrazione degli atti e dei fatti rilevanti ai fini dell'applicazione dell'imposta, ovvero la presentazione delle denunce previste ((dall'articolo 23 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123)), e' punito con la sanzione amministrativa pari al 120 per cento dell'imposta dovuta, con un minimo di 250 euro.
-Se la richiesta di registrazione e' effettuata con ritardo non superiore a trenta giorni, si applica la sanzione amministrativa del 45 per cento dell'ammontare delle imposte dovute, con un minimo di 150 euro.
+ 1. Chi omette la richiesta di registrazione degli atti e dei fatti rilevanti ai fini dell'applicazione dell'imposta, ovvero la presentazione delle denunce previste dall'articolo 23 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, e' punito con la sanzione amministrativa pari al 120 per cento dell'imposta dovuta, con un minimo di 250 euro. Se la richiesta di registrazione e' effettuata con ritardo non superiore a trenta giorni, si applica la sanzione amministrativa del 45 per cento dell'ammontare delle imposte dovute, con un minimo di 150 euro. 
+ 1-bis. ((Nell'ipotesi di enunciazione in un atto di disposizioni contenute in atti scritti o contratti verbali non registrati di cui all'articolo 26 del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti di cui al decreto legislativo 1° agosto 2025, n. 123, se l'atto enunciato era soggetto a registrazione in termine fisso e' dovuta anche la sanzione amministrativa di cui all'articolo 41.))
+
+### Art. 41-bis. — (Irregolarita' dell'autoliquidazione e del versamento)
+
+(( (articolo 41, comma 2-bis, terzo periodo, decreto del Presidente della Repubblica 26 aprile 1986, n. 131) )) 
+ 
+ 1. ((La sanzione di cui all'articolo 38, comma 1, si applica nei casi di mancato pagamento della maggiore imposta dovuta nei termini di cui all'articolo 13, comma 1, secondo periodo, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123.)) 
+ 2. ((La sanzione di cui all'articolo 38, comma 1, si applica nei casi di liquidazione della maggiore imposta dovuta ai sensi dell'articolo 45, comma 3, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123. In tal caso, se il pagamento delle somme dovute e' effettuato entro il termine di cui al citato articolo 45, comma 3, secondo periodo, l'ammontare della sanzione amministrativa e' ridotto di un terzo.))
+
+### Art. 41-ter. — (Ritardati od omessi versamenti)
+
+(( (articolo 17, comma 1-bis, decreto del Presidente della Repubblica 26 aprile 1986, n. 131) )) 
+ 
+ 1. ((Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui all'articolo 21, comma 1, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, e' sanzionato ai sensi dell'articolo 38.))
 
 ### Art. 42.
 
@@ -614,15 +666,22 @@ Insufficiente dichiarazione di valore
  
 (articolo 71 del decreto del Presidente della Repubblica n. 131 del 1986) 
  
- 1. Se il valore definitivamente accertato dei beni o diritti di cui all'articolo 51, commi 3 e 4, del testo unico delle disposizioni concernenti l'imposta di registro di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, ridotto di un quarto, supera quello dichiarato, si applica la sanzione amministrativa pari al 70 per cento della maggiore imposta dovuta. Per i beni e i diritti di cui all'articolo 52, comma 4, del testo unico di cui al decreto del Presidente della Repubblica n. 131 del 1986, la sanzione si applica anche se la differenza non e' superiore al quarto del valore accertato.
+ 1. Se il valore definitivamente accertato dei beni o diritti di cui all'((articolo 298, commi 3 e 4, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), ridotto di un quarto, supera quello dichiarato, si applica la sanzione amministrativa pari al 70 per cento della maggiore imposta dovuta. Per i beni e i diritti di cui all'((articolo 299, comma 5, del citato testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), la sanzione si applica anche se la differenza non e' superiore al quarto del valore accertato.
 
 ### Art. 43.
 
 Occultazione di corrispettivo 
  
-(articolo 72 del decreto del Presidente della Repubblica n. 131 del 1986) 
+(articolo 72 del decreto del Presidente della Repubblica n. 131 del 1986 ((; articolo 1, comma 498, secondo periodo, legge 23 dicembre 2005, n. 266)) ) 
  
- 1. Se viene occultato anche in parte il corrispettivo convenuto, si applica la sanzione amministrativa pari al 120 per cento della differenza tra l'imposta dovuta e quella gia' applicata in base al corrispettivo dichiarato, detratto, tuttavia, l'importo della sanzione eventualmente irrogata ai sensi dell'articolo 42.
+ 1. Se viene occultato anche in parte il corrispettivo convenuto, si applica la sanzione amministrativa pari al 120 per cento della differenza tra l'imposta dovuta e quella gia' applicata in base al corrispettivo dichiarato, detratto, tuttavia, l'importo della sanzione eventualmente irrogata ai sensi dell'articolo 42. 
+ 1-bis. ((Ai fini dell'imposizione sostitutiva sulle plusvalenze da cessioni di immobili di cui all'articolo 244 del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, se viene occultato, anche in parte, il corrispettivo pattuito, si applica la sanzione amministrativa dal cinquanta al cento per cento della differenza tra l'imposta dovuta e quella gia' applicata in base al corrispettivo dichiarato, detratto l'importo della sanzione eventualmente irrogata ai sensi dell'articolo 42.))
+
+### Art. 43-bis. — (Omessa, incompleta o mendace indicazione dei dati relativi alla cessione dell'immobile)
+
+(( (articolo 35, comma 22.1, secondo periodo, decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248) )) 
+ 
+ 1. ((In caso di omessa, incompleta o mendace indicazione dei dati di cui all'articolo 299, comma 11, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa da 500 euro a 10.000 euro.))
 
 ### Art. 44.
 
@@ -635,14 +694,24 @@ Omessa o irregolare tenuta o presentazione del repertorio
  3. Se la presentazione del repertorio avviene con ritardo superiore a sessanta giorni ovvero la sua regolarizzazione non avviene nel termine stabilito dall'amministrazione finanziaria, i pubblici ufficiali possono essere sospesi dalle funzioni per un periodo non superiore a sei mesi. 
  4. Il procuratore della Repubblica, su rapporto dell'Agenzia delle entrate, chiede all'autorita' competente l'applicazione della sanzione accessoria prevista dal comma 3.
 
+### Art. 44-bis. — (( Dichiarazione mendace o decadenza benefici prima casa ))
+
+1. ((In caso di dichiarazione mendace o di decadenza dei benefici di cui all'articolo 1, nota 1, della tariffa allegato 1 del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, si applica la sanzione amministrativa pari al 30 per cento delle imposte di registro, ipotecaria e catastale dovute nella misura ordinaria. Se si tratta di cessioni soggette all'imposta sul valore aggiunto, si applica la sanzione amministrativa pari al 30 per cento della differenza fra l'imposta calcolata in base all'aliquota esigibile in assenza di agevolazioni e quella risultante dall'applicazione dell'aliquota agevolata.)) 
+ 2. ((Nei casi di cui al comma 1, si applica al mutuatario la sanzione amministrativa nella misura del 30 per cento della differenza tra l'imposta sostitutiva di cui all'articolo 18, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e quella di cui al primo comma dello stesso articolo.)) 
+ 3. ((La sanzione di cui all'articolo 38, comma 1, si applica anche qualora, sulla base degli elementi desumibili dalla dichiarazione di cui all'articolo 20, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e dai versamenti effettuati, risulti dovuta una maggiore imposta o risultino versamenti in tutto o in parte non eseguiti o tardivi.))
+
+### Art. 44-ter. — (( Decadenza benefici cartolarizzazione ))
+
+1. ((Per gli atti e i provvedimenti recanti il successivo trasferimento, a favore di soggetti che svolgono attivita' d'impresa, della proprieta' o di diritti reali, anche di garanzia, sui beni immobili acquistati dalle societa' veicolo d'appoggio in relazione all'operazione di cartolarizzazione di cui all'articolo 7.1, comma 4-quater, della legge 30 aprile 1999, n. 130, ove non si realizzi la condizione ivi prevista, si applica una sanzione amministrativa del 30 per cento delle imposte di registro, ipotecaria e catastale dovute in misura ordinaria.))
+
 ### Art. 45.
 
 Altre infrazioni 
  
 (articolo 74 del decreto del Presidente della Repubblica n. 131 del 1986) 
  
- 1. Chi dichiara di non possedere, rifiuta di esibire o sottrae comunque all'ispezione le scritture contabili rilevanti per l'applicazione dell'articolo 51, comma 4, del testo unico delle disposizioni concernenti l'imposta di registro, di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, e chi non ottempera alle richieste degli uffici dell'Agenzia delle entrate ai sensi ((dell'articolo 64 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123)), e' punito con la sanzione amministrativa da euro 250 a euro 2.000. 
- 2. Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis del testo unico di cui al decreto del Presidente della Repubblica n. 131 del 1986 si applicano le disposizioni di cui ai titoli II e III.
+ 1. Chi dichiara di non possedere, rifiuta di esibire o sottrae comunque all'ispezione le scritture contabili rilevanti per l'applicazione dell'((articolo 298, comma 4, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), e chi non ottempera alle richieste degli uffici dell'Agenzia delle entrate ai sensi dell'articolo 64 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, e' punito con la sanzione amministrativa da euro 250 a euro 2.000. 
+ 2. Per le violazioni conseguenti alle richieste di cui all'((articolo 302 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)) si applicano le disposizioni di cui ai titoli II e III.
 
 ### Art. 46.
 
@@ -668,8 +737,20 @@ Infedelta' della dichiarazione
  (articolo 51 del decreto legislativo n. 346 del 1990) 
  
  1. Chi omette l'indicazione di dati o elementi rilevanti per la liquidazione o riliquidazione dell'imposta o li indica in maniera infedele, ovvero espone passivita' in tutto o in parte inesistenti, e' punito con sanzione amministrativa pari all'80 per cento della differenza di imposta. La stessa sanzione si applica, con riferimento all'imposta corrispondente, a chi rilascia o sottoscrive attestazioni o altri documenti rilevanti per la determinazione delle passivita' deducibili contenenti dati o elementi non rispondenti al vero. 
- 2. La sanzione di cui al comma 1 non si applica relativamente all'imposta corrispondente al maggior valore definitivamente accertato dei beni e dei diritti diversi da quelli indicati nell'articolo 34, comma 5, del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, di cui al decreto legislativo 31 ottobre 1990, n. 346, se il valore accertato non supera di un quarto quello dichiarato. 
- 3. Se l'omissione o l'infedelta' attengono a dati o elementi non incidenti sulla determinazione del tributo, si applica la sanzione da euro 250 a euro 1.000. La stessa sanzione si applica per la mancata allegazione alle dichiarazioni dei documenti prescritti o dei prospetti rilevanti ai fini della liquidazione delle imposte ipotecaria e catastale, di bollo, ((delle tasse per i servizi ipotecari)), ovvero nel caso di inesattezza o di irregolarita' dei prospetti medesimi. La sanzione e' ridotta alla meta' se si provvede alla regolarizzazione nel termine di sessanta giorni dalla richiesta dell'ufficio.
+ 2. La sanzione di cui al comma 1 non si applica relativamente all'imposta corrispondente al maggior valore definitivamente accertato dei beni e dei diritti diversi da quelli indicati nell'((articolo 309, comma 6, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), se il valore accertato non supera di un quarto quello dichiarato. 
+ 3. Se l'omissione o l'infedelta' attengono a dati o elementi non incidenti sulla determinazione del tributo, si applica la sanzione da euro 250 a euro 1.000. La stessa sanzione si applica per la mancata allegazione alle dichiarazioni dei documenti prescritti o dei prospetti rilevanti ai fini della liquidazione delle imposte ipotecaria e catastale, di bollo, delle tasse per i servizi ipotecari, ovvero nel caso di inesattezza o di irregolarita' dei prospetti medesimi. La sanzione e' ridotta alla meta' se si provvede alla regolarizzazione nel termine di sessanta giorni dalla richiesta dell'ufficio.
+
+### Art. 48-bis. — ( Irregolarita' dell'autoliquidazione e del versamento )
+
+(( (articolo 33, comma 3, secondo periodo, decreto legislativo 31 ottobre 1990, n. 346) )) 
+ 
+ 1. ((La sanzione di cui all'articolo 38, comma 1, si applica nei casi di liquidazione della maggiore imposta ai sensi dell'articolo 118, comma 3, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123. Se il pagamento delle somme dovute ai sensi del citato articolo 118 e' effettuato entro il termine ivi indicato, l'ammontare della sanzione dovuta e' ridotta a un terzo.))
+
+### Art. 48-ter. — ( Violazione relative alle donazioni anteriori )
+
+(( (articolo 57, comma 2, secondo periodo, decreto legislativo 31 ottobre 1990, n. 346) )) 
+ 
+ 1. ((Nei casi di omissione, incompletezza o inesattezza dell'indicazione degli estremi delle donazioni anteriori, ai sensi dell'articolo 134, comma 2, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, si applica, a carico solidalmente dei donanti e dei donatari, la sanzione amministrativa da una a due volte la maggiore imposta dovuta.))
 
 ### Art. 49.
 
@@ -677,12 +758,12 @@ Altre violazioni
  
  (articolo 53 del decreto legislativo n. 346 del 1990) 
  
- 1. L'erede o il legatario, al quale sono stati devoluti beni culturali, e' punito, nei casi previsti ((nell'articolo 98, comma 4, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123)), con la sanzione amministrativa pari all'80 per cento dell'imposta o della maggiore imposta dovuta ai sensi ((dell'articolo 117 del citato testo unico n. 123 del 2025 o dell'articolo 35 del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni di cui al decreto legislativo 31 ottobre 1990, n. 346)), in dipendenza della inclusione dei beni nell'attivo ereditario o della esclusione della riduzione d'imposta di cui all'articolo 25, comma 2, del medesimo testo unico di cui al decreto legislativo n. 346 del 1990. 
- 2. Chi viola i divieti stabiliti ((dall'articolo 130, commi 1 e 3, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025, o non adempie all'obbligo di cui al comma 4)) dello stesso articolo, e' punito con la sanzione amministrativa pari all'80 per cento dell'imposta o della maggior imposta dovuta in relazione ai beni e ai diritti ai quali si riferisce la violazione. 
- 3. In caso di violazione delle disposizioni di cui ((all'articolo 130, comma 6, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025)), i soggetti ivi indicati ovvero quelli indicati nel comma 7 del predetto articolo, nonche' i concedenti o i depositari, sono puniti con la sanzione amministrativa da euro 250 a euro 2.000 del pari applicabile a chi: 
+ 1. L'erede o il legatario, al quale sono stati devoluti beni culturali, e' punito, nei casi previsti nell'articolo 98, comma 4, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, con la sanzione amministrativa pari all'80 per cento dell'imposta o della maggiore imposta dovuta ai sensi dell'articolo 117 del citato testo unico n. 123 del 2025 o dell'((articolo 310 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), in dipendenza della inclusione dei beni nell'attivo ereditario o della esclusione della riduzione d'imposta di cui all'((articolo 110 del citato testo unico n. 123 del 2025)). 
+ 2. Chi viola i divieti stabiliti dall'articolo 130, commi 1 e 3, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025, o non adempie all'obbligo di cui al comma 4 dello stesso articolo, e' punito con la sanzione amministrativa pari all'80 per cento dell'imposta o della maggior imposta dovuta in relazione ai beni e ai diritti ai quali si riferisce la violazione. 
+ 3. In caso di violazione delle disposizioni di cui all'articolo 130, comma 6, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025, i soggetti ivi indicati ovvero quelli indicati nel comma 7 del predetto articolo, nonche' i concedenti o i depositari, sono puniti con la sanzione amministrativa da euro 250 a euro 2.000 del pari applicabile a chi: 
  a) non ottempera alle richieste dell'ufficio o comunica dati incompleti o infedeli; 
  b) dichiara di non possedere, rifiuta di esibire o sottrae all'ispezione documenti o scritture, ancorche' non obbligatori, dei quali risulti con certezza l'esistenza; 
- c) rifiuta di sottoscrivere l'attestazione ((di cui all'articolo 108, comma 3, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025)), di consegnare agli obbligati alla dichiarazione i titoli delle passivita' o non permette che ne sia fatta copia autentica, di consegnare o di rilasciare agli stessi gli estratti e le copie autentiche ((di cui al richiamato articolo 108 e all'articolo 115, comma 1, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025)). 
+ c) rifiuta di sottoscrivere l'attestazione di cui all'articolo 108, comma 3, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025, di consegnare agli obbligati alla dichiarazione i titoli delle passivita' o non permette che ne sia fatta copia autentica, di consegnare o di rilasciare agli stessi gli estratti e le copie autentiche di cui al richiamato articolo 108 e all'articolo 115, comma 1, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025. 
  4. La sanzione indicata nei commi 2 e 3 e' raddoppiata per la violazione di obblighi o di divieti posti a carico di pubblici ufficiali o di pubblici impiegati, ovvero di banche, societa' di credito o di intermediazione o di Poste Italiane S.p.A.
 
 ### Art. 50.
@@ -692,6 +773,10 @@ Determinazione della sanzione amministrativa
  (articolo 54 del decreto legislativo n. 346 del 1990) 
  
  1. Nella determinazione della sanzione commisurata all'imposta o alla maggiore imposta, questa e' assunta al netto delle riduzioni e delle detrazioni ((di cui agli articoli 110, commi da 1 a 6, e 111 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123)).
+
+### Art. 50-bis. — (( Decadenza dei benefici per i trasferimenti a favore di discendenti e del coniuge di aziende, quote sociali e azioni ))
+
+1. ((Nel caso di mancato rispetto delle condizioni di cui all'articolo 89, comma 6, periodi dal primo al quarto, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, si applica la sanzione amministrativa di cui all'articolo 38, comma 1.))
 
 ### Art. 51.
 
@@ -711,6 +796,10 @@ Omesso od insufficiente pagamento dell'imposta ed omessa o infedele dichiarazion
  2. Salvo quanto previsto dall'articolo 32, secondo comma, della legge 24 maggio 1977, n. 227, le violazioni relative alle cambiali sono punite con la sanzione amministrativa da due a dieci volte l'imposta, con un minimo di euro 100. 
  3. L'omessa o infedele dichiarazione di conguaglio prevista ((dall'articolo 150, commi 5 e 10 del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123)), e' punita con la sanzione amministrativa pari all'80 per cento dell'imposta dovuta. Se la dichiarazione di conguaglio e' presentata con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa del 45 per cento dell'ammontare dell'imposta dovuta.
 
+### Art. 52-bis. — ((Ritardato, omesso o insufficiente versamento dell'imposta di bollo dovuta in base ai dati indicati nelle fatture elettroniche))
+
+1. ((La sanzione di cui all'articolo 38, comma 1, si applica nei casi di ritardato, omesso o insufficiente versamento dell'imposta di bollo dovuta ai sensi dell'articolo 6, comma 2, del decreto del Ministro dell'economia e delle finanze 17 giugno 2014, pubblicato nella Gazzetta Ufficiale n. 146 del 26 giugno 2014, in base ai dati indicati nelle fatture elettroniche inviate attraverso il sistema di interscambio di cui all'articolo 74, commi 3 e 4, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10. La sanzione di cui al primo periodo e' ridotta a un terzo se il contribuente provvede al pagamento, in tutto o in parte, delle somme dovute entro trenta giorni dal ricevimento della comunicazione.))
+
 ### Art. 53. — ((ARTICOLO ABROGATO DAL D.LGS. 18 DICEMBRE 2025, N. 192))
 
 ### Art. 54.
@@ -720,6 +809,12 @@ Violazioni in materia di valori di bollo precedentemente usati
 (articolo 27 del decreto del Presidente della Repubblica n. 642 del 1972) 
  
  1. Chi detiene per lo smercio ovvero smercia carta bollata, marche o altri valori di bollo precedentemente usati e' punito con le pene stabilite dall'articolo 466 del codice penale.
+
+### Art. 54-bis. — (Omesso pagamento dell'imposta di bollo per attivita' finanziarie oggetto di emersione)
+
+(( (articolo 19, comma 10, decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214) )) 
+ 
+ 1. ((Per l'omesso versamento dell'imposta di cui all'articolo 167, comma 1, del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, si applica una sanzione pari all'importo non versato.))
 
 ### Art. 55.
 
@@ -781,7 +876,7 @@ Altre violazioni
  d) la mancata emissione del documento riepilogativo degli incassi; 
  e) l'omessa o infedele dichiarazione di effettuazione di attivita'; 
  f) la mancata o irregolare compilazione delle distinte di contabilizzazione dei proventi delle case da gioco; 
- g) l'omessa o infedele fornitura dei dati di cui all'articolo 74-quater, comma 6, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; 
+ g) l'omessa o infedele fornitura dei dati di cui all'((articolo 142, comma 4, del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo 19 gennaio 2026, n. 10)); 
  h) l'omessa o infedele comunicazione del numero e degli importi degli abbonamenti al concessionario di cui all'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, o all'ufficio dell'Agenzia delle entrate competente.
 
 ### Art. 60.
@@ -797,9 +892,11 @@ Violazioni relative agli apparecchi misuratori fiscali e alle biglietterie autom
 
 Violazioni relative all'omesso o irregolare pagamento dell'abbonamento 
  
- (articolo 19 del regio decreto-legge n. 246 del 1938) 
+(articolo 19 del regio decreto-legge n. 246 del 1938 ((; articolo 27, terzo comma, regio decreto-legge 21 febbraio 1938, n. 246, convertito, con modificazioni, dalla legge 4 giugno 1938, n. 880; articolo 1, comma 132, secondo periodo, legge 24 dicembre 2007, n. 244)) ) 
  
- 1. Chiunque detenga uno o piu' apparecchi o altri dispositivi atti o adattabili alla ricezione delle diffusioni radiofoniche e televisive senza aver corrisposto il canone di abbonamento con l'osservanza delle disposizioni, dei modi e dei termini stabiliti dalle vigenti norme, e' obbligato al pagamento del tributo evaso e della sanzione pecuniaria da euro 103 a euro 516.
+ 1. Chiunque detenga uno o piu' apparecchi o altri dispositivi atti o adattabili alla ricezione delle diffusioni radiofoniche e televisive senza aver corrisposto il canone di abbonamento con l'osservanza delle disposizioni, dei modi e dei termini stabiliti dalle vigenti norme, e' obbligato al pagamento del tributo evaso e della sanzione pecuniaria da euro 103 a euro 516. 
+ 1-bis. ((Chiunque effettua audizioni in locali pubblici o aperti al pubblico senza aver concordato il canone d'abbonamento di cui all'articolo 58 del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174, e' passibile delle sanzioni previste dal comma 1, ancorche' abbia corrisposto il canone di abbonamento stabilito per l'uso privato di cui all'articolo 52 del predetto testo unico dei tributi erariali minori.)) 
+ 1-ter. ((E' irrogata una sanzione amministrativa, in aggiunta al canone dovuto e agli interessi di mora, d'importo compreso tra euro 500 ed euro 2.000 per ciascuna annualita' evasa, nei casi di abuso nella fruizione dell'agevolazione di cui all'articolo 54-ter del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174.))
 
 ### Art. 62.
 
@@ -812,6 +909,24 @@ Pagamento tardivo dell'abbonamento
  3. L'abbonato che esegua il pagamento delle rate trimestrali oltre i termini stabiliti, ma prima dell'accertamento della violazione, in luogo della sanzione amministrativa prevista e' tenuto al pagamento di una sanzione amministrativa pari a un dodicesimo della semestralita'. 
  4. L'abbonato che entro il 31 gennaio o il 31 luglio non abbia eseguito il versamento per il semestre o per il trimestre, si presume abbia scelto la forma di pagamento semestrale.
 
+### Art. 62-bis. — (Violazione degli obblighi di comunicazione e di versamento dei canoni delle aziende di vendita dell'energia elettrica)
+
+(( (articolo 1, comma 155, legge 28 dicembre 2015, n. 208) )) 
+ 
+ 1. ((In caso di violazione degli obblighi di comunicazione e di versamento dei canoni di cui all'articolo 61, comma 1, del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174, si applicano, rispettivamente, le sanzioni di cui agli articoli 30, comma 1, e 38, comma 1.))
+
+### Art. 62-ter. — (Violazioni in materia di tassa sulla licenza di porto di fucile)
+
+(( (articolo 2, nota 3, della tariffa allegata al decreto del Presidente della Repubblica 26 ottobre 1972 n. 641) )) 
+ 
+ 1. ((Per l'omesso pagamento delle tasse di cui all'articolo 2, comma 1, della tariffa tasse sulle concessioni governative, allegato 4, del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174, si applica la sanzione amministrativa da euro 154,94 a euro 929,62 e, in caso di nuova violazione, da euro 258,23 a euro 1.549,37.))
+
+### Art. 62-quater. — (Ritardato pagamento della tassa annuale per i certificati complementari di protezione di medicinali e di prodotti fitosanitari)
+
+(( (articolo 9, nota 2, della tariffa allegata al decreto del Presidente della Repubblica 26 ottobre 1972 n. 641) )) 
+ 
+ 1. ((Per il ritardo della tassa annuale di cui all'articolo 9, comma 1, lettera b), della tariffa di cui all'allegato 4 del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174, entro il semestre si applica la sanzione pecuniaria di euro 361,52.))
+
 ### Art. 63.
 
 Sanzioni in materia di anagrafe tributaria e codice fiscale 
@@ -821,11 +936,11 @@ Sanzioni in materia di anagrafe tributaria e codice fiscale
  1. E' punito con la sanzione amministrativa da euro 103 a euro 2.065 chi: 
  a) non richiede entro i termini prescritti ovvero, salvo i casi in cui cio' sia espressamente previsto, richiede piu' volte l'attribuzione del numero del codice fiscale; 
  b) omette di indicare o indica in maniera inesatta il proprio numero di codice fiscale ovvero indica quello provvisorio dopo aver ricevuto la comunicazione del numero definitivo o quello emesso in data meno recente; 
- c) non comunica a terzi ovvero comunica in maniera inesatta il proprio numero di codice fiscale e i dati catastali di cui all'articolo 7, quinto comma, del decreto Presidente della Repubblica 29 settembre 1973, n. 605; 
+ c) non comunica a terzi ovvero comunica in maniera inesatta il proprio numero di codice fiscale e i dati catastali di cui all'((articolo 7, comma 5, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)); 
  d) omette di indicare il numero di codice fiscale comunicato da altri soggetti; 
- e) non ottempera in qualita' di pubblico ufficiale alla previsione disposta dall'articolo 11 del decreto del Presidente della Repubblica 29 settembre 1973, n. 605; 
- f) non restituisce nel termine prescritto i questionari indicati all'articolo 8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 605. 
- 2. Chi omette le comunicazioni previste dall'articolo 7 ((...)) del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, e' punito con la sanzione amministrativa da euro 206 a euro 5.164. La sanzione e' ridotta alla meta' in caso di comunicazioni incomplete o inesatte.
+ e) non ottempera in qualita' di pubblico ufficiale alla previsione disposta dall'((articolo 12 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)); 
+ f) non restituisce nel termine prescritto i questionari indicati all'((articolo 8 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)). 
+ 2. Chi omette le comunicazioni previste dall'((articolo 7 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), e' punito con la sanzione amministrativa da euro 206 a euro 5.164. La sanzione e' ridotta alla meta' in caso di comunicazioni incomplete o inesatte.
 
 ### Art. 64.
 
@@ -852,7 +967,7 @@ Recidiva e sanzioni accessorie
  
 (articolo 8 del decreto del Presidente della Repubblica n. 627 del 1978) 
  
- 1. I soggetti previsti dall'articolo 1, secondo comma, lettere a) e c), del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627, che commettano, nel corso di un triennio, tre violazioni previste nell'articolo 65, sono sottoposti ad accertamento, ai sensi e con le forme di cui al titolo IV del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. Essi sono altresi' sottoposti, secondo le prescrizioni e i criteri stabiliti nel decreto ministeriale di cui all'articolo 7 del decreto-legge 6 luglio 1974, n. 260, convertito, con modificazioni, dalla legge 14 agosto 1974, n. 354, al controllo globale per tutti i tributi. 
+ 1. I soggetti previsti dall'articolo 1, secondo comma, lettere a) e c), del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627, che commettano, nel corso di un triennio, tre violazioni previste nell'articolo 65, sono sottoposti ad accertamento, ai sensi e con le forme di cui ((alla parte II, titolo I, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)). Essi sono altresi' sottoposti, secondo le prescrizioni e i criteri stabiliti nel decreto ministeriale di cui all'articolo 7 del decreto-legge 6 luglio 1974, n. 260, convertito, con modificazioni, dalla legge 14 agosto 1974, n. 354, al controllo globale per tutti i tributi. 
  2. Chi effettua il trasporto, se nel corso di un triennio commette tre violazioni previste nell'articolo 65, e' soggetto al ritiro della carta di circolazione degli automezzi rispetto ai quali sono state contestate le singole trasgressioni per un periodo non inferiore a un mese ne' superiore a cinque mesi. Il provvedimento e' adottato dal competente ufficio della motorizzazione civile e dei trasporti in concessione, su proposta dell'ufficio dell'Agenzia delle entrate. 
  3. Fuori dei casi previsti nel comma 2, il conducente che nel corso di un triennio e' punito per tre violazioni previste nell'articolo 65 e' soggetto alla sospensione della patente di guida per un periodo non inferiore a quindici giorni ne' superiore a tre mesi. Il provvedimento e' adottato dal prefetto, su proposta dell'ufficio dell'Agenzia delle entrate. 
  4. Agli effetti dei commi 1, 2 e 3 si tiene conto anche delle violazioni per le quali e' intervenuto il procedimento di cui all'articolo 65, comma 4.
@@ -863,8 +978,13 @@ Sanzioni in materia di rilevazione ai fini fiscali di taluni trasferimenti da e 
  
  (articolo 5 del decreto-legge n. 167 del 1990) 
  
- 1. Per la violazione degli obblighi di trasmissione all'Agenzia delle entrate previsti dall'articolo 1 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, si applica la sanzione amministrativa pecuniaria dal 10 al 25 per cento dell'importo dell'operazione non segnalata. 
- 2. La violazione dell'obbligo di dichiarazione previsto nell'articolo 4, comma 1, del decreto-legge n. 167 del 1990 e' punita con la sanzione amministrativa pecuniaria dal 3 al 15 per cento dell'ammontare degli importi non dichiarati. La violazione di cui al primo periodo relativa alla detenzione di investimenti all'estero ovvero di attivita' estere di natura finanziaria negli Stati o territori a regime fiscale privilegiato di cui al decreto del Ministro delle finanze 4 maggio 1999, pubblicato nella Gazzetta Ufficiale n. 107 del 10 maggio 1999, e al decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale n. 273 del 23 novembre 2001, e' punita con la sanzione amministrativa pecuniaria dal 6 al 30 per cento dell'ammontare degli importi non dichiarati. Nel caso in cui la dichiarazione prevista dall'articolo 4, comma 1, del decreto-legge n. 167 del 1990 sia presentata entro novanta giorni dal termine, si applica la sanzione di euro 258.
+ 1. Per la violazione degli obblighi di trasmissione all'Agenzia delle entrate previsti dall'articolo 1 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, si applica la sanzione amministrativa pecuniaria dal 10 al 25 per cento dell'importo dell'operazione non segnalata. ((5)) 
+ 2. La violazione dell'obbligo di dichiarazione previsto nell'((articolo 58, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)) e' punita con la sanzione amministrativa pecuniaria dal 3 al 15 per cento dell'ammontare degli importi non dichiarati. La violazione di cui al primo periodo relativa alla detenzione di investimenti all'estero ovvero di attivita' estere di natura finanziaria negli Stati o territori a regime fiscale privilegiato di cui al decreto del Ministro delle finanze 4 maggio 1999, pubblicato nella Gazzetta Ufficiale n. 107 del 10 maggio 1999, e al decreto del Ministro dell'economia e delle finanze 21 novembre 2001, pubblicato nella Gazzetta Ufficiale n. 273 del 23 novembre 2001, e' punita con la sanzione amministrativa pecuniaria dal 6 al 30 per cento dell'ammontare degli importi non dichiarati. Nel caso in cui la dichiarazione prevista dall'((articolo 58, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)) sia presentata entro novanta giorni dal termine, si applica la sanzione di euro 258.
+
+------------
+                                AGGIORNAMENTO (5)
+                                
+ Il D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 8, comma 1, lettera tt)) che al presente articolo, al comma 1, "le parole: «all'articolo 1 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227» sono sostituite dalle seguenti: «all'articolo 18 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»".
 
 ### Art. 68.
 
@@ -881,15 +1001,212 @@ Sanzioni per violazioni degli intermediari
  (articolo 39 del decreto legislativo n. 241 del 1997) 
  
  1. Salvo che il fatto costituisca reato e ferma restando l'irrogazione delle sanzioni per le violazioni di norme tributarie: 
- a) ai soggetti indicati nell'articolo 35 del decreto legislativo 9 luglio 1997, n. 241, che rilasciano il visto di conformita', ovvero l'asseverazione, infedele si applica la sanzione amministrativa da euro 258 ad euro 2.582. Se il visto infedele e' relativo alla dichiarazione dei redditi presentata con le modalita' di cui all'articolo 13 del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, non si applica la sanzione di cui al primo periodo e i soggetti di cui all'articolo 35 del decreto legislativo n. 241 del 1997 sono tenuti al pagamento di una somma pari al 30 per cento della maggiore imposta riscontrata, sempre che il visto infedele non sia stato indotto dalla condotta dolosa o gravemente colposa del contribuente. Costituiscono titolo per la riscossione mediante ruolo ((di cui al testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33)), le comunicazioni con le quali sono richieste le somme di cui al secondo periodo. Eventuali controversie sono devolute alla giurisdizione tributaria. Sempreche' l'infedelta' del visto non sia gia' stata contestata con la comunicazione di cui all'articolo 26, comma 3-ter, del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, il centro di assistenza fiscale o il professionista puo' trasmettere una dichiarazione rettificativa del contribuente, ovvero, se il contribuente non intende presentare la nuova dichiarazione, puo' trasmettere una comunicazione dei dati relativi alla rettifica il cui contenuto e' definito con provvedimento del direttore dell'Agenzia delle entrate. In tal caso, la somma dovuta e' ridotta ai sensi dell'articolo 14. La violazione e' punibile in caso di liquidazione delle imposte, dei contributi, dei premi e dei rimborsi dovuti in base alle dichiarazioni, di cui all'articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e in caso di controllo ai sensi degli articoli 36-ter e seguenti del medesimo decreto, nonche' in caso di liquidazione dell'imposta dovuta in base alle dichiarazioni e in caso di controllo di cui agli articoli 54 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. La violazione e' punibile a condizione che non trovi applicazione ((l'articolo 123, comma 1, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo n. 33 del 2025)). In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, e' disposta a carico dei predetti soggetti la sospensione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione, per un periodo da uno a tre anni. In caso di ripetute violazioni commesse successivamente al periodo di sospensione, e' disposta l'inibizione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione. Si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione. Le sanzioni di cui al presente comma non sono oggetto della maggiorazione prevista dall'articolo 7, comma 3; 
- b) al professionista che rilascia una certificazione tributaria di cui all'articolo 36 del decreto legislativo 9 luglio 1997, n. 241, infedele, si applica la sanzione amministrativa da euro 516 ad euro 5.165. In caso di accertamento di tre distinte violazioni commesse nel corso di un biennio, e' disposta la sospensione dalla facolta' di rilasciare la certificazione tributaria per un periodo da uno a tre anni. La medesima facolta' e' inibita in caso di accertamento di ulteriori violazioni ovvero di violazioni di particolare gravita'. Si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione. 
+ a) ai soggetti indicati nell'articolo 81 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, che rilasciano il visto di conformita', ovvero l'asseverazione, infedele si applica la sanzione amministrativa da euro 258 ad euro 2.582. Se il visto infedele e' relativo alla dichiarazione dei redditi presentata con le modalita' di cui all'articolo 13 del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, non si applica la sanzione di cui al primo periodo e i soggetti di cui all'articolo 35 del decreto legislativo n. 241 del 1997 sono tenuti al pagamento di una somma pari al 30 per cento della maggiore imposta riscontrata, sempre che il visto infedele non sia stato indotto dalla condotta dolosa o gravemente colposa del contribuente. Costituiscono titolo per la riscossione mediante ruolo di cui al testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, le comunicazioni con le quali sono richieste le somme di cui al secondo periodo ((e, a tal fine, si applica il termine previsto dall'articolo 25, comma 1, lettera b), del medesimo decreto)). ((In deroga a quanto previsto dal comma 3, l'iscrizione a ruolo della somma pari al 30 per cento della maggiore imposta riscontrata e' effettuata dalla direzione provinciale dell'Agenzia delle entrate territorialmente competente in base al domicilio fiscale del contribuente.)) Eventuali controversie sono devolute alla giurisdizione tributaria. Sempreche' l'infedelta' del visto non sia gia' stata contestata con la comunicazione di cui all'articolo 26, comma 3-ter, del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, il centro di assistenza fiscale o il professionista puo' trasmettere una dichiarazione rettificativa del contribuente, ovvero, se il contribuente non intende presentare la nuova dichiarazione, puo' trasmettere una comunicazione dei dati relativi alla rettifica il cui contenuto e' definito con provvedimento del direttore dell'Agenzia delle entrate. In tal caso, la somma dovuta e' ridotta ai sensi dell'articolo 14. La violazione e' punibile in caso di liquidazione delle imposte, dei contributi, dei premi e dei rimborsi dovuti in base alle dichiarazioni, di cui all'articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e in caso di controllo ai sensi degli articoli 36-ter e seguenti del medesimo decreto, nonche' in caso di liquidazione dell'imposta dovuta in base alle dichiarazioni e in caso di controllo di cui agli articoli 54 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. La violazione e' punibile a condizione che non trovi applicazione l'articolo 123, comma 1, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo n. 33 del 2025. In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, e' disposta a carico dei predetti soggetti la sospensione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione, per un periodo da uno a tre anni. In caso di ripetute violazioni commesse successivamente al periodo di sospensione, e' disposta l'inibizione dalla facolta' di rilasciare il visto di conformita' e l'asseverazione. Si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione.
+Le sanzioni di cui al presente comma non sono oggetto della maggiorazione prevista dall'articolo 7, comma 3; (5) ((6)) 
+ b) al professionista che rilascia una certificazione tributaria di cui all'articolo 82 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, infedele, si applica la sanzione amministrativa da euro 516 ad euro 5.165. In caso di accertamento di tre distinte violazioni commesse nel corso di un biennio, e' disposta la sospensione dalla facolta' di rilasciare la certificazione tributaria per un periodo da uno a tre anni. La medesima facolta' e' inibita in caso di accertamento di ulteriori violazioni ovvero di violazioni di particolare gravita'. Si considera violazione particolarmente grave il mancato pagamento della suddetta sanzione. 
  2. Nei casi di violazioni commesse ai sensi dei commi 1 e 4 del presente articolo e dell'articolo 68, si applicano, in quanto compatibili, le disposizioni del titolo I. Il centro di assistenza fiscale per il quale abbia operato il trasgressore e' obbligato solidalmente con il trasgressore stesso al pagamento di un importo pari alla sanzione irrogata e alle altre somme indicate al comma 1. 
  3. Le violazioni dei commi 1 e 4 del presente articolo e dell'articolo 68 sono contestate e le relative sanzioni sono irrogate dalla direzione regionale dell'Agenzia delle entrate competente in ragione del domicilio fiscale del trasgressore anche sulla base delle segnalazioni inviate dagli uffici locali della medesima Agenzia.
 L'atto di contestazione e' unico per ciascun anno solare di riferimento e, fino al compimento dei termini di decadenza, puo' essere integrato o modificato dalla medesima direzione regionale. I provvedimenti ivi previsti sono trasmessi agli ordini di appartenenza dei soggetti che hanno commesso la violazione per l'eventuale adozione di ulteriori provvedimenti. 
- 4. In caso di inosservanza delle disposizioni di cui all'articolo 37, commi 2 e 4, del decreto legislativo 9 luglio 1997, n. 241, ai sostituti di imposta si applica la sanzione amministrativa da euro 258 a euro 2.582. 
- 5. L'autorizzazione all'esercizio dell'attivita' di assistenza fiscale di cui all'articolo 33, comma 3, del decreto legislativo 9 luglio 1997, n. 241, e' sospesa, per un periodo da tre a dodici mesi, quando sono commesse gravi e ripetute violazioni di norme tributarie o contributive e delle disposizioni di cui agli articoli 34 e 35 del medesimo decreto legislativo, nonche' quando gli elementi forniti all'amministrazione finanziaria risultano falsi o incompleti rispetto alla documentazione fornita dal contribuente. In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, e' disposta la revoca dell'esercizio dell'attivita' di assistenza. Nei casi di particolare gravita' e' disposta la sospensione cautelare. 
+ 4. In caso di inosservanza delle disposizioni di cui all'articolo 83, commi 2 e 5, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, ai sostituti di imposta si applica la sanzione amministrativa da euro 258 a euro 2.582. 
+ 5. L'autorizzazione all'esercizio dell'attivita' di assistenza fiscale di cui all'articolo 79, comma 3, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, e' sospesa, per un periodo da tre a dodici mesi, quando sono commesse gravi e ripetute violazioni di norme tributarie o contributive e delle disposizioni di cui agli articoli 80 e 81 del medesimo testo unico, nonche' quando gli elementi forniti all'amministrazione finanziaria risultano falsi o incompleti rispetto alla documentazione fornita dal contribuente. In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, e' disposta la revoca dell'esercizio dell'attivita' di assistenza. Nei casi di particolare gravita' e' disposta la sospensione cautelare. 
  6. La definizione agevolata delle sanzioni ai sensi dell'articolo 18, comma 3, non impedisce l'applicazione della sospensione, dell'inibizione e della revoca. 
  7. Il mancato rispetto di adeguati livelli di servizio comporta l'applicazione della sanzione da 516 euro a 5.165 euro.
+
+------------
+                                AGGIORNAMENTO (5)
+                                
+ Il D.Lgs. 5 agosto 2026, n. 141, ha disposto (con l'art. 8, comma 1, lettera uu)) che al presente articolo, comma 1, lettera a), secondo periodo "le parole: «articolo 35 del decreto legislativo 9 luglio 1997, n. 241» sono sostituite dalle seguenti: «articolo 81 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento»". 
+ Ha inoltre disposto (con l'art. 8, comma 1, lettera uu)) che al presente articolo, comma 1, lettera a), sesto periodo "le parole: «articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600» sono sostituite dalle seguenti: «articolo 243 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento», le parole: «articoli 36-ter e seguenti del medesimo decreto» sono sostituite dalle seguenti: «articoli 245 e seguenti del medesimo testo unico» e le parole: «articoli 54 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633» sono sostituite dalle seguenti: «articoli 283 e seguenti del citato testo unico»". 
+                                ------------
+                                AGGIORNAMENTO (6)
+                                
+ Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 18, comma 3) che "Le disposizioni del presente articolo si applicano a partire dalle attivita' di controllo effettuate sulle dichiarazioni relative al periodo d'imposta 2023".
+
+### Art. 69-bis. — ((Violazioni relative alle comunicazioni dei dati e delle informazioni necessarie per l'applicazione dell'imposta sostitutiva su ciascuna plusvalenza o altro reddito diverso realizzato))
+
+1. ((Nel caso di inesatta comunicazione dei dati e delle informazioni necessarie per l'applicazione dell'imposta sostitutiva di cui all'articolo 306, comma 1, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, si applica al contribuente la sanzione amministrativa dal cento al duecento per cento dell'ammontare della maggiore imposta sostitutiva dovuta.))
+
+### Art. 69-ter. — (Violazioni relative alle comunicazioni rilevanti in materia di imposizione minima globale)
+
+(( (articolo 51, comma 9, decreto legislativo 27 dicembre 2023, n. 209) )) 
+ 
+ 1. ((In caso di omessa presentazione della comunicazione rilevante di cui all'articolo 351, comma 1, lettera b), del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026 n. 117, o di ritardo nella sua presentazione pari o superiore a tre mesi, si applica una sanzione amministrativa di 100 mila euro; in caso di ritardo inferiore a tre mesi o di invio dei dati incompleti o errati, si applica la sanzione amministrativa da 10.000 euro a 50.000 euro. Le sanzioni amministrative indicate nel primo periodo non possono comunque superare complessivamente 1 milione di euro per tutte le imprese del gruppo multinazionale o nazionale localizzate nel territorio dello Stato italiano per le violazioni degli obblighi informativi riguardanti ciascun esercizio oggetto di comunicazione rilevante.
+L'omessa, ritardata, errata o incompleta comunicazione prevista all'articolo 351, comma 4, del citato testo unico delle disposizioni legislative in materia di imposte sui redditi e' punita con la sanzione amministrativa da 250 euro a 2.000 euro. Per i primi tre esercizi di applicazione delle disposizioni del presente titolo, le sanzioni amministrative previste al primo e al terzo periodo sono ridotte del 50 per cento.))
+
+### Art. 69-quater. — ((Violazioni relative alle comunicazioni di opzione per la cessione o per lo sconto in luogo delle detrazioni fiscali))
+
+1. ((Ferme restando le sanzioni penali previste in caso di dichiarazioni mendaci, la violazione delle disposizioni di cui all'articolo 121, comma 3-ter, periodi dal primo al quinto, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, determina l'applicazione della sanzione tributaria amministrativa di cui all'articolo 38, comma 5.
+Qualora sia accertata la mancata sussistenza, anche parziale, dei requisiti che danno diritto alla detrazione d'imposta, si applica la sanzione di cui all'articolo 38, comma 1.))
+
+### Art. 69-quinquies. — (Violazioni relative alle comunicazioni di non utilizzabilita' dei crediti derivanti dall'esercizio delle opzioni di cui all'articolo 121, comma 1, lettere a) e b), del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77)
+
+(( (articolo 25, comma 2, decreto-legge 10 agosto 2023, n. 104, convertito, con modificazioni, dalla legge 9 ottobre 2023, n. 136) )) 
+ 
+ 1. ((La mancata comunicazione di cui all'articolo 25, comma 1, del decreto-legge 10 agosto 2023, n. 104, convertito, con modificazioni, dalla legge 9 ottobre 2023, n. 136, entro i termini ivi previsti, comporta l'applicazione di una sanzione amministrativa tributaria pari a 100 euro.))
+
+### Art. 69-sexies. — ((Violazioni relative alle comunicazioni di crediti ceduti e non utilizzati))
+
+1. ((La sanzione di cui all'articolo 38, comma 5, si applica nei casi di violazione dell'articolo 4-bis, comma 1, del decreto-legge 29 marzo 2024, n. 39, convertito, con modificazioni, dalla legge 23 maggio 2024, n. 67.))
+
+### Art. 69-septies. — (Violazioni relative alle comunicazioni per il riconoscimento delle detrazioni per carichi di famiglia)
+
+(( (articolo 23, comma 2, lettera a), quarto periodo, decreto del Presidente della Repubblica 29 settembre 1973, n. 600) )) 
+ 
+ 1. ((L'omissione della comunicazione di cui all'articolo 33, comma 3, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, relativa alle variazioni delle condizioni di spettanza della detrazione di cui all'articolo 12 del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, comporta l'applicazione delle sanzioni previste dall'articolo 36 del presente testo unico.))
+
+### Art. 69-octies. — (Violazioni relative alle comunicazioni per l'applicazione della ritenuta sulle provvigioni inerenti a rapporti di commissione, di agenzia, di mediazione, di rappresentanza di commercio e di procacciamento di affari)
+
+(( (articolo 25-bis, settimo comma, terzo periodo, decreto del Presidente della Repubblica 29 settembre 1973, n. 600) )) 
+ 
+ 1. ((L'omissione della comunicazione relativa alle variazioni che comportano il venir meno delle condizioni di cui all'articolo 39 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, comporta l'applicazione delle sanzioni previste dall'articolo 36.))
+
+### Art. 69-novies. — (Violazioni relative alle comunicazioni dei dati concernenti le ritenute sugli interessi, premi e altri frutti delle obbligazioni e titoli similari)
+
+(( (articolo 4, comma 4, decreto legislativo 1° aprile 1996, n. 239) )) 
+ 
+ 1. ((La violazione dell'obbligo di comunicazione dei dati concernenti i versamenti relativi all'anno solare precedente di cui all'articolo 65, comma 1, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, e' punita con la sanzione amministrativa da euro 2.065 a euro 20.658.))
+
+### Art. 69-decies. — (Violazioni relative alle comunicazioni dei dati concernenti le posizioni soggette a ritenuta a titolo d'imposta)
+
+(( (articolo 8, comma 3, decreto legislativo 1° aprile 1996, n. 239) )) 
+ 
+ 1. ((Nei casi di omessa, incompleta o inesatta comunicazione di cui all'articolo 69, comma 2, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, da parte della banca e della societa' di intermediazione di cui all'articolo 68, comma 1, del medesimo testo unico, si applica la sanzione amministrativa da euro 2.065 a euro 20.658.))
+
+### Art. 69-undecies. — (Violazioni relative alle comunicazioni dei terzi, debitori del soggetto iscritto a ruolo)
+
+(( (articolo 75-bis, comma 2, secondo periodo, decreto del Presidente della Repubblica 29 settembre 1973, n. 602) )) 
+ 
+ 1. ((In caso di mancato adempimento da parte di soggetti terzi, debitori del soggetto che e' iscritto a ruolo o dei coobbligati, degli obblighi rivenienti dalle richieste formulate ai sensi dell'articolo 175, commi 1 e 2, del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, si applica la sanzione di cui all'articolo 35.))
+
+### Art. 69-duodecies. — (Violazioni relative alle comunicazioni all'anagrafe tributaria)
+
+(( (articolo 78, comma 26, primo, terzo e quarto periodo, legge 30 dicembre 1991, n. 413) )) 
+ 
+ 1. ((In caso di inosservanza degli obblighi relativi agli elenchi di cui all'articolo 7, commi 7 e 8, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applicano le sanzioni previste dall'articolo 63. In caso di omessa, tardiva o errata trasmissione dei dati di cui al citato articolo 7, commi 7 e 8, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, si applica la sanzione di euro 100 per ogni comunicazione, in deroga a quanto previsto dall'articolo 13, con un massimo di euro 50.000 per soggetto terzo. Nei casi di errata comunicazione dei dati, la sanzione non si applica se la trasmissione dei dati corretti e' effettuata entro i cinque giorni successivi alla scadenza, ovvero, in caso di segnalazione da parte dell'Agenzia delle entrate, entro i cinque giorni successivi alla segnalazione stessa. Se la comunicazione e' correttamente trasmessa entro sessanta giorni dalla scadenza prevista, la sanzione e' ridotta a un terzo, con un massimo di euro 20.000.))
+
+### Art. 69-terdecies. — (Violazioni relative agli obblighi a carico di intermediari ed altri soggetti che intervengono in operazioni fiscalmente rilevanti)
+
+(( (articolo 10, comma 1, quarto periodo, decreto legislativo 21 novembre 1997, n. 461) )) 
+ 
+ 1. ((Le violazioni degli obblighi previsti dall'articolo 11, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento per effetto delle quali risulti impedita l'identificazione dei soggetti cui le operazioni si riferiscono, sono punite con la sanzione amministrativa da euro 516 a euro 5.165.))
+
+### Art. 69-quaterdecies. — (Violazioni relative alla comunicazione di dati relativi a oneri e spese sostenute dai contribuenti e a redditi percepiti dai contribuenti)
+
+(( (articolo 3, commi 4, secondo periodo, e 5-bis, decreto legislativo 14 novembre 2014 n. 175) )) 
+ 
+ 1. ((Nel caso di omessa, tardiva o errata trasmissione dei dati di cui all'articolo 67, comma 5, primo periodo, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione prevista dall'articolo 69-bis.)) 
+ 2. ((In caso di omessa, tardiva o errata trasmissione dei dati di cui al citato articolo 67, commi 3 e 5, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, si applica la sanzione di euro 100 per ogni comunicazione, in deroga a quanto previsto dall'articolo 13, con un massimo di euro 50.000. Nei casi di errata comunicazione dei dati la sanzione non si applica se la trasmissione dei dati corretti e' effettuata entro i cinque giorni successivi alla scadenza, ovvero, in caso di segnalazione da parte dell'Agenzia delle entrate, entro i cinque giorni successivi alla segnalazione stessa. Se la comunicazione e' correttamente trasmessa entro sessanta giorni dalla scadenza prevista, la sanzione e' ridotta a un terzo con un massimo di euro 20.000.))
+
+### Art. 69-quinquiesdecies. — (Violazioni relative alle comunicazioni dei dati rilevanti ai fini della costruzione e dell'applicazione degli indici sintetici di affidabilita' fiscale)
+
+(( (articolo 9-bis, comma 16, primo periodo, decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96) )) 
+ 
+ 1. ((Nei casi di omissione della comunicazione dei dati rilevanti ai fini della costruzione e dell'applicazione degli indici di affidabilita' fiscale di cui all'articolo 49 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento o di comunicazione inesatta o incompleta dei medesimi dati, si applica la sanzione amministrativa pecuniaria prevista dall'articolo 33, comma 1.))
+
+### Art. 69-sexiesdecies. — (Violazioni relative alle comunicazioni dei dati delle locazioni brevi)
+
+(( (articolo 4, comma 4, secondo e terzo periodo, decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96) )) 
+ 
+ 1. ((L'omessa, incompleta o infedele comunicazione dei dati relativi ai contratti di cui all'articolo 207, commi 1 e 3, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, e' punita con la sanzione di cui all'articolo 36. La sanzione e' ridotta alla meta' se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati.))
+
+### Art. 69-septiesdecies. — (Violazioni relative ad adempimenti correlati allo scambio automatico di informazioni con altri Stati esteri)
+
+(( (articolo 9, legge 18 giugno 2015, n. 95) )) 
+ 
+ 1. ((Nei casi di violazione degli obblighi previsti dall'articolo 194 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa prevista dall'articolo 35, comma 2.)) 
+ 2. ((La sanzione prevista dal comma 1 si applica anche nei casi di omessa, incompleta o inesatta comunicazione delle informazioni di cui all'articolo 193, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento.)) 
+ 3. ((Nei casi in cui l'omissione o l'incompletezza delle comunicazioni di cui all'articolo 197 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento comporti un'omessa o carente effettuazione del prelievo alla fonte di cui all'articolo 196 del medesimo testo unico, si applica, nei confronti delle istituzioni finanziarie tenute alle predette comunicazioni, una sanzione pari al 100 per cento del prelievo non effettuato. La sanzione di cui al primo periodo non si applica nei confronti delle istituzioni finanziarie che agiscono in qualita' di intermediari qualificati in ragione di accordi stipulati con le competenti autorita' statunitensi, ai sensi della sezione 1441 dell'Internal Revenue Code degli Stati Uniti d'America.))
+
+### Art. 69-octiesdecies. — (Violazioni relative alle comunicazioni di informazioni concernenti i meccanismi transfrontalieri soggetti all'obbligo di notifica)
+
+(( (articolo 12, commi 3 e 4, decreto legislativo 1° marzo 2023, n. 32) )) 
+ 
+ 1. ((Nei casi di omessa comunicazione delle informazioni di cui all'articolo 220 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa pecuniaria prevista dall'articolo 35, comma 1, aumentata della meta'.)) 
+ 2. ((Nei casi di incompleta o inesatta comunicazione delle informazioni di cui all'articolo 220 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa pecuniaria prevista dall'articolo 35, comma 1, ridotta della meta'.)) 
+ 3. ((Nei casi di violazione degli obblighi di registrazione di cui all'articolo 223, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica una sanzione pecuniaria di euro 10.000.))
+
+### Art. 69-noviesdecies. — (Violazioni relative alle comunicazioni di informazioni concernenti lo scambio di informazioni raccolte dai gestori di piattaforme)
+
+(( (articolo 12, decreto legislativo 30 luglio 2020, n. 100) )) 
+ 
+ 1. ((Nei casi di omessa comunicazione delle informazioni di cui all'articolo 206 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa pecuniaria prevista dall'articolo 35, comma 1, aumentata della meta'.)) 
+ 2. ((Nei casi di incompleta o inesatta comunicazione delle informazioni di cui all'articolo 206 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento si applica la sanzione amministrativa pecuniaria prevista dall'articolo 35, comma 1, ridotta della meta'.))
+
+### Art. 69-vicies. — (Riduzione delle sanzioni amministrative in caso di violazioni relative a operazioni effettuate con strumenti di pagamento diversi dal contante)
+
+(( (articolo 2, comma 36-vicies ter, decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148) )) 
+ 
+ 1. ((L'ammontare delle sanzioni previste dagli articoli 27, 30 e 31 e' ridotto alla meta' per gli esercenti imprese o arti e professioni, con ricavi e compensi dichiarati non superiori a 5 milioni di euro, i quali per tutte le operazioni attive e passive effettuate nell'esercizio dell'attivita' utilizzano esclusivamente strumenti di pagamento diversi dal denaro contante.))
+
+### Art. 69-viciessemel. — (Riduzione della sanzione amministrativa in caso di infedele indicazione dei requisiti per l'applicazione del regime forfetario)
+
+(( (articolo 1, comma 74, secondo periodo, legge 23 dicembre 2014, n. 190) )) 
+ 
+ 1. ((In caso di infedele indicazione, da parte dei contribuenti, dei dati attestanti i requisiti e le condizioni di cui all'articolo 232, comma 1, e all'articolo 233, comma 1, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, che determinano la cessazione del regime previsto dalla parte II, titolo I, capo XXI, del medesimo testo unico delle disposizioni legislative in materia di imposte sui redditi, nonche' le condizioni di cui all'articolo 235, comma 2, del citato testo unico, le misure delle sanzioni minime e massime stabilite dal titolo II, capi I, II e III, e titolo III del presente testo unico, sono aumentate del 10 per cento se il maggiore reddito accertato supera del 10 per cento quello dichiarato.))
+
+### Art. 69-viciesbis. — (Riduzione delle sanzioni per le violazioni relative all'adempimento collaborativo)
+
+(( (articolo 6, comma 3-bis, decreto legislativo 5 agosto 2015, n. 128) )) 
+ 
+ 1. ((L'ammontare delle sanzioni per le violazioni relative all'adempimento collaborativo e' ridotto alla meta' e, comunque, non puo' essere applicato in misura superiore al minimo edittale, quando il contribuente adotta una condotta riconducibile a un rischio fiscale non significativo ricompreso nella mappa dei rischi. La loro riscossione e', in ogni caso, sospesa fino alla definitivita' dell'accertamento.))
+
+### Art. 69-viciester. — (Sanzioni applicabili nel caso di cooperazione e collaborazione rafforzata)
+
+1. ((Nei confronti dei soggetti di cui all'articolo 140, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, sussistendo le condizioni di cui articolo 141, comma 4, del medesimo testo unico, le sanzioni amministrative applicabili ai sensi dell'articolo 346, comma 5, del citato testo unico sono ridotte alla meta'.))
+
+### Art. 69-viciesquater. — (Riduzione delle sanzioni amministrative per le violazioni relative a versamenti eseguiti a seguito di controlli formali e automatici delle dichiarazioni)
+
+1. ((L'ammontare delle sanzioni: 
+ a) e' ridotto ad un terzo se il contribuente o il sostituto d'imposta provvede a pagare le somme dovute ai sensi dell'articolo 292, comma 2, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento; 
+ b) e' ridotto a due terzi se il contribuente provvede a pagare le somme dovute ai sensi dell'articolo 292, comma 6, del citato testo unico delle disposizioni legislative in materia di adempimenti e accertamento; 
+ c) e' ridotto a un terzo se il contribuente provvede a pagare le somme dovute ai sensi dell'articolo 277, comma 2, del citato testo unico delle disposizioni legislative in materia di adempimenti e accertamento.))
+
+### Art. 69-viciesquinquies. — (Riduzione delle sanzioni amministrative in caso di violazioni relative a versamenti eseguiti a seguito di controlli automatizzati)
+
+1. ((L'ammontare delle sanzioni e' ridotto ad un terzo se, ai sensi dell'articolo 323, comma 3, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, il contribuente provvede a pagare le somme dovute.))
+
+### Art. 69-viciessexies. — (Sanzioni applicabili in caso di adesione ai verbali di constatazione)
+
+1. ((In presenza dell'adesione ai verbali di constatazione ai sensi dell'articolo 350, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, la misura delle sanzioni applicabili, indicata nell'articolo 69-viciessexies e nell'articolo 69-viciessepties, e' ridotta alla meta' e le somme dovute risultanti dall'atto di definizione dell'accertamento parziale devono essere versate nei termini e con le modalita' di cui all'articolo 353 del citato testo unico.))
+
+### Art. 69-viciessepties. — (Sanzioni applicabili nel caso di definizione degli accertamenti nelle imposte sui redditi, nell'imposta sul valore aggiunto)
+
+(( (articolo 2, comma 5, primo periodo, decreto legislativo 19 giugno 1997, n. 218) )). 
+ 
+ 1. ((A seguito della definizione di cui all'articolo 346 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento le sanzioni per le violazioni concernenti i tributi oggetto dell'adesione commesse nel periodo d'imposta, nonche' per le violazioni concernenti il contenuto delle dichiarazioni relative allo stesso periodo si applicano nella misura di un terzo del minimo previsto dalla legge, a eccezione di quelle applicate in sede di liquidazione delle dichiarazioni ai sensi degli articoli 243 e 287, comma 2, di cui al medesimo testo unico, nonche' di quelle concernenti la mancata, incompleta o non veritiera risposta alle richieste formulate dall'ufficio.))
+
+### Art. 69-viciesocties. — (Sanzioni applicabili nel caso di definizione degli accertamenti delle altre imposte indirette)
+
+(( (articolo 3, comma 3, decreto legislativo 19 giugno 1997, n. 218) )). 
+ 
+ 1. ((A seguito della definizione di cui all'articolo 347 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento le sanzioni dovute per ciascun tributo oggetto dell'adesione si applicano nella misura di un terzo del minimo previsto dalla legge.))
+
+### Art. 69-viciesnovies. — (Sanzioni applicabili nel caso di omessa impugnazione)
+
+(( (articolo 15, comma 1, decreto legislativo 19 giugno 1997, n. 218) )). 
+ 
+ 1. ((Le sanzioni irrogate per le violazioni indicate nell'articolo 346, comma 5, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento e negli articoli 42, 43, 47 e 48 del presente testo unico, sono ridotte a un terzo se il contribuente rinuncia a impugnare l'avviso di accertamento o di liquidazione e a formulare istanza di accertamento con adesione, provvedendo a pagare, entro il termine per la proposizione del ricorso, le somme complessivamente dovute, tenuto conto della predetta riduzione. In ogni caso la misura delle sanzioni non puo' essere inferiore a un terzo dei minimi edittali previsti per le violazioni piu' gravi relative a ciascun tributo.)) 
+ 2. ((La disposizione del comma 1 si applica anche nei casi in cui il contribuente rinuncia a impugnare l'avviso di liquidazione emesso a seguito della decadenza dalle agevolazioni indicate nella nota I) all'articolo 1, parte prima, della tariffa, allegato 1 al testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, e nell'articolo 173, comma 1, del medesimo testo unico.))
+
+### Art. 69-tricies. — (Riduzione delle sanzioni amministrative nei casi di conciliazione giudiziale)
+
+(( (articolo 48-ter, comma 1, decreto legislativo 31 dicembre 1992, n. 546) )). 
+ 
+ 1. ((Le sanzioni amministrative si applicano nella misura del quaranta per cento del minimo previsto dalla legge, in caso di perfezionamento della conciliazione nel corso del primo grado di giudizio e nella misura del cinquanta per cento del minimo previsto dalla legge, in caso di perfezionamento nel corso del secondo grado di giudizio e nella misura del sessanta per cento del minimo previsto dalla legge, in caso di perfezionamento della conciliazione nel corso del giudizio di Cassazione.))
+
+### Art. 69-triciessemel. — (Aumento delle sanzioni amministrative per le violazioni relative a investimenti e attivita' in Stati o territori a regime fiscale privilegiato)
+
+(( (articolo 12, comma 2, secondo periodo, decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102) )). 
+ 
+ 1. ((Le sanzioni previste dall'articolo 27 sono raddoppiate nelle ipotesi di cui all'articolo 294, comma 2, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento.))
+
+### Art. 69-triciesbis. — ((Aumento delle sanzioni per mancato pagamento delle somme dovute nei casi di conciliazione giudiziale ))
+
+1. (( L'ammontare delle sanzioni di cui all'articolo 38 e' aumentato della meta' e applicato sul residuo importo dovuto a titolo di imposta, in casi di mancato pagamento delle somme dovute o di una delle rate, compresa la prima, nelle ipotesi di definizione di cui all'articolo 102 del testo unico della giustizia tributaria, di cui al decreto legislativo 14 novembre 2024, n. 175.))
+
+### Art. 69-triciester. — (( (Omesso pagamento delle somme dovute in esecuzione della risposta dell'Agenzia delle entrate in materia di rischi fiscali nell'ambito del regime dell'adempimento collaborativo). ))
+
+1. ((Nei casi di mancato pagamento di una delle rate diverse dalla prima entro il termine di pagamento della rata successiva, delle somme dovute in esecuzione della risposta dell'Agenzia delle entrate, ai sensi degli articoli 146, comma 5, e 149, comma 2-quinquies, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento di cui al decreto legislativo 5 agosto 2026, n. 141, si applica la sanzione di cui all'articolo 38, comma 1, aumentata della meta' e applicata sul residuo importo dovuto a titolo di imposta.))
 
 ### Art. 70.
 
@@ -1029,7 +1346,7 @@ Omesso versamento di ritenute certificate
  
  (articolo 10-bis del decreto legislativo n. 74 del 2000) 
  
- 1. E' punito con la reclusione da sei mesi a due anni chiunque non versa, entro il 31 dicembre dell'anno successivo a quello di presentazione della dichiarazione annuale di sostituto di imposta, ritenute risultanti dalla certificazione rilasciata ai sostituiti per un ammontare superiore a 150.000 euro per ciascun periodo d'imposta, se il debito tributario non e' in corso di estinzione mediante rateazione, ai sensi dell'articolo 3-bis del decreto legislativo 18 dicembre 1997, n. 462. In caso di decadenza dal beneficio della rateazione ai sensi ((dell'articolo 96 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33)), il colpevole e' punito se l'ammontare del debito residuo e' superiore a 50.000 euro.
+ 1. E' punito con la reclusione da sei mesi a due anni chiunque non versa, entro il 31 dicembre dell'anno successivo a quello di presentazione della dichiarazione annuale di sostituto di imposta, ritenute risultanti dalla certificazione rilasciata ai sostituiti per un ammontare superiore a 150.000 euro per ciascun periodo d'imposta, se il debito tributario non e' in corso di estinzione mediante rateazione, ai sensi dell'((articolo 292, commi 7, 8, 9, 10 e 11, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)). In caso di decadenza dal beneficio della rateazione ai sensi dell'articolo 96 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, il colpevole e' punito se l'ammontare del debito residuo e' superiore a 50.000 euro.
 
 ### Art. 83.
 
@@ -1037,7 +1354,7 @@ Omesso versamento di IVA
  
  (articolo 10-ter del decreto legislativo n. 74 del 2000) 
  
- 1. E' punito con la reclusione da sei mesi a due anni chiunque non versa, entro il 31 dicembre dell'anno successivo a quello di presentazione della dichiarazione annuale, l'imposta sul valore aggiunto dovuta in base alla medesima dichiarazione, per un ammontare superiore a euro 250.000 per ciascun periodo d'imposta, se il debito tributario non e' in corso di estinzione mediante rateazione, ai sensi dell'articolo 3-bis del decreto legislativo 18 dicembre 1997, n. 462. In caso di decadenza dal beneficio della rateazione ai sensi ((dell'articolo 96 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33)), il colpevole e' punito se l'ammontare del debito residuo e' superiore a 75.000 euro.
+ 1. E' punito con la reclusione da sei mesi a due anni chiunque non versa, entro il 31 dicembre dell'anno successivo a quello di presentazione della dichiarazione annuale, l'imposta sul valore aggiunto dovuta in base alla medesima dichiarazione, per un ammontare superiore a euro 250.000 per ciascun periodo d'imposta, se il debito tributario non e' in corso di estinzione mediante rateazione, ai sensi dell'((articolo 292, commi 7, 8, 9, 10 e 11, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)). In caso di decadenza dal beneficio della rateazione ai sensi dell'articolo 96 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, il colpevole e' punito se l'ammontare del debito residuo e' superiore a 75.000 euro.
 
 ### Art. 84.
 
@@ -1217,9 +1534,9 @@ Esibizione di atti falsi e comunicazione di dati non rispondenti al vero
  
 (articolo 5-septies del decreto-legge n. 167 del 1990 e articolo 11, comma 1, del decreto-legge n. 201 del 2011) 
  
- 1. L'autore della violazione di cui all'articolo 4, comma 1, del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, che, nell'ambito della procedura di collaborazione volontaria di cui all'articolo 5-quater del medesimo decreto-legge, esibisce o trasmette atti o documenti falsi, in tutto o in parte, ovvero fornisce dati e notizie non rispondenti al vero e' punito con la reclusione da un anno e sei mesi a sei anni. 
- 2. L'autore della violazione di cui all'articolo 4, comma 1, del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, deve rilasciare al professionista che lo assiste nell'ambito della procedura di collaborazione volontaria una dichiarazione sostitutiva di atto di notorieta' con la quale attesta che gli atti o documenti consegnati per l'espletamento dell'incarico non sono falsi e che i dati e notizie forniti sono rispondenti al vero. 
- 3. Chiunque, a seguito delle richieste effettuate nell'esercizio dei poteri di cui agli articoli 32 e 33 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e agli articoli 51 e 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, esibisce o trasmette atti o documenti falsi in tutto o in parte ovvero fornisce dati e notizie non rispondenti al vero e' punito ai sensi dell'articolo 76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. La disposizione di cui al primo periodo, relativamente ai dati e alle notizie non rispondenti al vero, si applica solo se a seguito delle richieste di cui al medesimo periodo si configurano le fattispecie di cui al presente capo, a eccezione di quelle di cui ai commi 1 e 2.
+ 1. L'autore della violazione di cui ((all'articolo 58, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), che, nell'ambito della procedura di collaborazione volontaria di cui all'articolo 5-quater del ((28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227)) decreto-legge, esibisce o trasmette atti o documenti falsi, in tutto o in parte, ovvero fornisce dati e notizie non rispondenti al vero e' punito con la reclusione da un anno e sei mesi a sei anni. 
+ 2. L'autore della violazione di cui ((all'articolo 58, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), deve rilasciare al professionista che lo assiste nell'ambito della procedura di collaborazione volontaria una dichiarazione sostitutiva di atto di notorieta' con la quale attesta che gli atti o documenti consegnati per l'espletamento dell'incarico non sono falsi e che i dati e notizie forniti sono rispondenti al vero. 
+ 3. Chiunque, a seguito delle richieste effettuate nell'esercizio dei poteri di cui ((agli articoli 159 e 161 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)), esibisce o trasmette atti o documenti falsi in tutto o in parte ovvero fornisce dati e notizie non rispondenti al vero e' punito ai sensi dell'articolo 76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. La disposizione di cui al primo periodo, relativamente ai dati e alle notizie non rispondenti al vero, si applica solo se a seguito delle richieste di cui al medesimo periodo si configurano le fattispecie di cui al presente capo, a eccezione di quelle di cui ai commi 1 e 2.
 
 ### Art. 101.
 
@@ -1232,8 +1549,7 @@ Abrogazioni
  d) gli articoli 24 e 26 della legge 29 ottobre 1961, n. 1216; 
  e) gli articoli 32, 33, 36 e 37 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640; 
  f) l'articolo 9 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 641; 
- g) 
-                                        articoli 24, 25, 26 e 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642; 
+ g) articoli 24, 25, 26 e 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 642; 
  h) gli articoli 13 e 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 605; 
  i) gli articoli 7 e 8 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627; 
  l) l'articolo 2, ottavo comma della legge 26 gennaio 1983, n. 18; 
@@ -1249,8 +1565,10 @@ Abrogazioni
  v) il decreto legislativo 18 dicembre 1997, n. 473; 
  z) il decreto legislativo 10 marzo 2000, n. 74, a eccezione degli articoli 21-bis e 21-ter; 
  aa) l'articolo 7 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326; 
- bb) 
-                                        articolo 11, comma 1, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni dalla legge 22 dicembre 2011, n. 214; 
+ aa-bis) ((articolo 37, comma 29, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248;)) 
+ aa-ter) ((articolo 1, comma 132, secondo periodo, della legge 24 dicembre 2007, n. 244;)) 
+ bb) articolo 11, comma 1, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni dalla legge 22 dicembre 2011, n. 214; 
+ bb-bis) ((articolo 6, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 218;)) 
  cc) gli articoli 1, 2, 3 e 4 del decreto legislativo 14 giugno 2024, n. 87, recante revisione del sistema sanzionatorio tributario, amministrativo e penale. 
  2. Restano abrogati: 
  a) gli articoli da 1 a 8, 11, 12, 15, da 17 a 19, 20, limitatamente alle parole «e quelle che prevedono ogni altra violazione di dette leggi», da 26 a 29 e da 55 a 63 della legge 7 gennaio 1929, n. 4; 

@@ -7,8 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-08;196
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-10-09
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -358,6 +359,27 @@ A decorrere dalla data di pubblicazione sulla Gazzetta ufficiale dell'Unione eur
                                 a partire dal 2030, devono contenere almeno il 30 per cento di plastica riciclata, calcolato come media per tutte tali bottiglie per bevande immesse sul mercato nazionale.
 
 Ai fini del raggiungimento degli obiettivi di cui al comma 3, i sistemi istituiti ai sensi dell'articolo 9, comma 1, assicurano il rientro in possesso del materiale post-consumo ai produttori per bottiglie per bevande elencate nella parte F dell'allegato, definendo la quota percentuale da restituire e le relative modalita' di restituzione.
+
+5-bis.
+                    
+                        
+                            
+                                ((I produttori di bottiglie per bevande elencate nella parte F dell'allegato comunicano annualmente al Consorzio nazionale imballaggi di cui all'articolo 224 del decreto legislativo 3 aprile 2006, n. 152, tramite i sistemi istituiti ai sensi dell'articolo 9, comma 1, del presente decreto, il quantitativo di bottiglie immesse sul mercato, nonche' di plastica riciclata acquistata e contenuta nelle medesime, indicando la provenienza dall'Unione europea o da un Paese terzo del quantitativo stesso. Il Consorzio nazionale imballaggi trasmette con cadenza annuale i dati acquisiti ai sensi del primo periodo del presente comma:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((al Ministero dell'ambiente e della sicurezza energetica ai fini della comunicazione annuale di cui all'articolo 13, comma 1, lettera e);))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((al Ministero dell'ambiente e della sicurezza energetica nonche' a ciascun altro soggetto competente ai fini della predisposizione dei piani e dei programmi di cui all'articolo 11, comma 1.))
 
 ## Art. 7. — Requisiti di marcatura
 

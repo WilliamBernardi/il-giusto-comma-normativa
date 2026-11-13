@@ -8,9 +8,9 @@ codice_redazionale: 090G0363
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2026-08-21
-zip_date: 2026-08-21
-fetched_at: 2026-08-21
+vigenza_date: 2026-10-31
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1816,7 +1816,7 @@ Le stesse pene si applicano a chiunque coltiva, produce o fabbrica sostanze stup
 
 Quando le condotte di cui al comma 1 riguardano i medicinali ricompresi nella tabella II, sezioni A, B, C e D, limitatamente a quelli indicati nel numero 3-bis) della lettera e) del comma 1 dell'articolo 14 e non ricorrono le condizioni di cui all'articolo 17, si applicano le pene ivi stabilite, diminuite da un terzo alla meta'. (34)
 
-Salvo che il fatto costituisca piu' grave reato, chiunque commette uno dei fatti previsti dal presente articolo che, per i mezzi, la modalita' o le circostanze dell'azione ovvero per la qualita' e quantita' delle sostanze, e' di lieve entita', e' punito con le pene della reclusione da sei mesi a cinque anni e della multa da euro 1.032 a euro 10.329. ((Il fatto non si considera di lieve entita' quando, per l'allestimento di mezzi o di strumenti ovvero per le modalita' dell'azione, le condotte di cui al comma 1 risultano poste in essere in modo continuativo e abituale)). Chiunque commette uno dei fatti previsti dal primo periodo e' punito con la pena della reclusione da diciotto mesi a cinque anni e della multa da euro 2.500 a euro 10.329, quando la condotta assume caratteri di non occasionalita'.
+Salvo che il fatto costituisca piu' grave reato, chiunque commette uno dei fatti previsti dal presente articolo che, per i mezzi, la modalita' o le circostanze dell'azione ovvero per la qualita' e quantita' delle sostanze, e' di lieve entita', e' punito con le pene della reclusione da sei mesi a cinque anni e della multa da euro 1.032 a euro 10.329. Il fatto non si considera di lieve entita' quando, per l'allestimento di mezzi o di strumenti ovvero per le modalita' dell'azione, le condotte di cui al comma 1 risultano poste in essere in modo continuativo e abituale. Chiunque commette uno dei fatti previsti dal primo periodo e' punito con la pena della reclusione da diciotto mesi a cinque anni e della multa da euro 2.500 a euro 10.329, quando la condotta assume caratteri di non occasionalita'.
 
 Nell'ipotesi di cui al comma 5, limitatamente ai reati di cui al presente articolo commessi da persona tossicodipendente o da assuntore di sostanze stupefacenti o psicotrope, il giudice, con la sentenza di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, su richiesta dell'imputato e sentito il pubblico ministero, qualora non debba concedersi il beneficio della sospensione condizionale della pena, puo' applicare, anziche' le pene detentive e pecuniarie, quella del lavoro di pubblica utilita' di cui all'articolo 54 del decreto legislativo 28 agosto 2000, n. 274, secondo le modalita' ivi previste. Con la sentenza il giudice incarica l'ufficio locale di esecuzione penale esterna di verificare l'effettivo svolgimento del lavoro di pubblica utilita'. L'ufficio riferisce periodicamente al giudice. In deroga a quanto disposto dal citato articolo 54 del decreto legislativo n. 274 del 2000, il lavoro di pubblica utilita' ha una durata corrispondente a quella della sanzione detentiva irrogata. Esso puo' essere disposto anche nelle strutture private autorizzate ai sensi dell'articolo 116, previo consenso delle stesse.
 In caso di violazione degli obblighi connessi allo svolgimento del lavoro di pubblica utilita', in deroga a quanto previsto dal citato articolo 54 del decreto legislativo n. 274 del 2000, su richiesta del pubblico ministero o d'ufficio, il giudice che procede, o quello dell'esecuzione, con le formalita' di cui all'articolo 666 del codice di procedura penale, tenuto conto dell'entita' dei motivi e delle circostanze della violazione, dispone la revoca della pena con conseguente ripristino di quella sostituita. Avverso tale provvedimento di revoca e' ammesso ricorso per cassazione, che non ha effetto sospensivo. Il lavoro di pubblica utilita' puo' sostituire la pena per non piu' di due volte.
@@ -1827,7 +1827,7 @@ Se il fatto e' commesso da tre o piu' persone in concorso tra loro, la pena e' a
 
 Le pene previste dai commi da 1 a 6 sono diminuite dalla meta' a due terzi per chi si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori, anche aiutando concretamente l'autorita' di polizia o l'autorita' giudiziaria nella sottrazione di risorse rilevanti per la commissione dei delitti.
 
-Nel caso di condanna o di applicazione di pena su richiesta delle parti, a norma dell'articolo 444 del codice di procedura penale, e' ordinata la confisca delle cose che ne sono il profitto o il prodotto, salvo che appartengano a persona estranea al reato, ovvero quando essa non e' possibile, fatta eccezione per il delitto di cui al comma 5, la confisca di beni di cui il reo ha la disponibilita' per un valore corrispondente a tale profitto o prodotto. Nei casi di cui al periodo precedente, e' ordinata la confisca, altresi', degli autoveicoli o altri beni mobili registrati e non registrati che risultino essere stati utilizzati per la commissione di uno dei fatti previsti dal presente articolo, ovvero che abbiano agevolato la commissione degli stessi fatti, salvo che appartengano a persona estranea al reato.
+Nel caso di condanna o di applicazione di pena su richiesta delle parti, a norma dell'articolo 444 del codice di procedura penale, e' ordinata la confisca delle cose che ne sono il profitto o il prodotto, salvo che appartengano a persona estranea al reato, ovvero quando essa non e' possibile, fatta eccezione per il delitto di cui al comma 5, la confisca di beni di cui il reo ha la disponibilita' per un valore corrispondente a tale profitto o prodotto. Nei casi di cui al periodo precedente, e' ordinata la confisca, altresi', degli autoveicoli o altri beni mobili registrati e non registrati ((o delle altre cose)) che risultino essere stati utilizzati per la commissione di uno dei fatti previsti dal presente articolo, ovvero che abbiano agevolato la commissione degli stessi fatti, salvo che appartengano a persona estranea al reato. ((Si applicano le disposizioni di cui ai commi 1 e 3 dell'articolo 240-ter e di cui all'articolo 240-quater del codice penale)).
 
 -------------
                             AGGIORNAMENTO (34)
@@ -1863,11 +1863,7 @@ Se l'associazione e' costituita per commettere i fatti descritti dal comma 5 del
 
 Le pene previste dai commi da 1 a 6 sono diminuite dalla meta' a due terzi per chi si sia efficacemente adoperato per assicurare le prove del reato o per sottrarre all'associazione risorse decisive per la commissione dei delitti.
 
-((
-
-Nei confronti del condannato e' ordinata la confisca delle cose che servirono o furono destinate a commettere il reato e dei beni che ne sono il profitto o il prodotto, salvo che appartengano a persona estranea al reato, ovvero quando essa non e' possibile, la confisca di beni di cui il reo ha la disponibilita' per un valore corrispondente a tale profitto o prodotto.
-
-))
+Nei confronti del condannato e' ordinata la confisca delle cose che servirono o furono destinate a commettere il reato e dei beni che ne sono il profitto o il prodotto, salvo che appartengano a persona estranea al reato, ovvero quando essa non e' possibile, la confisca di beni di cui il reo ha la disponibilita' per un valore corrispondente a tale profitto o prodotto. ((Si applicano le disposizioni di cui ai commi 1 e 3 dell'articolo 240-ter e di cui all'articolo 240-quater del codice penale)).
 
 Quando in leggi e decreti e' richiamato il reato previsto dall'articolo 75 della legge 22 dicembre 1975, n. 685, abrogato dall'articolo 38, comma 1, della legge 26 giugno 1990, n. 162, il richiamo si intende riferito al presente articolo.
 

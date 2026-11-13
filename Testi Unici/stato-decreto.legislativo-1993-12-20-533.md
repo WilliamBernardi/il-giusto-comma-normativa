@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2020-04-21
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -23,7 +23,7 @@ Entrata in vigore del decreto: 28-12-1993
 
 Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro dell'interno, con il Ministro di grazia e giustizia e con il Ministro per le riforme elettorali e istituzionali;
 
-E M A N A
+EMANA
 
 il seguente decreto legislativo:
 
@@ -81,7 +81,9 @@ La corte d'appello o il tribunale del capoluogo della regione si costituisce in 
 
 ## - Titolo III ((DELLA PRESENTAZIONE DELLE CANDIDATURE))
 
-## Art. 8.
+## Art. 8. — ((1. I partiti o gruppi politici organizzati che intendono presentare candidature per l'elezione del Senato della Repubblica debbono depositare presso il Ministero dell'interno il contrassegno con il quale dichiarano di volere distinguere le candidature medesime, con l'osservanza delle norme di cui agli articoli 14, 14-bis, 15, 16 e 17 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni))
+
+
 
 ## Art. 9.
 
@@ -127,17 +129,22 @@ Contro le decisioni di eliminazione ((di liste o di candidati)), i delegati poss
 
 Per le modalita' ed i termini per la presentazione dei ricorsi nonche' per le decisioni degli stessi e per le conseguenti comunicazioni ai ricorrenti ed agli uffici elettorali regionali si osservano le norme di cui all'articolo 23 del predetto testo unico.
 
-## Art. 11. — Legge 6 febbraio 1948, n. 29, art. 13, terzo e quarto comma; legge 23 aprile 1976, n. 136, art. 2, lettera f); legge 21 marzo 1990, n. 53, art. 13, comma 2; legge 13 marzo 1980, n. 70, art. 7, secondo comma; legge 4 febbraio 1992, n. 70, art. 2
+## Art. 11. — (Legge 6 febbraio 1948, n. 29, art. 13, terzo e quarto comma; legge 23 aprile 1976, n. 136, art. 2, lettera f); legge 21 marzo 1990, n. 53, art. 13, comma 2; legge 13 marzo 1980, n. 70, art. 7, secondo comma; legge 4 febbraio 1992, n. 70, art. 2)
 
-1. L'ufficio elettorale regionale, appena scaduto il termine stabilito per la presentazione dei ricorsi o, nel caso in cui sia stato presentato ricorso, appena ricevuta la comunicazione della decisione dell'Ufficio centrale nazionale, compie le seguenti operazioni: 
+L'ufficio elettorale regionale, appena scaduto il termine stabilito per la presentazione dei ricorsi o, nel caso in cui sia stato presentato ricorso, appena ricevuta la comunicazione della decisione dell'Ufficio centrale nazionale, compie le seguenti operazioni: 
  ((a) stabilisce, mediante un unico sorteggio da effettuarsi alla presenza dei delegati di lista, il numero d'ordine da assegnare, in tutti i collegi plurinominali della circoscrizione regionale, alle coalizioni e alle liste non collegate e ai relativi contrassegni di lista, nonche', per ciascuna coalizione, l'ordine dei contrassegni delle liste della coalizione. I contrassegni di ciascuna lista, unitamente ai nominativi dei candidati, nell'ordine numerico di presentazione, e ai nominativi dei candidati nei collegi uninominali, sono riportati sulle schede di votazione e sui manifesti secondo l'ordine progressivo risultato dal suddetto sorteggio)); 
  b) comunica ai delegati le definitive decisioni adottate; 
  c) procede, per mezzo delle prefetture - uffici territoriali del Governo: 
  1) alla stampa delle schede di votazione, recanti i contrassegni delle liste, i quali devono essere riprodotti sulle schede medesime con i colori depositati presso il Ministero dell'interno ai sensi dell'articolo 8; 
- 2) alla stampa del manifesto con le liste dei candidati, con i relativi contrassegni e numero d'ordine, e all'invio del manifesto ai sindaci dei comuni della circoscrizione, i quali ne curano l'affissione nell'albo pretorio e in altri luoghi pubblici entro il quindicesimo giorno antecedente quello della votazione. 
- ((3. Le schede sono di carta consistente e sono fornite a cura del Ministero dell'interno, con l'osservanza delle norme di cui all'articolo 31 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361. Le schede hanno le caratteristiche essenziali del modello descritto nelle tabelle A e B allegate al presente testo unico)). 
- 4. Le schede devono pervenire agli uffici elettorali debitamente piegate. 
- 4-bis. La scheda elettorale per l'elezione uninominale nel collegio della Valle d'Aosta deve recare doppie diciture in lingua italiana ed in lingua francese.
+ 2) alla stampa del manifesto con le liste dei candidati, con i relativi contrassegni e numero d'ordine, e all'invio del manifesto ai sindaci dei comuni della circoscrizione, i quali ne curano l'affissione nell'albo pretorio e in altri luoghi pubblici entro il quindicesimo giorno antecedente quello della votazione.
+
+COMMA NON PIU' PREVISTO DALLA L. 21 DICEMBRE 2005, N. 270.
+
+((Le schede sono di carta consistente e sono fornite a cura del Ministero dell'interno, con l'osservanza delle norme di cui all'articolo 31 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361. Le schede hanno le caratteristiche essenziali del modello descritto nelle tabelle A e B allegate al presente testo unico)).
+
+Le schede devono pervenire agli uffici elettorali debitamente piegate.
+
+La scheda elettorale per l'elezione uninominale nel collegio della Valle d'Aosta deve recare doppie diciture in lingua italiana ed in lingua francese.
 
 ## Art. 12. — Art. 2, lettera g), della legge 23 aprile 1976, n. 136
 
@@ -184,6 +191,19 @@ Nel caso di piu' liste collegate in coalizione, i voti sono ripartiti tra le lis
 ## - Titolo VI DELLE OPERAZIONI DELL'UFFICIO ELETTORALE REGIONALE ((E DELL'UFFICIO ELETTORALE CENTRALE NAZIONALE))
 
 ## Art. 16.
+
+((1. L'Ufficio elettorale regionale, compiute le operazioni previste dall'articolo 76 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, facendosi assistere, ove lo ritenga opportuno, da uno o piu' esperti scelti dal presidente: 
+ a) determina la cifra elettorale individuale di ciascun candidato nei collegi uninominali; tale cifra e' data dalla somma dei voti validi conseguiti dal candidato nelle singole sezioni elettorali del collegio uninominale in conformita' ai risultati accertati; 
+b) proclama eletto in ciascun collegio uninominale il candidato che ha ottenuto il maggior numero di voti validi; in caso di parita', e' eletto il candidato piu' giovane di eta'; 
+c) determina la cifra elettorale di collegio uninominale di ciascuna lista. Tale cifra e' data dalla somma dei voti validi conseguiti dalla lista stessa nelle singole sezioni elettorali del collegio uninominale e dei voti espressi a favore dei soli candidati nei collegi uninominali collegati a piu' liste in coalizione di cui all'articolo 14, comma 2, secondo periodo, attribuiti alla lista a seguito delle seguenti operazioni: l'ufficio divide il totale dei voti validi conseguiti da tutte le liste della coalizione nel collegio uninominale per il numero dei voti espressi a favore dei soli candidati nei collegi uninominali, ottenendo il quoziente di ripartizione. Divide poi il totale dei voti validi conseguiti da ciascuna lista per tale quoziente. La parte intera del quoziente cosi' ottenuto rappresenta il numero dei voti da assegnare a ciascuna lista; i voti che rimangono ancora da attribuire sono rispettivamente assegnati alle liste per le quali queste ultime divisioni abbiano dato i maggiori resti, secondo l'ordine decrescente dei resti medesimi. Nella ripartizione dei voti espressi in favore dei soli candidati nei collegi uninominali collegati a piu' liste in coalizione, l'ufficio esclude dal computo i voti espressi in favore della lista rappresentativa di minoranze linguistiche riconosciute nei collegi uninominali dove questa abbia presentato proprie candidature ai sensi dell'articolo 18-bis, comma 1-bis, del testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361; 
+d) determina la cifra elettorale di collegio plurinominale di ciascuna lista. Tale cifra e' data dalla somma delle cifre elettorali di collegio uninominale di ciascuna lista; 
+e) determina la cifra elettorale percentuale di collegio plurinominale di ciascuna lista. Tale cifra e' data dal quoziente risultante dalla divisione della cifra elettorale di collegio plurinominale di ciascuna lista per il totale dei voti validi del rispettivo collegio plurinominale, moltiplicato per cento; 
+f) determina la cifra elettorale regionale di ciascuna lista.
+Tale cifra e' data dalla somma delle cifre elettorali di collegio plurinominale della lista stessa; 
+g) determina la cifra elettorale percentuale di ciascun candidato nel collegio uninominale. Tale cifra e' data dal quoziente risultante dalla divisione della cifra elettorale individuale di ciascun candidato per il totale dei voti validi del rispettivo collegio uninominale, moltiplicato per cento; 
+h) determina, per ciascuna lista, la graduatoria dei candidati nei collegi uninominali della regione non proclamati eletti, disponendoli nell'ordine delle rispettive cifre elettorali individuali percentuali. A parita' di cifre individuali percentuali, prevale il piu' giovane di eta'. In caso di collegamento dei candidati con piu' liste, i candidati entrano a far parte della graduatoria relativa a ciascuna delle liste con cui e' stato dichiarato il collegamento; 
+i) determina il totale dei voti validi della regione. Tale totale e' dato dalla somma delle cifre elettorali regionali di tutte le liste; 
+ l) comunica all'Ufficio elettorale centrale nazionale di cui all'articolo 12 del testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, a mezzo di estratto del verbale, la cifra elettorale regionale di ciascuna lista nonche' il totale dei voti validi della regione.))
 
 ---------------
                             AGGIORNAMENTO (5)

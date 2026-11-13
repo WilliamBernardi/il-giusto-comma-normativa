@@ -8,9 +8,9 @@ codice_redazionale: 098G0348
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2026-07-16
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-10-31
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -1083,6 +1083,8 @@ Quando sussistono gravi indizi di colpevolezza in ordine ai reati previsti dal c
 
 Nei casi previsti dai commi 1 e 3 e' sempre disposta la confisca del mezzo di trasporto utilizzato per commettere il reato, anche nel caso di applicazione della pena su richiesta delle parti.
 
+((Nei casi di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per i reati di cui al comma precedente, e' disposta la confisca delle cose che ne sono il prodotto, il prezzo o il profitto, salvo che appartengano a persona estranea al reato ovvero, quando essa non e' possibile, dei beni di cui il condannato ha comunque la disponibilita', per un valore corrispondente al profitto, al prodotto o al prezzo del reato.))
+
 Fuori dei casi previsti dai commi precedenti, e salvo che il fatto non costituisca piu' grave reato, chiunque, al fine di trarre un ingiusto profitto dalla condizione di illegalita' dello straniero o nell'ambito delle attivita' punite a norma del presente articolo, favorisce la permanenza di questi nel territorio dello Stato in violazione delle norme del presente testo unico, e' punito con la reclusione fino a quattro anni e con la multa fino a lire trenta milioni. Quando il fatto e' commesso in concorso da due o piu' persone, ovvero riguarda la permanenza di cinque o piu' persone, la pena e' aumentata da un terzo alla meta'.
 
 Salvo che il fatto costituisca piu' grave reato, chiunque a titolo oneroso, al fine di trarre ingiusto profitto, da' alloggio ovvero cede, anche in locazione, un immobile ad uno straniero che sia privo di titolo di soggiorno al momento della stipula o del rinnovo del contratto di locazione, e' punito con la reclusione da sei mesi a tre anni. La condanna con provvedimento irrevocabile ovvero l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, anche se e' stata concessa la sospensione condizionale della pena, comporta la confisca dell'immobile, salvo che appartenga a persona estranea al reato. Si osservano, in quanto applicabili, le disposizioni vigenti in materia di gestione e destinazione dei beni confiscati. Le somme di denaro ricavate dalla vendita, ove disposta, dei beni confiscati sono destinate al potenziamento delle attivita' di prevenzione e repressione dei reati in tema di immigrazione clandestina.
@@ -1119,9 +1121,9 @@ Le modalita' di intervento delle navi della Marina militare nonche' quelle di ra
 
 Le disposizioni di cui ai commi 9-bis e 9-quater si applicano, in quanto compatibili, anche per i controlli concernenti il traffico aereo.
 
-Il Dipartimento della pubblica sicurezza del Ministero dell'interno assicura, nell'ambito delle attivita' di contrasto dell'immigrazione irregolare, la gestione e il monitoraggio, con modalita' informatiche, dei procedimenti amministrativi riguardanti le posizioni di ingresso e soggiorno irregolare anche attraverso il Sistema Informativo Automatizzato. A tal fine sono predisposte le necessarie interconnessioni con il Centro elaborazione dati interforze di cui all'articolo 8 della legge 1° aprile 1981, n. 121, con il Sistema informativo Schengen di cui al regolamento ((UE 2018/1862 del 28 novembre 2018)) nonche' con il Sistema Automatizzato di Identificazione delle Impronte ((e delle immagini facciali)) ed e' assicurato il tempestivo scambio di informazioni con ((i sistemi informativi)) del Dipartimento per le liberta' civili e l'immigrazione del medesimo Ministero dell'interno ((e del Ministero della giustizia.)).
+Il Dipartimento della pubblica sicurezza del Ministero dell'interno assicura, nell'ambito delle attivita' di contrasto dell'immigrazione irregolare, la gestione e il monitoraggio, con modalita' informatiche, dei procedimenti amministrativi riguardanti le posizioni di ingresso e soggiorno irregolare anche attraverso il Sistema Informativo Automatizzato. A tal fine sono predisposte le necessarie interconnessioni con il Centro elaborazione dati interforze di cui all'articolo 8 della legge 1° aprile 1981, n. 121, con il Sistema informativo Schengen di cui al regolamento UE 2018/1862 del 28 novembre 2018 nonche' con il Sistema Automatizzato di Identificazione delle Impronte e delle immagini facciali ed e' assicurato il tempestivo scambio di informazioni con i sistemi informativi del Dipartimento per le liberta' civili e l'immigrazione del medesimo Ministero dell'interno e del Ministero della giustizia.
 
-((Il Sistema Informativo Automatizzato di cui al comma 9-septies supporta il Dipartimento della pubblica sicurezza del Ministero dell'interno nelle attivita' relative ai controlli di sicurezza di cui agli articoli 14, 15 e 16 del regolamento (UE) 2024/1356 e assicura che le informazioni contenute nel modulo di cui al paragrafo 1 dell'articolo 17 dello stesso regolamento siano gestite anche per le finalita' previste dal successivo paragrafo 3, nonche' per quelle previste dall'articolo 18, paragrafi da 1 a 4 e 6, del medesimo regolamento.))
+Il Sistema Informativo Automatizzato di cui al comma 9-septies supporta il Dipartimento della pubblica sicurezza del Ministero dell'interno nelle attivita' relative ai controlli di sicurezza di cui agli articoli 14, 15 e 16 del regolamento (UE) 2024/1356 e assicura che le informazioni contenute nel modulo di cui al paragrafo 1 dell'articolo 17 dello stesso regolamento siano gestite anche per le finalita' previste dal successivo paragrafo 3, nonche' per quelle previste dall'articolo 18, paragrafi da 1 a 4 e 6, del medesimo regolamento.
 
 -------------
                             AGGIORNAMENTO (41)

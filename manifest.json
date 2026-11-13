@@ -2,13 +2,13 @@
   "source": "normattiva-opendata",
   "state": "V",
   "format": "AKN",
-  "built_at": "2026-11-12T11:40:09Z",
+  "built_at": "2026-11-13T11:23:57Z",
   "collections": {
     "Atti di attuazione Regolamenti UE": {
       "collection": "Atti di attuazione Regolamenti UE",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 39,
       "files": {
         "urn:nir:ministero.agricoltura.e.foreste:decreto.ministeriale:1990-02-08;34": {
@@ -12054,7 +12054,7 @@
       "collection": "Codici",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 40,
       "files": {
         "urn:nir:ministero.grazia.e.giustizia:decreto:1989-09-30;334": {
@@ -12671,7 +12671,7 @@
       "collection": "DL decaduti",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 1735,
       "files": {
         "urn:nir:stato:decreto.legge:1951-04-09;207": {
@@ -27087,7 +27087,7 @@
       "collection": "DL e leggi di conversione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 7445,
       "files": {
         "urn:nir:stato:legge:1895-08-04;470": {
@@ -116059,7 +116059,7 @@
       "collection": "DL proroghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 75,
       "files": {
         "urn:nir:stato:decreto.legge:1979-09-24;467": {
@@ -116680,7 +116680,7 @@
       "collection": "DPCM",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 363,
       "files": {
         "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1987-04-08;227": {
@@ -119726,7 +119726,7 @@
       "collection": "DPR",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-10-30",
+      "zip_date": "2026-11-13",
       "act_count": 47762,
       "files": {
         "urn:nir:ministero.tesoro:decreto.del.presidente.della.repubblica:1997-09-09;336": {
@@ -469657,7 +469657,7 @@
           "codice_redazionale": "088G0492",
           "vigenza_date": "2026-09-30",
           "articles": 907,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-10-30_V0.xml"
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-10-31_V0.xml"
         },
         "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448": {
           "path": "DPR/stato-decreto.del.presidente.della.repubblica-1988-09-22-448.md",
@@ -470557,7 +470557,7 @@
           "codice_redazionale": "090G0363",
           "vigenza_date": "2026-08-21",
           "articles": 145,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-08-21_V0.xml",
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-10-31_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato I\"",
             "skipped non-article attachment \"Allegato II\"",
@@ -477677,7 +477677,7 @@
           "codice_redazionale": "002G0139",
           "vigenza_date": "2026-08-26",
           "articles": 316,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-10-15_V0.xml",
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-10-31_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato 1\"",
             "skipped non-article attachment \"Allegato 2\"",
@@ -479508,9 +479508,9 @@
           "path": "DPR/stato-decreto.del.presidente.della.repubblica-2007-05-14-90.md",
           "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;90",
           "codice_redazionale": "007G0102",
-          "vigenza_date": "2017-07-21",
+          "vigenza_date": "2026-11-12",
           "articles": 14,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_90/2007-07-10_007G0102_VIGENZA_2025-07-30_V0.xml"
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_90/2007-07-10_007G0102_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;91": {
           "path": "DPR/stato-decreto.del.presidente.della.repubblica-2007-05-14-91.md",
@@ -482911,6 +482911,12 @@
           "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-06-19;155",
           "articles": 2,
           "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260619_155/2026-08-31_26G00171_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-08-04;183": {
+          "path": "DPR/stato-decreto.del.presidente.della.repubblica-2026-08-04-183.md",
+          "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-08-04;183",
+          "articles": 3,
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260804_183/2026-10-13_26G00198_ORIGINALE_V0.xml"
         }
       }
     },
@@ -482918,7 +482924,7 @@
       "collection": "Decreti Legislativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 2936,
       "files": {
         "urn:nir:stato:decreto.legislativo:1947-03-27;1884": {
@@ -509510,7 +509516,7 @@
       "collection": "Decreti legislativi luogotenenziali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 1215,
       "files": {
         "urn:nir:stato:decreto.legislativo.luogotenenziale:1942-07-24;1879": {
@@ -519543,7 +519549,7 @@
       "collection": "Leggi contenenti deleghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 81,
       "files": {
         "urn:nir:stato:legge:1991-06-13;190": {
@@ -520181,7 +520187,7 @@
       "collection": "Leggi costituzionali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 50,
       "files": {
         "urn:nir:stato:legge.costituzionale:1947-02-21;1": {
@@ -520516,8 +520522,8 @@
       "collection": "Leggi delega e relativi provvedimenti delegati",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-09-10",
-      "act_count": 1153,
+      "zip_date": "2026-11-13",
+      "act_count": 1166,
       "files": {
         "urn:nir:stato:decreto.legislativo:1988-11-09;478": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-1988-11-09-478.md",
@@ -520608,9 +520614,9 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-1989-07-28-271.md",
           "urn": "urn:nir:stato:decreto.legislativo:1989-07-28;271",
           "codice_redazionale": "089G0340",
-          "vigenza_date": "2026-08-09",
+          "vigenza_date": "2026-10-31",
           "articles": 325,
-          "zip_entry": "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-08-09_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_19890728_271/1989-08-05_089G0340_VIGENZA_2026-11-12_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Norme di attuazione del Codice di Procedura Penale-Tabella A\""
           ]
@@ -521042,9 +521048,9 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-1992-12-31-545.md",
           "urn": "urn:nir:stato:decreto.legislativo:1992-12-31;545",
           "codice_redazionale": "093G0006",
-          "vigenza_date": "2026-04-21",
-          "articles": 62,
-          "zip_entry": "DECRETO LEGISLATIVO_19921231_545/1993-01-13_093G0006_VIGENZA_2026-05-12_V0.xml",
+          "vigenza_date": "2026-08-26",
+          "articles": 72,
+          "zip_entry": "DECRETO LEGISLATIVO_19921231_545/1993-01-13_093G0006_VIGENZA_2026-09-24_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Tabella A\"",
             "skipped non-article attachment \"Tabella B\"",
@@ -522072,9 +522078,9 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-1999-07-30-303.md",
           "urn": "urn:nir:stato:decreto.legislativo:1999-07-30;303",
           "codice_redazionale": "099G0366",
-          "vigenza_date": "2022-11-12",
+          "vigenza_date": "2026-08-26",
           "articles": 17,
-          "zip_entry": "DECRETO LEGISLATIVO_19990730_303/1999-09-01_099G0366_VIGENZA_2025-10-10_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_19990730_303/1999-09-01_099G0366_VIGENZA_2026-09-24_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:1999-08-17;299": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-1999-08-17-299.md",
@@ -522382,7 +522388,7 @@
           "codice_redazionale": "000G0210",
           "vigenza_date": "2026-08-15",
           "articles": 39,
-          "zip_entry": "DECRETO LEGISLATIVO_20000523_164/2000-06-20_000G0210_VIGENZA_2026-08-15_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20000523_164/2000-06-20_000G0210_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2000-05-23;196": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2000-05-23-196.md",
@@ -522606,9 +522612,9 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2001-06-08-231.md",
           "urn": "urn:nir:stato:decreto.legislativo:2001-06-08;231",
           "codice_redazionale": "001G0293",
-          "vigenza_date": "2026-07-16",
-          "articles": 109,
-          "zip_entry": "DECRETO LEGISLATIVO_20010608_231/2001-06-19_001G0293_VIGENZA_2026-07-16_V0.xml"
+          "vigenza_date": "2026-09-30",
+          "articles": 110,
+          "zip_entry": "DECRETO LEGISLATIVO_20010608_231/2001-06-19_001G0293_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2001-06-08;325": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2001-06-08-325.md",
@@ -523146,9 +523152,9 @@
         "urn:nir:stato:decreto.legislativo:2005-06-28;139": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2005-06-28-139.md",
           "urn": "urn:nir:stato:decreto.legislativo:2005-06-28;139",
-          "vigenza_date": "2020-12-25",
+          "vigenza_date": "2026-08-26",
           "articles": 79,
-          "zip_entry": "DECRETO LEGISLATIVO_20050628_139/2005-07-19_005A0163_VIGENZA_2025-10-10_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20050628_139/2005-07-19_005A0163_VIGENZA_2026-09-24_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2005-07-31;177": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2005-07-31-177.md",
@@ -523249,9 +523255,9 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2005-11-21-286.md",
           "urn": "urn:nir:stato:decreto.legislativo:2005-11-21;286",
           "codice_redazionale": "005G0306",
-          "vigenza_date": "2025-07-20",
+          "vigenza_date": "2026-10-24",
           "articles": 30,
-          "zip_entry": "DECRETO LEGISLATIVO_20051121_286/2006-01-09_005G0306_VIGENZA_2025-10-10_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20051121_286/2006-01-09_005G0306_VIGENZA_2026-11-12_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato I\"",
             "skipped non-article attachment \"Allegato II\""
@@ -523300,7 +523306,7 @@
           "codice_redazionale": "006G0037",
           "vigenza_date": "2025-01-25",
           "articles": 47,
-          "zip_entry": "DECRETO LEGISLATIVO_20060130_26/2006-02-03_006G0037_VIGENZA_2025-10-10_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20060130_26/2006-02-03_006G0037_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2006-02-02;35": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2006-02-02-35.md",
@@ -523393,9 +523399,9 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2006-04-03-152.md",
           "urn": "urn:nir:stato:decreto.legislativo:2006-04-03;152",
           "codice_redazionale": "006G0171",
-          "vigenza_date": "2026-08-08",
-          "articles": 444,
-          "zip_entry": "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-08-12_V0.xml",
+          "vigenza_date": "2026-11-12",
+          "articles": 454,
+          "zip_entry": "DECRETO LEGISLATIVO_20060403_152/2006-04-14_006G0171_VIGENZA_2026-11-12_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Parte II - Allegato I\"",
             "skipped non-article attachment \"Parte II - Allegato I bis\"",
@@ -523408,6 +523414,7 @@
             "skipped non-article attachment \"Parte II - Allegato VI\"",
             "skipped non-article attachment \"Parte II - Allegato VII\"",
             "skipped non-article attachment \"Parte II - Allegato VIII\"",
+            "skipped non-article attachment \"Parte II - Allegato VIII-bis\"",
             "skipped non-article attachment \"Parte II - Allegato IX\"",
             "skipped non-article attachment \"Parte II - Allegato X\"",
             "skipped non-article attachment \"Parte II - Allegato XI\"",
@@ -523841,7 +523848,7 @@
           "codice_redazionale": "011G0160",
           "vigenza_date": "2026-03-27",
           "articles": 87,
-          "zip_entry": "DECRETO LEGISLATIVO_20110623_118/2011-07-26_011G0160_VIGENZA_2026-03-31_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20110623_118/2011-07-26_011G0160_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato 1\"",
             "skipped non-article attachment \"Allegato 2\"",
@@ -523920,9 +523927,9 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2011-09-06-159.md",
           "urn": "urn:nir:stato:decreto.legislativo:2011-09-06;159",
           "codice_redazionale": "011G0201",
-          "vigenza_date": "2025-10-08",
-          "articles": 139,
-          "zip_entry": "DECRETO LEGISLATIVO_20110906_159/2011-09-28_011G0201_VIGENZA_2025-10-10_V0.xml"
+          "vigenza_date": "2026-10-31",
+          "articles": 141,
+          "zip_entry": "DECRETO LEGISLATIVO_20110906_159/2011-09-28_011G0201_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2011-10-27;199": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2011-10-27-199.md",
@@ -523961,7 +523968,7 @@
           "codice_redazionale": "012G0088",
           "vigenza_date": "2023-11-29",
           "articles": 24,
-          "zip_entry": "DECRETO LEGISLATIVO_20120329_68/2012-05-31_012G0088_VIGENZA_2025-10-10_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20120329_68/2012-05-31_012G0088_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2012-04-18;61": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2012-04-18-61.md",
@@ -524514,9 +524521,9 @@
         "urn:nir:stato:decreto.legislativo:2015-07-15;112": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2015-07-15-112.md",
           "urn": "urn:nir:stato:decreto.legislativo:2015-07-15;112",
-          "vigenza_date": "2026-04-21",
+          "vigenza_date": "2026-08-21",
           "articles": 52,
-          "zip_entry": "DECRETO LEGISLATIVO_20150715_112/2015-07-24_15G00126_VIGENZA_2026-05-14_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20150715_112/2015-07-24_15G00126_VIGENZA_2026-09-24_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato I\"",
             "skipped non-article attachment \"Allegato II\"",
@@ -524680,7 +524687,7 @@
           "urn": "urn:nir:stato:decreto.legislativo:2015-11-16;180",
           "vigenza_date": "2025-12-12",
           "articles": 129,
-          "zip_entry": "DECRETO LEGISLATIVO_20151116_180/2015-11-16_15G00195_VIGENZA_2026-02-22_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20151116_180/2015-11-16_15G00195_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2015-11-16;181": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2015-11-16-181.md",
@@ -525281,7 +525288,7 @@
           "urn": "urn:nir:stato:decreto.legislativo:2017-04-13;59",
           "vigenza_date": "2026-08-08",
           "articles": 27,
-          "zip_entry": "DECRETO LEGISLATIVO_20170413_59/2017-05-16_17G00067_VIGENZA_2026-08-12_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20170413_59/2017-05-16_17G00067_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato A\"",
             "skipped non-article attachment \"Allegato B\""
@@ -525341,7 +525348,7 @@
           "urn": "urn:nir:stato:decreto.legislativo:2017-04-13;66",
           "vigenza_date": "2024-08-10",
           "articles": 21,
-          "zip_entry": "DECRETO LEGISLATIVO_20170413_66/2017-05-16_17G00074_VIGENZA_2025-10-10_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20170413_66/2017-05-16_17G00074_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2017-05-25;90": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2017-05-25-90.md",
@@ -526552,8 +526559,9 @@
         "urn:nir:stato:decreto.legislativo:2021-11-08;196": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2021-11-08-196.md",
           "urn": "urn:nir:stato:decreto.legislativo:2021-11-08;196",
+          "vigenza_date": "2026-10-09",
           "articles": 17,
-          "zip_entry": "DECRETO LEGISLATIVO_20211108_196/2021-11-30_21G00210_ORIGINALE_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20211108_196/2021-11-30_21G00210_VIGENZA_2026-11-12_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato\""
           ]
@@ -526729,8 +526737,9 @@
         "urn:nir:stato:decreto.legislativo:2022-08-03;123": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2022-08-03-123.md",
           "urn": "urn:nir:stato:decreto.legislativo:2022-08-03;123",
+          "vigenza_date": "2026-11-06",
           "articles": 15,
-          "zip_entry": "DECRETO LEGISLATIVO_20220803_123/2022-08-20_22G00133_ORIGINALE_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20220803_123/2022-08-20_22G00133_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2022-08-03;131": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2022-08-03-131.md",
@@ -526808,7 +526817,7 @@
           "urn": "urn:nir:stato:decreto.legislativo:2022-10-10;151",
           "vigenza_date": "2026-08-08",
           "articles": 19,
-          "zip_entry": "DECRETO LEGISLATIVO_20221010_151/2022-10-17_22G00160_VIGENZA_2026-08-13_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20221010_151/2022-10-17_22G00160_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2022-11-25;203": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2022-11-25-203.md",
@@ -526937,9 +526946,9 @@
         "urn:nir:stato:decreto.legislativo:2023-03-31;36": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2023-03-31-36.md",
           "urn": "urn:nir:stato:decreto.legislativo:2023-03-31;36",
-          "vigenza_date": "2026-04-07",
+          "vigenza_date": "2026-08-26",
           "articles": 528,
-          "zip_entry": "DECRETO LEGISLATIVO_20230331_36/2023-03-31_23G00044_VIGENZA_2026-04-07_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20230331_36/2023-03-31_23G00044_VIGENZA_2026-09-24_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegati - Indice allegati\"",
             "skipped non-article attachment \"Allegato I.3\"",
@@ -527326,9 +527335,9 @@
         "urn:nir:stato:decreto.legislativo:2024-09-06;125": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-09-06-125.md",
           "urn": "urn:nir:stato:decreto.legislativo:2024-09-06;125",
-          "vigenza_date": "2025-08-10",
+          "vigenza_date": "2026-10-24",
           "articles": 19,
-          "zip_entry": "DECRETO LEGISLATIVO_20240906_125/2024-09-10_24G00145_VIGENZA_2025-10-10_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20240906_125/2024-09-10_24G00145_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2024-09-10;147": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-09-10-147.md",
@@ -527396,9 +527405,9 @@
         "urn:nir:stato:decreto.legislativo:2024-11-05;173": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-11-05-173.md",
           "urn": "urn:nir:stato:decreto.legislativo:2024-11-05;173",
-          "vigenza_date": "2026-08-07",
-          "articles": 106,
-          "zip_entry": "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-08-20_V0.xml"
+          "vigenza_date": "2026-08-12",
+          "articles": 154,
+          "zip_entry": "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2024-11-05;174": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-11-05-174.md",
@@ -527429,9 +527438,9 @@
         "urn:nir:stato:decreto.legislativo:2024-11-14;175": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2024-11-14-175.md",
           "urn": "urn:nir:stato:decreto.legislativo:2024-11-14;175",
-          "vigenza_date": "2026-08-07",
-          "articles": 132,
-          "zip_entry": "DECRETO LEGISLATIVO_20241114_175/2024-11-28_24G00193_VIGENZA_2026-08-20_V0.xml",
+          "vigenza_date": "2026-08-26",
+          "articles": 142,
+          "zip_entry": "DECRETO LEGISLATIVO_20241114_175/2024-11-28_24G00193_VIGENZA_2026-09-24_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato-Tabelle\""
           ]
@@ -527500,9 +527509,9 @@
         "urn:nir:stato:decreto.legislativo:2025-03-24;33": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-03-24-33.md",
           "urn": "urn:nir:stato:decreto.legislativo:2025-03-24;33",
-          "vigenza_date": "2026-08-07",
-          "articles": 244,
-          "zip_entry": "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-08-19_V0.xml",
+          "vigenza_date": "2026-09-26",
+          "articles": 245,
+          "zip_entry": "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato A\"",
             "skipped non-article attachment \"Allegato B\""
@@ -527511,9 +527520,9 @@
         "urn:nir:stato:decreto.legislativo:2025-03-28;43": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-03-28-43.md",
           "urn": "urn:nir:stato:decreto.legislativo:2025-03-28;43",
-          "vigenza_date": "2026-08-06",
+          "vigenza_date": "2026-09-11",
           "articles": 11,
-          "zip_entry": "DECRETO LEGISLATIVO_20250328_43/2025-04-04_25G00052_VIGENZA_2026-08-07_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20250328_43/2025-04-04_25G00052_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2025-05-15;71": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-05-15-71.md",
@@ -527583,8 +527592,9 @@
         "urn:nir:stato:decreto.legislativo:2025-11-27;184": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-11-27-184.md",
           "urn": "urn:nir:stato:decreto.legislativo:2025-11-27;184",
+          "vigenza_date": "2026-08-21",
           "articles": 28,
-          "zip_entry": "DECRETO LEGISLATIVO_20251127_184/2025-12-10_25G00192_ORIGINALE_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20251127_184/2025-12-10_25G00192_VIGENZA_2026-09-24_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2025-12-02;183": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2025-12-02-183.md",
@@ -527859,9 +527869,9 @@
         "urn:nir:stato:decreto.legislativo:2026-06-19;117": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-06-19-117.md",
           "urn": "urn:nir:stato:decreto.legislativo:2026-06-19;117",
-          "vigenza_date": "2026-08-07",
-          "articles": 378,
-          "zip_entry": "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-08-15_V0.xml",
+          "vigenza_date": "2026-08-27",
+          "articles": 379,
+          "zip_entry": "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Testo unico imposte sui redditi-Allegato A\"",
             "skipped non-article attachment \"Testo unico imposte sui redditi-Allegato B\"",
@@ -527890,7 +527900,7 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-07-03-136.md",
           "urn": "urn:nir:stato:decreto.legislativo:2026-07-03;136",
           "articles": 44,
-          "zip_entry": "DECRETO LEGISLATIVO_20260703_136/2026-07-31_26G00152_ORIGINALE_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20260703_136/2026-07-31_26G00152_VIGENZA_2026-09-24_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato I\"",
             "skipped non-article attachment \"Allegato II\""
@@ -527905,9 +527915,13 @@
         "urn:nir:stato:decreto.legislativo:2026-08-05;141": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-08-05-141.md",
           "urn": "urn:nir:stato:decreto.legislativo:2026-08-05;141",
-          "vigenza_date": "2026-08-12",
-          "articles": 378,
-          "zip_entry": "DECRETO LEGISLATIVO_20260805_141/2026-08-06_26G00160_VIGENZA_2026-09-10_V0.xml"
+          "vigenza_date": "2026-09-17",
+          "articles": 380,
+          "zip_entry": "DECRETO LEGISLATIVO_20260805_141/2026-08-06_26G00160_VIGENZA_2026-09-24_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Testo unico-Allegato I\"",
+            "skipped non-article attachment \"Testo unico-Allegato 2\""
+          ]
         },
         "urn:nir:stato:decreto.legislativo:2026-08-07;147": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-08-07-147.md",
@@ -527929,6 +527943,73 @@
           "urn": "urn:nir:stato:decreto.legislativo:2026-08-07;149",
           "articles": 3,
           "zip_entry": "DECRETO LEGISLATIVO_20260807_149/2026-08-11_26G00170_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-09-25;176": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-09-25-176.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;176",
+          "articles": 4,
+          "zip_entry": "DECRETO LEGISLATIVO_20260925_176/2026-10-07_26G00191_ORIGINALE_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Allegato A\"",
+            "skipped non-article attachment \"Allegato B\""
+          ]
+        },
+        "urn:nir:stato:decreto.legislativo:2026-09-25;178": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-09-25-178.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;178",
+          "articles": 8,
+          "zip_entry": "DECRETO LEGISLATIVO_20260925_178/2026-10-08_26G00192_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-09-25;181": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-09-25-181.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;181",
+          "articles": 3,
+          "zip_entry": "DECRETO LEGISLATIVO_20260925_181/2026-10-09_26G00196_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-09-25;184": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-09-25-184.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;184",
+          "articles": 10,
+          "zip_entry": "DECRETO LEGISLATIVO_20260925_184/2026-10-15_26G00202_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-09-25;186": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-09-25-186.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-09-25;186",
+          "articles": 16,
+          "zip_entry": "DECRETO LEGISLATIVO_20260925_186/2026-10-16_26G00203_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-10-01;191": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-10-01-191.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-10-01;191",
+          "articles": 4,
+          "zip_entry": "DECRETO LEGISLATIVO_20261001_191/2026-10-22_26G00207_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-10-07;189": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-10-07-189.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-10-07;189",
+          "articles": 4,
+          "zip_entry": "DECRETO LEGISLATIVO_20261007_189/2026-10-21_26G00206_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-10-08;188": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-10-08-188.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-10-08;188",
+          "articles": 6,
+          "zip_entry": "DECRETO LEGISLATIVO_20261008_188/2026-10-20_26G00205_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-10-08;194": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-10-08-194.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-10-08;194",
+          "articles": 18,
+          "zip_entry": "DECRETO LEGISLATIVO_20261008_194/2026-10-24_26G00210_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-10-09;199": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2026-10-09-199.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-10-09;199",
+          "articles": 5,
+          "zip_entry": "DECRETO LEGISLATIVO_20261009_199/2026-10-30_26G00217_ORIGINALE_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Allegato 1\""
+          ]
         },
         "urn:nir:stato:legge:1896-12-27;558": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-1896-12-27-558.md",
@@ -529945,7 +530026,7 @@
           "codice_redazionale": "011G0009",
           "vigenza_date": "2026-08-08",
           "articles": 35,
-          "zip_entry": "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-08-08_V0.xml"
+          "zip_entry": "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:legge:2011-06-08;85": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2011-06-08-85.md",
@@ -530150,7 +530231,7 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2017-11-03-165.md",
           "urn": "urn:nir:stato:legge:2017-11-03;165",
           "articles": 6,
-          "zip_entry": "LEGGE_20171103_165/2017-11-11_17G00175_ORIGINALE_V0.xml",
+          "zip_entry": "LEGGE_20171103_165/2017-11-11_17G00175_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato 1\"",
             "skipped non-article attachment \"Allegato 2\"",
@@ -530330,7 +530411,7 @@
           "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2024-11-25-177.md",
           "urn": "urn:nir:stato:legge:2024-11-25;177",
           "articles": 36,
-          "zip_entry": "LEGGE_20241125_177/2024-11-29_24G00199_ORIGINALE_V0.xml"
+          "zip_entry": "LEGGE_20241125_177/2024-11-29_24G00199_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:legge:2025-03-11;28": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2025-03-11-28.md",
@@ -530401,8 +530482,27 @@
         "urn:nir:stato:legge:2026-07-28;137": {
           "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2026-07-28-137.md",
           "urn": "urn:nir:stato:legge:2026-07-28;137",
+          "vigenza_date": "2026-11-07",
           "articles": 3,
-          "zip_entry": "LEGGE_20260728_137/2026-08-01_26G00153_ORIGINALE_V0.xml"
+          "zip_entry": "LEGGE_20260728_137/2026-08-01_26G00153_VIGENZA_2026-11-12_V0.xml"
+        },
+        "urn:nir:stato:legge:2026-09-23;171": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2026-09-23-171.md",
+          "urn": "urn:nir:stato:legge:2026-09-23;171",
+          "articles": 2,
+          "zip_entry": "LEGGE_20260923_171/2026-10-01_26G00185_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:legge:2026-09-29;169": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2026-09-29-169.md",
+          "urn": "urn:nir:stato:legge:2026-09-29;169",
+          "articles": 5,
+          "zip_entry": "LEGGE_20260929_169/2026-09-30_26G00189_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:legge:2026-10-16;187": {
+          "path": "Leggi delega e relativi provvedimenti delegati/stato-legge-2026-10-16-187.md",
+          "urn": "urn:nir:stato:legge:2026-10-16;187",
+          "articles": 7,
+          "zip_entry": "LEGGE_20261016_187/2026-10-19_26G00204_ORIGINALE_V0.xml"
         }
       }
     },
@@ -530410,7 +530510,7 @@
       "collection": "Leggi di delegazione europea",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 32,
       "files": {
         "urn:nir:stato:legge:1989-03-09;86": {
@@ -530781,8 +530881,8 @@
       "collection": "Leggi di ratifica",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
-      "act_count": 2336,
+      "zip_date": "2026-11-13",
+      "act_count": 2337,
       "files": {
         "urn:nir:stato:legge:1923-06-24;1473": {
           "path": "Leggi di ratifica/stato-legge-1923-06-24-1473.md",
@@ -558977,6 +559077,20 @@
           "warnings": [
             "skipped non-article attachment \"Agreement\""
           ]
+        },
+        "urn:nir:stato:legge:2026-10-29;204": {
+          "path": "Leggi di ratifica/stato-legge-2026-10-29-204.md",
+          "urn": "urn:nir:stato:legge:2026-10-29;204",
+          "articles": 4,
+          "zip_entry": "LEGGE_20261029_204/2026-11-11_26G00220_ORIGINALE_V0.xml",
+          "warnings": [
+            "skipped non-article attachment \"Trattato di estradizione\"",
+            "skipped non-article attachment \"Treaty on extradition\"",
+            "skipped non-article attachment \"Trattato sul trasferimento\"",
+            "skipped non-article attachment \"Treaty on transfer\"",
+            "skipped non-article attachment \"Trattato di assistenza giudiziaria\"",
+            "skipped non-article attachment \"Treaty on mutual legal assistance\""
+          ]
         }
       }
     },
@@ -558984,7 +559098,7 @@
       "collection": "Leggi finanziarie e di bilancio",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 58,
       "files": {
         "urn:nir:stato:legge:1978-12-21;843": {
@@ -559911,9 +560025,9 @@
         "urn:nir:stato:legge:2024-12-30;207": {
           "path": "Leggi finanziarie e di bilancio/stato-legge-2024-12-30-207.md",
           "urn": "urn:nir:stato:legge:2024-12-30;207",
-          "vigenza_date": "2026-08-12",
+          "vigenza_date": "2026-11-12",
           "articles": 21,
-          "zip_entry": "LEGGE_20241230_207/2024-12-31_24G00229_VIGENZA_2026-10-30_V0.xml",
+          "zip_entry": "LEGGE_20241230_207/2024-12-31_24G00229_VIGENZA_2026-11-13_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato I\"",
             "skipped non-article attachment \"Allegato II\"",
@@ -559958,7 +560072,7 @@
       "collection": "Regi decreti",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-09-29",
+      "zip_date": "2026-11-13",
       "act_count": 91346,
       "files": {
         "urn:nir:stato:regio.decreto:1861-03-17;206": {
@@ -1144257,9 +1144371,9 @@
           "path": "Regi decreti/stato-regio.decreto-1930-10-19-1398.md",
           "urn": "urn:nir:stato:regio.decreto:1930-10-19;1398",
           "codice_redazionale": "030U1398",
-          "vigenza_date": "2026-07-16",
-          "articles": 999,
-          "zip_entry": "REGIO DECRETO_19301019_1398/1930-10-26_030U1398_VIGENZA_2026-07-16_V0.xml"
+          "vigenza_date": "2026-10-31",
+          "articles": 1004,
+          "zip_entry": "REGIO DECRETO_19301019_1398/1930-10-26_030U1398_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:regio.decreto:1930-10-23;1424": {
           "path": "Regi decreti/stato-regio.decreto-1930-10-23-1424.md",
@@ -1265007,7 +1265121,7 @@
           "codice_redazionale": "041U0012",
           "vigenza_date": "2026-08-08",
           "articles": 326,
-          "zip_entry": "REGIO DECRETO_19410130_12/1941-02-04_041U0012_VIGENZA_2026-08-13_V0.xml",
+          "zip_entry": "REGIO DECRETO_19410130_12/1941-02-04_041U0012_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Ordinamento giudiziario-Tabella A\"",
             "skipped non-article attachment \"Ordinamento giudiziario-Tabella B\"",
@@ -1265487,6 +1265601,14 @@
           "vigenza_date": "2010-12-16",
           "articles": 1,
           "zip_entry": "REGIO DECRETO_19410220_272/1941-05-01_041U0272_VIGENZA_2026-01-07_V0.xml"
+        },
+        "urn:nir:stato:regio.decreto:1941-02-20;303": {
+          "path": "Regi decreti/stato-regio.decreto-1941-02-20-303.md",
+          "urn": "urn:nir:stato:regio.decreto:1941-02-20;303",
+          "codice_redazionale": "041U0303",
+          "vigenza_date": "2026-11-05",
+          "articles": 743,
+          "zip_entry": "REGIO DECRETO_19410220_303/1941-05-06_041U0303_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:regio.decreto:1941-02-20;335": {
           "path": "Regi decreti/stato-regio.decreto-1941-02-20-335.md",
@@ -1274796,9 +1274918,9 @@
           "path": "Regi decreti/stato-regio.decreto-1942-03-16-262.md",
           "urn": "urn:nir:stato:regio.decreto:1942-03-16;262",
           "codice_redazionale": "042U0262",
-          "vigenza_date": "2026-04-29",
-          "articles": 3282,
-          "zip_entry": "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-04-29_V0.xml"
+          "vigenza_date": "2026-10-31",
+          "articles": 3283,
+          "zip_entry": "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:regio.decreto:1942-03-16;305": {
           "path": "Regi decreti/stato-regio.decreto-1942-03-16-305.md",
@@ -1286425,7 +1286547,7 @@
       "collection": "Regi decreti legislativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 120,
       "files": {
         "urn:nir:stato:regio.decreto.legislativo:1946-05-10;262": {
@@ -1287333,7 +1287455,7 @@
       "collection": "Regolamenti di delegificazione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 376,
       "files": {
         "urn:nir:presidenza.repubblica:decreto.del.presidente.della.repubblica:1999-12-01;503": {
@@ -1290422,7 +1290544,7 @@
       "collection": "Regolamenti governativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 1944,
       "files": {
         "urn:nir:ministero.tesoro:decreto.del.presidente.della.repubblica:1997-09-09;336": {
@@ -1307556,7 +1307678,7 @@
       "collection": "Regolamenti ministeriali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
+      "zip_date": "2026-11-13",
       "act_count": 2080,
       "files": {
         "urn:nir:agricoltura.alimentare.foreste.ministero.sovranita:decreto:2023-08-29;233": {
@@ -1325275,7 +1325397,7 @@
       "collection": "Testi Unici",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-09-23",
+      "zip_date": "2026-11-13",
       "act_count": 257,
       "files": {
         "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-02-05;26": {
@@ -1325407,7 +1325529,7 @@
           "codice_redazionale": "057U0361",
           "vigenza_date": "2025-05-18",
           "articles": 131,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19570330_361/1957-06-03_057U0361_VIGENZA_2025-06-17_V0.xml",
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19570330_361/1957-06-03_057U0361_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Testo Unico delle leggi recanti norme per la elezione della Camera dei deputati-Tabelle\""
           ]
@@ -1325633,9 +1325755,9 @@
           "path": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1986-12-22-917.md",
           "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917",
           "codice_redazionale": "086U0917",
-          "vigenza_date": "2026-08-12",
+          "vigenza_date": "2026-08-27",
           "articles": 236,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19861222_917/1986-12-31_086U0917_VIGENZA_2026-09-04_V0.xml"
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19861222_917/1986-12-31_086U0917_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-03-31;148": {
           "path": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1988-03-31-148.md",
@@ -1325649,9 +1325771,9 @@
           "path": "Testi Unici/stato-decreto.del.presidente.della.repubblica-1990-10-09-309.md",
           "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309",
           "codice_redazionale": "090G0363",
-          "vigenza_date": "2026-08-21",
+          "vigenza_date": "2026-10-31",
           "articles": 145,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-08-21_V0.xml",
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19901009_309/1990-10-31_090G0363_VIGENZA_2026-11-12_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato I\"",
             "skipped non-article attachment \"Allegato II\"",
@@ -1325730,9 +1325852,9 @@
           "path": "Testi Unici/stato-decreto.del.presidente.della.repubblica-2002-05-30-115.md",
           "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115",
           "codice_redazionale": "002G0139",
-          "vigenza_date": "2026-08-26",
-          "articles": 316,
-          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-09-17_V0.xml",
+          "vigenza_date": "2026-10-31",
+          "articles": 317,
+          "zip_entry": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020530_115/2002-06-15_002G0139_VIGENZA_2026-11-12_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato 1\"",
             "skipped non-article attachment \"Allegato 2\"",
@@ -1325861,7 +1325983,7 @@
           "codice_redazionale": "093G0428",
           "vigenza_date": "2026-06-19",
           "articles": 388,
-          "zip_entry": "DECRETO LEGISLATIVO_19930901_385/1993-09-30_093G0428_VIGENZA_2026-06-19_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_19930901_385/1993-09-30_093G0428_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato A\""
           ]
@@ -1325872,7 +1325994,7 @@
           "codice_redazionale": "093G0613",
           "vigenza_date": "2020-04-21",
           "articles": 33,
-          "zip_entry": "DECRETO LEGISLATIVO_19931220_533/1993-12-27_093G0613_VIGENZA_2025-06-17_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_19931220_533/1993-12-27_093G0613_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Tabelle\""
           ]
@@ -1325892,9 +1326014,9 @@
           "path": "Testi Unici/stato-decreto.legislativo-1995-10-26-504.md",
           "urn": "urn:nir:stato:decreto.legislativo:1995-10-26;504",
           "codice_redazionale": "095G0523",
-          "vigenza_date": "2026-09-19",
+          "vigenza_date": "2026-11-11",
           "articles": 122,
-          "zip_entry": "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-09-23_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-11-12_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato I\"",
             "skipped non-article attachment \"Tabella A\""
@@ -1325906,7 +1326028,7 @@
           "codice_redazionale": "098G0073",
           "vigenza_date": "2026-08-07",
           "articles": 572,
-          "zip_entry": "DECRETO LEGISLATIVO_19980224_58/1998-03-26_098G0073_VIGENZA_2026-08-07_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_19980224_58/1998-03-26_098G0073_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato\""
           ]
@@ -1325915,9 +1326037,9 @@
           "path": "Testi Unici/stato-decreto.legislativo-1998-07-25-286.md",
           "urn": "urn:nir:stato:decreto.legislativo:1998-07-25;286",
           "codice_redazionale": "098G0348",
-          "vigenza_date": "2026-07-16",
+          "vigenza_date": "2026-10-31",
           "articles": 79,
-          "zip_entry": "DECRETO LEGISLATIVO_19980725_286/1998-08-18_098G0348_VIGENZA_2026-07-16_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_19980725_286/1998-08-18_098G0348_VIGENZA_2026-11-12_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:1999-10-29;490": {
           "path": "Testi Unici/stato-decreto.legislativo-1999-10-29-490.md",
@@ -1325936,7 +1326058,7 @@
           "codice_redazionale": "000G0304",
           "vigenza_date": "2026-08-08",
           "articles": 295,
-          "zip_entry": "DECRETO LEGISLATIVO_20000818_267/2000-09-28_000G0304_VIGENZA_2026-08-12_V0.xml"
+          "zip_entry": "DECRETO LEGISLATIVO_20000818_267/2000-09-28_000G0304_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2001-03-26;151": {
           "path": "Testi Unici/stato-decreto.legislativo-2001-03-26-151.md",
@@ -1326040,9 +1326162,9 @@
         "urn:nir:stato:decreto.legislativo:2024-11-05;173": {
           "path": "Testi Unici/stato-decreto.legislativo-2024-11-05-173.md",
           "urn": "urn:nir:stato:decreto.legislativo:2024-11-05;173",
-          "vigenza_date": "2026-08-07",
-          "articles": 106,
-          "zip_entry": "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-08-20_V0.xml"
+          "vigenza_date": "2026-08-12",
+          "articles": 154,
+          "zip_entry": "DECRETO LEGISLATIVO_20241105_173/2024-11-28_24G00191_VIGENZA_2026-10-30_V0.xml"
         },
         "urn:nir:stato:decreto.legislativo:2024-11-05;174": {
           "path": "Testi Unici/stato-decreto.legislativo-2024-11-05-174.md",
@@ -1326071,9 +1326193,9 @@
         "urn:nir:stato:decreto.legislativo:2025-03-24;33": {
           "path": "Testi Unici/stato-decreto.legislativo-2025-03-24-33.md",
           "urn": "urn:nir:stato:decreto.legislativo:2025-03-24;33",
-          "vigenza_date": "2026-08-27",
+          "vigenza_date": "2026-09-26",
           "articles": 245,
-          "zip_entry": "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-09-23_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20250324_33/2025-03-26_25G00044_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato A\"",
             "skipped non-article attachment \"Allegato B\""
@@ -1326106,7 +1326228,7 @@
           "urn": "urn:nir:stato:decreto.legislativo:2026-06-19;117",
           "vigenza_date": "2026-08-27",
           "articles": 379,
-          "zip_entry": "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-09-23_V0.xml",
+          "zip_entry": "DECRETO LEGISLATIVO_20260619_117/2026-07-03_26G00131_VIGENZA_2026-10-30_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Testo unico imposte sui redditi-Allegato A\"",
             "skipped non-article attachment \"Testo unico imposte sui redditi-Allegato B\"",

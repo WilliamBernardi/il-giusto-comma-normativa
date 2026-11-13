@@ -8,9 +8,9 @@ codice_redazionale: 002G0139
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-vigenza_date: 2026-08-26
-zip_date: 2026-09-17
-fetched_at: 2026-09-17
+vigenza_date: 2026-10-31
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1412,12 +1412,10 @@ La trasmissione dei documenti avviene secondo le regole tecniche telematiche sta
 
 I provvedimenti della Corte di cassazione sono esenti dall'obbligo della registrazione. (L)
 
-((
+((La registrazione delle sentenze e degli altri atti recanti condanna al risarcimento del danno prodotto da fatti costituenti reato deve essere richiesta entro trenta giorni dalla data in cui sono divenuti definitivi.))
 
-La registrazione delle sentenze e degli altri atti recanti condanna al risarcimento del danno prodotto da fatti costituenti reato deve essere richiesta entro trenta giorni dalla data in cui sono divenuti definitivi.
-
-2-quater. Le parti in causa possono segnalare all'ufficio giudiziario, anche per il tramite del proprio difensore, la sussistenza dei presupposti previsti per la registrazione, con prenotazione a debito, degli atti giudiziari di cui al comma 2-ter, nel termine di dieci giorni dalla data di pubblicazione o emanazione.
-In tal caso, l'eventuale mancata ammissione del provvedimento alla prenotazione a debito deve essere motivata dall'ufficio giudiziario con apposito atto, da trasmettere all'ufficio finanziario unitamente alla richiesta di registrazione))
+((Le parti in causa possono segnalare all'ufficio giudiziario, anche per il tramite del proprio difensore, la sussistenza dei presupposti previsti per la registrazione, con prenotazione a debito, degli atti giudiziari di cui al comma 2-ter, nel termine di dieci giorni dalla data di pubblicazione o emanazione.
+In tal caso, l'eventuale mancata ammissione del provvedimento alla prenotazione a debito deve essere motivata dall'ufficio giudiziario con apposito atto, da trasmettere all'ufficio finanziario unitamente alla richiesta di registrazione)).
 
 ## - ((Titolo XIV-bis Registrazione degli atti giudiziari nel processo penale))
 
@@ -2701,18 +2699,13 @@ Le spese di custodia e di conservazione sono in ogni caso dovute dall'avente dir
 
 Il provvedimento di restituzione e' comunicato all'avente diritto ed al custode. Con il medesimo provvedimento e' data comunicazione che le spese di custodia e conservazione delle cose sequestrate, decorsi trenta giorni dalla ricezione della comunicazione, sono in ogni caso a carico dell'avente diritto alla restituzione e che le somme o valori sequestrati, decorsi tre mesi dalla rituale comunicazione senza che l'avente diritto abbia provveduto al ritiro, sono devoluti alla cassa delle ammende.
 
-## Art. 151.
-
-(( (Provvedimenti in caso di mancato ritiro del
- bene restituito e vendita in casi particolari). ))
-
- ((
+## Art. 151. — ((Provvedimenti in caso di mancato ritiro del bene restituito))
 
 Se l'avente diritto alla restituzione delle cose affidate in custodia a terzi, ovvero alla cancelleria, e' ignoto o irreperibile, il cancelliere presenta gli atti al magistrato, il quale ordina la vendita delle cose sequestrate da eseguirsi non oltre sessanta giorni dalla data del provvedimento.
 
 Con il provvedimento che ordina la vendita delle cose sequestrate, il magistrato stabilisce le modalita' della vendita ed il luogo in cui deve eseguirsi.
 
-La vendita e' disposta dal magistrato, in ogni momento, se i beni non possono essere custoditi senza pericolo di deterioramento o senza rilevante dispendio. Il provvedimento e' comunicato all'avente diritto.
+((COMMA ABROGATO DAL D.LGS. 25 SETTEMBRE 2026, N. 186)).
 
 Il provvedimento che dispone la vendita deve essere affisso per dieci giorni continui nell'albo del tribunale e degli altri uffici giudiziari del circondario.
 
@@ -2721,6 +2714,16 @@ L'elenco dei beni rimasti invenduti deve essere presentato al magistrato che ne 
 Le operazioni di distruzione sono esentate dal pagamento di qualsiasi tributo od onere ai fini degli adempimenti relativi alle formalita' per l'annotazione nei pubblici registri.
 
 Allo stesso modo si provvede per i beni affidati alla cancelleria per i quali l'avente diritto non ha comunque provveduto al ritiro.
+
+## Art. 151-bis. — (( (Vendita prima della confisca). ))
+
+
+
+((Il giudice provvede senza formalita' quando ricorrono ragioni di urgenza ovvero l'interessato non ha richiesto di essere sentito.))
+
+((Nei casi in cui sia disposta la vendita, il vincolo cautelare e' trasferito alla somma ricavata dalla vendita del bene e il provvedimento di restituzione o di confisca ha ad oggetto le somme depositate ai sensi dell'articolo 153.))
+
+((In deroga a quanto previsto dall'articolo 127, commi 7 e 8 del codice di procedura penale, l'ordinanza con cui e' disposta la vendita e' appellabile a norma dell'articolo 322-bis del codice di procedura penale. L'appello non sospende l'esecuzione del provvedimento, a meno che il giudice che l'ha emesso disponga diversamente con decreto motivato quando dalla vendita possa derivare grave e irreparabile danno per l'interessato.))
 
 ## Art. 152. — Vendita
 
@@ -3027,18 +3030,18 @@ Concluse le prestazioni di cui all'articolo 57 del decreto legislativo 1° agost
 
 La liquidazione delle spese relative alle prestazioni di cui al comma 01 e' effettuata con decreto di pagamento del pubblico ministero che ha richiesto o eseguito l'autorizzazione a disporre le operazioni di intercettazione.
 
-((Ricevuta la richiesta di liquidazione delle spese di cui al comma 1 e verificata la conformita' delle prestazioni svolte e della rendicontazione, il pubblico ministero provvede entro trenta giorni.))
+Ricevuta la richiesta di liquidazione delle spese di cui al comma 1 e verificata la conformita' delle prestazioni svolte e della rendicontazione, il pubblico ministero provvede entro trenta giorni.
 
-((Nel corso delle indagini preliminari il decreto di pagamento e' titolo esecutivo ed e' comunicato al beneficiario. Dopo la conclusione delle indagini e' comunicato alle parti e nuovamente al beneficiario ai fini dell'eventuale introduzione di un giudizio di opposizione ai sensi dell'articolo 170, diretto a consentire al beneficiario e alle parti di contestare la liquidazione.))
+Nel corso delle indagini preliminari il decreto di pagamento e' titolo esecutivo ed e' comunicato al beneficiario. Dopo la conclusione delle indagini e' comunicato alle parti e nuovamente al beneficiario ai fini dell'eventuale introduzione di un giudizio di opposizione ai sensi dell'articolo 170, diretto a consentire al beneficiario e alle parti di contestare la liquidazione.
 
-((Il pagamento e' eseguito entro trenta giorni dal decreto, quando il beneficiario ha gia' emesso fattura, oppure entro trenta giorni dalla ricezione della fattura.)) 
- 3.01. ((COMMA NON PIU' PREVISTO DAL D.L. 7 AGOSTO 2026, N. 144)). 
- 3.02. ((COMMA NON PIU' PREVISTO DAL D.L. 7 AGOSTO 2026, N. 144)). 
- 3.1. ((Qualora non siano rispettati i termini di cui al comma 1-bis e al comma 3, per i rispettivi ritardi, sulla somma liquidata sono dovuti interessi nella misura di cui al comma 3-ter.))
+Il pagamento e' eseguito entro trenta giorni dal decreto, quando il beneficiario ha gia' emesso fattura, oppure entro trenta giorni dalla ricezione della fattura. 
+ 3.01. COMMA NON PIU' PREVISTO DAL D.L. 7 AGOSTO 2026, N. 144. 
+ 3.02. COMMA NON PIU' PREVISTO DAL D.L. 7 AGOSTO 2026, N. 144. 
+ 3.1. Qualora non siano rispettati i termini di cui al comma 1-bis e al comma 3, per i rispettivi ritardi, sulla somma liquidata sono dovuti interessi nella misura di cui al comma 3-ter.
 
 L'importo delle spese relative alle operazioni di intercettazione e' specificamente annotato nel foglio delle notizie di cui all'articolo 280.
 
-((Per tutto quanto attiene agli ulteriori diritti del prestatore del servizio per il caso di ritardo nel pagamento, inclusa la misura degli interessi e il rimborso forfettario, si applica il decreto legislativo 9 ottobre 2002, n. 231, come modificato dal decreto legislativo 9 novembre 2012, n. 192, recante modifiche al decreto legislativo 9 ottobre 2002, n. 231, per l'integrale recepimento della direttiva 2011/7/UE del Parlamento europeo e del Consiglio, del 16 febbraio 2011, relativa alla lotta contro i ritardi di pagamento nelle transazioni commerciali, a norma dell'articolo 10, comma 1, della legge 11 novembre 2011, n. 180.))
+Per tutto quanto attiene agli ulteriori diritti del prestatore del servizio per il caso di ritardo nel pagamento, inclusa la misura degli interessi e il rimborso forfettario, si applica il decreto legislativo 9 ottobre 2002, n. 231 ((...)).
 
 ## Art. 169. — Decreto di pagamento delle spese per la demolizione e la riduzione in pristino dei luoghi
 

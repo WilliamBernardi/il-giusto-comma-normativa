@@ -8,9 +8,9 @@ codice_redazionale: 001G0293
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-07-16
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-09-30
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -1411,6 +1411,14 @@ In relazione alla commissione dei delitti previsti dagli articoli 518-sexies e 5
 ((Nel caso di condanna o di applicazione della pena su richiesta delle parti, a norma dell'articolo 444 del codice di procedura penale, o di decreto penale di condanna, ai sensi dell'articolo 459 del codice di procedura penale, per i delitti di cui al comma 1 del presente articolo, si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, del presente decreto per una durata non superiore a due anni.))
 
 ((I commi 1 e 2 non si applicano ai casi previsti dall'articolo 19-ter delle disposizioni di coordinamento e transitorie per il codice penale.))
+
+## Art. 25-vicies. — (( (Reati commessi con l'uso di sistemi di intelligenza artificiale).))
+
+
+
+((In relazione al delitto di cui all'articolo 612-quater del codice penale, si applica all'ente la sanzione pecuniaria da duecento a settecento quote.))
+
+((Nei casi previsti dai commi 1 e 2 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, lettere b), c), d) ed e).))
 
 ## Art. 26. — Delitti tentati
 

@@ -8,9 +8,9 @@ codice_redazionale: 099G0366
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2022-11-12
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-08-26
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
@@ -199,8 +199,7 @@ Il Presidente del Consiglio dei ministri coordina, indirizza e promuove l'azione
 
 ## Art. 6. — Dipartimento per gli affari giuridici e legislativi
 
-Le funzioni relative al coordinamento dell'attivita' normativa del Governo sono organizzate in un apposito Dipartimento, in modo da garantire, in coerenza con quanto disposto dall'articolo 19, comma 1, lettere c) e d), della legge 23 agosto 1988, n. 400, la valutazione d'impatto della regolazione, la semplificazione dei procedimenti, la qualita' del linguaggio normativo, l'applicabilita' dell'innovazione normativa, la adempiuta valutazione degli effetti finanziari. Il Dipartimento, in collaborazione con il Dipartimento di cui all'articolo 3, comma 2, assicura, quanto al processo di formazione ed attuazione in sede nazionale della normativa comunitaria, l'esame preliminare della situazione normativa ed economica interna e la valutazione delle conseguenze dell'introduzione di norme comunitarie sull'assetto interno. Del Dipartimento fanno parte i settori legislativi operanti nell'ambito della Presidenza, nonche' la segreteria del Nucleo per la semplificazione delle norme e delle pro- cedure di cui all'articolo 3 della legge 8 marzo 1999, n. 50. ((Per assicurare il supporto tecnico alle funzioni di coordinamento delle attivita' di analisi e verifica di impatto della regolamentazione di cui all'articolo 14 della legge 28 novembre 2005, n. 246, nonche' per la valutazione degli impatti economici e sociali di iniziative normative, opera alle dirette dipendenze del Capo del Dipartimento il Nucleo di valutazione dell'impatto della regolamentazione (NUVIR) )).
-Al Dipartimento possono essere assegnati in posizione di fuori ruolo, in aggiunta al Capo ed al Vice Capo del Dipartimento stesso, magistrati ordinari, amministrativi e contabili, ovvero avvocati dello Stato, in numero non superiore a sette. A tale personale si applica quanto disposto dall'articolo 12, comma 9.
+Le funzioni relative al coordinamento dell'attivita' normativa del Governo sono organizzate in un apposito Dipartimento, in modo da garantire, in coerenza con quanto disposto dall'articolo 19, comma 1, lettere c) e d), della legge 23 agosto 1988, n. 400, la valutazione d'impatto della regolazione, la semplificazione dei procedimenti, la qualita' del linguaggio normativo, l'applicabilita' dell'innovazione normativa, la adempiuta valutazione degli effetti finanziari. Il Dipartimento, in collaborazione con il Dipartimento di cui all'articolo 3, comma 2, assicura, quanto al processo di formazione ed attuazione in sede nazionale della normativa comunitaria, l'esame preliminare della situazione normativa ed economica interna e la valutazione delle conseguenze dell'introduzione di norme comunitarie sull'assetto interno. Del Dipartimento fanno parte i settori legislativi operanti nell'ambito della Presidenza, nonche' la segreteria del Nucleo per la semplificazione delle norme e delle pro- cedure di cui all'articolo 3 della legge 8 marzo 1999, n. 50. Per assicurare il supporto tecnico alle funzioni di coordinamento delle attivita' di analisi e verifica di impatto della regolamentazione di cui all'articolo 14 della legge 28 novembre 2005, n. 246, nonche' per la valutazione degli impatti economici e sociali di iniziative normative, opera alle dirette dipendenze del Capo del Dipartimento il Nucleo di valutazione dell'impatto della regolamentazione (NUVIR). Al Dipartimento possono essere assegnati in posizione di fuori ruolo, in aggiunta al Capo ed al Vice Capo del Dipartimento stesso, ((magistrati ordinari, amministrativi, contabili e tributari)), ovvero avvocati dello Stato, in numero non superiore a sette. A tale personale si applica quanto disposto dall'articolo 12, comma 9.
 
 ## Art. 6-bis.
 

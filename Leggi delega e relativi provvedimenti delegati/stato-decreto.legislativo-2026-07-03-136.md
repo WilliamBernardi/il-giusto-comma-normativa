@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-07-03;136
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+zip_date: 2026-11-13
+fetched_at: 2026-11-13
 ---
 
 DECRETO LEGISLATIVO
