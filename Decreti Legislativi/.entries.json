@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-13",
+  "zip_date": "2026-11-14",
   "entries": {
     "DECRETO LEGISLATIVO_19470327_1884/1948-12-29_047U1884_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "d27aabe4592de387501987e3f17ae35af01f131202f271ded78b971cbeab3bd2",
@@ -12341,8 +12341,8 @@
       "out": "Decreti Legislativi/stato-decreto.legislativo-2017-02-10-28.md",
       "urn": "urn:nir:stato:decreto.legislativo:2017-02-10;28"
     },
-    "DECRETO LEGISLATIVO_20170210_29/2017-03-18_17G00040_VIGENZA_2025-06-18_V0.xml": {
-      "sha256": "426ab330188794d8ffee35a275573e93751a8c215159cae3d2be925b62c0036c",
+    "DECRETO LEGISLATIVO_20170210_29/2017-03-18_17G00040_VIGENZA_2026-11-14_V0.xml": {
+      "sha256": "87d71ef724404a924a90230113bd122d97e5ae6887f05a906b30e39047e91904",
       "out": "Decreti Legislativi/stato-decreto.legislativo-2017-02-10-29.md",
       "urn": "urn:nir:stato:decreto.legislativo:2017-02-10;29"
     },
@@ -13356,8 +13356,8 @@
       "out": "Decreti Legislativi/stato-decreto.legislativo-2021-02-02-27.md",
       "urn": "urn:nir:stato:decreto.legislativo:2021-02-02;27"
     },
-    "DECRETO LEGISLATIVO_20210202_32/2021-03-13_21G00035_VIGENZA_2025-06-18_V0.xml": {
-      "sha256": "6b6cc28e5728a911248f95800ddc3d2284374f14c1235413961969ae9fb6ba7b",
+    "DECRETO LEGISLATIVO_20210202_32/2021-03-13_21G00035_VIGENZA_2026-11-14_V0.xml": {
+      "sha256": "8f68812a93a422666d8d5baf5c343efdab7ad4856a62ac83067c078b94f14f9d",
       "out": "Decreti Legislativi/stato-decreto.legislativo-2021-02-02-32.md",
       "urn": "urn:nir:stato:decreto.legislativo:2021-02-02;32"
     },
