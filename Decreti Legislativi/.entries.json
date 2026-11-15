@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-14",
+  "zip_date": "2026-11-15",
   "entries": {
     "DECRETO LEGISLATIVO_19470327_1884/1948-12-29_047U1884_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "d27aabe4592de387501987e3f17ae35af01f131202f271ded78b971cbeab3bd2",
@@ -14685,6 +14685,11 @@
       "sha256": "9134065978b762c9edd177793594e3bced052e2507b6b506ef4140538479a537",
       "out": "Decreti Legislativi/stato-decreto.legislativo-2026-10-09-199.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-10-09;199"
+    },
+    "DECRETO LEGISLATIVO_20261102_208/2026-11-14_26G00224_ORIGINALE_V0.xml": {
+      "sha256": "e070c8791bc0ed109f744f19163c93427894a50ea1df95c0397186d0045918ee",
+      "out": "Decreti Legislativi/stato-decreto.legislativo-2026-11-02-208.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2026-11-02;208"
     }
   }
 }
