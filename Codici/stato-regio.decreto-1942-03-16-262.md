@@ -8,9 +8,9 @@ codice_redazionale: 042U0262
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-10-31
-zip_date: 2026-11-12
-fetched_at: 2026-11-12
+vigenza_date: 2026-11-19
+zip_date: 2026-11-20
+fetched_at: 2026-11-20
 ---
 
 REGIO DECRETO
@@ -2223,9 +2223,14 @@ Divieto d'adozione di figli ((...)).
 
 ### Art. 294. — Pluralita' di adottati o di adottanti
 
-((E' ammessa l'adozione di piu' persone, anche con atti successivi)). 
+E' ammessa l'adozione di piu' persone, anche con atti successivi. 
  
- Nessuno puo' essere adottato da piu' d'una persona, salvo che i due adottanti siano marito e moglie.
+ Nessuno puo' essere adottato da piu' d'una persona, salvo che i due adottanti siano marito e moglie. ((355))
+
+---------------
+                                AGGIORNAMENTO (355)
+                                
+ La Corte Costituzionale con sentenza 7 ottobre - 12 novembre 2026, n. 195 (in G.U. 1ª s.s. 18/11/2026, n. 46) ha dichiarato "l'illegittimita' costituzionale dell'art. 294, secondo comma, del codice civile, nella parte in cui non prevede che anche i componenti di un'unione civile possano adottare la medesima persona".
 
 ### Art. 295. — Adozione da parte del tutore
 

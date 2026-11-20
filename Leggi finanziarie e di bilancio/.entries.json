@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-19",
+  "zip_date": "2026-11-20",
   "entries": {
     "LEGGE_19781221_843/1978-12-29_078U0843_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "589610d3400d7c6254e2d515f4b7967ff8cabc2980f11f101d96a6a875df04cc",
@@ -256,8 +256,8 @@
       "out": "Leggi finanziarie e di bilancio/stato-legge-2018-12-30-145.md",
       "urn": "urn:nir:stato:legge:2018-12-30;145"
     },
-    "LEGGE_20191227_160/2019-12-30_19G00165_VIGENZA_2026-08-14_V0.xml": {
-      "sha256": "4bf118e5f5304aa46077446a359214f25476532eba2294c6de2dc0a482d1ca03",
+    "LEGGE_20191227_160/2019-12-30_19G00165_VIGENZA_2026-11-20_V0.xml": {
+      "sha256": "5b9c8c7a22d80c37c162ad4a974b2ea079639f20d7d6bf114c65f63a2225f5e2",
       "out": "Leggi finanziarie e di bilancio/stato-legge-2019-12-27-160.md",
       "urn": "urn:nir:stato:legge:2019-12-27;160"
     },

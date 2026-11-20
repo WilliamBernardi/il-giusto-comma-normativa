@@ -8,9 +8,9 @@ codice_redazionale: 088G0492
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2026-09-30
-zip_date: 2026-11-13
-fetched_at: 2026-11-13
+vigenza_date: 2026-11-19
+zip_date: 2026-11-20
+fetched_at: 2026-11-20
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -7256,7 +7256,7 @@ Salvo quanto disposto dall'articolo 12, il collegamento delle indagini non ha ef
 
 ## Art. 371-bis. — Attivita' di coordinamento del procuratore nazionale antimafia e antiterrorismo).
 
-Il procuratore nazionale antimafia e antiterrorismo esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater e in relazione ai procedimenti di prevenzione antimafia e antiterrorismo. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-bis dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-quater, si avvale altresi' dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi.
+Il procuratore nazionale antimafia e antiterrorismo esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater e in relazione ai procedimenti di prevenzione antimafia e antiterrorismo. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-bis dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-quater, si avvale altresi' dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. ((In ogni caso il procuratore nazionale antimafia e antiterrorismo esercita le attivita' di cui al secondo e al terzo periodo anche al fine di individuare i beni di cui e' consentita la confisca)).
 
 Il procuratore nazionale antimafia e antiterrorismo esercita funzioni di impulso nei confronti dei procuratori distrettuali al fine di rendere effettivo il coordinamento delle attivita' di indagine, di garantire la funzionalita' dell'impiego della polizia giudiziaria nelle sue diverse articolazioni e di assicurare la completezza e tempestivita' delle investigazioni.
 
@@ -7294,7 +7294,7 @@ Il procuratore nazionale antimafia e antiterrorismo provvede alla avocazione dop
 
 Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo. Le disposizioni di cui al presente comma si applicano altresi' in relazione ai procedimenti per i reati di cui agli articoli 275-bis, 275-ter, 275-quater e 275-quinquies del codice penale e di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286.
 
-((Le disposizioni di cui al presente articolo si applicano anche ai procedimenti a carico di minorenni. In questo caso le funzioni del procuratore nazionale antimafia e antiterrorismo sono esercitate nei confronti del procuratore della Repubblica presso il Tribunale per i minorenni.))
+Le disposizioni di cui al presente articolo si applicano anche ai procedimenti a carico di minorenni. In questo caso le funzioni del procuratore nazionale antimafia e antiterrorismo sono esercitate nei confronti del procuratore della Repubblica presso il Tribunale per i minorenni.
 
 -------------
                             AGGIORNAMENTO (28)
@@ -7822,11 +7822,11 @@ Nel reato permanente lo stato di flagranza dura fino a quando non e' cessata la 
 ## Art. 382-bis. — (Arresto in flagranza differita)
 
 Nei casi di cui agli articoli 387-bis, 572 e 612-bis del codice penale, si considera comunque in stato di flagranza colui il quale, sulla base di documentazione videofotografica o di altra documentazione legittimamente ottenuta da dispositivi di comunicazione informatica o telematica, dalla quale emerga inequivocabilmente il fatto, ne risulta autore, sempre che l'arresto sia compiuto non oltre il tempo necessario alla sua identificazione e, comunque, entro le quarantotto ore dal fatto. 
- 1.1. Le disposizioni di cui al comma 1 si applicano, altresi', nei casi di cui agli articoli 452-bis, 452-ter, 452-quater, 452-sexies e 452-quaterdecies del codice penale e nei casi di cui agli articoli 255-bis, 255-ter, 256, commi 1, secondo periodo, 1-bis, 3 e 3-bis, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152.
+ 1.1. Le disposizioni di cui al comma 1 si applicano, altresi', nei casi di cui agli articoli ((419, 420, 420-bis, 635.1)) 452-bis, 452-ter, 452-quater, 452-sexies e 452-quaterdecies del codice penale e nei casi di cui agli articoli 255-bis, 255-ter, 256, commi 1, secondo periodo, 1-bis, 3 e 3-bis, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152.
 
 Le disposizioni di cui al comma 1 si applicano altresi' nei casi di delitti non colposi per i quali e' previsto l'arresto in flagranza, commessi all'interno o nelle pertinenze delle strutture sanitarie o socio-sanitarie residenziali o semiresidenziali, pubbliche o private, in danno di persone esercenti una professione sanitaria o socio-sanitaria nell'esercizio o a causa delle funzioni o del servizio nonche' di chiunque svolga attivita' ausiliarie di cura, assistenza sanitaria o soccorso, funzionali allo svolgimento di dette professioni, nell'esercizio o a causa di tali attivita', ovvero commessi su cose ivi esistenti o comunque destinate al servizio sanitario o socio-sanitario, quando non e' possibile procedere immediatamente all'arresto per ragioni di sicurezza o incolumita' pubblica o individuale ovvero per ragioni inerenti alla regolare erogazione del servizio.
 
-((Le disposizioni di cui al comma 1 si applicano altresi' nei casi di cui all'articolo 192, comma 7-bis, del codice della strada di cui al decreto legislativo 30 aprile 1992, n. 285, quando non e' possibile procedere immediatamente all'arresto per ragioni di sicurezza o incolumita' pubblica o individuale.))
+Le disposizioni di cui al comma 1 si applicano altresi' nei casi di cui all'articolo 192, comma 7-bis, del codice della strada di cui al decreto legislativo 30 aprile 1992, n. 285, quando non e' possibile procedere immediatamente all'arresto per ragioni di sicurezza o incolumita' pubblica o individuale.
 
 ## Art. 383. — Facolta' di arresto da parte dei privati
 
@@ -9394,13 +9394,15 @@ COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
                             
  Il D.Lgs. 7 dicembre 2023, n. 203 ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, gli avvisi di fissazione di udienza preliminare e i decreti che dispongono il giudizio o che citano l'imputato a giudizio sono stati gia' emessi".
 
-## Art. 430. — (( (Attivita' integrativa di indagine del pubblico ministero e del difensore). ))
+## Art. 430. — Attivita' integrativa di indagine del pubblico ministero e del difensore
 
-((
+
 
 Successivamente all'emissione del decreto che dispone il giudizio, il pubblico ministero e il difensore possono, ai fini delle proprie richieste al giudice del dibattimento, compiere attivita' integrativa di indagine, fatta eccezione degli atti pe ri quali e' prevista la partecipazione dell'imputato o del difensore di questo.
 
-La documentazione relativa all'attivita' indicata nel comma 1 e' immediatamente depositata nella segreteria del pubblico ministero con facolta' delle parti di prenderne visione e di estrarne copia)).
+((Il pubblico ministero puo' compiere ogni attivita' di indagine che si renda necessaria al fine di individuare i beni, il denaro o le altre utilita' da sottoporre a confisca obbligatoria nei casi previsti dalla legge.))
+
+La documentazione relativa all'attivita' indicata nel ((commi 1 e 1-bis)) e' immediatamente depositata nella segreteria del pubblico ministero con facolta' delle parti di prenderne visione e di estrarne copia.
 
 ## Art. 430-bis. — ( (Divieto di assumere informazioni
 
@@ -11160,6 +11162,10 @@ Qualora il giudice non abbia provveduto circa le spese, la sentenza e' rettifica
 ## Art. 536. — Pubblicazione della sentenza come effetto della condanna
 
 Nei casi previsti dall'articolo 36 del codice penale, il giudice stabilisce nel dispositivo se la sentenza deve essere pubblicata per intero o per estratto e designa il giornale o i giornali in cui deve essere inserita.
+
+## Art. 536-bis. — (( (Disposizioni in materia di confisca per equivalente).))
+
+
 
 ## Art. 537. — Pronuncia sulla falsita' di documenti
 
@@ -13247,13 +13253,13 @@ L'ordine di esecuzione della sentenza di condanna a pena detentiva emessa per i 
 
 L'ordine che dispone la carcerazione e' eseguito secondo le modalita' previste dall'articolo 277.
 
-Al di fuori dei casi previsti dal comma 9, lett. b), quando la residua pena da espiare, computando le detrazioni previste dall'articolo 54 della legge 26 luglio 1975, n. 354, non supera i limiti indicati dal comma 5, il pubblico ministero, prima di emettere l'ordine di esecuzione, previa verifica dell'esistenza di periodi di custodia cautelare o di pena dichiarata fungibile relativi al titolo esecutivo da eseguire, trasmette gli atti al magistrato di sorveglianza affinche' provveda all'eventuale applicazione della liberazione anticipata. Il magistrato di sorveglianza provvede senza ritardo con ordinanza adottata ai sensi dell'articolo 69-bis della legge 26 luglio 1975, n. 354. La presente disposizione non si applica nei confronti dei condannati per i delitti di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354.
+Al di fuori dei casi previsti dal comma 9, lett. b), quando la residua pena da espiare, computando le detrazioni previste dall'articolo 54 della legge 26 luglio 1975, n. 354, non supera i limiti indicati dal comma 5, il pubblico ministero, prima di emettere l'ordine di esecuzione, previa verifica dell'esistenza di periodi di custodia cautelare o di pena dichiarata fungibile relativi al titolo esecutivo da eseguire, trasmette gli atti al magistrato di sorveglianza affinche' provveda all'eventuale applicazione della liberazione anticipata. Il magistrato di sorveglianza provvede senza ritardo con ordinanza adottata ai sensi dell'articolo 69-bis della legge 26 luglio 1975, n. 354. La presente disposizione non si applica nei confronti dei condannati per i delitti di cui all'articolo 4-bis della legge 26 luglio 1975, n. 354. ((352))
 
 Quando il condannato si trova in stato di custodia cautelare in carcere il pubblico ministero emette l'ordine di esecuzione e, se ricorrono i presupposti di cui al comma 4-bis, trasmette senza ritardo gli atti al magistrato di sorveglianza per la decisione sulla liberazione anticipata.
 
 Nei casi previsti dal comma 4-bis, il pubblico ministero emette i provvedimenti previsti dai commi 1, 5 e 10 dopo la decisione del magistrato di sorveglianza.
 
-Se la pena detentiva, anche se costituente residuo di maggiore pena, non e' superiore a tre anni, quattro anni nei casi previsti dall'articolo 47-ter, comma 1, della legge 26 luglio 1975, n. 354, ((sei anni nei casi di cui agli articoli 90 e 94 o otto anni nei casi di cui all'articolo 94-ter)) del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni, il pubblico ministero, salvo quanto previsto dai commi 7 e 9, ne sospende l'esecuzione. L'ordine di esecuzione e il decreto di sospensione sono notificati al condannato e al difensore nominato per la fase dell'esecuzione o, in difetto, al difensore che lo ha assistito nella fase del giudizio, con l'avviso che entro trenta giorni puo' essere presentata istanza, corredata dalle indicazioni e dalla documentazione necessarie, volta ad ottenere la concessione di una delle misure alternative alla detenzione di cui agli articoli 47, 47-ter e 50, comma 1, della legge 26 luglio 1975, n. 354, e successive modificazioni, ((e di cui agli articoli 94 e 94-ter)) del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni, ovvero la Sospensione dell'esecuzione della pena di cui all'articolo 90 dello stesso testo unico. L'avviso informa altresi' che, ove non sia presentata l'istanza o la stessa sia inammissibile ai sensi degli articoli 90 e seguenti del citato testo unico, l'esecuzione della pena avra' corso immediato. Con l'avviso il condannato e' informato che ha facolta' di accedere ai programmi di giustizia riparativa e che, se il processo si e' svolto in sua assenza, nel termine di trenta giorni dalla conoscenza della sentenza puo' chiedere, in presenza dei relativi presupposti, la restituzione nel termine per proporre impugnazione o la rescissione del giudicato. ((Nei casi di cui all'articolo 94-ter del citato testo unico di cui al decreto del Presidente della Repubblica n. 309 del 1990, il pubblico ministero emette l'ordine di esecuzione e il decreto di sospensione e li trasmette senza ritardo, unitamente al programma terapeutico di cui al medesimo articolo 94-ter, al magistrato di sorveglianza, che provvede entro quarantacinque giorni all'eventuale applicazione della misura)). (257)
+Se la pena detentiva, anche se costituente residuo di maggiore pena, non e' superiore a tre anni, quattro anni nei casi previsti dall'articolo 47-ter, comma 1, della legge 26 luglio 1975, n. 354, sei anni nei casi di cui agli articoli 90 e 94 o otto anni nei casi di cui all'articolo 94-ter del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni, il pubblico ministero, salvo quanto previsto dai commi 7 e 9, ne sospende l'esecuzione. L'ordine di esecuzione e il decreto di sospensione sono notificati al condannato e al difensore nominato per la fase dell'esecuzione o, in difetto, al difensore che lo ha assistito nella fase del giudizio, con l'avviso che entro trenta giorni puo' essere presentata istanza, corredata dalle indicazioni e dalla documentazione necessarie, volta ad ottenere la concessione di una delle misure alternative alla detenzione di cui agli articoli 47, 47-ter e 50, comma 1, della legge 26 luglio 1975, n. 354, e successive modificazioni, e di cui agli articoli 94 e 94-ter del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni, ovvero la Sospensione dell'esecuzione della pena di cui all'articolo 90 dello stesso testo unico. L'avviso informa altresi' che, ove non sia presentata l'istanza o la stessa sia inammissibile ai sensi degli articoli 90 e seguenti del citato testo unico, l'esecuzione della pena avra' corso immediato. Con l'avviso il condannato e' informato che ha facolta' di accedere ai programmi di giustizia riparativa e che, se il processo si e' svolto in sua assenza, nel termine di trenta giorni dalla conoscenza della sentenza puo' chiedere, in presenza dei relativi presupposti, la restituzione nel termine per proporre impugnazione o la rescissione del giudicato. Nei casi di cui all'articolo 94-ter del citato testo unico di cui al decreto del Presidente della Repubblica n. 309 del 1990, il pubblico ministero emette l'ordine di esecuzione e il decreto di sospensione e li trasmette senza ritardo, unitamente al programma terapeutico di cui al medesimo articolo 94-ter, al magistrato di sorveglianza, che provvede entro quarantacinque giorni all'eventuale applicazione della misura. (257)
 
 L'istanza deve essere presentata dal condannato o dal difensore di cui al comma 5 ovvero allo scopo nominato al pubblico ministero, il quale la trasmette, unitamente alla documentazione, al tribunale di sorveglianza competente in relazione al luogo in cui ha sede l'ufficio del pubblico ministero. Se l'istanza non e' corredata dalla documentazione utile questa, salvi i casi di inammissibilita' puo' essere depositata nella cancelleria del tribunale di sorveglianza fino a cinque giorni prima dell'udienza fissata a norma dell'art. 666, comma 3. Resta salva, in ogni caso, la facolta' del tribunale di sorveglianza di procedere anche d'ufficio alla richiesta di documenti o di informazioni, o all'assunzione di prove a norma dell'articolo 666, comma 5. Il tribunale di sorveglianza decide non prima del trentesimo e non oltre il quarantacinquesimo giorno dalla ricezione della richiesta.
 
@@ -13315,7 +13321,11 @@ Fermo il disposto del comma 4-bis, nell'ordine di esecuzione la pena da espiare 
                             -------------
                             AGGIORNAMENTO (297)
                             
- La Corte Costituzionale, con sentenza 23 novembre 2022 - 20 gennaio 2023, n. 3 (in G.U. 1ª s.s. 25/1/2023, n. 4), ha dichiarato "l'illegittimita' costituzionale dell'art. 656, comma 9, lettera a), del codice di procedura penale, nella parte in cui stabilisce che non puo' essere disposta la sospensione dell'esecuzione nei confronti dei condannati per il delitto di incendio boschivo colposo di cui all'art. 423-bis, secondo comma, del codice penale".
+ La Corte Costituzionale, con sentenza 23 novembre 2022 - 20 gennaio 2023, n. 3 (in G.U. 1ª s.s. 25/1/2023, n. 4), ha dichiarato "l'illegittimita' costituzionale dell'art. 656, comma 9, lettera a), del codice di procedura penale, nella parte in cui stabilisce che non puo' essere disposta la sospensione dell'esecuzione nei confronti dei condannati per il delitto di incendio boschivo colposo di cui all'art. 423-bis, secondo comma, del codice penale". 
+                            ---------------
+                            AGGIORNAMENTO (352)
+                            
+ La Corte Costituzionale, con sentenza 6 ottobre - 13 novembre 2026, n. 203 (in G.U. 1ª s.s. 18/11/2026, n. 46), ha dichiarato "l'illegittimita' costituzionale dell'art. 656, comma 4-bis, ultimo periodo, del codice di procedura penale, nella parte in cui esclude l'applicazione della disposizione di cui al medesimo comma 4-bis nei confronti dei condannati per i delitti di cui all'art. 4-bis della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta') anche quando, nel caso di cumulo di pene, la pena detentiva riferibile a tali delitti risulterebbe interamente espiata per effetto dell'applicazione dell'art. 657 cod. proc. pen. e del computo delle detrazioni connesse alla liberazione anticipata, e la pena residua da espiare per i soli reati diversi da quelli di cui all'art. 4-bis della legge n. 354 del 1975 non supererebbe i limiti indicati dal comma 5 dell'art. 656 cod. proc. pen.".
 
 ## Art. 657. — Computo della custodia cautelare e delle pene espiate senza titolo
 

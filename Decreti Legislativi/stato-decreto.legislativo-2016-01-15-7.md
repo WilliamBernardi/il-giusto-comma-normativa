@@ -7,9 +7,9 @@ urn: urn:nir:stato:decreto.legislativo:2016-01-15;7
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2017-01-01
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-11-19
+zip_date: 2026-11-20
+fetched_at: 2026-11-20
 ---
 
 DECRETO LEGISLATIVO
@@ -157,8 +157,8 @@ Danneggiamento. - Chiunque distrugge, disperde, deteriora o rende, in tutto o in
  2. opere destinate all'irrigazione; 
  3. piantate di viti, di alberi o arbusti fruttiferi, o boschi, selve o foreste, ovvero vivai forestali destinati al rimboschimento; 
  4. attrezzature e impianti sportivi al fine di impedire o interrompere lo svolgimento di manifestazioni sportive. 
- Per i reati di cui al primo e al secondo comma, la sospensione condizionale della pena e' subordinata all'eliminazione delle conseguenze dannose o pericolose del reato, ovvero, se il condannato non si oppone, alla prestazione di attivita' non retribuita a favore della collettivita' per un tempo determinato, comunque non superiore alla durata della pena sospesa, secondo le modalita' indicate dal giudice nella sentenza di condanna.»; 
-
+ Per i reati di cui al primo e al secondo comma, la sospensione condizionale della pena e' subordinata all'eliminazione delle conseguenze dannose o pericolose del reato, ovvero, se il condannato non si oppone, alla prestazione di attivita' non retribuita a favore della collettivita' per un tempo determinato, comunque non superiore alla durata della pena sospesa, secondo le modalita' indicate dal giudice nella sentenza di condanna.»; ((2))
+                                    
                                 
                             
                             
@@ -186,6 +186,11 @@ Danneggiamento. - Chiunque distrugge, disperde, deteriora o rende, in tutto o in
                                 p)
                                 
                                     l'articolo 635-quinquies, terzo comma, e' sostituito dal seguente: «Se il fatto e' commesso con violenza alla persona o con minaccia ovvero con abuso della qualita' di operatore del sistema, la pena e' aumentata.».
+
+---------------
+                            AGGIORNAMENTO (2)
+                            
+ La Corte Costituzionale con sentenza 5 ottobre - 12 novembre 2026, n. 196 (in G.U. 1ª s.s. 18/11/2026, n. 46) ha dichiarato "l'illegittimita' costituzionale dell'art. 2, comma 1, lettera l), del decreto legislativo 15 gennaio 2016, n. 7 (Disposizioni in materia di abrogazione di reati e introduzione di illeciti con sanzioni pecuniarie civili, a norma dell'articolo 2, comma 3, della legge 28 aprile 2014, n. 67), nella parte in cui, sostituendo il primo comma dell'art. 635 del codice penale, fa riferimento alle manifestazioni che si svolgono in luogo pubblico o aperto al pubblico".
 
 ## - Capo II ILLECITI SOTTOPOSTI A SANZIONI PECUNIARIE CIVILI
 

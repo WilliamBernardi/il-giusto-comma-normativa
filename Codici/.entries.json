@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-19",
+  "zip_date": "2026-11-20",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19520215_328/1952-04-21_052U0328_VIGENZA_2026-05-26_V0.xml": {
       "sha256": "7af57cd54d85dc60384e35547e47ac9c0be99419b1fbffcbdc846c552cc21e08",
@@ -11,8 +11,8 @@
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1973-03-29-156.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-11-11_V0.xml": {
-      "sha256": "fd4909182443a0d201622075956508113d330d3cd1a4294a7796063ec1beb628",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19880922_447/1988-10-24_088G0492_VIGENZA_2026-11-20_V0.xml": {
+      "sha256": "e0cfcd631ae76e4abaeb68de9134d503eb59921a4468d9b986d83e54e780e275",
       "out": "Codici/stato-decreto.del.presidente.della.repubblica-1988-09-22-447.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447"
     },
@@ -186,8 +186,8 @@
       "out": "Codici/stato-regio.decreto-1941-12-18-1368.md",
       "urn": "urn:nir:stato:regio.decreto:1941-12-18;1368"
     },
-    "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-11-11_V0.xml": {
-      "sha256": "6e03ee119a2d1511ad3d3680e7a04ce72bbd86c0fc7366886d1fa8c206f7c297",
+    "REGIO DECRETO_19420316_262/1942-04-04_042U0262_VIGENZA_2026-11-20_V0.xml": {
+      "sha256": "d3bdaf9a4830843adf429cbfc22d59676e56dc5cc3e2c9a9757b469b911a88bb",
       "out": "Codici/stato-regio.decreto-1942-03-16-262.md",
       "urn": "urn:nir:stato:regio.decreto:1942-03-16;262"
     },
