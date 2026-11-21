@@ -8,9 +8,9 @@ codice_redazionale: 012G0088
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2023-11-29
-zip_date: 2026-11-12
-fetched_at: 2026-11-12
+vigenza_date: 2026-11-17
+zip_date: 2026-11-21
+fetched_at: 2026-11-21
 ---
 
 DECRETO LEGISLATIVO
@@ -634,7 +634,7 @@ Le scuole universitarie di alta formazione a carattere residenziale, attivate pr
                             
                                 a)
                                 
-                                    dal fondo integrativo statale per la concessione di borse di studio, appositamente istituito a decorrere dall'anno finanziario 2012 nello stato di previsione del Ministero, sul quale confluiscono le risorse previste a legislazione vigente dall'autorizzazione di spesa di cui all'articolo 1 della legge 11 febbraio 1992, n. 147, e di cui all'articolo 33, comma 27, della legge 12 novembre 2011, n. 183, e da assegnare in misura proporzionale al fabbisogno finanziario delle regioni; (1) (2) (3) (4) (5) (6)(7)((9))
+                                    dal fondo integrativo statale per la concessione di borse di studio, appositamente istituito a decorrere dall'anno finanziario 2012 nello stato di previsione del Ministero, sul quale confluiscono le risorse previste a legislazione vigente dall'autorizzazione di spesa di cui all'articolo 1 della legge 11 febbraio 1992, n. 147, e di cui all'articolo 33, comma 27, della legge 12 novembre 2011, n. 183, e da assegnare in misura proporzionale al fabbisogno finanziario delle regioni; (1) (2) (3) (4) (5) (6)(7)(9) ((12))
                                     
                                 
                             
@@ -700,7 +700,11 @@ Nell'ambito della propria autonomia, le universita' e le istituzioni di alta for
                             --------------
                             AGGIORNAMENTO (9)
                             
- Il D.L. 29 settembre 2023, n. 131, convertito con modificazioni dalla L. 27 novembre 2023, n. 169, ha disposto (con l'art. 2, comma 5) che "Il fondo integrativo statale per la concessione di borse di studio di cui all'articolo 18, comma 1, lettera a), del decreto legislativo 29 marzo 2012, n. 68, e' incrementato, per l'anno 2023, dell'importo di euro 7.429.667 destinato alla corresponsione delle borse di studio per l'accesso alla formazione superiore in favore degli idonei non beneficiari nelle graduatorie degli enti regionali per il diritto allo studio relative all'anno accademico 2022/2023".
+ Il D.L. 29 settembre 2023, n. 131, convertito con modificazioni dalla L. 27 novembre 2023, n. 169, ha disposto (con l'art. 2, comma 5) che "Il fondo integrativo statale per la concessione di borse di studio di cui all'articolo 18, comma 1, lettera a), del decreto legislativo 29 marzo 2012, n. 68, e' incrementato, per l'anno 2023, dell'importo di euro 7.429.667 destinato alla corresponsione delle borse di studio per l'accesso alla formazione superiore in favore degli idonei non beneficiari nelle graduatorie degli enti regionali per il diritto allo studio relative all'anno accademico 2022/2023". 
+                            --------------
+                            AGGIORNAMENTO (12)
+                            
+ Il D.L. 17 settembre 2026, n. 162, convertito con modificazioni dalla L. 13 novembre 2026, n. 209, ha disposto (con l'art. 5, comma 1) che "Il fondo di cui all'articolo 18, comma 1, lettera a), del decreto legislativo 29 marzo 2012, n. 68, e' incrementato di 288 milioni di euro per l'anno 2026. Ai relativi oneri, pari a 288 milioni di euro per l'anno 2026, si provvede ai sensi dell'articolo 7".
 
 ## Art. 19. — Disponibilita' finanziaria
 

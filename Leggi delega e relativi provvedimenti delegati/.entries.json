@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-20",
+  "zip_date": "2026-11-21",
   "entries": {
     "DECRETO LEGISLATIVO_19881109_478/1988-11-11_088G0566_ORIGINALE_V0.xml": {
       "sha256": "75d0c44467cdec57a1e802dceadfb953c5f37608d5175ecc916c0a4a549e438b",
@@ -1831,8 +1831,8 @@
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2012-03-29-49.md",
       "urn": "urn:nir:stato:decreto.legislativo:2012-03-29;49"
     },
-    "DECRETO LEGISLATIVO_20120329_68/2012-05-31_012G0088_VIGENZA_2026-10-30_V0.xml": {
-      "sha256": "bf39ab93cd9afc8ee1318bfc01fd3f102e60c7e8d8bd731eb09012bd01a7828f",
+    "DECRETO LEGISLATIVO_20120329_68/2012-05-31_012G0088_VIGENZA_2026-11-21_V0.xml": {
+      "sha256": "9e13ca0a302505bc599dbf7ecadef62aca97957920e0964500b5e2c1c5b66088",
       "out": "Leggi delega e relativi provvedimenti delegati/stato-decreto.legislativo-2012-03-29-68.md",
       "urn": "urn:nir:stato:decreto.legislativo:2012-03-29;68"
     },

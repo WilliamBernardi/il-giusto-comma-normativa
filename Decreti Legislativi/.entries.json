@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-20",
+  "zip_date": "2026-11-21",
   "entries": {
     "DECRETO LEGISLATIVO_19470327_1884/1948-12-29_047U1884_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "d27aabe4592de387501987e3f17ae35af01f131202f271ded78b971cbeab3bd2",
@@ -11041,8 +11041,8 @@
       "out": "Decreti Legislativi/stato-decreto.legislativo-2012-03-29-49.md",
       "urn": "urn:nir:stato:decreto.legislativo:2012-03-29;49"
     },
-    "DECRETO LEGISLATIVO_20120329_68/2012-05-31_012G0088_VIGENZA_2026-10-30_V0.xml": {
-      "sha256": "bf39ab93cd9afc8ee1318bfc01fd3f102e60c7e8d8bd731eb09012bd01a7828f",
+    "DECRETO LEGISLATIVO_20120329_68/2012-05-31_012G0088_VIGENZA_2026-11-21_V0.xml": {
+      "sha256": "9e13ca0a302505bc599dbf7ecadef62aca97957920e0964500b5e2c1c5b66088",
       "out": "Decreti Legislativi/stato-decreto.legislativo-2012-03-29-68.md",
       "urn": "urn:nir:stato:decreto.legislativo:2012-03-29;68"
     },
