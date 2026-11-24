@@ -8,9 +8,9 @@ codice_redazionale: 003G0218
 vigente: true
 source: normattiva-opendata
 collection: Codici
-vigenza_date: 2026-02-20
-zip_date: 2026-08-04
-fetched_at: 2026-08-04
+vigenza_date: 2026-11-24
+zip_date: 2026-11-24
+fetched_at: 2026-11-24
 ---
 
 DECRETO LEGISLATIVO
@@ -2139,10 +2139,14 @@ I fornitori di servizi di condivisione di contenuti audiovisivi, ovunque stabili
 
 ((49))
 
-----------------
-                            AGGIORNAMENTO (49)
-                            
- Il D.L. 8 ottobre 2021, n. 139, convertito con modificazioni dalla L. 3 dicembre 2021, n. 205, ha disposto (con l'art. 9, comma 6) che "In fase di prima attuazione, l'obbligo di indicazione o di pubblicazione del recapito previsto dall'articolo 144-bis, comma 6, del codice di cui al decreto legislativo n. 196 del 2003, introdotto dalla lettera g) del comma 1 del presente articolo, e' adempiuto nel termine di sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto".
+## Art. 144-ter.
+
+(( (Pubblicita' delle sentenze di assoluzione o proscioglimento.
+ Segnalazioni al Garante). ))
+
+((Su richiesta della persona nei cui confronti sono stati pronunciati sentenza di assoluzione, di proscioglimento o di non luogo a procedere ovvero provvedimento di archiviazione, il direttore o il responsabile della testata giornalistica, radiofonica, televisiva o telematica che ha dato notizia del relativo procedimento penale o di atti o provvedimenti relativi al medesimo procedimento e' tenuto a dare pubblicita', senza oneri per l'interessato, alla notizia dei provvedimenti favorevoli a quest'ultimo, con rilievo adeguato allo spazio gia' riservato al relativo procedimento penale.))
+
+((L'interessato, in caso di mancato adempimento di quanto previsto dal comma 1 da parte del direttore o del responsabile della testata giornalistica, radiofonica, televisiva o telematica, puo' rivolgere una segnalazione al Garante. Il Garante decide nei cinque giorni successivi e, all'esito di tale procedimento, puo' ordinare la pubblicazione della notizia dei provvedimenti favorevoli per l'indagato o l'imputato)).
 
 ## - - SEZIONE III TUTELA ALTERNATIVA A QUELLA GIURISDIZIONALE <br>((SEZIONE ABROGATA DAL D.LGS. 10 AGOSTO 2018, N. 101))
 

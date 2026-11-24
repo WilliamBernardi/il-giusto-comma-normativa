@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-23",
+  "zip_date": "2026-11-24",
   "entries": {
     "DECRETO LEGISLATIVO_19470327_1884/1948-12-29_047U1884_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "d27aabe4592de387501987e3f17ae35af01f131202f271ded78b971cbeab3bd2",
@@ -5506,8 +5506,8 @@
       "out": "Decreti Legislativi/stato-decreto.legislativo-1995-09-21-430.md",
       "urn": "urn:nir:stato:decreto.legislativo:1995-09-21;430"
     },
-    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-11-11_V0.xml": {
-      "sha256": "418e4212dd8ce7c82ecf481d06b23f3abcd5adb36acc1d5aa08e4f5f4c1ae391",
+    "DECRETO LEGISLATIVO_19951026_504/1995-11-29_095G0523_VIGENZA_2026-11-24_V0.xml": {
+      "sha256": "e57f8a8984c16e647205af458f932780770ea41a338367d70c377fe0551d8742",
       "out": "Decreti Legislativi/stato-decreto.legislativo-1995-10-26-504.md",
       "urn": "urn:nir:stato:decreto.legislativo:1995-10-26;504"
     },
@@ -8296,8 +8296,8 @@
       "out": "Decreti Legislativi/stato-decreto.legislativo-2003-06-30-190.md",
       "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;190"
     },
-    "DECRETO LEGISLATIVO_20030630_196/2003-07-29_003G0218_VIGENZA_2026-03-03_V0.xml": {
-      "sha256": "06f1c4478e382db4007a49aad14283c36991191f184bde8fe4a1d6d949bf9d39",
+    "DECRETO LEGISLATIVO_20030630_196/2003-07-29_003G0218_VIGENZA_2026-11-24_V0.xml": {
+      "sha256": "c138ad225cb4480dcc4b2acc5eaf51640c49ee0307dc37c7d0c2ed7e3f8766cf",
       "out": "Decreti Legislativi/stato-decreto.legislativo-2003-06-30-196.md",
       "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;196"
     },

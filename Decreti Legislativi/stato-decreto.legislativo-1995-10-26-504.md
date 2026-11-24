@@ -8,9 +8,9 @@ codice_redazionale: 095G0523
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-11-11
-zip_date: 2026-11-12
-fetched_at: 2026-11-12
+vigenza_date: 2026-11-24
+zip_date: 2026-11-24
+fetched_at: 2026-11-24
 ---
 
 DECRETO LEGISLATIVO

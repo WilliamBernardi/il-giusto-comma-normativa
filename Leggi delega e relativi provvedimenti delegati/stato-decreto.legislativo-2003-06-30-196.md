@@ -8,9 +8,9 @@ codice_redazionale: 003G0218
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-vigenza_date: 2026-01-30
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-11-24
+zip_date: 2026-11-24
+fetched_at: 2026-11-24
 ---
 
 DECRETO LEGISLATIVO
@@ -586,6 +586,12 @@ Il titolare o il responsabile del trattamento possono prevedere, sotto la propri
 Il titolare o il responsabile del trattamento individuano le modalita' piu' opportune per autorizzare al trattamento dei dati personali le persone che operano sotto la propria autorita' diretta.
 
 ))
+
+## Art. 2-quaterdecies.1. — (( (Procedura di notifica delle violazioni di dati personali da parte di microimprese). ))
+
+
+
+((La procedura di cui al comma 1 e' disciplinata dal Garante con proprio provvedimento, prevedendo il ricorso a strumenti di autovalutazione guidata e un canale di assistenza semplificata che forniscano supporto ai soggetti tenuti alla notifica.))
 
 ## Art. 2-quindecies. — ((ARTICOLO ABROGATO DAL D.L. 8 OTTOBRE 2021, N. 139, CONVERTITO CON MODIFICAZIONI DALLA L. 3 DICEMBRE 2021, N. 205))
 
@@ -2133,10 +2139,14 @@ I fornitori di servizi di condivisione di contenuti audiovisivi, ovunque stabili
 
 ((49))
 
-----------------
-                            AGGIORNAMENTO (49)
-                            
- Il D.L. 8 ottobre 2021, n. 139, convertito con modificazioni dalla L. 3 dicembre 2021, n. 205, ha disposto (con l'art. 9, comma 6) che "In fase di prima attuazione, l'obbligo di indicazione o di pubblicazione del recapito previsto dall'articolo 144-bis, comma 6, del codice di cui al decreto legislativo n. 196 del 2003, introdotto dalla lettera g) del comma 1 del presente articolo, e' adempiuto nel termine di sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto".
+## Art. 144-ter.
+
+(( (Pubblicita' delle sentenze di assoluzione o proscioglimento.
+ Segnalazioni al Garante). ))
+
+((Su richiesta della persona nei cui confronti sono stati pronunciati sentenza di assoluzione, di proscioglimento o di non luogo a procedere ovvero provvedimento di archiviazione, il direttore o il responsabile della testata giornalistica, radiofonica, televisiva o telematica che ha dato notizia del relativo procedimento penale o di atti o provvedimenti relativi al medesimo procedimento e' tenuto a dare pubblicita', senza oneri per l'interessato, alla notizia dei provvedimenti favorevoli a quest'ultimo, con rilievo adeguato allo spazio gia' riservato al relativo procedimento penale.))
+
+((L'interessato, in caso di mancato adempimento di quanto previsto dal comma 1 da parte del direttore o del responsabile della testata giornalistica, radiofonica, televisiva o telematica, puo' rivolgere una segnalazione al Garante. Il Garante decide nei cinque giorni successivi e, all'esito di tale procedimento, puo' ordinare la pubblicazione della notizia dei provvedimenti favorevoli per l'indagato o l'imputato)).
 
 ## - - SEZIONE III TUTELA ALTERNATIVA A QUELLA GIURISDIZIONALE <br>((SEZIONE ABROGATA DAL D.LGS. 10 AGOSTO 2018, N. 101))
 
