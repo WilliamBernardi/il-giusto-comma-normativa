@@ -8,9 +8,9 @@ codice_redazionale: 063U1409
 vigente: true
 source: normattiva-opendata
 collection: DPR
-vigenza_date: 2009-12-14
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-11-25
+zip_date: 2026-11-25
+fetched_at: 2026-11-25
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,8 +39,8 @@ Per l'attuazione dei compiti stabiliti, dal precedente articolo 6 istituita pres
 
 ## Art. 3. — Organi preposti alla conservazione
 
-Gli organi che provvedono alla conservazione degli archivi e dei documenti di cui alla lettera a) del primo comma dell'art. 1 sono:
- a) l'archivio centrale dello Stato, con sede in Roma;
+Gli organi che provvedono alla conservazione degli archivi e dei documenti di cui alla lettera a) del primo comma dell'art. 1 sono: 
+ a) ((l'Archivio nazionale)), con sede in Roma; 
  b) gli archivi di Stato, con sede nei capoluoghi di Provincia. In non piu' di quaranta Comuni, nei quali esistano archivi statali rilevanti per qualita' e quantita', possono essere istituite sezioni di archivio di Stato, con decreto del Ministro, per l'interno, su conforme parere del Consiglio superiore degli archivi.
 
 ## Art. 4. — Organi preposti alla vigilanza
@@ -57,14 +57,14 @@ E' istituito presso il Ministero dell'interno il Consiglio superiore degli archi
  b) quattro componenti scelti tra persone particolarmente competenti in discipline archivistiche, storiche o amministrative; 
  c) un componente designato dall'Accademia dei lincei, uno designato dalla Giunta centrale degli studi storici, e quattro professori di ruolo di discipline storiche o di discipline ausiliarie della storia nella scuola speciale per archivisti e bibliotecari presso le Universita' degli studi o nelle Facolta' di lettere e filosofia, o di giurisprudenza, o di scienze politiche, o di economia e commercio, o di Magistero delle Universita' degli studi, designati dal Ministero della pubblica istruzione; 
  d) quattro impiegati della carriera direttiva dell'Amministrazione degli archivi di Stato che rivestano qualifica non inferiore a quella di direttore, designati mediante elezioni dagli impiegati della medesima carriera. 
- Il direttore generale degli archivi di Stato e il sovrintendente all'archivio centrale dello Stato fanno parte di diritto del Consiglio. 
+ Il direttore generale degli archivi di Stato e il ((direttore dell'Archivio nazionale)) fanno parte di diritto del Consiglio. 
  Il Consiglio elegge nel proprio seno, a maggioranza di voti, due vice presidenti. 
  Sono chiamati di volta in volta a partecipare alle riunioni del Consiglio, con voto consultivo, rappresentanti delle Amministrazioni statali, quando vengano trattate questioni che interessano le Amministrazioni stesse. 
  I componenti non di diritto del Consiglio sono nominati con decreto del Presidente della Repubblica, su proposta del Ministro per l'interno. 
  Essi durano in carica tre anni e possono essere confermati. 
  Se durante il triennio si verificano vacanze nei posti riservati ai componenti elettivi, vengono nominati, per la restante durata di esso, coloro che seguivano immediatamente, per numero di voti, nella graduatoria dei candidati. 
  Le funzioni di segretario del Consiglio sono disimpegnate da un impiegato della carriera direttiva della Amministrazione degli archivi di Stato che rivesta urna qualifica non inferiore a quella di sovrintendente-direttore capo di 2ª classe. 
- ((9))
+ (9)
 
 ---------------
                             AGGIORNAMENTO (9)
@@ -73,13 +73,13 @@ E' istituito presso il Ministero dell'interno il Consiglio superiore degli archi
 
 ## Art. 6. — Competenze
 
-E' compito del Consiglio superiore degli archivi dare parere su tutte le questioni di carattere generale attinenti allo organizzazione e al funzionamento degli archivi di Stato, delle Sovrintendenze archivistiche, degli archivi delle Amministrazioni statali e degli enti pubblici.
- In particolare, sono sottoposti all'esame del Consiglio per il parere:
- a) i progetti di legge e di regolamenti attinenti agli oggetti indicati nel comma precedente;
- b) i programmi delle scuole di cui al capo IV, nonche' dei corsi di formazione e di perfezionamento per il personale dell'Amministrazione degli archivi di Stato;
- c) i] metodo e i criteri generali dell'ordinamento degli archivi e dei lavori archivistici in genere;
- d) la disciplina dell'esercizio della vigilanza attribuita allo Stato sugli archivi privati di notevole interesse storico;
- e) la nomina del sovrintendente all'archivio centrale dello Stato.
+E' compito del Consiglio superiore degli archivi dare parere su tutte le questioni di carattere generale attinenti allo organizzazione e al funzionamento degli archivi di Stato, delle Sovrintendenze archivistiche, degli archivi delle Amministrazioni statali e degli enti pubblici. 
+ In particolare, sono sottoposti all'esame del Consiglio per il parere: 
+ a) i progetti di legge e di regolamenti attinenti agli oggetti indicati nel comma precedente; 
+ b) i programmi delle scuole di cui al capo IV, nonche' dei corsi di formazione e di perfezionamento per il personale dell'Amministrazione degli archivi di Stato; 
+ c) i] metodo e i criteri generali dell'ordinamento degli archivi e dei lavori archivistici in genere; 
+ d) la disciplina dell'esercizio della vigilanza attribuita allo Stato sugli archivi privati di notevole interesse storico; 
+ e) la nomina del ((direttore dell'Archivio nazionale)).
 
 ## Art. 7. — Riunioni
 
@@ -192,8 +192,8 @@ Presso gli archivi di Stato, che sono elencati nel regolamento di esecuzione del
 
 ## Art. 17. — Schedario nazionale degli archivi fotoriprodotti
 
-Le Amministrazioni dello Stato e gli enti pubblici danno notizia della fotoriproduzione dei propri archivi rispettivamente al sovrintendente all'archivio centrale dello Stato, ai direttori degli archivi di Stato e ai sovrintendenti archivistici competenti, che provvedono ad informare il centro di fotoriproduzione, legatoria e restauro degli archivi di Stato.
- Presso l'archivio centrale dello Stato e' istituito lo schedario nazionale degli archivi fotoriprodotti.
+Le Amministrazioni dello Stato e gli enti pubblici danno notizia della fotoriproduzione dei propri archivi rispettivamente al ((direttore dell'Archivio nazionale)), ai direttori degli archivi di Stato e ai sovrintendenti archivistici competenti, che provvedono ad informare il centro di fotoriproduzione, legatoria e restauro degli archivi di Stato. 
+ Presso ((l'Archivio nazionale)) e' istituito lo schedario nazionale degli archivi fotoriprodotti.
 
 ## - TITOLO II Documenti dello Stato e degli enti pubblici
 
@@ -395,9 +395,9 @@ La qualifica di ispettore generale e' conferita mediante concorso per titoli al 
 
 ## Art. 53. — Commissioni giudicatrici
 
-La Commissione giudicatrice nei concorsi per titoli di cui all'art. 51 e' nominato dal Ministro per l'interno ed e' composta da un vice presidente del Consiglio superiore degli archivi, che la presiede; dal direttore generale degli archivi di Stato; da un impiegato della carriera direttiva dell'Amministrazione degli archivi di Stato che rivesta qualifica non inferiore a quella di sovrintendente-direttore capo di 1ª classe o di ispettore generale; da due componenti del Consiglio superiore designati dal Consiglio stesso.
- La Commissione giudicatrice nei concorsi per titoli di cui all'art. 52 e' nominata dal Ministro per l'interno ed e' composta da un vice presidente del Consiglio superiore degli archivi, che la la presiede; dal direttore generale degli archivi di Stato; da un impiegato della carriera direttiva dell'Amministrazione degli archivi di Stato che rivesta qualifica o di sovrintendente allo archivio centrale dello Stato o di ispettore generale; da due componenti del Consiglio superiore designati dal consiglio stesso.
- Il Consiglio superiore designa altresi' i membri che, in caso di assenza o di impedimento, sostituiscono i due componenti delle Commissioni designati da esse Consiglio.
+La Commissione giudicatrice nei concorsi per titoli di cui all'art. 51 e' nominato dal Ministro per l'interno ed e' composta da un vice presidente del Consiglio superiore degli archivi, che la presiede; dal direttore generale degli archivi di Stato; da un impiegato della carriera direttiva dell'Amministrazione degli archivi di Stato che rivesta qualifica non inferiore a quella di sovrintendente-direttore capo di 1ª classe o di ispettore generale; da due componenti del Consiglio superiore designati dal Consiglio stesso. 
+ La Commissione giudicatrice nei concorsi per titoli di cui all'art. 52 e' nominata dal Ministro per l'interno ed e' composta da un vice presidente del Consiglio superiore degli archivi, che la la presiede; dal direttore generale degli archivi di Stato; da un impiegato della carriera direttiva dell'Amministrazione degli archivi di Stato che rivesta qualifica o di ((direttore dell'Archivio nazionale)) o di ispettore generale; da due componenti del Consiglio superiore designati dal consiglio stesso. 
+ Il Consiglio superiore designa altresi' i membri che, in caso di assenza o di impedimento, sostituiscono i due componenti delle Commissioni designati da esse Consiglio. 
  Le funzioni di segretario delle Commissioni di cui sopra sono disimpegnate dal direttore della divisione del personale della Direzione generale degli archivi di Stato.
 
 ## Art. 54. — Vestiario protettivo e disintossicanti

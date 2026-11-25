@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-24",
+  "zip_date": "2026-11-25",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19520215_328/1952-04-21_052U0328_VIGENZA_2026-05-26_V0.xml": {
       "sha256": "7af57cd54d85dc60384e35547e47ac9c0be99419b1fbffcbdc846c552cc21e08",
@@ -51,8 +51,8 @@
       "out": "Codici/stato-decreto.legislativo-2003-08-01-259.md",
       "urn": "urn:nir:stato:decreto.legislativo:2003-08-01;259"
     },
-    "DECRETO LEGISLATIVO_20040122_42/2004-02-24_004G0066_VIGENZA_2026-05-26_V0.xml": {
-      "sha256": "1e851159fa72d6859492ed4147d06a63e6886c5cc8428d90bbd05f7fd29ba22e",
+    "DECRETO LEGISLATIVO_20040122_42/2004-02-24_004G0066_VIGENZA_2026-11-25_V0.xml": {
+      "sha256": "3ff1a482ebe29d16e7df210e66101049e2bbf25778b714b09ed91f16e42cb7f6",
       "out": "Codici/stato-decreto.legislativo-2004-01-22-42.md",
       "urn": "urn:nir:stato:decreto.legislativo:2004-01-22;42"
     },

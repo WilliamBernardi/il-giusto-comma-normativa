@@ -8,9 +8,9 @@ codice_redazionale: 004G0066
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2026-05-10
-zip_date: 2026-08-06
-fetched_at: 2026-08-06
+vigenza_date: 2026-11-25
+zip_date: 2026-11-25
+fetched_at: 2026-11-25
 ---
 
 DECRETO LEGISLATIVO
@@ -765,17 +765,17 @@ Gli interventi conservativi sui beni culturali che coinvolgono lo Stato, le regi
 
 ## Art. 41. — Obblighi di versamento agli Archivi di Stato dei documenti conservati dalle amministrazioni statali
 
-Gli organi giudiziari e amministrativi dello Stato versano all'archivio centrale dello Stato e agli archivi di Stato i documenti relativi agli affari esauriti da oltre trent'anni, unitamente agli strumenti che ne garantiscono la consultazione. Le liste di leva e di estrazione sono versate settant'anni dopo l'anno di nascita della classe cui si riferiscono. Gli archivi notarili versano gli atti notarili ricevuti dai notai che cessarono l'esercizio professionale anteriormente all'ultimo centennio.
+Gli organi giudiziari e amministrativi dello Stato versano ((all'Archivio nazionale)) e agli archivi di Stato i documenti relativi agli affari esauriti da oltre trent'anni, unitamente agli strumenti che ne garantiscono la consultazione. Le liste di leva e di estrazione sono versate settant'anni dopo l'anno di nascita della classe cui si riferiscono. Gli archivi notarili versano gli atti notarili ricevuti dai notai che cessarono l'esercizio professionale anteriormente all'ultimo centennio.
 
-Il soprintendente all'archivio centrale dello Stato e i direttori degli archivi di Stato possono accettare versamenti di documenti piu' recenti, quando vi sia pericolo di dispersione o di danneggiamento, ovvero siano stati definiti appositi accordi con i responsabili delle amministrazioni versanti.
+Il ((direttore dell'Archivio nazionale)) e i direttori degli archivi di Stato possono accettare versamenti di documenti piu' recenti, quando vi sia pericolo di dispersione o di danneggiamento, ovvero siano stati definiti appositi accordi con i responsabili delle amministrazioni versanti.
 
 Nessun versamento puo' essere ricevuto se non sono state effettuate le operazioni di scarto. Le spese per il versamento sono a carico delle amministrazioni versanti.
 
-Gli archivi degli uffici statali soppressi e degli enti pubblici estinti sono versati all'archivio centrale dello Stato e agli archivi di Stato, a meno che non se ne renda necessario il trasferimento, in tutto o in parte, ad altri enti.
+Gli archivi degli uffici statali soppressi e degli enti pubblici estinti sono versati ((all'Archivio nazionale)) e agli archivi di Stato, a meno che non se ne renda necessario il trasferimento, in tutto o in parte, ad altri enti.
 
-Presso gli organi indicati nel comma 1 sono istituite Commissioni di sorveglianza, delle quali fanno parte il soprintendente all'archivio centrale dello Stato e i direttori degli archivi di Stato quali rappresentanti del Ministero, e rappresentanti del Ministero dell'interno, con il compito di vigilare sulla corretta tenuta degli archivi correnti e di deposito, di collaborare alla definizione dei criteri di organizzazione, gestione e conservazione dei documenti, di proporre gli scarti di cui al comma 3, di curare i versamenti previsti al comma 1, di identificare gli atti di natura riservata. La composizione e il funzionamento delle commissioni sono disciplinati con decreto adottato dal Ministro di concerto con il Ministro dell'interno, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Gli scarti sono autorizzati dal Ministero.
+Presso gli organi indicati nel comma 1 sono istituite Commissioni di sorveglianza, delle quali fanno parte il ((direttore dell'Archivio nazionale)) e i direttori degli archivi di Stato quali rappresentanti del Ministero, e rappresentanti del Ministero dell'interno, con il compito di vigilare sulla corretta tenuta degli archivi correnti e di deposito, di collaborare alla definizione dei criteri di organizzazione, gestione e conservazione dei documenti, di proporre gli scarti di cui al comma 3, di curare i versamenti previsti al comma 1, di identificare gli atti di natura riservata. La composizione e il funzionamento delle commissioni sono disciplinati con decreto adottato dal Ministro di concerto con il Ministro dell'interno, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Gli scarti sono autorizzati dal Ministero.
 
-Le disposizioni del presente articolo non si applicano al Ministero degli affari esteri non si applicano altresi' agli stati maggiori della difesa, dell'esercito, della marina e dell'aeronautica, nonche' al Comando generale dell'Arma dei carabinieri, per quanto attiene la documentazione di carattere militare e operativo ((, ne' all'Agenzia per la cybersicurezza nazionale, per quanto attiene alla documentazione connessa all'esercizio delle sue funzioni volte alla tutela della sicurezza nazionale e dell'interesse nazionale nello spazio cibernetico)).
+Le disposizioni del presente articolo non si applicano al Ministero degli affari esteri non si applicano altresi' agli stati maggiori della difesa, dell'esercito, della marina e dell'aeronautica, nonche' al Comando generale dell'Arma dei carabinieri, per quanto attiene la documentazione di carattere militare e operativo, ne' all'Agenzia per la cybersicurezza nazionale, per quanto attiene alla documentazione connessa all'esercizio delle sue funzioni volte alla tutela della sicurezza nazionale e dell'interesse nazionale nello spazio cibernetico.
 
 ## Art. 42. — Conservazione degli archivi storici di organi costituzionali
 

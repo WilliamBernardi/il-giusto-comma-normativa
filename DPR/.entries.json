@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-24",
+  "zip_date": "2026-11-25",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19480101_122/1948-03-15_048U0122_ORIGINALE_V0.xml": {
       "sha256": "79c87a6401dd7f43c8a81464470a9cbaae7341c57aa5d841859bc3938521381a",
@@ -109376,8 +109376,8 @@
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1963-09-25-1390.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-25;1390"
     },
-    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19630930_1409/1963-10-31_063U1409_VIGENZA_2025-07-30_V0.xml": {
-      "sha256": "50c70172e69f4cee57730eb0576badd86f8e218a73515eb4cb17d6fdafa8e52f",
+    "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19630930_1409/1963-10-31_063U1409_VIGENZA_2026-11-25_V0.xml": {
+      "sha256": "f737647cfa511d920ee29b7a2d657a8408d18a842e5228d77758d5aa4d12725c",
       "out": "DPR/stato-decreto.del.presidente.della.repubblica-1963-09-30-1409.md",
       "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1963-09-30;1409"
     },
