@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-11-12",
+  "zip_date": "2026-11-26",
   "entries": {
     "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI_19960206_175/1996-03-30_096G0184_ORIGINALE_V0.xml": {
       "sha256": "b9e6909b6c24b5aa9423a811d28d930fd3228e63ed977c13f9fea8793daafd3e",
@@ -2196,8 +2196,8 @@
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2003-06-30-190.md",
       "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;190"
     },
-    "DECRETO LEGISLATIVO_20030630_196/2003-07-29_003G0218_VIGENZA_2026-03-03_V0.xml": {
-      "sha256": "06f1c4478e382db4007a49aad14283c36991191f184bde8fe4a1d6d949bf9d39",
+    "DECRETO LEGISLATIVO_20030630_196/2003-07-29_003G0218_VIGENZA_2026-11-26_V0.xml": {
+      "sha256": "c138ad225cb4480dcc4b2acc5eaf51640c49ee0307dc37c7d0c2ed7e3f8766cf",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2003-06-30-196.md",
       "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;196"
     },
@@ -4740,6 +4740,16 @@
       "sha256": "d95d59ce707f99b21c532bceb321095ea526970c2b6707fb1a72cf5cbe0521e1",
       "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2026-10-08-194.md",
       "urn": "urn:nir:stato:decreto.legislativo:2026-10-08;194"
+    },
+    "DECRETO LEGISLATIVO_20261102_208/2026-11-14_26G00224_ORIGINALE_V0.xml": {
+      "sha256": "e070c8791bc0ed109f744f19163c93427894a50ea1df95c0397186d0045918ee",
+      "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2026-11-02-208.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2026-11-02;208"
+    },
+    "DECRETO LEGISLATIVO_20261106_211/2026-11-21_26G00231_ORIGINALE_V0.xml": {
+      "sha256": "ad9a5cd4bc77ce6a561f4a0f036a62a0ab08dc5cba54b5bce6b06cf75c419f87",
+      "out": "Atti di recepimento direttive UE/stato-decreto.legislativo-2026-11-06-211.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2026-11-06;211"
     },
     "DECRETO MINISTERIALE_19870124_91/1987-03-19_087U0091_VIGENZA_2025-06-12_V0.xml": {
       "sha256": "af35f2ce184a46ee40b77dd4b7f546f9f2f52671574400148ff16ef89cb91311",

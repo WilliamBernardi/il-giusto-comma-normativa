@@ -2,13 +2,13 @@
   "source": "normattiva-opendata",
   "state": "V",
   "format": "AKN",
-  "built_at": "2026-11-25T13:20:30Z",
+  "built_at": "2026-11-26T12:59:39Z",
   "collections": {
     "Atti di attuazione Regolamenti UE": {
       "collection": "Atti di attuazione Regolamenti UE",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-17",
+      "zip_date": "2026-11-26",
       "act_count": 39,
       "files": {
         "urn:nir:ministero.agricoltura.e.foreste:decreto.ministeriale:1990-02-08;34": {
@@ -384,8 +384,8 @@
       "collection": "Atti di recepimento direttive UE",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-12",
-      "act_count": 1098,
+      "zip_date": "2026-11-26",
+      "act_count": 1100,
       "files": {
         "urn:nir:ministero.agricoltura.e.foreste:decreto:1991-06-07;206": {
           "path": "Atti di recepimento direttive UE/ministero.agricoltura.e.foreste-decreto-1991-06-07-206.md",
@@ -6597,9 +6597,9 @@
           "path": "Atti di recepimento direttive UE/stato-decreto.legislativo-2003-06-30-196.md",
           "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;196",
           "codice_redazionale": "003G0218",
-          "vigenza_date": "2026-02-20",
-          "articles": 322,
-          "zip_entry": "DECRETO LEGISLATIVO_20030630_196/2003-07-29_003G0218_VIGENZA_2026-03-03_V0.xml",
+          "vigenza_date": "2026-11-24",
+          "articles": 323,
+          "zip_entry": "DECRETO LEGISLATIVO_20030630_196/2003-07-29_003G0218_VIGENZA_2026-11-26_V0.xml",
           "warnings": [
             "skipped non-article attachment \"Allegato A.5 Codice di deontologia per i sistemi informativi-Allegato\"",
             "skipped non-article attachment \"Allegato A.6 Regole deontologiche-Allegato\"",
@@ -11635,6 +11635,18 @@
           "articles": 18,
           "zip_entry": "DECRETO LEGISLATIVO_20261008_194/2026-10-24_26G00210_ORIGINALE_V0.xml"
         },
+        "urn:nir:stato:decreto.legislativo:2026-11-02;208": {
+          "path": "Atti di recepimento direttive UE/stato-decreto.legislativo-2026-11-02-208.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-11-02;208",
+          "articles": 28,
+          "zip_entry": "DECRETO LEGISLATIVO_20261102_208/2026-11-14_26G00224_ORIGINALE_V0.xml"
+        },
+        "urn:nir:stato:decreto.legislativo:2026-11-06;211": {
+          "path": "Atti di recepimento direttive UE/stato-decreto.legislativo-2026-11-06-211.md",
+          "urn": "urn:nir:stato:decreto.legislativo:2026-11-06;211",
+          "articles": 4,
+          "zip_entry": "DECRETO LEGISLATIVO_20261106_211/2026-11-21_26G00231_ORIGINALE_V0.xml"
+        },
         "urn:nir:stato:decreto:1994-10-28;735": {
           "path": "Atti di recepimento direttive UE/stato-decreto-1994-10-28-735.md",
           "urn": "urn:nir:stato:decreto:1994-10-28;735",
@@ -12054,7 +12066,7 @@
       "collection": "Codici",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 40,
       "files": {
         "urn:nir:ministero.grazia.e.giustizia:decreto:1989-09-30;334": {
@@ -12671,7 +12683,7 @@
       "collection": "DL decaduti",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 1735,
       "files": {
         "urn:nir:stato:decreto.legge:1951-04-09;207": {
@@ -27087,7 +27099,7 @@
       "collection": "DL e leggi di conversione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 7447,
       "files": {
         "urn:nir:stato:legge:1895-08-04;470": {
@@ -116074,7 +116086,7 @@
       "collection": "DL proroghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 75,
       "files": {
         "urn:nir:stato:decreto.legge:1979-09-24;467": {
@@ -116695,7 +116707,7 @@
       "collection": "DPCM",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 363,
       "files": {
         "urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1987-04-08;227": {
@@ -119741,7 +119753,7 @@
       "collection": "DPR",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 47762,
       "files": {
         "urn:nir:ministero.tesoro:decreto.del.presidente.della.repubblica:1997-09-09;336": {
@@ -482939,7 +482951,7 @@
       "collection": "Decreti Legislativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 2938,
       "files": {
         "urn:nir:stato:decreto.legislativo:1947-03-27;1884": {
@@ -509543,7 +509555,7 @@
       "collection": "Decreti legislativi luogotenenziali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 1215,
       "files": {
         "urn:nir:stato:decreto.legislativo.luogotenenziale:1942-07-24;1879": {
@@ -519576,7 +519588,7 @@
       "collection": "Leggi contenenti deleghe",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 82,
       "files": {
         "urn:nir:stato:legge:1991-06-13;190": {
@@ -520220,7 +520232,7 @@
       "collection": "Leggi costituzionali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 50,
       "files": {
         "urn:nir:stato:legge.costituzionale:1947-02-21;1": {
@@ -520555,7 +520567,7 @@
       "collection": "Leggi delega e relativi provvedimenti delegati",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 1169,
       "files": {
         "urn:nir:stato:decreto.legislativo:1988-11-09;478": {
@@ -530561,7 +530573,7 @@
       "collection": "Leggi di delegazione europea",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 32,
       "files": {
         "urn:nir:stato:legge:1989-03-09;86": {
@@ -530932,7 +530944,7 @@
       "collection": "Leggi di ratifica",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 2337,
       "files": {
         "urn:nir:stato:legge:1923-06-24;1473": {
@@ -559149,7 +559161,7 @@
       "collection": "Leggi finanziarie e di bilancio",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 58,
       "files": {
         "urn:nir:stato:legge:1978-12-21;843": {
@@ -560123,7 +560135,7 @@
       "collection": "Regi decreti",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 91346,
       "files": {
         "urn:nir:stato:regio.decreto:1861-03-17;206": {
@@ -1286598,7 +1286610,7 @@
       "collection": "Regi decreti legislativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 120,
       "files": {
         "urn:nir:stato:regio.decreto.legislativo:1946-05-10;262": {
@@ -1287506,7 +1287518,7 @@
       "collection": "Regolamenti di delegificazione",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 376,
       "files": {
         "urn:nir:presidenza.repubblica:decreto.del.presidente.della.repubblica:1999-12-01;503": {
@@ -1290595,7 +1290607,7 @@
       "collection": "Regolamenti governativi",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 1944,
       "files": {
         "urn:nir:ministero.tesoro:decreto.del.presidente.della.repubblica:1997-09-09;336": {
@@ -1307729,7 +1307741,7 @@
       "collection": "Regolamenti ministeriali",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 2080,
       "files": {
         "urn:nir:agricoltura.alimentare.foreste.ministero.sovranita:decreto:2023-08-29;233": {
@@ -1325448,7 +1325460,7 @@
       "collection": "Testi Unici",
       "state": "V",
       "format": "AKN",
-      "zip_date": "2026-11-25",
+      "zip_date": "2026-11-26",
       "act_count": 257,
       "files": {
         "urn:nir:stato:decreto.del.presidente.della.repubblica:1948-02-05;26": {
